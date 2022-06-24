@@ -31,7 +31,7 @@ auto_formation-20000015,兼顧<color=#ff7f00>單點殺傷</color>和<color=#ff7f
 auto_formation-10000016,銜尾蛇基礎陣型
 auto_formation-20000016,利用暴擊帶來的特殊效果削弱敵方//c從而在技能持續期間內迅速的結束戰鬥。
 auto_formation-10000017,煉金術士基礎陣型
-auto_formation-20000017,根據敵方怪組靈活切換當前的戰鬥指令，在攻防兩端都可以發揮出色性能的<color=#ff7f00>近戰</color>編隊。
+auto_formation-20000017,根據敵方怪組靈活切換當前的戰鬥指令，在攻防兩端都可以發揮出色性能的編隊。
 auto_formation-10000018,夢想家基礎陣型
 auto_formation-20000018,在擁有較高<color=#ff7f00>泛用</color>性的前提下在特殊環境下也可以發揮極佳的表現，無論任何指令都擁有不錯的表現。
 auto_formation-10000019,計量官基礎陣型
@@ -44,3 +44,15 @@ auto_formation-10000022,艾德琳基礎陣型
 auto_formation-20000022,擅長<color=#ff7f00>應對低編制</color>的敵方陣容，同時有著<color=#ff7f00>支援</color>其他友方梯隊的能力，適用於對高威脅單體的攻堅戰鬥。
 auto_formation-10000023,埃莉諾基礎陣型
 auto_formation-20000023,特化<color=#ff7f00>近戰衝鋒</color>的編隊，在大部分敵人還未進入戰鬥狀態前就將其擊潰。
+auto_formation-10000024,建築師-NVW型基礎陣型
+auto_formation-20000024,具備強力<color=#ff7f00>群體擊破</color>能力的編隊，可以適用於大部分敵方陣型密集的戰鬥。
+auto_formation-10000025,干擾者-終幕魔女基礎陣型
+auto_formation-20000025,較高<color=#ff7f00>泛用</color>的梯隊，能夠應付高強度戰鬥的同時也有不俗的續航戰鬥能力。
+auto_formation-10000026,破壞者-浮掠麋影基礎陣型
+auto_formation-20000026,編入了能夠更好輔助Boss作戰的特種單位，對於不同戰鬥環境都有很強的適性。
+auto_formation-10000027,獵手-裳夜落蛾基礎陣型
+auto_formation-20000027,編入了能夠更好輔助Boss作戰的特種單位，對於部分高威脅的單位有著巨大的殺傷力。
+auto_formation-10000028,末日魔犬基礎陣型
+auto_formation-20000028,<color=#ff7f00>泛用性</color>不錯的梯隊，在大部分場合下都能有所發揮。
+auto_formation-10000029,埃莉諾-滄龍掠騎者基礎陣型
+auto_formation-20000029,編入了能夠更好輔助Boss作戰的特種單位，攻防兼具並且有著能夠迅速擊潰敵方後排的能力。
