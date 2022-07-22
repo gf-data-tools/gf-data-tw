@@ -40,3 +40,4 @@ sangvis_gasha-10000038,SP末路狂飆區
 sangvis_gasha-10000039,SPzh3000海戰平台
 sangvis_gasha-10000040,N7區底棲潮湧
 sangvis_gasha-10000041,SP5NANO分區
+sangvis_gasha-10000042,SPzh3000分區

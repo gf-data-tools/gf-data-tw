@@ -1334,28 +1334,14 @@ story_util-10000751,「面對強敵，即使明知不敵，也要毅然亮劍。
 story_util-20000751,塔納托斯的吻Ⅱ
 story_util-10000754,「在希望墜落時誕生的絕望，往往最為可口。」
 story_util-20000754,卡俄斯淵回Ⅱ
-story_util-10000756,
-story_util-20000756,與蛇纏鬥 Ⅰ-EX
-story_util-10000757,
-story_util-20000757,阿帕忒的誕生 Ⅱ-EX
-story_util-10000758,
-story_util-20000758,赫墨拉指向光明 Ⅱ-EX
 story_util-10000759,
 story_util-20000759,獅鷲之肩 Ⅱ-EX
-story_util-10000760,
-story_util-20000760,忒休斯之船 Ⅱ-EX
 story_util-10000761,
 story_util-20000761,引路人的線團 Ⅱ-EX
-story_util-10000762,
-story_util-20000762,克里特迷宮 Ⅱ-EX
 story_util-10000763,
 story_util-20000763,迪亞島夢境 Ⅱ-EX
 story_util-10000764,
 story_util-20000764,反逆莫伊萊 Ⅱ-EX
-story_util-10000765,
-story_util-20000765,拉克西絲之尺 Ⅱ-EX
-story_util-10000766,
-story_util-20000766,克洛托之線 Ⅱ-EX
 story_util-10000767,
 story_util-20000767,阿特洛波斯之剪 Ⅱ-EX
 story_util-10000768,
@@ -1364,8 +1350,6 @@ story_util-10000769,
 story_util-20000769,修普諾斯的眼 Ⅱ-EX
 story_util-10000770,
 story_util-20000770,塔納托斯的吻 Ⅱ-EX
-story_util-10000771,
-story_util-20000771,卡俄斯淵回 Ⅱ-EX
 story_util-10000667,「連陽光都覺得刺眼的人，或許更能接受從未見過陽光的生活。」
 story_util-20000667,飛矢不動Ⅱ
 story_util-10000669,「如果社會不從根部開始改變，問題就永遠得不到解決。」
@@ -1948,3 +1932,19 @@ story_util-10000987,
 story_util-20000987,雙倍贈禮
 story_util-10000988,
 story_util-20000988,更懂我的心
+story_util-10000989,
+story_util-20000989,萊肯·狩獸序章
+story_util-10000990,
+story_util-20000990,混沌中繼
+story_util-10000991,
+story_util-20000991,獵人巡地
+story_util-10000992,
+story_util-20000992,靶向陷阱
+story_util-10000993,
+story_util-20000993,薄暮迷宮
+story_util-10000994,
+story_util-20000994,巫女營帳
+story_util-10000995,
+story_util-20000995,心魔池沼
+story_util-10000996,
+story_util-20000996,烽火連台

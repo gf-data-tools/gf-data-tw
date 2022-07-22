@@ -64,6 +64,8 @@ enemy_illustration_skill-10000030,坦克普攻
 enemy_illustration_skill-20000030,攻擊最前排的我方單位
 enemy_illustration_skill-10000031,槍騎兵
 enemy_illustration_skill-20000031,發射榴彈//c對最前排的我方單位造成傷害。
+enemy_illustration_skill-10000166,先知
+enemy_illustration_skill-20000166,擁有獨特的高壓槍普攻//c鎖定我方最前排單位//c對其造成可以攻擊到整個橫排的貫穿傷害。
 enemy_illustration_skill-10000032,衝撞
 enemy_illustration_skill-20000032,在預警後衝撞面前的我方單位//c對一橫排的預警範圍造成傷害
 enemy_illustration_skill-10000034,咆哮打擊

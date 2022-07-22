@@ -244,3 +244,5 @@ mission_effect_config-19999999,【標記】通用打斷循環音效
 mission_effect_config-29999999,【標記】通用打斷循環音效
 mission_effect_config-11000101,巧克力機啟動
 mission_effect_config-21000101,巧克力機啟動
+mission_effect_config-11000102,煙火
+mission_effect_config-21000102,煙火

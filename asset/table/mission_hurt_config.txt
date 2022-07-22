@@ -49,3 +49,9 @@ mission_hurt_config-16510002,【標記】大炮80%當前傷害
 mission_hurt_config-16510003,【標記】大炮100%當前傷害
 mission_hurt_config-16510004,【標記】敵方炮擊
 mission_hurt_config-16510005,【標記】塑膠炸彈爆炸傷害
+mission_hurt_config-10520801,【標記】塔防一般傷害
+mission_hurt_config-10520811,【標記】塔防破甲傷害
+mission_hurt_config-10520812,【標記】塔防破甲傷害
+mission_hurt_config-10520813,【標記】塔防破甲傷害
+mission_hurt_config-10520814,【標記】塔防破甲傷害
+mission_hurt_config-10520815,【標記】塔防破甲傷害

@@ -106,3 +106,4 @@ extra_spine-10003092,聖誕麋鹿
 extra_spine-10003093,搖旗鐵血狗*
 extra_spine-10003094,服務員鐵血狗*
 extra_spine-10003095,網球格琳娜*
+extra_spine-10003096,冰淇淋鐵血狗*

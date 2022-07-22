@@ -17,21 +17,21 @@
         "id": 1002,
         "parent_id": 1000,
         "sort": 2,
-        "name": "勳章兌換",
+        "name": "萊肯禁獵區\n勳章兌換",
         "description": ""
     },
     {
         "id": 1003,
         "parent_id": 1000,
         "sort": 3,
-        "name": "勳章兌換",
+        "name": "捩浪人\n勳章兌換",
         "description": ""
     },
     {
         "id": 1004,
         "parent_id": 1000,
         "sort": 4,
-        "name": "代幣兌換",
+        "name": "捩浪人\n代幣兌換",
         "description": ""
     },
     {
@@ -45,7 +45,7 @@
         "id": 1006,
         "parent_id": 1000,
         "sort": 6,
-        "name": "a",
+        "name": "萊肯禁獵區\n代幣兌換",
         "description": ""
     },
     {
