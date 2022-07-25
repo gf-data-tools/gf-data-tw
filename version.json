@@ -1,13 +1,6 @@
 {
-    "now": "1658480967",
-    "tomorrow_zero": "1658505600",
-    "month_zero": 1656604800,
-    "next_month_zero": 1659283200,
-    "timezone": "Asia/Shanghai",
     "data_version": "de6935b5eb97c385f273a9de845767e1",
     "client_version": "20899",
     "ab_version": "0",
-    "is_kick": "0",
-    "weekday": 5,
-    "authentication_url": "http://realauth.ucenter.ppgame.com/authoriz.html?appid={0}&openid={1}&accounttype=1&language=zh"
+    "dabao_time": "20220722_12_2923B49E338E1465887CB6FCCD7E765958"
 }
