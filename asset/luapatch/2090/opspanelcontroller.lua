@@ -800,7 +800,8 @@ function  ShowVotoResult()
 		txtName1.text = guninfo.name;
 		local good = voteList[i][1];
 		local bad = voteList[i][2];
-
+		local txtRole1 = item:Find("Text_Role"):GetComponent(typeof(CS.ExText));
+		txtRole1.text = CS.Data.GetLang(voteList[i][10]);
 		local imageRole1 = item:Find("Img_Role"):GetComponent(typeof(CS.ExImage));
 		imageRole1.sprite = spriteholder.listSprite[voteList[i][11]];
 		local txtTotal =item:Find("Text_TotalVotesNum"):GetComponent(typeof(CS.ExText));
