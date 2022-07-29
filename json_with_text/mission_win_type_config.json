@@ -1724,8 +1724,8 @@
         "type": 1407,
         "arguments": "6440064:1",
         "extra_language": "丹德萊存活",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 490101,
@@ -2180,8 +2180,8 @@
         "type": 1407,
         "arguments": "410302:1",
         "extra_language": "【幽靈姐妹II】靠近接觸地圖邊緣的鐵血兵蟻",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1051220,
@@ -2340,8 +2340,8 @@
         "type": 1101,
         "arguments": "91984",
         "extra_language": "探索其他區域（結束回合時結算）\n<color=#FF4646>·當前戰役無法完成，請先完成第一個任務目標</color>",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1051602,
@@ -2660,8 +2660,8 @@
         "type": 1407,
         "arguments": "9411871:1",
         "extra_language": "【鬥獸棋】蒐集更多關於銜尾蛇的資料\n<color=#FFFF00>·意外發現的小房間或許會有線索</color>\n<color=#FFFF00>·攜帶資料的梯隊在指揮部待機即可交付任務（需待機2回合）</color>",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1051813,
@@ -2924,8 +2924,8 @@
         "type": 1407,
         "arguments": "440302:1",
         "extra_language": "接近瑪赫蓮",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1063402,
@@ -2948,32 +2948,32 @@
         "type": 1407,
         "arguments": "440511:16",
         "extra_language": "將所有印記翻至G面(每次操作可以將自身周圍的4個印記翻面，不會翻轉自身所在點上的印記)",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1063701,
         "type": 1407,
         "arguments": "440611:1",
         "extra_language": "搜索東南方疑似酒吧的地方(雷達點)",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1063702,
         "type": 1407,
         "arguments": "440612:1",
         "extra_language": "搜索東北方疑似酒吧的地方(雷達點)",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1063703,
         "type": 1407,
         "arguments": "440613:1",
         "extra_language": "搜索西北方疑似酒吧的地方(雷達點)",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1063704,
@@ -2981,23 +2981,23 @@
         "arguments": "440614:1",
         "extra_language": "未知勝利目標",
         "is_hidden": 1,
-        "is_show_count": "1"
+        "is_show_count": "0"
     },
     {
         "id": 1063901,
         "type": 1406,
         "arguments": "440800:0",
         "extra_language": "讀取4個記憶碎片",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1064001,
         "type": 1407,
         "arguments": "440900:1",
         "extra_language": "探索瑪赫蓮的虛識圖景，進入更深層的位置，讀取最後的記憶碎片",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1064101,
@@ -3124,8 +3124,8 @@
         "type": 1407,
         "arguments": "440511:36",
         "extra_language": "將所有印記翻至G面(每次操作可以將自身周圍的4個印記翻面，不會翻轉自身所在點上的印記)",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1065701,
@@ -3172,8 +3172,8 @@
         "type": 1406,
         "arguments": "6440052:0",
         "extra_language": "清除隔離墻內敵人\n(此框如果顯示<color=#FF0818>·X</color>表示墻內還存在敵人）",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1065903,
@@ -3428,8 +3428,8 @@
         "type": 1407,
         "arguments": "44540003:1",
         "extra_language": "尋找爆破材料，引爆倉庫。\n·搜尋並拾取棄置歌利亞，放置於控制台處，下回合後引爆。",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1076501,
