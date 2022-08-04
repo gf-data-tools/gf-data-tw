@@ -429,7 +429,7 @@
         "name": "格琳娜-夏夜攝夢",
         "extra": 0,
         "fit_gun": -1,
-        "ai": 5001,
+        "ai": 5002,
         "voice": 4,
         "is_hidden": 0,
         "substitute_voice": "",
@@ -10657,5 +10657,22 @@
         "illustrator_cv": "",
         "order": 88,
         "class_id": 77
+    },
+    {
+        "id": 7408,
+        "name": "TS12-獻給星河的花束",
+        "extra": 0,
+        "fit_gun": 321,
+        "ai": 0,
+        "voice": 0,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "真的有人遙望夜空只是為了找尋屬於自己的那朵花嗎？畢竟花這麽嬌弱的玩意兒，沒人保護啥也不是！我？我才不會為這種東西的枯萎而難過呢……",
+        "note": "",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "",
+        "order": 89,
+        "class_id": 0
     }
 ]

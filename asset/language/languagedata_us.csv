@@ -4325,7 +4325,7 @@ FAIRY,130033,Combat Fairy AUTO,,0
 FAIRY,130034,Activate,,0
 FAIRY,130035,On CD,,0
 FAIRY,130036,Command Cost,,0
-FAIRY,130037,Congratulations! Fairy stars have increased to <color=#ffb400ff>{0}</color>//nTalent activation rate has increased to <color=#ffb400ff>{1}</color>//nOverall stats have increased!,,0
+FAIRY,130037,恭喜！妖精星级提升至<color=#ffb400ff>{0}</color>//n天赋效果强化//n属性加成全面提升！(todo),,0
 FAIRY,130038,Support Fairy rank up!,,0
 FAIRY,130039,Level up to <color=#F5AD00FF>{0}</color> to unlock the next star rank.,,0
 FAIRY,130040,This Fairy has reached maximum enhancement,,0

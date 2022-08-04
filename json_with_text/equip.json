@@ -15608,7 +15608,7 @@
     {
         "id": 292,
         "name": "後座緩衝套件",
-        "description": "傷害+<pow>\n命中+<hit>技能增強$塞伽12型專用",
+        "description": "傷害+<pow>\n命中+<hit>技能增強$Saiga-12專用",
         "rank": 5,
         "category": 1,
         "type": 18,
@@ -15643,7 +15643,7 @@
         "company": "PT",
         "skill_level_up": 0,
         "fit_guns": "160",
-        "equip_introduction": "PT社專為塞伽12型開發的特殊後座緩衝系統，據使用者所說能消除40%-50%的後坐力。",
+        "equip_introduction": "PT社專為Saiga-12開發的特殊後座緩衝系統，據使用者所說能消除40%-50%的後坐力。",
         "powerup_mp": 0.45,
         "powerup_ammo": 0.15,
         "powerup_mre": 0.3,
