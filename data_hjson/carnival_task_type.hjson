@@ -1,0 +1,912 @@
+[
+  {
+    id: 1
+    type: cumulative_login
+    title: 累計登入
+    content: 累計登入{0}天
+    function_control_id: 0
+  }
+  {
+    id: 2
+    type: friend_praise
+    title: 友誼的小船
+    content: 活動期間累計被點讚{0}次
+    function_control_id: 0
+  }
+  {
+    id: 3
+    type: consume_iop_contract
+    title: 人形製造
+    content: 累計消耗人形製造契約*{0}
+    function_control_id: 0
+  }
+  {
+    id: 4
+    type: consume_coin1
+    title: 訓練資料
+    content: 消耗初級訓練資料*{0}
+    function_control_id: 0
+  }
+  {
+    id: 5
+    type: consume_coin2
+    title: 訓練資料
+    content: 消耗中級訓練資料*{0}
+    function_control_id: 0
+  }
+  {
+    id: 6
+    type: consume_coin3
+    title: 訓練資料
+    content: 消耗高級訓練資料*{0}
+    function_control_id: 0
+  }
+  {
+    id: 7
+    type: consume_fight_report
+    title: 作戰報告書
+    content: 消耗作戰報告書*{0}
+    function_control_id: 0
+  }
+  {
+    id: 8
+    type: develop_gun_rank4
+    title: 血統驗證
+    content: 累計造出4星人形*{0}
+    function_control_id: 0
+  }
+  {
+    id: 9
+    type: develop_gun_rank5
+    title: 血統驗證
+    content: 累計造出5星人形*{0}
+    function_control_id: 0
+  }
+  {
+    id: 10
+    type: get_build_coin
+    title: 收集電池
+    content: 累計獲得電池*{0}
+    function_control_id: 0
+  }
+  {
+    id: 11
+    type: mission_win
+    title: 戰役關卡
+    content: 戰役勝利情況下挑戰任意戰役關卡{0}次（自律除外）
+    function_control_id: 0
+  }
+  {
+    id: 12
+    type: upgrade
+    title: 技能升級
+    content: 累計升級人形/妖精技能{0}次
+    function_control_id: 0
+  }
+  {
+    id: 13
+    type: borrow_friend_team
+    title: 支援梯隊
+    content: 累計部署支援梯隊次數*{0}
+    function_control_id: 0
+  }
+  {
+    id: 14
+    type: operation_duration
+    title: 後勤支援
+    content: 後勤支援累計完成{0}小時
+    function_control_id: 0
+  }
+  {
+    id: 15
+    type: collect_gun
+    title: 救援人形
+    content: 在任意關卡或戰鬥中累計救援任意人形{0}個（自律除外）
+    function_control_id: 0
+  }
+  {
+    id: 16
+    type: consume_furniture_coin
+    title: 限時採購
+    content: 累計消耗採購幣*{0}
+    function_control_id: 0
+  }
+  {
+    id: 17
+    type: fix_gun
+    title: 修復工作
+    content: 累計修復人形或融合勢力單位{0}次
+    function_control_id: 0
+  }
+  {
+    id: 18
+    type: consume_bp
+    title: 動能消耗（包含超導動能）
+    content: 累計消耗動能*{0}
+    function_control_id: 0
+  }
+  {
+    id: 19
+    type: consume_voucher
+    title: 校准點券
+    content: 累計消耗校准點券*{0}
+    function_control_id: 0
+  }
+  {
+    id: 20
+    type: upvote
+    title: 點讚使者
+    content: 活動期間累計點讚{0}次
+    function_control_id: 0
+  }
+  {
+    id: 21
+    type: consume_ammo
+    title: 彈藥消耗
+    content: 累計消耗彈藥*{0}
+    function_control_id: 0
+  }
+  {
+    id: 22
+    type: mission_common_win
+    title: 普通戰役挑戰
+    content: 戰鬥勝利情況下挑戰普通戰役{0}次
+    function_control_id: 0
+  }
+  {
+    id: 23
+    type: mission_emergent_win
+    title: 緊急戰役挑戰
+    content: 戰鬥勝利情況下挑戰緊急戰役{0}次
+    function_control_id: 0
+  }
+  {
+    id: 24
+    type: mission_night_win
+    title: 夜戰關卡
+    content: 戰役勝利情況下挑戰夜戰戰役關卡{0}次
+    function_control_id: 0
+  }
+  {
+    id: 25
+    type: s_win
+    title: S勝挑戰
+    content: 以S評價完成{0}場戰鬥
+    function_control_id: 0
+  }
+  {
+    id: 26
+    type: operation
+    title: 後勤支援
+    content: 後勤支援累計完成{0}次
+    function_control_id: 0
+  }
+  {
+    id: 27
+    type: mission_duplicate_type1
+    title: 經驗特訓
+    content: 模擬作戰-經驗特訓累計{0}次
+    function_control_id: 0
+  }
+  {
+    id: 28
+    type: mission_duplicate_type2
+    title: 強化練習
+    content: 模擬作戰-強化練習累計{0}次
+    function_control_id: 0
+  }
+  {
+    id: 29
+    type: mission_duplicate_type3
+    title: 資源採樣
+    content: 模擬作戰-資源採樣累計{0}次
+    function_control_id: 0
+  }
+  {
+    id: 30
+    type: gun_level_up_count
+    title: 人形升級
+    content: 人形升級{0}次
+    function_control_id: 0
+  }
+  {
+    id: 31
+    type: eat_gun
+    title: 人形強化
+    content: 人形強化{0}次
+    function_control_id: 0
+  }
+  {
+    id: 32
+    type: favor_up
+    title: 好感度
+    content: 好感度上升{0}點
+    function_control_id: 0
+  }
+  {
+    id: 33
+    type: soul_bond_gun
+    title: 誓約次數
+    content: 締結誓約{0}次
+    function_control_id: 0
+  }
+  {
+    id: 34
+    type: develop_gun
+    title: 人形製造次數
+    content: 人形製造{0}次
+    function_control_id: 0
+  }
+  {
+    id: 35
+    type: develop_equip
+    title: 裝備製造
+    content: 累計進行裝備普通製造{0}次
+    function_control_id: 0
+  }
+  {
+    id: 36
+    type: develop_equip_rank4
+    title: 血統驗證_裝備
+    content: 累計造出4星裝備*{0}
+    function_control_id: 0
+  }
+  {
+    id: 37
+    type: develop_equip_rank5
+    title: 血統驗證_裝備
+    content: 累計造出5星裝備*{0}
+    function_control_id: 0
+  }
+  {
+    id: 38
+    type: consume_mp
+    title: 人力消耗
+    content: 累計消耗人力*{0}
+    function_control_id: 0
+  }
+  {
+    id: 39
+    type: consume_mre
+    title: 口糧消耗
+    content: 累計消耗口糧*{0}
+    function_control_id: 0
+  }
+  {
+    id: 40
+    type: consume_part
+    title: 零件消耗
+    content: 累計消耗零件*{0}
+    function_control_id: 0
+  }
+  {
+    id: 41
+    type: buy_bp_count
+    title: 體力購買
+    content: 累計購買體力{0}次
+    function_control_id: 0
+  }
+  {
+    id: 42
+    type: consume_core
+    title: 核心消耗
+    content: 核心消耗*{0}
+    function_control_id: 0
+  }
+  {
+    id: 43
+    type: consume_exchange_coin
+    title: 兌換券消耗
+    content: 兌換券消耗*{0}
+    function_control_id: 0
+  }
+  {
+    id: 44
+    type: consume_skin_exchange
+    title: 黑卡消耗
+    content: 黑卡消耗*{0}
+    function_control_id: 0
+  }
+  {
+    id: 45
+    type: open_gift
+    title: 禮物贈送
+    content: 累計贈送禮物*{0}
+    function_control_id: 0
+  }
+  {
+    id: 46
+    type: gasha_count
+    title: 採購次數
+    content: 採購次數*{0}（10連抽算11次）
+    function_control_id: 0
+  }
+  {
+    id: 47
+    type: consume_capsule
+    title: 增幅膠囊
+    content: 累計消耗增幅膠囊*{0}
+    function_control_id: 0
+  }
+  {
+    id: 48
+    type: consume_quick_training
+    title: 快速訓練契約
+    content: 消耗快速訓練契約*{0}
+    function_control_id: 0
+  }
+  {
+    id: 49
+    type: consume_quick_reinforce
+    title: 快速修復契約
+    content: 消耗快速修復契約*{0}
+    function_control_id: 0
+  }
+  {
+    id: 50
+    type: consume_gem
+    title: 鑽石消耗
+    content: 鑽石消耗*{0}
+    function_control_id: 0
+  }
+  {
+    id: 51
+    type: cumulative_recharge_amount
+    title: 累計儲值額度
+    content: 累計儲值￥{0}
+    function_control_id: 0
+  }
+  {
+    id: 52
+    type: cumulative_recharge_days
+    title: 累計儲值天數
+    content: 累計儲值{0}天（任意儲值額度，一天內有過儲值行為記為1天，不論儲值次數）
+    function_control_id: 0
+  }
+  {
+    id: 53
+    type: special_develop_gun
+    title: 重型製造
+    content: 累計重型製造{0}次
+    function_control_id: 0
+  }
+  {
+    id: 54
+    type: adjust_equip
+    title: 裝備校驗
+    content: ""
+    function_control_id: 0
+  }
+  {
+    id: 55
+    type: trial_mission
+    title: 防禦演習
+    content: ""
+    function_control_id: 0
+  }
+  {
+    id: 56
+    type: win_hunter
+    title: ""
+    content: 戰鬥勝利情況下累計消滅鐵血BOSS獵手*{0}
+    function_control_id: 0
+  }
+  {
+    id: 57
+    type: win_executioner
+    title: ""
+    content: 戰鬥勝利情況下累計消滅鐵血BOSS劊子手*{0}
+    function_control_id: 0
+  }
+  {
+    id: 58
+    type: win_architect
+    title: ""
+    content: 戰鬥勝利情況下累計消滅鐵血BOSS建築師 *{0}
+    function_control_id: 0
+  }
+  {
+    id: 59
+    type: win_ouroboros
+    title: ""
+    content: 戰鬥勝利情況下累計消滅鐵血BOSS銜尾蛇*{0}
+    function_control_id: 0
+  }
+  {
+    id: 60
+    type: get_friend_points
+    title: ""
+    content: 活動期間，獲得友情點數*{0}
+    function_control_id: 0
+  }
+  {
+    id: 61
+    type: consume_friend_points
+    title: ""
+    content: 活動期間，消耗友情點數*{0}
+    function_control_id: 0
+  }
+  {
+    id: 62
+    type: consume_build_coin
+    title: ""
+    content: 活動期間，消耗建設資料*{0}
+    function_control_id: 0
+  }
+  {
+    id: 63
+    type: win_jammer
+    title: 通緝令
+    content: 戰鬥勝利情況下累計消滅鐵血BOSS干擾者*{0}
+    function_control_id: 0
+  }
+  {
+    id: 64
+    type: win_destroyer
+    title: 通緝令
+    content: 戰鬥勝利情況下累計消滅鐵血BOSS破壞者*{0}
+    function_control_id: 0
+  }
+  {
+    id: 65
+    type: win_alchemist
+    title: 通緝令
+    content: 戰鬥勝利情況下累計消滅鐵血BOSS煉金術士*{0}
+    function_control_id: 0
+  }
+  {
+    id: 66
+    type: consume_quick_develop
+    title: ""
+    content: 累計消耗快速製造契約{0}
+    function_control_id: 0
+  }
+  {
+    id: 67
+    type: operation_big_success
+    title: 後勤大成功
+    content: 累計後勤大成功{0}次
+    function_control_id: 0
+  }
+  {
+    id: 68
+    type: mystery_mission_1
+    title: 特殊作戰
+    content: 戰役勝利情況下挑戰關卡「測試關卡E」{0}次
+    function_control_id: 0
+  }
+  {
+    id: 69
+    type: mystery_mission_2
+    title: 特殊作戰
+    content: 戰役勝利情況下挑戰關卡「測試關卡F」{0}次
+    function_control_id: 0
+  }
+  {
+    id: 70
+    type: mystery_mission_3
+    title: 特殊作戰
+    content: 戰役勝利情況下挑戰關卡「測試關卡G」{0}次
+    function_control_id: 0
+  }
+  {
+    id: 71
+    type: mystery_mission_4
+    title: 特殊作戰
+    content: 戰役勝利情況下挑戰關卡「測試關卡H」{0}次
+    function_control_id: 0
+  }
+  {
+    id: 72
+    type: mystery_mission_5
+    title: 特殊作戰
+    content: 戰役勝利情況下挑戰關卡「測試關卡I」{0}次
+    function_control_id: 0
+  }
+  {
+    id: 73
+    type: mystery_mission_6
+    title: 特殊作戰
+    content: 戰役勝利情況下挑戰關卡「測試關卡J」{0}次
+    function_control_id: 0
+  }
+  {
+    id: 74
+    type: mystery_mission_7
+    title: 特殊作戰
+    content: 戰役勝利情況下挑戰關卡「測試關卡K」{0}次
+    function_control_id: 0
+  }
+  {
+    id: 75
+    type: mystery_mission_8
+    title: 特殊作戰
+    content: 戰役勝利情況下挑戰關卡「測試關卡L」{0}次
+    function_control_id: 0
+  }
+  {
+    id: 76
+    type: mystery_mission_9
+    title: 特殊作戰
+    content: 戰役勝利情況下挑戰關卡「測試關卡M」{0}次
+    function_control_id: 0
+  }
+  {
+    id: 77
+    type: mystery_mission_10
+    title: 特殊作戰
+    content: 戰役勝利情況下挑戰關卡「測試關卡N」{0}次
+    function_control_id: 0
+  }
+  {
+    id: 78
+    type: special_develop_equip
+    title: ""
+    content: 裝備重型建造
+    function_control_id: 0
+  }
+  {
+    id: 79
+    type: mission_activities_win
+    title: ""
+    content: 活動關卡或普通關卡挑戰
+    function_control_id: 0
+  }
+  {
+    id: 80
+    type: mind_update
+    title: ""
+    content: 進行{0}次心智升級
+    function_control_id: 0
+  }
+  {
+    id: 81
+    type: reset_mission_group
+    title: ""
+    content: 重置{0}次活動關卡
+    function_control_id: 0
+  }
+  {
+    id: 82
+    type: special_mission_point
+    title: ""
+    content: 兔洞達到{0}分
+    function_control_id: 0
+  }
+  {
+    id: 83
+    type: coffeeshop_comic
+    title: ""
+    content: 購買{0}次漫畫
+    function_control_id: 0
+  }
+  {
+    id: 84
+    type: coffeeshop_pv
+    title: ""
+    content: 購買{0}次PV
+    function_control_id: 0
+  }
+  {
+    id: 85
+    type: mission_duplicate_type5
+    title: ""
+    content: 參與雲圖迴廊{0}次（任意難度）
+    function_control_id: 0
+  }
+  {
+    id: 86
+    type: develop_fairy
+    title: ""
+    content: 獲得戰術妖精{0}
+    function_control_id: 0
+  }
+  {
+    id: 87
+    type: special_develop
+    title: ""
+    content: 重型建造{0}
+    function_control_id: 0
+  }
+  {
+    id: 88
+    type: squad_base_data_analyse
+    title: 情報解析
+    content: 使用原始數據樣本進行{0}次情報解析
+    function_control_id: 0
+  }
+  {
+    id: 89
+    type: squad_senior_data_analyse
+    title: 情報解析
+    content: 使用純淨數據樣本進行{0}次情報解析
+    function_control_id: 0
+  }
+  {
+    id: 90
+    type: squad_data_analyse
+    title: 情報解析
+    content: 累計進行{0}次情報解析（原始/高級皆可）
+    function_control_id: 0
+  }
+  {
+    id: 91
+    type: squad_data_by_analyse
+    title: 中樞數據
+    content: 通過情報解析獲得中樞數據*{0}
+    function_control_id: 0
+  }
+  {
+    id: 92
+    type: squad_chip_rank4_by_analyse
+    title: 血統驗證
+    content: 通過情報解析獲得4星芯片*{0}
+    function_control_id: 0
+  }
+  {
+    id: 93
+    type: squad_chip_rank5_by_analyse
+    title: 血統驗證
+    content: 通過情報解析獲得5星芯片*{0}
+    function_control_id: 0
+  }
+  {
+    id: 94
+    type: squad_level_up_times
+    title: 重裝等級提升
+    content: 重裝部隊累計提升{0}級
+    function_control_id: 0
+  }
+  {
+    id: 95
+    type: squad_strengthen_times
+    title: 重裝部隊強化
+    content: 使用{0}個增幅膠囊強化重裝部隊
+    function_control_id: 0
+  }
+  {
+    id: 96
+    type: squad_train_and_skill_times
+    title: 重裝部隊訓練
+    content: 重裝部隊完成{0}次訓練（經驗/技能皆可）
+    function_control_id: 0
+  }
+  {
+    id: 97
+    type: squad_up_rank
+    title: 重裝部隊晉升
+    content: 重裝部隊晉升{0}次
+    function_control_id: 0
+  }
+  {
+    id: 98
+    type: squad_up_advanced_times
+    title: 重裝部隊迭代
+    content: 累計進行{0}次迭代
+    function_control_id: 0
+  }
+  {
+    id: 99
+    type: squad_eat_chip_num
+    title: 芯片強化
+    content: 將{0}個芯片用於芯片強化
+    function_control_id: 0
+  }
+  {
+    id: 100
+    type: combine_gun
+    title: 人形擴編
+    content: 人形擴編{0}次
+    function_control_id: 0
+  }
+  {
+    id: 101
+    type: win_armorrobot
+    title: 裝甲機械鐵血兵
+    content: 戰鬥勝利情況下消滅{0}個裝甲機械鐵血兵
+    function_control_id: 0
+  }
+  {
+    id: 102
+    type: win_robot
+    title: 普通機械鐵血兵
+    content: 戰鬥勝利情況下消滅{0}個普通機械鐵血兵
+    function_control_id: 0
+  }
+  {
+    id: 103
+    type: win_person
+    title: 普通人形鐵血兵
+    content: 戰鬥勝利情況下消滅{0}個普通人形鐵血兵
+    function_control_id: 0
+  }
+  {
+    id: 104
+    type: win_boss
+    title: 消滅BOSS
+    content: 戰鬥勝利情況下消滅{0}個BOSS
+    function_control_id: 0
+  }
+  {
+    id: 105
+    type: from_friend_build_coin
+    title: 電池領取
+    content: 累計領取好友宿舍電池{0}次
+    function_control_id: 0
+  }
+  {
+    id: 106
+    type: finish_squad_daily_task
+    title: 完成情報任務
+    content: 完成{0}次情報任務
+    function_control_id: 0
+  }
+  {
+    id: 107
+    type: consume_quick_analyse
+    title: 消耗快速解析契約
+    content: 累計消耗快速解析契約*{0}
+    function_control_id: 0
+  }
+  {
+    id: 108
+    type: get_squad_fragment_type1
+    title: 血統驗證_BGM-71
+    content: 累計獲得{0}個反坦克武器中樞碎片
+    function_control_id: 0
+  }
+  {
+    id: 109
+    type: get_squad_fragment_type2
+    title: 血統驗證_2B14
+    content: 累計獲得{0}個迫擊炮中樞碎片
+    function_control_id: 0
+  }
+  {
+    id: 110
+    type: get_squad_fragment_type3
+    title: 血統驗證_AGS-30
+    content: 累計獲得{0}個榴彈發射器中樞碎片
+    function_control_id: 0
+  }
+  {
+    id: 111
+    type: get_base_data
+    title: 獲取原始數據樣本
+    content: 累計獲得{0}個原始數據樣本
+    function_control_id: 0
+  }
+  {
+    id: 112
+    type: get_senior_data
+    title: 獲取純淨數據樣本
+    content: 累計獲得{0}個純淨數據樣本
+    function_control_id: 0
+  }
+  {
+    id: 113
+    type: get_fight_report
+    title: 生產任意作戰報告書
+    content: 累計生產任意作戰報告書*{0}（包括作戰報告書和特種作戰報告書）
+    function_control_id: 0
+  }
+  {
+    id: 114
+    type: explore_has_time
+    title: 完成探索
+    content: 累計完成{0}個小時探索
+    function_control_id: 0
+  }
+  {
+    id: 115
+    type: buy_commander_uniform
+    title: 指揮官服裝購買
+    content: 累計購買{0}件指揮官服裝
+    function_control_id: 0
+  }
+  {
+    id: 116
+    type: get_commander_uniform
+    title: 指揮官服裝獲得
+    content: 累計獲得{0}件指揮官服裝
+    function_control_id: 0
+  }
+  {
+    id: 117
+    type: buy_random_dye
+    title: 隨機染色劑
+    content: 累計購買{0}個隨機染色劑
+    function_control_id: 0
+  }
+  {
+    id: 118
+    type: buy_assign_dye
+    title: 指定染色劑
+    content: 累計購買{0}個指定染色劑
+    function_control_id: 0
+  }
+  {
+    id: 119
+    type: use_dye
+    title: 使用染色劑
+    content: 累計使用{0}個染色劑
+    function_control_id: 0
+  }
+  {
+    id: 120
+    type: sangvis_daily_retrieval
+    title: 常規捕獲
+    content: 累計完成收歸行動-常規捕獲{0}次
+    function_control_id: 0
+  }
+  {
+    id: 121
+    type: sangvis_aided_retrieval
+    title: 委託捕獲
+    content: 累計完成收歸行動-委託捕獲{0}次
+    function_control_id: 0
+  }
+  {
+    id: 122
+    type: sangvis_exercise
+    title: 融合演習
+    content: 累計完成模擬作戰-融合演習{0}次
+    function_control_id: 0
+  }
+  {
+    id: 123
+    type: sangvis_exercise_exp
+    title: 防衛構思集訓
+    content: 累計完成融合演習-防衛構思集訓{0}次
+    function_control_id: 0
+  }
+  {
+    id: 124
+    type: sangvis_exercise_star
+    title: 開發調節操練
+    content: 累計完成融合演習-開發調節操練{0}次
+    function_control_id: 0
+  }
+  {
+    id: 125
+    type: sangvis_exercise_analysis
+    title: 解密算法練習
+    content: 累計完成融合演習-解密算法練習{0}次
+    function_control_id: 0
+  }
+  {
+    id: 126
+    type: consume_sangvis_exp_item
+    title: 突擊成長
+    content: 累計消耗突擊成長儲存碟{0}個
+    function_control_id: 0
+  }
+  {
+    id: 127
+    type: consume_sangvis_advance_item
+    title: 開發培養
+    content: 累計消耗開發培養皿{0}個
+    function_control_id: 0
+  }
+  {
+    id: 128
+    type: consume_sangvis_skill_coin1
+    title: 訓練密鑰
+    content: 累計消耗初級訓練密鑰{0}個
+    function_control_id: 0
+  }
+  {
+    id: 129
+    type: consume_sangvis_skill_coin2
+    title: 訓練密鑰
+    content: 累計消耗高級訓練密鑰{0}個
+    function_control_id: 0
+  }
+  {
+    id: 130
+    type: consume_sangvis_material1_coin
+    title: 勢能消耗（包括超導勢能）
+    content: 累計消耗勢能{0}個
+    function_control_id: 0
+  }
+]

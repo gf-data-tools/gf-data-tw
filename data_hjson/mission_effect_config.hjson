@@ -1,0 +1,2110 @@
+[
+  {
+    id: 1
+    name: 地雷出現
+    code: dilei_chuxian
+    description: 地雷
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.8
+    sound: bb_noel_nachujiguanqiang
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 2
+    name: 地雷待機
+    code: dilei_daiji
+    description: 地雷
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 0.8
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 3
+    name: 地雷爆炸
+    code: dilei_baoza
+    description: 爆炸
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.8
+    sound: BT_grenade_explode
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 4
+    name: 導彈
+    code: BulletMove
+    description: 導彈
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_MissileExplo
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 5
+    name: 堡壘出現
+    code: Gsyaojing_buzhi
+    description: 堡壘
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: bb_noel_nachujiguanqiang
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 6
+    name: 堡壘待機
+    code: GSyaojing_daiji
+    description: 堡壘待機
+    priority: 8
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 7
+    name: 導彈槽
+    code: daodanchao
+    description: 導彈槽
+    priority: 9
+    duration: 0.0
+    delay: 0.0
+    size: 0.6
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 8
+    name: 導彈槽_待機
+    code: daodanchao_daiji
+    description: 導彈槽
+    priority: 7
+    duration: 0.0
+    delay: 0.0
+    size: 0.6
+    sound: bb_noel_nachujiguanqiang
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1002
+    name: 耀夜姬特效
+    code: ui_glass
+    description: 鏡面
+    priority: 0
+    duration: 2.0
+    delay: 1.0
+    size: 1.5
+    sound: "0"
+    spine: 0
+    if_starting: 1
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1003
+    name: 耀夜姬爆炸
+    code: dilei_baoza
+    description: 爆炸
+    priority: 0
+    duration: 1.0
+    delay: 1.6
+    size: 0.8
+    sound: BT_grenade_explode
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1004
+    name: 花瓣出現
+    code: DJmax_huaban
+    description: 花瓣
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1005
+    name: 桃子特效
+    code: 2019_DH_YJ_xiangrui_1
+    description: 桃子特效
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1006
+    name: 桃子拾取特效
+    code: 2019_DH_YJ_xiangrui_3
+    description: 桃子特效
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1007
+    name: 莫比烏斯特效
+    code: dzrq_zhengti
+    description: 莫比烏斯特效
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1008
+    name: 藍光圈常駐
+    code: chuansong_01xh
+    description: 藍光圈常駐
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 0.3
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "90,30"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1009
+    name: 藍光圈吸入
+    code: chuansong_01
+    description: 藍光圈吸入
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 0.3
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "60,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1010
+    name: 藍光圈吐出
+    code: chuansong_01_02
+    description: 藍光圈吐出
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 0.3
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "60,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1011
+    name: 橙光圈常駐
+    code: chuansong_02xh
+    description: 橙光圈常駐
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 0.3
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "-180,30"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1012
+    name: 橙光圈吐出
+    code: chuansong_02
+    description: 橙光圈吐出
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 0.3
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "-270,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1013
+    name: 傳送門藍光圈
+    code: chuansong_01xh
+    description: 藍光圈常駐
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 0.3
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "90,35"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1014
+    name: 傳送門橙光圈
+    code: chuansong_02xh
+    description: 橙光圈常駐
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 0.3
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "-130,35"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1015
+    name: 路標_左
+    code: zsd_right
+    description: 路牌_左
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,150"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1016
+    name: 路標_右
+    code: zsd_left
+    description: 路牌_左
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,150"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1017
+    name: 路標_上
+    code: zsd_up
+    description: 路標_上
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "-120,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1018
+    name: 路標_下
+    code: zsd_down
+    description: 路標_下
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "-120,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1019
+    name: 花粉區
+    code: hfq_zt
+    description: 花粉區
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1020
+    name: 蝴蝶特效
+    code: jy_hudie
+    description: 蝴蝶特效
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 0.3
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,150"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 100861
+    name: 空降飛機特效
+    code: Heli
+    description: 妖精飛行
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: UI_helicopter_loop
+    spine: 1
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 900001
+    name: 機場出兵圖標
+    code: effectPowerup
+    description: UP
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 900002
+    name: 防空炮圖標
+    code: effectNoDrop
+    description: 禁止
+    priority: 3
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 900003
+    name: 污染源圖標
+    code: Mission_gas
+    description: 污染
+    priority: 9
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000011
+    name: 防禦門開啓音效
+    code: Empty
+    description: 防禦門開啓音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_LockGate_Open
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000012
+    name: 防禦門關閉音效
+    code: Empty
+    description: 防禦門關閉音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_LockGate_Close
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000013
+    name: 控制台解鎖音效
+    code: Empty
+    description: 控制台解鎖音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_console_start
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000014
+    name: 控制台凍結音效
+    code: Empty
+    description: 控制台凍結音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_ControlStation_Freeze
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000015
+    name: 爆破音效
+    code: dilei_baoza
+    description: 爆破音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_RockExplo
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000016
+    name: EMP
+    code: EMP
+    description: EMP爆炸
+    priority: 0
+    duration: 3.0
+    delay: 0.0
+    size: 1.0
+    sound: map_emp_explo
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000017
+    name: 大爆炸
+    code: build_baoza
+    description: 大爆炸
+    priority: 99
+    duration: 1.0
+    delay: 0.0
+    size: 0.8
+    sound: BT_grenade_explode
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000018
+    name: 冒煙
+    code: Y(Bmap)_qiaoduan
+    description: 冒煙
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "50,55"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000019
+    name: 浸水
+    code: Soak
+    description: 浸水特效
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.5
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000020
+    name: EMP手雷爆炸效果
+    code: PortableEMP
+    description: EMP手雷爆炸
+    priority: 0
+    duration: 3.0
+    delay: 0.0
+    size: 1.0
+    sound: map_emp_explo
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000021
+    name: 莫比烏斯紅特效1
+    code: dzrq_2Dzhengti01
+    description: 莫比烏斯特效
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000022
+    name: 莫比烏斯紅特效2
+    code: dzrq_2Dzhengti02
+    description: 莫比烏斯特效
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000023
+    name: 莫比烏斯紅特效3
+    code: dzrq_2Dzhengti03
+    description: 莫比烏斯特效
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000024
+    name: 沙舞妖精特效
+    code: bian_sz
+    description: 沙舞妖精特效
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000025
+    name: 閃光彈投擲
+    code: sgd_tuowei
+    description: 閃光彈投擲
+    priority: 0
+    duration: 1.0
+    delay: 0.33
+    size: 1.0
+    sound: BT_The_Division_Flash_Bomb
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000026
+    name: 閃光彈bome
+    code: sgd_baozha
+    description: 閃光彈bome
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_The_Division_Flash_Bomb_Explosion
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000027
+    name: 手榴彈投擲
+    code: sld_tuowei
+    description: 手榴彈投擲
+    priority: 0
+    duration: 1.0
+    delay: 0.33
+    size: 1.0
+    sound: BT_The_Division_Grenade
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000028
+    name: 手榴彈bomb
+    code: build_baoza
+    description: 手榴彈bomb
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_The_Division_Grenade_Explosion
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000029
+    name: 機槍塔（啟動）
+    code: Machine_Gun_Tower_Action
+    description: 機槍塔（啟動）
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_The_Division_Machine_Gun_Tower
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000030
+    name: 受擊特效
+    code: MGT_shouji
+    description: 受擊特效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000031
+    name: 機槍塔（常駐）
+    code: Machine_Gun_Tower_Action
+    description: 機槍塔（常駐）
+    priority: 0
+    duration: 0.0
+    delay: 0.2
+    size: 1.0
+    sound: "0"
+    spine: 3
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000032
+    name: 機槍塔（開火）
+    code: Machine_Gun_Tower_Action
+    description: 機槍塔（開火）
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_The_Division_Machine_Gun_Tower_Shooting
+    spine: 4
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000033
+    name: 數字0
+    code: qx_shuzi00
+    description: 數字0
+    priority: 10
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000034
+    name: 數字1
+    code: qx_shuzi01
+    description: 數字1
+    priority: 10
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000035
+    name: 數字2
+    code: qx_shuzi02
+    description: 數字2
+    priority: 10
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000036
+    name: 數字3
+    code: qx_shuzi03
+    description: 數字3
+    priority: 10
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000037
+    name: 數字4
+    code: qx_shuzi04
+    description: 數字4
+    priority: 10
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000038
+    name: 數字5
+    code: qx_shuzi05
+    description: 數字5
+    priority: 10
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000039
+    name: 數字6
+    code: qx_shuzi06
+    description: 數字6
+    priority: 10
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000040
+    name: 數字7
+    code: qx_shuzi07
+    description: 數字7
+    priority: 10
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000041
+    name: 數字8
+    code: qx_shuzi08
+    description: 數字8
+    priority: 10
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000042
+    name: 數字9
+    code: qx_shuzi09
+    description: 數字9
+    priority: 10
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000043
+    name: 開炮
+    code: Battlefield_fire
+    description: 開炮
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_squad_howitzer
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000044
+    name: 炮擊特效
+    code: build_baoza
+    description: 炮擊特效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.8
+    sound: BT_grenade_explode
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000045
+    name: 清霧點特效
+    code: dian_guangzhu
+    description: 清霧點特效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000046
+    name: 清霧特效
+    code: ddl_saomiao
+    description: 清霧特效
+    priority: 0
+    duration: 5.0
+    delay: 0.0
+    size: 1.0
+    sound: SFX_20_Winter_Radar_Scan
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000047
+    name: 記憶碎片特效
+    code: sheshi_xian
+    description: 記憶碎片特效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000048
+    name: 炸彈下降音效
+    code: Empty
+    description: 炸彈下降音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: SFX_20_Winter_Boom
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000049
+    name: 丹德萊buff音效
+    code: Empty
+    description: 丹德萊buff音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: SFX_20_Winter_Buff
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000050
+    name: 丹德萊debuff音效
+    code: Empty
+    description: 丹德萊debuff音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: SFX_20_Winter_Debuff
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000051
+    name: 翻牌子音效
+    code: Empty
+    description: 翻牌子音效
+    priority: 0
+    duration: 1.0
+    delay: 0.5
+    size: 1.0
+    sound: BT_rotate
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000052
+    name: 孫紅雷投擲
+    code: golyatlpg_d
+    description: 孫紅雷投擲
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 1
+    relative_position: "1000,3000"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000053
+    name: 孫紅雷bomb
+    code: build_baoza
+    description: 孫紅雷bomb
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_The_Division_Grenade_Explosion
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000054
+    name: 上
+    code: skidarrow04
+    description: 上
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.5
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000055
+    name: 下
+    code: skidarrow03
+    description: 下
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.5
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000056
+    name: 左
+    code: skidarrow02
+    description: 左
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.5
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000057
+    name: 右
+    code: skidarrow01
+    description: 右
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.5
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000058
+    name: 倒數計時0
+    code: bomb_shuzi00
+    description: 倒數計時0
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000059
+    name: 倒數計時1
+    code: bomb_shuzi01
+    description: 倒數計時1
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000060
+    name: 倒數計時2
+    code: bomb_shuzi02
+    description: 倒數計時2
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000061
+    name: 倒數計時3
+    code: bomb_shuzi03
+    description: 倒數計時3
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000062
+    name: 倒數計時4
+    code: bomb_shuzi04
+    description: 倒數計時4
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000063
+    name: 倒數計時5
+    code: bomb_shuzi05
+    description: 倒數計時5
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000064
+    name: 倒數計時6
+    code: bomb_shuzi06
+    description: 倒數計時6
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000065
+    name: 倒數計時7
+    code: bomb_shuzi07
+    description: 倒數計時7
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000066
+    name: 倒數計時8
+    code: bomb_shuzi08
+    description: 倒數計時8
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000067
+    name: 倒數計時9
+    code: bomb_shuzi09
+    description: 倒數計時9
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000068
+    name: 密碼按鍵音效
+    code: Empty
+    description: 密碼按鍵音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: SFX_20_Winter_Password
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000069
+    name: 花粉炸彈爆炸
+    code: build_baoza_1
+    description: 花粉炸彈爆炸
+    priority: 10
+    duration: 2.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_grenade_explode
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000070
+    name: 刨冰
+    code: Bushu_ice01
+    description: 刨冰
+    priority: 10
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000071
+    name: 刨冰消失
+    code: Bushu_ice02
+    description: 刨冰消失
+    priority: 10
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: Equip_Ice
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000072
+    name: 帳篷冒煙
+    code: Bushu_xz_yan
+    description: 帳篷冒煙
+    priority: 10
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: Equip_Smoke
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000073
+    name: 小邪神吃冰
+    code: jashinchan_eat
+    description: 小邪神吃冰
+    priority: 48
+    duration: 3.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 2
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,200"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000074
+    name: 特殊點提示
+    code: ddl_xingxing
+    description: 特殊點提示
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000075
+    name: 黏性炸藥投擲
+    code: Viscosity_Bomb
+    description: 黏性炸藥投擲
+    priority: 10
+    duration: 0.46
+    delay: 0.0
+    size: 0.5
+    sound: 21Summer_Bomb_Whoosh
+    spine: 0
+    if_starting: 1
+    relative_position: "-1000,2000"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000076
+    name: 黏性炸藥倒數計時
+    code: Viscosity_Bomb
+    description: 黏性炸藥倒數計時
+    priority: 10
+    duration: 0.0
+    delay: 0.86
+    size: 0.5
+    sound: 21Summer_Bomb_Alarm
+    spine: 2
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000077
+    name: 1-2ex1
+    code: skidarrow64340
+    description: 1-2ex1
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.5
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000078
+    name: 1-2ex2
+    code: skidarrow64361
+    description: 1-2ex2
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.5
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000079
+    name: 1-2ex3
+    code: skidarrow64367
+    description: 1-2ex3
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.5
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000080
+    name: 1-2ex4
+    code: skidarrow64363
+    description: 1-2ex4
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.5
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000081
+    name: 爆炸音效
+    code: Empty
+    description: 爆炸音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: BT_grenade_explode
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000082
+    name: 標記
+    code: SpotTarget0
+    description: 標記
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000083
+    name: 受擊特效
+    code: MGT_shouji
+    description: 受擊特效
+    priority: 0
+    duration: 0.5
+    delay: 0.0
+    size: 1.0
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000084
+    name: 瓦爾哈拉用特效
+    code: MGT_shouji_1
+    description: 瓦爾哈拉用特效
+    priority: 0
+    duration: 0.5
+    delay: 0.0
+    size: 1.0
+    sound: BT_Sniper_skill_1
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000085
+    name: ""
+    code: skidarrow05
+    description: ""
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.5
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000086
+    name: ""
+    code: skidarrow06
+    description: ""
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.5
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000088
+    name: ""
+    code: skidarrow08
+    description: ""
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.5
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000089
+    name: 導彈攻擊特效
+    code: build_baoza_1
+    description: 導彈攻擊特效
+    priority: 10
+    duration: 1.0
+    delay: 0.5
+    size: 1.0
+    sound: UI_Missile_Attack_Delay1
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000090
+    name: 傳送門橙光圈
+    code: chuansong_03xh
+    description: 橙光圈常駐
+    priority: 0
+    duration: 0.0
+    delay: 0.0
+    size: 0.3
+    sound: "0"
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "90,35"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000091
+    name: 傳送lv1 HG生效
+    code: chuansong_03
+    description: 傳送lv1 HG生效
+    priority: 5
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000092
+    name: 力場盾
+    code: 力场盾
+    description: 力場盾
+    priority: 200
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: UI_Spe_Build_Buff
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000093
+    name: 火力up
+    code: powerUp
+    description: 火力up
+    priority: 200
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: UI_Spe_Build_Buff
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000094
+    name: emp彈攻擊特效
+    code: build_baoza+emp
+    description: emp彈攻擊特效
+    priority: 10
+    duration: 1.0
+    delay: 0.5
+    size: 1.0
+    sound: UI_Missile_Attack_Delay2
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000095
+    name: 建造音效
+    code: Empty
+    description: 建造音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: UI_Build_Construct
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000096
+    name: 升級音效
+    code: Empty
+    description: 升級音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: UI_Build_Upgrade
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000097
+    name: 加buff音效
+    code: Empty
+    description: 加buff音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: UI_Spe_Build_Buff
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000098
+    name: 禿洞傳送裝置音效
+    code: Empty
+    description: 禿洞傳送裝置音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: UI_Spe_Build_Portal
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000099
+    name: 黏性炸藥無聲倒數]計時
+    code: Viscosity_Bomb
+    description: 黏性炸藥無聲倒數]計時
+    priority: 10
+    duration: 0.0
+    delay: 0.86
+    size: 0.5
+    sound: ""
+    spine: 2
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000100
+    name: 空襲引導
+    code: CanDestroyBuildTip
+    description: 空襲引導
+    priority: 10
+    duration: 0.0
+    delay: 0.0
+    size: 1.0
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000101
+    name: 巧克力機啟動
+    code: Empty
+    description: 巧克力機啟動
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: 2022_white_valentine_Chocolate
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 1000102
+    name: 煙火
+    code: GQ_yanhua
+    description: 煙火
+    priority: 0
+    duration: 3.0
+    delay: 0.0
+    size: 1.0
+    sound: 2022_Bikini_Fireworks
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 9490401
+    name: 【標記】提示特效，亮星星
+    code: ddl_xingxing
+    description: ""
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 0.8
+    sound: ""
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+  {
+    id: 9999999
+    name: 【標記】通用打斷循環音效
+    code: Empty
+    description: 【標記】通用打斷循環音效
+    priority: 0
+    duration: 1.0
+    delay: 0.0
+    size: 1.0
+    sound: Stop_UI_loop
+    spine: 0
+    if_starting: 0
+    relative_position: "0"
+    offset: "0,0"
+    rotation_offset: ""
+    is_focus: 0
+  }
+]

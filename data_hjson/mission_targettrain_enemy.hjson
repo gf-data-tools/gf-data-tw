@@ -1,0 +1,1192 @@
+[
+  {
+    id: 101
+    name: 定制標靶
+    des: 定制標靶
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950046
+    log_fitter_id: 0
+    log_fitter_name: 定制標靶
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 102
+    name: 定制標靶
+    des: 定制標靶
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950047
+    log_fitter_id: 0
+    log_fitter_name: 定制標靶
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 103
+    name: 定制標靶
+    des: 定制標靶
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950048
+    log_fitter_id: 0
+    log_fitter_name: 定制標靶
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 104
+    name: 定制標靶
+    des: 定制標靶
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950049
+    log_fitter_id: 0
+    log_fitter_name: 定制標靶
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 105
+    name: 定制標靶
+    des: 定制標靶
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950050
+    log_fitter_id: 0
+    log_fitter_name: 定制標靶
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 301
+    name: 末日魔犬
+    des: 特殊標靶-末日魔犬，標靶開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 126250
+    recommend_power: 126250
+    enemy_team_id: 2371
+    log_fitter_id: 0
+    log_fitter_name: 末日魔犬
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 401
+    name: 葉戈爾
+    des: 特殊標靶-葉戈爾，標靶開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 143733
+    recommend_power: 143733
+    enemy_team_id: 9130301
+    log_fitter_id: 0
+    log_fitter_name: 葉戈爾
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 501
+    name: 失格異構體
+    des: 特殊標靶-失格異構體，標靶開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 154709
+    recommend_power: 154709
+    enemy_team_id: 337257
+    log_fitter_id: 0
+    log_fitter_name: 失格異構體
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 601
+    name: M16A1!
+    des: 特殊標靶-M16A1！，標靶開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 169976
+    recommend_power: 169976
+    enemy_team_id: 317907
+    log_fitter_id: 0
+    log_fitter_name: M16A1!
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 701
+    name: 斷後中隊
+    des: 特殊標靶-斷後中隊，標靶開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 175920
+    recommend_power: 175920
+    enemy_team_id: 1770
+    log_fitter_id: 0
+    log_fitter_name: 斷後中隊
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 801
+    name: 01：亂數雷霆
+    des: 【靶機專訓】透過【雙聯亂數】中獲得的資訊，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 73800
+    recommend_power: 73800
+    enemy_team_id: 9411205
+    log_fitter_id: 0
+    log_fitter_name: 01：亂數雷霆
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 901
+    name: 02：亂數蠍甲
+    des: 【靶機專訓】透過【雙聯亂數】中獲得的資訊，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 91475
+    recommend_power: 91475
+    enemy_team_id: 9410318
+    log_fitter_id: 0
+    log_fitter_name: 02：亂數蠍甲
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 1001
+    name: 03：亂數毀滅
+    des: 【靶機專訓】透過【雙聯亂數】中獲得的資訊，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 100248
+    recommend_power: 100248
+    enemy_team_id: 9411206
+    log_fitter_id: 0
+    log_fitter_name: 03：亂數毀滅
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 1101
+    name: 04：亂數切割
+    des: 【靶機專訓】透過【雙聯亂數】中獲得的資訊，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 80829
+    recommend_power: 80829
+    enemy_team_id: 9411407
+    log_fitter_id: 0
+    log_fitter_name: 04：亂數切割
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 1201
+    name: 05：亂數磐鋼
+    des: 【靶機專訓】透過【雙聯亂數】中獲得的資訊，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 248736
+    recommend_power: 248736
+    enemy_team_id: 9411408
+    log_fitter_id: 0
+    log_fitter_name: 05：亂數磐鋼
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 1301
+    name: 06：亂數吞噬
+    des: 【靶機專訓】透過【雙聯亂數】中獲得的資訊，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 407438
+    recommend_power: 407438
+    enemy_team_id: 9411422
+    log_fitter_id: 0
+    log_fitter_name: 06：亂數吞噬
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 1501
+    name: 卡爾卡諾
+    des: 【靶機專訓】通過【夢間劇】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 407438
+    recommend_power: 407438
+    enemy_team_id: 381901
+    log_fitter_id: 0
+    log_fitter_name: 卡爾卡諾
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 1601
+    name: 01：燃燒狂獸
+    des: 【靶機專訓】透過【戰區】中獲得的資訊，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 40866
+    recommend_power: 40866
+    enemy_team_id: 336405
+    log_fitter_id: 0
+    log_fitter_name: 01：燃燒狂獸
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 1701
+    name: 02：不倒鐵律
+    des: 【靶機專訓】透過【戰區】中獲得的資訊，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 70480
+    recommend_power: 70480
+    enemy_team_id: 390149
+    log_fitter_id: 0
+    log_fitter_name: 02：不倒鐵律
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 1801
+    name: 03：蜂鳥漩渦
+    des: 【靶機專訓】透過【戰區】中獲得的資訊，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 88645
+    recommend_power: 88645
+    enemy_team_id: 9411418
+    log_fitter_id: 0
+    log_fitter_name: 03：蜂鳥旋渦
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 1901
+    name: 04：龐然戰車
+    des: 【靶機專訓】透過【戰區】中獲得的資訊，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 55346
+    recommend_power: 55346
+    enemy_team_id: 9130113
+    log_fitter_id: 0
+    log_fitter_name: 04：龐然戰車
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2001
+    name: 01：歧路信標
+    des: 【靶機專訓】通過【異構體】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 169976
+    recommend_power: 169976
+    enemy_team_id: 317907
+    log_fitter_id: 0
+    log_fitter_name: 01：歧路信標
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2101
+    name: 02：暴雨歌者
+    des: 【靶機專訓】通過【異構體】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 172301
+    recommend_power: 172301
+    enemy_team_id: 317993
+    log_fitter_id: 0
+    log_fitter_name: 02：暴雨歌者
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2201
+    name: 03：異構槍彈
+    des: 【靶機專訓】通過【異構體】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 244970
+    recommend_power: 244970
+    enemy_team_id: 317994
+    log_fitter_id: 0
+    log_fitter_name: 03：異構槍彈
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2301
+    name: 異構體
+    des: 強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 409215
+    recommend_power: 409215
+    enemy_team_id: 337399
+    log_fitter_id: 0
+    log_fitter_name: 異構體
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2401
+    name: 01：悖論·亂涌
+    des: 【靶機專訓】通過【鏡像論】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 124783
+    recommend_power: 124783
+    enemy_team_id: 6441807
+    log_fitter_id: 0
+    log_fitter_name: 01：悖論·亂涌
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2402
+    name: 02：悖論·潛蠍
+    des: 【靶機專訓】通過【鏡像論】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 237147
+    recommend_power: 237147
+    enemy_team_id: 44400003
+    log_fitter_id: 0
+    log_fitter_name: 02：悖論·潛蠍
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2403
+    name: 03：悖論·戾蜂
+    des: 【靶機專訓】通過【鏡像論】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 418751
+    recommend_power: 418751
+    enemy_team_id: 6441801
+    log_fitter_id: 0
+    log_fitter_name: 03：悖論·戾蜂
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2404
+    name: 01：裂變·暴君
+    des: 【靶機專訓】通過【裂變鏈接】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 77122
+    recommend_power: 77122
+    enemy_team_id: 334701
+    log_fitter_id: 0
+    log_fitter_name: 01：裂變
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2405
+    name: 02：裂變·獵手
+    des: 【靶機專訓】通過【裂變鏈接】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 73455
+    recommend_power: 73455
+    enemy_team_id: 336807
+    log_fitter_id: 0
+    log_fitter_name: 02：裂變
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2406
+    name: 03：裂變·血疫
+    des: 【靶機專訓】通過【裂變鏈接】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 251937
+    recommend_power: 251937
+    enemy_team_id: 336901
+    log_fitter_id: 0
+    log_fitter_name: 03：裂變
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2407
+    name: 爆裂·魔女
+    des: 是【靶機專訓】使用從【小邪神前線】中獲取的資訊模擬出的強大單位，能夠讓指揮官安全無憂地派遣人形與其進行訓練。開放期間會記錄大家的挑戰時間和對應的挑戰數據，以便於指揮官們互相學習。
+    power: 272650
+    recommend_power: 272650
+    enemy_team_id: 461008
+    log_fitter_id: 0
+    log_fitter_name: 爆裂·魔女
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2408
+    name: 大地·赴罪之人
+    des: 【靶機專訓】透過【偏振光】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰資料，便於指揮官互相學習。
+    power: 219183
+    recommend_power: 219183
+    enemy_team_id: 363099
+    log_fitter_id: 0
+    log_fitter_name: 大地·赴罪之人
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2409
+    name: 鐵血·厄勒克特拉
+    des: 【靶機專訓】透過【偏振光】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰資料，便於指揮官互相學習。
+    power: 149503
+    recommend_power: 149503
+    enemy_team_id: 362921
+    log_fitter_id: 0
+    log_fitter_name: 鐵血·厄勒克特拉
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2410
+    name: 鐵血·無歸者
+    des: 【靶機專訓】透過【偏振光】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰資料，便於指揮官互相學習。
+    power: 34544
+    recommend_power: 34544
+    enemy_team_id: 362801
+    log_fitter_id: 0
+    log_fitter_name: 鐵血·無歸者
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2411
+    name: 01焓變·刺霜
+    des: 【靶機專訓】透過【熵減焓增】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰資料，便於指揮官互相學習。
+    power: 360000
+    recommend_power: 360000
+    enemy_team_id: 480142
+    log_fitter_id: 0
+    log_fitter_name: 01焓變·刺霜
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2412
+    name: 02焓變·夜靄
+    des: 【靶機專訓】透過【熵減焓增】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰資料，便於指揮官互相學習。
+    power: 480000
+    recommend_power: 480000
+    enemy_team_id: 480143
+    log_fitter_id: 0
+    log_fitter_name: 02焓變·夜靄
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2413
+    name: 03焓變·冥霧
+    des: 【靶機專訓】透過【熵減焓增】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰資料，便於指揮官互相學習。
+    power: 184845
+    recommend_power: 184845
+    enemy_team_id: 6486203
+    log_fitter_id: 0
+    log_fitter_name: 03焓變·冥霧
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2414
+    name: I 颶風：蛻骨
+    des: 【靶機專訓】通過【靜風點】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 800000
+    recommend_power: 800000
+    enemy_team_id: 6519904
+    log_fitter_id: 0
+    log_fitter_name: I 颶風：蛻骨
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 2415
+    name: II 颶風：枯蛺
+    des: 【靶機專訓】通過【靜風點】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+    power: 800000
+    recommend_power: 800000
+    enemy_team_id: 6519906
+    log_fitter_id: 0
+    log_fitter_name: II 颶風：枯蛺
+    code: Targettrain_SingleTarget
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20101
+    name: 散兵游勇
+    des: 作戰能力達到了就可以輕鬆應對。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950001
+    log_fitter_id: 201
+    log_fitter_name: 普通低甲中等血量怪組
+    code: Targettrain_950001
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20102
+    name: 密集夢魘
+    des: 夢魘必然是各種恐怖元素的集成體，擊破它們當然也要一鼓作氣全部毀滅。(推薦使用擁有範圍傷害能力的隊伍進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950006
+    log_fitter_id: 202
+    log_fitter_name: 中高血量密集怪組
+    code: Targettrain_950006
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20103
+    name: 盾後冷槍
+    des: 盾是很麻煩的存在，但失去後面的劍，盾也就失去了意義。(推薦使用優先攻擊後排的隊伍進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950011
+    log_fitter_id: 203
+    log_fitter_name: 盾狙怪組
+    code: Targettrain_950011
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20104
+    name: 扭曲信仰
+    des: 你無法打敗擁有堅定信仰的敵人，先破壞它們的信仰的根基吧──從破壞力場盾開始。(推薦使用有能力應對單個高位血量單位且擁有一定的破壞力場能力的隊伍。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950016
+    log_fitter_id: 204
+    log_fitter_name: 白色怪組
+    code: Targettrain_950016
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20105
+    name: 遊走爆彈
+    des: 破解噩夢最好的辦法是立刻醒來，或者直接將它們掐死在發生之前。(推薦使用開場擁有爆發能力的隊伍。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950021
+    log_fitter_id: 205
+    log_fitter_name: 快速爆發
+    code: Targettrain_950021
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20106
+    name: 銅牆鐵壁
+    des: 當正面難以突破時,打破這些煩人的甲殼也許可行！(推薦使用有應對高位血量單位能力或前排較強生存能力且有破壞力場能力的部隊進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950026
+    log_fitter_id: 206
+    log_fitter_name: 精英肉盾
+    code: Targettrain_950026
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20107
+    name: 毀滅風暴
+    des: 與成群的蠍甲獸對上是不智的，除非你久經戰陣，或者知曉它們的弱點。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950031
+    log_fitter_id: 207
+    log_fitter_name: 無敵組合
+    code: Targettrain_950031
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20108
+    name: 銳眼獵手
+    des: 被廢棄的偵察士們想要用你來證明它們還有被重新利用的價值。如果你還是新手，就躲著它們走吧。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950036
+    log_fitter_id: 208
+    log_fitter_name: 巨像來了
+    code: Targettrain_950036
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20109
+    name: 奎烏！
+    des: 不要想用計謀去壓制它，它本身就是戰術壓制的具現化。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950041
+    log_fitter_id: 209
+    log_fitter_name: 奎烏！
+    code: Targettrain_950041
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20201
+    name: 散兵游勇
+    des: 作戰能力達到了就可以輕鬆應對。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950002
+    log_fitter_id: 201
+    log_fitter_name: 普通低甲中等血量怪組
+    code: Targettrain_950002
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20202
+    name: 密集夢魘
+    des: 夢魘必然是各種恐怖元素的集成體，擊破它們當然也要一鼓作氣全部毀滅。(推薦使用擁有範圍傷害能力的隊伍進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950007
+    log_fitter_id: 202
+    log_fitter_name: 中高血量密集怪組
+    code: Targettrain_950007
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20203
+    name: 盾後冷槍
+    des: 盾是很麻煩的存在，但失去後面的劍，盾也就失去了意義。(推薦使用優先攻擊後排的隊伍進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950012
+    log_fitter_id: 203
+    log_fitter_name: 盾狙怪組
+    code: Targettrain_950012
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20204
+    name: 扭曲信仰
+    des: 你無法打敗擁有堅定信仰的敵人，先破壞它們的信仰的根基吧──從破壞力場盾開始。(推薦使用有能力應對單個高位血量單位且擁有一定的破壞力場能力的隊伍。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950017
+    log_fitter_id: 204
+    log_fitter_name: 白色怪組
+    code: Targettrain_950017
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20205
+    name: 遊走爆彈
+    des: 破解噩夢最好的辦法是立刻醒來，或者直接將它們掐死在發生之前。(推薦使用開場擁有爆發能力的隊伍。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950022
+    log_fitter_id: 205
+    log_fitter_name: 快速爆發
+    code: Targettrain_950022
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20206
+    name: 銅牆鐵壁
+    des: 當正面難以突破時,打破這些煩人的甲殼也許可行！(推薦使用有應對高位血量單位能力或前排較強生存能力且有破壞力場能力的部隊進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950027
+    log_fitter_id: 206
+    log_fitter_name: 精英肉盾
+    code: Targettrain_950027
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20207
+    name: 毀滅風暴
+    des: 與成群的蠍甲獸對上是不智的，除非你久經戰陣，或者知曉它們的弱點。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950032
+    log_fitter_id: 207
+    log_fitter_name: 無敵組合
+    code: Targettrain_950032
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20208
+    name: 銳眼獵手
+    des: 被廢棄的偵察士們想要用你來證明它們還有被重新利用的價值。如果你還是新手，就躲著它們走吧。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950037
+    log_fitter_id: 208
+    log_fitter_name: 巨像來了
+    code: Targettrain_950037
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20209
+    name: 奎烏！
+    des: 不要想用計謀去壓制它，它本身就是戰術壓制的具現化。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950042
+    log_fitter_id: 209
+    log_fitter_name: 奎烏！
+    code: Targettrain_950042
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20301
+    name: 散兵游勇
+    des: 作戰能力達到了就可以輕鬆應對。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950003
+    log_fitter_id: 201
+    log_fitter_name: 普通低甲中等血量怪組
+    code: Targettrain_950003
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20302
+    name: 密集夢魘
+    des: 夢魘必然是各種恐怖元素的集成體，擊破它們當然也要一鼓作氣全部毀滅。(推薦使用擁有範圍傷害能力的隊伍進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950008
+    log_fitter_id: 202
+    log_fitter_name: 中高血量密集怪組
+    code: Targettrain_950008
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20303
+    name: 盾後冷槍
+    des: 盾是很麻煩的存在，但失去後面的劍，盾也就失去了意義。(推薦使用優先攻擊後排的隊伍進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950013
+    log_fitter_id: 203
+    log_fitter_name: 盾狙怪組
+    code: Targettrain_950013
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20304
+    name: 扭曲信仰
+    des: 你無法打敗擁有堅定信仰的敵人，先破壞它們的信仰的根基吧──從破壞力場盾開始。(推薦使用有能力應對單個高位血量單位且擁有一定的破壞力場能力的隊伍。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950018
+    log_fitter_id: 204
+    log_fitter_name: 白色怪組
+    code: Targettrain_950018
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20305
+    name: 遊走爆彈
+    des: 破解噩夢最好的辦法是立刻醒來，或者直接將它們掐死在發生之前。(推薦使用開場擁有爆發能力的隊伍。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950023
+    log_fitter_id: 205
+    log_fitter_name: 快速爆發
+    code: Targettrain_950023
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20306
+    name: 銅牆鐵壁
+    des: 當正面難以突破時,打破這些煩人的甲殼也許可行！(推薦使用有應對高位血量單位能力或前排較強生存能力且有破壞力場能力的部隊進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950028
+    log_fitter_id: 206
+    log_fitter_name: 精英肉盾
+    code: Targettrain_950028
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20307
+    name: 毀滅風暴
+    des: 與成群的蠍甲獸對上是不智的，除非你久經戰陣，或者知曉它們的弱點。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950033
+    log_fitter_id: 207
+    log_fitter_name: 無敵組合
+    code: Targettrain_950033
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20308
+    name: 銳眼獵手
+    des: 被廢棄的偵察士們想要用你來證明它們還有被重新利用的價值。如果你還是新手，就躲著它們走吧。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950038
+    log_fitter_id: 208
+    log_fitter_name: 巨像來了
+    code: Targettrain_950038
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20309
+    name: 奎烏！
+    des: 不要想用計謀去壓制它，它本身就是戰術壓制的具現化。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950043
+    log_fitter_id: 209
+    log_fitter_name: 奎烏！
+    code: Targettrain_950043
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20401
+    name: 散兵游勇
+    des: 戲弄蠢貨和懦弱者需要的不僅僅是靈活的戰略，還要有同樣靈活的人形。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950004
+    log_fitter_id: 201
+    log_fitter_name: 普通低甲中等血量怪組
+    code: Targettrain_950004
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20402
+    name: 密集夢魘
+    des: 夢魘必然是各種恐怖元素的集成體，擊破它們當然也要一鼓作氣全部毀滅。(推薦使用擁有範圍傷害能力的隊伍進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950009
+    log_fitter_id: 202
+    log_fitter_name: 中高血量密集怪組
+    code: Targettrain_950009
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20403
+    name: 重裝行軍
+    des: 如果不能穿透它們的甲胄，傾注多少兵力都是徒勞。(推薦使用優先攻擊後排且擁有一定穿甲能力的隊伍進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950014
+    log_fitter_id: 203
+    log_fitter_name: 盾狙怪組
+    code: Targettrain_950014
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20404
+    name: 扭曲信仰
+    des: 你無法打敗擁有堅定信仰的敵人，先破壞它們的信仰的根基吧──從破壞力場盾開始。(推薦使用有能力應對單個高位血量單位且擁有一定的破壞力場能力的隊伍。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950019
+    log_fitter_id: 204
+    log_fitter_name: 白色怪組
+    code: Targettrain_950019
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20405
+    name: 遊走爆彈
+    des: 破解噩夢最好的辦法是立刻醒來，或者直接將它們掐死在發生之前。(推薦使用開場擁有爆發能力的隊伍。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950024
+    log_fitter_id: 205
+    log_fitter_name: 快速爆發
+    code: Targettrain_950024
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20406
+    name: 銅牆鐵壁
+    des: 當正面難以突破時,打破這些煩人的甲殼也許可行！(推薦使用有應對高位血量單位能力或前排較強生存能力且有穿甲能力的部隊進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950029
+    log_fitter_id: 206
+    log_fitter_name: 精英肉盾
+    code: Targettrain_950029
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20407
+    name: 毀滅風暴
+    des: 與成群的九頭蛇對上是不智的，除非你久經戰陣，或者知曉它們的弱點。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950034
+    log_fitter_id: 207
+    log_fitter_name: 無敵組合
+    code: Targettrain_950034
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20408
+    name: 銳眼獵手
+    des: 被廢棄的偵察士們想要用你來證明它們還有被重新利用的價值。如果你還是新手，就躲著它們走吧。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950039
+    log_fitter_id: 208
+    log_fitter_name: 巨像來了
+    code: Targettrain_950039
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20409
+    name: 奎烏！
+    des: 不要想用計謀去壓制它，它本身就是戰術壓制的具現化。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950044
+    log_fitter_id: 209
+    log_fitter_name: 奎烏！
+    code: Targettrain_950044
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20501
+    name: 散兵游勇
+    des: 戲弄蠢貨和懦弱者需要的不僅僅是靈活的戰略，還要有同樣靈活的人形。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950005
+    log_fitter_id: 201
+    log_fitter_name: 普通低甲中等血量怪組
+    code: Targettrain_950005
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20502
+    name: 密集夢魘
+    des: 夢魘必然是各種恐怖元素的集成體，擊破它們當然也要一鼓作氣全部毀滅。(推薦使用擁有範圍傷害能力的隊伍進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950010
+    log_fitter_id: 202
+    log_fitter_name: 中高血量密集怪組
+    code: Targettrain_950010
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20503
+    name: 聖盾與鹿
+    des: 如果不能穿透它們的甲胄，傾注多少兵力都是徒勞。(推薦使用優先攻擊後排且擁有一定穿甲能力的隊伍進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950015
+    log_fitter_id: 203
+    log_fitter_name: 盾狙怪組
+    code: Targettrain_950015
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20504
+    name: 扭曲信仰
+    des: 你無法打敗擁有堅定信仰的敵人，先破壞它們的信仰的根基吧──從破壞力場盾開始。(推薦使用有能力應對單個高位血量單位且擁有一定的破壞力場能力的隊伍。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950020
+    log_fitter_id: 204
+    log_fitter_name: 白色怪組
+    code: Targettrain_950020
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20505
+    name: 遊走爆彈
+    des: 破解噩夢最好的辦法是立刻醒來，或者直接將它們掐死在發生之前。(推薦使用開場擁有爆發能力的隊伍。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950025
+    log_fitter_id: 205
+    log_fitter_name: 快速爆發
+    code: Targettrain_950025
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20506
+    name: 銅牆鐵壁
+    des: 當正面難以突破時,打破這些煩人的甲殼也許可行！(推薦使用有應對高位血量單位能力或前排較強生存能力且有穿甲能力的部隊進行對抗。)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950030
+    log_fitter_id: 206
+    log_fitter_name: 精英肉盾
+    code: Targettrain_950030
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20507
+    name: 毀滅風暴
+    des: 與成群的九頭蛇對上是不智的，除非你久經戰陣，或者知曉它們的弱點。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950035
+    log_fitter_id: 207
+    log_fitter_name: 無敵組合
+    code: Targettrain_950035
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20508
+    name: 銳眼獵手
+    des: 被廢棄的偵察士們想要用你來證明它們還有被重新利用的價值。如果你還是新手，就躲著它們走吧。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950040
+    log_fitter_id: 208
+    log_fitter_name: 巨像來了
+    code: Targettrain_950040
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+  {
+    id: 20509
+    name: 恐怖戰陣
+    des: 軍方的坦克正向你的方向而來。是被毀滅還是在這之前毀滅對方，這個選擇由新人來做恐怕太難了。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950045
+    log_fitter_id: 209
+    log_fitter_name: 奎烏！
+    code: Targettrain_950045
+    fight_type: 0
+    type_coef: ""
+    fight_environment_group: ""
+  }
+]
