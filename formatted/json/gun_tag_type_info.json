@@ -1,0 +1,12 @@
+[
+    {
+        "id": "0",
+        "type_name": "全部",
+        "en_name": "Zennbu"
+    },
+    {
+        "id": "1",
+        "type_name": "戰術",
+        "en_name": "Tactic"
+    }
+]

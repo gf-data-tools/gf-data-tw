@@ -1,0 +1,612 @@
+[
+  {
+    id: 100
+    name: 格里芬
+    character_des: 單位來自格里芬
+  }
+  {
+    id: 101
+    name: 鐵血工造
+    character_des: 單位被鐵血科技影響，屬於鐵血工造
+  }
+  {
+    id: 102
+    name: 帕拉蒂斯
+    character_des: 單位特點是全身被白色覆蓋，其餘的一切都是謎團（玩家俗稱 白色勢力）
+  }
+  {
+    id: 103
+    name: 特種作戰司令部
+    character_des: 單位來自軍方，建議警惕規避
+  }
+  {
+    id: 104
+    name: 感染者
+    character_des: 被感染後變異而成，玩家俗稱 僵屍
+  }
+  {
+    id: 105
+    name: 安全局
+    character_des: 單位隸屬于安全局
+  }
+  {
+    id: 200
+    name: BOSS
+    character_des: 警告，危險！該單位為BOSS，請指揮官謹慎應對！
+  }
+  {
+    id: 201
+    name: 稻草人
+    character_des: 鐵血工造幹部
+  }
+  {
+    id: 202
+    name: 劊子手
+    character_des: 鐵血工造幹部
+  }
+  {
+    id: 203
+    name: 獵手
+    character_des: 鐵血工造幹部
+  }
+  {
+    id: 204
+    name: 干擾者
+    character_des: 鐵血工造幹部
+  }
+  {
+    id: 205
+    name: 煉金術士
+    character_des: 鐵血工造幹部
+  }
+  {
+    id: 206
+    name: 破壞者
+    character_des: 鐵血工造幹部
+  }
+  {
+    id: 207
+    name: 計量官
+    character_des: 鐵血工造幹部
+  }
+  {
+    id: 208
+    name: 建築師
+    character_des: 鐵血工造幹部
+  }
+  {
+    id: 209
+    name: 夢想家
+    character_des: 鐵血工造幹部
+  }
+  {
+    id: 210
+    name: 銜尾蛇
+    character_des: 鐵血工造幹部
+  }
+  {
+    id: 211
+    name: 法官
+    character_des: 鐵血工造幹部
+  }
+  {
+    id: 212
+    name: 代理人
+    character_des: 鐵血工造幹部
+  }
+  {
+    id: 213
+    name: 喙
+    character_des: 摩托的狂熱愛好者
+  }
+  {
+    id: 214
+    name: 末日魔犬
+    character_des: 末日魔犬，鐵血工造研發的獸型單位，比普通機械狗更加強大
+  }
+  {
+    id: 215
+    name: M16A1
+    character_des: M16被傘病毒感染
+  }
+  {
+    id: 216
+    name: 「涅托」
+    character_des: 自稱「涅托」的謎之生命體
+  }
+  {
+    id: 300
+    name: 普通
+    character_des: 該單位屬性較為均衡，沒有特別突出的特性
+  }
+  {
+    id: 301
+    name: 危險
+    character_des: 單位異常危險，請謹慎應對！
+  }
+  {
+    id: 302
+    name: 巨型
+    character_des: 體型龐大，生命值較高！
+  }
+  {
+    id: 303
+    name: 近戰
+    character_des: 近距離攻擊方式
+  }
+  {
+    id: 304
+    name: 高速
+    character_des: 擁有較高的移動速度
+  }
+  {
+    id: 305
+    name: 笨重
+    character_des: 擁有較低的移動速度
+  }
+  {
+    id: 306
+    name: 機巧
+    character_des: 擁有較高的閃避
+  }
+  {
+    id: 307
+    name: 精准
+    character_des: 該單位擁有高命中的特點
+  }
+  {
+    id: 308
+    name: 連發
+    character_des: 該單位擁有高攻速的特點
+  }
+  {
+    id: 309
+    name: 裝甲
+    character_des: 該單位擁有護甲
+  }
+  {
+    id: 310
+    name: 護盾
+    character_des: 該單位可以生成抵禦一定傷害的護盾
+  }
+  {
+    id: 311
+    name: 精密
+    character_des: 每次攻擊只能對該單位造成少量傷害
+  }
+  {
+    id: 312
+    name: 力場
+    character_des: 該單位擁有製造力場盾的能力
+  }
+  {
+    id: 313
+    name: 免傷
+    character_des: 該單位可以免除一定量的傷害
+  }
+  {
+    id: 314
+    name: 散射
+    character_des: 該單位可以同時攻擊多個目標
+  }
+  {
+    id: 315
+    name: 穿甲
+    character_des: 攻擊可穿透護甲造成傷害
+  }
+  {
+    id: 316
+    name: 弱化
+    character_des: 可為目標施加弱化效果
+  }
+  {
+    id: 317
+    name: 壓制
+    character_des: 可為目標施加移速降低的效果
+  }
+  {
+    id: 318
+    name: 干擾
+    character_des: 可為目標施加攻速降低的效果
+  }
+  {
+    id: 319
+    name: 範圍殺傷
+    character_des: 擁有造成範圍傷害的能力
+  }
+  {
+    id: 320
+    name: 貫穿
+    character_des: 可對一條直線的多個單位造成傷害
+  }
+  {
+    id: 321
+    name: 製造
+    character_des: 戰鬥中可以製造新的單位參與戰鬥
+  }
+  {
+    id: 322
+    name: 埋雷
+    character_des: 在戰役中會埋下陷阱，目標經過會造成傷害。
+  }
+  {
+    id: 323
+    name: 自爆
+    character_des: 接近目標會引爆自己，從而對周圍造成巨大的傷害
+  }
+  {
+    id: 324
+    name: 控制
+    character_des: 干擾目標，讓目標短暫的失去行動能力
+  }
+  {
+    id: 325
+    name: 定位
+    character_des: 遠程鎖定一個區域，對該區域的目標造成大量傷害
+  }
+  {
+    id: 326
+    name: 支援
+    character_des: 可在戰場外支援其他作戰中的單位
+  }
+  {
+    id: 327
+    name: 滲透
+    character_des: 該單位將無視任何限制與條件持續向前移動
+  }
+  {
+    id: 328
+    name: 駭入
+    character_des: 該單位將極大增加我方人形技能的冷卻時間
+  }
+  {
+    id: 329
+    name: 必殺
+    character_des: 目標擁有不可迴避的超高傷害
+  }
+  {
+    id: 330
+    name: 義體
+    character_des: 該單位具有多部分生命值,對不同部位造成傷害將產生不同的效果
+  }
+  {
+    id: 331
+    name: 加深
+    character_des: 對同一目標的傷害會持續增加
+  }
+  {
+    id: 332
+    name: 對點特化
+    character_des: 將優先攻擊較少編制的敵方單位並造成額外的傷害
+  }
+  {
+    id: 333
+    name: 鼓舞
+    character_des: 該單位能對場上其他單位產生增益效果
+  }
+  {
+    id: 334
+    name: 重甲
+    character_des: 該單位擁有極高的護甲
+  }
+  {
+    id: 335
+    name: 致盲
+    character_des: 該單位會大幅度降低我方單位命中
+  }
+  {
+    id: 401
+    name: 持盾前進
+    character_des: 該單位在移動時將使用盾牌降低受到的傷害,傷害降低的數量與當前該單位可造成的傷害相同。
+  }
+  {
+    id: 402
+    name: 加速猛擊
+    character_des: 每次常規攻擊命中後都將提升自身的攻擊速度,在5次常規攻擊後將提升至最大且保持不變。
+  }
+  {
+    id: 403
+    name: 近點燃燒
+    character_des: 將向距離自己最近的敵方單位所在點投擲燃燒彈。
+  }
+  {
+    id: 404
+    name: 火焰噴射
+    character_des: 該單位可用特殊的火焰噴射器造成範圍傷害。移動至我方最近單位面前並朝該單位噴射火焰,同時目標單位身後的單位也會受到傷害。
+  }
+  {
+    id: 405
+    name: 移動猛擊
+    character_des: 該單位停止移動後的首次攻擊將造成額外的傷害。
+  }
+  {
+    id: 406
+    name: 破片投擲
+    character_des: 將向隨機敵方單位投擲破片手榴彈,對目標區域以及周圍4格範圍造成傷害。
+  }
+  {
+    id: 407
+    name: 臥射姿態
+    character_des: 停止移動3秒後將使用臥射姿態進行攻擊,該模式下優先攻擊我方血量最低的單位,並提升自身命中和傷害。
+  }
+  {
+    id: 408
+    name: 弱點命中
+    character_des: 常規攻擊中有機率降低受擊目標傷害和命中。
+  }
+  {
+    id: 409
+    name: 射程提升
+    character_des: 該單位停止移動後將額外獲得3點攻擊射程。
+  }
+  {
+    id: 410
+    name: 電擊投擲
+    character_des: 將向隨機敵方單位所在點投擲電擊手榴彈,降低被命中單位的射速和移速。
+  }
+  {
+    id: 411
+    name: 燃燒炮台
+    character_des: 該單位將在一定間隔後放置燃燒炮台,燃燒炮台的常規攻擊將引燃命中的區域。
+  }
+  {
+    id: 412
+    name: 電擊炮台
+    character_des: 該單位將在一定間隔後放置電擊炮台,電擊炮台的常規攻擊將眩暈命中的單位。
+  }
+  {
+    id: 413
+    name: 裝備提升
+    character_des: 該單位可在戰鬥5秒後提升己方全體的射速。
+  }
+  {
+    id: 414
+    name: 黏彈
+    character_des: 投擲黏彈並吸附在最近的敵方單位身上,一段時間後將爆炸對自身及周圍8格範圍造成傷害。
+  }
+  {
+    id: 415
+    name: 生物科技
+    character_des: 一定間隔後將回覆自身已損失血量一定比例的護盾。
+  }
+  {
+    id: 416
+    name: 燃燒投擲
+    character_des: 將向隨機敵方單位所在點投擲燃燒彈。
+  }
+  {
+    id: 417
+    name: 焚燒者
+    character_des: 該單位身後的氣罐若被擊破的話將受到大量的傷害,若自身血量低於30%,還將獲得額外的傷害提升。
+  }
+  {
+    id: 418
+    name: 機動掩體
+    character_des: 該單位將運用掩體與自己的敵人周旋。掩體將提升自身的閃避和命中,同時血量每損失30%,該單位都將額外安置一個掩體吸收傷害。
+  }
+  {
+    id: 419
+    name: 地獄火
+    character_des: 該單位獲得負面狀態時將立刻清除自身的負面狀態,同時獲得護盾。
+  }
+  {
+    id: 420
+    name: 獠牙
+    character_des: 該單位將交替使用兩種投擲物削弱我方單位;黏彈將對最近單位造成不可迴避的傷害;電擊彈將持續降低影響區域內單位的傷害和命中。
+  }
+  {
+    id: 421
+    name: 自動炮台
+    character_des: 進入戰鬥8秒後,每間隔10秒將安置一架自動炮台,炮台每次受到的傷害都為1。
+  }
+  {
+    id: 422
+    name: 分裂威脅
+    character_des: 血量低於80%/50%/20%時將安置分裂球雷對預警範圍造成大量傷害。
+  }
+  {
+    id: 423
+    name: 強襲專注
+    character_des: 提升自身火力35%和命中100%,持續5s。技能前置:5秒,冷卻時間:8秒。
+  }
+  {
+    id: 424
+    name: 射擊
+    character_des: 該單位的射擊可以通過在掩體後躲避從而規避傷害。
+  }
+  {
+    id: 425
+    name: 投擲
+    character_des: 將對預警範圍造成大量傷害,注意躲避!同時也將在投擲點留下彈藥,運用彈藥進行反擊吧!
+  }
+  {
+    id: 426
+    name: 技巧·暴徒
+    character_des: 對遠距離單位造成基礎傷害,對接近自身的敵方單位造成必中傷害
+  }
+  {
+    id: 427
+    name: 持盾前進
+    character_des: 該單位在移動時將使用盾牌降低受到的傷害,減傷50%
+  }
+  {
+    id: 428
+    name: 干擾B
+    character_des: 清除我方所有的正面增益及護盾
+  }
+  {
+    id: 429
+    name: 干擾Y
+    character_des: 清除敵方所有的負面效果並給予護盾
+  }
+  {
+    id: 430
+    name: 專業人員
+    character_des: 經驗不一的專業團隊
+  }
+  {
+    id: 431
+    name: 舉盾警備
+    character_des: 原地舉起盾牌持續獲得護盾增益
+  }
+  {
+    id: 432
+    name: 蓄力充能
+    character_des: 蓄力聚集能量,對目標造成傷害
+  }
+  {
+    id: 433
+    name: 持續傷害
+    character_des: 該單位攻擊附帶重傷效果，持續扣除我方單位生命值
+  }
+  {
+    id: 434
+    name: 投擲
+    character_des: 將對預警範圍造成大量傷害,注意躲避
+  }
+  {
+    id: 435
+    name: 反機械
+    character_des: 該單位會使用反機械的武器對我方機械單位造成巨大傷害
+  }
+  {
+    id: 436
+    name: 核心
+    character_des: 作為敵人的部隊首腦，被擊殺後會下降其他單位傷害和迴避
+  }
+  {
+    id: 437
+    name: 指揮
+    character_des: 該單位能對場上其他單位產生增益效果
+  }
+  {
+    id: 438
+    name: 召喚者
+    character_des: 不停地召喚新單位投入戰場
+  }
+  {
+    id: 439
+    name: 竊取者
+    character_des: 轉移敵方的部分屬性值到自身
+  }
+  {
+    id: 440
+    name: 刺殺者
+    character_des: 善用刀與鋼爪，可對敵方單個編制造成斬殺效果
+  }
+  {
+    id: 441
+    name: 豎盾
+    character_des: 降低身後單位所受傷害，豎盾期間自身受到一定傷害後，會提前結束豎盾效果。
+  }
+  {
+    id: 442
+    name: 徵用
+    character_des: 偷取當前攻擊目標的命中值並標記，可疊加。普攻會依據標記層數對標記目標造成額外傷害。
+  }
+  {
+    id: 443
+    name: 掩護號令
+    character_des: 提升己方全體迴避。
+  }
+  {
+    id: 444
+    name: 鐵壁
+    character_des: 在場時自身周圍友方單位所受傷害降低，敵方單位傷害降低。
+  }
+  {
+    id: 445
+    name: 櫻反像
+    character_des: 給自身增加一個護盾，持續5秒。若持續時間內護盾破裂，提升自身閃避，否則提升自身火力。
+  }
+  {
+    id: 446
+    name: 披薩標記
+    character_des: 攻擊標記敵人，累積三個觸發額外傷害並提升自身傷害
+  }
+  {
+    id: 447
+    name: 雪人出擊
+    character_des: 受到4次雪人的攻擊的單位會被標記一個編制，所有編制都被標記時，凍結（眩暈）該單位並造成額外傷害
+  }
+  {
+    id: 900
+    name: ？？？？
+    character_des: 有關它的一切都處於迷霧中，神秘的存在
+  }
+  {
+    id: 901
+    name: 酗酒
+    character_des: 該單位醉意朦朧，迷迷...糊糊...
+  }
+  {
+    id: 902
+    name: 高度危險
+    character_des: 警告！高度危險！規避！規避！
+  }
+  {
+    id: 903
+    name: 訓練專用
+    character_des: 訓練用
+  }
+  {
+    id: 904
+    name: 心智干擾
+    character_des: unit_character-20000904
+  }
+  {
+    id: 905
+    name: 心智復甦
+    character_des: unit_character-20000905
+  }
+  {
+    id: 906
+    name: 心智鏈接
+    character_des: unit_character-20000906
+  }
+  {
+    id: 907
+    name: 心智融合
+    character_des: unit_character-20000907
+  }
+  {
+    id: 908
+    name: 致命
+    character_des: 目標擁有難以承受的超高傷害，千萬別被擊中
+  }
+  {
+    id: 909
+    name: 人形機械
+    character_des: unit_character-20000909
+  }
+  {
+    id: 910
+    name: 自動防禦設施
+    character_des: 該建築擁有自主攻擊的能力
+  }
+  {
+    id: 911
+    name: 失格異構體
+    character_des: 失格異構體
+  }
+  {
+    id: 1001
+    name: 精英
+    character_des: 在所屬勢力中能力突出的存在
+  }
+  {
+    id: 1002
+    name: 格里芬精英
+    character_des: 來自格里芬的精英單位
+  }
+  {
+    id: 1003
+    name: 高威脅
+    character_des: 該單位對我方威脅很大，請謹慎應對
+  }
+  {
+    id: 1004
+    name: ？？？
+    character_des: unit_character-20001004
+  }
+]

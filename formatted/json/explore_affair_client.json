@@ -1,0 +1,4782 @@
+[
+    {
+        "id": 1,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]被幾個人類搭訕了，但是對方很無禮，人類與人形友好的關係史上可能又留下了一個小黑點。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 2,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]被幾個人類搭訕了，雙方經歷了友善的交流，直到人類發現她是人形為止。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 3,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]被幾個人類搭訕了，雙方經歷了愉快的交流，他們似乎不介意什麼人形與人類的問題。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 4,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]不慎踏入了一頭熊的地盤，經過短暫的對峙之後決定退後並繞路。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 5,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "34:20",
+        "content": "[gun1:34]不慎踏入了一頭熊的地盤，經過短暫的對峙之後，熊跑了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 6,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "39:20",
+        "content": "[gun1:39]不慎踏入了一頭熊的地盤，並且被怒氣衝衝的熊拍了一巴掌。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 7,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]因為喝多了所以沒發現自己踏入了一頭熊的地盤，還拉著熊一起喝酒。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 8,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]不小心摔了一跤。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 9,
+        "area_id": "3,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]渡河時差點摔進河裡。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 10,
+        "area_id": "3,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]渡河時摔進了水裡還被湍急的河水衝走，好在衝到一半的時候被石頭卡住了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 11,
+        "area_id": "3,4,1",
+        "weight": 0,
+        "tag_weight": "30:20",
+        "content": "經過河邊的時候每個人都特別小心，生怕一個不留神就會被[gun1:30]弄進冰冷的水裡。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 12,
+        "area_id": "3,4,1",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]因為喝多了，渡河時差點摔進河裡。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 13,
+        "area_id": "3,4,1",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]因為喝多了，渡河時摔進了河裡。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 14,
+        "area_id": "3,4,1",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]因為喝多了，渡河時摔進了水裡還被湍急的河水衝走，好在衝到一半的時候被石頭卡住了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 15,
+        "area_id": "3,4,1",
+        "weight": 0,
+        "tag_weight": "53:20",
+        "content": "[gun1:53]在河裡發現野生的錦鯉了！",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 16,
+        "area_id": "3,2,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了一處廢棄的木屋，但顯然裡面沒有探索的價值。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 17,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]搜索了一處廢棄的木屋，但是裡面沒有吃的，這讓她很難過。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 18,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]在一處廢棄的木屋裡發現了一台冰箱，然而裡面只有一具骸骨。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 19,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]在一處廢棄的木屋裡發現了傳說中已經絕版的牛肉罐頭，這讓她十分雀躍。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 20,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "3:20",
+        "content": "[gun1:3]在一處廢棄的木屋裡找到了一口做工精良的鐵鍋以及堪用的爐子，花了好一會兒才放棄在這裡做飯的念頭。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 21,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "9:20",
+        "content": "[gun1:9]搜索了一處廢棄的木屋，覺得要是沒有戰亂，住在這裡面也好。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 22,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "7:20",
+        "content": "[gun1:7]搜索了一處廢棄的木屋，差點把整間屋子推倒。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 23,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "7:20",
+        "content": "[gun1:7]搜索了一處廢棄的木屋，雖然在裡面發現了食物，但卻怕吃了會變胖。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 24,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "30:20",
+        "content": "其他人在搜索一處廢棄的木屋時，[gun1:30]在出口設置了一個惡作劇並且得逞。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 25,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "24:20",
+        "content": "[gun1:24]在一處廢棄木屋裡欣賞了一張海報很長的時間，即使其他人都覺得那海報俗到不行。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 26,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了一家不錯的咖啡廳，想進去買些咖啡時，發現自己沒有帶夠錢，只好離開了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 27,
+        "area_id": "3,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了一只會模仿人說話的鸚鵡，它已經學會了一個單詞，“餓”。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 28,
+        "area_id": "3,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了一只會模仿人說話的鸚鵡，它已經學會了一個單詞，“救命”。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 29,
+        "area_id": "3,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了一只會模仿人說話的鸚鵡，它已經學會了一個單詞，“媽媽”。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 30,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現前面路邊有一個代理人模樣的冰雕，雖然不知道是誰做的，但做的還挺精細。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 31,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現這附近有許多果樹和漿果樹叢，於是大家都停下腳步採取大自然的恩惠。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 32,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]回收了一些廢品並將它們變廢為寶。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 33,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "53:-5",
+        "content": "[gun1:-53]回想起最近謠傳有一頭顏色黑白相間、體積跟熊一樣大的奇特生物出沒的謠言，但她深感不以為然。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 34,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "53:-5",
+        "content": "[gun1:-53]在樹林間看見了一頭顏色是黑白相間、體積跟熊一樣大的奇特生物，但這怎麼可能呢？",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 35,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "53:-100,50:20",
+        "content": "大家聽著[gun1:50]激動地表示她看到了一頭顏色是黑白相間、體積跟熊一樣大的奇特生物，她又喝多了。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 36,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]在樹林間發現了一頭顏色是黑白相間、體積跟熊一樣大的奇特生物，它正在吃的竹子好像很好吃的樣子……",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 37,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "53:20",
+        "content": "[gun1:53]很確信自己在樹林裡看見了大熊貓，雖然很不可思議，但跟格里芬的生活比起來這又算得了什麼呢？",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 38,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "[gun1:29]發現大家都在想會不會在樹林裡看到傳說中的那個顏色是黑白相間、體積跟熊一樣大的奇特生物。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 39,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]擊敗搶劫民眾的歹徒，得到了表彰。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 40,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]看到一朵好看的花，不禁湊過去聞了一下，被臭得跳起來跑掉了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 41,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]看上去在認真地想事情，但其實是在走神。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 42,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]快樂地撲進了鬆軟的雪地裡。但是雪中埋著垃圾，她被鋒利的碎片劃傷了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 43,
+        "area_id": "3,2,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]搜索了一處廢棄的木屋，差點把整間屋子推倒。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 44,
+        "area_id": "3,2,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]搜索了一處廢棄的木屋，但是裡面沒有吃的。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 45,
+        "area_id": "3,2,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]搜索了一處廢棄的木屋，發現裡面已經被洗劫一空。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 46,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]探索未知的地區，發現了一些有價值的資源。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 47,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]探索未知的地區，結果迷路了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 48,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]為了知曉何為正義，觀看了《赤魂假面》。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 49,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在街上遇到了扒手，並機警地將對方摔在了地上。可能人類與人形友好的關係史上又留下了一個小黑點。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 50,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在街上遇到了扒手，給那傢伙跑了！",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 51,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在路上撿到了不知道是誰的失物。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 52,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在路上遇到了翻覆的貨車，並怒斥了哄搶貨物的人們。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 53,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在路上遇到了翻覆的貨車，她協助駕駛將散落的貨物裝迴車上去。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 54,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在森林深處遇到了一隻被藤蔓網住的廢棄人形。她想了很多辦法，但都沒能喚醒它。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 55,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在雪地裡踩到了柔軟的東西。當[gun1]把這個東西挖上來時，遺憾地發現只是垃圾。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 56,
+        "area_id": "3,2,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在一處廢棄的木屋裡發現了傳說中已經絕版的牛肉罐頭，這讓她十分雀躍。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 57,
+        "area_id": "3,2,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在一處廢棄的木屋裡發現了一台冰箱，然而裡面只有一具骸骨。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 58,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]找到了一顆珍貴的黑松露！",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 59,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "85:20",
+        "content": "FAL的白貂過於興奮跑不見了，[gun1:85]暗中希望它能自己回來，不然在雪地裡根本找不到。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 60,
+        "area_id": "3,2,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 61,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "經過一番搜索，但除了空瓶空罐之外[gun1]什麼都沒能發現。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 62,
+        "area_id": "3,2,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "難民們團團包圍著[gun1]，這讓她很困擾，直到她的同伴強行拉著她脫離人群。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 63,
+        "area_id": "3,2,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "難民盼望行經此地的[gun1]能伸出援手，但雙方都很明白這些過客什麼都做不了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 64,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "26:20",
+        "content": "難民們團團包圍著[gun1:26]，這讓她很困擾，直到她的同伴強行拉著她脫離人群。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 65,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "26:20",
+        "content": "儘管無法提供實質上的幫助，[gun1:26]的話語還是為惶恐的人們提供了心靈上的慰藉。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 66,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "18:20",
+        "content": "意識到前方是難民聚集的營地之後，[gun1:18]拒絕繼續前進，隊伍只得繞路。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 67,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "40:20",
+        "content": "意識到前方是難民聚集的營地之後，[gun1:40]十分沮喪。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 68,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "梯隊遇到了一個與自己隊伍失散的格裡芬人形，她婉拒了[gun1]入隊的邀約，她會在原地等待，直到她的指揮官找到她。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 69,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "野豬、兔子、花鹿，許多受驚嚇的動物與人形們錯身而過，[gun1]認為這表示森林裡潛伏著某些可怕的東西。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 70,
+        "area_id": "4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "一個小孩攔住了[gun1]，他費盡心思想要阻止大家繼續往前走，前方是重污染區。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 71,
+        "area_id": "3,2,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "一個在難民營裡的難民試圖強行將自己的孩子塞在[gun1]懷裡，但孩子不願意離開他的父母，這給了隊伍逃開的機會。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 72,
+        "area_id": "3,2,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "意識到前方是難民聚集的營地之後，[gun1]十分沮喪。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 73,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "有一夥人跟著梯隊走了好幾公里，他們是想從人形身上牟取利益的黑市商人，[gun1]驅趕了這些人。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 74,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "遠處的樹林裡有大群鳥兒飛起，這引起了[gun1]的注意，似乎附近除了格里芬以外還有其他人活動著。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 75,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "17:20",
+        "content": "儘管還不該在這停下，但已經沒人能阻止[gun1:17]坐下來喝茶了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 76,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "20:20",
+        "content": "[gun1:20]覺得大家應該來個小跑步鍛煉體魄，但是遭到其他人一致反對。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 77,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "41:20",
+        "content": "有一夥人跟著梯隊走了好幾公里，他們是想從人形身上牟取利益的黑市商人，[gun1:41]驅趕了這些人。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 78,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "15:20",
+        "content": "[gun1:15]突然想起來自己訂閱的創作者今天更新了新影片。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 79,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "15:20",
+        "content": "[gun1:15]趁其他人沒發現的時候偷偷把一部電影補完了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 80,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "20:20",
+        "content": "大夥發現[gun1:20]今天出門時身上裝備負重比以往重，猜測是新的自我訓練方式。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 81,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "16:20",
+        "content": "快遞通知[gun1:16]她買的商品已經送到了基地，由格琳娜簽收。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 82,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "16:20",
+        "content": "快遞通知[gun1:16]她買的商品在半路上被來路不明的黑色皮衣人形給炸了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 83,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "16:20",
+        "content": "快遞通知[gun1:16]她買的商品太多，在基地門口被攔了下來。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 84,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "1:20",
+        "content": "[gun1:1]嚐了一口今天的伙食，發現全是鹹料理，開戰的時刻來了！",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 85,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "2:20",
+        "content": "[gun1:2]嚐了一口今天的伙食，發現全是甜料理，開戰的時刻來了！",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 86,
+        "area_id": "3,1",
+        "weight": 0,
+        "tag_weight": "36:20",
+        "content": "[gun1:36]發現了一窩失去母貓的小奶貓，決定整窩帶回基地去。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 87,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "54:20",
+        "content": "[gun1:54]開始變得疑神疑鬼，不斷表示她好像聽到旁邊的草叢有誰在用芬蘭語說話。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 89,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "36:20",
+        "content": "[gun1:36]嘗試和森林中其他動物對話，但誰也沒有理會她。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 90,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "36:20",
+        "content": "[gun1:36]嘗試和森林中其他動物對話，一隻[pet1]試圖和她交流。誰也沒有聽懂對方在說什麼，最終[gun1]只能遺憾地目送[pet1]離去了。",
+        "necessary_num": "1,1",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 91,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "40:20",
+        "content": "人形們天馬行空地討論話題打發無聊時間。如果世界馬上就要毀滅了……[gun1:40]聲稱自己將會輓救局勢。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 92,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "10:20",
+        "content": "人形們天馬行空地討論話題打發無聊時間。假設有顆隕石即將撞擊地球……[gun1:10]認為這就跟恐龍滅絕同樣是自然規律的一部分，大家應當坦然接受。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 94,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "38:20",
+        "content": "[gun1:38]在地上找到了空瓶，心想說不定能賣給資源回收業者就撿了起來。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 95,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "26:20,31:20,40:20",
+        "content": "[gun1:26,31,40]在路上遇到了難民，經過一番掙扎，決定讓出自己的口糧給對方。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 96,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "43:20",
+        "content": "[gun1:43]趁著任務途中稍事休息的空檔，開始保養清洗著備用的槍管和彈鏈。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 97,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "經過長時間的觀察後，[gun1:29]發現到[gun2]手中武器的瞄準器其實裝反了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 98,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "經過長時間的觀察後，[gun1:29]發現到[gun2]手中武器的瞄準器其實裝反了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 99,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "經過長時間的觀察後，[gun1:29]意識到[gun2]臉上並不是戰鬥造成的傷痕，只是沾到番茄醬。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 100,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "經過長時間的觀察後，[gun1:29]開始懷疑[gun2]其實不是人形的可能性。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 101,
+        "area_id": "3,2,4,1",
+        "weight": -20,
+        "tag_weight": "3:20",
+        "content": "[gun1:3]和[gun2:3]爭論起，到底是全熟蛋好，還是半熟蛋好。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 102,
+        "area_id": "3,2,4,1",
+        "weight": -20,
+        "tag_weight": "3:20",
+        "content": "[gun1:3]和[gun2:3]爭論起，培根到底應該要用煎的，或是炸的。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 104,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "60:20",
+        "content": "[gun1:60]在執行任務期間發現了一台車輛殘骸，她一眼就認出來那巨大的V8引擎，與它曾經輝煌亮麗的模樣。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 105,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]詢問[gun2]什麼時候擴編了三倍，[gun2]命令她不要在任務中喝酒。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 106,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "62:20",
+        "content": "[gun1:62]在路上走著走著，不小心原地睡著了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,801"
+    },
+    {
+        "id": 107,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "62:20",
+        "content": "[gun1:62]睡醒了，差點錯過提交任務的時間。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,801"
+    },
+    {
+        "id": 108,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "14:20",
+        "content": "[gun1:14]在書中發現了神秘地圖，根據地圖找到了寶物。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 109,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "14:20",
+        "content": "[gun1:14]走路的時候還在看書，結果被絆倒了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 110,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "64:20",
+        "content": "[gun1:64]經過努力，做出了超好吃的飯菜。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 111,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "64:20",
+        "content": "[gun1:64]的菜不小心煮過了頭，不過勉強還能吃……",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 112,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "65:20",
+        "content": "[gun1:65]在執行任務的時候聽歌聽到興奮，效率大增。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,803"
+    },
+    {
+        "id": 113,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "65:20",
+        "content": "[gun1:65]給同伴唱歌，得到了大家的稱讚和一份小禮物。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2,803"
+    },
+    {
+        "id": 114,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "66:20",
+        "content": "[gun1:66]在任務間隙喝了一杯茶，得到了充分的休息。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 115,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "66:20",
+        "content": "[gun1:66]叫來同伴一起喝茶，心情變得愉快起來。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 116,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "67:20",
+        "content": "[gun1:67]跑得太快了，不小心摔了一跤。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 117,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "67:20",
+        "content": "[gun1:67]在鍛煉的時候撿到了不知道是誰的失物。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 118,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "68:20",
+        "content": "[gun1:68]和其他人形聊天時候產生了糾紛，大家不歡而散。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 119,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "68:20",
+        "content": "[gun1:68]和其他人形交換了格裡芬基地內的八卦。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 120,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "69:20",
+        "content": "[gun1:69]由於走路的時候發呆，不小心迷路了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 121,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "69:20",
+        "content": "[gun1:69]看上去在認真地想事情但並不知道在想什麼。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 122,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "70:20",
+        "content": "[gun1:70]因為想要長高所以喝了許多牛奶，但似乎並沒有什麼用。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 123,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "70:20",
+        "content": "[gun1:70]牛奶喝多了，只好努力地尋找廁所。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 124,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "71:20",
+        "content": "[gun1:71]講了一個冷笑話，讓大家都笑不出來。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 125,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "71:20",
+        "content": "[gun1:71]開了一個玩笑，嚇壞了同行的人形。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 126,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]喝多了，在路邊睡著了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 127,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]和別人賭酒量獲勝，得到了應得的報酬。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 128,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "73:20",
+        "content": "[gun1:73]說了很多的話，但是聽眾早就偷偷溜走了。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 129,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "73:20",
+        "content": "[gun1:73]找不到說教的對象，很不開心。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 130,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "60:20",
+        "content": "[gun1:60]在飆車的時候意外撿到了有用的東西。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 131,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "75:20",
+        "content": "[gun1:75]為了食物和別人大打出手，最後還是搶到了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 132,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "1:20",
+        "content": "[gun1:1]為了吃到糖果和別人比賽，取得了勝利。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 133,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "1:20",
+        "content": "[gun1:1]撿到了糖果，開心地吃掉了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 134,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "77:20",
+        "content": "[gun1:77]督促人形努力工作，獲得了額外的收入。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 135,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "38:20",
+        "content": "[gun1:38]回收了一些廢品並將它們變廢為寶。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 136,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "20:20",
+        "content": "[gun1:20]進行了強化自身能力的訓練。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 137,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "20:20",
+        "content": "[gun1:20]在出任務時也沒有忘記訓練。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 138,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "79:20",
+        "content": "[gun1:79]講了一個鬼故事，嚇壞了聽故事的其他人。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 139,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "30:20",
+        "content": "[gun1:30]捉弄了其他人形，被大家抓住教育。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 140,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "30:20",
+        "content": "[gun1:30]想要捉弄別人，但沒有成功，被其他人抓住教育。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 141,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "81:20",
+        "content": "[gun1:81]探索未知的地區，發現了一些有價值的資源。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 142,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "81:20",
+        "content": "[gun1:81]探索未知的地區，結果迷路了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 143,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "82:20",
+        "content": "[gun1:82]擊敗搶劫民眾的歹徒，得到了表彰。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 144,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "82:20",
+        "content": "[gun1:82]為了知曉何為正義，觀看了《赤魂假面》。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 145,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]開始用平常的0.5倍速慢條斯理地吃起了冰淇淋，天冷的地方不會讓冰淇淋化掉這點讓她很開心。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 146,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "其他人經過都沒事，但[gun1:5]經過時卻踩塌了一處鬆散的雪坑，這是為什麼呢？",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 147,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "7:20",
+        "content": "[gun1:7]踩塌積雪掉進了鬆散的雪坑，不知為什麼這似乎讓她很受很打擊。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 148,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "55:20",
+        "content": "得知暴風雪要來的[gun1:55]突然非常焦急，開始堅持要在天氣惡化前趕到目的地。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 149,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "56:20",
+        "content": "得知暴風雪要來的[gun1:56]突然非常不安，開始堅持要就地囤積一切補給度過糟糕的天氣。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 150,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "[gun1:29]發現前面路邊有一個代理人模樣的冰雕，到底要不要跟其他人說呢……",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 151,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "30:20",
+        "content": "[gun1:30]暗中做了一大堆代理人模樣的冰雕，並且還把它放在其他人的必經之路上。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 152,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "33:20",
+        "content": "[gun1:33]弄到了一根結實的冰錐，開始研究用冰錐作戰的方法。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 153,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "10:20",
+        "content": "[gun1:10]看著廣闊的雪景看得出神，但轉頭卻表示也不怎麼樣。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 154,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "9:20",
+        "content": "[gun1:9]前進的速度放慢了，雖然沒有明說，但其他人看得出來她在享受雪景。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 155,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "20:20",
+        "content": "為了要強化對寒冷的抗性（自稱），[gun1:20]減少了身上禦寒的裝備，希望不會有問題。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 157,
+        "area_id": "2",
+        "weight": -20,
+        "tag_weight": "86:20",
+        "content": "G11跟著HK416外出，在HK416觀察路況的時候G11不小心站著睡著了，並被HK416做成了雪人放在路邊。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 158,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "指揮官要求以後在冬天訂貨巧克力時選用白巧克力，並警告[gun1:5]不許偷吃。[gun1]運送物資時沒有偷吃，但沒發現白巧克力掉在雪地上，任務失敗。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 159,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "30:20",
+        "content": "阿梅利在雪地中巡邏時遇到了[gun1:30]，阿梅利答應了[gun1]看守陷阱的請求，站在陷阱旁邊直到天黑，被其他人形當成是雪地中的松樹。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 160,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "83:-10,84:-10",
+        "content": "[gun1:-83,84]被陽光照在雪地上的反射光閃瞎了，開始抱怨IOP視覺模組為什麼要做的那麼貼近人類。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 161,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "31:20",
+        "content": "[gun1:31]被突然現身的代理人嚇得驚慌失措，反擊後發現那只是一個冰雕……誰幹的啊！",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 163,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "57:20",
+        "content": "[gun1:57]覺得頭有些重，但仍然繼續前進。直到要回去的時候，她才發現頭髮裡不知何時纏上了一隻小動物，連忙把它解救下來。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 164,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "39:20",
+        "content": "[gun1:39]在雪地裡發現了一隻凍得心智錯亂的鐵血人形，被對方嚇得掉進了冰洞。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 165,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "39:20",
+        "content": "[gun1:39]在雪地裡發現了一隻落單但凶狠的鐵血人形，鼓起勇氣把對方推進了冰洞。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 166,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "聞到酒香味的[gun1:50]到處尋找酒，但一無所獲。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 167,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "聞到酒香味的[gun1:50]到處尋找酒，不但沒有找到酒，甚至被敵人發現，狼狽地逃了回來。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 168,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "7:20",
+        "content": "[gun1:7]踩塌了一塊厚冰。為此很受打擊的她一路低著頭回來了，直到現在心情也很低落。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 169,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "3:20",
+        "content": "[gun1:3]一路上興衝衝地講著食材的料理，結果不慎掉進了冰洞。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 170,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "39:20",
+        "content": "一個小孩攔住了[gun1:39]，他費盡心思想要阻止大家繼續往前走，前方是重污染區。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 171,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "8:20",
+        "content": "[gun1:8]努力地活躍著氣氛，不慎被一塊石頭絆到。但她不僅出色地維持住平衡，還發現了地上有鑽石！但隨即她發現自己看錯了，那只是垃圾而已。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 172,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "8:20",
+        "content": "[gun1:8]努力地活躍著氣氛，不慎被一塊石頭絆到，狼狽地摔倒了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 173,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "9:20",
+        "content": "[gun1:9]十分享受荒野的空曠，休息時單獨在周圍散步，不慎被敵人發現，只好暫時撤離。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 174,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "11:20",
+        "content": "[gun1:11]借來了一輛車，帶著隊員們在曠野上快速前行。但輪胎被扎破了，她們不得不停下來修理，回來的時間還是和原定的沒有差別。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 175,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "17:20",
+        "content": "[gun1:17]在荒野上艱難地泡起了一杯紅茶，但還沒等她喝下去，風就把塵土吹進了她的茶杯。一杯好茶泡湯了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 176,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "17:20",
+        "content": "[gun1:17]在荒野上艱難地泡起了一杯紅茶，並且小心地擋著狂風享用了它，她的心情很好。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 177,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "53:20",
+        "content": "[gun1:53]在荒野上詩興大發，當即吟詩一首，後因作詩時間過長而不得不花了些時間趕上隊友。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 178,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "40:20",
+        "content": "[gun1:40]在路上遇到了翻覆的貨車，並怒斥了哄搶貨物的人們。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 179,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "14:20",
+        "content": "[gun1:14]在偏僻的書店裡找到了幾十年前的絕版書，這可比黃金珍貴多了！",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 180,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "32:20",
+        "content": "收了可觀的小費後，酒吧老闆小聲道……[gun1:32]昨天打賭獲勝說都是運氣好都是騙人的。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 181,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "收了可觀的小費後，酒吧老闆小聲道……[gun1:5]已經不能再吃了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 182,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "收了可觀的小費後，酒吧老闆小聲道……赫麗安昨天相親又失敗了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 183,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "收了可觀的小費後，酒吧老闆小聲道……[gun1:50]前幾天喝醉時說味道特別好的那個飲料其實是汽油。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 184,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "34:20",
+        "content": "大家發現人們看到[gun1:34]迎面走來時全都選擇繞路。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 185,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "35:20",
+        "content": "[gun1:35]被幾個人類搭訕了，但來者碰了一鼻子灰，甚至還有點興奮。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 186,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "[gun1:29]在購物中心遭遇了小偷。她讓對方摸走了一包垃圾，並記錄了對方發現之後的神態變化。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 187,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "30:20",
+        "content": "[gun1:30]在購物中心遭遇了小偷。她立刻裝作柔弱的女性，成功吸引來一群正義感強的人類暴打了小偷，並拿回了自己的錢包。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 188,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "36:20",
+        "content": "由於攜帶寵物，在想去吃飯時，[gun1:36]被拒絕入內，只好站在門外等待同伴打包帶出來。",
+        "necessary_num": "3,1",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 189,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "38:20",
+        "content": "[gun1:38]發現這月還有不少結餘，打算去購物中心轉轉。但在聽說基地的快遞堆積如山後，她決定還是先把這些錢存下。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 190,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "38:20",
+        "content": "[gun1:38]發現這月還有不少結餘，打算去購物中心轉轉。她愉快地收穫了自己需要的東西，並給指揮官帶回了禮物。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 191,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "27:20",
+        "content": "[gun1:27]雖然很想去購物，但想到現在還是任務中，遺憾地把這個願望壓後了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 192,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "27:20",
+        "content": "[gun1:27]在和別人玩耍時，突然想起了還未完成的工作，於是立刻返回工作，留下別人在風中凌亂",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 193,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "75:20",
+        "content": "[gun1:75]發現自己的口糧袋已經空空如也，而身邊的人也早已被自己搜刮得一乾二淨，[gun1]差點當場當機。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 194,
+        "area_id": "3,2,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了一個神秘洞窟，但因為洞裡黑漆漆的什麼也看不見，她猶豫著要不要進去。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 195,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "81:20",
+        "content": "[gun1:81]發現了一個神秘洞窟，她興奮地衝進去探險，不料卻被門口的石頭絆了一交。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 196,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "79:20",
+        "content": "[gun1:79]發現了一個神秘洞窟，於是給其他人講起了關於尋寶者和寶藏的故事，大家聽得津津有味。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 197,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "71:20",
+        "content": "[gun1:71]發現了一個神秘洞窟，她開玩笑說裡面說不定有熊，沒想到真的有熊跑了出來。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 198,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "20:20",
+        "content": "[gun1:20]發現了一個神秘洞窟，其他人紛紛好奇地進去探險，[gun1]卻留在原地做起了伏地挺身 。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 199,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]艱難地在一片密林中跋涉，突然發現了風景極佳的觀景點，決定停下來整備。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 200,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "51:20",
+        "content": "[gun1:51]艱難地在一片密林中跋涉，突然發現了風景極佳的觀景點，於是將自己之前收集的不明植物的種子埋在了此地。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,803"
+    },
+    {
+        "id": 201,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "8:20",
+        "content": "[gun1:8]艱難地在一片密林中跋涉，突然發現了風景極佳的觀景點，立刻拉上了身邊的人開起了派對。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 202,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "66:20",
+        "content": "[gun1:66]艱難地在一片密林中跋涉，突然發現了風景極佳的觀景點，還沒等別人反應過來，就已經架好了茶壺準備煮茶。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 203,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]無意中抬頭，看見了一隻可愛的松鼠正在悄悄地看她，於是開心地打了個招呼。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 204,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "69:20",
+        "content": "[gun1:69]無意中抬頭，看見了一隻可愛的松鼠正在悄悄地看她，[gun1]盯著松鼠發起了呆，但是腳步並沒有停下，直到她撞上了前面的樹。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 205,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "39:20",
+        "content": "[gun1:39]無意中抬頭，看見了一隻可愛的松鼠正在悄悄地看她，於是掏出了珍藏的巧克力，沒想到松鼠拿到手之後頭也不回地跑了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 206,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]無意中抬頭，看見了一隻可愛的松鼠正在悄悄地看她，[gun1]的目光立刻鎖定了松鼠懷中的松果，並留下了真情實感的口水，松鼠嚇得落荒而逃。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 207,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "風雪突然猛烈起來，[gun1]發現了路邊不知誰搭建的冰屋，決定先進去避避暴風雪。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 208,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "14:20",
+        "content": "風雪突然猛烈起來，[gun1:14]發現了路邊不知誰搭建的冰屋，於是進去通宵看完了整本小說。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 209,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "15:20",
+        "content": "風雪突然猛烈起來，[gun1:15]發現了路邊不知誰搭建的冰屋，於是進去追劇追了個爽。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 210,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "30:20",
+        "content": "[gun1:30]偷偷團了個雪球，趁人不備砸在了別人臉上，結果被暴打一頓並做成了雪人。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 211,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "在雪地跋涉了很久，疲憊的[gun1]提議大家一起堆個雪人。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 212,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "24:20",
+        "content": "大家一起堆了個雪人，等其他人都走遠了，[gun1:24]悄悄把自己最喜歡的圍巾圍在了雪人脖子上。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 213,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "31:20,39:20,1:20",
+        "content": "聽信了其他人「冬天的鐵柵欄是甜的」的傳言，[gun1:31,39,1]趁大家沒注意，偷偷舔了舔鐵柵欄。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 214,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "40:20",
+        "content": "看見有人不小心陷進了沼澤，[gun1:40]立刻跳了進去想要救人，結果一起喊起了救命。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 215,
+        "area_id": "4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]遇見了一群獵人，莫名其妙地攀談起來，還聊得很是投機。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 216,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "3:20",
+        "content": "[gun1:3]遇見了一群獵人，聊得很開心，獵人們還送給了她剛捕獲的獵物。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 217,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]遇見了一群獵人，聊得很開心，氣氛十分融洽，直到她吃光了獵人所有的口糧。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 218,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "4:20",
+        "content": "[gun1:4]遇見了一群獵人，聊得很開心，氣氛十分融洽，直到她親自下廚並熱情地端上了黑乎乎的飯菜。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 219,
+        "area_id": "4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在路邊看見了一種自己從沒見過的鮮花，於是停下來腳步專心觀察了起來。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 220,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "51:20",
+        "content": "[gun1:51]在路邊看見了一種自己從沒見過的鮮花，她小心地摘了下來夾在書中，準備回去的時候給指揮官看。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,803"
+    },
+    {
+        "id": 221,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]在路邊看見了一種自己從沒見過的鮮花，她張大嘴巴「嗷嗚」一口吞掉了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 222,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "62:20",
+        "content": "[gun1:62]在路邊看見了一種自己從沒見過的鮮花，她認真觀察了一會，然後就睡著了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,801"
+    },
+    {
+        "id": 223,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]看見一個人類女孩飛奔出來和一個人類男孩擁抱，不禁思念起了指揮官。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 224,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "14:20",
+        "content": "[gun1:14]看見一個人類女孩飛奔出來和一個人類男孩擁抱，想起了剛看完的書中男女主悲劇的命運，一陣唏噓。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 225,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "51:20",
+        "content": "[gun1:51]看見一個人類女孩飛奔出來和一個人類男孩擁抱，動情地給指揮官寫了封信。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,803"
+    },
+    {
+        "id": 226,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]路過了自動售貨機，被裡面奇奇怪怪的商品吸引住了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 227,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]路過了自動售貨機，非要強行扛走，不同意就躺在地上打滾，最後被其他人拖走了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 228,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "69:20",
+        "content": "[gun1:69]路過了自動售貨機，已經一動不動盯著裡面的商品兩個小時了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 229,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "59:20",
+        "content": "[gun1:59]路過了自動售貨機，自信滿滿地說要給其他人演示怎麼操作自動售貨機，結果手被出貨口卡得死死的。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 230,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "7:20",
+        "content": "[gun1:7]路過了自動售貨機，本來想買些零食解饞，但是想到了體重，她伸出的手又顫抖著收回了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 231,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "為了補充物資，[gun1]走進了超市。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 232,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "為了補充物資，[gun1:5]走進了超市，結果賴在了試吃區死活不肯走。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 233,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "16:20",
+        "content": "為了補充物資，[gun1:16]走進了超市，結果一頭扎進了時裝區買到天昏地暗。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 234,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "64:20",
+        "content": "為了補充物資，[gun1:64]走進了超市，結果開開心心買了一堆食材走了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 235,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "24:20",
+        "content": "為了補充物資，[gun1:24]走進了超市，結果被老年服裝區深深吸引。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 236,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "考慮到連日來努力完成任務的辛苦，[gun1]決定吃頓好的補償自己。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 237,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "3:20",
+        "content": "考慮到連日來努力完成任務的辛苦，[gun1:3]決定吃頓好的補償自己，於是精心烹飪做了一桌美味。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 238,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "考慮到連日來努力完成任務的辛苦，[gun1:5]決定吃頓好的補償自己，於是選擇了全市最好的自助，最後吃到被大堂經理哭著請走。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 239,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "60:-20",
+        "content": "經過城市的中心，[gun1]被這座城市的繁華所吸引。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 240,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "60:20",
+        "content": "經過城市的中心，大家都被這座城市的繁華所吸引，等回過神來，[gun1:60]已經在車水馬龍中開出一條道了。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 241,
+        "area_id": "1,3",
+        "weight": 0,
+        "tag_weight": "52:20",
+        "content": "[gun1:52]站到高處，衝隊友們做起鬼臉。\n但是她沒有注意到旁邊的石頭有青苔，在跳起來的時候突然腳一滑摔倒了。\n面對隊友的笑聲，<gun1>灰溜溜地歸隊繼續前進了。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 242,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "52:20",
+        "content": "[gun1:52]不小心踩到了地雷，但在千鈞一髮之際她跳開了，成功躲過了爆炸。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 243,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "21:20",
+        "content": "[gun1:21]發現該地區埋有殺傷地雷。\n<gun1>拆掉了地雷，保證了小隊能夠正常繼續任務。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 244,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "77:20",
+        "content": "政府大力表彰了[gun1:77]，聽說她讓當地的小混混改過自新，自願當起了城鎮的衛兵。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 245,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "77:20",
+        "content": "[gun1:77]在當地發現了一群小混混，她決定用殘酷的訓練糾正他們。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 246,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "40:10",
+        "content": "[gun1]的梯隊在幫忙護衛當地居民時，被鐵血梯隊偷襲，所幸在鏖戰後終於擊敗了鐵血梯隊，該鐵血梯隊的首領被摧毀前還在不斷發送“不要停下來啊……”的訊息。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,6-12"
+    },
+    {
+        "id": 247,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]路過了一間雜貨店，發現門雖然關著，郵箱卻塞滿了給店主的信。人形們有些好奇想打開信看看，希望她們不會遇到什麼奇怪的事。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2,5-2"
+    },
+    {
+        "id": 248,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在路邊發現了一隻半黑半白的玩偶熊，因為看起來很可怕所以將它銷毀了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 249,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了高約21米的人型軍方兵器！在驚訝的同時[gun2]立刻通知梯隊撤離，這時[gun3]仔細分析後得出了繼續前進的結論——因為那個巨大兵器上寫的製造商是本代公司。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 250,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "77:-20",
+        "content": "[gun1:-77]對大型商場非常好奇，改變了行進路線。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 251,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "53:20",
+        "content": "梯隊來到了補給站，[gun1:53]卻發現這裡不支援掃碼付款，感到十分焦急，還好[gun2]帶了不少現金出來。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 252,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "81:20",
+        "content": "[gun1:81]在荒野上發現了一顆巨大的蛋，興奮地運回據點後發現，那只是個玩具。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 253,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "81:20",
+        "content": "[gun1:81]找到了一座廢棄的工業製品廠，想到這些都是可分解的材料時，她興奮得告訴梯隊今天要把負重都帶滿。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 254,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "81:20",
+        "content": "[gun1:81]在荒野上收集到許多瓶蓋，她雖然不知道能用來幹什麼但是非常高興。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 255,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "81:20",
+        "content": "[gun1:81]將自己的獎金都用來購買裝備了，不過她似乎忘記了要最先購買口糧。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 256,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "81:20",
+        "content": "[gun1:81]居然在荒野中發現了一隻體型怪異的泥沼蟹，她聯想到某個末日生存鍛煉軟體，立刻與之展開了大戰。後來人形們發現那只是普通的螃蟹而已。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 257,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "11:20",
+        "content": "[gun1:11]找來了一輛會飛的汽車，但是上車後發現已經沒有油了……為了體驗一次飛翔的感覺，梯隊人形們決定推車到加油站。不過最後發現沒有汽油支持這種車。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2,5-5"
+    },
+    {
+        "id": 258,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "40:20",
+        "content": "[gun1:40]救助了一對在荒野中遇難的夫婦，他們向格里卻芬寄來了感謝信。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 259,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "69:20",
+        "content": "[gun1:69]盯著一顆老樹，像是在觀察什麼。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 260,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "69:20",
+        "content": "大家驚訝地發現[gun1:69]走丟了，還好[gun2]把她帶了回來。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 261,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "66:20",
+        "content": "[gun1:66]拿出了珍藏的茶具，在一處空地品起了茶。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 262,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "65:20",
+        "content": "[gun1:65]在森林裡唱起了歌，引來了許多同樣熱愛音樂的friends。",
+        "necessary_num": "2,3",
+        "background": "",
+        "script_type": "2,803"
+    },
+    {
+        "id": 263,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "66:20",
+        "content": "為了打發時間，[gun1:66]開始為大家科普茶葉的種類，[gun2]產生了濃厚的興趣。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 264,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "79:20",
+        "content": "[gun1:79]講起了最近剛完結小說的結局，被正在追書的[gun2]暴打。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 265,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "30:20",
+        "content": "在充滿八卦氛圍的討論中，[gun1:30]捏造了指揮官感情史，沒想到眾人信以為然，她們紛紛表示對指揮官產生了改觀。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 266,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "71:20",
+        "content": "[gun1:71]在與鐵血人形的激戰中，宣稱自己得到了軍方的支援，鐵血決定就此撤退。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "6-15"
+    },
+    {
+        "id": 267,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "66:20",
+        "content": "[gun1:66]對茶飲料的評價非常低，但她喝了一口[gun2]攜帶的檸檬茶飲料後，表示自己要用任務的獎金，網購十箱這種黃色包裝的檸檬茶飲料。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 268,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "68:20",
+        "content": "[gun1:68]和大家聊起誓約的話題，引發了熱烈的討論，導致探索速度有所減慢。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 269,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "62:20",
+        "content": "[gun1:62]已經邊睡邊走很久了，但是沒有人發現她在睡覺。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 270,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "62:20",
+        "content": "[gun1:62]把不知道從哪裡撿來的被子裹在身上，並聲稱自己不當人形了……隨後被[gun2]敲醒，沒收了被子。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2,801"
+    },
+    {
+        "id": 271,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "73:20",
+        "content": "[gun1:73]發現一位人類的垃圾分類並不正確，於是親切地提醒他:“分類錯了，你是什麼垃圾？”",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 272,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "65:20",
+        "content": "[gun1:65]抱怨正在使用的音樂平台下架了許多自己鍾愛的音樂。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 273,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "67:20",
+        "content": "[gun1:67]發現大家的運動量嚴重不足，號召大家鍛煉，但是只有[gun2]響應了她。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 274,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "64:20",
+        "content": "為了能煎出完美的牛排，[gun1:64]網購了鑄鐵鍋和溫度計，卻發現森林中沒有訊號下單，她決定加快走出森林的速度。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 275,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "75:20",
+        "content": "[gun1:75]單獨行動，突襲了鐵血工廠，後來她在記者的採訪中提到，襲擊工廠是因為那裡發現了大量的口糧。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 276,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "75:20",
+        "content": "雖然一天還沒有結束，但是[gun1:75]已經吃光了梯隊所有的口糧。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 277,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "15:20",
+        "content": "[gun1:15]悄悄地告訴了大家新人形的情報——之後的資訊屏蔽了指揮官的通訊頻道。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 278,
+        "area_id": "1,2,3,4",
+        "weight": -20,
+        "tag_weight": "60:20",
+        "content": "看到這裡複雜的地形……[gun1:60]放棄了在這裡與[gun2:60]競賽的想法。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 279,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "4:20",
+        "content": "[gun1:4]在為大家製作烤麵包時發生了爆炸，還好沒有人形受傷。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 280,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "4:20",
+        "content": "休息過後，大家驚訝地發現鐵血部隊包圍了這裡，這時[gun1:4]操作的麵包機發生了大爆炸，人形們趁機突圍。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2,6-14"
+    },
+    {
+        "id": 281,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]最近發現了新的賺錢方法，她在網路上發佈代吃業務，免費吃到了許多美食。不過這之中最多的是某速食店的套餐，據說和某個熱門網遊有關。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 282,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "為了制止[gun1:5]偷吃，同行的人形們將口糧換成了味道較差的雜糧餅乾。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 283,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "34:20",
+        "content": "[gun1:34]最近發現了新的賺錢方法，只要她站在商店門前幾小時，就有商店老闆出來向她獻上保護費。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,5-2"
+    },
+    {
+        "id": 284,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "77:20",
+        "content": "[gun1:77]發現[gun2]的持槍姿勢有5度的偏差，花了很長時間為她糾正。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 285,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "31:20",
+        "content": "[gun1:31]想從側面觀察雲的形狀，於是帶著梯隊走了很久……",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 286,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "37:20",
+        "content": "[gun1:37]規劃出了更好的前進路線，梯隊的探索效率有所增加。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 287,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "37:20",
+        "content": "[gun1:37]發現了鐵血梯隊的躲藏地，及時將地點發送給了指揮官。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,6-13"
+    },
+    {
+        "id": 288,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "2:20",
+        "content": "[gun1:2]在口糧中倒入了大量的醋，一旁的人形都看呆了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 289,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "39:20",
+        "content": "[gun1:39]看到挨餓的人類後，把所有的口糧都給了他。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 290,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "39:20",
+        "content": "[gun1:39]在路上發現了一位白髮老爺爺倒在地上，她小心翼翼地將他扶了起來，後來發現那只是某個速食店的立牌。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 291,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "21:20",
+        "content": "[gun1:21]覺得這趟探索充滿危機，她立刻補習了大量生存知識。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 292,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "[gun1:29]懷疑托卡列夫的髮色是因為過勞。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 293,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "[gun1:29]懷疑C96的髮色是因為過勞。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 294,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "[gun1:29]懷疑M1A1的髮色是因為過勞。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 295,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "[gun1:29]懷疑SVD的髮色是因為過勞。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 296,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "[gun1:29]懷疑MG42的髮色是因為過勞。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 297,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "[gun1:29]懷疑PSG-1的髮色是因為過勞。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 298,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "[gun1:29]懷疑Five-seveN的髮色是因為過勞。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 299,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "[gun1:29]懷疑IWS 2000的髮色是因為過勞。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 300,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "29:20",
+        "content": "[gun1:29]懷疑M590的髮色是因為過勞。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 301,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "28:20",
+        "content": "雖然得到了許多訓練資料，但是[gun1:28]並沒有認真去解析，獲得的物資較少。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 302,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "14:20",
+        "content": "[gun1:14]感覺現在的情形十分像某個小說的片段，她立刻組織梯隊演起了那個片段。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2,5"
+    },
+    {
+        "id": 303,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "6:20",
+        "content": "看到同行人形的身高後，[gun1:6]變得十分沮喪。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 304,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "82:10,40:10",
+        "content": "[gun1:82,40]在發現難民營糧食的分配不平等後，主動將口糧分給了他們。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 305,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "82:20",
+        "content": "為了獲得電子遊戲的勝利，[gun1:82]擅自使用了隊友的道具。結束之後她感慨道，正義果然是由自己來決定的。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 306,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "59:20",
+        "content": "[gun1:59]單獨行動，險些被鐵血捕獲。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,6-14,6-13"
+    },
+    {
+        "id": 307,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "59:20",
+        "content": "[gun1:59]給大家留下“馬上回來”的字條後，前往了戰場，還好不久後平安回來了。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 308,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "75:10,5:10",
+        "content": "[gun1:75,5]給大家留下“馬上回來”的字條後，前往了戰場，很久都沒有回來……最後[gun2]在戰場附近的速食店找到了她。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 309,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]與[gun2]因為前進路線的問題產生了分歧，最後通過骰子決定了六條路線。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 310,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在指定座標上發現了許多未被使用的彈藥。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,5-4"
+    },
+    {
+        "id": 311,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現自己的通訊終端發生了故障，在對問題排查後，發現該地區不支援戰術人形的通訊協定。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 312,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "複雜的地形讓[gun1]險些摔跤，還好[gun2]及時拉住了她。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 313,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "突然下起了雨，[gun1]的梯隊因為忘記攜帶防雨裝置而被淋濕。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 314,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "梯隊行進中[gun1]發現，開車的人形不明白大轉彎和小轉彎分別代表什麼意思。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 315,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在路邊餵起了貓，因為過於可愛，她向指揮官申請在宿舍裡放一隻。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 316,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在整備時發現自己的槍多了一些配件，她猜測是指揮官偷偷裝上的。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 317,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]為格里芬的人形們買了一些禮物。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 318,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]遭遇了巡邏的鐵血梯隊，雙方開始了激戰。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,6-12,6-15"
+    },
+    {
+        "id": 319,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現自己槍的配件裝反了，花了很長時間重裝。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 320,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]很驚訝這麼長時間過去了，都沒有人發現她在偷懶。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 321,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "突然從路上竄出來幾個匪徒，他們搶走了[gun1]梯隊的裝備，但他們馬上就被趕來的其他梯隊制伏了，被搶走了不少資源。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 322,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]看到一家咖啡店正在排隊，她也好奇地排起了隊，最後花了3小時終於買到了一杯美式。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 323,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現自己忘記為終端充電，無奈之下只能前往24小時營業的便利店花巨額購買行動電源。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 324,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在糾結吃哪種口糧的時候，發現[gun2]正在偷吃自己的口糧。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 325,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]為梯隊點播了一首爵士樂，卻被告知沒有版權無法播放。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 326,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]擴編後發現自己需要的口糧更多了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 327,
+        "area_id": "1,2,3,4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現自己購買的遊戲軟體即將到貨，加快了探索速度。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 328,
+        "area_id": "1,2,3,4",
+        "weight": 0,
+        "tag_weight": "14:20",
+        "content": "[gun1:14]希望知道人類的未來，將名作家著作的《改寫》讀完了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 329,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "25:20",
+        "content": "[gun1:25]堅信自己能看到企鵝，她在雪地裡埋伏了很久，最後變成了冰雕。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 330,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "7:20",
+        "content": "梯隊到達雪原後，[gun1:7]十分高興，她表示在這裡吃下的東西一定是低熱量的。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 331,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "52:20",
+        "content": "[gun1:52]拉著其他人形尋找極光，之後居然找到了鐵血的秘密工廠。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2,6-13"
+    },
+    {
+        "id": 332,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "52:20",
+        "content": "一些稀有的動物引起了[gun1:52]的注意，她在追逐動物的時候掉進了冰窟。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 333,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "17:20",
+        "content": "[gun1]告知[gun2:17]天氣將要變化，然後[gun2]高興地與[gun1]聊起了天，最後兩人都忘記將消息告訴身邊的人形了，探索速度有所下降。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 334,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了幾隻正在挨餓的小動物，她分了一些口糧給它們。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 335,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "38:20",
+        "content": "[gun1:38]發現預算有所不足，決定將HK416的形象做成周邊販賣，以補貼損耗。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 336,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "38:20",
+        "content": "[gun1:38]發現預算有所不足，決定將G11的形象做成周邊販賣，以補貼損耗。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 337,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "38:20",
+        "content": "[gun1:38]發現預算有所不足，決定UMP45的形象做成周邊販賣，以補貼損耗。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 338,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "38:20",
+        "content": "[gun1:38]發現預算有所不足，決定UMP9的形象做成周邊販賣，以補貼損耗。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 339,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "38:20",
+        "content": "[gun1:38]發現有人形在晝間也開著探照燈，她十分生氣。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 340,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]報告說前方有鐵血的人形梯隊，然而大家看了看她手上空空如也的酒瓶後決定無視這條報告。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2,6-13"
+    },
+    {
+        "id": 341,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "人形們在雪地中難以前行，這引起了當地居民的注意，他們立刻趕制了適配[gun1]的梯隊的雪地鞋。雖然手工製品很容易損壞，但人形們卻將雪地鞋完好無損地帶了回來。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 342,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了一隻閃著金光的海豹，不知道為什麼[gun2]忽然拿來了長矛，最後她們看到了海豹無辜的眼神，決定先放它一馬。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 343,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "在一座考察基地的殘骸中，[gun1]發現了一封裝著100萬舊式貨幣的信封，她正準備向指揮官報告時，看到信封上寫著寶藏兩字……人形們討論了起來，最後決定將信封放回原處——因為，那很可能是某些人實現夢想的證明。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 344,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "41:20",
+        "content": "[gun1:41]在與鐵血精英的戰鬥中，得到了當地居民的支援。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,6"
+    },
+    {
+        "id": 345,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "41:20",
+        "content": "因為有[gun1:41]在，與當地指揮部的交涉十分順利。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 346,
+        "area_id": "2",
+        "weight": -20,
+        "tag_weight": "45:20",
+        "content": "為了打發時間，[gun1:45]與[gun2:45]約定在冰原上進行決鬥，被[gun3]制止。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 347,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "61:20",
+        "content": "[gun1:61]翻了翻日曆，發現今天宜休息，該提議與眾人形的想法不謀而合，一致決定休息。梯隊的探索速度有所下降。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 348,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "23:20",
+        "content": "經過長時間的探索後，[gun1:23]雖然很想與指揮官聯絡，但是她又希望指揮官能主動聯繫她。於是她決定把這條資訊寫在這裡。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 349,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "9:20",
+        "content": "偏愛獨處的[gun1:9]刻意和梯隊保持距離，卻發現自己不知不覺到了企鵝遷徙的隊伍中，希望她能找到回格里芬的路。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 350,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "9:20",
+        "content": "[gun1:9]在梯隊後方發現了許多人形落下的裝備。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 351,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "8:20",
+        "content": "[gun1:8]覺得梯隊人形過少，從各處綁來了許多企鵝擴編梯隊。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 352,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "24:20",
+        "content": "人形們正在設計梯隊的標誌，[gun1:24]提出了建議，希望標誌上的格里芬字能大一些。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 353,
+        "area_id": "2",
+        "weight": -20,
+        "tag_weight": "35:20",
+        "content": "前方發現了鐵血偵查梯隊，[gun1:35]與[gun2:35]盯著對方看了很久，互相點了點頭。隨後鐵血梯隊被迅速消滅了，其他人形們都稱讚起兩人的配合。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2,6-12"
+    },
+    {
+        "id": 354,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "27:20",
+        "content": "[gun1:27]發現了大量的物資，她立刻召集了人形梯隊幫忙運回格里芬。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 355,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "27:20",
+        "content": "梯隊中有人形提出休息，[gun1:27]駁回了該提議。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 356,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "27:20",
+        "content": "[gun1:27]將偷懶的人形都抓了回來，探索速度有所提升。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 357,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "27:20",
+        "content": "[gun1:27]覺得這次探索很有樂趣，她希望每週都能有6天參與探索。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 358,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "19:20",
+        "content": "[gun1:19]和一隻碩大的熊扭打成一團，最終她勝利了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 359,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "19:20",
+        "content": "[gun1:19]從老虎的嘴裡救下了一隻兔子。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 360,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "18:20",
+        "content": "梯隊救助了難民營後，小孩們向梯隊送出了顏色各異的小石頭，[gun1:18]十分感動。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 361,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "18:20",
+        "content": "[gun1:18]阻止了梯隊的前進，因為她發現梯隊中有人形的損耗到達極限了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 362,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "3:20",
+        "content": "[gun1:3]為不擅長下廚的人形制作了一套食譜，其中有一條配方是:“泡麵一定要在泡滿三分鐘時立刻開蓋……”",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 363,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "3:20",
+        "content": "自從[gun1:3]來到梯隊後，人形的作戰效率因為豐盛的伙食而大大增加了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 364,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "58:20",
+        "content": "[gun1:58]在冰原上滑冰，被當地的企鵝視為同族團團圍住，[gun2]分析稱可能是企鵝在互相爭奪配偶。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 365,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "36:20",
+        "content": "[gun1:36]找到了不少願意跟隨她的動物，但它們在看到人形們的槍時都紛紛離開了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 366,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "3:20",
+        "content": "[gun1:3]發現了珍貴的松露，將它做成了美食。梯隊的幹勁提高了！",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 367,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "4:20",
+        "content": "[gun1:4]發現了奇怪的蘑菇，猶豫了一會兒，把它踩爛在地上。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 368,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "59:20",
+        "content": "[gun1:59]發現了珍貴的松露，想要將它做成美食，但結果並不如人意。她悄悄地毀滅了罪證，假裝什麼都沒發生地繼續前進。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 369,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "75:20",
+        "content": "[gun1:75]發現了珍貴的松露，試圖直接食用它，被[gun2]制止了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 370,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "81:20",
+        "content": "[gun1:81]發現了一個幽深的洞穴，決定進去探險。她發現這是一個獵人的陷阱時為時已晚，捕獸夾夾傷了她的腳踝。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 371,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "25:20",
+        "content": "[gun1:25]發現了一個幽深的洞穴，為裡面究竟有什麼和隊友吵了起來。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 372,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "51:20",
+        "content": "陽光從樹木枝葉的縫隙中穿過，雖然有些刺眼，但[gun1:51]還是向這道光望去。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 373,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "3:20",
+        "content": "[gun1:3]在湖邊釣上了一條鐵血狗般大小的魚，她決定今晚給全隊製作魚類料理。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 374,
+        "area_id": "3",
+        "weight": -20,
+        "tag_weight": "5:20,4:20",
+        "content": "[gun1:5]不慎吃掉了[gun2:4]廢棄的試驗品料理，之後，她的身體發出了耀眼的光芒……",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 375,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "因為[gun1:50]喝醉後爬到樹上睡著了，和其他部隊會合的時間將延遲。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 376,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "28:20",
+        "content": "梯隊進行討論時，[gun1:28]用一本正經的表情開始走神。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 377,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "24:20",
+        "content": "[gun1:24]認為東北花棉襖的性價比和審美水平都要超過昂貴的時裝，並試圖說服全隊都和她一起穿。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 378,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "36:20",
+        "content": "關於要不要用鯊魚布偶去逗弄[gun1:36]的跟寵，梯隊的其他人展開了討論。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 379,
+        "area_id": "3,2,4,1",
+        "weight": -20,
+        "tag_weight": "30:20,29:20",
+        "content": "[gun1:30]正在思考要不要告訴[gun2:39]，她已經帶著自己的惡作劇貼紙走了一天了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 380,
+        "area_id": "3,2,4,1",
+        "weight": -20,
+        "tag_weight": "29:20,35:20",
+        "content": "[gun1:29]想要借細微的面部肌肉運作來推測他人的情緒，但直到她放棄時，[gun2:35]的面部也紋絲不動。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 381,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "65:20",
+        "content": "[gun1:65]試圖向[pet1]分享自己最近喜愛的音樂，但它看起來並不理解。",
+        "necessary_num": "1,1",
+        "background": "",
+        "script_type": "2,803"
+    },
+    {
+        "id": 382,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "9:20",
+        "content": "[gun1:9]發現，只要自己關掉一部分感知模組，就可以短暫地享受孤獨。然後她摔倒了。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2,801"
+    },
+    {
+        "id": 383,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]嘗試用丟棄的絲襪和鐵絲做一朵絲網花，但是失敗了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 384,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]嘗試用丟棄的絲襪和鐵絲做一朵絲網花，她成功了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 385,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "33:20",
+        "content": "[gun1]偶然看到了[gun2:33]的日記，上面詳細記載了指揮官的日程。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 386,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "39:20",
+        "content": "因為[gun1:39]從不感冒，她開始懷疑起自己是不是個笨蛋。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 387,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "34:20",
+        "content": "難民中的孩子看到[gun1:34]嚇得哭了出來，使她深受打擊。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 388,
+        "area_id": "3,2,4,1",
+        "weight": -20,
+        "tag_weight": "35:20,62:20",
+        "content": "[gun1:35]和[gun2:62]雙方互不眨眼對視了十多分鐘，可[gun1:35]卻沒有察覺[gun2:62]已經可以做到在不眨眼的條件下睜眼睡覺。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 389,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "62:20",
+        "content": "人形們在討論為了入睡最多曾數到多少隻羊，[gun1:62]則一直是最低記錄的保持者。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 390,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "14:20",
+        "content": "[gun1:14]正在閱讀[gun2]推薦的推理小說，但她覺得這本書的內容根本稱不上是推理小說。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 391,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "70:20",
+        "content": "[gun1:70]表示脫脂牛奶和無糖飲料一樣沒有靈魂。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 392,
+        "area_id": "3,2,4,1",
+        "weight": -20,
+        "tag_weight": "29:20,37:20",
+        "content": "[gun1:29]最近總能和[gun2:37]視線交錯，仿佛對方早已感知到了她正在被觀察……",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 393,
+        "area_id": "3,2,4,1",
+        "weight": -20,
+        "tag_weight": "29:20,10:20",
+        "content": "[gun1:29]從對[gun2:10]的觀察中得到了許多樂趣。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 394,
+        "area_id": "3,2,4,1",
+        "weight": -20,
+        "tag_weight": "19:20,12:20",
+        "content": "[gun1:18]發現最近的任務中[gun2:12]總會衝到最前方。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 395,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了自己上次停留過的營地，雖然已經隔了很久，但幾乎完全沒有變化。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 396,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了自己上次停留過的營地，這裡看起來被很多人造訪過，篝火的殘堆裡多了很多灰燼。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 397,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]早晨起來，陽光落在她的肩頭上，這一刻她感覺自己無比的自由。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 398,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]有時會覺得這樣的生活很枯燥，但現實世界並不是童話，抱怨之後，她終究還是要再次出發。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 399,
+        "area_id": "3,2,4,1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在進入廢棄的建築的時候，被門框撞到了頭，這裡的地面似乎有下沉的跡象。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 400,
+        "area_id": "3,2,4",
+        "weight": 0,
+        "tag_weight": "58:20,6:20",
+        "content": "只要再長高些[gun1:58,6]就能毫不費力地從這個坑洞中爬出。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 401,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]忽然發現有櫻花落下，興奮地抬起了頭，發現只是風帶過來的白色塵埃。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 402,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在休息的時候，偶然發現了鳥的巢穴，裡面空空蕩蕩，只剩下幾個蛋殼孤零零地擺在那裡。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 403,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "51:20",
+        "content": "[gun1]撿到了幾支非常漂亮的羽毛，[gun2:51]宣稱這是森林的禮物。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 404,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "32:20",
+        "content": "[gun1:32]意識到脫落下羽毛的主人很可能已經死去，但她決定不說出來。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 405,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "21:20",
+        "content": "[gun1:21]覺得有些奇怪，偷偷摘了一朵蘑菇帶在身上，但是第二天就找不到了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 406,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在一處枯木下發現形狀奇怪的大蘑菇，斷定有毒後，決定丟棄在一旁。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 407,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在一處枯木下發現形狀奇怪的大蘑菇，繼續挖掘，得到一些不知是誰埋藏起來的舊錢幣。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 408,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在森林中發現一處泥沼，機智地避開了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 409,
+        "area_id": "3",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]不幸落入森林泥沼，幸虧被隊友及時發現，獲救了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 410,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "53:20",
+        "content": "[gun1:53]在一處枯木下發現野生靈芝，決定熬製過後送給指揮官補補身子。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 411,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]在一處枯木下發現形狀奇怪的大蘑菇，燉湯食用後感覺身強體壯。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 412,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "30:20",
+        "content": "[gun1:30]在一處枯木下發現形狀奇怪的大蘑菇，斷定有毒後，決定送給新來的成員當作禮物。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 413,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]醉酒後落入森林泥沼，被發現時，只剩下舉著空瓶的右手露在外面。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 414,
+        "area_id": "3",
+        "weight": 0,
+        "tag_weight": "36:20",
+        "content": "[gun1:36]不幸落入森林泥沼，向正好路過的熊求助，以意外的方式獲救，之後將背包裡的肉乾送給對方作為謝禮。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 415,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "51:20",
+        "content": "[gun1:51]碰到一對正在吵架的情侶，剛要上去勸架卻發現對方只是在秀恩愛。想起木訥的指揮官，不禁有些羡慕。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 416,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "18:20",
+        "content": "[gun1:18]碰到一對正在吵架的情侶，剛要上去勸架卻發現對方只是在秀恩愛。想起木訥的指揮官，不禁有些嫉妒。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 417,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "69:20",
+        "content": "[gun1:69]一大早就開始觀察天上雲朵的形狀，等回過神來才發現已經是傍晚。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 418,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "16:20",
+        "content": "[gun1:16]在執行潛行任務時收到發貨郵件，因郵件鈴聲太大而被敵人發現，任務被迫中斷。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 419,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "1:20",
+        "content": "[gun1:1]吃午餐時發現自己錯把鹽當成糖放進了料理，無奈倒掉了精心準備的飯菜。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 420,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "2:20",
+        "content": "[gun1:2]吃午餐時發現自己錯把糖當成鹽放進了料理，無奈倒掉了精心準備的飯菜。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 421,
+        "area_id": "3,2,4,1",
+        "weight": 0,
+        "tag_weight": "12:20",
+        "content": "[gun1:12]在休息時為其他人形表演了一個昨晚剛學的魔術，結果因為失誤而慘遭嘲笑。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 422,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "梯隊遇到了一次小型雪崩，在奔逃的過程中，[gun1]救下了一位人類，但他還是因為失溫死去了。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 423,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "梯隊遇到了一次小型雪崩，在奔逃的過程中，[gun1]救下了一位人類。他在不久後陷入昏迷，直到人形們把他交給醫療隊也沒有醒來。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 424,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "梯隊遇到了一次小型雪崩，在奔逃的過程中，[gun1]救下了一位人類。他的狀態很好，直到梯隊到達安全區還一直滔滔不絕，並試圖和[gun1]交換聯繫方式。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 425,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]喝得醉醺醺的，一頭栽進了雪地，差點在裡面當機。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 426,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]喝得醉醺醺的，在雪地上跳起了桑巴舞，出色的舞姿就連[pet1]也不禁呆住。",
+        "necessary_num": "1,1",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 427,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]喝得醉醺醺的，在雪地上表演起埋設炸藥，卻意外地炸出了埋伏的敵兵。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 428,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]喝得醉醺醺的，在雪地上表演埋設炸藥，引發了小規模的雪崩，差點導致梯隊全軍覆沒。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 429,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "40:20",
+        "content": "[gun1:40]發現了雪崩的苗頭，靠著和隊友的合作，最終完成了區域內所有人形和人類的避險，無人遭難。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 430,
+        "area_id": "2",
+        "weight": -20,
+        "tag_weight": "79:20,81:20",
+        "content": "聽信了[gun1:79]所言，[gun2:81]試圖探索雪中的莊園，結果一無所獲，身體還被厚厚的積雪埋住。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 431,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "69:20",
+        "content": "由於寒冷，[gun1:69]要花更久時間才能回神，這極大提高了隊友和她的溝通成本。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 432,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "10:20",
+        "content": "[gun1:10]發現了一位被凍在冰牆中的人形，她感歎這也是一種與世隔絕的方式，並開始對人形實施救援。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 433,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]半夜從帳篷裡爬了出來，看見月光照在雪地上，反射出滿目銀光。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 434,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "51:20",
+        "content": "[gun1:51]就這樣坐在雪地中間，看了一晚上的月亮，天亮時大家發現她已經凍得當機了。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 435,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]和大家玩起了滑雪，雖然摔了幾次，但玩得很開心。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 436,
+        "area_id": "2",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]和大家玩起了滑雪，摔倒幾次後，氣鼓鼓地退出了遊戲。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 437,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]剛喝完酒就踏上滑雪板，在原地旋轉十幾圈後，重重摔倒在地。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,801"
+    },
+    {
+        "id": 438,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "50:20",
+        "content": "[gun1:50]剛喝完酒就踏上滑雪板，在一處斜坡上做出了完美的高難度動作。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 439,
+        "area_id": "2",
+        "weight": -20,
+        "tag_weight": "67:20,67:20",
+        "content": "[gun1:67]和[gun2:67]相遇後開始在滑雪上較勁，結果雙雙迷失在雪原中。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 440,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "57:20",
+        "content": "[gun1:57]利用自己的天然優勢和其他人形在雪地裡玩起了捉迷藏。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 441,
+        "area_id": "2",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]一不小心摔倒了，趁別人不注意偷偷吃了幾口嘴邊的雪。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2,801"
+    },
+    {
+        "id": 442,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "39:20",
+        "content": "[gun1:39]遇到了胡言亂語的奇怪人類，懷疑這個人已經被感染了，梯隊連忙加速前進。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 443,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "68:20",
+        "content": "[gun1:68]遇到了胡言亂語的奇怪人類，通過精妙的搭話技巧與對方相談甚歡。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 444,
+        "area_id": "4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]救助了一位受傷的人，對方自稱是輻射學家，想要改變輻射區的情況。在臨別時，輻射學家許諾十年內會讓大家看到成果。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 445,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "31:20",
+        "content": "一個自稱是輻射學家的人拉著[gun1:31]滔滔不絕地講述自己的理論，過了一個小時還沒有結束演講，梯隊只好想辦法甩開了這個人。",
+        "necessary_num": "3,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 446,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "14:20",
+        "content": "一個自稱是輻射學家的人拉著[gun1:14]滔滔不絕地講述自己的理論，這場演講最終變成了科幻小說構思現場。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 447,
+        "area_id": "4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "一個穿著破爛的人拉住了[gun1]，想要向她宣傳坍塌輻射才是世界的救世主的理論。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 448,
+        "area_id": "1,4",
+        "weight": 0,
+        "tag_weight": "82:20",
+        "content": "[gun1:82]偶然在書上瞭解到電車悖論這個概念，並希望這樣的事永遠不要發生在自己身邊。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 449,
+        "area_id": "1,4",
+        "weight": 0,
+        "tag_weight": "40:20",
+        "content": "[gun1:40]偶然在書上瞭解到電車悖論這個概念，她認定自己可以拯救全員以避免這種情況。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 450,
+        "area_id": "1,4",
+        "weight": 0,
+        "tag_weight": "32:20",
+        "content": "[gun1:32]不知使用了什麼方法清除了重達3噸的壓路機殘骸，開闢了繼續前進的道路。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 451,
+        "area_id": "4",
+        "weight": -20,
+        "tag_weight": "79:20.81:20",
+        "content": "聽信了[gun1:79]所言，[gun2:81]試圖找尋荒野中的黃金，結果一無所獲，還撞到了一顆仙人掌上。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 452,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "10:20",
+        "content": "[gun1:10]偶然在書上瞭解到電車悖論這個概念，並萌生了返回出廠設置後獨自消失在荒野中的念頭。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 453,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "19:20",
+        "content": "[gun1:19]正在荒野的中心竭力嘶吼。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 454,
+        "area_id": "4",
+        "weight": -20,
+        "tag_weight": "19:20,10:20",
+        "content": "面對在自己身旁竭力嘶吼的[gun1:19]，[gun2:10]雖略嫌吵鬧但又很羡慕她率直的一面。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 455,
+        "area_id": "4",
+        "weight": 0,
+        "tag_weight": "9:20",
+        "content": "[gun1:9]一個人佇立在荒野之上，注視著像是風滾草一樣的物體從身旁經過。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 456,
+        "area_id": "4",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]來到了一處山坡的頂端，俯瞰山谷的時候，她看見了遠處有一片湖泊。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 457,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在購物中心門前通過安檢時，一個小孩跑過來，好奇地盯著她看。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 458,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在購物中心門前通過安檢時，一個小孩用宣傳單折成紙飛機丟她玩，被保安阻止了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 459,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "41:20",
+        "content": "[gun1:41]在購物中心門前通過安檢時，一個小孩在遠處對她探頭探腦，不敢接近。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 460,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "34:20",
+        "content": "[gun1:34]在購物中心門前通過安檢時，一個小孩跑過來，又被她的氣場嚇跑了。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 461,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "8:20",
+        "content": "[gun1:8]在購物中心門前通過安檢時，一個小孩跑過來看她，愉快地互動到孩子的母親發現她是人形為止。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 462,
+        "area_id": "1",
+        "weight": -20,
+        "tag_weight": "29:20,39:20",
+        "content": "[gun1:29]在購物中心門前通過安檢時，一群小孩跑來跑去玩耍。在一段時間的觀察後，她發現[gun2:39]與這些人類孩子的行為邏輯相似。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 463,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "28:20",
+        "content": "[gun1:28]為了參加一位偶像的見面會，工作效率加倍了！",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 464,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "15:20",
+        "content": "[gun1:15]為了參加一位偶像的見面會，開始摸魚了！",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 465,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "15:20",
+        "content": "[gun1:15]為了參加一位偶像的見面會，從黃牛手裡高價購買了一張門票，花掉了半個月的工資。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 466,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "55:20,27:20",
+        "content": "明明已經過了工作時間，可為了儘快完善防禦工程，[gun1:55,27]還在工作。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 467,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "82:20",
+        "content": "[gun1:82]仍未知曉真正的正義，於是她看起了《赤魂》系列的新作《赤魂戰隊》。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 468,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "82:20",
+        "content": "[gun1:82]花光了積蓄購買《赤魂》系列模型，這時她開始質疑這個系列中存不存在真正的正義。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 469,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "67:20",
+        "content": "[gun1:67]認為最近風靡的小型環狀健身設備並不能滿足她對運動量的需求。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 470,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "61:20",
+        "content": "[gun1:61]看了今天的占卜結果後狂奔了起來……",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 471,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "65:20",
+        "content": "[gun1:65]體驗了[gun2]借給自己的高級外置收音設備，戴上的瞬間，她仿佛聽到了天籟之音。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 472,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "22:20",
+        "content": "[gun1:22]體驗了[gun2]借給自己的高級外置收音設備，可是她覺得這跟一般收音設備的效果也並無區別。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 473,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "16:20",
+        "content": "由於最近幾次任務的結款日期都晚於信用卡還款日期，[gun1:16]陷入了經濟危機的泥潭中。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 474,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了一處廢棄的圖書館，裡面並沒有能用的物資，但有很多的書。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 475,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了一處廢棄的圖書館，裡面打理的很整潔，書架散發著一股好聞的味道，但是一本書都沒有。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 476,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]發現了一處被改造為居住地的圖書館，聚居在裡面的人正在用書當柴火取暖。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 477,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "14:20",
+        "content": "[gun1:14]發現了一處廢棄的圖書館，並提議在這裡休息，但是現在離天黑還有很長一段時間。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 478,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "14:20",
+        "content": "[gun1:14]發現了一處廢棄的圖書館，並在這裡悄悄地把背包塞滿，完全忘記了尋找物資的事情。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 479,
+        "area_id": "1",
+        "weight": 10,
+        "tag_weight": "",
+        "content": "[gun1]在城市貧民窟中被人偷走了錢包，找了很久也沒能找到小偷。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 480,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "40:20",
+        "content": "[gun1:40]在城市貧民窟中被人偷走了錢包，順藤摸瓜發現犯罪團夥的巢穴，一舉將其摧毀，獲得了警局的嘉獎。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 481,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "5:20",
+        "content": "[gun1:5]在城市貧民窟中遇到乞討者，將作為午餐的便當送給了對方。對方表示這份量太大了，要拿回去和家人分享。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 482,
+        "area_id": "1",
+        "weight": 0,
+        "tag_weight": "73:20",
+        "content": "[gun1:73]在貧民窟遇到了搗蛋的孩子，教育大半天後，讓對方寫了一份檢討書。",
+        "necessary_num": "1,0",
+        "background": "",
+        "script_type": "2"
+    },
+    {
+        "id": 483,
+        "area_id": "3",
+        "weight": -20,
+        "tag_weight": "30:20,31:20",
+        "content": "[gun1:30]發現了一個幽深的洞穴，決定推[gun2:31]進去探險，把[gun2:31]嚇得哇哇大哭。",
+        "necessary_num": "2,0",
+        "background": "",
+        "script_type": "2"
+    }
+]
