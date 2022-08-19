@@ -1167,7 +1167,7 @@ DEPLOYMENT,30083,더 이상 배치할 수 없습니다!,,0
 DEPLOYMENT,30084,역방향 진행불가 안내!,,0
 DEPLOYMENT,30085,역방향으로 진행할 수 없습니다 !,,0
 DEPLOYMENT,30086,선택한 인형은 수복할 필요가 없습니다!,,0
-DEPLOYMENT,30087,지휘부 또는 헬리포트 위에서만 긴급수복을 진행할 수 있습니다.,,0
+DEPLOYMENT,30087,当前路径点无法进行紧急修复。（可在“战场说明-界面帮助”中查看各路径点作用）(todo),,0
 DEPLOYMENT,30088,아군 제대의 전략적 배치,,0
 DEPLOYMENT,30089,모의작전에서 자동퇴각을 사용할 수 없습니다.,,0
 DEPLOYMENT,30090,현재 제대는 전장의 마지막 제대이므로//c 퇴각할 수 없습니다.,,0
@@ -2629,8 +2629,6 @@ ILLUSTRATEDBOOK,35161,설명：,,0
 ILLUSTRATEDBOOK,35162,획득경로：,,0
 ILLUSTRATEDBOOK,35163,의 훈장판,,0
 ILLUSTRATEDBOOK,35164,개인 명함에 표시,,0
-ILLUSTRATEDBOOK,35188,切换到进化前(todo),,0
-ILLUSTRATEDBOOK,35189,切换至进化(todo),,0
 LOGIN,36000,암호분실,,0
 LOGIN,36001,고객센터,,0
 LOGIN,36002,이용약관,,0
@@ -3352,7 +3350,6 @@ RESEARCH,51080,고급훈련코드,,0
 RESEARCH,51081,혼합세력,,0
 RESEARCH,51082,먼저 왼쪽에서 강화할 인형 또는 개발할 혼합세력 유닛을 선택하세요.,,0
 RESEARCH,51083,훈련코드가 부족합니다. <color=#FFB400FF>혼합훈련</color>에서 수집할 수 있습니다.,,0
-RESEARCH,51113,加成提升(todo),,0
 SETTING,52000,음향,,0
 SETTING,52001,Sound,,0
 SETTING,52002,게임,,0
@@ -3998,6 +3995,15 @@ SEPCIALOPS,60365,카리나,,0
 SEPCIALOPS,60366,사냥 게시판,,0
 SEPCIALOPS,60367,여름의 종막,,0
 SEPCIALOPS,60368,마녀,,0
+SEPCIALOPS,60369,주민,,0
+SEPCIALOPS,60370,기사,,0
+SEPCIALOPS,60371,사냥꾼,,0
+SEPCIALOPS,60372,큐피드,,0
+SEPCIALOPS,60373,예언자,,0
+SEPCIALOPS,60374,늑대인간,,0
+SEPCIALOPS,60375,허언증,,0
+SEPCIALOPS,60376,늑대왕,,0
+SEPCIALOPS,60377,수위,,0
 SEPCIALOPS,60378,오늘 이미 {0}번 선택을 했습니다. 내일 다시 오세요~,,0
 GASHAPON,70000,현재 가구창고 공간부족(,,0
 GASHAPON,70001,)//c 정리 후 구매를 진행해주세요!,,0
@@ -5828,7 +5834,6 @@ THEATER,210296,총{0}차 공세가 다음 조합에 따라 순서대로 출현�
 THEATER,210297,방출,,0
 THEATER,210298,해당 거점의 지원부대는 개방되지 않았습니다.,,0
 THEATER,210299,원정대에 같은 요정을 중복 편성할 수 없습니다.,,0
-THEATER,210308,小队中不能编入重复妖精(todo),,0
 MISSIONTARGET,220000,지휘부,,0
 MISSIONTARGET,220001,거점,,0
 MISSIONTARGET,220002,헬리포트,,0

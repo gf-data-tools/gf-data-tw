@@ -1149,7 +1149,7 @@ DEPLOYMENT,30083,Echelon deployment limit reached!,,0
 DEPLOYMENT,30084,Unable to move in the opposite direction!,,0
 DEPLOYMENT,30085,Unable to move in the opposite direction!,,0
 DEPLOYMENT,30086,Selected T-Doll is not damaged//c repairs are unnecessary.,,0
-DEPLOYMENT,30087,Emergency repair can only be performed at deployment nodes.,,0
+DEPLOYMENT,30087,当前路径点无法进行紧急修复。（可在“战场说明-界面帮助”中查看各路径点作用）(todo),,0
 DEPLOYMENT,30088,Proceed with strategic deployment,,0
 DEPLOYMENT,30089,Unable to retreat Echelon in Combat Simulation.,,0
 DEPLOYMENT,30090,This is the last Echelon on the battlefield//c unable to retreat.,,0
@@ -2552,8 +2552,6 @@ ILLUSTRATEDBOOK,35161,描述：(todo),,0
 ILLUSTRATEDBOOK,35162,获得途径：(todo),,0
 ILLUSTRATEDBOOK,35163,的勋章墙(todo),,0
 ILLUSTRATEDBOOK,35164,在个人名片中展示(todo),,0
-ILLUSTRATEDBOOK,35188,切换到进化前(todo),,0
-ILLUSTRATEDBOOK,35189,切换至进化(todo),,0
 LOGIN,36000,Forget password,,0
 LOGIN,36001,Customer Support,,0
 LOGIN,36002,User EULA,,0
@@ -3246,7 +3244,6 @@ RESEARCH,51080,Advanced Training Keycode,,0
 RESEARCH,51081,Coalition Forces,,0
 RESEARCH,51082,Please select the Doll to be enhanced or the Coalition Unit to be developed on the left.,,0
 RESEARCH,51083,Insufficient Training Keycode//c please collect them from <color=#FFB400FF>Coalition Drills</color>.,,0
-RESEARCH,51113,加成提升(todo),,0
 SETTING,52000,Sound,,0
 SETTING,52001,Sound,,0
 SETTING,52002,Game,,0
@@ -3718,6 +3715,15 @@ SEPCIALOPS,60365,格琳娜(todo),,0
 SEPCIALOPS,60366,狩猎公示榜(todo),,0
 SEPCIALOPS,60367,夏日终章(todo),,0
 SEPCIALOPS,60368,女巫(todo),,0
+SEPCIALOPS,60369,村民(todo),,0
+SEPCIALOPS,60370,骑士(todo),,0
+SEPCIALOPS,60371,猎人(todo),,0
+SEPCIALOPS,60372,丘比特(todo),,0
+SEPCIALOPS,60373,预言家(todo),,0
+SEPCIALOPS,60374,狼人(todo),,0
+SEPCIALOPS,60375,白痴(todo),,0
+SEPCIALOPS,60376,白狼王(todo),,0
+SEPCIALOPS,60377,守卫(todo),,0
 SEPCIALOPS,60378,指挥官今天已经进行了{0}次抉择了，请明天再来吧~(todo),,0
 GASHAPON,70000,Furniture storage capacity is insufficient(,,0
 GASHAPON,70001,)//c Please organize first before carrying out procurement!,,0
@@ -5498,8 +5504,6 @@ THEATER,210296,共{0}波敌人，从下列组合中顺序出(todo),,0
 THEATER,210297,释放(todo),,0
 THEATER,210298,该据点支援编队未开放(todo),,0
 THEATER,210299,远征队中不能编入重复妖精(todo),,0
-THEATER,210307,小队中不能编入重复人形(todo),,0
-THEATER,210308,小队中不能编入重复妖精(todo),,0
 MISSIONTARGET,220000,Command Post,,0
 MISSIONTARGET,220001,Normal Node,,0
 MISSIONTARGET,220002,Heliport,,0

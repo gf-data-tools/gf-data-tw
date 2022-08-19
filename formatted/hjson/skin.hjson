@@ -10671,6 +10671,108 @@
     class_id: 77
   }
   {
+    id: 7401
+    name: ACR-星海尋因
+    extra: 0
+    fit_gun: 274
+    ai: 0
+    voice: 0
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 呼~出艙作業順利完成，接下來就可以回去……咦，我把艙門鑰匙放在哪兒了！？
+    note: skin-30007401
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40007401
+    order: 89
+    class_id: 78
+  }
+  {
+    id: 7402
+    name: SCR-詩農暢想曲
+    extra: 0
+    fit_gun: 365
+    ai: 0
+    voice: 0
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 這裡有足夠多的種子和幼苗，如果找到了適宜的星球，我想把那裡也打造成一片滿溢著果香的世界！
+    note: skin-30007402
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40007402
+    order: 89
+    class_id: 78
+  }
+  {
+    id: 7403
+    name: QBU-88-食鐵獸的奇妙航旅
+    extra: 0
+    fit_gun: 261
+    ai: 0
+    voice: 0
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 聽說開辟空天航路之後，跨行星觀光會成為熱門項目！就由我親自開辟一條熊貓旅遊專線，讓整個宇宙都來領略滾滾的可愛吧~！
+    note: skin-30007403
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40007403
+    order: 89
+    class_id: 78
+  }
+  {
+    id: 7404
+    name: SIG MCX-超時空警備隊
+    extra: 0
+    fit_gun: 338
+    ai: 0
+    voice: 0
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 發現外星入侵者，立刻拉響警報——嗚哇~我只是隨口說說，沒想到大家立刻就進入戰鬥狀態了呢，哈哈哈哈！
+    note: skin-30007404
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40007404
+    order: 89
+    class_id: 78
+  }
+  {
+    id: 7406
+    name: G41-寰宇特急
+    extra: 0
+    fit_gun: 62
+    ai: 0
+    voice: 0
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 銀河系-獵戶支臂-太陽系第三行星-地球-格里芬——地址已確認，主人，G41開始派送囉~！
+    note: skin-30007406
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: 小槍,釘宮理恵,
+    order: 89
+    class_id: 78
+  }
+  {
+    id: 7407
+    name: 漢陽造88式-超新星之魂
+    extra: 0
+    fit_gun: 95
+    ai: 0
+    voice: 0
+    is_hidden: 0
+    substitute_voice: ""
+    dialog: 就用這台機體在宇宙中綻放最耀眼的光芒吧，超新星決戰兵器駕駛員，小愛——出擊！
+    note: skin-30007407
+    explore_tag: ""
+    gift_position: ""
+    illustrator_cv: skin-40007407
+    order: 89
+    class_id: 78
+  }
+  {
     id: 7408
     name: TS12-獻給星河的花束
     extra: 0
@@ -10685,6 +10787,6 @@
     gift_position: ""
     illustrator_cv: skin-40007408
     order: 89
-    class_id: 0
+    class_id: 78
   }
 ]

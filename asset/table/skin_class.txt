@@ -75,3 +75,4 @@ skin_class-10000074,職人進化論
 skin_class-10000075,銀河漫遊之夜
 skin_class-10000076,夏花稚趣譚
 skin_class-10000077,腳印，隱入海浪
+skin_class-10000078,深空旅人

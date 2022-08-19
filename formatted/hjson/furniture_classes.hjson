@@ -1446,6 +1446,20 @@
     years: 2022
   }
   {
+    id: 105
+    name: 天域孤舟
+    rank: 5
+    bonus_picture: "3097"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 12
+    description: 以星際航行為主題的傢俱組合。地球是人類的搖籃，但人類不能永遠生活在搖籃裡。隨著成長與壯大，我們終將乘船駛向遠方，去探尋未知的領域——直到盡頭。
+    bonus_description: 集齊後宿舍內會出現意想不到的現象。
+    code: Space2022_deco_16_icon
+    is_showed: 1
+    placement: 1
+    years: 2022
+  }
+  {
     id: 299
     name: 寵物
     rank: 5

@@ -518,6 +518,20 @@
     source_description: 六週年簽到活動獎勵
   }
   {
+    id: 47
+    name: 星域漫步
+    description: 漂泊在浩瀚宇宙，被繁密的群星凝視，除了供氧裝置的呼吸之聲，萬籟俱寂……我們將止步於此嗎？不，遠方一定還有未曾窺見的絕景，懷抱勇氣，向著未知——前進四！
+    group_id: "89"
+    code: commander_4732_icon
+    bonus_plastic: "130017"
+    skill_id: 101
+    path: CLASS47
+    is_class: 1
+    des_year: "2022"
+    source: 1
+    source_description: commander_class-40000047
+  }
+  {
     id: 99
     name: 謊言面具
     description: 埋藏我所思，塑化我所願
