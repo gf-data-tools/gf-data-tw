@@ -32,7 +32,6 @@
   {
     parameter_name: activity_rank_begin_showtime
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -80,7 +79,6 @@
   {
     parameter_name: anniversary_guns_avg_switch
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -254,7 +252,6 @@
   {
     parameter_name: chat_censorship_switch
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -638,7 +635,6 @@
   {
     parameter_name: exclude_skins
     parameter_type: string
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -752,7 +748,6 @@
   {
     parameter_name: favor_attribute_10_89
     parameter_type: float
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -800,13 +795,11 @@
   {
     parameter_name: favor_fight_byboss_die
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
     parameter_name: favor_fight_byboss_notdie
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -830,7 +823,6 @@
   {
     parameter_name: favor_fight_no_mvp
     parameter_type: float
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -980,7 +972,6 @@
   {
     parameter_name: friend_itemstore_switch
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -1202,7 +1193,6 @@
   {
     parameter_name: illustration_skin_switch
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -1268,7 +1258,6 @@
   {
     parameter_name: mapcamera_enemyhub_viewsize
     parameter_type: float
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -1406,7 +1395,6 @@
   {
     parameter_name: mission_event_opentime_white_list
     parameter_type: string
-    parameter_value: ""
     client_require: "1"
   }
   {
@@ -1538,7 +1526,6 @@
   {
     parameter_name: plan_mode_off
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -1628,7 +1615,6 @@
   {
     parameter_name: rank_hunting_switch
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -1808,7 +1794,6 @@
   {
     parameter_name: sangvis_boss_memberlocation_switch_formation_effect
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -1916,7 +1901,6 @@
   {
     parameter_name: sangvis_hiringteam_battle_moretime_awardradio
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -2018,7 +2002,6 @@
   {
     parameter_name: server_time_switch
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -2516,7 +2499,6 @@
   {
     parameter_name: theater_adaptive_limit
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {
@@ -2600,7 +2582,6 @@
   {
     parameter_name: translate_switch
     parameter_type: int
-    parameter_value: "0"
     client_require: "1"
   }
   {

@@ -9,7 +9,6 @@
     end_time: 2021-03-25 23:59:59
     prize_start_time: 2021-02-07 00:00:00
     prize_end_time: 2021-03-25 23:59:59
-    left_icon: ""
     background: a1bb8ca787e4114f_draw_210218010.jpg
     notice_txt:
       '''
@@ -29,7 +28,6 @@
     end_time: 2021-07-01 23:59:59
     prize_start_time: 2021-05-30 00:00:00
     prize_end_time: 2021-07-01 23:59:59
-    left_icon: ""
     background: 038ca12c1c66a360_draw_210603002.jpg
     notice_txt:
       '''

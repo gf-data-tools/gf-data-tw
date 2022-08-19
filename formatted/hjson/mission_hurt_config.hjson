@@ -4,32 +4,20 @@
     name: 【標記】地雷爆炸傷害
     target_type: 2
     type: 1
-    is_number: 0
     life_type: 1
     value: *0
     hostage_value: 1
-    is_armor: 0
     effect_birth: 3
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 2
     name: 【標記】空騎妖精傷害
     target_type: 2
     type: 1
-    is_number: 0
     life_type: 1
     value: *0
-    hostage_value: 0
-    is_armor: 0
     effect_birth: 3
-    effect_process_star: 0
-    effect_process_end: 0
     effect_process_duration: 4
-    defender_value: "0"
   }
   {
     id: 8
@@ -39,61 +27,31 @@
     is_number: 1
     life_type: 2
     value: "-100"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 21
     name: 【標記】陷阱妖精傷害
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: *0
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 22
     name: 【標記】修理妖精負數傷害
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 2
     value: *0
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 1002
     name: 【標記】棱鏡妖精傷害
     target_type: 2
     type: 1
-    is_number: 0
     life_type: 1
     value: *0
-    hostage_value: 0
-    is_armor: 0
     effect_birth: 1003
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 482401
@@ -103,44 +61,21 @@
     is_number: 1
     life_type: 2
     value: *0
-    hostage_value: 0
-    is_armor: 0
     effect_birth: 1000083
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 483901
     name: 【標記】炸彈引爆
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: "100"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 483902
     name: 【標記】炸彈引爆
-    target_type: 0
     type: 1
-    is_number: 0
     life_type: 2
-    value: "0"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
     defender_value: "99599"
   }
   {
@@ -151,13 +86,7 @@
     is_number: 1
     life_type: 2
     value: *0
-    hostage_value: 0
-    is_armor: 0
     effect_birth: 1000083
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 520811
@@ -167,13 +96,7 @@
     is_number: 1
     life_type: 2
     value: "3"
-    hostage_value: 0
-    is_armor: 0
     effect_birth: 1000083
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 520812
@@ -183,13 +106,7 @@
     is_number: 1
     life_type: 2
     value: "4"
-    hostage_value: 0
-    is_armor: 0
     effect_birth: 1000083
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 520813
@@ -199,13 +116,7 @@
     is_number: 1
     life_type: 2
     value: "9"
-    hostage_value: 0
-    is_armor: 0
     effect_birth: 1000083
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 520814
@@ -215,13 +126,7 @@
     is_number: 1
     life_type: 2
     value: "6"
-    hostage_value: 0
-    is_armor: 0
     effect_birth: 1000083
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 520815
@@ -231,108 +136,56 @@
     is_number: 1
     life_type: 2
     value: "18"
-    hostage_value: 0
-    is_armor: 0
     effect_birth: 1000083
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 900003
     name: 【標記】污染源傷害
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 2
     value: "34"
     hostage_value: 1
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 900007
     name: 【標記】支援小隊專用傷害
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 2
     value: "100"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 1000004
     name: 【標記】通用傷害(對敵人)
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: *0
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 1000005
     name: 【標記】通用關門傷害(對我方/人質)
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: "30"
     hostage_value: 1
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 1000006
     name: 【標記】通用爆破傷害(對我方/人質)
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: "99"
     hostage_value: 3
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 1000010
     name: 【標記】通用爆破傷害(對設施)
-    target_type: 0
     type: 1
-    is_number: 0
     life_type: 2
-    value: "0"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
     defender_value: "99999"
   }
   {
@@ -340,47 +193,23 @@
     name: 【標記】污染源傷害(對我方/人質)(禿洞版-回合)
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: "34"
     hostage_value: 1
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 1000048
     name: 【標記】污染源傷害(對我方/人質)(禿洞版-移動)
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: "1"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 1000049
     name: 【標記】大樓倒塌傷害(對大樓)
-    target_type: 0
     type: 1
-    is_number: 0
     life_type: 2
-    value: "0"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
     defender_value: "99599"
   }
   {
@@ -388,79 +217,39 @@
     name: 【標記】大樓倒塌傷害(對單位)
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: "50"
     hostage_value: 1
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 1000051
     name: 【標記】大樓倒塌傷害(對友方)
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: "90"
     hostage_value: 1
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 1000052
     name: 【標記】大樓倒塌傷害(對敵方)
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: "100"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 1000055
     name: 【標記】【對設施】爆破傷害_半傷
-    target_type: 0
     type: 1
-    is_number: 0
     life_type: 2
-    value: "0"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
     defender_value: "5000"
   }
   {
     id: 1000064
     name: 【標記】通用爆破傷害(對設施)
-    target_type: 0
     type: 1
-    is_number: 0
     life_type: 2
-    value: "0"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
     defender_value: "99999"
   }
   {
@@ -471,13 +260,6 @@
     is_number: 1
     life_type: 1
     value: "20"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6430002
@@ -487,13 +269,6 @@
     is_number: 1
     life_type: 2
     value: "3"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6430003
@@ -503,13 +278,7 @@
     is_number: 1
     life_type: 1
     value: "10"
-    hostage_value: 0
-    is_armor: 0
     effect_birth: 1000030
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6430004
@@ -519,13 +288,6 @@
     is_number: 1
     life_type: 1
     value: "50"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6430005
@@ -535,13 +297,6 @@
     is_number: 1
     life_type: 1
     value: "8"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6430006
@@ -551,13 +306,6 @@
     is_number: 1
     life_type: 2
     value: "2"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6430007
@@ -567,13 +315,7 @@
     is_number: 1
     life_type: 1
     value: "5"
-    hostage_value: 0
-    is_armor: 0
     effect_birth: 1000030
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6430008
@@ -583,13 +325,6 @@
     is_number: 1
     life_type: 1
     value: "30"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6430009
@@ -599,13 +334,6 @@
     is_number: 1
     life_type: 2
     value: "500"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6430010
@@ -615,13 +343,6 @@
     is_number: 1
     life_type: 2
     value: "5"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6440001
@@ -631,13 +352,6 @@
     is_number: 1
     life_type: 2
     value: "51"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6440002
@@ -647,13 +361,8 @@
     is_number: 1
     life_type: 2
     value: "101"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
     effect_process_end: 1000052
     effect_process_duration: 1000053
-    defender_value: "0"
   }
   {
     id: 6440003
@@ -663,13 +372,6 @@
     is_number: 1
     life_type: 2
     value: "101"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6440004
@@ -678,13 +380,6 @@
     type: 2
     is_number: 1
     life_type: 2
-    value: "0"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
     defender_value: "99999"
   }
   {
@@ -695,12 +390,6 @@
     is_number: 1
     life_type: 1
     value: "35"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
     defender_value: "99999"
   }
   {
@@ -711,13 +400,6 @@
     is_number: 1
     life_type: 1
     value: "35"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 6510001
@@ -727,13 +409,6 @@
     is_number: 1
     life_type: 1
     value: "30"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: ""
   }
   {
     id: 6510002
@@ -743,13 +418,6 @@
     is_number: 1
     life_type: 1
     value: "80"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: ""
   }
   {
     id: 6510003
@@ -759,13 +427,6 @@
     is_number: 1
     life_type: 1
     value: "100"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: ""
   }
   {
     id: 6510004
@@ -775,13 +436,6 @@
     is_number: 1
     life_type: 1
     value: "10"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: ""
   }
   {
     id: 6510005
@@ -791,28 +445,13 @@
     is_number: 1
     life_type: 2
     value: "30"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
     defender_value: "99999"
   }
   {
     id: 8120701
     name: 【標記】大樓倒塌傷害(對大樓)
-    target_type: 0
     type: 1
-    is_number: 0
     life_type: 2
-    value: "0"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
     defender_value: "8599"
   }
   {
@@ -820,16 +459,9 @@
     name: 【標記】ally秒殺
     target_type: 2
     type: 1
-    is_number: 0
     life_type: 2
     value: "999999"
     hostage_value: 1
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 9334951
@@ -840,75 +472,36 @@
     life_type: 1
     value: "99999"
     hostage_value: 5
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 9337202
     name: 【標記】【對重裝】毒圈傷害_半傷
-    target_type: 0
     type: 1
-    is_number: 0
     life_type: 2
     value: "50"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 9362003
     name: 【標記】劇情歌利亞15%固定傷害
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: "30"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 9362015
     name: 【標記】劇情BGM20%固定傷害
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: "50"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
   {
     id: 9362024
     name: 【標記】劇情衝水25%固定傷害
     target_type: 2
     type: 2
-    is_number: 0
     life_type: 1
     value: "60"
-    hostage_value: 0
-    is_armor: 0
-    effect_birth: 0
-    effect_process_star: 0
-    effect_process_end: 0
-    effect_process_duration: 0
-    defender_value: "0"
   }
 ]

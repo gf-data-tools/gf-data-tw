@@ -1,10 +1,6 @@
 [
   {
-    type: 0
     name: 沒有
-    category: 0
-    code: ""
-    fit_gun_type: "0"
     des: 無
   }
   {
@@ -100,7 +96,6 @@
     name: 勳章
     category: 3
     code: Medal
-    fit_gun_type: "0"
     des: 特殊的人形裝備，不同類型對人形屬性影響不同
   }
   {
@@ -148,7 +143,6 @@
     name: 特殊配件
     category: 1
     code: Special_Accessories
-    fit_gun_type: "0"
     des: 特殊的配件裝備，不同類型對人形屬性影響不同，無法製造
   }
   {
@@ -156,7 +150,6 @@
     name: 特殊彈匣
     category: 2
     code: Special_Magazine
-    fit_gun_type: "0"
     des: 特殊的彈匣裝備，不同類型對人形屬性影響不同，無法製造
   }
   {
@@ -164,7 +157,6 @@
     name: 特殊人形
     category: 3
     code: Special_TDoll
-    fit_gun_type: "0"
     des: 特殊的人形裝備，不同類型對人形屬性影響不同，無法製造
   }
 ]

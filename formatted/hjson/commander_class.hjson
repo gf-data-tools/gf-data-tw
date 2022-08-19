@@ -5,8 +5,6 @@
     description: 初始贈送的套裝，不分男女
     group_id: "51"
     code: commander_10_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS10
     is_class: 1
     des_year: "2019"
@@ -19,7 +17,6 @@
     description: 來到格里芬之後的通常制服，可以從入職穿到你回家結婚前的那次戰鬥結束。
     group_id: "52"
     code: commander_11_icon
-    bonus_plastic: ""
     skill_id: 103
     path: CLASS11
     is_class: 1
@@ -75,10 +72,7 @@
     description: 戰爭是殘酷的。能持續從戰鬥中取勝的人除了運氣，也必然有絕頂的實力。
     group_id: "56"
     code: commander_1510_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS15
-    is_class: 0
     des_year: "2019"
     source: 2
     source_description: 裂變鏈接活動排名獎勵
@@ -103,10 +97,7 @@
     description: 今天的特邀嘉賓是蟬聯多年萬聖節唬人大賽的冠軍！就讓我們一起打開冠軍的秘密寶箱吧——
     group_id: "58"
     code: commander_1720_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS17
-    is_class: 0
     des_year: "2019"
     source: 1
     source_description: commander_class-40000017
@@ -145,10 +136,7 @@
     description: 設計者期望用它來表現指揮官在海邊如鯊魚般英勇狂猛的戰鬥身姿，但不如意事常八九……
     group_id: "62"
     code: commander_2010_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS20
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: 偏振光活動排名獎勵
@@ -173,10 +161,7 @@
     description: 這是一頂神奇的帽子，戴上它就會閃耀到讓所有遇見你的人形都痴痴地盯著你，甚至為你留下貪婪的口涎……
     group_id: "64"
     code: commander_2220_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS22
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: 花好果圓簽到獎勵
@@ -187,10 +172,7 @@
     description: 支持員工的夢想並不是上司的必修課，但如果你願意……
     group_id: "65"
     code: commander_2340_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS23
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: 格里芬往事積星階段獎勵
@@ -201,10 +183,7 @@
     description: 曾有那麼一群人讓孩子們嚮往繁星，教會他們懂得珍惜與失去。
     group_id: "66"
     code: commander_2420_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS24
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: 格里芬往事積星階段獎勵
@@ -215,10 +194,7 @@
     description: 在苦難中經歷磨難固然艱辛，但在安逸中尋求和平更加可貴。小孩子才爭得你死我活，大人當然是全都要！
     group_id: "67"
     code: commander_2520_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS25
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: 雙聯亂數活動排名獎勵
@@ -257,10 +233,7 @@
     description: 用自己的方式來表達對這個節日的喜悅吧！即使不瞭解節日的精神內涵，你也因此獲得假期啦。
     group_id: "70"
     code: commander_2820_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS28
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: 糖心桂月簽到獎勵
@@ -271,10 +244,7 @@
     description: 在這個特殊節日的派對上，不要隨意揭開他人的偽裝——畢竟你也不知道這到底是不是偽裝。
     group_id: "71"
     code: commander_2920_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS29
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: 繭中蝶影活動代幣兌換
@@ -299,10 +269,7 @@
     description: G36的工作小道具，她從來不做無用功，只是需要一點小小的儀式感。
     group_id: "73"
     code: commander_3120_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS31
-    is_class: 0
     des_year: "2020"
     source: 2
     source_description: 格里芬往事積星階段獎勵
@@ -313,10 +280,7 @@
     description: 慶典就不要穿制服來了吧，指揮官！我們為你準備了新的定製服裝哦。
     group_id: "74"
     code: commander_3230_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS32
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: 繁中服4周年指揮官紀念服裝
@@ -327,10 +291,7 @@
     description: 戰爭中必然有所取捨，不要抱住一個你必須放手的人。
     group_id: "75"
     code: commander_3310_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS33
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: 鏡像論活動排名獎勵
@@ -355,10 +316,7 @@
     description: 即使此刻閉上眼睛，也仍有奇跡正在某處發生……
     group_id: "77"
     code: commander_3520_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS35
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: 少女前線五周年 X 羅森聯動線下活動兌換
@@ -369,10 +327,7 @@
     description: 你的人生是一場壯闊的展會，指揮官。為你所經歷過的旅程做一個總結，然後繼續下一段路吧。
     group_id: "78"
     code: commander_3640_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS36
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: 五周年簽到活動獎勵
@@ -383,10 +338,7 @@
     description: 來自兩位國際服裝設計大師的高級定制禮服，相信有緣人能夠一睹它的美麗。
     group_id: "79"
     code: commander_3700_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS37
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: 前進營地兌換
@@ -397,10 +349,7 @@
     description: 戰爭如表演，墜落即退場。
     group_id: "80"
     code: commander_3820_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS38
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: 熵減焓增活動排名獎勵
@@ -439,10 +388,7 @@
     description: 無論歷史的車輪揚起怎樣的沙塵，終無法掩蓋他們的意志。
     group_id: "83"
     code: commander_4120_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS41
-    is_class: 0
     des_year: "2021"
     source: 2
     source_description: 踏月尋秋簽到活動獎勵
@@ -467,10 +413,7 @@
     description: 帶著承載了兒時夢想的玩具，那個迷醉於仰望天空的孩子踏入了這片一望無際的蒼藍之境。
     group_id: "85"
     code: commander_4310_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS43
-    is_class: 0
     des_year: "2022"
     source: 2
     source_description: 靜風點活動排名獎勵
@@ -509,10 +452,7 @@
     description: 帶上我，去赴一場夢中的宴會。夢醒時分，共同歡醉的人們仍陪在你的身邊。
     group_id: "88"
     code: commander_4640_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: CLASS46
-    is_class: 0
     des_year: "2022"
     source: 2
     source_description: 六週年簽到活動獎勵
@@ -537,10 +477,7 @@
     description: 埋藏我所思，塑化我所願
     group_id: "60"
     code: commander_9920_icon
-    bonus_plastic: ""
-    skill_id: 0
     path: EMOJI
-    is_class: 0
     des_year: "2019"
     source: 2
     source_description: 會伴隨壞運氣一起出現

@@ -2,10 +2,8 @@
   {
     id: 1
     type: 1
-    sub_type: 0
     title: 作戰能力
     sub_title: career_quest_group-20000001
-    function_control_id: 0
   }
   {
     id: 2
@@ -13,7 +11,6 @@
     sub_type: 1
     title: 作戰能力
     sub_title: 戰術人形
-    function_control_id: 0
   }
   {
     id: 3
@@ -50,10 +47,8 @@
   {
     id: 7
     type: 2
-    sub_type: 0
     title: 指揮生涯
     sub_title: career_quest_group-20000007
-    function_control_id: 0
   }
   {
     id: 8
@@ -61,7 +56,6 @@
     sub_type: 1
     title: 指揮生涯
     sub_title: 指揮作戰
-    function_control_id: 0
   }
   {
     id: 9
@@ -69,7 +63,6 @@
     sub_type: 2
     title: 指揮生涯
     sub_title: 後勤能力
-    function_control_id: 0
   }
   {
     id: 10
@@ -77,7 +70,6 @@
     sub_type: 3
     title: 指揮生涯
     sub_title: 文娛素質
-    function_control_id: 0
   }
   {
     id: 11
@@ -85,6 +77,5 @@
     sub_type: 4
     title: 指揮生涯
     sub_title: 據點建設
-    function_control_id: 0
   }
 ]

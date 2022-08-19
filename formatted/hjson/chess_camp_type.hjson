@@ -13,7 +13,6 @@
     name: 火神重工
     des: 火神重工是一家規模龐大的老牌重工企業，主要業務包含軍工業、能源業與基礎設施建設等，並在智能城市和新能源領域取得了令人矚目的成果。
     camp_skill: "302"
-    passive_skill: ""
     color: "#00D9C1FF"
     code: MiniGameFlightChessCamp2
   }
@@ -31,7 +30,6 @@
     name: 鐵血工造
     des: 全稱鐵血工業製造公司（SANGVIS FERRI），老牌工業製造公司，第三次世界大戰結束後，利用人工智慧開發了全新的戰術人形。
     camp_skill: "304"
-    passive_skill: ""
     color: "#E04900FF"
     code: MiniGameFlightChessCamp4
   }
