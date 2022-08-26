@@ -8544,7 +8544,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      暴擊傷害+<critical_harm_rate><%>$64式自專用
+      暴擊傷害+<critical_harm_rate><%>技能增強$64式自專用
       '''
     rank: 5
     category: 1
@@ -8577,7 +8577,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      傷害+<pow>$M82A1專用
+      傷害+<pow>技能增強$M82A1專用
       '''
     rank: 5
     category: 1
@@ -8741,7 +8741,7 @@
     description:
       '''
       傷害+<pow> 命中+<hit>
-      射速<rate>$Ak 5專用
+      射速<rate>技能增強$Ak 5專用
       '''
     rank: 5
     category: 1

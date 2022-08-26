@@ -836,10 +836,10 @@ equip-10000281,57-N-323S
 equip-20000281,穿甲+<armor_piercing>//n傷害+<pow>$SVT-38專用
 equip-30000281,一種早期的鋼芯彈，重量輕巧便於攜帶，由IOP為SVT-38專門調整後成了她的專屬彈藥。
 equip-10000282,64式狙擊鏡
-equip-20000282,暴擊機率+<critical_percent><%>//n暴擊傷害+<critical_harm_rate><%>$64式自專用
+equip-20000282,暴擊機率+<critical_percent><%>//n暴擊傷害+<critical_harm_rate><%>技能增強$64式自專用
 equip-30000282,一款專為64式自設計的2.2倍光學鏡，雖然說實質上是退役的M84狙擊鏡，但是也是陪伴64式自戰鬥多年的可靠的夥伴。
 equip-10000283,Barrett QDL
-equip-20000283,暴擊機率+<critical_percent><%>//n傷害+<pow>$M82A1專用
+equip-20000283,暴擊機率+<critical_percent><%>//n傷害+<pow>技能增強$M82A1專用
 equip-30000283,專為M82A1定製的快拆消音，體積十分驚人，可以根據任務需求進行快速安裝。
 equip-10000284,34號信號槍
 equip-20000284,命中+<hit>//n梯隊命中+10%$PPK專用
@@ -854,7 +854,7 @@ equip-10000287,HARRIS腳架
 equip-20000287,暴擊機率+<critical_percent><%>//n傷害+<pow>$OBR專用
 equip-30000287,HARRIS的經典雙腳架，通過larue的轉接口安裝在OBR的皮軌上，結構簡單可靠。
 equip-10000288,CS紅點
-equip-20000288,傷害+<pow> 命中+<hit>//n射速<rate>$Ak 5專用
+equip-20000288,傷害+<pow> 命中+<hit>//n射速<rate>技能增強$Ak 5專用
 equip-30000288,AP社的一款經典紅點產品，經過了IOP為Ak 5的定製調整。
 equip-10000289,GLX160
 equip-20000289,暴擊機率+<critical_percent><%>//n傷害+<pow>$ARX-160專用
@@ -874,3 +874,7 @@ equip-30000293,IOP為M6 ASW開發的多功能披肩，採用了先進材料，�
 equip-10000294,ACR固定後托
 equip-20000294,暴擊機率+<critical_percent><%>//n傷害+<pow>$ACR專用
 equip-30000294,ACR專用的固定後拖，雖然無法摺疊但是提升了可靠性，可以根據任務需求切換。
+equip-10000295,專用Mlok護木
+equip-20000295,暴擊機率+<critical_percent><%>//n暴擊傷害+<critical_harm_rate><%>技能增強$AUG專用
+equip-30000295,CG社專為AUG設計的輕量Mlok護木，能夠提高AUG的掛載能力。
+equip-40000295,

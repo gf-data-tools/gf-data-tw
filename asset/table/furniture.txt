@@ -1124,6 +1124,10 @@ furniture-10037406,G41-寰宇特急
 furniture-20037406,G41的海報
 furniture-10037407,漢陽造88式-超新星之魂
 furniture-20037407,漢陽造88式的海報
+furniture-10030586,OBR-卡斯蒂利亞女王
+furniture-20030586,OBR的海報。
+furniture-10330001,ST AR-15-午夏憩風
+furniture-20330001,ST AR-15的海報。
 furniture-10003103,睡貨精靈
 furniture-20003103,軟綿綿的睡貨專用裝置，躺在上面感覺仿佛經驗值都上升了啊……才怪！別做夢了，快起來努力工作才有經驗拿！
 furniture-10003108,晚安琴架

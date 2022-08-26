@@ -15068,7 +15068,7 @@
     {
         "id": 282,
         "name": "64式狙擊鏡",
-        "description": "暴擊機率+<critical_percent><%>\n暴擊傷害+<critical_harm_rate><%>$64式自專用",
+        "description": "暴擊機率+<critical_percent><%>\n暴擊傷害+<critical_harm_rate><%>技能增強$64式自專用",
         "rank": 5,
         "category": 1,
         "type": 18,
@@ -15122,7 +15122,7 @@
     {
         "id": 283,
         "name": "Barrett QDL",
-        "description": "暴擊機率+<critical_percent><%>\n傷害+<pow>$M82A1專用",
+        "description": "暴擊機率+<critical_percent><%>\n傷害+<pow>技能增強$M82A1專用",
         "rank": 5,
         "category": 1,
         "type": 18,
@@ -15392,7 +15392,7 @@
     {
         "id": 288,
         "name": "CS紅點",
-        "description": "傷害+<pow> 命中+<hit>\n射速<rate>$Ak 5專用",
+        "description": "傷害+<pow> 命中+<hit>\n射速<rate>技能增強$Ak 5專用",
         "rank": 5,
         "category": 1,
         "type": 18,

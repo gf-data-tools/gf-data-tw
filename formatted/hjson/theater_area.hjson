@@ -24,7 +24,7 @@
     battle_background: wasteland
     theater_id: 41
     display_length: 300
-    description: theater_area-20000411
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 1000
     area_mission_id: 900411
   }
@@ -53,7 +53,7 @@
     battle_background: wasteland
     theater_id: 41
     display_length: 300
-    description: theater_area-20000412
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 2600
     area_mission_id: 900411
   }
@@ -82,7 +82,7 @@
     battle_background: wasteland
     theater_id: 41
     display_length: 300
-    description: theater_area-20000413
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4200
     area_mission_id: 900411
   }
@@ -114,7 +114,7 @@
     battle_background: wasteland
     theater_id: 41
     display_length: 300
-    description: theater_area-20000414
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4800
     area_mission_id: 900411
   }
@@ -143,7 +143,7 @@
     battle_background: wasteland
     theater_id: 41
     display_length: 300
-    description: theater_area-20000415
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5200
     area_mission_id: 900412
   }
@@ -173,7 +173,7 @@
     battle_background: wasteland
     theater_id: 41
     display_length: 300
-    description: theater_area-20000416
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5800
     area_mission_id: 900412
   }
@@ -203,7 +203,7 @@
     battle_background: wasteland
     theater_id: 41
     display_length: 300
-    description: theater_area-20000417
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 6400
     area_mission_id: 900412
   }
@@ -234,7 +234,7 @@
     battle_background: wasteland
     theater_id: 41
     display_length: 300
-    description: theater_area-20000418
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 7500
     area_mission_id: 900412
   }
@@ -263,7 +263,7 @@
     battle_background: abandonedvillage
     theater_id: 42
     display_length: 300
-    description: theater_area-20000421
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 7800
     area_mission_id: 900421
   }
@@ -292,7 +292,7 @@
     battle_background: abandonedvillage
     theater_id: 42
     display_length: 300
-    description: theater_area-20000422
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 8000
     area_mission_id: 900421
   }
@@ -321,7 +321,7 @@
     battle_background: abandonedvillage
     theater_id: 42
     display_length: 300
-    description: theater_area-20000423
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 8500
     area_mission_id: 900421
   }
@@ -353,7 +353,7 @@
     battle_background: abandonedvillage
     theater_id: 42
     display_length: 300
-    description: theater_area-20000424
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 8800
     area_mission_id: 900421
   }
@@ -383,7 +383,7 @@
     battle_background: abandonedvillage
     theater_id: 42
     display_length: 300
-    description: theater_area-20000425
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 9200
     area_mission_id: 900422
   }
@@ -413,7 +413,7 @@
     battle_background: abandonedvillage
     theater_id: 42
     display_length: 300
-    description: theater_area-20000426
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 9600
     area_mission_id: 900422
   }
@@ -443,7 +443,7 @@
     battle_background: abandonedvillage
     theater_id: 42
     display_length: 300
-    description: theater_area-20000427
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 13000
     area_mission_id: 900422
   }
@@ -474,7 +474,7 @@
     battle_background: abandonedvillage
     theater_id: 42
     display_length: 300
-    description: theater_area-20000428
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 14500
     area_mission_id: 900422
   }
@@ -503,7 +503,7 @@
     battle_background: iron
     theater_id: 43
     display_length: 300
-    description: theater_area-20000431
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 13000
     area_mission_id: 900431
   }
@@ -532,7 +532,7 @@
     battle_background: iron
     theater_id: 43
     display_length: 300
-    description: theater_area-20000432
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 16000
     area_mission_id: 900431
   }
@@ -563,7 +563,7 @@
     battle_background: iron
     theater_id: 43
     display_length: 300
-    description: theater_area-20000433
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 20000
     area_mission_id: 900431
   }
@@ -594,7 +594,7 @@
     battle_background: iron
     theater_id: 43
     display_length: 300
-    description: theater_area-20000434
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 22000
     area_mission_id: 900432
   }
@@ -623,7 +623,7 @@
     battle_background: iron
     theater_id: 43
     display_length: 300
-    description: theater_area-20000435
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 26000
     area_mission_id: 900432
   }
@@ -656,7 +656,7 @@
     battle_background: iron
     theater_id: 43
     display_length: 300
-    description: theater_area-20000436
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 27500
     area_mission_id: 900432
   }
@@ -686,7 +686,7 @@
     battle_background: iron
     theater_id: 43
     display_length: 300
-    description: theater_area-20000437
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 29000
     area_mission_id: 900432
   }
@@ -717,7 +717,7 @@
     battle_background: iron
     theater_id: 43
     display_length: 300
-    description: theater_area-20000438
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 31000
     area_mission_id: 900432
   }
@@ -746,7 +746,7 @@
     battle_background: snowland
     theater_id: 44
     display_length: 300
-    description: theater_area-20000441
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 2400
     area_mission_id: 900441
   }
@@ -776,7 +776,7 @@
     battle_background: snowland
     theater_id: 44
     display_length: 300
-    description: theater_area-20000442
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 4800
     area_mission_id: 900441
   }
@@ -808,7 +808,7 @@
     battle_background: snowland
     theater_id: 44
     display_length: 300
-    description: theater_area-20000443
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 6400
     area_mission_id: 900441
   }
@@ -838,7 +838,7 @@
     battle_background: snowland
     theater_id: 44
     display_length: 300
-    description: theater_area-20000444
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 14000
     area_mission_id: 900442
   }
@@ -867,7 +867,7 @@
     battle_background: snowland
     theater_id: 44
     display_length: 300
-    description: theater_area-20000445
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 25000
     area_mission_id: 900442
   }
@@ -899,7 +899,7 @@
     battle_background: snowland
     theater_id: 44
     display_length: 300
-    description: theater_area-20000446
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 28000
     area_mission_id: 900442
   }
@@ -929,7 +929,7 @@
     battle_background: snowland
     theater_id: 44
     display_length: 300
-    description: theater_area-20000447
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 30000
     area_mission_id: 900443
   }
@@ -960,7 +960,7 @@
     battle_background: snowland
     theater_id: 44
     display_length: 300
-    description: theater_area-20000448
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 34000
     area_mission_id: 900443
   }
@@ -989,7 +989,7 @@
     battle_background: wasteland
     theater_id: 51
     display_length: 300
-    description: theater_area-20000511
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 1000
     area_mission_id: 900411
   }
@@ -1018,7 +1018,7 @@
     battle_background: wasteland
     theater_id: 51
     display_length: 300
-    description: theater_area-20000512
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 2600
     area_mission_id: 900411
   }
@@ -1047,7 +1047,7 @@
     battle_background: wasteland
     theater_id: 51
     display_length: 300
-    description: theater_area-20000513
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4200
     area_mission_id: 900411
   }
@@ -1079,7 +1079,7 @@
     battle_background: wasteland
     theater_id: 51
     display_length: 300
-    description: theater_area-20000514
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4800
     area_mission_id: 900411
   }
@@ -1108,7 +1108,7 @@
     battle_background: wasteland
     theater_id: 51
     display_length: 300
-    description: theater_area-20000515
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5200
     area_mission_id: 900412
   }
@@ -1138,7 +1138,7 @@
     battle_background: wasteland
     theater_id: 51
     display_length: 300
-    description: theater_area-20000516
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5800
     area_mission_id: 900412
   }
@@ -1168,7 +1168,7 @@
     battle_background: wasteland
     theater_id: 51
     display_length: 300
-    description: theater_area-20000517
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 6400
     area_mission_id: 900412
   }
@@ -1199,7 +1199,7 @@
     battle_background: wasteland
     theater_id: 51
     display_length: 300
-    description: theater_area-20000518
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 7500
     area_mission_id: 900412
   }
@@ -1228,7 +1228,7 @@
     battle_background: abandonedvillage
     theater_id: 52
     display_length: 300
-    description: theater_area-20000521
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 7800
     area_mission_id: 900421
   }
@@ -1257,7 +1257,7 @@
     battle_background: abandonedvillage
     theater_id: 52
     display_length: 300
-    description: theater_area-20000522
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 8000
     area_mission_id: 900421
   }
@@ -1286,7 +1286,7 @@
     battle_background: abandonedvillage
     theater_id: 52
     display_length: 300
-    description: theater_area-20000523
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 8500
     area_mission_id: 900421
   }
@@ -1318,7 +1318,7 @@
     battle_background: abandonedvillage
     theater_id: 52
     display_length: 300
-    description: theater_area-20000524
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 8800
     area_mission_id: 900421
   }
@@ -1348,7 +1348,7 @@
     battle_background: abandonedvillage
     theater_id: 52
     display_length: 300
-    description: theater_area-20000525
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 9200
     area_mission_id: 900422
   }
@@ -1378,7 +1378,7 @@
     battle_background: abandonedvillage
     theater_id: 52
     display_length: 300
-    description: theater_area-20000526
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 9600
     area_mission_id: 900422
   }
@@ -1408,7 +1408,7 @@
     battle_background: abandonedvillage
     theater_id: 52
     display_length: 300
-    description: theater_area-20000527
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 13000
     area_mission_id: 900422
   }
@@ -1439,7 +1439,7 @@
     battle_background: abandonedvillage
     theater_id: 52
     display_length: 300
-    description: theater_area-20000528
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 14500
     area_mission_id: 900422
   }
@@ -1468,7 +1468,7 @@
     battle_background: iron
     theater_id: 53
     display_length: 300
-    description: theater_area-20000531
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 13000
     area_mission_id: 900431
   }
@@ -1497,7 +1497,7 @@
     battle_background: iron
     theater_id: 53
     display_length: 300
-    description: theater_area-20000532
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 16000
     area_mission_id: 900431
   }
@@ -1528,7 +1528,7 @@
     battle_background: iron
     theater_id: 53
     display_length: 300
-    description: theater_area-20000533
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 20000
     area_mission_id: 900431
   }
@@ -1559,7 +1559,7 @@
     battle_background: iron
     theater_id: 53
     display_length: 300
-    description: theater_area-20000534
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 22000
     area_mission_id: 900432
   }
@@ -1588,7 +1588,7 @@
     battle_background: iron
     theater_id: 53
     display_length: 300
-    description: theater_area-20000535
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 26000
     area_mission_id: 900432
   }
@@ -1621,7 +1621,7 @@
     battle_background: iron
     theater_id: 53
     display_length: 300
-    description: theater_area-20000536
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 27500
     area_mission_id: 900432
   }
@@ -1651,7 +1651,7 @@
     battle_background: iron
     theater_id: 53
     display_length: 300
-    description: theater_area-20000537
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 29000
     area_mission_id: 900432
   }
@@ -1682,7 +1682,7 @@
     battle_background: iron
     theater_id: 53
     display_length: 300
-    description: theater_area-20000538
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 31000
     area_mission_id: 900432
   }
@@ -1711,7 +1711,7 @@
     battle_background: snowland
     theater_id: 54
     display_length: 300
-    description: theater_area-20000541
+    description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 2400
     area_mission_id: 900441
   }
@@ -1741,7 +1741,7 @@
     battle_background: snowland
     theater_id: 54
     display_length: 300
-    description: theater_area-20000542
+    description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 4800
     area_mission_id: 900441
   }
@@ -1773,7 +1773,7 @@
     battle_background: snowland
     theater_id: 54
     display_length: 300
-    description: theater_area-20000543
+    description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 6400
     area_mission_id: 900441
   }
@@ -1803,7 +1803,7 @@
     battle_background: snowland
     theater_id: 54
     display_length: 300
-    description: theater_area-20000544
+    description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 14000
     area_mission_id: 900442
   }
@@ -1832,7 +1832,7 @@
     battle_background: snowland
     theater_id: 54
     display_length: 300
-    description: theater_area-20000545
+    description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 25000
     area_mission_id: 900442
   }
@@ -1864,7 +1864,7 @@
     battle_background: snowland
     theater_id: 54
     display_length: 300
-    description: theater_area-20000546
+    description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 28000
     area_mission_id: 900442
   }
@@ -1894,7 +1894,7 @@
     battle_background: snowland
     theater_id: 54
     display_length: 300
-    description: theater_area-20000547
+    description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 30000
     area_mission_id: 900443
   }
@@ -1925,7 +1925,7 @@
     battle_background: snowland
     theater_id: 54
     display_length: 300
-    description: theater_area-20000548
+    description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 34000
     area_mission_id: 900443
   }
@@ -1954,7 +1954,7 @@
     battle_background: wasteland
     theater_id: 61
     display_length: 300
-    description: theater_area-20000611
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 1000
     area_mission_id: 900411
   }
@@ -1984,7 +1984,7 @@
     battle_background: wasteland
     theater_id: 61
     display_length: 300
-    description: theater_area-20000612
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 2600
     area_mission_id: 900411
   }
@@ -2014,7 +2014,7 @@
     battle_background: wasteland
     theater_id: 61
     display_length: 300
-    description: theater_area-20000613
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4200
     area_mission_id: 900411
   }
@@ -2047,7 +2047,7 @@
     battle_background: wasteland
     theater_id: 61
     display_length: 300
-    description: theater_area-20000614
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4800
     area_mission_id: 900411
   }
@@ -2077,7 +2077,7 @@
     battle_background: wasteland
     theater_id: 61
     display_length: 300
-    description: theater_area-20000615
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5200
     area_mission_id: 900412
   }
@@ -2109,7 +2109,7 @@
     battle_background: wasteland
     theater_id: 61
     display_length: 300
-    description: theater_area-20000616
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5800
     area_mission_id: 900412
   }
@@ -2140,7 +2140,7 @@
     battle_background: wasteland
     theater_id: 61
     display_length: 300
-    description: theater_area-20000617
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 6400
     area_mission_id: 900412
   }
@@ -2171,7 +2171,7 @@
     battle_background: wasteland
     theater_id: 61
     display_length: 300
-    description: theater_area-20000618
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 7500
     area_mission_id: 900412
   }
@@ -2198,7 +2198,7 @@
     battle_background: abandonedvillage
     theater_id: 62
     display_length: 300
-    description: theater_area-20000621
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 7800
     area_mission_id: 900421
     advantage_sangvis: "1011,1002"
@@ -2228,7 +2228,7 @@
     battle_background: abandonedvillage
     theater_id: 62
     display_length: 300
-    description: theater_area-20000622
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 8000
     area_mission_id: 900421
     advantage_sangvis: "1012"
@@ -2258,7 +2258,7 @@
     battle_background: abandonedvillage
     theater_id: 62
     display_length: 300
-    description: theater_area-20000623
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 8500
     area_mission_id: 900421
     advantage_sangvis: "1013"
@@ -2291,7 +2291,7 @@
     battle_background: abandonedvillage
     theater_id: 62
     display_length: 300
-    description: theater_area-20000624
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 8800
     area_mission_id: 900421
     advantage_sangvis: "1014"
@@ -2322,7 +2322,7 @@
     battle_background: abandonedvillage
     theater_id: 62
     display_length: 300
-    description: theater_area-20000625
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 9200
     area_mission_id: 900422
     advantage_sangvis: "2001"
@@ -2353,7 +2353,7 @@
     battle_background: abandonedvillage
     theater_id: 62
     display_length: 300
-    description: theater_area-20000626
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 9600
     area_mission_id: 900422
     advantage_sangvis: "2002"
@@ -2384,7 +2384,7 @@
     battle_background: abandonedvillage
     theater_id: 62
     display_length: 300
-    description: theater_area-20000627
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 13000
     area_mission_id: 900422
     advantage_sangvis: "2003"
@@ -2416,7 +2416,7 @@
     battle_background: abandonedvillage
     theater_id: 62
     display_length: 300
-    description: theater_area-20000628
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 14500
     area_mission_id: 900422
     advantage_sangvis: "2004"
@@ -2445,7 +2445,7 @@
     battle_background: iron
     theater_id: 63
     display_length: 300
-    description: theater_area-20000631
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 13000
     area_mission_id: 900431
     advantage_sangvis: "1011,1002"
@@ -2476,7 +2476,7 @@
     battle_background: iron
     theater_id: 63
     display_length: 300
-    description: theater_area-20000632
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 16000
     area_mission_id: 900431
     advantage_sangvis: "1012"
@@ -2509,7 +2509,7 @@
     battle_background: iron
     theater_id: 63
     display_length: 300
-    description: theater_area-20000633
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 20000
     area_mission_id: 900431
     advantage_sangvis: "1013"
@@ -2542,7 +2542,7 @@
     battle_background: iron
     theater_id: 63
     display_length: 300
-    description: theater_area-20000634
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 22000
     area_mission_id: 900432
     advantage_sangvis: "1014"
@@ -2573,7 +2573,7 @@
     battle_background: iron
     theater_id: 63
     display_length: 300
-    description: theater_area-20000635
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 26000
     area_mission_id: 900432
     advantage_sangvis: "2001"
@@ -2609,7 +2609,7 @@
     battle_background: iron
     theater_id: 63
     display_length: 300
-    description: theater_area-20000636
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 27500
     area_mission_id: 900432
     advantage_sangvis: "2002"
@@ -2641,7 +2641,7 @@
     battle_background: iron
     theater_id: 63
     display_length: 300
-    description: theater_area-20000637
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 29000
     area_mission_id: 900432
     advantage_sangvis: "2003"
@@ -2673,7 +2673,7 @@
     battle_background: iron
     theater_id: 63
     display_length: 300
-    description: theater_area-20000638
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 31000
     area_mission_id: 900432
     advantage_sangvis: "2004"
@@ -2703,7 +2703,7 @@
     battle_background: snowland
     theater_id: 64
     display_length: 300
-    description: theater_area-20000641
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 2400
     area_mission_id: 900441
   }
@@ -2734,7 +2734,7 @@
     battle_background: snowland
     theater_id: 64
     display_length: 300
-    description: theater_area-20000642
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 4800
     area_mission_id: 900441
   }
@@ -2767,7 +2767,7 @@
     battle_background: snowland
     theater_id: 64
     display_length: 300
-    description: theater_area-20000643
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 6400
     area_mission_id: 900441
   }
@@ -2798,7 +2798,7 @@
     battle_background: snowland
     theater_id: 64
     display_length: 300
-    description: theater_area-20000644
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 14000
     area_mission_id: 900442
   }
@@ -2828,7 +2828,7 @@
     battle_background: snowland
     theater_id: 64
     display_length: 300
-    description: theater_area-20000645
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 25000
     area_mission_id: 900442
   }
@@ -2862,7 +2862,7 @@
     battle_background: snowland
     theater_id: 64
     display_length: 300
-    description: theater_area-20000646
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 28000
     area_mission_id: 900442
   }
@@ -2893,7 +2893,7 @@
     battle_background: snowland
     theater_id: 64
     display_length: 300
-    description: theater_area-20000647
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 30000
     area_mission_id: 900443
   }
@@ -2924,7 +2924,7 @@
     battle_background: snowland
     theater_id: 64
     display_length: 300
-    description: theater_area-20000648
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 34000
     area_mission_id: 900443
   }
@@ -2953,7 +2953,7 @@
     battle_background: wasteland
     theater_id: 71
     display_length: 300
-    description: theater_area-20000711
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 1000
     area_mission_id: 901411
   }
@@ -2982,7 +2982,7 @@
     battle_background: network
     theater_id: 71
     display_length: 300
-    description: theater_area-20000712
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 2600
     area_mission_id: 901411
   }
@@ -3011,7 +3011,7 @@
     battle_background: wasteland
     theater_id: 71
     display_length: 300
-    description: theater_area-20000713
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4200
     area_mission_id: 901411
   }
@@ -3042,7 +3042,7 @@
     battle_background: network
     theater_id: 71
     display_length: 300
-    description: theater_area-20000714
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4800
     area_mission_id: 901411
   }
@@ -3072,7 +3072,7 @@
     battle_background: wasteland
     theater_id: 71
     display_length: 300
-    description: theater_area-20000715
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5200
     area_mission_id: 901412
   }
@@ -3101,7 +3101,7 @@
     battle_background: network
     theater_id: 71
     display_length: 300
-    description: theater_area-20000716
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5800
     area_mission_id: 901412
   }
@@ -3130,7 +3130,7 @@
     battle_background: wasteland
     theater_id: 71
     display_length: 300
-    description: theater_area-20000717
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 6400
     area_mission_id: 901412
   }
@@ -3161,7 +3161,7 @@
     battle_background: network
     theater_id: 71
     display_length: 300
-    description: theater_area-20000718
+    description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 7500
     area_mission_id: 901412
   }
@@ -3190,7 +3190,7 @@
     battle_background: abandonedvillage
     theater_id: 72
     display_length: 300
-    description: theater_area-20000721
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 7800
     area_mission_id: 901421
   }
@@ -3219,7 +3219,7 @@
     battle_background: network
     theater_id: 72
     display_length: 300
-    description: theater_area-20000722
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 8000
     area_mission_id: 901421
   }
@@ -3248,7 +3248,7 @@
     battle_background: abandonedvillage
     theater_id: 72
     display_length: 300
-    description: theater_area-20000723
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 8500
     area_mission_id: 901421
   }
@@ -3279,7 +3279,7 @@
     battle_background: network
     theater_id: 72
     display_length: 300
-    description: theater_area-20000724
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 8800
     area_mission_id: 901421
   }
@@ -3310,7 +3310,7 @@
     battle_background: abandonedvillage
     theater_id: 72
     display_length: 300
-    description: theater_area-20000725
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 9200
     area_mission_id: 901422
   }
@@ -3339,7 +3339,7 @@
     battle_background: network
     theater_id: 72
     display_length: 300
-    description: theater_area-20000726
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 9600
     area_mission_id: 901422
   }
@@ -3368,7 +3368,7 @@
     battle_background: abandonedvillage
     theater_id: 72
     display_length: 300
-    description: theater_area-20000727
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 13000
     area_mission_id: 901422
   }
@@ -3399,7 +3399,7 @@
     battle_background: network
     theater_id: 72
     display_length: 300
-    description: theater_area-20000728
+    description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 14500
     area_mission_id: 901422
   }
@@ -3428,7 +3428,7 @@
     battle_background: network
     theater_id: 73
     display_length: 300
-    description: theater_area-20000731
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 13000
     area_mission_id: 901431
   }
@@ -3458,7 +3458,7 @@
     battle_background: iron
     theater_id: 73
     display_length: 300
-    description: theater_area-20000732
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 16000
     area_mission_id: 901431
   }
@@ -3489,7 +3489,7 @@
     battle_background: network
     theater_id: 73
     display_length: 300
-    description: theater_area-20000733
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 20000
     area_mission_id: 901431
   }
@@ -3520,7 +3520,7 @@
     battle_background: iron
     theater_id: 73
     display_length: 300
-    description: theater_area-20000734
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 22000
     area_mission_id: 901432
   }
@@ -3549,7 +3549,7 @@
     battle_background: iron
     theater_id: 73
     display_length: 300
-    description: theater_area-20000735
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 26000
     area_mission_id: 901432
   }
@@ -3581,7 +3581,7 @@
     battle_background: network
     theater_id: 73
     display_length: 300
-    description: theater_area-20000736
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 27500
     area_mission_id: 901432
   }
@@ -3610,7 +3610,7 @@
     battle_background: iron
     theater_id: 73
     display_length: 300
-    description: theater_area-20000737
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 29000
     area_mission_id: 901433
   }
@@ -3641,7 +3641,7 @@
     battle_background: network
     theater_id: 73
     display_length: 300
-    description: theater_area-20000738
+    description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 31000
     area_mission_id: 901433
   }
@@ -3670,7 +3670,7 @@
     battle_background: network
     theater_id: 74
     display_length: 300
-    description: theater_area-20000741
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 2400
     area_mission_id: 901441
   }
@@ -3700,7 +3700,7 @@
     battle_background: snowland
     theater_id: 74
     display_length: 300
-    description: theater_area-20000742
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 4800
     area_mission_id: 901441
   }
@@ -3732,7 +3732,7 @@
     battle_background: network
     theater_id: 74
     display_length: 300
-    description: theater_area-20000743
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 6400
     area_mission_id: 901441
   }
@@ -3762,7 +3762,7 @@
     battle_background: snowland
     theater_id: 74
     display_length: 300
-    description: theater_area-20000744
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 14000
     area_mission_id: 901442
   }
@@ -3792,7 +3792,7 @@
     battle_background: snowland
     theater_id: 74
     display_length: 300
-    description: theater_area-20000745
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 25000
     area_mission_id: 901442
   }
@@ -3823,7 +3823,7 @@
     battle_background: network
     theater_id: 74
     display_length: 300
-    description: theater_area-20000746
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 28000
     area_mission_id: 901442
   }
@@ -3853,7 +3853,7 @@
     battle_background: snowland
     theater_id: 74
     display_length: 300
-    description: theater_area-20000747
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 30000
     area_mission_id: 901443
   }
@@ -3884,7 +3884,7 @@
     battle_background: network
     theater_id: 74
     display_length: 300
-    description: theater_area-20000748
+    description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 34000
     area_mission_id: 901443
   }
