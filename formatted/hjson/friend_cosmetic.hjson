@@ -13257,4 +13257,17 @@
     skin: 7407
     filter_type: "4"
   }
+  {
+    id: 1142
+    item_id: 2142
+    sub_type: 3
+    gem: 600
+    item_ids: 508-15000
+    onsale: 1
+    code: cg_2022cosmos
+    order: 1
+    rarity: 10
+    is_live2d: 1
+    filter_type: "6"
+  }
 ]

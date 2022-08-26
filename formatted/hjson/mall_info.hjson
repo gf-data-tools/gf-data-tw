@@ -26354,6 +26354,31 @@
     classification_id: "1002"
   }
   {
+    id: "11022"
+    type: "8"
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 9月特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: "1.00"
+    prize_id: "660"
+    classification_id: "3002"
+  }
+  {
+    id: "11023"
+    type: "8"
+    gemprice: "128"
+    quota: "2001"
+    giftbag_name: 每日特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_navy
+    daily_quota: "1"
+    discount: "1.00"
+    prize_id: "1542"
+    classification_id: "3002"
+  }
+  {
     id: "99001"
     type: "102"
     gemprice: "980"
