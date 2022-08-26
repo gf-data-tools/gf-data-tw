@@ -7,7 +7,7 @@
     item_name: 人形製造契約
     introduction: 委託IOP製造人形的訂單。萬幸，我們的老朋友一直是我們堅實的後援。
     rank: 1
-    sort: 2
+    sort: 10
     item_access: "1,4,5,3"
     detail_introduction: 可在工廠-人形製造中委託IOP進行人形製造。
   }
@@ -19,7 +19,7 @@
     item_name: 裝備製造契約
     introduction: 委託16Lab製造裝備的訂單。打折的代價就是隨機。
     rank: 1
-    sort: 3
+    sort: 15
     item_access: "1,4,5,3"
     detail_introduction: 可在工廠-裝備製造中委託16lab進行裝備製造。
   }
@@ -31,7 +31,7 @@
     item_name: 快速製造契約
     introduction: 為製造訂單附上加急的需求。加急有風險，貨已售出，非質量問題概不退換。
     rank: 1
-    sort: 4
+    sort: 20
     item_access: "1,4,5,3"
     detail_introduction: 可在工廠中立即完成人形或裝備的製造。
   }
@@ -43,7 +43,7 @@
     item_name: 快速修復契約
     introduction: 為修復附上加急的需求。她迫不及待地想和你一起重回前線了。
     rank: 1
-    sort: 5
+    sort: 25
     item_access: "1,4,5,3"
     detail_introduction: 可立即完成受損單位的修復。
   }
@@ -75,7 +75,7 @@
     item_name: 誓約之證
     introduction: 與心意相通的戰術少女締結誓約的證明。是時候讓你們的關係升華一下了！
     rank: 1
-    sort: 1
+    sort: 5
     item_access: "1"
     detail_introduction: 可與好感度達到上限的人形締結誓約，提高好感度上限。
   }
@@ -87,7 +87,7 @@
     item_name: 快速訓練契約
     introduction: 雖然人類的學習需要時間，但在金錢的堆砌下，戰術單位可以不需要。
     rank: 1
-    sort: 6
+    sort: 30
     item_access: "1,3"
     detail_introduction: 可在研發-技能訓練中立即完成單位的技能訓練。
   }
@@ -99,7 +99,7 @@
     item_name: 增幅膠囊
     introduction: 有多種果味可選的強化膠囊，據說最近為了配合某些人形增加了酒味的版本。
     rank: 1
-    sort: 7
+    sort: 35
     item_access: "25,6"
     detail_introduction: 可在工廠-人形強化中提高人形未達上限的四項屬性各一點，溢出部分會少量並依次分配到其它屬性。
   }
@@ -111,7 +111,7 @@
     item_name: 替代核心
     introduction: 驅動傀儡的模組。「經原主人的許可才能卸下，進而演化成機器人之間的壓迫。」
     rank: 1
-    sort: 8
+    sort: 40
     item_access: "7,5,6,3"
     detail_introduction: 可在工廠-編製擴大中替代相同人形進行編製擴大。
   }
@@ -143,7 +143,7 @@
     item_name: 改名卡
     introduction: 申請更改指揮官名字的登記卡，「一個讓大家（包括您自己）重新看待您的機會。」
     rank: 1
-    sort: -39
+    sort: -195
     item_access: "2"
     detail_introduction: item-30000013
   }
@@ -155,7 +155,7 @@
     item_name: 原始數據樣本
     introduction: 粗略的數據樣本，質量參差不齊。「這次會是相同的結果嗎？也許只是臨時缺少一些靈感。」
     rank: 1
-    sort: 19
+    sort: 95
     item_access: "8,5"
     detail_introduction: 可在情報中心進行情報解析，獲取重裝部隊中樞數據或晶片。
   }
@@ -167,7 +167,7 @@
     item_name: 純淨數據樣本
     introduction: 仔細篩選過的樣本，分析出有價值的數據的可能性高一些。只是一些。「至少這一份看起來更清澈。」
     rank: 1
-    sort: 20
+    sort: 100
     item_access: "8,5"
     detail_introduction: 可在情報中心進行情報解析，相比原始數據更容易獲取重裝部隊中樞數據和高星級晶片。
   }
@@ -179,7 +179,7 @@
     item_name: 快速解析契約
     introduction: 不逼數據分析師一把，你永遠不知道給自己打工的人能有多優秀。「出於對方的愛好，這份契約需要您額外支付一張真實貓咪的照片。」
     rank: 1
-    sort: 21
+    sort: 105
     item_access: "1,5,2"
     detail_introduction: 可立即完成情報中心正在進行的情報解析。
   }
@@ -191,7 +191,7 @@
     item_name: 數據補丁
     introduction: 能夠晉升重裝部隊的數據補丁，其中有一部分是拆解滿級的重裝部隊後獲得。「『三人行必有我師焉』，所以……『再見了，老師』。」
     rank: 1
-    sort: 22
+    sort: 110
     item_access: "9,10"
     detail_introduction: 可用於滿星滿級重裝部隊的迭代強化。
   }
@@ -203,7 +203,7 @@
     item_name: 初級訓練資料
     introduction: 為人形們編寫的初級技能訓練指南，有進步就好！「好耶！雖然沒做什麼，但我真是辛苦了！」
     rank: 1
-    sort: 9
+    sort: 45
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 可在研發-技能訓練中為格里芬單位提供技能初級訓練。
@@ -216,7 +216,7 @@
     item_name: 中級訓練資料
     introduction: 為人形們編寫的中級技能訓練指南，不必求甚解。「變強就有命吃更多的冰淇淋，沒有更多的錢去吃就是另一個問題了……」
     rank: 1
-    sort: 10
+    sort: 50
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 可在研發-技能訓練中為格里芬單位提供技能中級訓練。
@@ -229,7 +229,7 @@
     item_name: 高級訓練資料
     introduction: 為人形們編寫的高級技能訓練指南，十分精深。「掃地僧是什麼，為什麼我要做掃地僧？」人形問。
     rank: 1
-    sort: 11
+    sort: 55
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 可在研發-技能訓練中為格里芬單位提供技能高級訓練。
@@ -242,7 +242,7 @@
     item_name: 採購幣
     introduction: 白色發亮的特殊貨幣，在這個時代很少見。「這些神秘硬幣曾被懷疑是為設計師人形們提供靈感動力的電池。」
     rank: 1
-    sort: 12
+    sort: 60
     upper_limit: 300000
     item_access: "1,4,5,2"
     detail_introduction: 可在宿舍中進行傢具和人形裝扮的採購。
@@ -255,7 +255,7 @@
     item_name: 兌換券
     introduction: 訂購商品贈送的無門檻代金券。買得越多送的越多，IOP不愧業界良心企業。
     rank: 1
-    sort: 13
+    sort: 65
     item_access: "11"
     detail_introduction: 可在宿舍-採購-限時兌換中兌換當期限時採購的傢具和人形裝扮，限時採購結束後一比一會轉化為採購幣。
   }
@@ -267,7 +267,7 @@
     item_name: 黑卡
     introduction: 曾經精英才能申請的高端卡片，你也擁有了。
     rank: 1
-    sort: 14
+    sort: 70
     item_access: "11"
     detail_introduction: 可在宿舍-採購-黑卡兌換中兌換人形裝扮。
   }
@@ -279,7 +279,7 @@
     item_name: 校準點券
     introduction: 裝備校準需要使用的代幣，看起來並不值錢。據說存在的意義只是防止強迫症重複調試。
     rank: 1
-    sort: 15
+    sort: 75
     item_access: "13,5"
     detail_introduction: 可在研發中用於裝備或妖精校準。
   }
@@ -291,7 +291,7 @@
     item_name: 記憶碎片
     introduction: 人形心智梳理時產生的數據，經過篩選可用於升級人形的心智空間。「你們說要讓我自由，但我只想要冰淇淋。」
     rank: 1
-    sort: 18
+    sort: 90
     upper_limit: 9999
     item_access: "14,15"
     detail_introduction: 可在研發-心智升級中用於人形心智升級。
@@ -304,7 +304,7 @@
     item_name: 特種作戰報告書
     introduction: 重裝部隊的特殊作戰報告，類似的報告書正在不斷增加。「希望大家從中發掘真正的寶藏，要知道失敗的經驗總大於成功。」
     rank: 1
-    sort: 23
+    sort: 115
     item_access: "24,16,6"
     detail_introduction: 可在格納庫中用於重裝部隊的經驗訓練。
   }
@@ -346,7 +346,7 @@
     item_name: 通用配件
     introduction: 人形們外出執行任務時順便回收的舊配件，稍加清洗和加工就能用來強化裝備。格琳娜和指揮官對此非常滿意，並表揚了提議進行這種行動的人形，但好像並沒有給她加薪。
     rank: 1
-    sort: 26
+    sort: 130
     item_access: "6,5"
     detail_introduction: 可在研发-装备强化中提供装备开发值。
   }
@@ -358,7 +358,7 @@
     item_name: 新型火控元件
     introduction: 針對擁有足夠拓展空間的高級人形，IOP特別研製了此款強化元件。還在調試期，數量非常有限。
     rank: 5
-    sort: 26
+    sort: 130
     upper_limit: 9999
     item_access: "6"
     detail_introduction: 可用於高星級人形的心智升級。
@@ -382,6 +382,28 @@
     introduction: 飛行棋商店抽獎道具
     rank: 1
     detail_introduction: item-30000053
+  }
+  {
+    id: 54
+    type: 1
+    arg: "1"
+    code: PieceBlackCard
+    item_name: item-10000054
+    introduction: item-20000054
+    rank: 1
+    sort: -70
+    detail_introduction: item-30000054
+  }
+  {
+    id: 55
+    type: 1
+    arg: "1"
+    code: Fairy_Biscuit
+    item_name: item-10000055
+    introduction: item-20000055
+    rank: 1
+    sort: -71
+    detail_introduction: item-30000055
   }
   {
     id: 100
@@ -645,7 +667,7 @@
     item_name: 電池
     introduction: 「作為電池其實有點大，但是電權保護組織稱，電池也有權擁有夢想。」
     rank: 1
-    sort: 17
+    sort: 85
     upper_limit: 9999
     item_access: "17,6,5"
     detail_introduction: 可用於宿舍-附屬房間中設施的升級和日常使用。
@@ -668,7 +690,7 @@
     item_name: 友情點數
     introduction: 與朋友們互動積累下來的成就點數。不涉及實際利益的友情純粹也脆弱。「哦？你也是來自世紀末的Friends嗎？」
     rank: 1
-    sort: 16
+    sort: 80
     item_access: "17,18,5"
     detail_introduction: 可在友情商店內兌換名片、頭像、基地背景等獎勵。
   }
@@ -711,7 +733,7 @@
     item_name: 超星內核
     introduction: 從初始2、3星融合勢力單位身上落下的閃亮星辰，物以稀為貴。
     rank: 1
-    sort: 32
+    sort: 160
     item_access: "7"
     detail_introduction: 可在收歸行動-內核商店中兌換高級道具。
   }
@@ -723,7 +745,7 @@
     item_name: 暗星內核
     introduction: 從初始1星融合勢力單位身上落下的黯淡星辰，平凡的物品也有作用。
     rank: 1
-    sort: 33
+    sort: 165
     item_access: "7"
     detail_introduction: 可在收歸行動-內核商店中兌換道具。
   }
@@ -735,7 +757,7 @@
     item_name: 開發培養皿
     introduction: 以太開發的必要物品，培育事物必須的溫床。
     rank: 1
-    sort: 27
+    sort: 135
     item_access: "20,19,22"
     detail_introduction: 可在工廠-強化&開發中對融合勢力單位進行以太開發。
   }
@@ -747,7 +769,7 @@
     item_name: 初級訓練密鑰
     introduction: 為融合勢力單位編寫的初級技能訓練指南，初步練習是必要的。「這就是讓我們打格里芬便宜靶子的理由？」
     rank: 1
-    sort: 28
+    sort: 140
     item_access: "20,19,22"
     detail_introduction: 可在研發-技能訓練中為融合勢力單位提供技能初級訓練。
   }
@@ -759,7 +781,7 @@
     item_name: 高級訓練密鑰
     introduction: 為融合勢力單位編寫的高級技能訓練指南，相信的心就是學會的魔法。「就算你這麼說，這個程式也太難了！」
     rank: 1
-    sort: 29
+    sort: 145
     item_access: "20,19,22"
     detail_introduction: 可在研發-技能訓練中為融合勢力單位提供技能高級訓練。
   }
@@ -771,7 +793,7 @@
     item_name: 指定裝備契約
     introduction: 委託製造指定類型裝備的契約，每一份契約可用於製造一個指定類型的裝備。
     rank: 1
-    sort: -40
+    sort: -200
     item_access: "2"
     detail_introduction: 可在工廠-裝備製造中執行I.O.P特殊訂單。
   }
@@ -793,7 +815,7 @@
     item_name: 重裝通用數據
     introduction: 一些重裝部隊通用的零件，似乎是從戰場回收的。節約是格里芬的傳統美德。
     rank: 1
-    sort: -30
+    sort: -150
     item_access: "9"
     detail_introduction: 可在重裝解鎖、晉升時替代指定數據的通用數據。
   }
@@ -805,7 +827,7 @@
     item_name: 破片手榴彈
     introduction: 破片擁有很好的範圍殺傷效果，尤其針對那些躲在掩體後面的傢伙。（暗金潮活動限定）
     rank: 1
-    sort: -35
+    sort: -175
     item_access: "2"
     detail_introduction: item-30000520
   }
@@ -817,7 +839,7 @@
     item_name: 閃光彈
     introduction: 閃光手榴彈會對目標造成致盲及致聾效果，但別忘了閉上自己的眼睛。（暗金潮活動限定）
     rank: 1
-    sort: -36
+    sort: -180
     item_access: "2"
     detail_introduction: item-30000521
   }
@@ -829,7 +851,7 @@
     item_name: 機槍塔
     introduction: 能夠部署在戰場上的自動武器，可攻擊鄰近敵人直到被摧毀或電池耗盡為止。（暗金潮活動限定）
     rank: 1
-    sort: -37
+    sort: -185
     item_access: "2"
     detail_introduction: item-30000522
   }
@@ -851,7 +873,7 @@
     item_name: 投擲式歌利亞
     introduction: 便攜式爆炸機器人，比起原型傷害力降低、靈活性增加。被投擲後會在定點爆炸，打亂敵方原定的部署。（鏡像論活動安潔視角戰役限定）
     rank: 1
-    sort: -38
+    sort: -190
     item_access: "2"
     detail_introduction: item-30000524
   }
@@ -863,9 +885,20 @@
     item_name: 快速自律契約
     introduction: 激發人形的最大潛能，使戰鬥能夠迅速結束。格里芬戰術，唯快不破！
     rank: 1
-    sort: 7
+    sort: 35
     item_access: "23,5,2"
     detail_introduction: 可立即完成自律作戰。
+  }
+  {
+    id: 526
+    type: 1
+    arg: "1"
+    code: Special_Equip_Ticket_2
+    item_name: item-10000526
+    introduction: item-20000526
+    rank: 1
+    sort: -40
+    detail_introduction: item-30000526
   }
   {
     id: 601
@@ -875,7 +908,7 @@
     item_name: 無限驚喜染色劑
     introduction: 沒有人能知道自己想像中的款式是不是真的合適，讓隨機性帶來驚喜吧。
     rank: 1
-    sort: 24
+    sort: 120
     item_access: "1,2"
     detail_introduction: 可對指揮官服裝進行一次隨機染色。
   }
@@ -887,7 +920,7 @@
     item_name: 色彩指定染色劑
     introduction: 別再為十連也抽不出自己想要的款式沮喪了，自己想要的花紋就該掌握在自己手裡！
     rank: 1
-    sort: 25
+    sort: 125
     item_access: "2"
     detail_introduction: 可對指揮官服裝進行一次指定染色。
   }
@@ -921,7 +954,7 @@
     item_name: 協力委託書
     introduction: 雖然我們的經驗也有可取之處，但畢竟火神重工才是專業的收歸人員。
     rank: 1
-    sort: 31
+    sort: 155
     item_access: "1,5,3,2"
     detail_introduction: 可在收歸行動中委託火神重工在分區所有剩餘單位中進行一次收歸。
   }
@@ -933,7 +966,7 @@
     item_name: 轉移觸媒
     introduction: 能夠將經驗與拓展空間全部轉移給另一個單位的觸媒。「一夜醒來，我又再次一無所有」。
     rank: 1
-    sort: 34
+    sort: 170
     item_access: "19"
     detail_introduction: 可在協議控制中心-對稱灌輸驅動器中交換兩個相同融合勢力單位的培養度。
   }
@@ -12141,6 +12174,66 @@
     detail_introduction: item-30002135
   }
   {
+    id: 2136
+    type: 5
+    arg: "1"
+    code: profilePic_ChessBonus_OBR
+    item_name: item-10002136
+    introduction: item-20002136
+    rank: 1
+    detail_introduction: item-30002136
+  }
+  {
+    id: 2137
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season7_1
+    item_name: item-10002137
+    introduction: item-20002137
+    rank: 1
+    detail_introduction: item-30002137
+  }
+  {
+    id: 2138
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season7_2
+    item_name: item-10002138
+    introduction: item-20002138
+    rank: 1
+    detail_introduction: item-30002138
+  }
+  {
+    id: 2139
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season7_3
+    item_name: item-10002139
+    introduction: item-20002139
+    rank: 1
+    detail_introduction: item-30002139
+  }
+  {
+    id: 2140
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_AR15
+    item_name: item-10002140
+    introduction: item-20002140
+    rank: 1
+    detail_introduction: item-30002140
+  }
+  {
+    id: 2141
+    type: 5
+    arg: "1"
+    code: card_BattlePass_AR15
+    item_name: item-10002141
+    introduction: item-20002141
+    rank: 1
+    detail_introduction: item-30002141
+  }
+  {
     id: 2142
     type: 5
     arg: "1"
@@ -12904,10 +12997,40 @@
     item_name: 超導脈衝
     introduction: 雖然火神重工才是專業的收歸人員，但我們的經驗也不是沒有可取之處。
     rank: 1
-    sort: 30
+    sort: 150
     consume_type: 1
     item_access: "5,3,2"
     detail_introduction: 可在收歸行動中對地圖上的融合勢力單位進行一次收歸。
+  }
+  {
+    id: 10605
+    type: 1
+    arg: "10605"
+    code: weekly_accumulation
+    item_name: item-10010605
+    introduction: item-20010605
+    rank: 1
+    detail_introduction: item-30010605
+  }
+  {
+    id: 10606
+    type: 16
+    arg: "10606"
+    code: pass_accumulation
+    item_name: item-10010606
+    introduction: item-20010606
+    rank: 1
+    detail_introduction: item-30010606
+  }
+  {
+    id: 10607
+    type: 16
+    arg: "10607"
+    code: pass_accumulation
+    item_name: item-10010607
+    introduction: item-20010607
+    rank: 1
+    detail_introduction: item-30010607
   }
   {
     id: 100001
@@ -15015,6 +15138,16 @@
     detail_introduction: item-30120006
   }
   {
+    id: 121001
+    type: 1
+    arg: "1"
+    code: FlightChessMap3_small
+    item_name: item-10121001
+    introduction: item-20121001
+    rank: 1
+    detail_introduction: item-30121001
+  }
+  {
     id: 130001
     type: 12
     arg: "130001"
@@ -15189,6 +15322,166 @@
     detail_introduction: item-30130017
   }
   {
+    id: 140001
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140001
+    introduction: item-20140001
+    rank: 1
+    detail_introduction: item-30140001
+  }
+  {
+    id: 140002
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140002
+    introduction: item-20140002
+    rank: 1
+    detail_introduction: item-30140002
+  }
+  {
+    id: 140003
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140003
+    introduction: item-20140003
+    rank: 1
+    detail_introduction: item-30140003
+  }
+  {
+    id: 140004
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140004
+    introduction: item-20140004
+    rank: 1
+    detail_introduction: item-30140004
+  }
+  {
+    id: 160001
+    type: 1
+    arg: "1"
+    code: PT
+    item_name: item-10160001
+    introduction: item-20160001
+    rank: 1
+    detail_introduction: item-30160001
+  }
+  {
+    id: 200001
+    type: 5
+    arg: "1"
+    code: profileFrame_sr_gun
+    item_name: item-10200001
+    introduction: item-20200001
+    rank: 1
+    detail_introduction: item-30200001
+  }
+  {
+    id: 200002
+    type: 5
+    arg: "1"
+    code: profileFrame_ssr_gun
+    item_name: item-10200002
+    introduction: item-20200002
+    rank: 1
+    detail_introduction: item-30200002
+  }
+  {
+    id: 200003
+    type: 5
+    arg: "1"
+    code: profileFrame_mod_gun
+    item_name: item-10200003
+    introduction: item-20200003
+    rank: 1
+    detail_introduction: item-30200003
+  }
+  {
+    id: 200004
+    type: 5
+    arg: "1"
+    code: profileFrame_sp_gun
+    item_name: item-10200004
+    introduction: item-20200004
+    rank: 1
+    detail_introduction: item-30200004
+  }
+  {
+    id: 200005
+    type: 5
+    arg: "1"
+    code: profileFrame_skin_gun
+    item_name: item-10200005
+    introduction: item-20200005
+    rank: 1
+    detail_introduction: item-30200005
+  }
+  {
+    id: 200006
+    type: 5
+    arg: "1"
+    code: profileFrame_flightchess_ssr
+    item_name: item-10200006
+    introduction: item-20200006
+    rank: 1
+    detail_introduction: item-30200006
+  }
+  {
+    id: 200007
+    type: 5
+    arg: "1"
+    code: profileFrame_flightchess_sr
+    item_name: item-10200007
+    introduction: item-20200007
+    rank: 1
+    detail_introduction: item-30200007
+  }
+  {
+    id: 200008
+    type: 5
+    arg: "1"
+    code: profileFrame_flightchess_r
+    item_name: item-10200008
+    introduction: item-20200008
+    rank: 1
+    detail_introduction: item-30200008
+  }
+  {
+    id: 200009
+    type: 5
+    arg: "1"
+    code: profileFrame_comic
+    item_name: item-10200009
+    introduction: item-20200009
+    rank: 1
+    detail_introduction: item-30200009
+  }
+  {
+    id: 200012
+    type: 5
+    arg: "1"
+    code: profileFrame_rare_gun
+    item_name: item-10200012
+    introduction: item-20200012
+    rank: 1
+    detail_introduction: item-30200012
+  }
+  {
+    id: 200013
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_AR15
+    item_name: item-10200013
+    introduction: item-20200013
+    rank: 1
+    detail_introduction: item-30200013
+  }
+  {
     id: 900030
     type: 4
     arg: "100030"
@@ -15287,5 +15580,71 @@
     introduction: item-21100008
     rank: 1
     detail_introduction: item-31100008
+  }
+  {
+    id: 1500009
+    type: 15
+    arg: "1500009"
+    code: package_choose
+    item_name: item-11500009
+    introduction: item-21500009
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500009
+  }
+  {
+    id: 1500010
+    type: 15
+    arg: "1500010"
+    code: package_choose
+    item_name: item-11500010
+    introduction: item-21500010
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500010
+  }
+  {
+    id: 1500011
+    type: 15
+    arg: "1500011"
+    code: package_choose
+    item_name: item-11500011
+    introduction: item-21500011
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500011
+  }
+  {
+    id: 1500012
+    type: 15
+    arg: "1500012"
+    code: package_choose
+    item_name: item-11500012
+    introduction: item-21500012
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500012
+  }
+  {
+    id: 1500013
+    type: 15
+    arg: "1500013"
+    code: package_random
+    item_name: item-11500013
+    introduction: item-21500013
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500013
+  }
+  {
+    id: 1500014
+    type: 15
+    arg: "1500014"
+    code: package_random
+    item_name: item-11500014
+    introduction: item-21500014
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500014
   }
 ]
