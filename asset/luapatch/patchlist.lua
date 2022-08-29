@@ -219,10 +219,14 @@ patch3010={
 "3010/FormationController",
 "3010/FetterStoryController",
 "3010/OPSPanelController",	
+"3010/SpecialMissionInfoController",	
 "3010/MissionSelectionOperationBarController",
 "3010/SkillManager",
 "3010/PresentItemController",
 "3010/BattleInteractionController",
+"3010/MallController",
+"3010/SpecialActivityController",
+"3010/SpecialOPSController",
 }
 -- va11
 print("load Va11");

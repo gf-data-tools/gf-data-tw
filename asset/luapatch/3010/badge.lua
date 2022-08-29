@@ -8,11 +8,10 @@ xlua.private_accessible(CS.WeekQuestInfo)
 
 local _UpdateBadge = function(self)
 	self:UpdateBadge(); 
-	if self.isActive and self.type==CS.Badge.BadgeType.ExistsNewQuest then 
+	if self.isActive and self.type==CS.Badge.BadgeType.ExistsNewQuest then
 		local hasMail=CS.DailyWeeklyQuestData.ExistQuestPrize();
-		 
 		if hasMail==false then
-			--print("badge has no mail");
+			print("badge has no mail");
  			local hasQuest=false;
  			local daily_count = CS.DailyWeeklyQuestData.Instance.dailyQuestAllInfo.DailyArr.Length
 
