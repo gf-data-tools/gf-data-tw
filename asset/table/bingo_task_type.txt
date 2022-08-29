@@ -12,8 +12,8 @@ bingo_task_type-10000006,裝備強化
 bingo_task_type-20000006,進行{0}次裝備強化
 bingo_task_type-10000007,消耗人形製造契約
 bingo_task_type-20000007,累計消耗人形製造契約*{0}
-bingo_task_type-10000008,消耗裝備製造契約
-bingo_task_type-20000008,累計消耗裝備製造契約*{0}
+bingo_task_type-10000008,消耗裝備&妖精製造契約
+bingo_task_type-20000008,累計消耗裝備&妖精製造契約*{0}
 bingo_task_type-10000009,消耗快速製造契約
 bingo_task_type-20000009,累計消耗快速製造契約*{0}
 bingo_task_type-10000010,消耗快速修復契約
@@ -56,8 +56,8 @@ bingo_task_type-10000028,行動回報-快速製造契約
 bingo_task_type-20000028,透過後勤支援獲得快速製造契約*{0}
 bingo_task_type-10000029,行動回報-快速修復契約
 bingo_task_type-20000029,透過後勤支援獲得快速修復契約*{0}
-bingo_task_type-10000030,行動回報-裝備製造契約
-bingo_task_type-20000030,透過後勤支援獲得裝備製造契約*{0}
+bingo_task_type-10000030,行動回報-裝備&妖精製造契約
+bingo_task_type-20000030,通過後勤支援獲得裝備&妖精製造契約*{0}
 bingo_task_type-10000031,行動回報-人形製造契約
 bingo_task_type-20000031,透過後勤支援獲得人形製造契約*{0}
 bingo_task_type-10000032,消滅BOSS
@@ -254,3 +254,5 @@ bingo_task_type-10000127,開發調節操練
 bingo_task_type-20000127,完成開發調節操練{0}次
 bingo_task_type-10000128,解密算法練習
 bingo_task_type-20000128,完成解密算法練習{0}次
+bingo_task_type-10000129,妖精重造
+bingo_task_type-20000129,進行{0}次妖精重型製造

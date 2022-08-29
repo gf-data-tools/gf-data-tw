@@ -24,6 +24,8 @@ commander_ranking_types-10000403,戰術妖精天賦
 commander_ranking_types-20000403,
 commander_ranking_types-10000404,戰術妖精技能等級
 commander_ranking_types-20000404,
+commander_ranking_types-10000405,戰術妖精進化突破
+commander_ranking_types-20000405,
 commander_ranking_types-10000501,重裝部隊等級
 commander_ranking_types-20000501,
 commander_ranking_types-10000502,重裝部隊晉升

@@ -37842,61 +37842,61 @@
   }
   {
     id: 110018
-    name: 協議補給-31級
+    name: 協議補給-32級
     item_ids: 16-9
     content: prize-20110018
   }
   {
     id: 110019
-    name: 協議補給-33級
+    name: 協議補給-34級
     item_ids: 8-9
     content: prize-20110019
   }
   {
     id: 110020
-    name: 協議補給-34級
+    name: 協議補給-35級
     item_ids: 46-20
     content: prize-20110020
   }
   {
     id: 110021
-    name: 協議補給-35級
+    name: 協議補給-36級
     item_ids: 601-2
     content: prize-20110021
   }
   {
     id: 110022
-    name: 協議補給-36級
+    name: 協議補給-38級
     part: 4000
     content: prize-20110022
   }
   {
     id: 110023
-    name: 協議補給-38級
+    name: 協議補給-40級
     gift: 200001-120
     content: prize-20110023
   }
   {
     id: 110024
-    name: 協議補給-40級
+    name: 協議補給-42級
     item_ids: 506-80
     content: prize-20110024
   }
   {
     id: 110025
-    name: 協議補給-42級
+    name: 協議補給-44級
     item_ids: 46-30
     content: prize-20110025
   }
   {
     id: 110026
-    name: 協議補給-44級
+    name: 協議補給-45級
     core: 50
     content: prize-20110026
   }
   {
     id: 110027
-    name: 協議補給-45級
+    name: prize-10110027
     item_ids: 41-24
     content: prize-20110027
   }
@@ -38206,31 +38206,31 @@
   }
   {
     id: 140001
-    name: 基礎裝備自選序標
+    name: 五星裝備自選序標
     equip_ids: "16,20,32,44,66,69,90"
     content: prize-20140001
   }
   {
     id: 140002
-    name: 配件裝備自選序標
+    name: 五星配件裝備自選序標
     equip_ids: "4,8,12,16,66,224"
     content: prize-20140002
   }
   {
     id: 140003
-    name: 彈匣裝備自選序標
+    name: 五星彈匣裝備自選序標
     equip_ids: "20,32,69,76,80,225,227,231,235"
     content: prize-20140003
   }
   {
     id: 140004
-    name: 人形裝備自選序標
+    name: 五星人形裝備自選序標
     equip_ids: "40,44,58,68,90,234"
     content: prize-20140004
   }
   {
     id: 140005
-    name: 必得未解鎖人形序標
+    name: 人形未解鎖必得序標
     item_ids: 1500013-1
     content: prize-20140005
   }
@@ -38254,7 +38254,7 @@
   }
   {
     id: 140009
-    name: 前線協議額外獎勵-資源all
+    name: 四項資源*300
     mp: 300
     ammo: 300
     mre: 300
@@ -38302,49 +38302,49 @@
   }
   {
     id: 140017
-    name: 必得未解鎖人形序標-SCR
+    name: 人形未解鎖必得序標-SCR
     gun_id: "365"
     content: prize-20140017
   }
   {
     id: 140018
-    name: 必得未解鎖人形序標-HS.50
+    name: 人形未解鎖必得序標-HS.50
     gun_id: "348"
     content: prize-20140018
   }
   {
     id: 140019
-    name: 必得未解鎖人形序標-內蓋夫
+    name: 人形未解鎖必得序標-內蓋夫
     gun_id: "112"
     content: prize-20140019
   }
   {
     id: 140020
-    name: 必得未解鎖人形序標-卡爾卡諾M91/38
+    name: 人形未解鎖必得序標-卡爾卡諾M91/38
     gun_id: "198"
     content: prize-20140020
   }
   {
     id: 140021
-    name: 必得未解鎖人形序標-89式自
+    name: 人形未解鎖必得序標-89式自
     gun_id: "290"
     content: prize-20140021
   }
   {
     id: 140022
-    name: 必得未解鎖人形序標-RFB
+    name: 人形未解鎖必得序標-RFB
     gun_id: "172"
     content: prize-20140022
   }
   {
     id: 140023
-    name: 必得未解鎖人形序標-一〇〇式
+    name: 人形未解鎖必得序標-一〇〇式
     gun_id: "228"
     content: prize-20140023
   }
   {
     id: 140024
-    name: 必得未解鎖人形序標-NZ75
+    name: 人形未解鎖必得序標-NZ75
     gun_id: "126"
     content: prize-20140024
   }

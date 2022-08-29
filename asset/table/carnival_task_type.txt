@@ -107,7 +107,7 @@ carnival_task_type-20000053,累計重型製造{0}次
 carnival_task_type-10000054,裝備校驗
 carnival_task_type-20000054,
 carnival_task_type-10000055,防禦演習
-carnival_task_type-20000055,
+carnival_task_type-20000055,累計完成{0}次模擬作戰-防禦演習
 carnival_task_type-10000056,
 carnival_task_type-20000056,戰鬥勝利情況下累計消滅鐵血BOSS獵手*{0}
 carnival_task_type-10000057,
@@ -258,3 +258,5 @@ carnival_task_type-10000129,訓練密鑰
 carnival_task_type-20000129,累計消耗高級訓練密鑰{0}個
 carnival_task_type-10000130,勢能消耗（包括超導勢能）
 carnival_task_type-20000130,累計消耗勢能{0}個
+carnival_task_type-10000131,妖精重型製造
+carnival_task_type-20000131,累計進行妖精重型製造{0}次

@@ -8,49 +8,49 @@
     id: 101
     parent_id: 1
     name: S09區戰略指揮中心
-    description: 獅鷲的頭腦能夠同時指揮它的翅膀和利爪。
+    description: organization-20000101
   }
   {
     id: 102
     parent_id: 1
     name: 前線戰備隊
-    description: 這裡聚集了格里芬最精英的人形──正如鷹喙，擊碎一切，助它克敵制勝。
+    description: organization-20000102
   }
   {
     id: 103
     parent_id: 1
     name: 策應戰備隊
-    description: 這裡聚集了格里芬最中堅的人形──正如翎羽，覆蓋全身，為獅撣盡灰塵。
+    description: organization-20000103
   }
   {
     id: 104
     parent_id: 1
     name: 邊境調查團
-    description: 這裡聚集了格里芬最敏銳的人形──正如鷹眼，精準制約，窺敵千里之外。
+    description: organization-20000104
   }
   {
     id: 105
     parent_id: 1
     name: 通用支援組
-    description: 這裡聚集了格里芬最不起眼的力量──小瞧她們？小心蒼鷹的利爪。
+    description: organization-20000105
   }
   {
     id: 106
     parent_id: 1
     name: 協議同歸部
-    description: 這裡雖然聚集的並非是獅鷲的力量，但即便是最驍勇的猛獸亦有同伴的援助。
+    description: organization-20000106
   }
   {
     id: 107
     parent_id: 1
     name: 綜合勤務部
-    description: 這裡聚集了格里芬最踏實的人形──就如飛翼，可牽動踏實的身體，是獅鷲翱翔的保障。
+    description: organization-20000107
   }
   {
     id: 108
     parent_id: 1
     name: 人形俱樂部
-    description: 這裡聚集了格里芬最有趣的人形──就像獅子的尾巴，靈巧，難以捉摸，卻能夠治癒大多數人的心靈。
+    description: organization-20000108
   }
   {
     id: 10101

@@ -2058,9 +2058,9 @@
     },
     {
         "id": "1000102",
-        "name": "煙火",
+        "name": "mission_effect_config-11000102",
         "code": "GQ_yanhua",
-        "description": "煙火",
+        "description": "mission_effect_config-21000102",
         "priority": "0",
         "duration": "3.00",
         "delay": "0.00",

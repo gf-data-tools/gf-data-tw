@@ -4,7 +4,7 @@
     name: BGM-71
     en_name: BGM-71
     code: TOW
-    introduce: squad-30000001
+    introduce: 喜愛桌遊的四人小組，在戰場上追求一擊必勝，以便早些返回基地繼續遊戲。由於個性迥異，在團隊做出決策時會以抽牌的方式排除不同意見。
     dialogue: squad-40000001
     extra: squad-50000001
     en_introduce: squad-60000001
@@ -57,7 +57,7 @@
     name: AGS-30
     en_name: AGS-30
     code: AGS30
-    introduce: squad-30000002
+    introduce: 好奇心旺盛的三人小組，對人形們錯綜複雜的關係網充滿興趣。與道聽途說相比，三人更喜歡直接觀察，因此常常能在基地最熱鬧的地方發現她們的身影。
     dialogue: squad-40000002
     extra: squad-50000002
     en_introduce: squad-60000002
@@ -110,7 +110,7 @@
     name: 2B14
     en_name: 2B14
     code: 2B14
-    introduce: squad-30000003
+    introduce: 嚴於律己的三人小組，無論戰鬥還是日常行事，都以規章條例為準。對她們而言，違反條例是一種非常刺激的體驗，三人都曾偷偷嘗試過，只是為了保持良好的形象而彼此隱瞞著。
     dialogue: squad-40000003
     extra: squad-50000003
     en_introduce: squad-60000003
@@ -163,7 +163,7 @@
     name: M2
     en_name: M2
     code: M2
-    introduce: squad-30000004
+    introduce: 非常注重氣氛的三人小組，即便在布置陣地時也會營造出足夠的戰場氛圍，並樂在其中。隨隊攜帶的玩具熊會在不同場合擔當不同的身份，有時是聯絡員，有時則會成為指揮官的化身。
     dialogue: squad-40000004
     extra: squad-50000004
     en_introduce: squad-60000004
@@ -216,7 +216,7 @@
     name: AT4
     en_name: AT4
     code: AT4
-    introduce: squad-30000005
+    introduce: 喜歡追求舒適感的三人小組，會在戰鬥開始前準備充分的物資來應對戰時的各種需求。但同樣因為追求舒適，結束戰鬥的三人常常為誰來處置剩餘物資而爭執很久。
     dialogue: squad-40000005
     extra: squad-50000005
     en_introduce: squad-60000005
@@ -270,7 +270,7 @@
     name: QLZ-04
     en_name: QLZ-04
     code: QLZ04
-    introduce: squad-30000006
+    introduce: 追求火力至上的三人小組，出戰時會攜帶比原定需求多出一倍的彈藥量，並在戰鬥中全部傾瀉到敵人頭上。日常飲食中也追求著絕對火力，喜愛辛辣口味，隨身攜帶著調味用的辣椒。
     dialogue: squad-40000006
     extra: squad-50000006
     en_introduce: squad-60000006
@@ -323,7 +323,7 @@
     name: Mk 153
     en_name: Mk 153
     code: MK153
-    introduce: squad-30000007
+    introduce: 喜歡街頭文化的三人小組，由她們組建的說唱樂隊經常參加各種地下演出。而為了打響名氣，不管在舞台上還是戰場上，她們都會留下自己樂隊的隊標塗鴉。
     dialogue: squad-40000007
     extra: squad-50000007
     en_introduce: squad-60000007
@@ -374,9 +374,9 @@
   {
     id: 8
     name: PP-93
-    en_name: PP93
+    en_name: PP-93
     code: PP93
-    introduce: squad-30000008
+    introduce: 喜歡露營的三人小組，由於常常結伴到野外探險求生，使她們在環境惡劣的戰場上也能發揮出優秀的火力。不過因為過於喜愛露營，在基地內其他隊伍來訪時，往往也只會拿出各種方便食品來招待。
     dialogue: squad-40000008
     extra: squad-50000008
     en_introduce: squad-60000008

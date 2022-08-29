@@ -381,7 +381,7 @@
         "id": 55,
         "type": "trial_mission",
         "title": "防禦演習",
-        "content": "carnival_task_type-20000055",
+        "content": "累計完成{0}次模擬作戰-防禦演習",
         "function_control_id": 0
     },
     {

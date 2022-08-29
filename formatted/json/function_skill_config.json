@@ -166,22 +166,22 @@
     },
     {
         "id": 116,
-        "name": "種田大法",
+        "name": "function_skill_config-10000116",
         "level": 1,
         "group_id": 0,
         "code": "function_skill_icon_116",
-        "description": "作物產出提高 {0}%{1}",
+        "description": "function_skill_config-20000116",
         "arguments": 1,
         "max_level": 5,
         "is_show": 0
     },
     {
         "id": 117,
-        "name": "供給管理",
+        "name": "function_skill_config-10000117",
         "level": 1,
         "group_id": 0,
         "code": "function_skill_icon_117",
-        "description": "消耗糧食減少 {0}%{1}",
+        "description": "function_skill_config-20000117",
         "arguments": 1,
         "max_level": 5,
         "is_show": 0
