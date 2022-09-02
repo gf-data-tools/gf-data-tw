@@ -331,17 +331,6 @@
     classification_id: 5004
   }
   {
-    id: 35
-    type: 1
-    sort: 3
-    item_ids: 10606-5
-    gemprice: 20
-    giftbag_name: mall-10000035
-    discount: 1.0
-    label: 1
-    classification_id: 5004
-  }
-  {
     id: 113
     type: 8
     item_ids: 3-1
