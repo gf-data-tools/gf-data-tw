@@ -767,4 +767,10 @@
     title: 解密算法練習
     content: 完成解密算法練習{0}次
   }
+  {
+    id: 129
+    task_type: special_develop_fairy
+    title: 妖精重造
+    content: 進行{0}次妖精重型製造
+  }
 ]

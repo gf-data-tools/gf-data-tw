@@ -5,10 +5,12 @@
   {
     obtain_id: "1"
     description: 可透過常規製造獲取
+    goto_page_id: "25"
   }
   {
     obtain_id: "2"
     description: 可透過重型製造獲取
+    goto_page_id: "25"
   }
   {
     obtain_id: "3"
@@ -142,6 +144,7 @@
   {
     obtain_id: "35"
     description: 可透過心智升級獲取
+    goto_page_id: "186"
   }
   {
     obtain_id: "36"
@@ -154,6 +157,11 @@
   {
     obtain_id: "38"
     description: 可透過裝備重型製造獲取
+  }
+  {
+    obtain_id: "39"
+    description: 可透過妖精製造獲取
+    goto_page_id: "380"
   }
   {
     obtain_id: "101"
@@ -770,6 +778,7 @@
   {
     obtain_id: "3001"
     description: 可透過裝備製造獲取
+    goto_page_id: "21"
   }
   {
     obtain_id: "3002"
@@ -778,6 +787,7 @@
   {
     obtain_id: "3003"
     description: 可透過機密商店兌換
+    goto_page_id: "217"
   }
   {
     obtain_id: "3004"
@@ -830,6 +840,7 @@
   {
     obtain_id: "3016"
     description: 可透過心智升級獲取
+    goto_page_id: "186"
   }
   {
     obtain_id: "3017"
@@ -878,6 +889,7 @@
   {
     obtain_id: "3028"
     description: 前進營地中途獎勵
+    goto_page_id: "217"
   }
   {
     obtain_id: "3029"

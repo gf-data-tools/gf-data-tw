@@ -536,18 +536,6 @@
     sort: 149
   }
   {
-    id: 157
-    type: develop_fairy
-    count: 1
-    prize_id: 765
-    title: career_quest-10000157
-    content: career_quest-20000157
-    unlock_course: "80"
-    new_type: 1
-    grade_id: 23
-    sort: 168
-  }
-  {
     id: 158
     type: eat_fairy
     count: 5
@@ -2485,39 +2473,6 @@
     new_type: 1
     grade_id: 21
     sort: 166
-  }
-  {
-    id: 329
-    type: special_develop_equip
-    count: 1
-    prize_id: 11137
-    title: career_quest-10000329
-    content: career_quest-20000329
-    new_type: 1
-    grade_id: 23
-    sort: 173
-  }
-  {
-    id: 330
-    type: special_develop_equip
-    count: 5
-    prize_id: 11138
-    title: career_quest-10000330
-    content: career_quest-20000330
-    new_type: 1
-    grade_id: 24
-    sort: 177
-  }
-  {
-    id: 331
-    type: special_develop_equip
-    count: 10
-    prize_id: 11139
-    title: career_quest-10000331
-    content: career_quest-20000331
-    new_type: 1
-    grade_id: 25
-    sort: 182
   }
   {
     id: 332
@@ -4851,5 +4806,50 @@
     grade_id: 12
     sort: 100
     condition: "100"
+  }
+  {
+    id: 554
+    type: special_develop_fairy
+    count: 1
+    prize_id: 11137
+    title: 工廠任務：妖精重建
+    content: 透過「工廠-妖精製造」完成1次妖精重型製造
+    new_type: 1
+    grade_id: 23
+    sort: 173
+  }
+  {
+    id: 555
+    type: special_develop_fairy
+    count: 5
+    prize_id: 11138
+    title: 工廠任務：妖精重建
+    content: 透過「工廠-妖精製造」完成5次妖精重型製造
+    new_type: 1
+    grade_id: 24
+    sort: 177
+  }
+  {
+    id: 556
+    type: special_develop_fairy
+    count: 10
+    prize_id: 11139
+    title: 工廠任務：妖精重建
+    content: 透過「工廠-妖精製造」完成10次妖精重型製造
+    new_type: 1
+    grade_id: 25
+    sort: 182
+  }
+  {
+    id: 557
+    type: special_develop_fairy_notexp
+    count: 1
+    prize_id: 765
+    title: 妖精：獲取妖精
+    content: 透過「工廠-妖精製造」獲得1隻妖精
+    unlock_course: "170"
+    new_type: 1
+    grade_id: 23
+    sort: 168
   }
 ]

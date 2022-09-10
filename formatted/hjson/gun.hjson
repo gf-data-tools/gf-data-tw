@@ -76,6 +76,8 @@
     explore_tag: "52"
     gun_detail_bg: nation_US
     org_id: 10302
+    related_story_id: 100001
+    show_damage_skin: ",2105,"
   }
   {
     id: 2
@@ -159,6 +161,8 @@
     explore_tag: "68"
     gun_detail_bg: nation_US
     org_id: 10202
+    related_story_id: 100002
+    show_damage_skin: ",0,"
   }
   {
     id: 3
@@ -241,6 +245,8 @@
     explore_tag: "12,24"
     gun_detail_bg: nation_US
     org_id: 10202
+    related_story_id: 100003
+    show_damage_skin: ",0,"
   }
   {
     id: 4
@@ -310,6 +316,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10202
+    related_story_id: 100004
   }
   {
     id: 5
@@ -396,6 +403,8 @@
     explore_tag: "6,25,54,58,70,73"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    related_story_id: 100005
+    show_damage_skin: ",0,2706,5309,7107,"
   }
   {
     id: 6
@@ -482,6 +491,7 @@
     explore_tag: "57"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    show_damage_skin: ",0,6205,"
   }
   {
     id: 7
@@ -568,6 +578,8 @@
     explore_tag: "38"
     gun_detail_bg: nation_Russia
     org_id: 10303
+    related_story_id: 100007
+    show_damage_skin: ",0,6808,4306,"
   }
   {
     id: 8
@@ -657,6 +669,8 @@
     explore_tag: "14,37,48"
     gun_detail_bg: nation_Russia
     org_id: 10704
+    related_story_id: 100008
+    show_damage_skin: ",0,1,"
   }
   {
     id: 9
@@ -721,7 +735,7 @@
     crit: 20
     eat_ratio: 125
     ratio_range: 105
-    skill1: 102501
+    skill1: 102503
     normal_attack: 300101
     passive_skill: "999999"
     effect_grid_center: 13
@@ -737,6 +751,8 @@
     explore_tag: "12,55"
     gun_detail_bg: nation_German
     org_id: 10803
+    related_story_id: 100009
+    show_damage_skin: ",0,"
   }
   {
     id: 10
@@ -841,6 +857,8 @@
     explore_tag: "30,71"
     gun_detail_bg: nation_German
     org_id: 10303
+    related_story_id: 100010
+    show_damage_skin: ",3905,"
   }
   {
     id: 11
@@ -933,6 +951,7 @@
     explore_tag: "27,55"
     gun_detail_bg: nation_German
     org_id: 10303
+    related_story_id: 100011
   }
   {
     id: 12
@@ -1018,7 +1037,7 @@
     crit: 20
     eat_ratio: 100
     ratio_range: 135
-    skill1: 102502
+    skill1: 102504
     normal_attack: 300101
     passive_skill: "999999"
     effect_grid_center: 13
@@ -1035,6 +1054,8 @@
     explore_tag: "55,57,67"
     gun_detail_bg: nation_German
     org_id: 10302
+    related_story_id: 100012
+    show_damage_skin: ",0,"
   }
   {
     id: 13
@@ -1133,6 +1154,8 @@
     explore_tag: "37,38,48,53"
     gun_detail_bg: nation_China
     org_id: 10704
+    related_story_id: 100013
+    show_damage_skin: ",5507,"
   }
   {
     id: 14
@@ -1212,6 +1235,7 @@
     rank_display: 3
     explore_tag: "5,31"
     org_id: 10303
+    show_damage_skin: ",0,"
   }
   {
     id: 15
@@ -1290,10 +1314,12 @@
     type_equip3: 3;10
     ai: 15
     launch_time: 2016-05-20 00:00:00
-    obtain_ids: "8,9"
+    obtain_ids: "3"
     rank_display: 3
     explore_tag: "29,46"
     org_id: 10802
+    related_story_id: 100015
+    show_damage_skin: ",0,"
   }
   {
     id: 16
@@ -1374,6 +1400,8 @@
     explore_tag: "19,34,41,50"
     gun_detail_bg: nation_US
     org_id: 102
+    related_story_id: 100016
+    show_damage_skin: ",5703,1501,"
   }
   {
     id: 17
@@ -1468,6 +1496,7 @@
     explore_tag: "9,12"
     gun_detail_bg: nation_US
     org_id: 10303
+    related_story_id: 100017
   }
   {
     id: 18
@@ -1594,6 +1623,8 @@
     explore_tag: "33,52"
     gun_detail_bg: nation_US
     org_id: 10202
+    related_story_id: 100018
+    show_damage_skin: ",0,"
   }
   {
     id: 19
@@ -1667,11 +1698,12 @@
     type_equip3: 1;1,2,3,4,13
     ai: 19
     launch_time: 2016-05-20 00:00:00
-    obtain_ids: "10,11"
+    obtain_ids: "3"
     rank_display: 3
     explore_tag: "29"
     gun_detail_bg: nation_US
     org_id: 10402
+    show_damage_skin: ",0,"
   }
   {
     id: 20
@@ -1783,6 +1815,8 @@
     explore_tag: "9,10,18,23,35,69"
     gun_detail_bg: nation_US
     org_id: 10202
+    related_story_id: 100020
+    show_damage_skin: ",0,2,549,1901,6701,"
   }
   {
     id: 21
@@ -1871,6 +1905,8 @@
     explore_tag: "7,50,54,69"
     gun_detail_bg: nation_Russia
     org_id: 10303
+    related_story_id: 100021
+    show_damage_skin: ",602,5808,0,"
   }
   {
     id: 22
@@ -2241,6 +2277,8 @@
     explore_tag: "7,27,55"
     gun_detail_bg: nation_German
     org_id: 10302
+    related_story_id: 100025
+    show_damage_skin: ",0,902,"
   }
   {
     id: 26
@@ -2345,6 +2383,8 @@
     explore_tag: "6,18,58,70"
     gun_detail_bg: nation_German
     org_id: 10203
+    related_story_id: 100026
+    show_damage_skin: ",0,1903,"
   }
   {
     id: 27
@@ -2440,6 +2480,8 @@
     rank_display: 3
     explore_tag: "30,52"
     org_id: 10302
+    related_story_id: 100027
+    show_damage_skin: ",0,801,"
   }
   {
     id: 28
@@ -2516,6 +2558,8 @@
     explore_tag: "2,28"
     gun_detail_bg: nation_German
     org_id: 10202
+    related_story_id: 100028
+    show_damage_skin: ",2405,6806,"
   }
   {
     id: 29
@@ -2602,6 +2646,8 @@
     mindupdate_consume: 10:15,45:200;10:30,45:800;10:45,45:1600
     explore_tag: "31,47,48,68"
     org_id: 10704
+    related_story_id: 100029
+    show_damage_skin: ",0,"
   }
   {
     id: 31
@@ -2696,6 +2742,8 @@
     mindupdate_consume: 10:10,45:200;10:20,45:600;10:30,45:1200
     gun_detail_bg: nation_Italy
     org_id: 10302
+    related_story_id: 100031
+    show_damage_skin: ",0,"
   }
   {
     id: 32
@@ -2796,6 +2844,7 @@
     mindupdate_consume: 10:15,45:200;10:30,45:800;10:45,45:1600
     explore_tag: "52"
     org_id: 10202
+    related_story_id: 100032
   }
   {
     id: 33
@@ -2882,6 +2931,8 @@
     rank_display: 2
     explore_tag: "3,8"
     org_id: 10802
+    related_story_id: 100033
+    show_damage_skin: ",4,0,"
   }
   {
     id: 34
@@ -2977,6 +3028,8 @@
     explore_tag: "26,45,64"
     gun_detail_bg: nation_US
     org_id: 10303
+    related_story_id: 100034
+    show_damage_skin: ",0,6907,"
   }
   {
     id: 35
@@ -3055,11 +3108,13 @@
     type_equip3: 3;15
     ai: 35
     launch_time: 2016-10-28 00:00:00
-    obtain_ids: "18,19"
+    obtain_ids: "3"
     rank_display: 3
     explore_tag: "45,57"
     gun_detail_bg: nation_US
     org_id: 10303
+    related_story_id: 100035
+    show_damage_skin: ",0,4106,"
   }
   {
     id: 36
@@ -3163,6 +3218,8 @@
     explore_tag: "3,26,66"
     gun_detail_bg: nation_US
     org_id: 107
+    related_story_id: 100036
+    show_damage_skin: ",302,802,5,"
   }
   {
     id: 37
@@ -3254,6 +3311,8 @@
     explore_tag: "31,45,67"
     gun_detail_bg: nation_US
     org_id: 10202
+    related_story_id: 100037
+    show_damage_skin: ",303,"
   }
   {
     id: 38
@@ -3333,11 +3392,13 @@
     type_equip3: 3;15
     ai: 38
     launch_time: 2016-05-20 00:00:00
-    obtain_ids: "14,15"
+    obtain_ids: "3"
     rank_display: 3
     explore_tag: "11,45,68"
     gun_detail_bg: nation_US
     org_id: 10202
+    related_story_id: 100038
+    show_damage_skin: ",0,"
   }
   {
     id: 39
@@ -3426,6 +3487,8 @@
     explore_tag: "8,50,54,68"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    related_story_id: 100039
+    show_damage_skin: ",0,803,4803,"
   }
   {
     id: 40
@@ -3504,6 +3567,7 @@
     explore_tag: "54"
     gun_detail_bg: nation_Russia
     org_id: 10303
+    show_damage_skin: ",0,"
   }
   {
     id: 41
@@ -3596,6 +3660,7 @@
     explore_tag: "12,50"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    related_story_id: 100041
   }
   {
     id: 42
@@ -3770,6 +3835,8 @@
     explore_tag: "50,57,59"
     gun_detail_bg: nation_Russia
     org_id: 10402
+    related_story_id: 100043
+    show_damage_skin: ",0,305,5506,"
   }
   {
     id: 44
@@ -3871,6 +3938,8 @@
     explore_tag: "37"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    related_story_id: 100044
+    show_damage_skin: ",1906,"
   }
   {
     id: 46
@@ -3955,6 +4024,8 @@
     explore_tag: "27,35,41,55,66"
     gun_detail_bg: nation_German
     org_id: 10201
+    related_story_id: 100046
+    show_damage_skin: ",0,"
   }
   {
     id: 47
@@ -4035,6 +4106,8 @@
     explore_tag: "22,23,55"
     gun_detail_bg: nation_German
     org_id: 10303
+    related_story_id: 100047
+    show_damage_skin: ",0,"
   }
   {
     id: 48
@@ -4130,6 +4203,8 @@
     explore_tag: "4"
     gun_detail_bg: nation_German
     org_id: 10201
+    related_story_id: 100048
+    show_damage_skin: ",306,804,0,6,"
   }
   {
     id: 49
@@ -4209,6 +4284,8 @@
     explore_tag: "53,75"
     gun_detail_bg: nation_China
     org_id: 10705
+    related_story_id: 100049
+    show_damage_skin: ",0,5508,7206,"
   }
   {
     id: 50
@@ -4298,6 +4375,8 @@
     rank_display: 5
     explore_tag: "14,17,35,79"
     org_id: 10201
+    related_story_id: 100050
+    show_damage_skin: ",0,901,10,"
   }
   {
     id: 51
@@ -4390,6 +4469,7 @@
     explore_tag: "3,49,64"
     gun_detail_bg: nation_Belgium
     org_id: 10202
+    related_story_id: 100051
   }
   {
     id: 52
@@ -4468,6 +4548,7 @@
     explore_tag: "13,20"
     gun_detail_bg: nation_Italy
     org_id: 10302
+    show_damage_skin: ",0,"
   }
   {
     id: 53
@@ -4565,6 +4646,8 @@
     mindupdate_consume: 10:25,45:200,51:2;10:50,45:1200,51:3;10:75,45:2400,51:5
     explore_tag: "60"
     org_id: 104
+    related_story_id: 100053
+    show_damage_skin: ",2301,4801,307,"
   }
   {
     id: 54
@@ -4671,6 +4754,8 @@
     explore_tag: "50,84"
     gun_detail_bg: team_ar
     org_id: 106
+    related_story_id: 100054
+    show_damage_skin: ",0,553,533,4506,"
   }
   {
     id: 55
@@ -4768,6 +4853,8 @@
     explore_tag: "69,84"
     gun_detail_bg: team_ar
     org_id: 10601
+    related_story_id: 100055
+    show_damage_skin: ",0,550,4505,530,"
   }
   {
     id: 56
@@ -4865,6 +4952,8 @@
     explore_tag: "84"
     gun_detail_bg: team_ar
     org_id: 10601
+    related_story_id: 100056
+    show_damage_skin: ",0,574,531,551,"
   }
   {
     id: 57
@@ -4965,6 +5054,8 @@
     explore_tag: "20,84"
     gun_detail_bg: team_ar
     org_id: 10601
+    related_story_id: 100057
+    show_damage_skin: ",552,4508,30001,"
   }
   {
     id: 58
@@ -5072,6 +5163,7 @@
     explore_tag: "22,50,75"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    related_story_id: 100058
   }
   {
     id: 59
@@ -5149,6 +5241,8 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10203
+    related_story_id: 100059
+    show_damage_skin: ",3002,"
   }
   {
     id: 60
@@ -5247,6 +5341,8 @@
     explore_tag: "9,50,69"
     gun_detail_bg: nation_Russia
     org_id: 10303
+    related_story_id: 100060
+    show_damage_skin: ",2907,"
   }
   {
     id: 61
@@ -5335,6 +5431,8 @@
     explore_tag: "27,55"
     gun_detail_bg: nation_German
     org_id: 10303
+    related_story_id: 100061
+    show_damage_skin: ",0,"
   }
   {
     id: 62
@@ -5421,6 +5519,8 @@
     explore_tag: "51"
     gun_detail_bg: nation_German
     org_id: 10202
+    related_story_id: 100062
+    show_damage_skin: ",2401,7406,"
   }
   {
     id: 63
@@ -5527,6 +5627,7 @@
     explore_tag: "26,69"
     gun_detail_bg: nation_German
     org_id: 105
+    related_story_id: 100063
   }
   {
     id: 64
@@ -5614,6 +5715,8 @@
     explore_tag: "3,27,34,44,73"
     gun_detail_bg: nation_German
     org_id: 10705
+    related_story_id: 100064
+    show_damage_skin: ",565,1507,1904,2806,3603,6807,0,905,"
   }
   {
     id: 65
@@ -5729,6 +5832,8 @@
     explore_tag: "9,10,83,86"
     gun_detail_bg: team_404
     org_id: 10104
+    related_story_id: 100065
+    show_damage_skin: ",548,557,3401,6505,537,0,"
   }
   {
     id: 66
@@ -5820,6 +5925,8 @@
     explore_tag: "5,53"
     gun_detail_bg: nation_China
     org_id: 10705
+    related_story_id: 100066
+    show_damage_skin: ",1905,"
   }
   {
     id: 68
@@ -5940,6 +6047,7 @@
     rank_display: 2
     explore_tag: "8,17,31,39,47"
     org_id: 10302
+    show_damage_skin: ",0,"
   }
   {
     id: 69
@@ -6057,6 +6165,8 @@
     rank_display: 4
     explore_tag: "10,27,56,77"
     org_id: 10403
+    related_story_id: 100069
+    show_damage_skin: ",0,4604,2604,"
   }
   {
     id: 70
@@ -6163,6 +6273,8 @@
     explore_tag: "1,5,49"
     gun_detail_bg: nation_Belgium
     org_id: 10202
+    related_story_id: 100070
+    show_damage_skin: ",4308,0,1406,"
   }
   {
     id: 71
@@ -6303,6 +6415,8 @@
     mindupdate_consume: 10:10,45:200;10:20,45:600;10:30,45:1200
     explore_tag: "5,7,31,39,67"
     org_id: 10202
+    related_story_id: 100071
+    show_damage_skin: ",0,"
   }
   {
     id: 72
@@ -6395,6 +6509,7 @@
     rank_display: 4
     explore_tag: "37,38,78"
     org_id: 10202
+    related_story_id: 100072
   }
   {
     id: 73
@@ -6476,11 +6591,11 @@
     ratio_range: 100
     skill1: 109701
     normal_attack: 300103
-    passive_skill: "109702,756162"
+    passive_skill: "109702,756162,759056"
     effect_grid_center: 13
     effect_grid_pos: "12,18,19,14,17"
     effect_grid_effect: "1,12;3,20"
-    type_equip1: 1;1,2,3,4,13
+    type_equip1: 1;1,2,3,4,13,18
     type_equip2: 2;8
     type_equip3: 3;9,10
     ai: 73
@@ -6489,6 +6604,8 @@
     rank_display: 5
     explore_tag: "9,14,46,51"
     org_id: 10402
+    related_story_id: 100073
+    show_damage_skin: ",0,4802,"
   }
   {
     id: 74
@@ -6671,6 +6788,8 @@
     explore_tag: "28,62"
     gun_detail_bg: nation_US
     org_id: 10303
+    related_story_id: 100075
+    show_damage_skin: ",0,"
   }
   {
     id: 77
@@ -6760,6 +6879,7 @@
     explore_tag: "28"
     gun_detail_bg: nation_US
     org_id: 10302
+    show_damage_skin: ",0,"
   }
   {
     id: 78
@@ -6850,6 +6970,7 @@
     explore_tag: "20,27,41,73"
     gun_detail_bg: nation_US
     org_id: 10704
+    show_damage_skin: ",0,"
   }
   {
     id: 79
@@ -6940,11 +7061,12 @@
     type_equip3: 3;14,20
     ai: 79
     launch_time: 2016-05-20 00:00:00
-    obtain_ids: "16,17"
+    obtain_ids: "3"
     rank_display: 3
     explore_tag: "28"
     gun_detail_bg: nation_US
     org_id: 10302
+    show_damage_skin: ",0,"
   }
   {
     id: 80
@@ -7047,6 +7169,8 @@
     explore_tag: "8,11,60"
     gun_detail_bg: nation_US
     org_id: 10704
+    related_story_id: 100080
+    show_damage_skin: ",0,7,"
   }
   {
     id: 81
@@ -7136,6 +7260,8 @@
     explore_tag: "10,38,78"
     gun_detail_bg: nation_US
     org_id: 10302
+    related_story_id: 100081
+    show_damage_skin: ",0,6909,4007,1808,"
   }
   {
     id: 82
@@ -7333,6 +7459,7 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10704
+    show_damage_skin: ",0,"
   }
   {
     id: 85
@@ -7518,6 +7645,7 @@
     explore_tag: "39,43,55,57"
     gun_detail_bg: nation_German
     org_id: 10702
+    show_damage_skin: ",0,"
   }
   {
     id: 87
@@ -7619,6 +7747,7 @@
     explore_tag: "27,43,55,67"
     gun_detail_bg: nation_German
     org_id: 10702
+    related_story_id: 100087
   }
   {
     id: 88
@@ -7722,6 +7851,8 @@
     explore_tag: "11,43,67"
     gun_detail_bg: nation_German
     org_id: 10302
+    related_story_id: 100088
+    show_damage_skin: ",7205,"
   }
   {
     id: 89
@@ -7821,6 +7952,8 @@
     mindupdate_consume: 10:15,45:200;10:30,45:800;10:45,45:1600
     explore_tag: "17,20,25,27,47"
     org_id: 10302
+    related_story_id: 100089
+    show_damage_skin: ",0,"
   }
   {
     id: 90
@@ -7896,6 +8029,7 @@
     explore_tag: "12"
     gun_detail_bg: nation_Belgium
     org_id: 10704
+    show_damage_skin: ",0,"
   }
   {
     id: 91
@@ -7973,6 +8107,8 @@
     explore_tag: "8,11"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    related_story_id: 100091
+    show_damage_skin: ",0,103,"
   }
   {
     id: 92
@@ -8068,6 +8204,7 @@
     explore_tag: "8,12"
     gun_detail_bg: nation_Italy
     org_id: 10704
+    related_story_id: 100092
   }
   {
     id: 93
@@ -8149,6 +8286,8 @@
     mindupdate_consume: 10:10,45:200;10:20,45:600;10:30,45:1200
     explore_tag: "8,11,47"
     org_id: 10302
+    related_story_id: 100093
+    show_damage_skin: ",2108,4908,"
   }
   {
     id: 94
@@ -8239,6 +8378,8 @@
     explore_tag: "53"
     gun_detail_bg: nation_China
     org_id: 10705
+    related_story_id: 100094
+    show_damage_skin: ",7108,"
   }
   {
     id: 95
@@ -8325,6 +8466,7 @@
     explore_tag: "53"
     gun_detail_bg: nation_China
     org_id: 10701
+    related_story_id: 100095
   }
   {
     id: 96
@@ -8431,6 +8573,8 @@
     explore_tag: "11,60,81"
     gun_detail_bg: nation_US
     org_id: 10401
+    related_story_id: 100096
+    show_damage_skin: ",0,903,2102,"
   }
   {
     id: 97
@@ -8514,6 +8658,8 @@
     explore_tag: "65,77"
     gun_detail_bg: nation_US
     org_id: 10202
+    related_story_id: 100097
+    show_damage_skin: ",0,702,808,2303,"
   }
   {
     id: 98
@@ -8598,6 +8744,8 @@
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10802
+    related_story_id: 100098
+    show_damage_skin: ",0,"
   }
   {
     id: 99
@@ -8685,6 +8833,7 @@
     explore_tag: "3,51"
     gun_detail_bg: nation_German
     org_id: 10302
+    related_story_id: 100099
   }
   {
     id: 100
@@ -8767,6 +8916,7 @@
     explore_tag: "8,30"
     gun_detail_bg: nation_German
     org_id: 10303
+    related_story_id: 100100
   }
   {
     id: 101
@@ -8854,6 +9004,8 @@
     explore_tag: "83"
     gun_detail_bg: team_404
     org_id: 10104
+    related_story_id: 100101
+    show_damage_skin: ",0,409,556,2106,3404,536,"
   }
   {
     id: 102
@@ -8928,6 +9080,7 @@
     rank_display: 4
     explore_tag: "31"
     gun_detail_bg: nation_German
+    show_damage_skin: ",0,559,539,"
   }
   {
     id: 103
@@ -9015,6 +9168,8 @@
     explore_tag: "35,37,83"
     gun_detail_bg: team_404
     org_id: 10104
+    related_story_id: 100103
+    show_damage_skin: ",0,410,521,555,2107,3403,5405,535,"
   }
   {
     id: 104
@@ -9102,6 +9257,8 @@
     explore_tag: "44"
     gun_detail_bg: nation_German
     org_id: 10703
+    related_story_id: 100104
+    show_damage_skin: ",0,"
   }
   {
     id: 105
@@ -9308,6 +9465,7 @@
     explore_tag: "16,24,36,41,49,51"
     gun_detail_bg: nation_Belgium
     org_id: 10202
+    related_story_id: 100106
   }
   {
     id: 107
@@ -9392,6 +9550,8 @@
     explore_tag: "5,15,49"
     gun_detail_bg: nation_Belgium
     org_id: 10202
+    related_story_id: 100107
+    show_damage_skin: ",0,"
   }
   {
     id: 108
@@ -9474,9 +9634,10 @@
     type_equip3: 3;9,10
     ai: 108
     launch_time: 2016-05-20 00:00:00
-    obtain_ids: "12,13"
+    obtain_ids: "3"
     rank_display: 3
     org_id: 10704
+    show_damage_skin: ",0,"
   }
   {
     id: 109
@@ -9566,6 +9727,8 @@
     explore_tag: "19,35,41"
     gun_detail_bg: nation_German
     org_id: 10402
+    related_story_id: 100109
+    show_damage_skin: ",309,1504,2501,"
   }
   {
     id: 110
@@ -9757,6 +9920,8 @@
     rank_display: 2
     explore_tag: "39,48"
     org_id: 10704
+    related_story_id: 100111
+    show_damage_skin: ",0,"
   }
   {
     id: 112
@@ -9854,6 +10019,8 @@
     rank_display: 5
     explore_tag: "41"
     org_id: 10202
+    related_story_id: 100112
+    show_damage_skin: ",904,3202,0,"
   }
   {
     id: 113
@@ -9934,6 +10101,7 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10801
+    related_story_id: 100113
   }
   {
     id: 114
@@ -10014,6 +10182,8 @@
     mindupdate_consume: 10:25,45:200,51:2;10:50,45:1200,51:3;10:75,45:2400,51:5
     explore_tag: "9,17,27,40,47,82"
     org_id: 103
+    related_story_id: 100114
+    show_damage_skin: ",411,1401,2103,"
   }
   {
     id: 115
@@ -10107,6 +10277,8 @@
     mindupdate_consume: 10:25,45:200,51:2;10:50,45:1200,51:3;10:75,45:2400,51:5
     explore_tag: "31,40,65"
     org_id: 10803
+    related_story_id: 100115
+    show_damage_skin: ",0,310,3101,"
   }
   {
     id: 116
@@ -10184,6 +10356,8 @@
     rank_display: 3
     explore_tag: "9,14"
     org_id: 10704
+    related_story_id: 100116
+    show_damage_skin: ",0,573,3507,"
   }
   {
     id: 117
@@ -10267,6 +10441,8 @@
     explore_tag: "57"
     gun_detail_bg: nation_German
     org_id: 10302
+    related_story_id: 100117
+    show_damage_skin: ",0,"
   }
   {
     id: 118
@@ -10360,6 +10536,8 @@
     explore_tag: "12,33,50"
     gun_detail_bg: nation_Russia
     org_id: 10403
+    related_story_id: 100118
+    show_damage_skin: ",0,6204,4104,"
   }
   {
     id: 119
@@ -10461,6 +10639,8 @@
     explore_tag: "41,51"
     gun_detail_bg: nation_Russia
     org_id: 10202
+    related_story_id: 100119
+    show_damage_skin: ",0,4501,"
   }
   {
     id: 120
@@ -10577,6 +10757,7 @@
     explore_tag: "28"
     gun_detail_bg: nation_Italy
     org_id: 10403
+    show_damage_skin: ",0,"
   }
   {
     id: 121
@@ -10764,6 +10945,8 @@
     explore_tag: "10,18,62,83,86"
     gun_detail_bg: team_404
     org_id: 10104
+    related_story_id: 100122
+    show_damage_skin: ",0,9,558,572,1602,2502,538,"
   }
   {
     id: 123
@@ -10939,6 +11122,8 @@
     explore_tag: "32"
     gun_detail_bg: nation_US
     org_id: 10202
+    related_story_id: 100124
+    show_damage_skin: ",0,1407,"
   }
   {
     id: 125
@@ -11027,6 +11212,7 @@
     mindupdate_consume: 10:25,45:200,51:2;10:50,45:1200,51:3;10:75,45:2400,51:5
     gun_detail_bg: nation_German
     org_id: 10402
+    related_story_id: 100125
   }
   {
     id: 126
@@ -11103,6 +11289,8 @@
     explore_tag: "16,23,24,27,53"
     gun_detail_bg: nation_China
     org_id: 10402
+    related_story_id: 100126
+    show_damage_skin: ",0,1702,"
   }
   {
     id: 127
@@ -11188,6 +11376,8 @@
     explore_tag: "53"
     gun_detail_bg: nation_China
     org_id: 10203
+    related_story_id: 100127
+    show_damage_skin: ",1402,3306,"
   }
   {
     id: 128
@@ -11271,6 +11461,8 @@
     explore_tag: "41,53,58"
     gun_detail_bg: nation_China
     org_id: 10203
+    related_story_id: 100128
+    show_damage_skin: ",3304,"
   }
   {
     id: 129
@@ -11358,6 +11550,7 @@
     explore_tag: "3,42,53,66"
     gun_detail_bg: nation_China
     org_id: 10203
+    show_damage_skin: ",0,7202,"
   }
   {
     id: 130
@@ -11445,6 +11638,7 @@
     explore_tag: "8,42,53,67,75"
     gun_detail_bg: nation_China
     org_id: 10203
+    show_damage_skin: ",3703,6902,"
   }
   {
     id: 131
@@ -11527,6 +11721,8 @@
     obtain_ids: "101"
     rank_display: 3
     org_id: 10303
+    related_story_id: 100131
+    show_damage_skin: ",4607,0,"
   }
   {
     id: 132
@@ -11609,6 +11805,7 @@
     explore_tag: "25,53"
     gun_detail_bg: nation_China
     org_id: 10704
+    show_damage_skin: ",0,407,"
   }
   {
     id: 133
@@ -11696,6 +11893,7 @@
     explore_tag: "53"
     gun_detail_bg: nation_China
     org_id: 10704
+    show_damage_skin: ",0,2004,"
   }
   {
     id: 134
@@ -11786,6 +11984,7 @@
     rank_display: 3
     gun_detail_bg: nation_Italy
     org_id: 10302
+    show_damage_skin: ",0,"
   }
   {
     id: 135
@@ -11872,6 +12071,8 @@
     explore_tag: "8,51,59"
     gun_detail_bg: nation_Russia
     org_id: 10202
+    related_story_id: 100135
+    show_damage_skin: ",807,3704,4101,"
   }
   {
     id: 136
@@ -11977,6 +12178,8 @@
     explore_tag: "8"
     gun_detail_bg: nation_Russia
     org_id: 10203
+    related_story_id: 100136
+    show_damage_skin: ",2204,"
   }
   {
     id: 137
@@ -12081,6 +12284,7 @@
     explore_tag: "14"
     gun_detail_bg: nation_Russia
     org_id: 10802
+    show_damage_skin: ",0,4405,"
   }
   {
     id: 138
@@ -12227,6 +12431,7 @@
     rank_display: 2
     gun_detail_bg: nation_US
     org_id: 10704
+    show_damage_skin: ",0,"
   }
   {
     id: 140
@@ -12293,10 +12498,11 @@
     type_equip3: 3;10
     ai: 140
     launch_time: 2017-01-13 00:00:00
-    obtain_ids: "20,21"
+    obtain_ids: "3"
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10704
+    show_damage_skin: ",0,"
   }
   {
     id: 141
@@ -12384,6 +12590,7 @@
     rank_display: 2
     gun_detail_bg: nation_German
     org_id: 10704
+    show_damage_skin: ",0,"
   }
   {
     id: 142
@@ -12463,6 +12670,8 @@
     explore_tag: "16,36,49,51,57,85"
     gun_detail_bg: nation_Belgium
     org_id: 10202
+    related_story_id: 100142
+    show_damage_skin: ",0,2203,"
   }
   {
     id: 143
@@ -12538,6 +12747,8 @@
     explore_tag: "40,48,82,84"
     gun_detail_bg: team_ar
     org_id: 10601
+    related_story_id: 100143
+    show_damage_skin: ",0,4504,534,554,"
   }
   {
     id: 144
@@ -12670,6 +12881,7 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10703
+    show_damage_skin: ",0,3406,6207,1608,"
   }
   {
     id: 146
@@ -12747,6 +12959,8 @@
     explore_tag: "4,31"
     gun_detail_bg: nation_German
     org_id: 10701
+    related_story_id: 100146
+    show_damage_skin: ",3307,"
   }
   {
     id: 147
@@ -12836,6 +13050,7 @@
     rank_display: 3
     explore_tag: "46"
     org_id: 10803
+    related_story_id: 100147
   }
   {
     id: 148
@@ -12907,6 +13122,8 @@
     rank_display: 5
     explore_tag: "13,46,57"
     org_id: 10203
+    related_story_id: 100148
+    show_damage_skin: ",1403,3004,0,7308,"
   }
   {
     id: 149
@@ -12982,6 +13199,8 @@
     explore_tag: "60,65"
     gun_detail_bg: nation_Russia
     org_id: 10202
+    related_story_id: 100149
+    show_damage_skin: ",0,1505,"
   }
   {
     id: 150
@@ -13054,6 +13273,7 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10302
+    show_damage_skin: ",5404,"
   }
   {
     id: 151
@@ -13124,6 +13344,8 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10202
+    related_story_id: 100151
+    show_damage_skin: ",2503,"
   }
   {
     id: 152
@@ -13199,6 +13421,8 @@
     mindupdate_consume: 10:15,45:200;10:30,45:800;10:45,45:1600
     gun_detail_bg: nation_US
     org_id: 10303
+    related_story_id: 100152
+    show_damage_skin: ",2505,"
   }
   {
     id: 153
@@ -13356,6 +13580,8 @@
     mindupdate_consume: 10:15,45:200;10:30,45:800;10:45,45:1600
     gun_detail_bg: nation_US
     org_id: 10802
+    related_story_id: 100154
+    show_damage_skin: ",3707,"
   }
   {
     id: 155
@@ -13435,6 +13661,8 @@
     explore_tag: "57"
     gun_detail_bg: nation_US
     org_id: 10402
+    related_story_id: 100155
+    show_damage_skin: ",0,"
   }
   {
     id: 156
@@ -13513,6 +13741,7 @@
     explore_tag: "52,58"
     gun_detail_bg: nation_US
     org_id: 10203
+    show_damage_skin: ",0,1704,5204,"
   }
   {
     id: 157
@@ -13588,6 +13817,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10202
+    show_damage_skin: ",0,"
   }
   {
     id: 158
@@ -13658,6 +13888,7 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10402
+    show_damage_skin: ",0,"
   }
   {
     id: 159
@@ -13736,6 +13967,8 @@
     mindupdate_consume: 10:15,45:200;10:30,45:800;10:45,45:1600
     gun_detail_bg: nation_Russia
     org_id: 10704
+    related_story_id: 100159
+    show_damage_skin: ",4309,"
   }
   {
     id: 160
@@ -13812,6 +14045,8 @@
     explore_tag: "50"
     gun_detail_bg: nation_Russia
     org_id: 10802
+    related_story_id: 100160
+    show_damage_skin: ",0,"
   }
   {
     id: 161
@@ -13884,6 +14119,8 @@
     explore_tag: "53"
     gun_detail_bg: nation_China
     org_id: 10302
+    related_story_id: 100161
+    show_damage_skin: ",0,"
   }
   {
     id: 162
@@ -13966,6 +14203,8 @@
     explore_tag: "5"
     gun_detail_bg: nation_Italy
     org_id: 10402
+    related_story_id: 100162
+    show_damage_skin: ",3203,"
   }
   {
     id: 163
@@ -14047,6 +14286,8 @@
     explore_tag: "1,15"
     gun_detail_bg: nation_US
     org_id: 10402
+    related_story_id: 100163
+    show_damage_skin: ",0,"
   }
   {
     id: 164
@@ -14124,6 +14365,8 @@
     explore_tag: "30,33,40"
     gun_detail_bg: nation_Italy
     org_id: 10202
+    related_story_id: 100164
+    show_damage_skin: ",0,2804,"
   }
   {
     id: 165
@@ -14201,6 +14444,7 @@
     explore_tag: "21,51"
     gun_detail_bg: nation_Italy
     org_id: 10704
+    related_story_id: 100165
   }
   {
     id: 166
@@ -14277,6 +14521,8 @@
     rank_display: 5
     explore_tag: "19,34"
     org_id: 10401
+    related_story_id: 100166
+    show_damage_skin: ",0,1604,3005,"
   }
   {
     id: 167
@@ -14358,6 +14604,7 @@
     rank_display: 3
     gun_detail_bg: nation_German
     org_id: 10803
+    related_story_id: 100167
   }
   {
     id: 168
@@ -14431,6 +14678,7 @@
     rank_display: 4
     explore_tag: "65"
     org_id: 10401
+    show_damage_skin: ",1405,"
   }
   {
     id: 169
@@ -14500,11 +14748,12 @@
     type_equip3: 1;1,2,3,4,13,18
     ai: 169
     launch_time: 2017-05-04 00:00:00
-    obtain_ids: "22,23"
+    obtain_ids: "3"
     rank_display: 3
     explore_tag: "36"
     gun_detail_bg: nation_US
     org_id: 10703
+    show_damage_skin: ",0,"
   }
   {
     id: 170
@@ -14575,6 +14824,7 @@
     rank_display: 3
     gun_detail_bg: nation_Russia
     org_id: 10402
+    show_damage_skin: ",0,"
   }
   {
     id: 171
@@ -14648,6 +14898,7 @@
     mindupdate_consume: 10:20,45:200;10:40,45:1000;10:60,45:2000
     explore_tag: "56"
     org_id: 10702
+    related_story_id: 100171
   }
   {
     id: 172
@@ -14816,6 +15067,8 @@
     explore_tag: "9,10,20,59,75"
     gun_detail_bg: nation_Russia
     org_id: 10402
+    related_story_id: 100173
+    show_damage_skin: ",1503,5904,0,1201,"
   }
   {
     id: 174
@@ -14887,6 +15140,8 @@
     explore_tag: "53"
     gun_detail_bg: nation_China
     org_id: 10701
+    related_story_id: 100174
+    show_damage_skin: ",0,1807,5607,"
   }
   {
     id: 175
@@ -14957,6 +15212,8 @@
     rank_display: 5
     explore_tag: "8,11,30,52,81"
     org_id: 10203
+    related_story_id: 100175
+    show_damage_skin: ",2803,1803,"
   }
   {
     id: 176
@@ -15029,6 +15286,8 @@
     obtain_ids: "403"
     rank_display: 3
     org_id: 10202
+    related_story_id: 100176
+    show_damage_skin: ",2807,3708,4606,"
   }
   {
     id: 177
@@ -15104,6 +15363,8 @@
     explore_tag: "50"
     gun_detail_bg: nation_Russia
     org_id: 10704
+    related_story_id: 100177
+    show_damage_skin: ",2003,"
   }
   {
     id: 178
@@ -15178,6 +15439,8 @@
     mindupdate_consume: 10:15,45:200;10:30,45:800;10:45,45:1600
     explore_tag: "14,52"
     org_id: 10802
+    related_story_id: 100178
+    show_damage_skin: ",2606,6507,"
   }
   {
     id: 179
@@ -15249,6 +15512,7 @@
     explore_tag: "71"
     gun_detail_bg: nation_German
     org_id: 10701
+    related_story_id: 100179
   }
   {
     id: 180
@@ -15320,6 +15584,8 @@
     explore_tag: "55,60"
     gun_detail_bg: nation_German
     org_id: 10402
+    related_story_id: 100180
+    show_damage_skin: ",0,1506,"
   }
   {
     id: 181
@@ -15397,6 +15663,7 @@
     rank_display: 5
     explore_tag: "26,40,53"
     org_id: 10203
+    related_story_id: 100181
   }
   {
     id: 182
@@ -15466,6 +15733,7 @@
     rank_display: 3
     explore_tag: "18"
     org_id: 10704
+    show_damage_skin: ",5908,4907,"
   }
   {
     id: 183
@@ -15532,6 +15800,8 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10203
+    related_story_id: 100183
+    show_damage_skin: ",0,2302,3201,1502,"
   }
   {
     id: 184
@@ -15619,6 +15889,8 @@
     explore_tag: "82"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    related_story_id: 100184
+    show_damage_skin: ",4605,"
   }
   {
     id: 185
@@ -15697,6 +15969,7 @@
     rank_display: 4
     explore_tag: "25"
     org_id: 10704
+    related_story_id: 100185
   }
   {
     id: 186
@@ -15851,9 +16124,10 @@
     type_equip3: 3;9,10
     ai: 187
     launch_time: 2017-09-21 00:00:00
-    obtain_ids: "27,28"
+    obtain_ids: "3"
     rank_display: 4
     org_id: 10303
+    show_damage_skin: ",5906,"
   }
   {
     id: 188
@@ -15927,6 +16201,8 @@
     explore_tag: "21,31,64"
     gun_detail_bg: nation_Italy
     org_id: 10705
+    related_story_id: 100188
+    show_damage_skin: ",1802,2601,3602,"
   }
   {
     id: 189
@@ -16004,6 +16280,7 @@
     obtain_ids: "2"
     rank_display: 4
     org_id: 10704
+    show_damage_skin: ",0,2704,"
   }
   {
     id: 190
@@ -16154,6 +16431,7 @@
     explore_tag: "52"
     gun_detail_bg: nation_Italy
     org_id: 10704
+    show_damage_skin: ",0,"
   }
   {
     id: 192
@@ -16223,6 +16501,8 @@
     explore_tag: "15,29,53,68,79"
     gun_detail_bg: nation_China
     org_id: 10403
+    related_story_id: 100192
+    show_damage_skin: ",0,1804,2702,"
   }
   {
     id: 193
@@ -16294,6 +16574,7 @@
     rank_display: 3
     explore_tag: "53"
     org_id: 10704
+    related_story_id: 100193
   }
   {
     id: 194
@@ -16369,6 +16650,8 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10202
+    related_story_id: 100194
+    show_damage_skin: ",3301,"
   }
   {
     id: 195
@@ -16447,6 +16730,8 @@
     explore_tag: "8"
     gun_detail_bg: nation_German
     org_id: 10704
+    related_story_id: 100195
+    show_damage_skin: ",0,"
   }
   {
     id: 196
@@ -16529,6 +16814,8 @@
     rank_display: 5
     explore_tag: "51"
     org_id: 10802
+    related_story_id: 100196
+    show_damage_skin: ",2104,4304,1603,"
   }
   {
     id: 197
@@ -16608,6 +16895,8 @@
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10203
+    related_story_id: 100197
+    show_damage_skin: ",2201,2905,0,"
   }
   {
     id: 198
@@ -16688,6 +16977,8 @@
     explore_tag: "35,51"
     gun_detail_bg: nation_Italy
     org_id: 10203
+    related_story_id: 100198
+    show_damage_skin: ",0,2202,2904,"
   }
   {
     id: 199
@@ -16769,6 +17060,8 @@
     explore_tag: "28,53"
     gun_detail_bg: nation_China
     org_id: 10704
+    related_story_id: 100199
+    show_damage_skin: ",0,2504,"
   }
   {
     id: 200
@@ -16844,6 +17137,8 @@
     mindupdate_consume: 10:20,45:200;10:40,45:1000;10:60,45:2000
     gun_detail_bg: nation_US
     org_id: 10302
+    related_story_id: 100200
+    show_damage_skin: ",0,"
   }
   {
     id: 201
@@ -16924,6 +17219,8 @@
     mindupdate_consume: 10:15,45:200;10:30,45:800;10:45,45:1600
     explore_tag: "27"
     org_id: 10701
+    related_story_id: 100201
+    show_damage_skin: ",2305,0,3107,"
   }
   {
     id: 202
@@ -16990,6 +17287,8 @@
     explore_tag: "9"
     gun_detail_bg: nation_US
     org_id: 10202
+    related_story_id: 100202
+    show_damage_skin: ",2206,3309,"
   }
   {
     id: 203
@@ -17067,6 +17366,8 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10703
+    related_story_id: 100203
+    show_damage_skin: ",4005,"
   }
   {
     id: 204
@@ -17159,6 +17460,7 @@
     rank_display: 5
     gun_detail_bg: nation_Belgium
     org_id: 10202
+    related_story_id: 100204
   }
   {
     id: 205
@@ -17239,6 +17541,8 @@
     explore_tag: "27"
     gun_detail_bg: team_defy
     org_id: 10104
+    related_story_id: 100205
+    show_damage_skin: ",0,2404,3303,"
   }
   {
     id: 206
@@ -17329,6 +17633,8 @@
     explore_tag: "29,32"
     gun_detail_bg: team_defy
     org_id: 10104
+    related_story_id: 100206
+    show_damage_skin: ",0,540,2402,3302,"
   }
   {
     id: 207
@@ -17418,6 +17724,7 @@
     obtain_ids: "204"
     rank_display: 4
     org_id: 10703
+    related_story_id: 100207
   }
   {
     id: 208
@@ -17495,6 +17802,8 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10501
+    related_story_id: 100208
+    show_damage_skin: ",2701,0,"
   }
   {
     id: 209
@@ -17635,6 +17944,8 @@
     rank_display: 3
     explore_tag: "18"
     org_id: 10402
+    related_story_id: 100210
+    show_damage_skin: ",0,3007,"
   }
   {
     id: 211
@@ -17801,6 +18112,8 @@
     rank_display: 4
     explore_tag: "29,37,61"
     org_id: 10802
+    related_story_id: 100212
+    show_damage_skin: ",0,2002,3308,5306,6905,"
   }
   {
     id: 213
@@ -17883,6 +18196,8 @@
     rank_display: 5
     explore_tag: "39"
     org_id: 10203
+    related_story_id: 100213
+    show_damage_skin: ",0,3503,2205,6403,"
   }
   {
     id: 214
@@ -17959,6 +18274,7 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10802
+    show_damage_skin: ",0,3601,"
   }
   {
     id: 215
@@ -18029,6 +18345,8 @@
     explore_tag: "28"
     gun_detail_bg: nation_US
     org_id: 10802
+    related_story_id: 100215
+    show_damage_skin: ",2603,3305,"
   }
   {
     id: 216
@@ -18105,6 +18423,8 @@
     explore_tag: "30"
     gun_detail_bg: nation_German
     org_id: 10802
+    related_story_id: 100216
+    show_damage_skin: ",0,5606,"
   }
   {
     id: 217
@@ -18253,6 +18573,8 @@
     rank_display: 3
     explore_tag: "9,10,36,53"
     org_id: 10703
+    related_story_id: 100218
+    show_damage_skin: ",6906,"
   }
   {
     id: 220
@@ -18330,6 +18652,8 @@
     explore_tag: "10"
     gun_detail_bg: nation_Russia
     org_id: 10802
+    related_story_id: 100220
+    show_damage_skin: ",7105,6405,"
   }
   {
     id: 221
@@ -18411,6 +18735,8 @@
     explore_tag: "13,29"
     gun_detail_bg: nation_Russia
     org_id: 10802
+    related_story_id: 100221
+    show_damage_skin: ",523,0,"
   }
   {
     id: 222
@@ -18483,6 +18809,7 @@
     explore_tag: "1,81"
     gun_detail_bg: nation_US
     org_id: 10802
+    related_story_id: 100222
   }
   {
     id: 223
@@ -18556,6 +18883,8 @@
     obtain_ids: "415"
     rank_display: 3
     org_id: 10301
+    related_story_id: 100223
+    show_damage_skin: ",0,3809,6306,"
   }
   {
     id: 224
@@ -18630,6 +18959,7 @@
     rank_display: 5
     explore_tag: "52"
     org_id: 10403
+    show_damage_skin: ",0,2703,"
   }
   {
     id: 225
@@ -18712,6 +19042,7 @@
     rank_display: 4
     gun_detail_bg: nation_Italy
     org_id: 10301
+    related_story_id: 100225
   }
   {
     id: 226
@@ -18783,6 +19114,7 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10301
+    related_story_id: 100226
   }
   {
     id: 227
@@ -18857,6 +19189,8 @@
     explore_tag: "50"
     gun_detail_bg: nation_Russia
     org_id: 10802
+    related_story_id: 100227
+    show_damage_skin: ",4403,0,"
   }
   {
     id: 228
@@ -18929,6 +19263,8 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10203
+    related_story_id: 100228
+    show_damage_skin: ",2903,4905,7102,4004,"
   }
   {
     id: 229
@@ -19005,6 +19341,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10402
+    related_story_id: 100229
   }
   {
     id: 230
@@ -19078,6 +19415,8 @@
     explore_tag: "31,38"
     gun_detail_bg: nation_US
     org_id: 10704
+    related_story_id: 100230
+    show_damage_skin: ",0,"
   }
   {
     id: 231
@@ -19158,6 +19497,8 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10402
+    related_story_id: 100231
+    show_damage_skin: ",5803,"
   }
   {
     id: 232
@@ -19228,6 +19569,7 @@
     explore_tag: "37"
     gun_detail_bg: nation_Russia
     org_id: 10301
+    show_damage_skin: ",0,"
   }
   {
     id: 233
@@ -19297,6 +19639,8 @@
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10203
+    related_story_id: 100233
+    show_damage_skin: ",6103,0,7203,"
   }
   {
     id: 234
@@ -19376,6 +19720,8 @@
     explore_tag: "53,73"
     gun_detail_bg: nation_China
     org_id: 10203
+    related_story_id: 100234
+    show_damage_skin: ",0,"
   }
   {
     id: 235
@@ -19526,6 +19872,7 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10402
+    show_damage_skin: ",3402,"
   }
   {
     id: 237
@@ -19604,6 +19951,7 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10802
+    show_damage_skin: ",0,"
   }
   {
     id: 238
@@ -19685,6 +20033,8 @@
     explore_tag: "9,24,53"
     gun_detail_bg: nation_China
     org_id: 10802
+    related_story_id: 100238
+    show_damage_skin: ",0,3003,"
   }
   {
     id: 239
@@ -19842,6 +20192,7 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10402
+    related_story_id: 100240
   }
   {
     id: 241
@@ -19979,6 +20330,8 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10203
+    related_story_id: 100242
+    show_damage_skin: ",0,6903,"
   }
   {
     id: 243
@@ -20122,6 +20475,8 @@
     rank_display: 3
     gun_detail_bg: nation_US
     org_id: 10704
+    related_story_id: 100244
+    show_damage_skin: ",5206,0,"
   }
   {
     id: 245
@@ -20196,6 +20551,8 @@
     explore_tag: "49,52"
     gun_detail_bg: nation_Belgium
     org_id: 10802
+    related_story_id: 100245
+    show_damage_skin: ",0,5701,"
   }
   {
     id: 247
@@ -20324,6 +20681,7 @@
     rank_display: 4
     explore_tag: "41"
     org_id: 10202
+    show_damage_skin: ",0,"
   }
   {
     id: 249
@@ -20402,6 +20760,7 @@
     obtain_ids: "415"
     rank_display: 3
     org_id: 10802
+    show_damage_skin: ",0,2908,"
   }
   {
     id: 250
@@ -20472,6 +20831,8 @@
     obtain_ids: "217,234"
     rank_display: 5
     org_id: 10203
+    related_story_id: 100250
+    show_damage_skin: ",0,5304,"
   }
   {
     id: 251
@@ -20585,6 +20946,8 @@
     obtain_ids: "415"
     rank_display: 5
     org_id: 10203
+    related_story_id: 100251
+    show_damage_skin: ",0,4603,"
   }
   {
     id: 252
@@ -20659,6 +21022,8 @@
     mindupdate_consume: 10:20,45:200;10:40,45:1000;10:60,45:2000
     gun_detail_bg: nation_Russia
     org_id: 10802
+    related_story_id: 100252
+    show_damage_skin: ",0,3405,5504,"
   }
   {
     id: 253
@@ -20736,6 +21101,7 @@
     explore_tag: "51"
     gun_detail_bg: nation_US
     org_id: 10801
+    related_story_id: 100253
   }
   {
     id: 254
@@ -20808,6 +21174,7 @@
     obtain_ids: "415"
     rank_display: 4
     org_id: 10802
+    related_story_id: 100254
   }
   {
     id: 255
@@ -20950,6 +21317,7 @@
     obtain_ids: "424"
     rank_display: 3
     org_id: 10703
+    show_damage_skin: ",0,6908,4107,"
   }
   {
     id: 257
@@ -21028,6 +21396,8 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10203
+    related_story_id: 100257
+    show_damage_skin: ",0,560,4502,"
   }
   {
     id: 258
@@ -21164,6 +21534,7 @@
     obtain_ids: "218"
     rank_display: 5
     org_id: 10203
+    show_damage_skin: ",0,6201,"
   }
   {
     id: 260
@@ -21226,6 +21597,7 @@
     obtain_ids: "1"
     rank_display: 5
     org_id: 10402
+    related_story_id: 100260
   }
   {
     id: 261
@@ -21305,6 +21677,8 @@
     rank_display: 5
     gun_detail_bg: nation_China
     org_id: 10203
+    related_story_id: 100261
+    show_damage_skin: ",0,566,3801,7403,"
   }
   {
     id: 262
@@ -21385,6 +21759,8 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10303
+    related_story_id: 100262
+    show_damage_skin: ",0,5706,4209,"
   }
   {
     id: 263
@@ -21463,6 +21839,8 @@
     explore_tag: "44"
     gun_detail_bg: nation_German
     org_id: 10802
+    related_story_id: 100263
+    show_damage_skin: ",4903,6504,4205,"
   }
   {
     id: 264
@@ -21728,6 +22106,7 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10201
+    related_story_id: 100266
   }
   {
     id: 267
@@ -21787,6 +22166,8 @@
     rank_display: 3
     gun_detail_bg: nation_German
     org_id: 10704
+    related_story_id: 100267
+    show_damage_skin: ",0,"
   }
   {
     id: 268
@@ -21939,6 +22320,7 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10403
+    show_damage_skin: ",0,"
   }
   {
     id: 270
@@ -22006,6 +22388,8 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10802
+    related_story_id: 100270
+    show_damage_skin: ",5305,0,"
   }
   {
     id: 271
@@ -22098,6 +22482,7 @@
     obtain_ids: "1908"
     rank_display: 3
     org_id: 10802
+    show_damage_skin: ",0,"
   }
   {
     id: 272
@@ -22167,6 +22552,8 @@
     obtain_ids: "225,234"
     rank_display: 5
     org_id: 10803
+    related_story_id: 100272
+    show_damage_skin: ",6501,"
   }
   {
     id: 273
@@ -22224,6 +22611,7 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10402
+    related_story_id: 100273
   }
   {
     id: 274
@@ -22296,6 +22684,8 @@
     explore_tag: "9,14,46,51"
     gun_detail_bg: nation_US
     org_id: 10402
+    related_story_id: 100274
+    show_damage_skin: ",7401,"
   }
   {
     id: 275
@@ -22364,6 +22754,7 @@
     explore_tag: "51"
     gun_detail_bg: nation_US
     org_id: 10403
+    related_story_id: 100275
   }
   {
     id: 276
@@ -22428,6 +22819,8 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10402
+    related_story_id: 100276
+    show_damage_skin: ",0,5102,"
   }
   {
     id: 277
@@ -22486,6 +22879,7 @@
     rank_display: 3
     gun_detail_bg: nation_German
     org_id: 10702
+    show_damage_skin: ",0,"
   }
   {
     id: 278
@@ -22620,6 +23014,8 @@
     obtain_ids: "1911"
     rank_display: 3
     org_id: 10702
+    related_story_id: 100279
+    show_damage_skin: ",0,"
   }
   {
     id: 280
@@ -22749,6 +23145,8 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10203
+    related_story_id: 100281
+    show_damage_skin: ",0,4003,"
   }
   {
     id: 282
@@ -22809,6 +23207,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10802
+    related_story_id: 100282
   }
   {
     id: 283
@@ -22865,6 +23264,7 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10403
+    show_damage_skin: ",0,"
   }
   {
     id: 284
@@ -22932,6 +23332,8 @@
     obtain_ids: "1912"
     rank_display: 3
     org_id: 10403
+    related_story_id: 100284
+    show_damage_skin: ",4511,"
   }
   {
     id: 285
@@ -22974,8 +23376,8 @@
     ratio_range: 100
     skill1: 900287
     normal_attack: 300101
-    passive_skill: "900283,900286,900293,900288,900289,900290,900291"
-    dynamic_passive_skill: "900292"
+    passive_skill: "900283,900293,900288,900289,900290,900291"
+    dynamic_passive_skill: "900292,900286"
     effect_grid_center: 19
     effect_grid_pos: "14,15,18,19,23"
     effect_grid_effect: "1,12;3,30"
@@ -22988,6 +23390,7 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10802
+    show_damage_skin: ",5801,0,"
   }
   {
     id: 286
@@ -23164,6 +23567,7 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10402
+    show_damage_skin: ",0,6605,"
   }
   {
     id: 289
@@ -23222,6 +23626,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10803
+    show_damage_skin: ",0,"
   }
   {
     id: 290
@@ -23399,6 +23804,8 @@
     explore_tag: "44"
     gun_detail_bg: team_defy
     org_id: 10104
+    related_story_id: 100292
+    show_damage_skin: ",0,"
   }
   {
     id: 293
@@ -23460,6 +23867,8 @@
     mindupdate_consume: 10:25,45:200,51:2;10:50,45:1200,51:3;10:75,45:2400,51:5
     gun_detail_bg: team_defy
     org_id: 10104
+    related_story_id: 100293
+    show_damage_skin: ",0,"
   }
   {
     id: 294
@@ -23519,6 +23928,8 @@
     obtain_ids: "229"
     rank_display: 5
     org_id: 10201
+    related_story_id: 100294
+    show_damage_skin: ",0,5601,"
   }
   {
     id: 295
@@ -23575,6 +23986,8 @@
     rank_display: 4
     gun_detail_bg: nation_China
     org_id: 10802
+    related_story_id: 100295
+    show_damage_skin: ",5905,"
   }
   {
     id: 296
@@ -23632,6 +24045,8 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10401
+    related_story_id: 100296
+    show_damage_skin: ",564,4704,5202,6302,"
   }
   {
     id: 297
@@ -23686,6 +24101,8 @@
     obtain_ids: "228,234"
     rank_display: 4
     org_id: 10403
+    related_story_id: 100297
+    show_damage_skin: ",5105,5907,"
   }
   {
     id: 298
@@ -23800,6 +24217,7 @@
     rank_display: 3
     gun_detail_bg: nation_US
     org_id: 10402
+    show_damage_skin: ",0,"
   }
   {
     id: 300
@@ -23918,6 +24336,7 @@
     obtain_ids: "2005,234"
     rank_display: 3
     org_id: 10704
+    show_damage_skin: ",0,"
   }
   {
     id: 302
@@ -23977,6 +24396,7 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10403
+    show_damage_skin: ",0,7104,"
   }
   {
     id: 303
@@ -24037,6 +24457,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10402
+    show_damage_skin: ",4602,0,"
   }
   {
     id: 304
@@ -24095,6 +24516,7 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10402
+    show_damage_skin: ",5205,"
   }
   {
     id: 305
@@ -24137,7 +24559,8 @@
     eat_ratio: 122
     ratio_range: 100
     skill1: 900626
-    normal_attack: 900625
+    normal_attack: 900627
+    passive_skill: "900625"
     effect_grid_center: 13
     effect_guntype: "1"
     effect_grid_pos: "12,14"
@@ -24150,6 +24573,7 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10802
+    show_damage_skin: ",4906,6206,"
   }
   {
     id: 306
@@ -24209,6 +24633,8 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10402
+    related_story_id: 100306
+    show_damage_skin: ",0,4601,"
   }
   {
     id: 307
@@ -24326,6 +24752,7 @@
     obtain_ids: "2006,234"
     rank_display: 3
     org_id: 10303
+    show_damage_skin: ",7004,"
   }
   {
     id: 309
@@ -24382,6 +24809,7 @@
     rank_display: 3
     gun_detail_bg: nation_German
     org_id: 10303
+    show_damage_skin: ",0,"
   }
   {
     id: 310
@@ -24489,6 +24917,7 @@
     obtain_ids: "312"
     rank_display: 5
     org_id: 10802
+    show_damage_skin: ",5902,0,6703,"
   }
   {
     id: 312
@@ -24548,6 +24977,7 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10402
+    show_damage_skin: ",5804,7201,"
   }
   {
     id: 313
@@ -24604,6 +25034,7 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10202
+    show_damage_skin: ",5303,5903,"
   }
   {
     id: 314
@@ -24714,6 +25145,7 @@
     obtain_ids: "236,239"
     rank_display: 5
     org_id: 10303
+    show_damage_skin: ",0,561,5503,6301,"
   }
   {
     id: 316
@@ -24773,6 +25205,7 @@
     rank_display: 5
     gun_detail_bg: nation_China
     org_id: 10203
+    show_damage_skin: ",563,"
   }
   {
     id: 317
@@ -24832,6 +25265,7 @@
     obtain_ids: "234"
     rank_display: 4
     org_id: 10202
+    show_damage_skin: ",0,5704,6304,"
   }
   {
     id: 318
@@ -24891,6 +25325,7 @@
     obtain_ids: "235"
     rank_display: 5
     org_id: 10403
+    show_damage_skin: ",0,562,5203,"
   }
   {
     id: 319
@@ -24950,6 +25385,7 @@
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10402
+    show_damage_skin: ",5307,0,"
   }
   {
     id: 320
@@ -24990,7 +25426,7 @@
     eat_ratio: 110
     ratio_range: 100
     skill1: 900910
-    normal_attack: 300104
+    normal_attack: 900914
     passive_skill: "900911,999999"
     effect_grid_center: 13
     effect_guntype: "1"
@@ -25004,6 +25440,7 @@
     obtain_ids: "2009,239"
     rank_display: 3
     org_id: 10402
+    show_damage_skin: ",0,"
   }
   {
     id: 321
@@ -25061,6 +25498,7 @@
     obtain_ids: "2010,239"
     rank_display: 3
     org_id: 10202
+    show_damage_skin: ",7408,"
   }
   {
     id: 322
@@ -25243,6 +25681,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10202
+    show_damage_skin: ",0,7301,"
   }
   {
     id: 325
@@ -25302,6 +25741,7 @@
     rank_display: 4
     gun_detail_bg: nation_Italy
     org_id: 10701
+    show_damage_skin: ",6107,6706,"
   }
   {
     id: 326
@@ -25361,6 +25801,7 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10403
+    show_damage_skin: ",0,"
   }
   {
     id: 327
@@ -25420,6 +25861,7 @@
     rank_display: 3
     gun_detail_bg: nation_US
     org_id: 10802
+    show_damage_skin: ",0,"
   }
   {
     id: 328
@@ -25476,6 +25918,7 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10202
+    show_damage_skin: ",0,6705,"
   }
   {
     id: 329
@@ -25531,6 +25974,7 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10203
+    show_damage_skin: ",0,"
   }
   {
     id: 330
@@ -25592,6 +26036,7 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10403
+    show_damage_skin: ",0,7002,"
   }
   {
     id: 331
@@ -25645,6 +26090,7 @@
     obtain_ids: "240"
     rank_display: 5
     org_id: 10401
+    show_damage_skin: ",0,6802,"
   }
   {
     id: 332
@@ -25699,6 +26145,7 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10704
+    show_damage_skin: ",0,"
   }
   {
     id: 333
@@ -25755,6 +26202,7 @@
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10201
+    show_damage_skin: ",0,"
   }
   {
     id: 334
@@ -25997,6 +26445,7 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10802
+    show_damage_skin: ",6202,"
   }
   {
     id: 338
@@ -26057,6 +26506,7 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10802
+    show_damage_skin: ",6502,7404,"
   }
   {
     id: 339
@@ -26121,6 +26571,7 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10203
+    show_damage_skin: ",0,5901,"
   }
   {
     id: 340
@@ -26232,6 +26683,7 @@
     obtain_ids: "247"
     rank_display: 5
     org_id: 10202
+    show_damage_skin: ",0,"
   }
   {
     id: 342
@@ -26292,6 +26744,7 @@
     obtain_ids: "245"
     rank_display: 5
     org_id: 10201
+    show_damage_skin: ",0,"
   }
   {
     id: 343
@@ -26350,6 +26803,7 @@
     obtain_ids: "246"
     rank_display: 4
     org_id: 10402
+    show_damage_skin: ",0,"
   }
   {
     id: 344
@@ -26410,6 +26864,7 @@
     obtain_ids: "245"
     rank_display: 4
     org_id: 10403
+    show_damage_skin: ",0,"
   }
   {
     id: 345
@@ -26467,6 +26922,7 @@
     obtain_ids: "246"
     rank_display: 5
     org_id: 10202
+    show_damage_skin: ",0,"
   }
   {
     id: 346
@@ -26524,6 +26980,7 @@
     obtain_ids: "1"
     rank_display: 4
     org_id: 10303
+    show_damage_skin: ",0,"
   }
   {
     id: 347
@@ -26584,6 +27041,7 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10202
+    show_damage_skin: ",0,"
   }
   {
     id: 348
@@ -26641,6 +27099,7 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10402
+    show_damage_skin: ",0,6805,7304,"
   }
   {
     id: 349
@@ -26700,6 +27159,7 @@
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10402
+    show_damage_skin: ",0,7305,"
   }
   {
     id: 350
@@ -26827,6 +27287,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10705
+    show_damage_skin: ",0,"
   }
   {
     id: 352
@@ -26889,6 +27350,7 @@
     rank_display: 4
     gun_detail_bg: nation_Italy
     org_id: 10403
+    show_damage_skin: ",0,"
   }
   {
     id: 353
@@ -26947,6 +27409,7 @@
     obtain_ids: "2"
     rank_display: 4
     org_id: 10802
+    show_damage_skin: ",0,"
   }
   {
     id: 354
@@ -27003,6 +27466,7 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10302
+    show_damage_skin: ",0,"
   }
   {
     id: 355
@@ -27063,6 +27527,7 @@
     rank_display: 4
     gun_detail_bg: nation_Belgium
     org_id: 10704
+    show_damage_skin: ",0,"
   }
   {
     id: 356
@@ -27119,6 +27584,7 @@
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10202
+    show_damage_skin: ",0,"
   }
   {
     id: 357
@@ -27237,6 +27703,7 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10202
+    show_damage_skin: ",0,"
   }
   {
     id: 359
@@ -27296,6 +27763,7 @@
     obtain_ids: "248"
     rank_display: 5
     org_id: 10402
+    show_damage_skin: ",0,"
   }
   {
     id: 360
@@ -27351,6 +27819,7 @@
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10802
+    show_damage_skin: ",0,"
   }
   {
     id: 361
@@ -27409,6 +27878,7 @@
     rank_display: 5
     gun_detail_bg: nation_China
     org_id: 10402
+    show_damage_skin: ",0,"
   }
   {
     id: 362
@@ -27469,6 +27939,7 @@
     obtain_ids: "248"
     rank_display: 4
     org_id: 10403
+    show_damage_skin: ",0,"
   }
   {
     id: 363
@@ -27529,6 +28000,7 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10301
+    show_damage_skin: ",0,"
   }
   {
     id: 364
@@ -27589,6 +28061,7 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10302
+    show_damage_skin: ",0,"
   }
   {
     id: 365
@@ -27643,6 +28116,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10704
+    show_damage_skin: ",7402,"
   }
   {
     id: 366
@@ -27705,6 +28179,7 @@
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10704
+    show_damage_skin: ",0,"
   }
   {
     id: 367
@@ -27918,6 +28393,7 @@
     launch_time: 2017-06-22 00:00:00
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",505,0,504,"
   }
   {
     id: 1009
@@ -27964,6 +28440,7 @@
     obtain_ids: "206"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,"
   }
   {
     id: 1010
@@ -28009,6 +28486,7 @@
     obtain_ids: "306"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,510,"
   }
   {
     id: 1017
@@ -28054,6 +28532,7 @@
     obtain_ids: "221"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,"
   }
   {
     id: 1018
@@ -28099,6 +28578,7 @@
     obtain_ids: "222"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,"
   }
   {
     id: 1019
@@ -28145,6 +28625,7 @@
     obtain_ids: "223"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,525,"
   }
   {
     id: 1020
@@ -28191,6 +28672,7 @@
     obtain_ids: "222"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,524,"
   }
   {
     id: 1021
@@ -28288,6 +28770,7 @@
     obtain_ids: "220"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,526,"
   }
   {
     id: 1023
@@ -28334,6 +28817,7 @@
     obtain_ids: "231"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,544,"
   }
   {
     id: 1024
@@ -28379,6 +28863,7 @@
     obtain_ids: "233"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,542,"
   }
   {
     id: 1025
@@ -28428,6 +28913,7 @@
     obtain_ids: "233"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,541,"
   }
   {
     id: 1026
@@ -28476,6 +28962,7 @@
     obtain_ids: "232"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,545,"
   }
   {
     id: 1027
@@ -28522,6 +29009,7 @@
     obtain_ids: "232"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,543,"
   }
   {
     id: 1028
@@ -28608,6 +29096,7 @@
     obtain_ids: "238"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,547,"
   }
   {
     id: 1029
@@ -28696,6 +29185,7 @@
     obtain_ids: "237"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,546,"
   }
   {
     id: 1030
@@ -28741,6 +29231,7 @@
     obtain_ids: "244"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",567,"
   }
   {
     id: 1031
@@ -28787,6 +29278,7 @@
     obtain_ids: "242"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,570,"
   }
   {
     id: 1032
@@ -28832,6 +29324,7 @@
     obtain_ids: "243"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,569,"
   }
   {
     id: 1033
@@ -28880,6 +29373,7 @@
     obtain_ids: "244"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,568,"
   }
   {
     id: 1034
@@ -28929,6 +29423,7 @@
     obtain_ids: "243"
     rank_display: 7
     gun_detail_bg: collab
+    show_damage_skin: ",0,"
   }
   {
     id: 9001
@@ -34371,6 +34866,7 @@
     prize_id: 3001
     explore_tag: "52"
     gun_detail_bg: nation_US
+    show_damage_skin: ",0,2105,"
   }
   {
     id: 20002
@@ -34455,6 +34951,7 @@
     prize_id: 3002
     explore_tag: "68"
     gun_detail_bg: nation_US
+    show_damage_skin: ",5000,"
   }
   {
     id: 20005
@@ -34541,6 +35038,7 @@
     prize_id: 3005
     explore_tag: "6,25,54,58,70,73"
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",0,2706,5309,7107,5006,"
   }
   {
     id: 20007
@@ -34628,6 +35126,7 @@
     prize_id: 3007
     explore_tag: "38"
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",0,6808,4306,5027,"
   }
   {
     id: 20008
@@ -34717,6 +35216,7 @@
     prize_id: 3008
     explore_tag: "14,37,48"
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",0,1,5046,"
   }
   {
     id: 20010
@@ -34821,6 +35321,7 @@
     prize_id: 3010
     explore_tag: "30,71"
     gun_detail_bg: nation_German
+    show_damage_skin: ",3905,"
   }
   {
     id: 20012
@@ -34906,7 +35407,7 @@
     crit: 20
     eat_ratio: 108
     ratio_range: 135
-    skill1: 900268
+    skill1: 102505
     skill2: 900269
     normal_attack: 300101
     effect_grid_center: 13
@@ -34922,6 +35423,7 @@
     prize_id: 3012
     explore_tag: "55,57,67"
     gun_detail_bg: nation_German
+    show_damage_skin: ",5028,"
   }
   {
     id: 20021
@@ -35011,6 +35513,7 @@
     prize_id: 3021
     explore_tag: "7,50,54,69"
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",602,5808,0,5054,"
   }
   {
     id: 20026
@@ -35115,6 +35618,7 @@
     prize_id: 3026
     explore_tag: "6,18,58,70"
     gun_detail_bg: nation_German
+    show_damage_skin: ",0,1903,5023,"
   }
   {
     id: 20029
@@ -35201,6 +35705,7 @@
     rank_display: 4
     prize_id: 3029
     explore_tag: "31,47,48,68"
+    show_damage_skin: ",0,5016,"
   }
   {
     id: 20031
@@ -35294,6 +35799,7 @@
     rank_display: 4
     prize_id: 3031
     gun_detail_bg: nation_Italy
+    show_damage_skin: ",5029,"
   }
   {
     id: 20032
@@ -35484,6 +35990,7 @@
     prize_id: 3037
     explore_tag: "31,45,67"
     gun_detail_bg: nation_US
+    show_damage_skin: ",0,303,"
   }
   {
     id: 20039
@@ -35573,6 +36080,7 @@
     prize_id: 3039
     explore_tag: "8,50,54,68"
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",0,803,4803,5007,"
   }
   {
     id: 20044
@@ -35674,6 +36182,7 @@
     prize_id: 3044
     explore_tag: "37"
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",0,1906,"
   }
   {
     id: 20049
@@ -35753,6 +36262,7 @@
     prize_id: 3049
     explore_tag: "53,75"
     gun_detail_bg: nation_China
+    show_damage_skin: ",0,5508,7206,5042,"
   }
   {
     id: 20051
@@ -35844,6 +36354,7 @@
     prize_id: 3051
     explore_tag: "3,49,64"
     gun_detail_bg: nation_Belgium
+    show_damage_skin: ",0,"
   }
   {
     id: 20053
@@ -35942,6 +36453,7 @@
     rank_display: 6
     prize_id: 3053
     explore_tag: "60"
+    show_damage_skin: ",0,2301,4801,307,"
   }
   {
     id: 20055
@@ -36040,6 +36552,7 @@
     prize_id: 3055
     explore_tag: "69,84"
     gun_detail_bg: team_ar
+    show_damage_skin: ",0,550,4505,530,5005,"
   }
   {
     id: 20056
@@ -36138,6 +36651,7 @@
     prize_id: 3056
     explore_tag: "84"
     gun_detail_bg: team_ar
+    show_damage_skin: ",0,574,531,551,5014,"
   }
   {
     id: 20057
@@ -36239,6 +36753,7 @@
     prize_id: 3057
     explore_tag: "20,84"
     gun_detail_bg: team_ar
+    show_damage_skin: ",0,552,4508,30001,"
   }
   {
     id: 20060
@@ -36337,6 +36852,7 @@
     prize_id: 3060
     explore_tag: "9,50,69"
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",2907,"
   }
   {
     id: 20061
@@ -36425,6 +36941,7 @@
     prize_id: 3061
     explore_tag: "27,55"
     gun_detail_bg: nation_German
+    show_damage_skin: ",0,5022,"
   }
   {
     id: 20063
@@ -36619,6 +37136,7 @@
     prize_id: 3064
     explore_tag: "3,27,34,44,73"
     gun_detail_bg: nation_German
+    show_damage_skin: ",0,565,1507,1904,2806,3603,6807,905,5018,"
   }
   {
     id: 20065
@@ -36734,6 +37252,7 @@
     prize_id: 3065
     explore_tag: "9,10,83,86"
     gun_detail_bg: team_404
+    show_damage_skin: ",0,548,557,3401,6505,537,5024,"
   }
   {
     id: 20071
@@ -36874,6 +37393,7 @@
     rank_display: 4
     prize_id: 3071
     explore_tag: "5,7,31,39,67"
+    show_damage_skin: ",5039,"
   }
   {
     id: 20075
@@ -36972,6 +37492,7 @@
     prize_id: 3075
     explore_tag: "28,62"
     gun_detail_bg: nation_US
+    show_damage_skin: ",5008,"
   }
   {
     id: 20081
@@ -37062,6 +37583,7 @@
     prize_id: 3081
     explore_tag: "10,38,78"
     gun_detail_bg: nation_US
+    show_damage_skin: ",0,6909,4007,1808,5019,"
   }
   {
     id: 20088
@@ -37166,6 +37688,7 @@
     prize_id: 3088
     explore_tag: "11,43,67"
     gun_detail_bg: nation_German
+    show_damage_skin: ",0,7205,"
   }
   {
     id: 20089
@@ -37265,6 +37788,7 @@
     rank_display: 4
     prize_id: 3089
     explore_tag: "17,20,25,27,47"
+    show_damage_skin: ",0,5013,"
   }
   {
     id: 20091
@@ -37342,6 +37866,7 @@
     prize_id: 3091
     explore_tag: "8,11"
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",103,5009,"
   }
   {
     id: 20093
@@ -37424,6 +37949,7 @@
     rank_display: 4
     prize_id: 3093
     explore_tag: "8,11,47"
+    show_damage_skin: ",2108,4908,"
   }
   {
     id: 20094
@@ -37514,6 +38040,7 @@
     prize_id: 3094
     explore_tag: "53"
     gun_detail_bg: nation_China
+    show_damage_skin: ",0,7108,"
   }
   {
     id: 20095
@@ -37685,6 +38212,7 @@
     prize_id: 3097
     explore_tag: "65,77"
     gun_detail_bg: nation_US
+    show_damage_skin: ",702,808,2303,5031,"
   }
   {
     id: 20101
@@ -37773,6 +38301,7 @@
     prize_id: 3101
     explore_tag: "83"
     gun_detail_bg: team_404
+    show_damage_skin: ",0,409,556,2106,3404,536,5026,"
   }
   {
     id: 20103
@@ -37860,6 +38389,7 @@
     prize_id: 3103
     explore_tag: "35,37,83"
     gun_detail_bg: team_404
+    show_damage_skin: ",0,410,521,555,2107,3403,5405,535,5015,"
   }
   {
     id: 20104
@@ -37949,6 +38479,7 @@
     prize_id: 3104
     explore_tag: "44"
     gun_detail_bg: nation_German
+    show_damage_skin: ",0,5050,"
   }
   {
     id: 20114
@@ -38030,6 +38561,7 @@
     rank_display: 6
     prize_id: 3114
     explore_tag: "9,17,27,40,47,82"
+    show_damage_skin: ",0,411,1401,2103,"
   }
   {
     id: 20115
@@ -38124,6 +38656,7 @@
     rank_display: 6
     prize_id: 3115
     explore_tag: "31,40,65"
+    show_damage_skin: ",310,3101,5060,"
   }
   {
     id: 20122
@@ -38218,6 +38751,7 @@
     prize_id: 3122
     explore_tag: "10,18,62,83,86"
     gun_detail_bg: team_404
+    show_damage_skin: ",0,9,558,572,1602,2502,538,5035,"
   }
   {
     id: 20124
@@ -38302,6 +38836,7 @@
     prize_id: 3124
     explore_tag: "32"
     gun_detail_bg: nation_US
+    show_damage_skin: ",0,1407,5036,"
   }
   {
     id: 20125
@@ -38391,6 +38926,7 @@
     rank_display: 6
     prize_id: 3125
     gun_detail_bg: nation_German
+    show_damage_skin: ",0,"
   }
   {
     id: 20136
@@ -38498,6 +39034,7 @@
     prize_id: 3136
     explore_tag: "8"
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",0,2204,"
   }
   {
     id: 20143
@@ -38574,6 +39111,7 @@
     prize_id: 3143
     explore_tag: "40,48,82,84"
     gun_detail_bg: team_ar
+    show_damage_skin: ",0,4504,534,554,5037,"
   }
   {
     id: 20152
@@ -38649,6 +39187,7 @@
     rank_display: 4
     prize_id: 3152
     gun_detail_bg: nation_US
+    show_damage_skin: ",0,2505,"
   }
   {
     id: 20154
@@ -38729,6 +39268,7 @@
     rank_display: 4
     prize_id: 3154
     gun_detail_bg: nation_US
+    show_damage_skin: ",0,3707,"
   }
   {
     id: 20159
@@ -38808,6 +39348,7 @@
     rank_display: 4
     prize_id: 3159
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",0,4309,"
   }
   {
     id: 20161
@@ -38880,6 +39421,7 @@
     prize_id: 3161
     explore_tag: "53"
     gun_detail_bg: nation_China
+    show_damage_skin: ",5038,"
   }
   {
     id: 20171
@@ -38953,6 +39495,7 @@
     rank_display: 5
     prize_id: 3171
     explore_tag: "56"
+    show_damage_skin: ",0,"
   }
   {
     id: 20178
@@ -39026,6 +39569,7 @@
     rank_display: 4
     prize_id: 3178
     explore_tag: "14,52"
+    show_damage_skin: ",0,2606,6507,"
   }
   {
     id: 20199
@@ -39107,6 +39651,7 @@
     prize_id: 3199
     explore_tag: "28,53"
     gun_detail_bg: nation_China
+    show_damage_skin: ",0,2504,5045,"
   }
   {
     id: 20200
@@ -39182,6 +39727,7 @@
     rank_display: 5
     prize_id: 3200
     gun_detail_bg: nation_US
+    show_damage_skin: ",0,"
   }
   {
     id: 20201
@@ -39263,6 +39809,7 @@
     rank_display: 4
     prize_id: 3201
     explore_tag: "27"
+    show_damage_skin: ",2305,0,3107,5052,"
   }
   {
     id: 20205
@@ -39343,6 +39890,7 @@
     prize_id: 3205
     explore_tag: "27"
     gun_detail_bg: team_defy
+    show_damage_skin: ",0,2404,3303,5055,"
   }
   {
     id: 20216
@@ -39419,6 +39967,7 @@
     prize_id: 3216
     explore_tag: "30"
     gun_detail_bg: nation_German
+    show_damage_skin: ",0,5606,5056,"
   }
   {
     id: 20220
@@ -39495,6 +40044,7 @@
     prize_id: 3220
     explore_tag: "10"
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",0,7105,6405,"
   }
   {
     id: 20221
@@ -39576,6 +40126,7 @@
     prize_id: 3221
     explore_tag: "13,29"
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",523,0,5033,"
   }
   {
     id: 20230
@@ -39650,6 +40201,7 @@
     prize_id: 3230
     explore_tag: "31,38"
     gun_detail_bg: nation_US
+    show_damage_skin: ",0,5061,"
   }
   {
     id: 20252
@@ -39724,6 +40276,7 @@
     rank_display: 5
     prize_id: 3252
     gun_detail_bg: nation_Russia
+    show_damage_skin: ",0,3405,5504,5034,"
   }
   {
     id: 20293
@@ -39785,6 +40338,7 @@
     rank_display: 6
     prize_id: 3293
     gun_detail_bg: team_defy
+    show_damage_skin: ",0,5057,"
   }
   {
     id: 30156

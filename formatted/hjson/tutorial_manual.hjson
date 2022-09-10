@@ -19,7 +19,7 @@
     type: 2
     title: 指揮官資訊
     sub_title: 在這裡可以查看您的個人資訊和任命副官。
-    content: 9e3ab184541c015f_draw_2008204088.jpg,c49d81922c27f604_draw_2008204085.jpg,75fc4c0c735923e1_draw_2008204086.jpg,b8d2cdd1bd87df7e_draw_2008204087.jpg,e810d3544557cb2c_draw_2008204089.jpg,dbc9c276c37b9254_draw_2008204084.jpg
+    content: ca469916ddcbf62f_draw_220908040.jpg,5756b3d46c9d23b5_draw_220908041.jpg,760c1251cd12e864_draw_220908043,afc0388804a36d6b_draw_220908042.jpg,dd9a4861a0e3b46f_draw_220908044.jpg
   }
   {
     id: 103
@@ -42,7 +42,7 @@
     type: 2
     title: 郵件
     sub_title: 記得及時查收郵件哦。
-    content: aa1c9f324c43dac2_draw_2008204083.jpg
+    content: 669db3b11d5b848f_draw_220908039.jpg
     goto_page: 257
   }
   {
@@ -58,7 +58,7 @@
     type: 2
     title: 任務
     sub_title: 當您不知道該做什麼時，就來做任務吧！
-    content: cbfa9ba1ef9c7ef8_draw_2008204071.jpg,76d4a42ffd95aa4c_draw_2008204075.jpg,f726781fa605daeb_draw_2008204073.jpg,40b9af642f109c79_draw_2008204074.jpg,6b5e44f025428a53_draw_2008204072.jpg
+    content: 86ce31837729813c_draw_220908020.jpg,87f5d483fa87a6dd_draw_220908022.jpg,bfe5f8db4889658e_draw_220908021.jpg,77918c2cdb296faa_draw_220908038.jpg,6b5e44f025428a53_draw_2008204072.jpg
     goto_page: 254
   }
   {
@@ -251,7 +251,7 @@
     type: 2
     title: 妖精製造
     sub_title: 在裝備重型建造中獲取妖精。
-    content: 1cb4fdd53cc84041_draw_2008202304.jpg,81346cd081ab3274_draw_2008202303.jpg
+    content: dca4ab6b8498c0cb_draw_220908015.jpg,23f117ee98ed81cb_draw_220908016.jpg
     function_control_id: 1
     goto_page: 21
   }
@@ -1228,7 +1228,7 @@
     type: 2
     title: 內部一覽
     sub_title: 來瞭解一下格里芬的內部架構吧！
-    content: a4027f4a80e9a198_draw_2008204093.jpg,c271b38eed238fd4_draw_2008204094.jpg,2aa2f16dd6ab48c2_draw_2008204096.jpg
+    content: b9fa5b8540969736_draw_220908030.jpg,192b6320dd078c24_draw_220908029.jpg,b91e74ca02741678_draw_220908028.jpg,e5f2ea2cd10970b1_draw_220908027.jpg
     function_control_id: 22
   }
   {

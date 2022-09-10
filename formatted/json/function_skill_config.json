@@ -8,7 +8,9 @@
         "description": "作戰任務的報酬有 {0}% 機率增加一次額外掉落{1}",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "extra_drop_rate_up"
     },
     {
         "id": 102,
@@ -19,7 +21,9 @@
         "description": "計劃模式下，提升戰鬥的動作速度 {0}%{1}",
         "arguments": 1,
         "max_level": 5,
-        "is_show": 0
+        "is_show": 0,
+        "type": 1,
+        "function_skill": "battle_speed_up"
     },
     {
         "id": 103,
@@ -30,7 +34,9 @@
         "description": "戰鬥產生的人形好感度、融合勢力好感度增加 {0}%{1}",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "battle_favor_up"
     },
     {
         "id": 104,
@@ -41,7 +47,9 @@
         "description": "戰鬥產生的人形經驗、融合勢力經驗增加 {0}%{1}",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "battle_gun_exp_up"
     },
     {
         "id": 105,
@@ -52,7 +60,9 @@
         "description": "戰鬥產生的指揮官經驗增加 {0}%{1}",
         "arguments": 5,
         "max_level": 3,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "battle_commander_exp_up"
     },
     {
         "id": 106,
@@ -63,7 +73,9 @@
         "description": "戰鬥產生的妖精經驗值增加 {0}%{1}",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "battle_fairy_exp_up"
     },
     {
         "id": 107,
@@ -74,7 +86,9 @@
         "description": "戰鬥產生的重裝部隊經驗值增加 {0}%{1}",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "battle_squad_exp_up"
     },
     {
         "id": 108,
@@ -85,7 +99,9 @@
         "description": "修復時間減少 {0}%，包括人形、重裝和融合勢力{1}",
         "arguments": 10,
         "max_level": 3,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "repair_time_reduce"
     },
     {
         "id": 109,
@@ -96,7 +112,9 @@
         "description": "作戰報告書、特種作戰報告書撰寫時間縮短  {0}%{1}",
         "arguments": 1,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "report_time_reduce"
     },
     {
         "id": 110,
@@ -107,7 +125,9 @@
         "description": "前進營地獲取探索歸來獎勵數量提高 {0}%{1}",
         "arguments": 5,
         "max_level": 3,
-        "is_show": 0
+        "is_show": 0,
+        "type": 1,
+        "function_skill": "exploration_reward_up"
     },
     {
         "id": 111,
@@ -118,7 +138,9 @@
         "description": "前進營地獲取探索中途獎勵機率提高 {0}%{1}",
         "arguments": 1,
         "max_level": 5,
-        "is_show": 0
+        "is_show": 0,
+        "type": 1,
+        "function_skill": "exploration_mid_rate_up"
     },
     {
         "id": 112,
@@ -129,7 +151,9 @@
         "description": "技能訓練（包括人形、妖精、重裝和融合勢力）時間縮短 {0}%{1}",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "skill_time_reduce"
     },
     {
         "id": 113,
@@ -140,7 +164,9 @@
         "description": "裝備提供的強化經驗提高 {0}%{1}",
         "arguments": 1,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "equip_upgrade_up"
     },
     {
         "id": 114,
@@ -151,7 +177,9 @@
         "description": "妖精提供的開發值提高 {0}%{1}",
         "arguments": 1,
         "max_level": 5,
-        "is_show": 0
+        "is_show": 0,
+        "type": 1,
+        "function_skill": "fairy_upgrade_up"
     },
     {
         "id": 115,
@@ -162,28 +190,268 @@
         "description": "電池自然產出提高 {0}%{1}",
         "arguments": 1,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "battery_recovery_up"
     },
     {
-        "id": 116,
-        "name": "function_skill_config-10000116",
+        "id": 118,
+        "name": "自律消耗減少",
         "level": 1,
         "group_id": 0,
-        "code": "function_skill_icon_116",
-        "description": "function_skill_config-20000116",
+        "code": "function_skill_icon_118",
+        "description": "自律作戰資源消耗減少{0}%{1}",
         "arguments": 1,
-        "max_level": 5,
-        "is_show": 0
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "auto_combat_resource_reduce"
     },
     {
-        "id": 117,
-        "name": "function_skill_config-10000117",
+        "id": 119,
+        "name": "妖精指令恢復變快",
         "level": 1,
         "group_id": 0,
-        "code": "function_skill_icon_117",
-        "description": "function_skill_config-20000117",
+        "code": "function_skill_icon_119",
+        "description": "妖精指令回覆間隔時間縮短{0}%{1}",
         "arguments": 1,
-        "max_level": 5,
-        "is_show": 0
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "fairy_command_recovery_time_reduce"
+    },
+    {
+        "id": 120,
+        "name": "樣本產出變快",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_120",
+        "description": "監聽站樣本產出間隔時間縮短{0}%{1}",
+        "arguments": 1,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "data_recovery_time_reduce"
+    },
+    {
+        "id": 124,
+        "name": "後勤資源增加",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_124",
+        "description": "後勤遠征獲取資源量增加{0}%{1}",
+        "arguments": 1,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "logistics_reward_up"
+    },
+    {
+        "id": 125,
+        "name": "融合演習獎勵增加",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_125",
+        "description": "模擬作戰-融合演習獎勵獲取增加{0}%{1}",
+        "arguments": 1,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "coalitiondrill_reward_up"
+    },
+    {
+        "id": 126,
+        "name": "技能訓練時間縮短",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_112",
+        "description": "技能訓練（包括人形、妖精、重裝和融合勢力）時間縮短 {0}%{1}",
+        "arguments": 1,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "skill_time_reduce"
+    },
+    {
+        "id": 127,
+        "name": "電池回覆量提升",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_115",
+        "description": "電池自然產出提高 {0}%{1}",
+        "arguments": 1,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "battery_recovery_up"
+    },
+    {
+        "id": 128,
+        "name": "指揮官經驗提升",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_105",
+        "description": "戰鬥產生的指揮官經驗增加 {0}%{1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "battle_commander_exp_up"
+    },
+    {
+        "id": 129,
+        "name": "探索歸來獎勵提升",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_110",
+        "description": "前進營地獲取探索歸來獎勵數量提高 {0}%{1}",
+        "arguments": 1,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "exploration_reward_up"
+    },
+    {
+        "id": 130,
+        "name": "自律消耗減少",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_118",
+        "description": "自律作戰資源消耗減少{0}%{1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "auto_combat_resource_reduce"
+    },
+    {
+        "id": 131,
+        "name": "妖精指令恢復變快",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_119",
+        "description": "妖精指令回覆間隔時間縮短{0}%{1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "fairy_command_recovery_time_reduce"
+    },
+    {
+        "id": 132,
+        "name": "樣本產出變快",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_120",
+        "description": "監聽站樣本產出間隔時間縮短{0}%{1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "data_recovery_time_reduce"
+    },
+    {
+        "id": 133,
+        "name": "後勤資源增加",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_124",
+        "description": "後勤遠征獲取資源量增加{0}%{1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "logistics_reward_up"
+    },
+    {
+        "id": 134,
+        "name": "融合演習獎勵增加",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_125",
+        "description": "模擬作戰-融合演習獎勵獲取增加{0}%{1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "coalitiondrill_reward_up"
+    },
+    {
+        "id": 135,
+        "name": "技能訓練時間縮短",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_112",
+        "description": "技能訓練（包括人形、妖精、重裝和融合勢力）時間縮短 {0}%{1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "skill_time_reduce"
+    },
+    {
+        "id": 136,
+        "name": "電池回覆量提升",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_115",
+        "description": "電池自然產出提高 {0}%{1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "battery_recovery_up"
+    },
+    {
+        "id": 137,
+        "name": "指揮官經驗提升",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_105",
+        "description": "戰鬥產生的指揮官經驗增加 {0}%{1}",
+        "arguments": 3,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "battle_commander_exp_up"
+    },
+    {
+        "id": 138,
+        "name": "探索歸來獎勵提升",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_110",
+        "description": "前進營地獲取探索歸來獎勵數量提高 {0}%{1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "exploration_reward_up"
+    },
+    {
+        "id": 139,
+        "name": "妖精指令恢復變快",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_119",
+        "description": "妖精指令回覆間隔時間縮短{0}%{1}",
+        "arguments": 3,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "fairy_command_recovery_time_reduce"
+    },
+    {
+        "id": 140,
+        "name": "電池回覆量提升",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_115",
+        "description": "電池自然產出提高 {0}%{1}",
+        "arguments": 3,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "battery_recovery_up"
     }
 ]

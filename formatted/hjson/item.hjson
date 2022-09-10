@@ -15326,8 +15326,8 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: 榴彈捕手
-    introduction: 直面一切突如其來的危險，並思索出完美規避，乃至反敗為勝的策略，這是作為一名指揮官的生存之道。感到慶幸吧，至少現在向你飛來的壞東西，時速還遠沒有達到150公里。
+    item_name: *榴彈捕手
+    introduction: *直面一切突如其來的危險，並思索出完美規避，乃至反敗為勝的策略，這是作為一名指揮官的生存之道。感到慶幸吧，至少現在向你飛來的壞東西，時速還遠沒有達到150公里。
     rank: 1
     detail_introduction: item-30140001
   }
@@ -15336,8 +15336,8 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: 榴彈捕手
-    introduction: 直面一切突如其來的危險，並思索出完美規避，乃至反敗為勝的策略，這是作為一名指揮官的生存之道。感到慶幸吧，至少現在向你飛來的壞東西，時速還遠沒有達到150公里。
+    item_name: *榴彈捕手
+    introduction: *直面一切突如其來的危險，並思索出完美規避，乃至反敗為勝的策略，這是作為一名指揮官的生存之道。感到慶幸吧，至少現在向你飛來的壞東西，時速還遠沒有達到150公里。
     rank: 1
     detail_introduction: item-30140002
   }
@@ -15346,8 +15346,8 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: item-10140003
-    introduction: item-20140003
+    item_name: *榴彈捕手
+    introduction: *直面一切突如其來的危險，並思索出完美規避，乃至反敗為勝的策略，這是作為一名指揮官的生存之道。感到慶幸吧，至少現在向你飛來的壞東西，時速還遠沒有達到150公里。
     rank: 1
     detail_introduction: item-30140003
   }
@@ -15356,8 +15356,8 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: item-10140004
-    introduction: item-20140004
+    item_name: *榴彈捕手
+    introduction: *直面一切突如其來的危險，並思索出完美規避，乃至反敗為勝的策略，這是作為一名指揮官的生存之道。感到慶幸吧，至少現在向你飛來的壞東西，時速還遠沒有達到150公里。
     rank: 1
     detail_introduction: item-30140004
   }

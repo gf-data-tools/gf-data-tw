@@ -779,4 +779,11 @@
     title: 勢能消耗（包括超導勢能）
     content: 累計消耗勢能{0}個
   }
+  {
+    id: 131
+    type: special_develop_fairy
+    title: 妖精重型製造
+    content: 累計進行妖精重型製造{0}次
+    function_control_id: 1
+  }
 ]

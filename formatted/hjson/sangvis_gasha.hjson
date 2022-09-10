@@ -559,7 +559,7 @@
   }
   {
     id: 43
-    name: sangvis_gasha-10000043
+    name: SP24WR分區
     type: 1
     start_time: 2022-09-09 10:00:00
     end_time: 2022-10-07 10:00:00
@@ -572,7 +572,7 @@
   }
   {
     id: 44
-    name: sangvis_gasha-10000044
+    name: SP-7C分區
     type: 1
     start_time: 2022-09-09 10:00:00
     end_time: 2022-10-07 10:00:00

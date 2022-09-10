@@ -69,7 +69,6 @@
     name: 導彈槽
     code: daodanchao
     description: 導彈槽
-    priority: "9"
     duration: "0.00"
     delay: "0.00"
     size: "0.60"
@@ -80,7 +79,6 @@
     name: 導彈槽_待機
     code: daodanchao_daiji
     description: 導彈槽
-    priority: "7"
     duration: "0.00"
     delay: "0.00"
     size: "0.60"
@@ -156,7 +154,7 @@
     description: 藍光圈常駐
     duration: "0.00"
     delay: "0.00"
-    size: "0.30"
+    size: "0.02"
     offset: "90,30"
   }
   {
@@ -166,7 +164,7 @@
     description: 藍光圈吸入
     duration: "0.00"
     delay: "0.00"
-    size: "0.30"
+    size: "0.02"
     offset: "60,0"
   }
   {
@@ -176,7 +174,7 @@
     description: 藍光圈吐出
     duration: "0.00"
     delay: "0.00"
-    size: "0.30"
+    size: "0.02"
     offset: "60,0"
   }
   {
@@ -186,7 +184,7 @@
     description: 橙光圈常駐
     duration: "0.00"
     delay: "0.00"
-    size: "0.30"
+    size: "0.02"
     offset: "-180,30"
   }
   {
@@ -196,7 +194,7 @@
     description: 橙光圈吐出
     duration: "0.00"
     delay: "0.00"
-    size: "0.30"
+    size: "0.02"
     offset: "-270,0"
   }
   {
@@ -206,7 +204,7 @@
     description: 藍光圈常駐
     duration: "0.00"
     delay: "0.00"
-    size: "0.30"
+    size: "0.02"
     offset: "90,35"
   }
   {
@@ -216,7 +214,7 @@
     description: 橙光圈常駐
     duration: "0.00"
     delay: "0.00"
-    size: "0.30"
+    size: "0.02"
     offset: "-130,35"
   }
   {
@@ -469,7 +467,7 @@
     description: 沙舞妖精特效
     duration: "0.00"
     delay: "0.00"
-    size: "1.00"
+    size: "0.10"
     offset: "0,0"
   }
   {
@@ -482,6 +480,7 @@
     size: "1.00"
     offset: "0,0"
     sound: BT_The_Division_Flash_Bomb
+    if_starting: "1"
   }
   {
     id: "1000026"
@@ -504,6 +503,7 @@
     size: "1.00"
     offset: "0,0"
     sound: BT_The_Division_Grenade
+    if_starting: "1"
   }
   {
     id: "1000028"
@@ -776,8 +776,8 @@
     delay: "0.00"
     size: "1.00"
     offset: "0,0"
-    if_starting: "1"
-    relative_position: "1000,3000"
+    if_starting: "3"
+    relative_position: "-500,1000"
   }
   {
     id: "1000053"
@@ -1015,21 +1015,21 @@
     name: 黏性炸藥投擲
     code: Viscosity_Bomb
     description: 黏性炸藥投擲
-    priority: "10"
+    priority: "1"
     duration: "0.46"
     delay: "0.00"
     size: "0.50"
     offset: "0,0"
     sound: 21Summer_Bomb_Whoosh
-    if_starting: "1"
-    relative_position: "-1000,2000"
+    if_starting: "3"
+    relative_position: "-800,1000"
   }
   {
     id: "1000076"
     name: 黏性炸藥倒數計時
     code: Viscosity_Bomb
     description: 黏性炸藥倒數計時
-    priority: "10"
+    priority: "1"
     duration: "0.00"
     delay: "0.86"
     size: "0.50"
@@ -1105,7 +1105,7 @@
     description: 受擊特效
     duration: "0.50"
     delay: "0.00"
-    size: "1.00"
+    size: "0.02"
     offset: "0,0"
   }
   {
@@ -1115,7 +1115,7 @@
     description: 瓦爾哈拉用特效
     duration: "0.50"
     delay: "0.00"
-    size: "1.00"
+    size: "0.02"
     offset: "0,0"
     sound: BT_Sniper_skill_1
   }
@@ -1168,7 +1168,7 @@
     description: 橙光圈常駐
     duration: "0.00"
     delay: "0.00"
-    size: "0.30"
+    size: "0.02"
     offset: "90,35"
   }
   {
@@ -1179,7 +1179,7 @@
     priority: "5"
     duration: "1.00"
     delay: "0.00"
-    size: "1.00"
+    size: "0.05"
     offset: "0,0"
   }
   {
@@ -1267,7 +1267,7 @@
     name: 黏性炸藥無聲倒數]計時
     code: Viscosity_Bomb
     description: 黏性炸藥無聲倒數]計時
-    priority: "10"
+    priority: "1"
     duration: "0.00"
     delay: "0.86"
     size: "0.50"
@@ -1279,7 +1279,7 @@
     name: 空襲引導
     code: CanDestroyBuildTip
     description: 空襲引導
-    priority: "10"
+    priority: "1"
     duration: "0.00"
     delay: "0.00"
     size: "1.00"

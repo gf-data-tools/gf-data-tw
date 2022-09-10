@@ -32742,7 +32742,7 @@
     open_mission_keys: 1091500:1
     mission_describe: mission-20010907
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010907
     limit_sangvis: -1
     mission_tip: mission-40010907
@@ -32771,7 +32771,7 @@
     mission_describe: mission-20010908
     force_type: "2"
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010908
     limit_sangvis: -1
     mission_tip: mission-40010908
@@ -32797,7 +32797,7 @@
     open_mission_keys: 1093400:1
     mission_describe: mission-20010909
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010909
     limit_sangvis: -1
     mission_tip: mission-40010909
@@ -32824,7 +32824,7 @@
     open_mission_keys: 1091500:1
     mission_describe: mission-20010910
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010910
     limit_sangvis: -1
     mission_tip: mission-40010910
@@ -32852,7 +32852,7 @@
     open_mission_keys: 1091500:1
     mission_describe: mission-20010911
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010911
     limit_sangvis: -1
     mission_tip: mission-40010911
@@ -32882,7 +32882,7 @@
     open_mission_keys: 1091500:1
     mission_describe: mission-20010912
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010912
     limit_sangvis: -1
     mission_tip: mission-40010912
@@ -32910,7 +32910,7 @@
     mission_group_id: 20
     mission_describe: mission-20010913
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010913
     limit_sangvis: -1
     mission_tip: mission-40010913
@@ -32938,7 +32938,7 @@
     open_mission_keys: 1091300:1
     mission_describe: mission-20010914
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010914
     limit_sangvis: -1
     mission_tip: mission-40010914
@@ -32965,7 +32965,7 @@
     mission_group_id: 20
     mission_describe: mission-20010915
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010915
     limit_sangvis: -1
     mission_tip: mission-40010915
@@ -32994,7 +32994,7 @@
     mission_describe: mission-20010918
     round_config: 1:1,2:2,3:3
     win_type: "6000006"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010918
     limit_sangvis: -1
     mission_tip: mission-40010918
@@ -33023,7 +33023,7 @@
     mission_describe: mission-20010919
     force_type: "2"
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010919
     limit_sangvis: -1
     mission_tip: mission-40010919
@@ -33051,7 +33051,7 @@
     open_mission_keys: 1091500:1
     mission_describe: mission-20010920
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010920
     limit_sangvis: -1
     mission_tip: mission-40010920
@@ -33079,7 +33079,7 @@
     open_mission_keys: 1091500:1
     mission_describe: mission-20010922
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010922
     limit_sangvis: -1
     mission_tip: mission-40010922
@@ -33106,7 +33106,7 @@
     open_mission_keys: 1092800:1
     mission_describe: mission-20010923
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010923
     limit_sangvis: -1
     mission_tip: mission-40010923
@@ -33133,7 +33133,7 @@
     open_mission_keys: 1091500:1
     mission_describe: mission-20010924
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010924
     limit_sangvis: -1
     mission_tip: mission-40010924
@@ -33162,7 +33162,7 @@
     mission_describe: mission-20010925
     round_config: 1:1,2:2,3:3
     win_type: "6000001"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010925
     limit_sangvis: -1
     mission_tip: mission-40010925
@@ -33190,7 +33190,7 @@
     open_mission_keys: 1092500:1
     mission_describe: mission-20010926
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010926
     limit_sangvis: -1
     mission_tip: mission-40010926
@@ -33220,7 +33220,7 @@
     open_mission_keys: 1091500:1
     mission_describe: mission-20010927
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010927
     limit_sangvis: -1
     mission_tip: mission-40010927
@@ -33247,7 +33247,7 @@
     mission_group_id: 20
     mission_describe: mission-20010928
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010928
     limit_sangvis: -1
     mission_tip: mission-40010928
@@ -33275,7 +33275,7 @@
     open_mission_keys: 1091500:1
     mission_describe: mission-20010929
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010929
     limit_sangvis: -1
     mission_tip: mission-40010929
@@ -33303,7 +33303,7 @@
     mission_describe: mission-20010930
     round_config: 1:1,2:2,3:3
     win_type: "6000005"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010930
     limit_sangvis: -1
     mission_tip: mission-40010930
@@ -33331,7 +33331,7 @@
     mission_describe: mission-20010931
     round_config: 1:1,2:2,3:3
     win_type: "6000007"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010931
     limit_sangvis: -1
     mission_tip: mission-40010931
@@ -33358,7 +33358,7 @@
     open_mission_keys: 1091500:1
     mission_describe: mission-20010932
     round_config: 1:1,2:2,3:3
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010932
     limit_sangvis: -1
     mission_tip: mission-40010932
@@ -33386,7 +33386,7 @@
     mission_describe: mission-20010934
     round_config: 1:1,2:2,3:3
     win_type: "1093401"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010934
     limit_sangvis: -1
     mission_tip: mission-40010934
@@ -33414,7 +33414,7 @@
     mission_describe: mission-20010935
     round_config: 1:1,2:2,3:3
     win_type: "1093501"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010935
     limit_sangvis: -1
     mission_tip: mission-40010935
@@ -33442,7 +33442,7 @@
     mission_describe: mission-20010936
     round_config: 1:1,2:2,3:3
     win_type: "1093601"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010936
     limit_sangvis: -1
     mission_tip: mission-40010936
@@ -33470,7 +33470,7 @@
     mission_describe: mission-20010937
     round_config: 1:1,2:2,3:3
     win_type: "1093701"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010937
     limit_sangvis: -1
     mission_tip: mission-40010937
@@ -33498,7 +33498,7 @@
     mission_describe: mission-20010938
     round_config: 1:1,2:2,3:3
     win_type: "1093801"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010938
     limit_sangvis: -1
     mission_tip: mission-40010938
@@ -33527,7 +33527,7 @@
     mission_describe: mission-20010939
     round_config: 1:1,2:2,3:3
     win_type: "1093901"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010939
     limit_sangvis: -1
     mission_tip: mission-40010939
@@ -33556,7 +33556,7 @@
     mission_describe: mission-20010940
     round_config: 1:1,2:2,3:3
     win_type: "1094001"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010940
     limit_sangvis: -1
     mission_tip: mission-40010940
@@ -33585,7 +33585,7 @@
     mission_describe: mission-20010941
     round_config: 1:1,2:2,3:3
     win_type: "1094101"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010941
     limit_sangvis: -1
     mission_tip: mission-40010941
@@ -33612,7 +33612,7 @@
     mission_describe: mission-20010942
     round_config: 1:1,2:2,3:3
     win_type: "1094201"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010942
     limit_sangvis: -1
     mission_tip: mission-40010942
@@ -33640,7 +33640,7 @@
     mission_describe: mission-20010943
     round_config: 1:1,2:2,3:3
     win_type: "1094301"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010943
     limit_sangvis: -1
     mission_tip: mission-40010943
@@ -33668,7 +33668,7 @@
     mission_describe: mission-20010944
     round_config: 1:1,2:2,3:3
     win_type: "1094401"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010944
     limit_sangvis: -1
     mission_tip: mission-40010944
@@ -33695,7 +33695,7 @@
     mission_describe: mission-20010945
     round_config: 1:1,2:2,3:3
     win_type: "1094501"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010945
     limit_sangvis: -1
     mission_tip: mission-40010945
@@ -33723,7 +33723,7 @@
     mission_describe: mission-20010946
     round_config: 1:1,2:2,3:3
     win_type: "1094601"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010946
     limit_sangvis: -1
     mission_tip: mission-40010946
@@ -33750,7 +33750,7 @@
     mission_describe: mission-20010947
     round_config: 1:1,2:2,3:3
     win_type: "1094701"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010947
     limit_sangvis: -1
     mission_tip: mission-40010947
@@ -33778,7 +33778,7 @@
     mission_describe: mission-20010948
     round_config: 1:1,2:2,3:3
     win_type: "1094801"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010948
     mission_tip: mission-40010948
   }
@@ -33804,7 +33804,7 @@
     mission_describe: mission-20010949
     round_config: 1:1,2:2,3:3
     win_type: "1094901"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30010949
     mission_tip: mission-40010949
   }
@@ -35314,7 +35314,7 @@
     mission_describe: mission-20011000
     round_config: 1:1,2:2,3:3
     win_type: "1100001"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30011000
     limit_sangvis: -1
     mission_tip: mission-40011000
@@ -35340,7 +35340,7 @@
     mission_describe: mission-20011001
     round_config: 1:1,2:2,3:3
     win_type: "1100101"
-    difficulty_recommend: "23"
+    difficulty_recommend: 25000;100
     difficulty_recommend_addendum: mission-30011001
     limit_sangvis: -1
     mission_tip: mission-40011001

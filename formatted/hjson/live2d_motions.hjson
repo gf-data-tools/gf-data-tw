@@ -28501,7 +28501,7 @@
     probability: 1.0
     voice: GUN|88typeMod|SOULCONTRACT
     text: GUN|88typeMod|SOULCONTRACT
-    name: 結契動作
+    name: 结契动作
     camera: 1
     voice_code: SOULCONTRACT
   }

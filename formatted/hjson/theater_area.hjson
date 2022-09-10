@@ -27,6 +27,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 1000
     area_mission_id: 900411
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 412
@@ -56,6 +57,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 2600
     area_mission_id: 900411
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 413
@@ -85,6 +87,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4200
     area_mission_id: 900411
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 414
@@ -117,6 +120,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4800
     area_mission_id: 900411
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 415
@@ -146,6 +150,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5200
     area_mission_id: 900412
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 416
@@ -176,6 +181,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5800
     area_mission_id: 900412
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 417
@@ -206,6 +212,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 6400
     area_mission_id: 900412
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 418
@@ -237,6 +244,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 7500
     area_mission_id: 900412
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 421
@@ -266,6 +274,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 7800
     area_mission_id: 900421
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 422
@@ -295,6 +304,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 8000
     area_mission_id: 900421
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 423
@@ -324,6 +334,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 8500
     area_mission_id: 900421
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 424
@@ -356,6 +367,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 8800
     area_mission_id: 900421
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 425
@@ -386,6 +398,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 9200
     area_mission_id: 900422
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 426
@@ -416,6 +429,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 9600
     area_mission_id: 900422
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 427
@@ -446,6 +460,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 13000
     area_mission_id: 900422
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 428
@@ -477,6 +492,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 14500
     area_mission_id: 900422
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 431
@@ -506,6 +522,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 13000
     area_mission_id: 900431
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 432
@@ -535,6 +552,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 16000
     area_mission_id: 900431
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 433
@@ -566,6 +584,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 20000
     area_mission_id: 900431
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 434
@@ -597,6 +616,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 22000
     area_mission_id: 900432
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 435
@@ -626,6 +646,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 26000
     area_mission_id: 900432
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 436
@@ -659,6 +680,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 27500
     area_mission_id: 900432
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 437
@@ -689,6 +711,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 29000
     area_mission_id: 900432
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 438
@@ -720,6 +743,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 31000
     area_mission_id: 900432
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 441
@@ -749,6 +773,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 2400
     area_mission_id: 900441
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 442
@@ -779,6 +804,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 4800
     area_mission_id: 900441
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 443
@@ -811,6 +837,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 6400
     area_mission_id: 900441
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 444
@@ -841,6 +868,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 14000
     area_mission_id: 900442
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 445
@@ -870,6 +898,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 25000
     area_mission_id: 900442
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 446
@@ -902,6 +931,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 28000
     area_mission_id: 900442
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 447
@@ -932,6 +962,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 30000
     area_mission_id: 900443
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 448
@@ -963,6 +994,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 34000
     area_mission_id: 900443
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 511
@@ -992,6 +1024,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 1000
     area_mission_id: 900411
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 512
@@ -1021,6 +1054,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 2600
     area_mission_id: 900411
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 513
@@ -1050,6 +1084,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4200
     area_mission_id: 900411
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 514
@@ -1082,6 +1117,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4800
     area_mission_id: 900411
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 515
@@ -1111,6 +1147,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5200
     area_mission_id: 900412
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 516
@@ -1141,6 +1178,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5800
     area_mission_id: 900412
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 517
@@ -1171,6 +1209,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 6400
     area_mission_id: 900412
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 518
@@ -1202,6 +1241,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 7500
     area_mission_id: 900412
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 521
@@ -1231,6 +1271,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 7800
     area_mission_id: 900421
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 522
@@ -1260,6 +1301,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 8000
     area_mission_id: 900421
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 523
@@ -1289,6 +1331,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 8500
     area_mission_id: 900421
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 524
@@ -1321,6 +1364,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 8800
     area_mission_id: 900421
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 525
@@ -1351,6 +1395,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 9200
     area_mission_id: 900422
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 526
@@ -1381,6 +1426,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 9600
     area_mission_id: 900422
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 527
@@ -1411,6 +1457,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 13000
     area_mission_id: 900422
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 528
@@ -1442,6 +1489,7 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲回蕩在戰場上空。
     difficulty: 14500
     area_mission_id: 900422
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 531
@@ -1471,6 +1519,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 13000
     area_mission_id: 900431
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 532
@@ -1500,6 +1549,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 16000
     area_mission_id: 900431
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 533
@@ -1531,6 +1581,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 20000
     area_mission_id: 900431
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 534
@@ -1562,6 +1613,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 22000
     area_mission_id: 900432
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 535
@@ -1591,6 +1643,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 26000
     area_mission_id: 900432
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 536
@@ -1624,6 +1677,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 27500
     area_mission_id: 900432
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 537
@@ -1654,6 +1708,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 29000
     area_mission_id: 900432
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 538
@@ -1685,6 +1740,7 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 31000
     area_mission_id: 900432
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 541
@@ -1714,6 +1770,7 @@
     description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 2400
     area_mission_id: 900441
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 542
@@ -1744,6 +1801,7 @@
     description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 4800
     area_mission_id: 900441
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 543
@@ -1776,6 +1834,7 @@
     description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 6400
     area_mission_id: 900441
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 544
@@ -1806,6 +1865,7 @@
     description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 14000
     area_mission_id: 900442
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 545
@@ -1835,6 +1895,7 @@
     description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 25000
     area_mission_id: 900442
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 546
@@ -1867,6 +1928,7 @@
     description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 28000
     area_mission_id: 900442
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 547
@@ -1897,6 +1959,7 @@
     description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 30000
     area_mission_id: 900443
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 548
@@ -1928,6 +1991,7 @@
     description: 攻破了週邊的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 34000
     area_mission_id: 900443
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 611
@@ -1957,6 +2021,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 1000
     area_mission_id: 900411
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 612
@@ -1987,6 +2052,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 2600
     area_mission_id: 900411
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 613
@@ -2017,6 +2083,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4200
     area_mission_id: 900411
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 614
@@ -2050,6 +2117,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4800
     area_mission_id: 900411
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 615
@@ -2080,6 +2148,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5200
     area_mission_id: 900412
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 616
@@ -2112,6 +2181,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5800
     area_mission_id: 900412
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 617
@@ -2143,6 +2213,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 6400
     area_mission_id: 900412
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 618
@@ -2174,6 +2245,7 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 7500
     area_mission_id: 900412
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 621
@@ -2202,6 +2274,7 @@
     difficulty: 7800
     area_mission_id: 900421
     advantage_sangvis: "1011,1002"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 622
@@ -2232,6 +2305,7 @@
     difficulty: 8000
     area_mission_id: 900421
     advantage_sangvis: "1012"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 623
@@ -2262,6 +2336,7 @@
     difficulty: 8500
     area_mission_id: 900421
     advantage_sangvis: "1013"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 624
@@ -2295,6 +2370,7 @@
     difficulty: 8800
     area_mission_id: 900421
     advantage_sangvis: "1014"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 625
@@ -2326,6 +2402,7 @@
     difficulty: 9200
     area_mission_id: 900422
     advantage_sangvis: "2001"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 626
@@ -2357,6 +2434,7 @@
     difficulty: 9600
     area_mission_id: 900422
     advantage_sangvis: "2002"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 627
@@ -2388,6 +2466,7 @@
     difficulty: 13000
     area_mission_id: 900422
     advantage_sangvis: "2003"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 628
@@ -2420,6 +2499,7 @@
     difficulty: 14500
     area_mission_id: 900422
     advantage_sangvis: "2004"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 631
@@ -2449,6 +2529,7 @@
     difficulty: 13000
     area_mission_id: 900431
     advantage_sangvis: "1011,1002"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 632
@@ -2480,6 +2561,7 @@
     difficulty: 16000
     area_mission_id: 900431
     advantage_sangvis: "1012"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 633
@@ -2513,6 +2595,7 @@
     difficulty: 20000
     area_mission_id: 900431
     advantage_sangvis: "1013"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 634
@@ -2546,6 +2629,7 @@
     difficulty: 22000
     area_mission_id: 900432
     advantage_sangvis: "1014"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 635
@@ -2577,6 +2661,7 @@
     difficulty: 26000
     area_mission_id: 900432
     advantage_sangvis: "2001"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 636
@@ -2613,6 +2698,7 @@
     difficulty: 27500
     area_mission_id: 900432
     advantage_sangvis: "2002"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 637
@@ -2645,6 +2731,7 @@
     difficulty: 29000
     area_mission_id: 900432
     advantage_sangvis: "2003"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 638
@@ -2677,6 +2764,7 @@
     difficulty: 31000
     area_mission_id: 900432
     advantage_sangvis: "2004"
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 641
@@ -2706,6 +2794,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 2400
     area_mission_id: 900441
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 642
@@ -2737,6 +2826,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 4800
     area_mission_id: 900441
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 643
@@ -2770,6 +2860,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 6400
     area_mission_id: 900441
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 644
@@ -2801,6 +2892,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 14000
     area_mission_id: 900442
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 645
@@ -2831,6 +2923,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 25000
     area_mission_id: 900442
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 646
@@ -2865,6 +2958,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 28000
     area_mission_id: 900442
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 647
@@ -2896,6 +2990,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 30000
     area_mission_id: 900443
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 648
@@ -2927,6 +3022,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 34000
     area_mission_id: 900443
+    advantage_desc: 這是優勢人形技能描述
   }
   {
     id: 711
@@ -2948,7 +3044,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "330,27,10,13,328,115"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: wasteland
     theater_id: 71
@@ -2956,6 +3052,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 1000
     area_mission_id: 901411
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 712
@@ -2977,7 +3075,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "330,27,10,13,328,115"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: network
     theater_id: 71
@@ -2985,6 +3083,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 2600
     area_mission_id: 901411
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 713
@@ -3006,7 +3106,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "330,27,10,13,328,115"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: wasteland
     theater_id: 71
@@ -3014,6 +3114,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4200
     area_mission_id: 901411
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 714
@@ -3037,7 +3139,7 @@
     boss: 700002-0
     occupied_boss_score: 60
     score_limit: 1046
-    advantage_gun: "330,27,10,13,328,115"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: network
     theater_id: 71
@@ -3045,6 +3147,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4800
     area_mission_id: 901411
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 715
@@ -3067,7 +3171,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "298,171,73,106,70,6"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: wasteland
     theater_id: 71
@@ -3075,6 +3179,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5200
     area_mission_id: 901412
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 716
@@ -3096,7 +3202,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "298,171,73,106,70,6"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: network
     theater_id: 71
@@ -3104,6 +3210,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5800
     area_mission_id: 901412
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 717
@@ -3125,7 +3233,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "298,171,73,106,70,6"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: wasteland
     theater_id: 71
@@ -3133,6 +3241,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 6400
     area_mission_id: 901412
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 718
@@ -3156,7 +3266,7 @@
     boss: 700001-0
     occupied_boss_score: 60
     score_limit: 2205
-    advantage_gun: "298,171,73,106,70,6"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: network
     theater_id: 71
@@ -3164,6 +3274,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 7500
     area_mission_id: 901412
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 721
@@ -3185,7 +3297,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "176,203,315,223,335,338"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: abandonedvillage
     theater_id: 72
@@ -3193,6 +3305,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 7800
     area_mission_id: 901421
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 722
@@ -3214,7 +3328,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "176,203,315,223,335,338"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 72
@@ -3222,6 +3336,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 8000
     area_mission_id: 901421
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 723
@@ -3243,7 +3359,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "176,203,315,223,335,338"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: abandonedvillage
     theater_id: 72
@@ -3251,6 +3367,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 8500
     area_mission_id: 901421
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 724
@@ -3274,7 +3392,7 @@
     boss: 700001-0
     occupied_boss_score: 60
     score_limit: 2193
-    advantage_gun: "176,203,315,223,335,338"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 72
@@ -3282,6 +3400,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 8800
     area_mission_id: 901421
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 725
@@ -3305,7 +3425,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "232,202,162,164,209,286"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: abandonedvillage
     theater_id: 72
@@ -3313,6 +3433,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 9200
     area_mission_id: 901422
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 726
@@ -3334,7 +3456,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "232,202,162,164,209,286"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 72
@@ -3342,6 +3464,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 9600
     area_mission_id: 901422
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 727
@@ -3363,7 +3487,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "232,202,162,164,209,286"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: abandonedvillage
     theater_id: 72
@@ -3371,6 +3495,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 13000
     area_mission_id: 901422
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 728
@@ -3394,7 +3520,7 @@
     boss: 700006-0
     occupied_boss_score: 60
     score_limit: 3975
-    advantage_gun: "232,202,162,164,209,286"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 72
@@ -3402,6 +3528,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 14500
     area_mission_id: 901422
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 731
@@ -3423,7 +3551,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "113,168,260,284,317,329"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: network
     theater_id: 73
@@ -3431,6 +3559,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 13000
     area_mission_id: 901431
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 732
@@ -3453,7 +3583,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "113,168,260,284,317,329"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: iron
     theater_id: 73
@@ -3461,6 +3591,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 16000
     area_mission_id: 901431
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 733
@@ -3484,7 +3616,7 @@
     boss: 700007-0
     occupied_boss_score: 60
     score_limit: 3493
-    advantage_gun: "113,168,260,284,317,329"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: network
     theater_id: 73
@@ -3492,6 +3624,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 20000
     area_mission_id: 901431
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 734
@@ -3515,7 +3649,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "327,27,176,335,330,171"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: iron
     theater_id: 73
@@ -3523,6 +3657,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 22000
     area_mission_id: 901432
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 735
@@ -3544,7 +3680,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "327,27,176,335,330,171"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: iron
     theater_id: 73
@@ -3552,6 +3688,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 26000
     area_mission_id: 901432
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 736
@@ -3576,7 +3714,7 @@
     boss: 700003-1
     occupied_boss_score: 60
     score_limit: 5329
-    advantage_gun: "327,27,176,335,330,171"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: network
     theater_id: 73
@@ -3584,6 +3722,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 27500
     area_mission_id: 901432
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 737
@@ -3605,7 +3745,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "325,326,162,319,85,264"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: iron
     theater_id: 73
@@ -3613,6 +3753,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 29000
     area_mission_id: 901433
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 738
@@ -3636,7 +3778,7 @@
     boss: 700005-0
     occupied_boss_score: 60
     score_limit: 7322
-    advantage_gun: "325,326,162,319,85,264"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: network
     theater_id: 73
@@ -3644,6 +3786,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 31000
     area_mission_id: 901433
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 741
@@ -3665,7 +3809,7 @@
     occupied_enemy_lv: "-22,-22,-22,-21,-21,-21,-21,0,0,0"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "157,324,164,173,238,263"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 74
@@ -3673,6 +3817,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 2400
     area_mission_id: 901441
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 742
@@ -3695,7 +3841,7 @@
     occupied_enemy_lv: "-27,-27,-27,-26,-26,-26,-26,0,0,0"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "157,324,164,173,238,263"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: snowland
     theater_id: 74
@@ -3703,6 +3849,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 4800
     area_mission_id: 901441
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 743
@@ -3727,7 +3875,7 @@
     boss: 700002-0
     occupied_boss_score: 60
     score_limit: 6550
-    advantage_gun: "157,324,164,173,238,263"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 74
@@ -3735,6 +3883,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 6400
     area_mission_id: 901441
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 744
@@ -3757,7 +3907,7 @@
     occupied_enemy_lv: "-32,-32,-32,-31,-31,-31,-31,0,0,0"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "299,278,190,84,80,300"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: snowland
     theater_id: 74
@@ -3765,6 +3915,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 14000
     area_mission_id: 901442
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 745
@@ -3787,7 +3939,7 @@
     occupied_enemy_lv: "-32,-32,-32,-31,-31,-31,-31,0,0,0"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "299,278,190,84,80,300"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: snowland
     theater_id: 74
@@ -3795,6 +3947,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 25000
     area_mission_id: 901442
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 746
@@ -3818,7 +3972,7 @@
     boss: 700001-0
     occupied_boss_score: 60
     score_limit: 11380
-    advantage_gun: "299,278,190,84,80,300"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 74
@@ -3826,6 +3980,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 28000
     area_mission_id: 901442
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 747
@@ -3848,7 +4004,7 @@
     occupied_enemy_lv: "-32,-32,-32,-31,-31,-31,-31,0,0,0"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "336,328,203,330,171,187"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: snowland
     theater_id: 74
@@ -3856,6 +4012,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 30000
     area_mission_id: 901443
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 748
@@ -3879,7 +4037,7 @@
     boss: 700004-1
     occupied_boss_score: 100
     score_limit: 16142
-    advantage_gun: "336,328,203,330,171,187"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 74
@@ -3887,6 +4045,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 34000
     area_mission_id: 901443
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 811
@@ -3908,7 +4068,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "330,27,10,13,328,115"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: wasteland
     theater_id: 81
@@ -3916,6 +4076,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 1000
     area_mission_id: 901411
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 812
@@ -3937,7 +4099,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "330,27,10,13,328,115"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: network
     theater_id: 81
@@ -3945,6 +4107,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 2600
     area_mission_id: 901411
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 813
@@ -3966,7 +4130,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "330,27,10,13,328,115"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: wasteland
     theater_id: 81
@@ -3974,6 +4138,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4200
     area_mission_id: 901411
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 814
@@ -3997,7 +4163,7 @@
     boss: 700002-0
     occupied_boss_score: 60
     score_limit: 1046
-    advantage_gun: "330,27,10,13,328,115"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: network
     theater_id: 81
@@ -4005,6 +4171,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 4800
     area_mission_id: 901411
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 815
@@ -4027,7 +4195,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "298,349,73,106,70,6"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: wasteland
     theater_id: 81
@@ -4035,6 +4203,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5200
     area_mission_id: 901412
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 816
@@ -4056,7 +4226,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "298,349,73,106,70,6"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: network
     theater_id: 81
@@ -4064,6 +4234,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 5800
     area_mission_id: 901412
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 817
@@ -4085,7 +4257,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "298,349,73,106,70,6"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: wasteland
     theater_id: 81
@@ -4093,6 +4265,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 6400
     area_mission_id: 901412
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 818
@@ -4116,7 +4290,7 @@
     boss: 700001-0
     occupied_boss_score: 60
     score_limit: 2205
-    advantage_gun: "298,349,73,106,70,6"
+    advantage_gun: "62,64,71,32,16,20064,20071,20032"
     material_item: 47
     battle_background: network
     theater_id: 81
@@ -4124,6 +4298,8 @@
     description: 被槍林彈雨洗禮的山頭，是我們前進的第一道障礙。為了下一階段的作戰，我們要拿下這片區域，作為前進的立足點。
     difficulty: 7500
     area_mission_id: 901412
+    advantage_skill: "77703801"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避
   }
   {
     id: 821
@@ -4145,7 +4321,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "176,203,315,223,335,338"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: abandonedvillage
     theater_id: 82
@@ -4153,6 +4329,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 7800
     area_mission_id: 901421
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 822
@@ -4174,7 +4352,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "176,203,315,223,335,338"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 82
@@ -4182,6 +4360,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 8000
     area_mission_id: 901421
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 823
@@ -4203,7 +4383,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "176,203,315,223,335,338"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: abandonedvillage
     theater_id: 82
@@ -4211,6 +4391,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 8500
     area_mission_id: 901421
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 824
@@ -4234,7 +4416,7 @@
     boss: 700001-0
     occupied_boss_score: 60
     score_limit: 2193
-    advantage_gun: "176,203,315,223,335,338"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 82
@@ -4242,6 +4424,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 8800
     area_mission_id: 901421
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 825
@@ -4265,7 +4449,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "232,202,162,164,209,286"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: abandonedvillage
     theater_id: 82
@@ -4273,6 +4457,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 9200
     area_mission_id: 901422
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 826
@@ -4294,7 +4480,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "232,202,162,164,209,286"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 82
@@ -4302,6 +4488,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 9600
     area_mission_id: 901422
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 827
@@ -4323,7 +4511,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "232,202,162,164,209,286"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: abandonedvillage
     theater_id: 82
@@ -4331,6 +4519,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 13000
     area_mission_id: 901422
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 828
@@ -4354,7 +4544,7 @@
     boss: 700006-0
     occupied_boss_score: 60
     score_limit: 3975
-    advantage_gun: "232,202,162,164,209,286"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 82
@@ -4362,6 +4552,8 @@
     description: 為了打開局面，我們決定延伸戰線包圍目標。但此地密集的敵軍炮火，卻宛如連綿不絕的雷聲迴盪在戰場上空。
     difficulty: 14500
     area_mission_id: 901422
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 831
@@ -4383,7 +4575,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "113,168,260,284,317,329"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: network
     theater_id: 83
@@ -4391,6 +4583,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 13000
     area_mission_id: 901431
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 832
@@ -4413,7 +4607,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "113,168,260,284,317,329"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: iron
     theater_id: 83
@@ -4421,6 +4615,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 16000
     area_mission_id: 901431
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 833
@@ -4444,7 +4640,7 @@
     boss: 700007-0
     occupied_boss_score: 60
     score_limit: 3493
-    advantage_gun: "113,168,260,284,317,329"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: network
     theater_id: 83
@@ -4452,6 +4648,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 20000
     area_mission_id: 901431
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 834
@@ -4475,7 +4673,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "327,27,176,335,330,349"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: iron
     theater_id: 83
@@ -4483,6 +4681,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 22000
     area_mission_id: 901432
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 835
@@ -4504,7 +4704,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "327,27,176,335,330,349"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: iron
     theater_id: 83
@@ -4512,6 +4712,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 26000
     area_mission_id: 901432
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 836
@@ -4536,7 +4738,7 @@
     boss: 700003-1
     occupied_boss_score: 60
     score_limit: 5329
-    advantage_gun: "327,27,176,335,330,349"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: network
     theater_id: 83
@@ -4544,6 +4746,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 27500
     area_mission_id: 901432
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 837
@@ -4565,7 +4769,7 @@
     occupied_enemy_lv: "-11,-11,-10,-10,-10,-9,-9,-9,-8,-8"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "325,326,162,319,85,264"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: iron
     theater_id: 83
@@ -4573,6 +4777,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 29000
     area_mission_id: 901433
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 838
@@ -4596,7 +4802,7 @@
     boss: 700005-0
     occupied_boss_score: 60
     score_limit: 7322
-    advantage_gun: "325,326,162,319,85,264"
+    advantage_gun: "62,27,73,71,36,166,20071"
     material_item: 47
     battle_background: network
     theater_id: 83
@@ -4604,6 +4810,8 @@
     description: 作戰終於來到了收尾階段，但這最後的一步卻也是最艱難的一步。贏得勝利或是跌落地獄，一切都取決於我們接下來的行動。
     difficulty: 31000
     area_mission_id: 901433
+    advantage_skill: "77703801,77703901"
+    advantage_desc: 突擊步槍：提升10%傷害；衝鋒槍：提升10%迴避；所有槍種開局均獲得100點護盾
   }
   {
     id: 841
@@ -4625,7 +4833,7 @@
     occupied_enemy_lv: "-22,-22,-22,-21,-21,-21,-21,0,0,0"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "157,324,164,173,238,263"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 84
@@ -4633,6 +4841,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 2400
     area_mission_id: 901441
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 842
@@ -4655,7 +4865,7 @@
     occupied_enemy_lv: "-27,-27,-27,-26,-26,-26,-26,0,0,0"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "157,324,164,173,238,263"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: snowland
     theater_id: 84
@@ -4663,6 +4873,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 4800
     area_mission_id: 901441
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 843
@@ -4687,7 +4899,7 @@
     boss: 700002-0
     occupied_boss_score: 60
     score_limit: 6550
-    advantage_gun: "157,324,164,173,238,263"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 84
@@ -4695,6 +4907,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 6400
     area_mission_id: 901441
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 844
@@ -4717,7 +4931,7 @@
     occupied_enemy_lv: "-32,-32,-32,-31,-31,-31,-31,0,0,0"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "299,278,190,84,80,300"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: snowland
     theater_id: 84
@@ -4725,6 +4939,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 14000
     area_mission_id: 901442
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 845
@@ -4747,7 +4963,7 @@
     occupied_enemy_lv: "-32,-32,-32,-31,-31,-31,-31,0,0,0"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "299,278,190,84,80,300"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: snowland
     theater_id: 84
@@ -4755,6 +4971,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 25000
     area_mission_id: 901442
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 846
@@ -4778,7 +4996,7 @@
     boss: 700001-0
     occupied_boss_score: 60
     score_limit: 11380
-    advantage_gun: "299,278,190,84,80,300"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 84
@@ -4786,6 +5004,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 28000
     area_mission_id: 901442
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 847
@@ -4808,7 +5028,7 @@
     occupied_enemy_lv: "-32,-32,-32,-31,-31,-31,-31,0,0,0"
     occupied_enemy_score: "0,0,0,0,0,0,0,0,0,0"
     occupied_boss_score: 60
-    advantage_gun: "336,328,203,330,349,187"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: snowland
     theater_id: 84
@@ -4816,6 +5036,8 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 30000
     area_mission_id: 901443
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
   {
     id: 848
@@ -4839,7 +5061,7 @@
     boss: 700004-1
     occupied_boss_score: 100
     score_limit: 16142
-    advantage_gun: "336,328,203,330,349,187"
+    advantage_gun: "166,160,119,73,36,27"
     material_item: 47
     battle_background: network
     theater_id: 84
@@ -4847,5 +5069,7 @@
     description: 攻破了外圍的堅強防禦只是開始，我們將要深入山谷內部消滅盤據於此的敵軍。堅持到最後一秒的人，方能取得最後的勝利。
     difficulty: 34000
     area_mission_id: 901443
+    advantage_skill: "77703901"
+    advantage_desc: 開局獲得100點護盾
   }
 ]

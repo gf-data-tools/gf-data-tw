@@ -2725,7 +2725,7 @@ live2d_motions-10740707,交互4
 live2d_motions-10740708,交互5
 live2d_motions-10740709,交互6
 live2d_motions-10740710,結契後交互
-live2d_motions-10740711,結契動作
+live2d_motions-10740711,结契动作
 live2d_motions-10740712,晃動響應
 live2d_motions-10740713,上線響應
 live2d_motions-10740714,待機

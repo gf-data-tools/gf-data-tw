@@ -1,0 +1,32 @@
+[
+  {
+    id: 1
+    name: 增益類
+    en_name: Support
+  }
+  {
+    id: 2
+    name: 屬性類
+    en_name: Buff
+  }
+  {
+    id: 3
+    name: 防禦類
+    en_name: Defense
+  }
+  {
+    id: 4
+    name: 狂暴類
+    en_name: Rampage
+  }
+  {
+    id: 5
+    name: 增援類
+    en_name: Reinforce
+  }
+  {
+    id: 6
+    name: 戰役類
+    en_name: Battle
+  }
+]
