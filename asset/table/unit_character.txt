@@ -234,6 +234,8 @@ unit_character-10000446,披薩標記
 unit_character-20000446,攻擊標記敵人，累積三個觸發額外傷害並提升自身傷害
 unit_character-10000447,雪人出擊
 unit_character-20000447,受到4次雪人的攻擊的單位會被標記一個編制，所有編制都被標記時，凍結（眩暈）該單位並造成額外傷害
+unit_character-10000448,機械之心
+unit_character-20000448,輔助機械單位作戰
 unit_character-10001001,精英
 unit_character-20001001,在所屬勢力中能力突出的存在
 unit_character-10001002,格里芬精英

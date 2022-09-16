@@ -253,3 +253,15 @@ mission_targettrain_enemy-30002414,I 颶風：蛻骨
 mission_targettrain_enemy-10002415,II 颶風：枯蛺
 mission_targettrain_enemy-20002415,【靶機專訓】通過【靜風點】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
 mission_targettrain_enemy-30002415,II 颶風：枯蛺
+mission_targettrain_enemy-10002416,01：應變-逆罪者
+mission_targettrain_enemy-20002416,【靶機專訓】透過【縱向應變】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+mission_targettrain_enemy-30002416,01：應變-逆罪者
+mission_targettrain_enemy-10002417,02：應變-血誓者
+mission_targettrain_enemy-20002417,【靶機專訓】透過【縱向應變】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+mission_targettrain_enemy-30002417,02：應變-血誓者
+mission_targettrain_enemy-10002418,03：應變-暗哮
+mission_targettrain_enemy-20002418,【靶機專訓】透過【縱向應變】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+mission_targettrain_enemy-30002418,03：應變-暗哮
+mission_targettrain_enemy-10002419,04：應變-逆輝
+mission_targettrain_enemy-20002419,【靶機專訓】透過【縱向應變】中獲得的訊息，模擬了其中較為強大單位，便於指揮官們做好完全的準備。開放期間會記錄大家的挑戰時間和對應的挑戰數據，便於指揮官互相學習。
+mission_targettrain_enemy-30002419,04：應變-逆輝

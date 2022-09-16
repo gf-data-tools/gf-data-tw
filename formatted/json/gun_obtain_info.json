@@ -582,6 +582,24 @@
         "goto_page_id": "0"
     },
     {
+        "obtain_id": "251",
+        "description": "gun_obtain-10000251",
+        "detail": "0",
+        "goto_page_id": "0"
+    },
+    {
+        "obtain_id": "252",
+        "description": "gun_obtain-10000252",
+        "detail": "0",
+        "goto_page_id": "0"
+    },
+    {
+        "obtain_id": "253",
+        "description": "gun_obtain-10000253",
+        "detail": "0",
+        "goto_page_id": "0"
+    },
+    {
         "obtain_id": "301",
         "description": "作戰綱領【金色月夕】獎勵",
         "detail": "0",
@@ -788,6 +806,12 @@
     {
         "obtain_id": "513",
         "description": "限時活動【靜風點】積分模式獎勵",
+        "detail": "0",
+        "goto_page_id": "0"
+    },
+    {
+        "obtain_id": "514",
+        "description": "限時活動【縱向應變】積分模式獎勵",
         "detail": "0",
         "goto_page_id": "0"
     },
@@ -1622,6 +1646,12 @@
     {
         "obtain_id": "3078",
         "description": "限時活動<萊肯禁獵區>代幣兌換",
+        "detail": "0",
+        "goto_page_id": "0"
+    },
+    {
+        "obtain_id": "3079",
+        "description": "gun_obtain-10003079",
         "detail": "0",
         "goto_page_id": "0"
     }

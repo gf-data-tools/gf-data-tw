@@ -2229,7 +2229,7 @@
     code: 配件_光学瞄准镜_AK
     develop_duration: 2700
     company: KST
-    fit_guns: "58,66"
+    fit_guns: "58,66,20066"
     equip_introduction: 戰前由KSTSP生產的光學瞄具，配備專為AK系武器設計的轉接支架，精准無比，直到今天仍是AK系武器最好的選擇。
     powerup_mp: 0.45
     powerup_ammo: 0.15
@@ -2262,7 +2262,7 @@
     code: 配件_光学瞄准镜_AK
     develop_duration: 2700
     company: KST
-    fit_guns: "58,66"
+    fit_guns: "58,66,20066"
     equip_introduction: 戰前由KST精密光學生產的光學瞄具，配備專為AK系武器設計的轉接支架，精巧耐用，直到今天仍是AK系武器優秀的選擇。
     powerup_mp: 0.45
     powerup_ammo: 0.15
@@ -2295,7 +2295,7 @@
     code: 配件_光学瞄准镜_AK
     develop_duration: 2700
     company: KST
-    fit_guns: "58,66"
+    fit_guns: "58,66,20066"
     equip_introduction: 戰前由KST生產的光學瞄具，配備了專為AK系武器設計的轉接支架，直到今天仍是AK系武器不錯的選擇。
     powerup_mp: 0.45
     powerup_ammo: 0.15
@@ -2947,7 +2947,7 @@
     code: 配件_光学瞄准镜_Kar98k
     develop_duration: 3600
     company: S&B
-    fit_guns: "46"
+    fit_guns: "46,20046"
     equip_introduction: 昂貴的德國光學器材一直是狙擊手和攝影師的終極選擇，尖端的瞄具讓跨過130年戰場的她更加從容，Kar98K專用。
     powerup_mp: 0.45
     powerup_ammo: 0.15
@@ -4716,7 +4716,7 @@
     code: 配件_光瞄_lee
     develop_duration: 3600
     company: VKS
-    fit_guns: "50"
+    fit_guns: "50,20050"
     equip_introduction: 上世紀大戰早期，專為李恩菲爾德no4 MKI(T)狙擊步槍生產的光學瞄具，配有華麗的黃銅套筒，略微昏暗的鏡片見證了無數生命的消逝，李恩菲爾德專用。
     powerup_mp: 0.45
     powerup_ammo: 0.15
@@ -9288,5 +9288,171 @@
     is_show: 1
     obtain_ids: "3072"
     sp_description: equip-40000295
+  }
+  {
+    id: 296
+    name: 92式信號槍
+    description:
+      '''
+      命中+<hit>
+      梯隊命中+10%$92式專用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    hit: "6,10"
+    skill_effect: 150
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: 弹匣_特殊_92type
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "13,20013"
+    equip_introduction: 92式專用的信號槍，是一款出名信號槍的復刻品，經過IOP改良後提升了可靠性。
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3.0
+    bonus_type: hit:1000
+    passive_skill: "300903"
+    max_level: 10
+    auto_select_id: 19043
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: 梯隊命中+10%
+  }
+  {
+    id: 297
+    name: 皇家衛隊制服
+    description:
+      '''
+      暴擊傷害+<critical_harm_rate><%>
+      迴避<dodge>$Kar98k專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "-4,-1"
+    critical_harm_rate: "25,30"
+    retire_mp: 4
+    retire_mre: 5
+    code: 人形_特殊_98K
+    develop_duration: 3360
+    company: IOP
+    fit_guns: "46,20046"
+    equip_introduction: 以Kar98k的印象制作的服飾，精致的外觀之下是結合了最新防彈技術的材料，同時擁有狙擊人形所需的其他功能。
+    powerup_mp: 0.55
+    powerup_ammo: 0.16
+    powerup_mre: 0.6
+    powerup_part: 0.16
+    exclusive_rate: 3.0
+    bonus_type: critical_harm_rate:600
+    max_level: 10
+    auto_select_id: 20049
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: equip-40000297
+  }
+  {
+    id: 298
+    name: L42試驗穿甲彈
+    description:
+      '''
+      穿甲+<armor_piercing>
+      傷害+<pow>$李-恩菲爾德專用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "2,4"
+    armor_piercing: "195,200"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: 弹匣_特殊_MLEMK1
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "50,20050"
+    equip_introduction: 由IOP為李-恩菲爾德單獨開發的特殊穿甲彈，結合了脫殼穿甲彈的技術，使其破壞力有了極大的提升。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3.0
+    bonus_type: armor_piercing:250,pow:1000
+    max_level: 10
+    auto_select_id: 19044
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: equip-40000298
+  }
+  {
+    id: 299
+    name: RS晶片
+    description:
+      '''
+      傷害+<pow> 射速+<rate>
+      暴擊傷害<critical_harm_rate><%>$56-1式專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "6,10"
+    rate: "3,5"
+    critical_harm_rate: "-10,-10"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: 人形_特殊_56-1type
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "66,20066"
+    equip_introduction: 56-1式專用的晶片，能夠有效提升56-1式的戰鬥性能。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3.0
+    bonus_type: pow:500,rate:1000
+    max_level: 10
+    auto_select_id: 20050
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: equip-40000299
+  }
+  {
+    id: 300
+    name: 12x56CBX倍鏡
+    description:
+      '''
+      暴擊機率+<critical_percent><%>
+      傷害+<pow>$QBU-88專用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "5,5"
+    critical_percent: "24,24"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_QBU88
+    develop_duration: 2700
+    company: KAH
+    fit_guns: "261"
+    equip_introduction: QBU-88專用版的KAH制3-12x56高倍鏡，比原配的瞄準鏡擁有更高的可靠性。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3.0
+    bonus_type: critical_percent:1000,pow:1000
+    max_level: 10
+    auto_select_id: 18102
+    is_show: 1
+    obtain_ids: "3079"
+    sp_description: equip-40000300
   }
 ]

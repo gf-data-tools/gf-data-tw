@@ -392,6 +392,18 @@
     description: 限時活動【靜風點】中打開物資箱獲得
   }
   {
+    obtain_id: "251"
+    description: gun_obtain-10000251
+  }
+  {
+    obtain_id: "252"
+    description: gun_obtain-10000252
+  }
+  {
+    obtain_id: "253"
+    description: gun_obtain-10000253
+  }
+  {
     obtain_id: "301"
     description: 作戰綱領【金色月夕】獎勵
   }
@@ -530,6 +542,10 @@
   {
     obtain_id: "513"
     description: 限時活動【靜風點】積分模式獎勵
+  }
+  {
+    obtain_id: "514"
+    description: 限時活動【縱向應變】積分模式獎勵
   }
   {
     obtain_id: "1701"
@@ -1090,5 +1106,9 @@
   {
     obtain_id: "3078"
     description: 限時活動<萊肯禁獵區>代幣兌換
+  }
+  {
+    obtain_id: "3079"
+    description: gun_obtain-10003079
   }
 ]

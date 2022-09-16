@@ -154,3 +154,11 @@ commander_class-10000047,星域漫步
 commander_class-20000047,漂泊在浩瀚宇宙，被繁密的群星凝視，除了供氧裝置的呼吸之聲，萬籟俱寂……我們將止步於此嗎？不，遠方一定還有未曾窺見的絕景，懷抱勇氣，向著未知——前進四！
 commander_class-30000047,2022
 commander_class-40000047,
+commander_class-10000048,像素墨鏡
+commander_class-20000048,當你立於人類巔峰之時，它便降臨，成為你加冕終極怪客的證明。
+commander_class-30000048,2022
+commander_class-40000048,縱向應變活動排名獎勵
+commander_class-10000049,青春脈搏
+commander_class-20000049,迎著晨間涼爽的微風，踏著斜照在大地的陽光，揮灑汗水，與朝露為伴。
+commander_class-30000049,2022
+commander_class-40000049,

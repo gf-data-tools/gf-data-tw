@@ -4,10 +4,8 @@ local _Friend = function(self,...)
 	local length = select('#', ...);
 	if length == 2 then
 		local jsondata = select(1, ...);
-		if jsondata ~= nil then
-			local frameId = jsondata:GetValue("frame_id").String;
-			self.headFrameId = tonumber(frameId);
-		end
+		local frameId = jsondata:GetValue("frame_id").String;
+		self.headFrameId = tonumber(frameId);
 	end
 end
 
