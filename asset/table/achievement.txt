@@ -3031,3 +3031,12 @@ achievement-30001018,
 achievement-10001019,妖精全球生產網路
 achievement-20001019,累計進行5000次妖精重型製造。
 achievement-30001019,
+achievement-10001030,瑪姬的鑰匙
+achievement-20001030,縱向應變-第九交響曲-UX：瑪姬在二級平層中通過控制台獲得3次帕拉蒂斯的情報。
+achievement-30001030,
+achievement-10001031,機芯中的宇宙
+achievement-20001031,縱向應變-1812序曲：發現柳德米拉的手錶。
+achievement-30001031,
+achievement-10001032,始於終點站
+achievement-20001032,完整瀏覽縱向應變製作人員名單。
+achievement-30001032,

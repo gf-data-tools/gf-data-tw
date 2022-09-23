@@ -5590,6 +5590,7 @@ SQUAD,190271,选择消耗芯片星级(todo),,0
 SQUAD,190272,回收人质(todo),,0
 SQUAD,190273,点击后进行经验训练(todo),,0
 SQUAD,190274,点击后进行技能训练(todo),,0
+SQUAD,190275,可迭代(todo),,0
 TOAST,200000,Formation has been preset,,0
 TOAST,200001,No available Fairies,,0
 TOAST,200002,Clear {0} different stages to unlock <color=#ffb400>Fairies</color>. Current clears {1}/{2},,0

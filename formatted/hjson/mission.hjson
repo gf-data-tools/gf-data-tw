@@ -5725,6 +5725,94 @@
     mission_tip: mission-40001738
   }
   {
+    id: 1739
+    duplicate_type: 8
+    campaign: 6
+    sub: 39
+    if_emergency: 2
+    name: mission-10001739
+    difficulty: 28000
+    type: "3"
+    enemy_ai_type: 2
+    turn_duration: 360000000
+    coin_ap: 5
+    map_res_name: Moni1_Y
+    map_information: "3300,3300|3021,1883|-182,-733"
+    mission_describe: mission-20001739
+    round_config: 1:1,2:2,3:3
+    limit_squad: 4
+    difficulty_recommend: 28000;99
+    difficulty_recommend_addendum: mission-30001739
+    limit_sangvis: 1
+    mission_tip: mission-40001739
+  }
+  {
+    id: 1740
+    duplicate_type: 8
+    campaign: 6
+    sub: 40
+    if_emergency: 2
+    name: mission-10001740
+    difficulty: 28000
+    type: "3"
+    enemy_ai_type: 2
+    turn_duration: 360000000
+    coin_ap: 5
+    map_res_name: Moni1_Y
+    map_information: "3300,3300|3021,1883|-182,-733"
+    mission_describe: mission-20001740
+    round_config: 1:1,2:2,3:3
+    limit_squad: 4
+    difficulty_recommend: 28000;99
+    difficulty_recommend_addendum: mission-30001740
+    limit_sangvis: 1
+    mission_tip: mission-40001740
+  }
+  {
+    id: 1741
+    duplicate_type: 8
+    campaign: 6
+    sub: 41
+    if_emergency: 2
+    name: mission-10001741
+    difficulty: 28000
+    type: "3"
+    enemy_ai_type: 2
+    turn_duration: 360000000
+    coin_ap: 5
+    map_res_name: Moni1_Y
+    map_information: "3300,3300|3021,1883|-182,-733"
+    mission_describe: mission-20001741
+    round_config: 1:1,2:2,3:3
+    limit_squad: 4
+    difficulty_recommend: 28000;99
+    difficulty_recommend_addendum: mission-30001741
+    limit_sangvis: 1
+    mission_tip: mission-40001741
+  }
+  {
+    id: 1742
+    duplicate_type: 8
+    campaign: 6
+    sub: 42
+    if_emergency: 2
+    name: mission-10001742
+    difficulty: 28000
+    type: "3"
+    enemy_ai_type: 2
+    turn_duration: 360000000
+    coin_ap: 5
+    map_res_name: Moni1_Y
+    map_information: "3300,3300|3021,1883|-182,-733"
+    mission_describe: mission-20001742
+    round_config: 1:1,2:2,3:3
+    limit_squad: 4
+    difficulty_recommend: 28000;99
+    difficulty_recommend_addendum: mission-30001742
+    limit_sangvis: 1
+    mission_tip: mission-40001742
+  }
+  {
     id: 10001
     campaign: -1
     sub: 1
@@ -16068,7 +16156,7 @@
     difficulty_recommend_addendum: mission-30010342
     limit_sangvis: 4
     mission_tip: mission-40010342
-    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0
+    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0,
   }
   {
     id: 10343
@@ -16907,7 +16995,7 @@
     difficulty_recommend_addendum: mission-30010365
     limit_sangvis: 4
     mission_tip: mission-40010365
-    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0
+    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0,
   }
   {
     id: 10366
@@ -18572,7 +18660,7 @@
     difficulty_recommend_addendum: mission-30010417
     limit_sangvis: 4
     mission_tip: 推薦編隊類型：夜戰特化編隊，爆發狙擊編隊，廣域攻擊編隊
-    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,0,10,0
+    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,0,10,0,
   }
   {
     id: 10418
@@ -18606,7 +18694,7 @@
     difficulty_recommend_addendum: mission-30010418
     limit_sangvis: 4
     mission_tip: mission-40010418
-    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,363081:1:15000;363082:1:15000;363083:1:15000;363084:1:15000;363085:1:15000;363086:1:15000;363087:1:15000;363088:1:15000;363089:1:15000,10,0
+    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,363081:1:15000;363082:1:15000;363083:1:15000;363084:1:15000;363085:1:15000;363086:1:15000;363087:1:15000;363088:1:15000;363089:1:15000,10,0,
   }
   {
     id: 10419
@@ -21632,7 +21720,7 @@
     difficulty_recommend: 35000;99
     difficulty_recommend_addendum: mission-30010520
     mission_tip: mission-40010520
-    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0
+    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0,
   }
   {
     id: 10521
@@ -21666,7 +21754,7 @@
     difficulty_recommend_addendum: mission-30010521
     limit_sangvis: -1
     mission_tip: mission-40010521
-    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0
+    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0,
   }
   {
     id: 10522
@@ -21699,7 +21787,7 @@
     difficulty_recommend_addendum: mission-30010522
     limit_sangvis: -1
     mission_tip: mission-40010522
-    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0
+    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0,
   }
   {
     id: 10523
@@ -26138,7 +26226,7 @@
     difficulty_recommend_addendum: mission-30010674
     limit_sangvis: -1
     mission_tip: mission-40010674
-    event_score: 1|10,2000,1500,1000,200,50000,5000,10000,4000,5000,2000,10000,1:0;2:0;3:0;5:0;6:0;7:0,0,10,0
+    event_score: 1|10,2000,1500,1000,200,50000,5000,10000,4000,5000,2000,10000,1:0;2:0;3:0;5:0;6:0;7:0,0,10,0,
     score_prize: 1|110039:1
   }
   {
@@ -26169,7 +26257,7 @@
     difficulty_recommend: 45000;99
     difficulty_recommend_addendum: mission-30010675
     mission_tip: mission-40010675
-    event_score: 1|10,2000,1500,1000,200,50000,5000,50000,4000,5000,2000,10000,1:0;2:0;3:0;5:0;6:0;7:0,44440011:1:100000;44440010:1:100000;44440012:1:100000;44440013:1:100000,10,0
+    event_score: 1|10,2000,1500,1000,200,50000,5000,50000,4000,5000,2000,10000,1:0;2:0;3:0;5:0;6:0;7:0,44440011:1:100000;44440010:1:100000;44440012:1:100000;44440013:1:100000,10,0,
     score_prize: 1|110039:1
   }
   {
@@ -28660,7 +28748,7 @@
     difficulty_recommend_addendum: mission-30010766
     limit_sangvis: -1
     mission_tip: mission-40010766
-    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,0,0,0
+    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,0,0,0,
     score_prize: 1|110041:1
   }
   {
@@ -29654,7 +29742,7 @@
     difficulty_recommend: 34000;99
     difficulty_recommend_addendum: mission-30010800
     mission_tip: mission-40010800
-    event_score: 1|10,2000,1500,1000,200,0,5000,10000,4000,5000,2000,10000,1:10000;2:0;3:5000;5:0;6:0;7:7500,0,10,0,5000,5000,480101:20000;480102:10000;480103:10000;480141:10000;480142:10000;480143:10000;480144:10000;480145:10000;480146:10000;480147:10000;480151:20000;480152:20000;480153:20000;480154:20000;480155:20000;480156:20000;480157:20000;480122:5000;480131:5000;480132:6000;480133:7000;480134:8000;480135:9000;480136:10000
+    event_score: 1|10,2000,1500,1000,200,0,5000,10000,4000,5000,2000,10000,1:10000;2:0;3:5000;5:0;6:0;7:7500,0,10,0,5000,5000,480101:20000;480102:10000;480103:10000;480141:10000;480142:10000;480143:10000;480144:10000;480145:10000;480146:10000;480147:10000;480151:20000;480152:20000;480153:20000;480154:20000;480155:20000;480156:20000;480157:20000;480122:5000;480131:5000;480132:6000;480133:7000;480134:8000;480135:9000;480136:10000,
     score_prize: 1|110043:1
   }
   {
@@ -35377,7 +35465,7 @@
     difficulty_recommend_addendum: mission-30011002
     limit_sangvis: 6
     mission_tip: mission-40011002
-    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510017:10000;6510018:10000
+    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510017:10000;6510018:10000,
     score_prize: 1|110046:1
   }
   {
@@ -35412,7 +35500,7 @@
     difficulty_recommend_addendum: mission-30011003
     limit_sangvis: -1
     mission_tip: mission-40011003
-    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510023:10000;6510024:10000
+    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510023:10000;6510024:10000,
     score_prize: 1|110046:1
   }
   {
@@ -35448,7 +35536,7 @@
     difficulty_recommend_addendum: mission-30011004
     limit_sangvis: 6
     mission_tip: mission-40011004
-    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510023:10000;6510024:10000
+    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510023:10000;6510024:10000,
     score_prize: 1|110046:1
   }
   {
@@ -35480,7 +35568,7 @@
     difficulty_recommend_addendum: mission-30011005
     limit_sangvis: -1
     mission_tip: mission-40011005
-    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510026:10000;6510027:10000;6510028:10000;6510029:20000;6510030:20000;6510041:10000;6510042:10000;6510043:10000;6510044:20000;6510045:20000;6510046:2000;6510047:5000;6510048:3000;6510049:5000;6510050:10000;6510071:2000;6510072:3000;6510073:3000;6510074:5000;6510075:5000;6510087:10000
+    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510026:10000;6510027:10000;6510028:10000;6510029:20000;6510030:20000;6510041:10000;6510042:10000;6510043:10000;6510044:20000;6510045:20000;6510046:2000;6510047:5000;6510048:3000;6510049:5000;6510050:10000;6510071:2000;6510072:3000;6510073:3000;6510074:5000;6510075:5000;6510087:10000,
     score_prize: 1|110046:1
   }
   {
@@ -35512,7 +35600,7 @@
     difficulty_recommend_addendum: mission-30011006
     limit_sangvis: -1
     mission_tip: mission-40011006
-    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510026:10000;6510027:10000;6510028:10000;6510029:20000;6510030:20000;6510041:10000;6510042:10000;6510043:10000;6510044:20000;6510045:20000;6510046:2000;6510047:5000;6510048:3000;6510049:5000;6510050:10000;6510071:2000;6510072:3000;6510073:3000;6510074:5000;6510075:5000;6510087:10000
+    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510026:10000;6510027:10000;6510028:10000;6510029:20000;6510030:20000;6510041:10000;6510042:10000;6510043:10000;6510044:20000;6510045:20000;6510046:2000;6510047:5000;6510048:3000;6510049:5000;6510050:10000;6510071:2000;6510072:3000;6510073:3000;6510074:5000;6510075:5000;6510087:10000,
     score_prize: 1|110046:1
   }
   {
@@ -35544,7 +35632,7 @@
     difficulty_recommend_addendum: mission-30011007
     limit_sangvis: -1
     mission_tip: mission-40011007
-    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510026:10000;6510027:10000;6510028:10000;6510029:20000;6510030:20000;6510041:10000;6510042:10000;6510043:10000;6510044:20000;6510045:20000;6510046:2000;6510047:5000;6510048:3000;6510049:5000;6510050:10000;6510071:2000;6510072:3000;6510073:3000;6510074:5000;6510075:5000;6510087:10000
+    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510026:10000;6510027:10000;6510028:10000;6510029:20000;6510030:20000;6510041:10000;6510042:10000;6510043:10000;6510044:20000;6510045:20000;6510046:2000;6510047:5000;6510048:3000;6510049:5000;6510050:10000;6510071:2000;6510072:3000;6510073:3000;6510074:5000;6510075:5000;6510087:10000,
     score_prize: 1|110046:1
   }
   {
@@ -35576,7 +35664,7 @@
     difficulty_recommend_addendum: mission-30011008
     limit_sangvis: -1
     mission_tip: mission-40011008
-    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510026:10000;6510027:10000;6510028:10000;6510029:20000;6510030:20000;6510041:10000;6510042:10000;6510043:10000;6510044:20000;6510045:20000;6510046:2000;6510047:5000;6510048:3000;6510049:5000;6510050:10000;6510071:2000;6510072:3000;6510073:3000;6510074:5000;6510075:5000;6510089:20000
+    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510026:10000;6510027:10000;6510028:10000;6510029:20000;6510030:20000;6510041:10000;6510042:10000;6510043:10000;6510044:20000;6510045:20000;6510046:2000;6510047:5000;6510048:3000;6510049:5000;6510050:10000;6510071:2000;6510072:3000;6510073:3000;6510074:5000;6510075:5000;6510089:20000,
     score_prize: 1|110046:1
   }
   {
@@ -35608,7 +35696,7 @@
     difficulty_recommend_addendum: mission-30011009
     limit_sangvis: 6
     mission_tip: mission-40011009
-    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000;6510023:1:10000;6510024:1:10000;6510025:1:10000,10,0,1000,5000,6510031:10000;6510032:10000;6510033:20000;6510034:10000;6510035:10000;6510036:10000;6510037:10000;6510038:20000;6510039:20000;6510040:20000;6510051:2000;6510052:4000;6510053:4000;6510054:4000;6510055:6000;6510056:6000;6510057:6000;6510065:2000;6510066:4000;6510067:6000;6510089:20000
+    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000;6510023:1:10000;6510024:1:10000;6510025:1:10000,10,0,1000,5000,6510031:10000;6510032:10000;6510033:20000;6510034:10000;6510035:10000;6510036:10000;6510037:10000;6510038:20000;6510039:20000;6510040:20000;6510051:2000;6510052:4000;6510053:4000;6510054:4000;6510055:6000;6510056:6000;6510057:6000;6510065:2000;6510066:4000;6510067:6000;6510089:20000,
     score_prize: 1|110046:1
   }
   {
@@ -35640,7 +35728,7 @@
     difficulty_recommend_addendum: mission-30011010
     limit_sangvis: 8
     mission_tip: mission-40011010
-    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510031:10000;6510032:10000;6510033:20000;6510034:10000;6510035:10000;6510036:10000;6510037:10000;6510038:20000;6510039:20000;6510040:20000;6510051:2000;6510052:4000;6510053:4000;6510054:4000;6510055:6000;6510056:6000;6510057:6000;6510065:2000;6510066:4000;6510067:6000;6510087:10000
+    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510031:10000;6510032:10000;6510033:20000;6510034:10000;6510035:10000;6510036:10000;6510037:10000;6510038:20000;6510039:20000;6510040:20000;6510051:2000;6510052:4000;6510053:4000;6510054:4000;6510055:6000;6510056:6000;6510057:6000;6510065:2000;6510066:4000;6510067:6000;6510087:10000,
     score_prize: 1|110046:1
   }
   {
@@ -36018,7 +36106,7 @@
     difficulty_recommend_addendum: mission-30011022
     limit_sangvis: 2
     mission_tip: mission-40011022
-    event_score: 0|999999,0,0,0,0,0,0,0,0,0,0,0,0,0,999999,0,0,0,6510187:1000000
+    event_score: 0|999999,0,0,0,0,0,0,0,0,0,0,0,0,0,999999,0,0,0,6510187:1000000,
     lose_type: "1102291"
     environment_transform_config: "1102201"
   }
@@ -36386,7 +36474,7 @@
     difficulty_recommend_addendum: mission-30011033
     limit_sangvis: 2
     mission_tip: mission-40011033
-    event_score: 0|999999,0,0,0,0,0,0,0,0,0,0,0,0,0,999999,0,0,0,6510187:1000000
+    event_score: 0|999999,0,0,0,0,0,0,0,0,0,0,0,0,0,999999,0,0,0,6510187:1000000,
     lose_type: "1103391"
     environment_transform_config: "1103301"
   }
@@ -36720,7 +36808,7 @@
     difficulty_recommend_addendum: mission-30011043
     limit_sangvis: 2
     mission_tip: mission-40011043
-    event_score: 0|999999,0,0,0,0,0,0,0,0,0,0,0,0,0,999999,0,0,0,6510187:1000000
+    event_score: 0|999999,0,0,0,0,0,0,0,0,0,0,0,0,0,999999,0,0,0,6510187:1000000,
     lose_type: "1104391"
     environment_transform_config: "1104301"
   }
@@ -38309,7 +38397,7 @@
     difficulty_recommend_addendum: mission-30011101
     limit_sangvis: 1
     mission_tip: mission-40011101
-    event_score: 1|10,0,0,0,0,0,0,0,0,0,0,0,1:0;2:0;3:0;5:0;6:0;7:0,,10,0,0,0,6520016:10000;6520017:-5000;6520018:5000;6520019:-10000
+    event_score: 1|10,0,0,0,0,0,0,0,0,0,0,0,1:0;2:0;3:0;5:0;6:0;7:0,,10,0,0,0,6520016:10000;6520017:-5000;6520018:5000;6520019:-10000,
     score_prize: 1|9013:0.001,9014:0.001
     environment_transform_config: 1110101;1110102
   }
@@ -38344,7 +38432,7 @@
     difficulty_recommend_addendum: mission-30011102
     limit_sangvis: 2
     mission_tip: mission-40011102
-    event_score: 1|10,0,0,0,0,0,0,0,0,0,0,0,1:0;2:0;3:0;5:0;6:0;7:0,,10,0,0,0,6520016:10000;6520017:-5000;6520018:5000;6520019:-10000
+    event_score: 1|10,0,0,0,0,0,0,0,0,0,0,0,1:0;2:0;3:0;5:0;6:0;7:0,,10,0,0,0,6520016:10000;6520017:-5000;6520018:5000;6520019:-10000,
     score_prize: 1|9013:0.001,9014:0.001
     environment_transform_config: 1110201;1110202
   }
@@ -38801,8 +38889,3432 @@
     difficulty_recommend_addendum: mission-30011116
     limit_sangvis: 4
     mission_tip: mission-40011116
-    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,94040967:1:20000;94040968:1:20000;94040969:1:20000,0,0,0,0,94040905:20000;94040902:30000;94040901:10000
+    event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,94040967:1:20000;94040968:1:20000;94040969:1:20000,0,0,0,0,94040905:20000;94040902:30000;94040901:10000,
     score_prize: 1|110050:1
+  }
+  {
+    id: 11117
+    campaign: -54
+    sub: 2
+    if_emergency: -1
+    special_type: 1
+    name: 死亡賦格
+    difficulty: 34000
+    exp_parameter: 55
+    type: "3"
+    enemy_ai_type: 3
+    expect_enemy_die_num: 1
+    expect_gun_die_num: 99
+    expect_turn: 5
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "374,373,371,192,274,342,344,308,321"
+    limit_team: "8,8*"
+    map_res_name: OPS5_Y
+    map_information: "10000,10000|10000,10000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1111700:1;0,0,1111700:1"
+    mission_group_id: 23
+    open_mission_keys: 1113300:1
+    mission_describe: mission-20011117
+    round_config: 1:22,2:4,3:3
+    limit_squad: 2
+    difficulty_recommend: 34000;120
+    difficulty_recommend_addendum: mission-30011117
+    limit_sangvis: 4
+    mission_tip: mission-40011117
+    win_step: 1111701|1111711|1111702|1111703|1111704|1111705
+    event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,4000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6540001:1:10000;6540002:1:10000;6540003:1:10000;6540004:1:10000,10,,1000,5000,6540012:20000;6540013:20000;6540014:20000;6540015:20000;6540030:20000;6540031:20000;6540032:20000;6540033:20000;6540018:20000,
+    score_prize: 1|110053:1
+  }
+  {
+    id: 11118
+    campaign: -54
+    sub: 3
+    if_emergency: -1
+    endless_mode: 1
+    special_type: 1
+    name: 逃亡聖詠
+    difficulty: 42000
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 3
+    expect_enemy_die_num: 1
+    expect_gun_die_num: 99
+    expect_turn: 6
+    boss_team_id: "1"
+    turn_duration: 360000000
+    turn_limit: 5
+    limit_gun_pool: "374,373,371,192,274,342,344,308,321"
+    map_res_name: OPS5_Y
+    map_information: "10000,10000|10000,10000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1111800:1"
+    mission_group_id: 23
+    open_mission_keys: 1111700:1
+    mission_describe: mission-20011118
+    round_config: 1:22,2:5,3:3
+    win_type: "1111801"
+    difficulty_recommend: 42000;120
+    difficulty_recommend_addendum: mission-30011118
+    limit_sangvis: -1
+    mission_tip: mission-40011118
+    event_score: 1|10,10000,8000,5000,1000,80000,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6540005:1:10000;6540006:1:10000;6540007:1:10000;6540008:1:10000,20,6540134:1000;6540135:6000;6540136:24000;6540137:88000;6540138:1000;6540139:4500;6540140:12000;6540141:27500,1000,20000,6540038:60000;6540039:60000;6540040:60000;6540041:60000;6540042:60000;6540043:60000;6540044:60000;6540045:60000,6540000:1000;6540001:1000;6540002:1000;6540003:6000;6540004:6000;6540005:6000;6540006:24000;6540007:24000;6540008:24000;6540009:24000;6540010:88000;6540100:1000;6540101:1000;6540102:1000;6540103:4500;6540104:4500;6540105:4500;6540106:12000;6540107:12000;6540108:12000;6540109:12000;6540110:27500
+    score_prize: 1|110053:1
+    environment_transform_config: "1111801"
+  }
+  {
+    id: 11119
+    campaign: -54
+    sub: 4
+    if_emergency: -1
+    name: 3-α2 風沙星辰
+    difficulty: 1000
+    exp_parameter: 28
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 2
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS85_Y
+    map_information: "12000,12000|4000,3000|-500,-2000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "612"
+    drop_mission_key: "0,0,1111900:1"
+    mission_group_id: 23
+    open_mission_keys: 1116700:1
+    mission_describe: mission-20011119
+    round_config: 1:22,2:5,3:3
+    win_type: "3"
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011119
+    limit_sangvis: -1
+    mission_tip: mission-40011119
+    lose_type: "1111910"
+  }
+  {
+    id: 11120
+    campaign: -54
+    sub: 5
+    if_emergency: -1
+    name: 5-α6 恰空舞曲
+    difficulty: 4500
+    exp_parameter: 30
+    type: "3"
+    enemy_ai_type: 4
+    expect_gun_die_num: 3
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "308,321"
+    limit_team: "0,1"
+    map_res_name: OPS51_Y
+    map_information: "10000,10000|6000,6500|2300,-1000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "610"
+    drop_mission_key: "0,0,1112000:1"
+    mission_group_id: 23
+    open_mission_keys: 1117000:1
+    mission_describe: mission-20011120
+    round_config: 1:22,2:4,3:3
+    mapped_mission_id: 54001
+    win_type: "1112001"
+    difficulty_recommend: 4500;45
+    difficulty_recommend_addendum: mission-30011120
+    limit_sangvis: 1
+    mission_tip: 推薦編隊類型：爆發特化編隊
+    lose_type: "1112602"
+  }
+  {
+    id: 11121
+    campaign: -54
+    sub: 6
+    if_emergency: -1
+    name: 5-α8 斯特拉迪瓦里魔法
+    difficulty: 5500
+    exp_parameter: 33
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "371"
+    limit_team: "0,1"
+    map_res_name: OPS96_Y
+    map_information: "15000,15000|12000,4000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "613"
+    drop_mission_key: "0,0,1112100:1"
+    mission_group_id: 23
+    open_mission_keys: 1117100:1
+    mission_describe: mission-20011121
+    round_config: 1:21,2:20,3:3
+    mapped_mission_id: 54002
+    win_type: "1112101"
+    difficulty_recommend: 5500;55
+    difficulty_recommend_addendum: mission-30011121
+    mission_tip: 推薦編隊類型：能力均衡編隊
+  }
+  {
+    id: 11122
+    campaign: -54
+    sub: 7
+    if_emergency: -1
+    special_type: 1
+    name: 26 查拉圖斯特拉如是說
+    difficulty: 10000
+    exp_parameter: 40
+    type: "3"
+    enemy_ai_type: 3
+    expect_enemy_die_num: 3
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "192,274"
+    limit_team: "0,6"
+    map_res_name: OPS97_Y
+    map_information: "12000,12000|9500,8000|1200,1000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "617"
+    drop_mission_key: "0,0,1112200:1"
+    mission_group_id: 23
+    open_mission_keys: 1117500:1
+    mission_describe: mission-20011122
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54003
+    win_type: "1112201,1112802"
+    difficulty_recommend: 10000;75
+    difficulty_recommend_addendum: mission-30011122
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+  }
+  {
+    id: 11123
+    campaign: -54
+    sub: 8
+    if_emergency: -1
+    name: 5-α6 恰空舞曲-EX
+    difficulty: 14000
+    exp_parameter: 44
+    type: "3"
+    enemy_ai_type: 4
+    expect_gun_die_num: 3
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "308,321"
+    limit_team: "0,1"
+    map_res_name: OPS51_Y
+    map_information: "10000,10000|6000,6500|2300,-1000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "614"
+    drop_mission_key: "0,0,1112000:1|1112001:1"
+    mission_group_id: 23
+    open_mission_keys: 1117000:1
+    mission_describe: mission-20011123
+    round_config: 1:22,2:4,3:3
+    mapped_mission_id: 54001
+    win_type: "1112301"
+    difficulty_recommend: 14000;87
+    difficulty_recommend_addendum: mission-30011123
+    limit_sangvis: 1
+    mission_tip: 推薦編隊類型：爆發特化編隊
+    lose_type: "1112602"
+  }
+  {
+    id: 11124
+    campaign: -54
+    sub: 9
+    if_emergency: -1
+    name: 5-α8 斯特拉迪瓦里魔法-EX
+    difficulty: 20000
+    exp_parameter: 48
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "371"
+    limit_team: "0,1"
+    map_res_name: OPS96_Y
+    map_information: "15000,15000|12000,4000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "618"
+    drop_mission_key: "0,0,1112100:1|1112101:1"
+    mission_group_id: 23
+    open_mission_keys: 1117100:1
+    mission_describe: mission-20011124
+    round_config: 1:21,2:20,3:3
+    mapped_mission_id: 54002
+    win_type: "1112401"
+    difficulty_recommend: 20000;95
+    difficulty_recommend_addendum: mission-30011124
+    mission_tip: 推薦編隊類型：能力均衡編隊
+  }
+  {
+    id: 11125
+    campaign: -54
+    sub: 10
+    if_emergency: -1
+    special_type: 1
+    name: 26 查拉圖斯特拉如是說-EX
+    difficulty: 30000
+    exp_parameter: 53
+    type: "3"
+    enemy_ai_type: 3
+    expect_enemy_die_num: 3
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "192,274"
+    limit_team: "0,6"
+    map_res_name: OPS97_Y
+    map_information: "12000,12000|9500,8000|1200,1000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "622"
+    drop_mission_key: "0,0,1112200:1|1112201:1"
+    mission_group_id: 23
+    open_mission_keys: 1117500:1
+    mission_describe: mission-20011125
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54003
+    win_type: "1112201,1112802"
+    difficulty_recommend: 30000;115
+    difficulty_recommend_addendum: mission-30011125
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+  }
+  {
+    id: 11126
+    campaign: -54
+    sub: 11
+    if_emergency: -1
+    name: 5-α6 恰空舞曲-UX
+    difficulty: 32000
+    exp_parameter: 54
+    type: "3"
+    enemy_ai_type: 4
+    expect_gun_die_num: 3
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "308,321"
+    limit_team: "0,2"
+    map_res_name: OPS51_Y
+    map_information: "10000,10000|7000,7000|1800,-1000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "618"
+    drop_mission_key: "0,0,1112000:1|1112001:1|1112002:1"
+    mission_group_id: 23
+    open_mission_keys: 1117000:1
+    mission_describe: mission-20011126
+    round_config: 1:22,2:4,3:3
+    mapped_mission_id: 54001
+    win_type: "1112601"
+    difficulty_recommend: 32000;120
+    difficulty_recommend_addendum: mission-30011126
+    limit_sangvis: 2
+    mission_tip: 推薦編隊類型：爆發特化編隊
+    lose_type: "1112602"
+  }
+  {
+    id: 11127
+    campaign: -54
+    sub: 12
+    if_emergency: -1
+    name: 5-α8 斯特拉迪瓦里魔法-UX
+    difficulty: 34000
+    exp_parameter: 55
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "371"
+    limit_team: "0,1"
+    map_res_name: OPS96_Y
+    map_information: "15000,15000|12000,4000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "621"
+    drop_mission_key: "0,0,1112100:1|1112101:1|1112102:1"
+    mission_group_id: 23
+    open_mission_keys: 1117100:1
+    mission_describe: mission-20011127
+    round_config: 1:21,2:20,3:3
+    mapped_mission_id: 54002
+    win_type: "1112701"
+    difficulty_recommend: 34000;120
+    difficulty_recommend_addendum: mission-30011127
+    mission_tip: 推薦編隊類型：能力均衡編隊
+  }
+  {
+    id: 11128
+    campaign: -54
+    sub: 13
+    if_emergency: -1
+    special_type: 1
+    name: 26 查拉圖斯特拉如是說-UX
+    difficulty: 42000
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 3
+    expect_enemy_die_num: 3
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "192,274"
+    limit_team: "0,6"
+    map_res_name: OPS97_Y
+    map_information: "12000,12000|9500,8000|1200,1000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "625"
+    drop_mission_key: "0,0,1112200:1|1112201:1|1112202:1"
+    mission_group_id: 23
+    open_mission_keys: 1117500:1
+    mission_describe: mission-20011128
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54003
+    win_type: "1112801,1112802"
+    difficulty_recommend: 42000;120
+    difficulty_recommend_addendum: mission-30011128
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+  }
+  {
+    id: 11129
+    campaign: -54
+    sub: 14
+    if_emergency: -1
+    name: 3-β2 C大調第二交響曲|隱秘通道|地面
+    difficulty: 1000
+    exp_parameter: 28
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS34_Y;OPS63_Y
+    map_information: "12000,12000|2000,1500|3050,-3000;20000,20000|4000,3500|-3900,1200"
+    fog_length: "0,500;0,500"
+    fog_color: "#000000FF;#000000FF"
+    draw_event_s_id: "612"
+    drop_mission_key: "0,0,1112900:1"
+    mission_group_id: 23
+    open_mission_keys: 1117700:1
+    mission_describe: mission-20011129
+    round_config: 1:21,2:20,3:3
+    win_type: "1112901"
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011129
+    limit_sangvis: -1
+    mission_tip: mission-40011129
+    lose_type: "1112910"
+  }
+  {
+    id: 11130
+    campaign: -54
+    sub: 15
+    if_emergency: -1
+    name: 5-β6 第九交響曲
+    difficulty: 4500
+    exp_parameter: 30
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 6
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "344"
+    limit_team: "0,2"
+    map_res_name: OPS5_Y
+    map_information: "10000,10000|4000,4000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "610"
+    drop_mission_key: "0,0,1113000:1"
+    mission_group_id: 23
+    open_mission_keys: 1118000:1
+    mission_describe: mission-20011130
+    round_config: 1:21,4:2,3:3
+    mapped_mission_id: 54004
+    win_type: "1113002"
+    difficulty_recommend: 4500;45
+    difficulty_recommend_addendum: mission-30011130
+    limit_sangvis: 2
+    mission_tip: 推薦編隊類型：能力均衡編隊
+    lose_type: "1113001"
+    environment_transform_config: 1113001;1113002
+  }
+  {
+    id: 11131
+    campaign: -54
+    sub: 16
+    if_emergency: -1
+    name: 5-β8 火鳥
+    difficulty: 5500
+    exp_parameter: 33
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "373"
+    limit_team: "0,1"
+    map_res_name: OPS5_Y
+    map_information: "8000,8000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "613"
+    drop_mission_key: "0,0,1113100:1"
+    mission_group_id: 23
+    open_mission_keys: 1118100:1
+    mission_describe: mission-20011131
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54005
+    win_type: "1113901"
+    difficulty_recommend: 5500;55
+    difficulty_recommend_addendum: mission-30011131
+    mission_tip: 推薦編隊類型：能力均衡編隊
+  }
+  {
+    id: 11132
+    campaign: -54
+    sub: 17
+    if_emergency: -1
+    special_type: 1
+    name: 13 哥德堡變奏曲
+    difficulty: 7000
+    exp_parameter: 36
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "342"
+    limit_team: "0,4"
+    map_res_name: OPS97_Y
+    map_information: "10000,10000|8000,5000|-500,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "617"
+    expect_hostage_num: "2,3"
+    drop_mission_key: "0,0,1113200:1"
+    mission_group_id: 23
+    open_mission_keys: 1118200:1
+    mission_describe: mission-20011132
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54006
+    win_type: "1113201,1113202"
+    difficulty_recommend: 7000;65
+    difficulty_recommend_addendum: mission-30011132
+    limit_sangvis: 4
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+    lose_type: "1114002"
+  }
+  {
+    id: 11133
+    campaign: -54
+    sub: 18
+    if_emergency: -1
+    name: 22 荒山之夜
+    difficulty: 7000
+    exp_parameter: 36
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 7
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "374"
+    limit_team: "0,5"
+    map_res_name: OPS5_Y
+    map_information: "10000,10000|7000,4000|0,500"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "617"
+    drop_mission_key: "0,0,1113300:1"
+    mission_group_id: 23
+    open_mission_keys: 1118400:1
+    mission_describe: mission-20011133
+    round_config: 1:21,2:4,3:3
+    mapped_mission_id: 54007
+    win_type: "1113301,1113302"
+    difficulty_recommend: 7000;65
+    difficulty_recommend_addendum: mission-30011133
+    limit_sangvis: 4
+    mission_tip: 推薦編隊類型：基礎狙擊編隊
+  }
+  {
+    id: 11134
+    campaign: -54
+    sub: 19
+    if_emergency: -1
+    name: 5-β6 第九交響曲-EX
+    difficulty: 14000
+    exp_parameter: 44
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 6
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "344"
+    limit_team: "0,2"
+    map_res_name: OPS5_Y
+    map_information: "10000,10000|4000,4000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "614"
+    drop_mission_key: "0,0,1113000:1|1113001:1"
+    mission_group_id: 23
+    open_mission_keys: 1118000:1
+    mission_describe: mission-20011134
+    round_config: 1:21,4:2,3:3
+    mapped_mission_id: 54004
+    win_type: "1113402"
+    difficulty_recommend: 14000;87
+    difficulty_recommend_addendum: mission-30011134
+    limit_sangvis: 2
+    mission_tip: 推薦編隊類型：能力均衡編隊
+    lose_type: "1113401"
+    environment_transform_config: 1113401;1113402
+  }
+  {
+    id: 11135
+    campaign: -54
+    sub: 20
+    if_emergency: -1
+    name: 5-β8 火鳥-EX
+    difficulty: 20000
+    exp_parameter: 48
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "373"
+    limit_team: "0,1"
+    map_res_name: OPS5_Y
+    map_information: "8000,8000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "618"
+    drop_mission_key: "0,0,1113100:1|1113101:1"
+    mission_group_id: 23
+    open_mission_keys: 1118100:1
+    mission_describe: mission-20011135
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54005
+    win_type: "1113901"
+    difficulty_recommend: 20000;95
+    difficulty_recommend_addendum: mission-30011135
+    mission_tip: 推薦編隊類型：能力均衡編隊
+  }
+  {
+    id: 11136
+    campaign: -54
+    sub: 21
+    if_emergency: -1
+    special_type: 1
+    name: 13 哥德堡變奏曲-EX
+    difficulty: 26000
+    exp_parameter: 51
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "342"
+    limit_team: "0,4"
+    map_res_name: OPS97_Y
+    map_information: "10000,10000|8000,5000|-500,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "622"
+    expect_hostage_num: "2,3"
+    drop_mission_key: "0,0,1113200:1|1113201:1"
+    mission_group_id: 23
+    open_mission_keys: 1118200:1
+    mission_describe: mission-20011136
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54006
+    win_type: "1113601,1113602"
+    difficulty_recommend: 26000;110
+    difficulty_recommend_addendum: mission-30011136
+    limit_sangvis: 4
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+    lose_type: "1114002"
+  }
+  {
+    id: 11137
+    campaign: -54
+    sub: 22
+    if_emergency: -1
+    name: 22 荒山之夜-EX
+    difficulty: 26000
+    exp_parameter: 51
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 7
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "374"
+    limit_team: "0,5"
+    map_res_name: OPS5_Y
+    map_information: "10000,10000|7000,4000|0,500"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "622"
+    drop_mission_key: "0,0,1113300:1|1113301:1"
+    mission_group_id: 23
+    open_mission_keys: 1118400:1
+    mission_describe: mission-20011137
+    round_config: 1:21,2:4,3:3
+    mapped_mission_id: 54007
+    win_type: "1113701,1113702"
+    difficulty_recommend: 26000;110
+    difficulty_recommend_addendum: mission-30011137
+    limit_sangvis: 4
+    mission_tip: 推薦編隊類型：基礎狙擊編隊
+  }
+  {
+    id: 11138
+    campaign: -54
+    sub: 24
+    if_emergency: -1
+    name: 5-β6 第九交響曲-UX
+    difficulty: 32000
+    exp_parameter: 54
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 8
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "344"
+    limit_team: "0,5"
+    map_res_name: OPS5_Y
+    map_information: "10000,10000|6500,5000|-400,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "618"
+    drop_mission_key: "0,0,1113000:1|1113001:1|1113002:1"
+    mission_group_id: 23
+    open_mission_keys: 1118000:1
+    mission_describe: mission-20011138
+    round_config: 1:21,4:2,3:3
+    limit_squad: 2
+    mapped_mission_id: 54004
+    win_type: "1113802,1113803"
+    medal_type_silver: "1113899"
+    difficulty_recommend: 32000;120
+    difficulty_recommend_addendum: mission-30011138
+    limit_sangvis: 4
+    mission_tip: 推薦編隊類型：能力均衡編隊
+    lose_type: "1113801"
+    environment_transform_config: 1113801;1113802;1113803
+  }
+  {
+    id: 11139
+    campaign: -54
+    sub: 24
+    if_emergency: -1
+    name: 5-β8 火鳥-UX
+    difficulty: 34000
+    exp_parameter: 55
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "373"
+    limit_team: "0,1"
+    map_res_name: OPS5_Y
+    map_information: "8000,8000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "621"
+    drop_mission_key: "0,0,1113100:1|1113101:1|1113102:1"
+    mission_group_id: 23
+    open_mission_keys: 1118100:1
+    mission_describe: mission-20011139
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54005
+    win_type: "1113901"
+    difficulty_recommend: 34000;120
+    difficulty_recommend_addendum: mission-30011139
+    mission_tip: 推薦編隊類型：高速混合編隊
+  }
+  {
+    id: 11140
+    campaign: -54
+    sub: 25
+    if_emergency: -1
+    special_type: 1
+    name: 13 哥德堡變奏曲-UX
+    difficulty: 38000
+    exp_parameter: 57
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "342"
+    limit_team: "0,6"
+    map_res_name: OPS97_Y
+    map_information: "10000,10000|9000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "625"
+    expect_hostage_num: "3,4"
+    drop_mission_key: "0,0,1113200:1|1113201:1|1113202:1"
+    mission_group_id: 23
+    open_mission_keys: 1118200:1
+    mission_describe: mission-20011140
+    round_config: 1:21,2:5,3:3
+    limit_squad: 2
+    mapped_mission_id: 54006
+    win_type: "1114001,1114003"
+    difficulty_recommend: 38000;120
+    difficulty_recommend_addendum: mission-30011140
+    limit_sangvis: 4
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+    lose_type: "1114002"
+  }
+  {
+    id: 11141
+    campaign: -54
+    sub: 26
+    if_emergency: -1
+    name: 22 荒山之夜-UX
+    difficulty: 38000
+    exp_parameter: 57
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 6
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "374"
+    limit_team: "0,8"
+    map_res_name: OPS5_Y
+    map_information: "10000,10000|8000,6000|0,1000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "625"
+    drop_mission_key: "0,0,1113300:1|1113301:1|1113302:1"
+    mission_group_id: 23
+    open_mission_keys: 1118400:1
+    mission_describe: mission-20011141
+    round_config: 1:21,2:4,3:3
+    limit_squad: 2
+    mapped_mission_id: 54007
+    win_type: "1114101,1114102"
+    difficulty_recommend: 38000;120
+    difficulty_recommend_addendum: mission-30011141
+    limit_sangvis: 4
+    mission_tip: 推薦編隊類型：基礎狙擊編隊
+  }
+  {
+    id: 11142
+    campaign: -54
+    sub: 27
+    if_emergency: -1
+    name: 3-γ2 庫朗特舞曲
+    difficulty: 1000
+    exp_parameter: 28
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 6
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS50_Y
+    map_information: "15000,15000|5000,3000|-1800,2700"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "612"
+    drop_mission_key: "0,0,1114200:1"
+    mission_group_id: 23
+    open_mission_keys: 1118600:1
+    mission_describe: mission-20011142
+    round_config: 1:21,2:5,3:3
+    win_type: "1114201"
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011142
+    limit_sangvis: -1
+    mission_tip: mission-40011142
+  }
+  {
+    id: 11143
+    campaign: -54
+    sub: 28
+    if_emergency: -1
+    name: 5-γ6 痛苦的時刻
+    difficulty: 4500
+    exp_parameter: 30
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_gun_die_num: 1
+    expect_turn: 10
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "308,321"
+    limit_team: "0,1"
+    map_res_name: OPS54_Y
+    map_information: "8000,8000|7500,4500|200,-1300"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "610"
+    drop_mission_key: "0,0,1114300:1"
+    mission_group_id: 23
+    open_mission_keys: 1118900:1
+    mission_describe: mission-20011143
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54008
+    win_type: "1114301"
+    difficulty_recommend: 4500;45
+    difficulty_recommend_addendum: mission-30011143
+    limit_sangvis: 1
+    mission_tip: 推薦編隊類型：能力均衡編隊
+    lose_type: "1115302"
+  }
+  {
+    id: 11144
+    campaign: -54
+    sub: 29
+    if_emergency: -1
+    name: 5-γ8 重歸蘇蓮托
+    difficulty: 5500
+    exp_parameter: 33
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "344"
+    limit_team: "0,1"
+    map_res_name: OPS98_Y
+    map_information: "15000,15000|12000,4000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "613"
+    drop_mission_key: "0,0,1114400:1"
+    mission_group_id: 23
+    open_mission_keys: 1119000:1
+    mission_describe: mission-20011144
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54009
+    win_type: "1114401"
+    difficulty_recommend: 5500;55
+    difficulty_recommend_addendum: mission-30011144
+    mission_tip: 推薦編隊類型：能力均衡編隊
+  }
+  {
+    id: 11145
+    campaign: -54
+    sub: 30
+    if_emergency: -1
+    name: 9 幽靈
+    difficulty: 7000
+    exp_parameter: 36
+    type: "3"
+    enemy_ai_type: 3
+    expect_turn: 6
+    boss_team_id: "1"
+    turn_duration: 360000000
+    turn_limit: 8
+    limit_gun_pool: "371,373"
+    limit_team: "0,1"
+    map_res_name: OPS95_Y
+    map_information: "16000,16000|10000,5000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "616"
+    drop_mission_key: "0,0,1114500:1;0,0,1114500:1"
+    mission_group_id: 23
+    open_mission_keys: 1119100:1
+    mission_describe: mission-20011145
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54010
+    win_type: 1114501|1114502
+    difficulty_recommend: 7000;65
+    difficulty_recommend_addendum: mission-30011145
+    limit_sangvis: 1
+    mission_tip: 推薦編隊類型：爆發特化編隊
+    lose_type: "1115302"
+  }
+  {
+    id: 11146
+    campaign: -54
+    sub: 31
+    if_emergency: -1
+    name: 30 第六交響曲|二級平層α區|二級平層β區
+    difficulty: 10000
+    exp_parameter: 40
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "192,274"
+    limit_team: "0,2"
+    map_res_name: BloodNetwork_Y;OPS5_Y
+    map_information: "8000,8000|6000,4000|0,0;8000,8000|6000,4000|0,0"
+    fog_length: "0,500;0,500"
+    fog_color: "#000000FF;#000000FF"
+    draw_event_s_id: "617"
+    drop_mission_key: "0,0,1114600:1"
+    mission_group_id: 23
+    open_mission_keys: 1119300:1
+    mission_describe: mission-20011146
+    round_config: 1:21,2:4,3:3
+    mapped_mission_id: 54011
+    win_type: "1114601"
+    difficulty_recommend: 10000;75
+    difficulty_recommend_addendum: mission-30011146
+    mission_tip: 推薦編隊類型：能力均衡編隊
+  }
+  {
+    id: 11147
+    campaign: -54
+    sub: 32
+    if_emergency: -1
+    special_type: 1
+    name: 32 1812序曲
+    difficulty: 10000
+    exp_parameter: 40
+    type: "3"
+    enemy_ai_type: 3
+    expect_enemy_die_num: 6
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "342,374"
+    limit_team: "0,6"
+    map_res_name: OPS97_Y
+    map_information: "12000,12000|9500,8000|1200,1000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "617"
+    drop_mission_key: "0,0,1114700:1"
+    mission_group_id: 23
+    open_mission_keys: 1119400:1
+    mission_describe: mission-20011147
+    force_type: "1"
+    round_config: 1:1,2:5,3:7
+    mapped_mission_id: 54012
+    win_type: "3"
+    medal_type_silver: "1115701"
+    difficulty_recommend: 10000;75
+    difficulty_recommend_addendum: mission-30011147
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+  }
+  {
+    id: 11148
+    campaign: -54
+    sub: 33
+    if_emergency: -1
+    name: 5-γ6 痛苦的時刻-EX
+    difficulty: 14000
+    exp_parameter: 44
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 6
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "308,321"
+    limit_team: "0,1"
+    map_res_name: OPS54_Y
+    map_information: "8000,8000|7500,4500|200,-1300"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "614"
+    drop_mission_key: "0,0,1114300:1|1114301:1"
+    mission_group_id: 23
+    open_mission_keys: 1118900:1
+    mission_describe: mission-20011148
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54008
+    win_type: "1114801"
+    difficulty_recommend: 14000;87
+    difficulty_recommend_addendum: mission-30011148
+    limit_sangvis: 1
+    mission_tip: 推薦編隊類型：能力均衡編隊
+    lose_type: "1115302"
+  }
+  {
+    id: 11149
+    campaign: -54
+    sub: 34
+    if_emergency: -1
+    name: 5-γ8 重歸蘇蓮托-EX
+    difficulty: 20000
+    exp_parameter: 48
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "344"
+    limit_team: "0,1"
+    map_res_name: OPS98_Y
+    map_information: "15000,15000|12000,4000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "618"
+    drop_mission_key: "0,0,1114400:1|1114401:1"
+    mission_group_id: 23
+    open_mission_keys: 1119000:1
+    mission_describe: mission-20011149
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54009
+    win_type: "1114901"
+    difficulty_recommend: 20000;95
+    difficulty_recommend_addendum: mission-30011149
+    mission_tip: 推薦編隊類型：爆發特化編隊
+  }
+  {
+    id: 11150
+    campaign: -54
+    sub: 35
+    if_emergency: -1
+    name: 9 幽靈-EX
+    difficulty: 26000
+    exp_parameter: 51
+    type: "3"
+    enemy_ai_type: 3
+    expect_enemy_die_num: 1
+    expect_gun_die_num: 1
+    expect_turn: 10
+    boss_team_id: "1"
+    turn_duration: 360000000
+    turn_limit: 7
+    limit_gun_pool: "371,373"
+    limit_team: "0,1"
+    map_res_name: OPS95_Y
+    map_information: "16000,16000|10000,5000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "621"
+    drop_mission_key: "0,0,1114500:1|1114501:1;0,0,1114500:1|1114501:1"
+    mission_group_id: 23
+    open_mission_keys: 1119100:1
+    mission_describe: mission-20011150
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54010
+    win_type: 1115001|1115002
+    difficulty_recommend: 26000;110
+    difficulty_recommend_addendum: mission-30011150
+    limit_sangvis: 1
+    mission_tip: 推薦編隊類型：爆發特化編隊
+    lose_type: "1115302"
+  }
+  {
+    id: 11151
+    campaign: -54
+    sub: 36
+    if_emergency: -1
+    name: 30 第六交響曲-EX|二級平層α區|二級平層β區
+    difficulty: 30000
+    exp_parameter: 53
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "192,274"
+    limit_team: "0,2"
+    map_res_name: BloodNetwork_Y;OPS5_Y
+    map_information: "8000,8000|6000,4000|0,0;8000,8000|6000,4000|0,0"
+    fog_length: "0,500;0,500"
+    fog_color: "#000000FF;#000000FF"
+    draw_event_s_id: "622"
+    drop_mission_key: "0,0,1114600:1|1114601:1"
+    mission_group_id: 23
+    open_mission_keys: 1119300:1
+    mission_describe: mission-20011151
+    round_config: 1:21,2:4,3:3
+    mapped_mission_id: 54011
+    win_type: "1115101"
+    difficulty_recommend: 30000;115
+    difficulty_recommend_addendum: mission-30011151
+    mission_tip: 推薦編隊類型：能力均衡編隊
+  }
+  {
+    id: 11152
+    campaign: -54
+    sub: 37
+    if_emergency: -1
+    special_type: 1
+    name: 32 1812序曲-EX
+    difficulty: 30000
+    exp_parameter: 53
+    type: "3"
+    enemy_ai_type: 3
+    expect_enemy_die_num: 6
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "342,374"
+    limit_team: "0,6"
+    map_res_name: OPS97_Y
+    map_information: "12000,12000|9500,8000|1200,1000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "622"
+    drop_mission_key: "0,0,1114700:1|1114701:1"
+    mission_group_id: 23
+    open_mission_keys: 1119400:1
+    mission_describe: mission-20011152
+    force_type: "1"
+    round_config: 1:1,2:5,3:7
+    mapped_mission_id: 54012
+    win_type: "3"
+    medal_type_silver: "1115701"
+    difficulty_recommend: 30000;115
+    difficulty_recommend_addendum: mission-30011152
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+  }
+  {
+    id: 11153
+    campaign: -54
+    sub: 38
+    if_emergency: -1
+    name: 5-γ6 痛苦的時刻-UX
+    difficulty: 32000
+    exp_parameter: 54
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 10
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "308,321"
+    limit_team: "0,2"
+    map_res_name: OPS54_Y
+    map_information: "8000,8000|7500,4500|200,-1300"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "618"
+    drop_mission_key: "0,0,1114300:1|1114301:1|1114302:1"
+    mission_group_id: 23
+    open_mission_keys: 1118900:1
+    mission_describe: mission-20011153
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54008
+    win_type: "1115301"
+    difficulty_recommend: 32000;120
+    difficulty_recommend_addendum: mission-30011153
+    limit_sangvis: 2
+    mission_tip: 推薦編隊類型：能力均衡編隊
+    lose_type: "1115302"
+  }
+  {
+    id: 11154
+    campaign: -54
+    sub: 39
+    if_emergency: -1
+    name: 5-γ8 重歸蘇蓮托-UX
+    difficulty: 34000
+    exp_parameter: 55
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "344"
+    limit_team: "0,1"
+    map_res_name: OPS98_Y
+    map_information: "15000,15000|12000,4000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "621"
+    drop_mission_key: "0,0,1114400:1|1114401:1|1114402:1"
+    mission_group_id: 23
+    open_mission_keys: 1119000:1
+    mission_describe: mission-20011154
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54009
+    win_type: "1115401"
+    difficulty_recommend: 34000;120
+    difficulty_recommend_addendum: mission-30011154
+    mission_tip: 推薦編隊類型：爆發特化編隊
+    fight_environment_group: 709;726
+  }
+  {
+    id: 11155
+    campaign: -54
+    sub: 40
+    if_emergency: -1
+    name: 9 幽靈-UX
+    difficulty: 38000
+    exp_parameter: 57
+    type: "3"
+    enemy_ai_type: 3
+    expect_enemy_die_num: 1
+    expect_gun_die_num: 2
+    expect_turn: 7
+    boss_team_id: "1"
+    turn_duration: 360000000
+    turn_limit: 6
+    limit_gun_pool: "371,373"
+    limit_team: "0,2"
+    map_res_name: OPS95_Y
+    map_information: "16000,16000|10000,5000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "624"
+    drop_mission_key: "0,0,1114500:1|1114501:1|1114502:1;0,0,1114500:1|1114501:1|1114502:1"
+    mission_group_id: 23
+    open_mission_keys: 1119100:1
+    mission_describe: mission-20011155
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54010
+    win_type: 1115501|1115502
+    difficulty_recommend: 38000;120
+    difficulty_recommend_addendum: mission-30011155
+    limit_sangvis: 2
+    mission_tip: 推薦編隊類型：爆發特化編隊
+    lose_type: "1115302"
+  }
+  {
+    id: 11156
+    campaign: -54
+    sub: 41
+    if_emergency: -1
+    name: 30 第六交響曲-UX|二級平層α區|二級平層β區
+    difficulty: 42000
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "192,274"
+    limit_team: "0,2"
+    map_res_name: BloodNetwork_Y;OPS5_Y
+    map_information: "8000,8000|6000,4000|0,0;8000,8000|6000,4000|0,0"
+    fog_length: "0,500;0,500"
+    fog_color: "#000000FF;#000000FF"
+    draw_event_s_id: "625"
+    drop_mission_key: "0,0,1114600:1|1114601:1|1114602:1"
+    mission_group_id: 23
+    open_mission_keys: 1119300:1
+    mission_describe: mission-20011156
+    round_config: 1:21,2:4,3:3
+    mapped_mission_id: 54011
+    win_type: "1115601"
+    difficulty_recommend: 42000;120
+    difficulty_recommend_addendum: mission-30011156
+    mission_tip: 推薦編隊類型：能力均衡編隊
+  }
+  {
+    id: 11157
+    campaign: -54
+    sub: 42
+    if_emergency: -1
+    special_type: 1
+    name: 32 1812序曲-UX
+    difficulty: 42000
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 3
+    expect_enemy_die_num: 6
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "342,374"
+    limit_team: "0,6"
+    map_res_name: OPS97_Y
+    map_information: "12000,12000|9500,8000|1200,1000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "625"
+    drop_mission_key: "0,0,1114700:1|1114701:1|1114702:1"
+    mission_group_id: 23
+    open_mission_keys: 1119400:1
+    mission_describe: mission-20011157
+    force_type: "1"
+    round_config: 1:1,2:5,3:7
+    mapped_mission_id: 54012
+    win_type: "3"
+    medal_type_silver: "1115701"
+    difficulty_recommend: 42000;120
+    difficulty_recommend_addendum: mission-30011157
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+  }
+  {
+    id: 11158
+    campaign: -54
+    sub: 43
+    if_emergency: -1
+    special_type: 1
+    name: 四重奏迴旋曲-廣板
+    difficulty: 5500
+    exp_parameter: 33
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 5
+    expect_turn: 1
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "308,321,371,344,373"
+    map_res_name: OPS97_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "616"
+    drop_mission_key: "0,0,1115800:1"
+    mission_group_id: 23
+    open_mission_keys: 1120200:1
+    mission_describe: mission-20011158
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54013
+    win_type: "1115801"
+    difficulty_recommend: 5500;55
+    difficulty_recommend_addendum: mission-30011158
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+  }
+  {
+    id: 11159
+    campaign: -54
+    sub: 44
+    if_emergency: -1
+    special_type: 1
+    name: 四重奏迴旋曲-行板
+    difficulty: 14000
+    exp_parameter: 44
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 5
+    expect_turn: 1
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "308,321,371,344,373"
+    map_res_name: OPS97_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "621"
+    drop_mission_key: "0,0,1115900:1"
+    mission_group_id: 23
+    open_mission_keys: 1120200:1
+    mission_describe: mission-20011159
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54013
+    win_type: "1115801"
+    difficulty_recommend: 14000;85
+    difficulty_recommend_addendum: mission-30011159
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+  }
+  {
+    id: 11160
+    campaign: -54
+    sub: 45
+    if_emergency: -1
+    special_type: 1
+    name: 四重奏迴旋曲-急板
+    difficulty: 30000
+    exp_parameter: 53
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 5
+    expect_turn: 1
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "308,321,371,344,373"
+    map_res_name: OPS97_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "624"
+    drop_mission_key: "0,0,1116000:1"
+    mission_group_id: 23
+    open_mission_keys: 1120200:1
+    mission_describe: mission-20011160
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54013
+    win_type: "1115801"
+    difficulty_recommend: 30000;115
+    difficulty_recommend_addendum: mission-30011160
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+  }
+  {
+    id: 11161
+    campaign: -54
+    sub: 46
+    if_emergency: -1
+    special_type: 1
+    name: 五重奏迴旋曲-廣板
+    difficulty: 5500
+    exp_parameter: 33
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 5
+    expect_turn: 1
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "192,274,342,374"
+    map_res_name: OPS97_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "617"
+    drop_mission_key: "0,0,1116100:1"
+    mission_group_id: 23
+    open_mission_keys: 1120200:1
+    mission_describe: mission-20011161
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54014
+    win_type: "1115801"
+    difficulty_recommend: 5500;55
+    difficulty_recommend_addendum: mission-30011161
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+  }
+  {
+    id: 11162
+    campaign: -54
+    sub: 47
+    if_emergency: -1
+    special_type: 1
+    name: 五重奏迴旋曲-行板
+    difficulty: 14000
+    exp_parameter: 44
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 5
+    expect_turn: 1
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "192,274,342,374"
+    map_res_name: OPS97_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "622"
+    drop_mission_key: "0,0,1116200:1"
+    mission_group_id: 23
+    open_mission_keys: 1120200:1
+    mission_describe: mission-20011162
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54014
+    win_type: "1115801"
+    difficulty_recommend: 14000;85
+    difficulty_recommend_addendum: mission-30011162
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+  }
+  {
+    id: 11163
+    campaign: -54
+    sub: 48
+    if_emergency: -1
+    special_type: 1
+    name: 五重奏迴旋曲-急板
+    difficulty: 30000
+    exp_parameter: 53
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 5
+    expect_turn: 1
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "192,274,342,374"
+    map_res_name: OPS97_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "625"
+    drop_mission_key: "0,0,1116300:1"
+    mission_group_id: 23
+    open_mission_keys: 1120200:1
+    mission_describe: mission-20011163
+    round_config: 1:21,2:5,3:3
+    mapped_mission_id: 54014
+    win_type: "1115801"
+    difficulty_recommend: 30000;115
+    difficulty_recommend_addendum: mission-30011163
+    mission_tip: 推薦編隊類型：夜戰特化編隊
+  }
+  {
+    id: 11164
+    campaign: -54
+    sub: 49
+    if_emergency: -1
+    special_type: 9
+    name: 超技練習曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 3
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "12000,12000|12000,12000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1116400:1"
+    mission_group_id: 23
+    open_mission_keys: 1112001:1;1112101:1;1112201:1;1113001:1;1113101:1;1113201:1;1113301:1;1114301:1;1114401:1;1114501:1;1114601:1;1114701:1
+    mission_describe: mission-20011164
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011164
+    mission_tip: mission-40011164
+  }
+  {
+    id: 11165
+    campaign: -54
+    sub: 50
+    if_emergency: -1
+    special_type: 9
+    name: 音畫練習曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: BloodNetwork_Y;OPS5_Y
+    map_information: "8000,8000|8000,8000|0,0;8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1116500:1"
+    mission_group_id: 23
+    open_mission_keys: 1112002:1;1112102:1;1112202:1;1113002:1;1113102:1;1113202:1;1113302:1;1114302:1;1114402:1;1114502:1;1114602:1;1114702:1
+    mission_describe: mission-20011165
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011165
+    mission_tip: mission-40011165
+  }
+  {
+    id: 11166
+    campaign: -54
+    sub: 1
+    if_emergency: -1
+    special_type: 9
+    name: 1 列車時刻表
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1116600:1"
+    mission_group_id: 23
+    mission_describe: mission-20011166
+    round_config: 1:1,2:2,3:3
+    limit_squad: 2
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011166
+    limit_sangvis: -1
+    mission_tip: mission-40011166
+  }
+  {
+    id: 11167
+    campaign: -54
+    sub: 51
+    if_emergency: -1
+    special_type: 9
+    name: 3-α1 A小調圓舞曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 3
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1116700:1"
+    mission_group_id: 23
+    open_mission_keys: 1119700:1
+    mission_describe: mission-20011167
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011167
+    mission_tip: mission-40011167
+  }
+  {
+    id: 11168
+    campaign: -54
+    sub: 52
+    if_emergency: -1
+    special_type: 9
+    name: 3-α3 雨滴
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1116800:1"
+    mission_group_id: 23
+    open_mission_keys: 1111900:1
+    mission_describe: mission-20011168
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011168
+    mission_tip: mission-40011168
+  }
+  {
+    id: 11169
+    campaign: -54
+    sub: 53
+    if_emergency: -1
+    special_type: 9
+    name: 3-α4 G小調小前奏曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1116900:1"
+    mission_group_id: 23
+    open_mission_keys: 1116800:1
+    mission_describe: mission-20011169
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011169
+    mission_tip: mission-40011169
+  }
+  {
+    id: 11170
+    campaign: -54
+    sub: 54
+    if_emergency: -1
+    special_type: 9
+    name: 5-α5 月光奏鳴
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1117000:1"
+    mission_group_id: 23
+    open_mission_keys: 1119900:1
+    mission_describe: mission-20011170
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011170
+    mission_tip: mission-40011170
+  }
+  {
+    id: 11171
+    campaign: -54
+    sub: 55
+    if_emergency: -1
+    special_type: 9
+    name: 5-α7 冬
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1117100:1"
+    mission_group_id: 23
+    open_mission_keys: 1112000:1
+    mission_describe: mission-20011171
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011171
+    mission_tip: mission-40011171
+  }
+  {
+    id: 11172
+    campaign: -54
+    sub: 56
+    if_emergency: -1
+    special_type: 9
+    name: 16 A大調大協奏曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1117200:1"
+    mission_group_id: 23
+    open_mission_keys: 1120300:1
+    mission_describe: mission-20011172
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011172
+    mission_tip: mission-40011172
+  }
+  {
+    id: 11173
+    campaign: -54
+    sub: 57
+    if_emergency: -1
+    special_type: 9
+    name: 17 勃拉姆斯間奏曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1117300:1"
+    mission_group_id: 23
+    open_mission_keys: 1117200:1
+    mission_describe: mission-20011173
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011173
+    mission_tip: mission-40011173
+  }
+  {
+    id: 11174
+    campaign: -54
+    sub: 58
+    if_emergency: -1
+    special_type: 9
+    name: 18 天鵝
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1117400:1"
+    mission_group_id: 23
+    open_mission_keys: 1117300:1
+    mission_describe: mission-20011174
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011174
+    mission_tip: mission-40011174
+  }
+  {
+    id: 11175
+    campaign: -54
+    sub: 59
+    if_emergency: -1
+    special_type: 9
+    name: 25 魯斯蘭與柳德米拉
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1117500:1"
+    mission_group_id: 23
+    open_mission_keys: 1120600:1
+    mission_describe: mission-20011175
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011175
+    mission_tip: mission-40011175
+  }
+  {
+    id: 11176
+    campaign: -54
+    sub: 60
+    if_emergency: -1
+    special_type: 9
+    name: 27 女武神的騎行
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1117600:1"
+    mission_group_id: 23
+    open_mission_keys: 1112200:1
+    mission_describe: mission-20011176
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011176
+    mission_tip: mission-40011176
+  }
+  {
+    id: 11177
+    campaign: -54
+    sub: 61
+    if_emergency: -1
+    special_type: 9
+    name: 3-β1 吉恩喝了一杯
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1117700:1"
+    mission_group_id: 23
+    open_mission_keys: 1119700:1
+    mission_describe: mission-20011177
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011177
+    mission_tip: mission-40011177
+  }
+  {
+    id: 11178
+    campaign: -54
+    sub: 62
+    if_emergency: -1
+    special_type: 9
+    name: 3-β3 第三交響曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1117800:1"
+    mission_group_id: 23
+    open_mission_keys: 1112900:1
+    mission_describe: mission-20011178
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011178
+    mission_tip: mission-40011178
+  }
+  {
+    id: 11179
+    campaign: -54
+    sub: 63
+    if_emergency: -1
+    special_type: 9
+    name: 5-β4 引子與迴旋隨想曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1117900:1"
+    mission_group_id: 23
+    open_mission_keys: 1119900:1
+    mission_describe: mission-20011179
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011179
+    mission_tip: mission-40011179
+  }
+  {
+    id: 11180
+    campaign: -54
+    sub: 64
+    if_emergency: -1
+    special_type: 9
+    name: 5-β5 骷髏之舞
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1118000:1"
+    mission_group_id: 23
+    open_mission_keys: 1117900:1
+    mission_describe: mission-20011180
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011180
+    mission_tip: mission-40011180
+  }
+  {
+    id: 11181
+    campaign: -54
+    sub: 65
+    if_emergency: -1
+    special_type: 9
+    name: 5-β7 鄉村騎士間奏曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1118100:1"
+    mission_group_id: 23
+    open_mission_keys: 1113000:1
+    mission_describe: mission-20011181
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011181
+    mission_tip: mission-40011181
+  }
+  {
+    id: 11182
+    campaign: -54
+    sub: 66
+    if_emergency: -1
+    special_type: 9
+    name: 12 玄秘曲一號
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1118200:1"
+    mission_group_id: 23
+    open_mission_keys: 1120200:1
+    mission_describe: mission-20011182
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011182
+    mission_tip: mission-40011182
+  }
+  {
+    id: 11183
+    campaign: -54
+    sub: 67
+    if_emergency: -1
+    special_type: 9
+    name: 14 G小調敘事曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1118300:1"
+    mission_group_id: 23
+    open_mission_keys: 1113200:1
+    mission_describe: mission-20011183
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011183
+    mission_tip: mission-40011183
+  }
+  {
+    id: 11184
+    campaign: -54
+    sub: 68
+    if_emergency: -1
+    special_type: 9
+    name: 21 鐘
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1118400:1"
+    mission_group_id: 23
+    open_mission_keys: 1120500:1
+    mission_describe: mission-20011184
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011184
+    mission_tip: mission-40011184
+  }
+  {
+    id: 11185
+    campaign: -54
+    sub: 69
+    if_emergency: -1
+    special_type: 9
+    name: 23 表達
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1118500:1"
+    mission_group_id: 23
+    open_mission_keys: 1113300:1
+    mission_describe: mission-20011185
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011185
+    mission_tip: mission-40011185
+  }
+  {
+    id: 11186
+    campaign: -54
+    sub: 70
+    if_emergency: -1
+    special_type: 9
+    name: 3-γ1 泰綺絲冥想曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1118600:1"
+    mission_group_id: 23
+    open_mission_keys: 1119700:1
+    mission_describe: mission-20011186
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011186
+    mission_tip: mission-40011186
+  }
+  {
+    id: 11187
+    campaign: -54
+    sub: 71
+    if_emergency: -1
+    special_type: 9
+    name: 3-γ3 弗拉基米爾的藍調
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1118700:1"
+    mission_group_id: 23
+    open_mission_keys: 1114200:1
+    mission_describe: mission-20011187
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011187
+    mission_tip: mission-40011187
+  }
+  {
+    id: 11188
+    campaign: -54
+    sub: 72
+    if_emergency: -1
+    special_type: 9
+    name: 3-γ4 十二平均律前奏曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1118800:1"
+    mission_group_id: 23
+    open_mission_keys: 1118700:1
+    mission_describe: mission-20011188
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011188
+    mission_tip: mission-40011188
+  }
+  {
+    id: 11189
+    campaign: -54
+    sub: 73
+    if_emergency: -1
+    special_type: 9
+    name: 5-γ5 金絲雀
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1118900:1"
+    mission_group_id: 23
+    open_mission_keys: 1119900:1
+    mission_describe: mission-20011189
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011189
+    mission_tip: mission-40011189
+  }
+  {
+    id: 11190
+    campaign: -54
+    sub: 74
+    if_emergency: -1
+    special_type: 9
+    name: 5-γ7 合唱幻想曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1119000:1"
+    mission_group_id: 23
+    open_mission_keys: 1114300:1
+    mission_describe: mission-20011190
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011190
+    mission_tip: mission-40011190
+  }
+  {
+    id: 11191
+    campaign: -54
+    sub: 75
+    if_emergency: -1
+    special_type: 9
+    name: 8 帕格尼尼主題狂想曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1119100:1"
+    mission_group_id: 23
+    open_mission_keys: 1120100:1
+    mission_describe: mission-20011191
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011191
+    mission_tip: mission-40011191
+  }
+  {
+    id: 11192
+    campaign: -54
+    sub: 76
+    if_emergency: -1
+    special_type: 9
+    name: 10 和諧的靈感
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1119200:1"
+    mission_group_id: 23
+    open_mission_keys: 1114500:1
+    mission_describe: mission-20011192
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011192
+    mission_tip: mission-40011192
+  }
+  {
+    id: 11193
+    campaign: -54
+    sub: 77
+    if_emergency: -1
+    special_type: 9
+    name: 29 夏協奏曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1119300:1"
+    mission_group_id: 23
+    open_mission_keys: 1120700:1
+    mission_describe: mission-20011193
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011193
+    mission_tip: mission-40011193
+  }
+  {
+    id: 11194
+    campaign: -54
+    sub: 78
+    if_emergency: -1
+    special_type: 9
+    name: 31 流浪者之歌
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1119400:1"
+    mission_group_id: 23
+    open_mission_keys: 1114600:1
+    mission_describe: mission-20011194
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011194
+    mission_tip: mission-40011194
+  }
+  {
+    id: 11195
+    campaign: -54
+    sub: 79
+    if_emergency: -1
+    special_type: 9
+    name: 33 G弦上的詠嘆調
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1119500:1"
+    mission_group_id: 23
+    open_mission_keys: 1114700:1
+    mission_describe: mission-20011195
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011195
+    mission_tip: mission-40011195
+  }
+  {
+    id: 11196
+    campaign: -54
+    sub: 80
+    if_emergency: -1
+    special_type: 9
+    name: 2 輻射濃度警報器
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1119600:1"
+    mission_group_id: 23
+    open_mission_keys: 1116600:1
+    mission_describe: mission-20011196
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011196
+    mission_tip: mission-40011196
+  }
+  {
+    id: 11197
+    campaign: -54
+    sub: 81
+    if_emergency: -1
+    special_type: 9
+    name: 3 酒吧吧檯
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1119700:1"
+    mission_group_id: 23
+    open_mission_keys: 1119600:1
+    mission_describe: mission-20011197
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011197
+    mission_tip: mission-40011197
+  }
+  {
+    id: 11198
+    campaign: -54
+    sub: 82
+    if_emergency: -1
+    special_type: 9
+    name: 4 復古留聲機
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1119800:1"
+    mission_group_id: 23
+    open_mission_keys: 1116900:1;1117800:1;1118800:1
+    mission_describe: mission-20011198
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011198
+    mission_tip: mission-40011198
+  }
+  {
+    id: 11199
+    campaign: -54
+    sub: 83
+    if_emergency: -1
+    special_type: 9
+    name: 5 洗手間
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1119900:1"
+    mission_group_id: 23
+    open_mission_keys: 1119800:1
+    mission_describe: mission-20011199
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011199
+    mission_tip: mission-40011199
+  }
+  {
+    id: 11200
+    campaign: -54
+    sub: 84
+    if_emergency: -1
+    special_type: 9
+    name: 6 世界時區鐘
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1120000:1"
+    mission_group_id: 23
+    open_mission_keys: 1112100:1;1113100:1;1114400:1
+    mission_describe: mission-20011200
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011200
+    mission_tip: mission-40011200
+  }
+  {
+    id: 11201
+    campaign: -54
+    sub: 85
+    if_emergency: -1
+    special_type: 9
+    name: 7 通向特等車廂的門
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1120100:1"
+    mission_group_id: 23
+    open_mission_keys: 1120000:1
+    mission_describe: mission-20011201
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011201
+    mission_tip: mission-40011201
+  }
+  {
+    id: 11202
+    campaign: -54
+    sub: 86
+    if_emergency: -1
+    special_type: 9
+    name: 11 大型行李架
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1120200:1"
+    mission_group_id: 23
+    open_mission_keys: 1119200:1
+    mission_describe: mission-20011202
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011202
+    mission_tip: mission-40011202
+  }
+  {
+    id: 11203
+    campaign: -54
+    sub: 87
+    if_emergency: -1
+    special_type: 9
+    name: 15 觀景窗口
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1120300:1"
+    mission_group_id: 23
+    open_mission_keys: 1118300:1
+    mission_describe: mission-20011203
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011203
+    mission_tip: mission-40011203
+  }
+  {
+    id: 11204
+    campaign: -54
+    sub: 88
+    if_emergency: -1
+    special_type: 9
+    name: 19 桌上的淡雅花束
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1120400:1"
+    mission_group_id: 23
+    open_mission_keys: 1117400:1
+    mission_describe: mission-20011204
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011204
+    mission_tip: mission-40011204
+  }
+  {
+    id: 11205
+    campaign: -54
+    sub: 89
+    if_emergency: -1
+    special_type: 9
+    name: 20 售賣物品的小推車
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1120500:1"
+    mission_group_id: 23
+    open_mission_keys: 1120400:1
+    mission_describe: mission-20011205
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011205
+    mission_tip: mission-40011205
+  }
+  {
+    id: 11206
+    campaign: -54
+    sub: 90
+    if_emergency: -1
+    special_type: 9
+    name: 24 車廂內的惡搞塗鴉
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1120600:1"
+    mission_group_id: 23
+    open_mission_keys: 1118500:1
+    mission_describe: mission-20011206
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011206
+    mission_tip: mission-40011206
+  }
+  {
+    id: 11207
+    campaign: -54
+    sub: 91
+    if_emergency: -1
+    special_type: 9
+    name: 28 維修工作間
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1120700:1"
+    mission_group_id: 23
+    open_mission_keys: 1117600:1
+    mission_describe: mission-20011207
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011207
+    mission_tip: mission-40011207
+  }
+  {
+    id: 11208
+    campaign: -54
+    sub: 92
+    if_emergency: -1
+    special_type: 9
+    name: 34 通向車頂的出口
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1120800:1"
+    mission_group_id: 23
+    open_mission_keys: 1119500:1
+    mission_describe: mission-20011208
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011208
+    mission_tip: mission-40011208
+  }
+  {
+    id: 11209
+    campaign: -54
+    sub: 93
+    if_emergency: -1
+    special_type: 9
+    name: 35 懸掛屏幕
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1120900:1"
+    mission_group_id: 23
+    open_mission_keys: 1120800:1
+    mission_describe: mission-20011209
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011209
+    mission_tip: mission-40011209
+  }
+  {
+    id: 11210
+    campaign: -54
+    sub: 94
+    if_emergency: -1
+    special_type: 9
+    name: 36 光之聲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1121000:1"
+    mission_group_id: 23
+    open_mission_keys: 1121800:1;1122100:1;1122500:1;1122900:1;1123200:1
+    mission_describe: mission-20011210
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011210
+    mission_tip: mission-40011210
+  }
+  {
+    id: 11211
+    campaign: -54
+    sub: 95
+    if_emergency: -1
+    special_type: 9
+    name: 35-T1 練習曲第二號
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1121100:1"
+    mission_group_id: 23
+    open_mission_keys: 1120900:1
+    mission_describe: mission-20011211
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011211
+    mission_tip: mission-40011211
+  }
+  {
+    id: 11212
+    campaign: -54
+    sub: 96
+    if_emergency: -1
+    special_type: 9
+    name: 35-T2 第五前奏曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1121200:1"
+    mission_group_id: 23
+    open_mission_keys: 1121100:1
+    mission_describe: mission-20011212
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011212
+    mission_tip: mission-40011212
+  }
+  {
+    id: 11213
+    campaign: -54
+    sub: 97
+    if_emergency: -1
+    special_type: 9
+    name: 35-T3 浪漫曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1121300:1"
+    mission_group_id: 23
+    open_mission_keys: 1121200:1
+    mission_describe: mission-20011213
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011213
+    mission_tip: mission-40011213
+  }
+  {
+    id: 11214
+    campaign: -54
+    sub: 98
+    if_emergency: -1
+    special_type: 9
+    name: 35-T4 音樂瞬間
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1121400:1"
+    mission_group_id: 23
+    open_mission_keys: 1121300:1
+    mission_describe: mission-20011214
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011214
+    mission_tip: mission-40011214
+  }
+  {
+    id: 11215
+    campaign: -54
+    sub: 99
+    if_emergency: -1
+    special_type: 9
+    name: 35-W1索爾維格之歌
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1121500:1"
+    mission_group_id: 23
+    open_mission_keys: 1121400:1
+    mission_describe: mission-20011215
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011215
+    mission_tip: mission-40011215
+  }
+  {
+    id: 11216
+    campaign: -54
+    sub: 100
+    if_emergency: -1
+    special_type: 9
+    name: 35-W2 A大調單簧管協奏曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1121600:1"
+    mission_group_id: 23
+    open_mission_keys: 1121500:1
+    mission_describe: mission-20011216
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011216
+    mission_tip: mission-40011216
+  }
+  {
+    id: 11217
+    campaign: -54
+    sub: 101
+    if_emergency: -1
+    special_type: 9
+    name: 35-W3 曼圖亞之旅
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1121700:1"
+    mission_group_id: 23
+    open_mission_keys: 1121600:1
+    mission_describe: mission-20011217
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011217
+    mission_tip: mission-40011217
+  }
+  {
+    id: 11218
+    campaign: -54
+    sub: 102
+    if_emergency: -1
+    special_type: 9
+    name: 35-W4 離別曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1121800:1"
+    mission_group_id: 23
+    open_mission_keys: 1121700:1
+    mission_describe: mission-20011218
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011218
+    mission_tip: mission-40011218
+  }
+  {
+    id: 11219
+    campaign: -54
+    sub: 103
+    if_emergency: -1
+    special_type: 9
+    name: 35-N1 幻想即興曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1121900:1"
+    mission_group_id: 23
+    open_mission_keys: 1121400:1
+    mission_describe: mission-20011219
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011219
+    mission_tip: mission-40011219
+  }
+  {
+    id: 11220
+    campaign: -54
+    sub: 104
+    if_emergency: -1
+    special_type: 9
+    name: 35-N2 春天奏鳴曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1122000:1"
+    mission_group_id: 23
+    open_mission_keys: 1121900:1
+    mission_describe: mission-20011220
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011220
+    mission_tip: mission-40011220
+  }
+  {
+    id: 11221
+    campaign: -54
+    sub: 105
+    if_emergency: -1
+    special_type: 9
+    name: 35-N3 小步舞曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1122100:1"
+    mission_group_id: 23
+    open_mission_keys: 1122000:1
+    mission_describe: mission-20011221
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011221
+    mission_tip: mission-40011221
+  }
+  {
+    id: 11222
+    campaign: -54
+    sub: 106
+    if_emergency: -1
+    special_type: 9
+    name: 35-C1 裸者之舞
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1122200:1"
+    mission_group_id: 23
+    open_mission_keys: 1121400:1
+    mission_describe: mission-20011222
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011222
+    mission_tip: mission-40011222
+  }
+  {
+    id: 11223
+    campaign: -54
+    sub: 107
+    if_emergency: -1
+    special_type: 9
+    name: 35-C2 月亮河
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1122300:1"
+    mission_group_id: 23
+    open_mission_keys: 1122200:1
+    mission_describe: mission-20011223
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011223
+    mission_tip: mission-40011223
+  }
+  {
+    id: 11224
+    campaign: -54
+    sub: 108
+    if_emergency: -1
+    special_type: 9
+    name: 35-C3 星降之夜
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1122400:1"
+    mission_group_id: 23
+    open_mission_keys: 1122300:1
+    mission_describe: mission-20011224
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011224
+    mission_tip: mission-40011224
+  }
+  {
+    id: 11225
+    campaign: -54
+    sub: 109
+    if_emergency: -1
+    special_type: 9
+    name: 35-C4 我的太陽
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1122500:1"
+    mission_group_id: 23
+    open_mission_keys: 1122400:1
+    mission_describe: mission-20011225
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011225
+    mission_tip: mission-40011225
+  }
+  {
+    id: 11226
+    campaign: -54
+    sub: 110
+    if_emergency: -1
+    special_type: 9
+    name: 35-R1 茨岡狂想曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1122600:1"
+    mission_group_id: 23
+    open_mission_keys: 1121400:1
+    mission_describe: mission-20011226
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011226
+    mission_tip: mission-40011226
+  }
+  {
+    id: 11227
+    campaign: -54
+    sub: 111
+    if_emergency: -1
+    special_type: 9
+    name: 35-R2 夏日黃昏
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1122700:1"
+    mission_group_id: 23
+    open_mission_keys: 1122600:1
+    mission_describe: mission-20011227
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011227
+    mission_tip: mission-40011227
+  }
+  {
+    id: 11228
+    campaign: -54
+    sub: 112
+    if_emergency: -1
+    special_type: 9
+    name: 35-R3 B小調鋼琴五重奏
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1122800:1"
+    mission_group_id: 23
+    open_mission_keys: 1122700:1
+    mission_describe: mission-20011228
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011228
+    mission_tip: mission-40011228
+  }
+  {
+    id: 11229
+    campaign: -54
+    sub: 113
+    if_emergency: -1
+    special_type: 9
+    name: 35-R4 F小調鋼琴協奏曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1122900:1"
+    mission_group_id: 23
+    open_mission_keys: 1122800:1
+    mission_describe: mission-20011229
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011229
+    mission_tip: mission-40011229
+  }
+  {
+    id: 11230
+    campaign: -54
+    sub: 114
+    if_emergency: -1
+    special_type: 9
+    name: 35-P1小星星變奏曲
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1123000:1"
+    mission_group_id: 23
+    open_mission_keys: 1121400:1
+    mission_describe: mission-20011230
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011230
+    mission_tip: mission-40011230
+  }
+  {
+    id: 11231
+    campaign: -54
+    sub: 115
+    if_emergency: -1
+    special_type: 9
+    name: 35-P2 死神與少女
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1123100:1"
+    mission_group_id: 23
+    open_mission_keys: 1123000:1
+    mission_describe: mission-20011231
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011231
+    mission_tip: mission-40011231
+  }
+  {
+    id: 11232
+    campaign: -54
+    sub: 116
+    if_emergency: -1
+    special_type: 9
+    name: 35-P3 愛的贊禮
+    difficulty: 1000
+    exp_parameter: 10
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1123200:1"
+    mission_group_id: 23
+    open_mission_keys: 1123100:1
+    mission_describe: mission-20011232
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011232
+    mission_tip: mission-40011232
   }
   {
     id: 90001

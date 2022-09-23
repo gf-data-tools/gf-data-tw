@@ -10,6 +10,11 @@
     name: 巫術型
   }
   {
+    id: 757090
+    type_id: 1
+    name: 聖光型
+  }
+  {
     id: 900906
     type_id: 1
     name: 沙暴型

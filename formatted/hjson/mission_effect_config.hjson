@@ -220,7 +220,7 @@
     name: 花粉區
     code: hfq_zt
     description: 花粉區
-    size: 1.0
+    size: 0.1
     offset: "0,0"
   }
   {
@@ -1147,12 +1147,103 @@
   }
   {
     id: 1000102
-    name: mission_effect_config-11000102
+    name: 煙火
     code: GQ_yanhua
-    description: mission_effect_config-21000102
+    description: 煙火
     duration: 3.0
     size: 1.0
     sound: 2022_Bikini_Fireworks
+    offset: "0,0"
+  }
+  {
+    id: 1000103
+    name: 轟炸效果1
+    code: XDZY_TY2
+    description: 轟炸效果1
+    priority: 1
+    duration: 2.0
+    delay: -1.0
+    size: 4.0
+    offset: "0,0"
+  }
+  {
+    id: 1000104
+    name: 轟炸效果2
+    code: LLS_hongzha02
+    description: 轟炸效果2
+    priority: 1
+    duration: 2.0
+    delay: -2.0
+    size: 2.0
+    sound: Blackjack_attack1
+    offset: "0,0"
+  }
+  {
+    id: 1000105
+    name: 瞄準
+    code: Dian_tiepian02
+    description: 瞄準
+    priority: -1
+    size: 1.0
+    offset: "0,20"
+  }
+  {
+    id: 1000106
+    name: 樹
+    code: Dian_tiepian03
+    description: 樹
+    priority: -1
+    size: 1.0
+    offset: "0,100"
+  }
+  {
+    id: 1000107
+    name: 烤樹
+    code: Dian_tiepian01
+    description: 烤樹
+    priority: -1
+    size: 1.0
+    offset: "0,100"
+  }
+  {
+    id: 1000108
+    name: 油桶
+    code: Dian_tiepian04
+    description: 油桶
+    priority: -1
+    size: 1.2
+    offset: "0,50"
+  }
+  {
+    id: 1000109
+    name: TY-160
+    code: Fly_tu160
+    description: TY-160
+    priority: 1
+    duration: 3.0
+    size: 2.0
+    sound: Blackjack_flying
+    if_starting: 4
+    relative_position: "0,0;0,0;0,0;1,1"
+    offset: "-5500,-5500;6500,6500"
+    rotation_offset: "0,0,45;0,0,45"
+  }
+  {
+    id: 1000110
+    name: 點燃
+    code: DXG_combo_fire02
+    description: 點燃
+    priority: -1
+    size: 0.01
+    offset: "-20,-50"
+  }
+  {
+    id: 1000111
+    name: 星星
+    code: ddl_xingxing
+    description: 星星
+    priority: -1
+    size: 0.01
     offset: "0,0"
   }
   {
