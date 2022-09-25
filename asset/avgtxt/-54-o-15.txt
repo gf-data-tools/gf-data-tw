@@ -1,5 +1,5 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker>莫斯科電視台</Speaker>||<黑屏2><BIN>343</BIN><BGM>BGM_Room</BGM>:<color=#00CCFF>……本台最新消息。</color>+<color=#00CCFF>此前於紅區失聯的EN440 13M次未來號列車，已確認失事位置為蘇德邊境德國境內，我方派出救援小隊已於第一時間趕往現場救災。+據悉，未來號行車期間，二等車廂內發生了黑幫火拚事件，列車脫軌或與此有關。</color>+<color=#00CCFF>交通管制將於2小時後解除，請各單位注意。</color>
+()<Speaker>莫斯科電視台</Speaker>||<黑屏2><BIN>343</BIN><BGM>BGM_Room</BGM>:<color=#00CCFF>……本台最新消息。</color>+<color=#00CCFF>此前於紅區失聯的EN440 13M次未來號列車，已確認失事位置為蘇德邊境德國境內，我方派出救援小隊已於第一時間趕往現場救災。</color>+<color=#00CCFF>據悉，未來號行車期間，二等車廂內發生了黑幫火拚事件，列車脫軌或與此有關。</color>+<color=#00CCFF>交通管制將於2小時後解除，請各單位注意。</color>
 ()<Speaker>莫斯科電視台</Speaker>||:<color=#00CCFF>據鐵道專家分析現場發回影像資料，此次恐為近20年內西伯利亞生命線運行期間的最嚴重事故，涉難人數超過300人。</color>+<color=#00CCFF>稍晚些時候，我台記者將對救援進行現場直播。</color>
 ()||<黑屏1>:
 NPC-Shadowless(3)<Speaker>夏朵利茲</Speaker>||<BIN>336</BIN><黑屏2>:<color=#00CCFF>……歡迎各位收聽今天的柏林之聲。</color>+<color=#00CCFF>我是本台記者夏朵利茲，現在為您播報緊急新聞。</color>

@@ -35,7 +35,6 @@ ColtWalker(3)<Speaker>瑪姬</Speaker>||<BGM>BGM_Empty</BGM>:唉……
 ()<Speaker></Speaker>||:瑪姬嘆了口氣。
 ColtWalker(3)<Speaker>瑪姬</Speaker>||<BGM>GF_2022_Summer_AVG_2</BGM>:其實我也不太了解，畢竟又不是常客。+他確實來過我這裡，不過不是買家，而是賣家。+他那時候寄售的商品是一項有關人形的自研技術。+商品描述也很奇怪，反倒叫我很有印象……+……「有關人形的科學，以人形為研究對象」。+當時我看了覺得還挺有興趣的，就稍微翻了翻。
 ()<Speaker></Speaker>||:她沉吟了一會。
-Erma(0)<Speaker>艾爾瑪</Speaker>||:「……人形除了物理性能，更優秀的理應是人性的升格。」
 ColtWalker(3)<Speaker>瑪姬</Speaker>;Erma(0)||:我想想……好像有一段……+「如果是製造更強大的殺戮機器，那無需人的外形……」
 ColtWalker(3);Erma(0)<Speaker>艾爾瑪</Speaker>||:「……人形除了物理性能，更優秀的理應是人性的升格。」
 ColtWalker(3)<Speaker>瑪姬</Speaker>;Erma(0)||:對，就是這個。
