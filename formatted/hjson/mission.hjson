@@ -286,7 +286,7 @@
     limit_gun_pool: "15"
     map_res_name: Chapter1_Y
     map_information: "3000,2625|-3490,-3097|0,0"
-    draw_event_s_id: "557"
+    draw_event_s_id: "632"
     support_available: 2
     reinforce_ally_team: "10"
     mission_describe: mission-20000010
@@ -417,7 +417,7 @@
     limit_gun_pool: "15"
     map_res_name: Chapter1_Y
     map_information: "3000,2625|-3485,-3106|0,0"
-    draw_event_s_id: "557"
+    draw_event_s_id: "632"
     support_available: 2
     reinforce_ally_team: "14"
     mission_describe: mission-20000014
@@ -605,7 +605,7 @@
     limit_gun_pool: "19"
     map_res_name: Chapter2_Y
     map_information: "4096,3584|4096,3595|243,-182"
-    draw_event_s_id: "558"
+    draw_event_s_id: "633"
     support_available: 2
     reinforce_ally_team: "20"
     mission_describe: mission-20000020
@@ -736,7 +736,7 @@
     limit_gun_pool: "19"
     map_res_name: Chapter2_Y
     map_information: "4096,3584|4096,3595|243,-182"
-    draw_event_s_id: "558"
+    draw_event_s_id: "633"
     support_available: 2
     reinforce_ally_team: "24"
     mission_describe: mission-20000024
@@ -924,7 +924,7 @@
     limit_gun_pool: "108"
     map_res_name: Chapter3_Y
     map_information: "3724,3265|4214,3617|-5,-70"
-    draw_event_s_id: "559"
+    draw_event_s_id: "634"
     support_available: 2
     reinforce_ally_team: "30"
     mission_describe: mission-20000030
@@ -1055,7 +1055,7 @@
     limit_gun_pool: "108"
     map_res_name: Chapter3_Y
     map_information: "3724,3265|4214,3617|-5,-70"
-    draw_event_s_id: "559"
+    draw_event_s_id: "634"
     support_available: 2
     reinforce_ally_team: "34"
     mission_describe: mission-20000034
@@ -1243,7 +1243,7 @@
     limit_gun_pool: "38"
     map_res_name: Chapter4_Y
     map_information: "3770,3299|4257,3799|0,0"
-    draw_event_s_id: "560"
+    draw_event_s_id: "635"
     support_available: 2
     reinforce_ally_team: "40"
     mission_describe: mission-20000040
@@ -1374,7 +1374,7 @@
     limit_gun_pool: "38"
     map_res_name: Chapter4_Y
     map_information: "3770,3299|4257,3799|0,0"
-    draw_event_s_id: "560"
+    draw_event_s_id: "635"
     support_available: 2
     reinforce_ally_team: "44"
     mission_describe: mission-20000044
@@ -1557,7 +1557,7 @@
     limit_gun_pool: "79"
     map_res_name: Chapter5_Y
     map_information: "4656,3951|4001,3647|-575,393"
-    draw_event_s_id: "561"
+    draw_event_s_id: "636"
     support_available: 2
     reinforce_ally_team: "50"
     mission_describe: mission-20000050
@@ -1684,7 +1684,7 @@
     limit_gun_pool: "79"
     map_res_name: Chapter5_Y
     map_information: "4656,3951|4001,3647|-575,393"
-    draw_event_s_id: "561"
+    draw_event_s_id: "636"
     support_available: 2
     reinforce_ally_team: "54"
     mission_describe: mission-20000054
@@ -1866,7 +1866,7 @@
     limit_gun_pool: "35"
     map_res_name: Chapter6_Y
     map_information: "4000,3751|4500,3667|17,283"
-    draw_event_s_id: "562"
+    draw_event_s_id: "637"
     support_available: 2
     reinforce_ally_team: "60"
     mission_describe: mission-20000060
@@ -1993,7 +1993,7 @@
     limit_gun_pool: "35"
     map_res_name: Chapter6_Y
     map_information: "4000,3751|4500,4251|0,0"
-    draw_event_s_id: "562"
+    draw_event_s_id: "637"
     support_available: 2
     reinforce_ally_team: "64"
     mission_describe: mission-20000064
@@ -32959,7 +32959,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 2
-    limit_team: "-1"
+    limit_team: "1"
     map_res_name: OPS5_Y
     map_information: "10000,10000|3000,3000|0,0"
     fog_length: "0,500"

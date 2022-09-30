@@ -342,7 +342,7 @@ COMMON,1322,Search,,0
 COMMON,1323,Delete all,,0
 COMMON,1324,My ID:,,0
 COMMON,1325,Search by UID,,0
-COMMON,1326,Friend Points,,0
+COMMON,1326,友情点数(todo),,0
 COMMON,1327,Buy more,,0
 COMMON,1328,Appearance,,0
 COMMON,1329,Background,,0
@@ -4682,13 +4682,13 @@ OTHER,100198,Upon terminating Auto Battles//c resources for incomplete battles w
 OTHER,100199,Customer Service Email Address: gfcs@micateam.cn,,0
 ACTIVITY,110000,Operation: Cube,,0
 ACTIVITY,110001,Blindfold Theorem,,0
-FRIEND,110002,Friend Points,,0
+FRIEND,110002,友情点数(todo),,0
 FRIEND,110003,Icon,,0
 FRIEND,110004,Item,,0
 FRIEND,110005,ID Card,,0
 FRIEND,110006,The user does not exist!,,0
 FRIEND,110007,Four resources,,0
-FRIEND,110008,Insufficient Friend Points,,0
+FRIEND,110008,友情点数不足，可通过战斗支援系统、点赞他人宿舍、日常任务、拉弗伯雷兵棋扭蛋机获取。(todo),,0
 FRIEND,110009, Insufficient,,0
 FRIEND,110010,Number of friends has reached the maximum limit!,,0
 FRIEND,110011,Background,,0
@@ -4721,7 +4721,7 @@ FRIEND,110037,Welcome to the <color=#FFBB00FF>Friend System</color>. You can bui
 FRIEND,110038,In the <color=#FFBB00FF>Friends List</color>//c you can check your friends as well as send <color=#FFBB00FF>messages</color>.,,0
 FRIEND,110039,You can add friends from the <color=#FFBB00FF>Add Friends</color> page//c as well as search for other players to send friend requests.,,0
 FRIEND,110040,You can view and edit your <color=#FFBB00FF>ID Card</color> from the <color=#FFBB00FF>ID Card</color> page. Your card can be seen by other players. You can also perform other actions related to the ID card here.,,0
-FRIEND,110041,In the <color=#FFBB00FF>Friendship Store</color>//c you can purchase icons and backgrounds for your ID Card. You can also use Friend Points to buy other various items.,,0
+FRIEND,110041,在<color=#FFBB00FF>友情商店</color>中，你可以购买到头像及名片背景等装饰道具。并且可以使用友情点数购买功能性道具。(todo),,0
 FRIEND,110042,Latest message,,0
 FRIEND,110043,Most recent login,,0
 FRIEND,110044,Commander level,,0
@@ -4916,7 +4916,7 @@ GUIDE,140080,Press the Swap button to finish.,,0
 GUIDE,140081,By using Spare Dormitories//c you can switch to different furniture arrangements on the fly and store more furniture. Enjoy!,,0
 GUIDE,140082,A third party will be joining the battlefield. Please look out for the side that these units belong to.,,0
 GUIDE,140083,Units in <color=#96C9F8FF>blue</color> are friendly forces. They operate by themselves but can accept your battle strategies.,,0
-GUIDE,140084,Griffin will also provide support for you now. You can use the <color=#FFBB00FF>Griffin Support Echelon</color> in missions without incurring a timer limit after use//c but using it<color=#ff0000>will not</color> award any Friend Points.,,0
+GUIDE,140084,现在格里芬也将为您提供部分支援，在某些关卡内可以使用<color=#FFBB00FF>格里芬支援梯队</color>，梯队没有使用时间的限制，但是将<color=#ff0000>不会</color>为您提供友情点数。(todo),,0
 GUIDE,140085,Cafe is the place to be for T-Dolls to relax and chat. You can learn about their past histories and stories here. There is a <color=#FFB400FF>special bubble</color> on top of the T-Dolls who have a story to share.,,0
 GUIDE,140086,Press the <color=#FFB400FF>Gramophone</color> to select and view your T-Dolls' stories under a specific subject of your choice.,,0
 GUIDE,140087,You can view handwritten notes from T-Dolls in the notebook to the left side of counter.,,0

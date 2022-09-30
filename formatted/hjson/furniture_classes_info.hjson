@@ -1400,6 +1400,20 @@
     years: "2022"
   }
   {
+    id: "106"
+    name: 夜無止盡
+    rank: "5"
+    bonus_picture: "3098"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: "12"
+    description: 以夜晚的商業步行街為主題的傢俱組合。夜色已深，但步行街上依然人頭攢動，熱鬧不休，彷彿這個夜晚永遠不會結束。
+    bonus_description: 集齊後宿舍內會出現意想不到的現象。
+    code: Carnival2022_deco_12_icon
+    is_showed: "1"
+    placement: "1"
+    years: "2022"
+  }
+  {
     id: "299"
     name: 寵物
     rank: "5"

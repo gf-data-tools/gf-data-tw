@@ -1189,3 +1189,19 @@ equip-10000300,12x56CBX倍鏡
 equip-20000300,暴擊機率+<critical_percent><%>//n傷害+<pow>$QBU-88專用
 equip-30000300,QBU-88專用版的KAH制3-12x56高倍鏡，比原配的瞄準鏡擁有更高的可靠性。
 equip-40000300,
+equip-10000301,ZF4
+equip-20000301,暴擊機率+<critical_percent><%>//n射速+<rate>$G43專用
+equip-30000301,由IOP按照過去的圖紙專為G43生產的倍鏡//c能夠有效提升G43的作戰效率.
+equip-40000301,
+equip-10000302,BA6瞄準器
+equip-20000302,迴避+<dodge>//n暴擊機率+<critical_percent><%>$P99專用
+equip-30000302,由著名光學器械生產商STN專為P99設計生產的激光瞄準器//c經過IOP的調試後可靠性得到了進一步的提升.
+equip-40000302,
+equip-10000303,EVO3護木
+equip-20000303,傷害+<pow>//n迴避+<dodge>$EVO 3專用
+equip-30000303,由MI為EVO 3專門設計的mlok護木//c能夠極高地提升EVO 3的掛載能力.
+equip-40000303,
+equip-10000304,GRUNT導軌
+equip-20000304,傷害+<pow> 命中+<hit>//n暴擊機率+<critical_percent><%>$K2專用
+equip-30000304,K2現代化改件之一//c有效提升了K2的掛載能力.
+equip-40000304,

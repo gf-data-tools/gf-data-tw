@@ -1225,7 +1225,7 @@
     name: AN94激活
     action_order: "1"
     action_playspeed: "200"
-    creation_order: "260,260,2018,140,140,2018"
+    creation_order: "260,26001,2018,140,140,2018"
     creation_delay: "0,3,0,0,3,3"
     sound_order: BT_AK,BT_AK
     sound_delay: "0,3"
@@ -2225,7 +2225,7 @@
     name: gsh-18
     action_order: attack2
     action_playspeed: "100"
-    creation_order: "1,21,138,1,21,138"
+    creation_order: "1,21,138,10295,21,138"
     creation_delay: "0,0,0,4,4,4"
     sound_order: BT_pistol,BT_pistol
     sound_delay: "0,4"
@@ -24165,6 +24165,15 @@
     creation_order: "777019"
     creation_delay: "1"
     creation_afterdeath: "1"
+  }
+  {
+    id: 777017
+    name: tt
+    action_order: bossskillactive,bossskill
+    action_delay: "0,40"
+    action_playspeed: "100,100"
+    creation_order: "777020,777021,777022"
+    creation_delay: "40,70,120"
   }
   {
     id: 900002

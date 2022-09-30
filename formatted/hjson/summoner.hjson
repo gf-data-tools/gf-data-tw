@@ -11841,7 +11841,7 @@
     level: 1
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -11869,7 +11869,7 @@
     level: 2
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -11897,7 +11897,7 @@
     level: 3
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -11925,7 +11925,7 @@
     level: 4
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -11953,7 +11953,7 @@
     level: 5
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -11981,7 +11981,7 @@
     level: 6
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12009,7 +12009,7 @@
     level: 7
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12037,7 +12037,7 @@
     level: 8
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12065,7 +12065,7 @@
     level: 9
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12093,7 +12093,7 @@
     level: 10
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12693,7 +12693,7 @@
     level: 1
     normal_attack: 900854
     passive_skill: "900673,900851,910851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12721,7 +12721,7 @@
     level: 2
     normal_attack: 900854
     passive_skill: "900673,900851,910851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12749,7 +12749,7 @@
     level: 3
     normal_attack: 900854
     passive_skill: "900673,900851,910851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12777,7 +12777,7 @@
     level: 4
     normal_attack: 900854
     passive_skill: "900673,900851,910851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12805,7 +12805,7 @@
     level: 5
     normal_attack: 900854
     passive_skill: "900673,900851,910851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12833,7 +12833,7 @@
     level: 6
     normal_attack: 900854
     passive_skill: "900673,900851,910851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12861,7 +12861,7 @@
     level: 7
     normal_attack: 900854
     passive_skill: "900673,900851,910851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12889,7 +12889,7 @@
     level: 8
     normal_attack: 900854
     passive_skill: "900673,900851,910851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12917,7 +12917,7 @@
     level: 9
     normal_attack: 900854
     passive_skill: "900673,900851,910851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -12945,7 +12945,7 @@
     level: 10
     normal_attack: 900854
     passive_skill: "900673,900851,910851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -19695,7 +19695,7 @@
     level: 1
     normal_attack: 900107
     passive_skill: "750468,750463"
-    unable_buff_id: "3250,3251,3252,3253,3254,3255"
+    unable_buff_id: "3250,3251,3252,3253,3254,3255,8418"
     scale: "1,1,1"
     start_offset: "0,0,0"
     camp: 1
@@ -19715,7 +19715,7 @@
     level: 1
     normal_attack: 900107
     passive_skill: "750468,750464"
-    unable_buff_id: "3250,3251,3252,3253,3254,3255"
+    unable_buff_id: "3250,3251,3252,3253,3254,3255,8418"
     scale: "1,1,1"
     start_offset: "0,0,0"
     camp: 1
@@ -19735,7 +19735,7 @@
     level: 1
     normal_attack: 900107
     passive_skill: "750468,750465"
-    unable_buff_id: "3250,3251,3252,3253,3254,3255"
+    unable_buff_id: "3250,3251,3252,3253,3254,3255,8418"
     scale: "1,1,1"
     start_offset: "0,0,0"
     camp: 1
@@ -19755,7 +19755,7 @@
     level: 1
     normal_attack: 900107
     passive_skill: "750468,750466"
-    unable_buff_id: "3250,3251,3252,3253,3254,3255"
+    unable_buff_id: "3250,3251,3252,3253,3254,3255,8418"
     scale: "1,1,1"
     start_offset: "0,0,0"
     camp: 1
@@ -19775,7 +19775,7 @@
     level: 1
     normal_attack: 900107
     passive_skill: "750468,750467"
-    unable_buff_id: "3250,3251,3252,3253,3254,3255"
+    unable_buff_id: "3250,3251,3252,3253,3254,3255,8418"
     scale: "1,1,1"
     start_offset: "0,0,0"
     camp: 1
@@ -22174,7 +22174,7 @@
     level: 1
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -22202,7 +22202,7 @@
     level: 2
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -22230,7 +22230,7 @@
     level: 3
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -22258,7 +22258,7 @@
     level: 4
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -22286,7 +22286,7 @@
     level: 5
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -22314,7 +22314,7 @@
     level: 6
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -22342,7 +22342,7 @@
     level: 7
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -22370,7 +22370,7 @@
     level: 8
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -22398,7 +22398,7 @@
     level: 9
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
@@ -22426,7 +22426,7 @@
     level: 10
     normal_attack: 900854
     passive_skill: "900673,900851,900852,900853,900855,900856,900858,900849"
-    unable_buff_id: "185,3029,7163"
+    unable_buff_id: "185,3029,7163,817,818,8535,8379"
     scale: "1,1,1"
     start_offset: "-8,0,0"
     camp: 1
