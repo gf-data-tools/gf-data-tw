@@ -27844,7 +27844,7 @@
     type: 8
     sort: 4
     quota: 2001
-    giftbag_name: 戰術人形:AUG SMG
+    giftbag_name: 戰術人形:AUG Para
     event_code: dailyGiftbag
     discount: 1.0
     prize_id: 40288
@@ -28019,7 +28019,7 @@
     gemprice: 2588
     if_cheap: 1
     quota: 2001
-    giftbag_name: AUG SMG-皮斯科酸
+    giftbag_name: AUG Para-皮斯科酸
     event_code: dailyGiftbag
     icon: Bumdle_newskin01
     discount: 1.0

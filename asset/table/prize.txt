@@ -10822,7 +10822,7 @@ prize-10001581,戰術人形:劉氏步槍
 prize-20001581,
 prize-10001582,戰術人形:SL8
 prize-20001582,
-prize-10001583,戰術人形:AUG SMG
+prize-10001583,戰術人形:AUG Para
 prize-20001583,
 prize-10001584,戰術人形:VHS
 prize-20001584,

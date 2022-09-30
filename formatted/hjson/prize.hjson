@@ -11977,7 +11977,7 @@
   }
   {
     id: 1583
-    name: 戰術人形:AUG SMG
+    name: 戰術人形:AUG Para
     gun_id: "315"
     item_ids: 100158-1
     content: prize-20001583

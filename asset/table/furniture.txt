@@ -1146,8 +1146,8 @@ furniture-10030577,VHS-懸浮威士忌
 furniture-20030577,VHS的海報。
 furniture-10030578,劉氏步槍-浮世風潮
 furniture-20030578,劉氏步槍的海報。
-furniture-10030579,AUG SMG-皮斯科酸
-furniture-20030579,AUG SMG的海報。
+furniture-10030579,AUG Para-皮斯科酸
+furniture-20030579,AUG Para的海報。
 furniture-10030581,HK416-白色尼格羅尼
 furniture-20030581,HK416的海報。
 furniture-10030582,G11-腦海中的橡皮擦
