@@ -1930,6 +1930,9 @@ enemy_character_type-30900365,
 enemy_character_type-20900366,柳芭老媽
 enemy_character_type-10900366,
 enemy_character_type-30900366,
+enemy_character_type-20900367,劊子手-血魘獵狂
+enemy_character_type-10900367,精英//c劊子手
+enemy_character_type-30900367,
 enemy_character_type-20080001,盾牌娘
 enemy_character_type-10080001,
 enemy_character_type-30080001,

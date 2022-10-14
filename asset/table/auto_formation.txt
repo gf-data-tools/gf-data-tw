@@ -56,3 +56,5 @@ auto_formation-10000028,末日魔犬基礎陣型
 auto_formation-20000028,<color=#ff7f00>泛用性</color>不錯的梯隊，在大部分場合下都能有所發揮。
 auto_formation-10000029,埃莉諾-滄龍掠騎者基礎陣型
 auto_formation-20000029,編入了能夠更好輔助Boss作戰的特種單位，攻防兼具並且有著能夠迅速擊潰敵方後排的能力。
+auto_formation-10000030,劊子手-血魘獵狂基礎陣型
+auto_formation-20000030,直接衝擊敵方梯隊，對人形敵人有著更強的殺傷能力。

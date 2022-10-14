@@ -28,6 +28,8 @@
     start_time: 2022-10-18 00:00:00
     end_time: 2022-11-21 23:59:59
     skin_id: 316_578
+    paid_productid: as_tianxia:10073,10074,10075;as_google:10173,10174,10175
+    paid_productid_discount: as_tianxia:10073,10074,10075;as_google:10173,10174,10175
     exp_mallid: 36
     discount_itemid: 160001
     exhibit_bonus: "130005,130006"

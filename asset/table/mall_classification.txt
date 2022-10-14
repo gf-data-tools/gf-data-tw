@@ -7,10 +7,10 @@ mall_classification-10006000,特供
 mall_classification-10001001,真核面具
 mall_classification-10001002,勳章兌換
 mall_classification-10001003,縱向應變//n勳章兌換
-mall_classification-10001004,捩浪人//n代幣兌換
+mall_classification-10001004,繭中蝶影//n代幣兌換
 mall_classification-10001005,蝕心面具
 mall_classification-10001006,萊肯禁獵區//n代幣兌換
-mall_classification-10001007,a
+mall_classification-10001007,繭中蝶影//n勳章兌換
 mall_classification-10001008,a
 mall_classification-10002002,月卡
 mall_classification-10003001,七日禮包

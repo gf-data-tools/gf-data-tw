@@ -39149,6 +39149,82 @@
     boss_available: 1
   }
   {
+    id: 8374
+    name: 战区暴击率提升
+    conflict_type: 2142
+    max_tier: 1
+    type: 106
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    critical_number: *201
+    trigger_creation_id: "201"
+    is_form_play: 1
+  }
+  {
+    id: 8375
+    name: 战区暴击伤害下降
+    conflict_type: 2142
+    max_tier: 1
+    type: 112
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    critical_damage_number: *202
+    trigger_creation_id: "205"
+    is_form_play: 1
+  }
+  {
+    id: 8376
+    name: 战区伤害下降
+    conflict_type: 2142
+    max_tier: 1
+    type: 201
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    pow_number: *201
+    trigger_creation_id: "205"
+    is_form_play: 1
+  }
+  {
+    id: 8377
+    name: 战区易伤
+    conflict_type: 2142
+    max_tier: 1
+    type: 110
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    damage_reduce_number: *201
+    buff_animation: BlueFlash
+  }
+  {
+    id: 8378
+    name: 战区穿甲值增加
+    conflict_type: 2142
+    max_tier: 1
+    type: 811
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    arp_number: *101
+    trigger_creation_id: "201"
+    is_form_play: 1
+  }
+  {
+    id: 8379
+    name: 手枪技能
+    conflict_type: 2141
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    available_gun_type: "1"
+    forced_skill: "756222"
+  }
+  {
     id: 8380
     name: 老李伤害提升主动
     conflict_type: 2143
@@ -40782,6 +40858,247 @@
     boss_available: 1
   }
   {
+    id: 8527
+    name: MK47破护盾百分比
+    conflict_type: 2178
+    max_tier: 200
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8528
+    name: MK47减伤百分比
+    conflict_type: 2178
+    max_tier: 200
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8529
+    name: MK47受害者
+    conflict_type: 2179
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "150"
+    boss_available: 1
+  }
+  {
+    id: 8530
+    name: MK47
+    conflict_type: 2179
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8531
+    name: 突击步枪伤害
+    conflict_type: 2180
+    max_tier: 1
+    type: 101
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    pow_number: *201
+    available_gun_type: "4"
+  }
+  {
+    id: 8532
+    name: 突击步枪命中
+    conflict_type: 2180
+    max_tier: 1
+    type: 103
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    hit_number: *201
+    available_gun_type: "4"
+  }
+  {
+    id: 8533
+    name: 冲锋枪命中
+    conflict_type: 2181
+    max_tier: 1
+    type: 103
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    hit_number: *201
+    available_gun_type: "2"
+  }
+  {
+    id: 8534
+    name: 冲锋枪回避
+    conflict_type: 2180
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    dodge_number: *201
+    available_gun_type: "2"
+  }
+  {
+    id: 8535
+    name: 手枪永久冷却
+    conflict_type: 2180
+    max_tier: 1
+    type: 128
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    available_gun_type: "1"
+    cdr_number: "80"
+  }
+  {
+    id: 8536
+    name: 手枪全队伤害
+    conflict_type: 2181
+    max_tier: 9
+    type: 101
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    pow_number: *201
+  }
+  {
+    id: 8537
+    name: 手枪全队回避
+    conflict_type: 2181
+    max_tier: 9
+    type: 102
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    dodge_number: *201
+  }
+  {
+    id: 8538
+    name: 步枪伤害
+    conflict_type: 2182
+    max_tier: 1
+    type: 101
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    pow_number: *201
+    available_gun_type: "3"
+  }
+  {
+    id: 8539
+    name: 步枪命中
+    conflict_type: 2182
+    max_tier: 1
+    type: 103
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    hit_number: *201
+    available_gun_type: "3"
+  }
+  {
+    id: 8540
+    name: 步枪暴伤
+    conflict_type: 2180
+    max_tier: 1
+    type: 112
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    critical_damage_number: *201
+    available_gun_type: "3"
+  }
+  {
+    id: 8541
+    name: 机枪伤害
+    conflict_type: 2183
+    max_tier: 1
+    type: 101
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    pow_number: *201
+    available_gun_type: "5"
+  }
+  {
+    id: 8542
+    name: 机枪命中
+    conflict_type: 2183
+    max_tier: 1
+    type: 103
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    hit_number: *201
+    available_gun_type: "5"
+  }
+  {
+    id: 8543
+    name: 机枪额外固定伤害
+    conflict_type: 2180
+    max_tier: 1
+    type: 132
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    available_gun_type: "5"
+    orb_effect: 75622101
+  }
+  {
+    id: 8544
+    name: 机枪换弹时间
+    conflict_type: 2180
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    available_gun_type: "5"
+  }
+  {
+    id: 8545
+    name: 霰弹枪减伤
+    conflict_type: 2180
+    max_tier: 1
+    type: 402
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    available_gun_type: "6"
+    fix_damage: 1000004786
+  }
+  {
+    id: 8546
+    name: 霰弹枪护盾
+    conflict_type: 2180
+    max_tier: 99999
+    type: 109
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    shield_number: *101
+    available_gun_type: "6"
+  }
+  {
+    id: 8547
+    name: 霰弹枪护甲
+    conflict_type: 2180
+    max_tier: 1
+    type: 108
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    armor_reduce_number: *201
+    available_gun_type: "6"
+  }
+  {
     id: 8548
     name: K2装备
     description: "1"
@@ -40830,6 +41147,387 @@
     conflict_type: 105
     max_tier: 20
     type: 401
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8553
+    name: 万圣行裁者大招后技能1
+    conflict_type: 2184
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "300"
+    boss_available: 1
+    forced_skill: "750585"
+  }
+  {
+    id: 8554
+    name: 万圣行裁者大招后技能2
+    conflict_type: 2184
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "300"
+    boss_available: 1
+    forced_skill: "750586"
+  }
+  {
+    id: 8555
+    name: 万圣行裁者大招后技能3
+    conflict_type: 2185
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "300"
+    boss_available: 1
+    forced_skill: "750587"
+  }
+  {
+    id: 8556
+    name: 万圣行裁者大招后技能4
+    conflict_type: 2185
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "300"
+    boss_available: 1
+    forced_skill: "750588"
+  }
+  {
+    id: 8557
+    name: 万圣行裁者大招后技能5
+    conflict_type: 2186
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "300"
+    boss_available: 1
+    forced_skill: "750589"
+  }
+  {
+    id: 8558
+    name: 万圣行裁者大招后技能6
+    conflict_type: 2186
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "300"
+    boss_available: 1
+    forced_skill: "750590"
+  }
+  {
+    id: 8559
+    name: 万行大招伤害减免
+    conflict_type: 2184
+    max_tier: 1
+    type: 110
+    duration_type: 1
+    duration: "30"
+    boss_available: 1
+    damage_reduce_number: *201
+  }
+  {
+    id: 8560
+    name: 万行大招护盾
+    conflict_type: 2184
+    max_tier: 999
+    type: 109
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    shield_number: *101
+    trigger_creation_id: "220"
+    buff_animation: BlueFlash
+    buff_description: ShieldText
+  }
+  {
+    id: 8561
+    name: 万行护盾倍率
+    conflict_type: 2187
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8562
+    name: 万行护盾倍率解析
+    conflict_type: 2187
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8563
+    name: 万行三-伤害和攻速倍率
+    conflict_type: 2188
+    max_tier: 100
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8564
+    name: 万行三-近战伤害倍率
+    conflict_type: 2188
+    max_tier: 100
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8565
+    name: 万行三-回避护盾倍率
+    conflict_type: 2189
+    max_tier: 100
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8566
+    name: 万行四-首伤倍率
+    conflict_type: 2189
+    max_tier: 200
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8567
+    name: 万行普攻扳机
+    conflict_type: 2190
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8568
+    name: 万行二-弹伤易伤倍率
+    conflict_type: 2190
+    max_tier: 100
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8569
+    name: 万行二-割伤伤害倍率
+    conflict_type: 2191
+    max_tier: 100
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8570
+    name: 万行二-流血伤害值
+    conflict_type: 2191
+    max_tier: 100
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8571
+    name: 万行二-双流血倍率提升
+    conflict_type: 2192
+    max_tier: 100
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8572
+    name: 万行二技能中
+    conflict_type: 2192
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    trigger_creation_id: "9000"
+  }
+  {
+    id: 8573
+    name: 万行坚守额外攻距
+    conflict_type: 526
+    max_tier: 1
+    type: 830
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    range_number: "50"
+  }
+  {
+    id: 8574
+    name: 万行攻速提升
+    conflict_type: 2192
+    max_tier: 1
+    type: 104
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    rate_number: *202
+  }
+  {
+    id: 8575
+    name: 万行伤害提升
+    conflict_type: 2192
+    max_tier: 1
+    type: 101
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    pow_number: *201
+  }
+  {
+    id: 8576
+    name: 万行友方护盾
+    conflict_type: 2192
+    max_tier: 3
+    type: 109
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    shield_number: *101
+    trigger_creation_id: "220"
+    buff_animation: BlueFlash
+    buff_description: ShieldText
+  }
+  {
+    id: 8577
+    name: 万行弹伤易伤
+    conflict_type: 2192
+    max_tier: 1
+    type: 110
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    damage_reduce_number: *202
+    trigger_creation_id: "8998"
+    is_form_play: 1
+  }
+  {
+    id: 8578
+    name: 万行割伤伤害下降
+    conflict_type: 2192
+    max_tier: 1
+    type: 201
+    duration_type: 1
+    duration: *102
+    boss_available: 1
+    pow_number: *202
+    trigger_creation_id: "8997"
+    is_form_play: 1
+  }
+  {
+    id: 8579
+    name: 万行愈合技能
+    conflict_type: 2193
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "100"
+    boss_available: 1
+    forced_skill: "750600"
+  }
+  {
+    id: 8580
+    name: 万行首击3秒
+    conflict_type: 2193
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "90"
+    boss_available: 1
+    trigger_creation_id: "8999"
+  }
+  {
+    id: 8581
+    name: 刽子手攻击距离缩短
+    conflict_type: 2193
+    max_tier: 1
+    type: 830
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    range_number: "-20"
+  }
+  {
+    id: 8582
+    name: 减前置冷却100%
+    conflict_type: 2193
+    max_tier: 1
+    type: 129
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    cdr_number: *201
+  }
+  {
+    id: 8583
+    name: 减前置冷却50%
+    conflict_type: 2194
+    max_tier: 1
+    type: 129
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    cdr_number: *201
+  }
+  {
+    id: 8584
+    name: 队伍夜视+10%
+    conflict_type: 2194
+    max_tier: 1
+    type: 404
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    night_view_percent: "10"
+  }
+  {
+    id: 8585
+    name: 换弹-2秒
+    conflict_type: 2194
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8586
+    name: 换弹-1.5秒
+    conflict_type: 2194
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 8587
+    name: 换弹-1秒
+    conflict_type: 2194
+    max_tier: 1
+    type: 400
     duration_type: 1
     duration: "99999"
     boss_available: 1

@@ -12029,6 +12029,74 @@
     icon: Bumdle_black
   }
   {
+    id: 1591
+    name: 萬聖代幣*20+保底a
+    item_ids: 100160-20,100161-1
+    content: prize-20001591
+  }
+  {
+    id: 1592
+    name: 萬聖代幣*20+保底b
+    item_ids: 100160-20,100162-1
+    content: prize-20001592
+  }
+  {
+    id: 1593
+    name: 萬聖代幣*20
+    item_ids: 100160-20
+    content: prize-20001593
+  }
+  {
+    id: 1594
+    name: 萬聖代幣*30+保底a*2
+    item_ids: 100160-30,100161-2
+    content: prize-20001594
+  }
+  {
+    id: 1595
+    name: 萬聖代幣*30+保底b*2
+    item_ids: 100160-30,100162-2
+    content: prize-20001595
+  }
+  {
+    id: 1596
+    name: 萬聖代幣*30
+    item_ids: 100160-30
+    content: prize-20001596
+  }
+  {
+    id: 1597
+    name: 保底a
+    item_ids: 100161-1
+    content: prize-20001597
+  }
+  {
+    id: 1598
+    name: 保底b
+    item_ids: 100162-1
+    content: prize-20001598
+  }
+  {
+    id: 1599
+    name: 保底2a
+    item_ids: 100161-2
+    content: prize-20001599
+  }
+  {
+    id: 1600
+    name: 保底2b
+    item_ids: 100162-2
+    content: prize-20001600
+  }
+  {
+    id: 1601
+    name: 萬聖慶典禮包
+    item_ids: 41-500,605-15,516-1000,45-500
+    gift: 100003-5
+    content: prize-20001601
+    icon: Bumdle_Division
+  }
+  {
     id: 2001
     name: WA2000-古堡歷險
     gift: 6-1
@@ -14066,6 +14134,18 @@
     id: 5026
     name: 咖啡廳2021冬活PV獎勵-Protean
     furniture: "20026"
+    content: 領取獎勵
+  }
+  {
+    id: 5027
+    name: 咖啡廳2022冬活PV獎勵
+    furniture: "20077"
+    content: 領取獎勵
+  }
+  {
+    id: 5028
+    name: 咖啡廳2022夏活PV獎勵
+    furniture: "20078"
     content: 領取獎勵
   }
   {
@@ -24600,6 +24680,12 @@
     name: 千年的祈盼
     furniture: "7237"
     content: prize-20012190
+  }
+  {
+    id: 12191
+    name: 甜美治療椅
+    furniture: "2049"
+    content: prize-20012191
   }
   {
     id: 12201

@@ -27704,6 +27704,36 @@
     rotate: "3"
   }
   {
+    id: 20077
+    name: 海報-2022靜風點
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2022冬季活動-靜風點的特典海報。
+    code: pv_2022winter
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
+    id: 20078
+    name: 海報-2022縱向應變
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2022夏季活動-縱向應變的特典海報。
+    code: pv_2022summer
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
     id: 30001
     name: 馬卡洛夫-南瓜熊熊
     classes: 300
