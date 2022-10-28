@@ -1158,6 +1158,20 @@ furniture-10030584,UMP45-科羅娜日落
 furniture-20030584,UMP45的海報。
 furniture-10030585,UMP40-水中望月
 furniture-20030585,UMP40的海報。
+furniture-10037601,M327-它，如影隨形
+furniture-20037601,M327的海報
+furniture-10037602,KH2002-魔獄先遣隊
+furniture-20037602,KH2002的海報
+furniture-10037603,JS 9-銀鱗戲竹翳
+furniture-20037603,JS 9的海報
+furniture-10037604,PPQ-誕自指尖
+furniture-20037604,PPQ的海報
+furniture-10037605,斯登MkⅡ-誰動了我的糖果
+furniture-20037605,斯登MkⅡ的海報
+furniture-10037606,MG42-女巫見習中
+furniture-20037606,MG42的海報
+furniture-10037607,G43-夜訪女伯爵
+furniture-20037607,G43的海報
 furniture-10003103,睡貨精靈
 furniture-20003103,軟綿綿的睡貨專用裝置，躺在上面感覺仿佛經驗值都上升了啊……才怪！別做夢了，快起來努力工作才有經驗拿！
 furniture-10003108,晚安琴架

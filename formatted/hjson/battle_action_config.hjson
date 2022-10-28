@@ -2274,7 +2274,8 @@
   {
     id: 442
     name: FP6爆炸
-    creation_order: "2043"
+    creation_order: "2043,9002"
+    creation_delay: "0,0"
   }
   {
     id: 443

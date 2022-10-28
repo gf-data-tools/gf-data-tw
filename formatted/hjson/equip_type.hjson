@@ -159,4 +159,28 @@
     code: Special_TDoll
     des: 特殊的人形裝備，不同類型對人形屬性影響不同，無法製造
   }
+  {
+    type: 21
+    name: 固定腳架
+    category: 3
+    code: GroundMount
+    fit_gun_type: "5"
+    des: 可以提升人形的<color=#FFB400FF>命中</color>和<color=#FFB400FF>換彈速度</color>，但會減少<color=#FFB400FF>移速</color>
+  }
+  {
+    type: 22
+    name: 喉縮管
+    category: 1
+    code: Cylinder
+    fit_gun_type: "6"
+    des: 可以提升人形的<color=#FFB400FF>彈量</color>和<color=#FFB400FF>命中</color>
+  }
+  {
+    type: 23
+    name: 測距儀
+    category: 3
+    code: RangeFinder
+    fit_gun_type: "3"
+    des: 可以提升人形的<color=#FFB400FF>傷害</color>和縮減技能<color=#FFB400FF>前置冷卻</color>
+  }
 ]

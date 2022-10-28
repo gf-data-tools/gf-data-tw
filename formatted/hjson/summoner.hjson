@@ -12499,6 +12499,7 @@
     scale: "0.6,0.6,0.6"
     start_offset: "0,0,0"
     camp: 1
+    phase_duration: 99999
   }
   {
     id: 1471
@@ -12522,6 +12523,7 @@
     scale: "0.6,0.6,0.6"
     start_offset: "0,0,0"
     camp: 1
+    phase_duration: 99999
   }
   {
     id: 1472

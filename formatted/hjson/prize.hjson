@@ -12097,6 +12097,13 @@
     icon: Bumdle_Division
   }
   {
+    id: 1602
+    name: 2022年11月簽到
+    gem: 90
+    equip_ids: "315"
+    content: prize-20001602
+  }
+  {
     id: 2001
     name: WA2000-古堡歷險
     gift: 6-1
@@ -13979,6 +13986,18 @@
     name: 頭像：大白鯊樂園頭像
     item_ids: 2110-1
     content: prize-20004312
+  }
+  {
+    id: 4313
+    name: 融合勢力：劊子手-血魘獵狂
+    sangvis: "1021"
+    content: prize-20004313
+  }
+  {
+    id: 4314
+    name: 頭像：劊子手-血魘獵狂頭像
+    item_ids: 2182-1
+    content: prize-20004314
   }
   {
     id: 5001
@@ -21693,6 +21712,62 @@
     user_exp: 2000
     item_ids: 106-60,2139-1,200008-1
     content: 恭喜你在「代號伍：湍動」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勳章*60，指揮官經驗*2000，頭像「無咎殊途」
+    icon: Medal_Chess
+  }
+  {
+    id: 10750
+    name: prize-10010750
+    user_exp: 30
+    item_ids: 106-5,2183-1,200006-1
+    content: prize-20010750
+    icon: Medal_Chess
+  }
+  {
+    id: 10751
+    name: prize-10010751
+    user_exp: 60
+    item_ids: 106-10
+    content: prize-20010751
+    icon: Medal_Chess
+  }
+  {
+    id: 10752
+    name: prize-10010752
+    user_exp: 100
+    item_ids: 106-20
+    content: prize-20010752
+    icon: Medal_Chess
+  }
+  {
+    id: 10753
+    name: prize-10010753
+    user_exp: 200
+    item_ids: 106-30,2184-1,200007-1
+    content: prize-20010753
+    icon: Medal_Chess
+  }
+  {
+    id: 10754
+    name: prize-10010754
+    user_exp: 500
+    item_ids: 106-40
+    content: prize-20010754
+    icon: Medal_Chess
+  }
+  {
+    id: 10755
+    name: prize-10010755
+    user_exp: 1000
+    item_ids: 106-50
+    content: prize-20010755
+    icon: Medal_Chess
+  }
+  {
+    id: 10756
+    name: prize-10010756
+    user_exp: 2000
+    item_ids: 106-60,2185-1,200008-1
+    content: prize-20010756
     icon: Medal_Chess
   }
   {
@@ -31313,7 +31388,7 @@
   {
     id: 30203
     name: 8條線獎勵
-    gift: 6707-1
+    gift: 7606-1
     content: prize-20030203
     icon: Bumdle_blue
   }

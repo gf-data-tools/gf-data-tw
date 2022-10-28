@@ -7557,6 +7557,84 @@
     class_id: 79
   }
   {
+    id: 7601
+    name: M327-它，如影隨形
+    fit_gun: 369
+    voice: 18
+    dialog: 您喜歡紅氣球嗎，指揮官？唔，不再靠近我一點嗎？……我的模樣讓您害怕？那可真是令我……興奮啊。
+    note: skin-30007601
+    illustrator_cv: skin-40007601
+    order: 94
+    class_id: 81
+  }
+  {
+    id: 7602
+    name: KH2002-魔獄先遣隊
+    fit_gun: 342
+    voice: 18
+    dialog: 我可是惡魔中的精英——貼紙惡魔！……你不怕嗎？哼，我要讓你全身布滿貼紙和塗鴉，登上網路熱搜！
+    note: skin-30007602
+    gift_position: "-98,2.5"
+    illustrator_cv: skin-40007602
+    order: 94
+    class_id: 81
+  }
+  {
+    id: 7603
+    name: JS 9-銀鱗戲竹翳
+    fit_gun: 234
+    voice: 18
+    dialog: 這個形態要保持平衡，真是不習慣啊。給您一個建議——扶著我的尾巴，能避免我和您雙雙被它絆倒。
+    note: skin-30007603
+    illustrator_cv: skin-40007603
+    order: 94
+    class_id: 81
+  }
+  {
+    id: 7604
+    name: PPQ-誕自指尖
+    fit_gun: 358
+    voice: 18
+    dialog: 我將用刃與牙，為您開創未來。作為交易，請給我留麵包和氯化鈉當晚餐。
+    note: skin-30007604
+    illustrator_cv: skin-40007604
+    order: 94
+    class_id: 81
+  }
+  {
+    id: 7605
+    name: 司登MkⅡ-誰動了我的糖果
+    fit_gun: 29
+    voice: 18
+    dialog: 不能獨占您，至少要獨占您的糖果！其他人討不到糖會惡作劇？嗯，追上我就還給您，怎麼樣？
+    note: skin-30007605
+    illustrator_cv: skin-40007605
+    order: 94
+    class_id: 81
+  }
+  {
+    id: 7606
+    name: MG42-女巫見習中
+    fit_gun: 86
+    voice: 18
+    dialog: 呼哇，騎掃帚真是太爽了！……等等，我忘了學怎麼煞車！嗚啊啊啊，指揮官小心，要撞上鐘樓了！
+    note: skin-30007606
+    illustrator_cv: Alize,清華,
+    order: 94
+    class_id: 81
+  }
+  {
+    id: 7607
+    name: G43-夜訪女伯爵
+    fit_gun: 47
+    voice: 18
+    dialog: 深夜造訪我的莊園，您就不擔心，我將您永遠留在這裡嗎？……或者說，那正是您所期待的呢？
+    note: skin-30007607
+    illustrator_cv: 星迴,山根希美,
+    order: 94
+    class_id: 81
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57

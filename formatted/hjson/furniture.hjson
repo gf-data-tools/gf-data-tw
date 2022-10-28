@@ -36419,6 +36419,111 @@
     rotate: "3"
   }
   {
+    id: 37601
+    name: M327-它，如影隨形
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M327的海報
+    code: poster_Halloween2022_M327
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37602
+    name: KH2002-魔獄先遣隊
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: KH2002的海報
+    code: poster_Halloween2022_KH2002
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37603
+    name: JS 9-銀鱗戲竹翳
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: JS 9的海報
+    code: poster_Halloween2022_JS9mm
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37604
+    name: PPQ-誕自指尖
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PPQ的海報
+    code: poster_Halloween2022_PPQ
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37605
+    name: 斯登MkⅡ-誰動了我的糖果
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 斯登MkⅡ的海報
+    code: poster_Halloween2022_StenMK2
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37606
+    name: MG42-女巫見習中
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MG42的海報
+    code: poster_Halloween2022_MG42
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37607
+    name: G43-夜訪女伯爵
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G43的海報
+    code: poster_Halloween2022_G43
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 40001
     name: 救助站牆紙
     classes: 400

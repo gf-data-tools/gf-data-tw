@@ -770,7 +770,7 @@
   </item>
   <item des="Assets/_Scenes/HotUpdate.unity/Btn_SpecialEquip/Tex_SpecialOrder">
     <xmlID>Assets/_Scenes/HotUpdate.unity/Btn_SpecialEquip/Tex_SpecialOrder</xmlID>
-    <rect>(10.2, 10.4),(159.0, 48.3)</rect>
+    <rect>(11, 67.48),(81.63, 88.75)</rect>
     <textfont>JDJSCU</textfont>
     <fontstyle>Normal</fontstyle>
     <fontsize>38</fontsize>
@@ -779,9 +779,9 @@
     <alignment>MiddleLeft</alignment>
     <horover>Wrap</horover>
     <verover>Truncate</verover>
-    <bestfit>False</bestfit>
-    <minsize>4</minsize>
-    <maxsize>41</maxsize>
+    <bestfit>True</bestfit>
+    <minsize>10</minsize>
+    <maxsize>38</maxsize>
     <isOrnamental>False</isOrnamental>
   </item>
   <item des="Assets/_Scenes/HotUpdate.unity/TheDivisionLoading/Tex_Name_2">

@@ -45,3 +45,5 @@ sangvis_gasha-10000043,SP24WR分區
 sangvis_gasha-10000044,SP-7C分區
 sangvis_gasha-10000045,SP914區夢魘劇場
 sangvis_gasha-10000046,S09區詭夜墟城外圍
+sangvis_gasha-10000047,S05區對空指揮室
+sangvis_gasha-10000048,SP21輔助電腦安置室

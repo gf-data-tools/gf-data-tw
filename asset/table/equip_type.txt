@@ -40,3 +40,9 @@ equip_type-10000019,特殊彈匣
 equip_type-20000019,特殊的彈匣裝備，不同類型對人形屬性影響不同，無法製造
 equip_type-10000020,特殊人形
 equip_type-20000020,特殊的人形裝備，不同類型對人形屬性影響不同，無法製造
+equip_type-10000021,固定腳架
+equip_type-20000021,可以提升人形的<color=#FFB400FF>命中</color>和<color=#FFB400FF>換彈速度</color>，但會減少<color=#FFB400FF>移速</color>
+equip_type-10000022,喉縮管
+equip_type-20000022,可以提升人形的<color=#FFB400FF>彈量</color>和<color=#FFB400FF>命中</color>
+equip_type-10000023,測距儀
+equip_type-20000023,可以提升人形的<color=#FFB400FF>傷害</color>和縮減技能<color=#FFB400FF>前置冷卻</color>

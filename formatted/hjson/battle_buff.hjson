@@ -40858,46 +40858,6 @@
     boss_available: 1
   }
   {
-    id: 8527
-    name: MK47破护盾百分比
-    conflict_type: 2178
-    max_tier: 200
-    type: 500
-    duration_type: 1
-    duration: "99999"
-    boss_available: 1
-  }
-  {
-    id: 8528
-    name: MK47减伤百分比
-    conflict_type: 2178
-    max_tier: 200
-    type: 400
-    duration_type: 1
-    duration: "99999"
-    boss_available: 1
-  }
-  {
-    id: 8529
-    name: MK47受害者
-    conflict_type: 2179
-    max_tier: 1
-    type: 500
-    duration_type: 1
-    duration: "150"
-    boss_available: 1
-  }
-  {
-    id: 8530
-    name: MK47
-    conflict_type: 2179
-    max_tier: 1
-    type: 400
-    duration_type: 1
-    duration: "99999"
-    boss_available: 1
-  }
-  {
     id: 8531
     name: 突击步枪伤害
     conflict_type: 2180
@@ -41471,31 +41431,31 @@
   }
   {
     id: 8582
-    name: 减前置冷却100%
+    name: 减前置冷却201
     conflict_type: 2193
-    max_tier: 1
+    max_tier: 5
     type: 129
     duration_type: 1
-    duration: "99999"
+    duration: *101
     boss_available: 1
     cdr_number: *201
   }
   {
     id: 8583
-    name: 减前置冷却50%
+    name: 减前置冷却202
     conflict_type: 2194
-    max_tier: 1
+    max_tier: 5
     type: 129
     duration_type: 1
-    duration: "99999"
+    duration: *101
     boss_available: 1
-    cdr_number: *201
+    cdr_number: *202
   }
   {
     id: 8584
     name: 队伍夜视+10%
     conflict_type: 2194
-    max_tier: 1
+    max_tier: 9
     type: 404
     duration_type: 1
     duration: "99999"
@@ -41504,9 +41464,9 @@
   }
   {
     id: 8585
-    name: 换弹-2秒
+    name: 换弹-减15帧
     conflict_type: 2194
-    max_tier: 1
+    max_tier: 99
     type: 400
     duration_type: 1
     duration: "99999"
@@ -41514,20 +41474,43 @@
   }
   {
     id: 8586
-    name: 换弹-1.5秒
+    name: FP6装备
     conflict_type: 2194
     max_tier: 1
-    type: 400
+    type: 500
     duration_type: 1
     duration: "99999"
     boss_available: 1
   }
   {
     id: 8587
-    name: 换弹-1秒
+    name: FP6装备伤害降低10
     conflict_type: 2194
     max_tier: 1
-    type: 400
+    type: 201
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    pow_number: "90"
+    trigger_creation_id: "205"
+  }
+  {
+    id: 8588
+    name: FP6装备穿甲降低100
+    conflict_type: 2194
+    max_tier: 1
+    type: 111
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    arp_number: "20"
+  }
+  {
+    id: 8589
+    name: 测距层数
+    conflict_type: 2195
+    max_tier: 10
+    type: 500
     duration_type: 1
     duration: "99999"
     boss_available: 1
