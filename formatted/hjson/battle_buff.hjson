@@ -41453,14 +41453,14 @@
   }
   {
     id: 8584
-    name: 队伍夜视+10%
+    name: 队伍夜视+5%
     conflict_type: 2194
     max_tier: 9
     type: 404
     duration_type: 1
     duration: "99999"
     boss_available: 1
-    night_view_percent: "10"
+    night_view_percent: "5"
   }
   {
     id: 8585
@@ -41496,7 +41496,7 @@
   }
   {
     id: 8588
-    name: FP6装备穿甲降低100
+    name: FP6装备穿甲降低80
     conflict_type: 2194
     max_tier: 1
     type: 111
