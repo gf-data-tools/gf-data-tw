@@ -7644,4 +7644,14 @@
     illustrator_cv: skin-40030001
     order: 91
   }
+  {
+    id: 30002
+    name: DSR-50-昏曉私語
+    fit_gun: 179
+    voice: 4
+    dialog: 清晨陽光於酒杯中折射的剔透曚影，是比深夜狂歡更迷人的風景……指揮官，您願意陪我一起欣賞嗎？
+    note: skin-30030002
+    illustrator_cv: 小槍,斉藤佑圭,
+    order: 95
+  }
 ]

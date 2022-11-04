@@ -1172,6 +1172,8 @@ furniture-10037606,MG42-女巫見習中
 furniture-20037606,MG42的海報
 furniture-10037607,G43-夜訪女伯爵
 furniture-20037607,G43的海報
+furniture-10330002,DSR-50-昏曉私語
+furniture-20330002,DSR-50的海報。
 furniture-10003103,睡貨精靈
 furniture-20003103,軟綿綿的睡貨專用裝置，躺在上面感覺仿佛經驗值都上升了啊……才怪！別做夢了，快起來努力工作才有經驗拿！
 furniture-10003108,晚安琴架

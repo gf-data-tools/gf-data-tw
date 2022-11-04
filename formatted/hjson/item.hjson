@@ -546,6 +546,26 @@
     detail_introduction: item-30000113
   }
   {
+    id: 114
+    type: 3
+    arg: "15"
+    code: Medal_Theater9th
+    item_name: 第九戰區開拓者勳章
+    introduction: 表彰該指揮官及其麾下戰術人形在第九期戰區通過不懈努力收穫的矚目積分，「墜落的一瞬，只有翅膀足夠強壯的雛鷹才能逆風飛翔。」
+    rank: 1
+    detail_introduction: item-30000114
+  }
+  {
+    id: 115
+    type: 3
+    arg: "16"
+    code: Medal_Theater9th_rank
+    item_name: 第九戰區征服者勳章
+    introduction: 表彰該指揮官及其麾下戰術人形在第九期戰區立下的卓越戰功，「不要害怕深淵的凝視，因為那是勇者必經的考驗。」
+    rank: 1
+    detail_introduction: item-30000115
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -624,6 +644,16 @@
     introduction: 重裝部隊PP93的數據碎片，-「提問！早早在海邊登陸的我們叫海藻，那麼——」-「海濱目標區域的敵人叫海豹，這冷笑話你都講幾百遍了！」
     rank: 1
     detail_introduction: item-30000308
+  }
+  {
+    id: 309
+    type: 1
+    arg: "1"
+    code: CentreDataMK47
+    item_name: 핵심 데이터: Mk 47
+    introduction: 중장비 부대 Mk 47의 데이터 조각. -"화력 청소 서비스 도착했습니다. 이번에도 평소처럼——"-"잠깐, 관측된 적의 수량이 예상을 초과... 이거 추가요금이 필요한데요."
+    rank: 1
+    detail_introduction: item-30000309
   }
   {
     id: 501
@@ -12698,8 +12728,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season8_1
-    item_name: item-10002183
-    introduction: item-20002183
+    item_name: 武備前鋒 · 代號陸：渦旋
+    introduction: 武備前鋒 · 代號陸：渦旋
     rank: 1
     detail_introduction: item-30002183
   }
@@ -12708,8 +12738,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season8_2
-    item_name: item-10002184
-    introduction: item-20002184
+    item_name: 淬鐵戰勳 · 代號陸：渦旋
+    introduction: 淬鐵戰勳 · 代號陸：渦旋
     rank: 1
     detail_introduction: item-30002184
   }
@@ -12718,10 +12748,30 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season8_3
-    item_name: item-10002185
-    introduction: item-20002185
+    item_name: 無畏雄心 · 代號陸：渦旋
+    introduction: 無畏雄心 · 代號陸：渦旋
     rank: 1
     detail_introduction: item-30002185
+  }
+  {
+    id: 2186
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_DSR50
+    item_name: DSR-50-昏曉私語
+    introduction: DSR-50-昏曉私語
+    rank: 1
+    detail_introduction: item-30002186
+  }
+  {
+    id: 2187
+    type: 5
+    arg: "1"
+    code: card_BattlePass_DSR50
+    item_name: 名片：圓桌酒保
+    introduction: 名片：圓桌酒保
+    rank: 1
+    detail_introduction: item-30002187
   }
   {
     id: 4001
@@ -16021,7 +16071,7 @@
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
     item_name: *榴彈捕手
-    introduction: *直面一切突如其來的危險，並思索出完美規避，乃至反敗為勝的策略，這是作為一名指揮官的生存之道。感到慶幸吧，至少現在向你飛來的壞東西，時速還遠沒有達到150公里。
+    introduction: item-20140001
     rank: 1
     detail_introduction: item-30140001
   }
@@ -16031,7 +16081,7 @@
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
     item_name: *榴彈捕手
-    introduction: *直面一切突如其來的危險，並思索出完美規避，乃至反敗為勝的策略，這是作為一名指揮官的生存之道。感到慶幸吧，至少現在向你飛來的壞東西，時速還遠沒有達到150公里。
+    introduction: item-20140002
     rank: 1
     detail_introduction: item-30140002
   }
@@ -16041,7 +16091,7 @@
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
     item_name: *榴彈捕手
-    introduction: *直面一切突如其來的危險，並思索出完美規避，乃至反敗為勝的策略，這是作為一名指揮官的生存之道。感到慶幸吧，至少現在向你飛來的壞東西，時速還遠沒有達到150公里。
+    introduction: item-20140003
     rank: 1
     detail_introduction: item-30140003
   }
@@ -16051,9 +16101,29 @@
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
     item_name: *榴彈捕手
-    introduction: *直面一切突如其來的危險，並思索出完美規避，乃至反敗為勝的策略，這是作為一名指揮官的生存之道。感到慶幸吧，至少現在向你飛來的壞東西，時速還遠沒有達到150公里。
+    introduction: item-20140004
     rank: 1
     detail_introduction: item-30140004
+  }
+  {
+    id: 140005
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    introduction: item-20140005
+    rank: 1
+    detail_introduction: item-30140005
+  }
+  {
+    id: 140006
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    introduction: item-20140006
+    rank: 1
+    detail_introduction: item-30140006
   }
   {
     id: 160001
@@ -16184,6 +16254,16 @@
     introduction: 頭像框·巷角回音
     rank: 1
     detail_introduction: item-30200014
+  }
+  {
+    id: 200015
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_DSR50
+    item_name: 頭像框·當仿生犬夢見電子酒
+    introduction: 頭像框·當仿生犬夢見電子酒
+    rank: 1
+    detail_introduction: item-30200015
   }
   {
     id: 900030
@@ -16376,12 +16456,45 @@
   {
     id: 1500017
     type: 15
-    arg: "1500009"
+    arg: "1500017"
     code: package_choose
     item_name: 基礎裝備自選序標
     introduction: 打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
     detail_introduction: item-31500017
+  }
+  {
+    id: 1500018
+    type: 15
+    arg: "1500018"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500018
+  }
+  {
+    id: 1500019
+    type: 15
+    arg: "1500019"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 打開時，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500019
+  }
+  {
+    id: 1500020
+    type: 15
+    arg: "1500020"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 打開時，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500020
   }
 ]

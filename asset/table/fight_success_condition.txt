@@ -48,20 +48,20 @@ fight_success_condition-10000710,限定槍種
 fight_success_condition-20000710,AR參與戰鬥
 fight_success_condition-10000711,最高傷害
 fight_success_condition-20000711,出戰人形/融合勢力單位最高傷害占比不高於40%
-fight_success_condition-10000712,有HG參戰
-fight_success_condition-20000712,至少1個以上HG參與戰鬥
+fight_success_condition-10000712,限定槍種
+fight_success_condition-20000712,HG參與戰鬥
 fight_success_condition-10000713,戰鬥用時
 fight_success_condition-20000713,30秒內完成戰鬥
-fight_success_condition-10000714,有RF參戰
-fight_success_condition-20000714,至少1個以上RF參與戰鬥
+fight_success_condition-10000714,限定槍種
+fight_success_condition-20000714,RF參與戰鬥
 fight_success_condition-10000715,擊殺用時（單個）
 fight_success_condition-20000715,50秒內擊殺銜尾蛇
 fight_success_condition-10000716,剩餘人數
 fight_success_condition-20000716,戰鬥勝利時場上人形不少於4個
-fight_success_condition-10000717,有3個RF參戰
+fight_success_condition-10000717,指定數量某槍種
 fight_success_condition-20000717,至少3個以上RF參與戰鬥
-fight_success_condition-10000718,有MG參戰
-fight_success_condition-20000718,至少1個以上MG參與戰鬥
+fight_success_condition-10000718,限定槍種
+fight_success_condition-20000718,MG參與戰鬥
 fight_success_condition-10000719,最高傷害
 fight_success_condition-20000719,出戰人形/融合勢力單位最高傷害占比不高於40%
 fight_success_condition-10000720,技能釋放次數
@@ -88,3 +88,11 @@ fight_success_condition-10000801,擊殺用時（單個）
 fight_success_condition-20000801,40秒內擊殺1個涅托 輔翼
 fight_success_condition-10000802,擊殺用時（單個）
 fight_success_condition-20000802,40秒內擊殺2個指揮士
+fight_success_condition-10000901,指定數量某槍種
+fight_success_condition-20000901,至少2個以上RF參與戰鬥
+fight_success_condition-10000902,指定人形（或）
+fight_success_condition-20000902,包含M4A1//cM4 SOPMODII//cST AR-15中一個
+fight_success_condition-10000903,指定數量某槍種
+fight_success_condition-20000903,至少2個以上MG參與戰鬥
+fight_success_condition-10000904,指定數量某槍種
+fight_success_condition-20000904,至少3個以上MG參與戰鬥

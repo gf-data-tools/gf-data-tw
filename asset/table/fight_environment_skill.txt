@@ -91,7 +91,7 @@ fight_environment_skill-20000737,我方全體射速提升50%
 fight_environment_skill-10000738,急速攻擊
 fight_environment_skill-20000738,我方前置冷卻時間縮減50%
 fight_environment_skill-10000739,暴怒號令
-fight_environment_skill-20000739,爆傷提升50%
+fight_environment_skill-20000739,暴擊傷害提升50%
 fight_environment_skill-10000740,全面出擊
 fight_environment_skill-20000740,每有1種槍種全體提升30%傷害、射速、命中、閃避
 fight_environment_skill-10000741,清除指令
@@ -100,3 +100,15 @@ fight_environment_skill-10000742,暴擊壓制
 fight_environment_skill-20000742,暴擊率降低100%
 fight_environment_skill-10000743,信道中斷
 fight_environment_skill-20000743,每次使用技能後技能冷卻增加100%
+fight_environment_skill-10000901,力不從心
+fight_environment_skill-20000901,我方全體暴擊率上升50%，但暴擊傷害下降80%
+fight_environment_skill-10000902,擊搏挽裂
+fight_environment_skill-20000902,我方全體傷害下降50%，同時賦予敵方全體100%易傷
+fight_environment_skill-10000903,冰消瓦解
+fight_environment_skill-20000903,敵方全體穿甲值增加200點
+fight_environment_skill-10000904,同舟之殤
+fight_environment_skill-20000904,我方除了隊長以外的單位傷害下降20%
+fight_environment_skill-10000905,燃燒打擊Ⅱ
+fight_environment_skill-20000905,開場在我方第二排生成燃燒區域，每0.33秒造成50點編制傷害，持續10秒
+fight_environment_skill-10000906,巨人痛擊
+fight_environment_skill-20000906,每隔10秒對敵我雙方血量最高的單位造成10%最大生命值的傷害

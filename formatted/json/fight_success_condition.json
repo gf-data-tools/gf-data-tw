@@ -201,9 +201,9 @@
     },
     {
         "id": 712,
-        "name": "有HG參戰",
+        "name": "限定槍種",
         "type": 11,
-        "desc": "至少1個以上HG參與戰鬥",
+        "desc": "HG參與戰鬥",
         "condition_coef": "1,1",
         "score_coef": 100
     },
@@ -217,9 +217,9 @@
     },
     {
         "id": 714,
-        "name": "有RF參戰",
+        "name": "限定槍種",
         "type": 11,
-        "desc": "至少1個以上RF參與戰鬥",
+        "desc": "RF參與戰鬥",
         "condition_coef": "3,1",
         "score_coef": 100
     },
@@ -241,7 +241,7 @@
     },
     {
         "id": 717,
-        "name": "有3個RF參戰",
+        "name": "指定數量某槍種",
         "type": 11,
         "desc": "至少3個以上RF參與戰鬥",
         "condition_coef": "3,3",
@@ -249,9 +249,9 @@
     },
     {
         "id": 718,
-        "name": "有MG參戰",
+        "name": "限定槍種",
         "type": 11,
-        "desc": "至少1個以上MG參與戰鬥",
+        "desc": "MG參與戰鬥",
         "condition_coef": "5,1",
         "score_coef": 100
     },
@@ -357,6 +357,38 @@
         "type": 4,
         "desc": "40秒內擊殺2個指揮士",
         "condition_coef": "40|10090,2",
+        "score_coef": 100
+    },
+    {
+        "id": 901,
+        "name": "指定數量某槍種",
+        "type": 11,
+        "desc": "至少2個以上RF參與戰鬥",
+        "condition_coef": "3,2",
+        "score_coef": 100
+    },
+    {
+        "id": 902,
+        "name": "指定人形（或）",
+        "type": 9,
+        "desc": "包含M4A1,M4 SOPMODII,ST AR-15中一個",
+        "condition_coef": "55,56,57",
+        "score_coef": 100
+    },
+    {
+        "id": 903,
+        "name": "指定數量某槍種",
+        "type": 11,
+        "desc": "至少2個以上MG參與戰鬥",
+        "condition_coef": "5,2",
+        "score_coef": 100
+    },
+    {
+        "id": 904,
+        "name": "指定數量某槍種",
+        "type": 11,
+        "desc": "至少3個以上MG參與戰鬥",
+        "condition_coef": "5,3",
         "score_coef": 100
     }
 ]
