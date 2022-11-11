@@ -650,8 +650,8 @@
     type: 1
     arg: "1"
     code: CentreDataMK47
-    item_name: 핵심 데이터: Mk 47
-    introduction: 중장비 부대 Mk 47의 데이터 조각. -"화력 청소 서비스 도착했습니다. 이번에도 평소처럼——"-"잠깐, 관측된 적의 수량이 예상을 초과... 이거 추가요금이 필요한데요."
+    item_name: 中樞數據:Mk 47
+    introduction: 重裝部隊Mk 47的數據碎片，-「您的火力清掃服務已就緒，這次還是老規矩——」-「且慢，目測敵軍數量超出預期……老闆，得再加錢才行啊。」
     rank: 1
     detail_introduction: item-30000309
   }

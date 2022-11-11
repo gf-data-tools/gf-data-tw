@@ -1439,7 +1439,6 @@
     description: 當你的所有效果都是虹色卡片並且都是2級時，獲得本局比賽勝利（積分+10）。
     rank: 5
     skill_target_first: "19901"
-    skill_target_second: "19907"
     target_select_first: 5
     target_select_second: 5
     type: 1
@@ -1645,7 +1644,9 @@
     description: 手槍部署後，首次移動距離*3。
     rank: 5
     skill_target_first: "60201,60204,60203"
+    skill_target_second: "19904"
     target_select_first: 10
+    target_select_second: 5
     type: 1
     sell_price: 7
     experience: 1
