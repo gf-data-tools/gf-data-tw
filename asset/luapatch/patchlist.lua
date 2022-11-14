@@ -281,6 +281,7 @@ patch3010={
 "3010/TheaterEchelonSelection",
 "3010/MotherBaseController",	
 "3010/FlightChessGameController",
+"3010/TheaterDetailUIController",
 }
 -- va11
 print("load Va11");
