@@ -282,6 +282,8 @@ patch3010={
 "3010/MotherBaseController",	
 "3010/FlightChessGameController",
 "3010/TheaterDetailUIController",
+"3010/ConfigData",
+"3010/BattleChangeBackgroundPerformanceController",
 }
 -- va11
 print("load Va11");
