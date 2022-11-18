@@ -43,9 +43,16 @@
   }
   {
     id: 7
-    name: chess_seasonevent-10000007
+    name: 代號伍：湍動
     start_time: 2022-09-06 10:04:00
     end_time: 2022-11-04 10:04:00
     mission_id: 1
+  }
+  {
+    id: 8
+    name: 代號陸：渦旋
+    start_time: 2022-11-15 10:04:00
+    end_time: 2023-01-13 10:04:00
+    mission_id: 2
   }
 ]

@@ -1277,6 +1277,17 @@
     order: 84
   }
   {
+    id: 575
+    name: QBZ-191-水墨菲士
+    fit_gun: 361
+    voice: 4
+    dialog: 無數街道縱橫交錯，又延伸出無數的旁支岔路，就好像我們擁有無限可能性的未來一樣。
+    note: skin-30000575
+    illustrator_cv: skin-40000575
+    order: 93
+    class_id: 80
+  }
+  {
     id: 576
     name: SL8-幽靈菲士
     fit_gun: 296

@@ -5657,7 +5657,7 @@
     name: PM9技能
     action_order: "1"
     action_playspeed: "100"
-    creation_order: "2,21,138,8,2,8"
+    creation_order: "2,21,138,8,10300,8"
     creation_delay: "0,0,0,10,4,7 "
   }
   {
@@ -7819,7 +7819,7 @@
     name: DP12技能普攻
     action_order: attack
     action_playspeed: "100"
-    creation_order: "2813,2813,30,30"
+    creation_order: "2813,10301,30,30"
     creation_delay: "0,4,0,4"
   }
   {
@@ -8845,7 +8845,7 @@
     name: gsh-18改技能普攻
     action_order: attack2
     action_playspeed: "100"
-    creation_order: "1,21,138,1,21,138,2971,2971"
+    creation_order: "1,21,138,10295,21,138,2971,2971"
     creation_delay: "0,0,0,4,4,4,0,4"
     sound_order: BT_pistol,BT_pistol
     sound_delay: "0,4"
@@ -9224,7 +9224,7 @@
     action_order: "1,1"
     action_delay: "0,5"
     action_playspeed: "100,100"
-    creation_order: "3063,21,139,3063,21,139"
+    creation_order: "3063,21,139,10302,21,139"
     creation_delay: "0,0,0,5,5,5"
   }
   {
@@ -19106,7 +19106,7 @@
     name: AN94激活
     action_order: "1"
     action_playspeed: "200"
-    creation_order: "8554,8554,2018,140,140,2018"
+    creation_order: "8554,10303,2018,140,140,2018"
     creation_delay: "0,3,0,0,3,3"
     sound_order: BT_AK,BT_AK
     sound_delay: "0,3"
