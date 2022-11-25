@@ -41202,6 +41202,572 @@
     confront_des: 本次戰役中無法破壞該設施
   }
   {
+    id: 9550101
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: 炮擊陣地①
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550101
+    des: 對支援範圍內的同歸屬單位提供戰鬥支援，戰鬥中持續對敵方進行炮擊打擊。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550102
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: 炮擊陣地②
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550102
+    des: 對支援範圍內的同歸屬單位提供戰鬥支援，戰鬥中持續對敵方進行炮擊打擊。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550103
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: 炮擊陣地③
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550103
+    des: 對支援範圍內的同歸屬單位提供戰鬥支援，戰鬥中持續對敵方進行炮擊打擊。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550104
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: 炮擊陣地④
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550104
+    des: 對支援範圍內的同歸屬單位提供戰鬥支援，戰鬥中持續對敵方進行炮擊打擊。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550105
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: 炮擊陣地⑤
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550105
+    des: 對支援範圍內的同歸屬單位提供戰鬥支援，戰鬥中持續對敵方進行炮擊打擊。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550106
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: 炮擊陣地⑥
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550106
+    des: 對支援範圍內的同歸屬單位提供戰鬥支援，戰鬥中持續對敵方進行炮擊打擊。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550107
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: 炮擊陣地⑦
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550107
+    des: 對支援範圍內的同歸屬單位提供戰鬥支援，戰鬥中持續對敵方進行炮擊打擊。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550108
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: 炮擊陣地⑧
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550108
+    des: 對支援範圍內的同歸屬單位提供戰鬥支援，戰鬥中持續對敵方進行炮擊打擊。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550109
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;405004;0
+    condition: 0:0,1:0;0:0,1:1
+    is_destroy: "1"
+    name: 炮擊陣地⑨
+    code: MissileLauncher
+    shifting_spot: "4,97"
+    shifting_team: "-30,0"
+    battle_assist_range: "1,3"
+    performance_skill: "800101,102304,405002;0;800101,102304,405002;0"
+    show_info: 1
+    active_mission_skill: "95401001"
+    inherent_mission_skill: "1000100"
+    type: 1
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550109
+    des: 對支援範圍內的同歸屬單位提供戰鬥支援，戰鬥中持續對敵方進行炮擊打擊。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550110
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 【標記】兔子_我方列車炮
+    code: Tank_RH
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "1000056"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550110
+    des: building-29550110
+    confront_des: building-39550110
+  }
+  {
+    id: 9550111
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 【標記】兔子_敵方列車炮
+    code: Tank_RH
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "1000056,95401017"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550111
+    des: building-29550111
+    confront_des: building-39550111
+  }
+  {
+    id: 9550112
+    defender: 9999
+    defender_upper: 9999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:1
+    is_destroy: "1"
+    name: 廢棄建築①
+    code: Hiding
+    shifting_spot: "0,120"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 1120101|1000001
+    trigger_distance: 4
+    active_mission_skill: "95401003"
+    inherent_mission_skill: "1120100,1120101,95401002"
+    type: 15
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1,0
+    active_building_info: RuinedBuilding;廢棄建築①;0,0;2000015|Rock2;建築廢墟;0,0;2000016
+    des: 能夠提供一定的掩體支援戰鬥的地點，被爆破後會形成廢墟堵塞道路。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550113
+    defender: 9999
+    defender_upper: 9999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:1
+    is_destroy: "1"
+    name: 廢棄建築②
+    code: Hiding
+    shifting_spot: "0,120"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 1120201|1000001
+    trigger_distance: 4
+    active_mission_skill: "95401004"
+    inherent_mission_skill: "1120200,1120201,95401002"
+    type: 15
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1,0
+    active_building_info: RuinedBuilding;廢棄建築②;0,0;2000015|Rock2;建築廢墟;0,0;2000016
+    des: 能夠提供一定的掩體支援戰鬥的地點，被爆破後會形成廢墟堵塞道路。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550114
+    defender: 9999
+    defender_upper: 9999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:1
+    is_destroy: "1"
+    name: 廢棄建築③
+    code: Hiding
+    shifting_spot: "0,120"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 1120301|1000001
+    trigger_distance: 4
+    active_mission_skill: "95401005"
+    inherent_mission_skill: "1120300,1120301,95401002"
+    type: 15
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1,0
+    active_building_info: RuinedBuilding;廢棄建築③;0,0;2000015|Rock2;建築廢墟;0,0;2000016
+    des: 能夠提供一定的掩體支援戰鬥的地點，被爆破後會形成廢墟堵塞道路。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550115
+    defender: 9999
+    defender_upper: 9999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:1
+    is_destroy: "1"
+    name: 廢棄建築④
+    code: Hiding
+    shifting_spot: "0,120"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 1120401|1000001
+    trigger_distance: 4
+    active_mission_skill: "95401006"
+    inherent_mission_skill: "1120400,1120401,95401002"
+    type: 15
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1,0
+    active_building_info: RuinedBuilding;廢棄建築④;0,0;2000015|Rock2;建築廢墟;0,0;2000016
+    des: 能夠提供一定的掩體支援戰鬥的地點，被爆破後會形成廢墟堵塞道路。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550116
+    defender: 9999
+    defender_upper: 9999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:1
+    is_destroy: "1"
+    name: 廢棄建築⑤
+    code: Hiding
+    shifting_spot: "0,120"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 1120501|1000001
+    trigger_distance: 4
+    active_mission_skill: "95401007"
+    inherent_mission_skill: "1120500,1120501,95401002"
+    type: 15
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1,0
+    active_building_info: RuinedBuilding;廢棄建築⑤;0,0;2000015|Rock2;建築廢墟;0,0;2000016
+    des: 能夠提供一定的掩體支援戰鬥的地點，被爆破後會形成廢墟堵塞道路。
+    confront_des:
+      '''
+      本次戰役中可採取的應對手段：
+      重裝打擊
+      '''
+  }
+  {
+    id: 9550117
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;2000014
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:0
+    name: 起爆裝置
+    code: Detonator
+    shifting_spot: "10,110"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1010101"
+    inherent_mission_skill: "1010100,1120101,1120201,1120301,1120401,1120501"
+    type: 14
+    transition: "1,1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550117
+    des: 實現鋪設好的起爆裝置，可以引爆指定地點的炸藥，摧毀設施。
+    confront_des: 本次戰役中無法破壞該設施
+  }
+  {
+    id: 9550118
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;2000005
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 控制台
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1010101"
+    active_mission_skill: "95401009"
+    inherent_mission_skill: "1000200"
+    type: 7
+    is_focus: "1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;0
+    active_building_info: building-49550118
+    initial_state: -1
+    des: 可以對關聯的設施發送操作指令。
+    confront_des: 本次戰役中無法破壞該設施
+  }
+  {
+    id: 9550119
+    defender: 50
+    defender_upper: 50
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;95401015;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 【標記】污染源
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "95401015"
+    type: 4
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    active_building_info: building-49550119
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
+  }
+  {
+    id: 9550120
+    defender: 50
+    defender_upper: 50
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 【標記】兔子_移動
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    trigger_distance: 1
+    inherent_mission_skill: "95401016"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49550120
+    des: building-29550120
+    confront_des: building-39550120
+  }
+  {
     id: 43130001
     defender: 50
     defender_upper: 50

@@ -566,6 +566,16 @@
     detail_introduction: item-30000115
   }
   {
+    id: 116
+    type: 3
+    arg: "17"
+    code: Medal_2021winter_re_rank
+    item_name: 終焉破滅者勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在「裂變鏈接」積分模式「終焉花海+」中的赫赫戰功，「末日將在您腳下中止，生命將在您身後存續。」
+    rank: 1
+    detail_introduction: item-30000116
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -12784,6 +12794,66 @@
     detail_introduction: item-30002187
   }
   {
+    id: 2188
+    type: 5
+    arg: "1"
+    code: profilePic_KungFu2022_GeneralLiu
+    item_name: 劉氏步槍-遊龍形拳
+    introduction: 劉氏步槍-遊龍形拳
+    rank: 1
+    detail_introduction: item-30002188
+  }
+  {
+    id: 2189
+    type: 5
+    arg: "1"
+    code: profilePic_KungFu2022_QBZ191
+    item_name: QBZ-191-孤松行
+    introduction: QBZ-191-孤松行
+    rank: 1
+    detail_introduction: item-30002189
+  }
+  {
+    id: 2190
+    type: 5
+    arg: "1"
+    code: profilePic_KungFu2022_VP1915
+    item_name: VP1915-墨鱗之刺
+    introduction: VP1915-墨鱗之刺
+    rank: 1
+    detail_introduction: item-30002190
+  }
+  {
+    id: 2191
+    type: 5
+    arg: "1"
+    code: profilePic_KungFu2022_Ak5
+    item_name: Ak 5-蜓點曲水
+    introduction: Ak 5-蜓點曲水
+    rank: 1
+    detail_introduction: item-30002191
+  }
+  {
+    id: 2192
+    type: 5
+    arg: "1"
+    code: profilePic_KungFu2022_4type
+    item_name: 四式-嬌鶴立
+    introduction: 四式-嬌鶴立
+    rank: 1
+    detail_introduction: item-30002192
+  }
+  {
+    id: 2193
+    type: 5
+    arg: "1"
+    code: profilePic_KungFu2022_56-1type
+    item_name: 56-1式-無雙棍舞
+    introduction: 56-1式-無雙棍舞
+    rank: 1
+    detail_introduction: item-30002193
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -15822,6 +15892,16 @@
     detail_introduction: item-30110053
   }
   {
+    id: 110054
+    type: 4
+    arg: "110054"
+    code: EventPT5
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+    detail_introduction: item-30110054
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -16074,6 +16154,16 @@
     introduction: 健身房的VIP年費卡，尊貴身份的證明，買了就等於鍛煉了。
     rank: 1
     detail_introduction: item-30130018
+  }
+  {
+    id: 130019
+    type: 12
+    arg: "130019"
+    code: Y_Z_zhihuiguan_Hagunsei
+    item_name: 秘傳殺招
+    introduction: 此乃獨創內功絕技，出招看似挨打，實則會給對手造成嚴重內傷……出招之後流鼻血？不過是一點副作用而已！
+    rank: 1
+    detail_introduction: item-30130019
   }
   {
     id: 140001

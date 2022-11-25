@@ -560,6 +560,20 @@
         "source_description": "commander_class-40000049"
     },
     {
+        "id": 50,
+        "name": "昭武英傑",
+        "description": "汗水滑落，肺中的空氣漸漸燥熱，每次出拳，都會把力量注入到血液之中……也許身體已經到達極限，但武學之道絕不會止步於此！賭上一切，只為攀登那更高更強的山峰！",
+        "group_id": "92",
+        "code": "commander_5031_icon",
+        "bonus_plastic": "130019",
+        "skill_id": 104,
+        "path": "CLASS50",
+        "is_class": 1,
+        "des_year": "2022",
+        "source": 1,
+        "source_description": "commander_class-40000050"
+    },
+    {
         "id": 99,
         "name": "謊言面具",
         "description": "埋藏我所思，塑化我所願",

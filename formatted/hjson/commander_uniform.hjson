@@ -2887,6 +2887,146 @@
     color_icon_id: "846,847,848,849,850,851"
   }
   {
+    id: 5011
+    name: 風中勁柳
+    description: 你的勝負將決定這款造型的時髦值，只有好好打，才對得起花出去的燙頭錢！
+    code: Head1
+    icon: commander_5011_icon
+    type: 1
+    gender: 1
+    uniform_class: "50"
+    color_normal: Commander_5011_N
+    color_0: Commander_5011_0
+    color_1: Commander_5011_1
+    color_2: Commander_5011_2
+    color_3: Commander_5011_3
+    color_4: Commander_5011_4
+    color_icon_id: "852,853,854,855,856,857"
+  }
+  {
+    id: 5012
+    name: 月照繁花
+    description: 是可愛的裝飾，也是攻擊的手段，出其不意，攻其不備，用雙馬尾橫掃一切。
+    code: Head2
+    icon: commander_5012_icon
+    type: 1
+    gender: 2
+    uniform_class: "50"
+    color_normal: Commander_5012_N
+    color_0: Commander_5012_0
+    color_1: Commander_5012_1
+    color_2: Commander_5012_2
+    color_3: Commander_5012_3
+    color_4: Commander_5012_4
+    color_icon_id: "858,859,860,861,862,863"
+  }
+  {
+    id: 5020
+    name: 八門心脈
+    description: 不要驚訝，這是我將內功脈象顯現於外的結果。好處？那就是大夫可以很直觀地看出我身上出了什麼問題……
+    code: HeadAcco
+    icon: commander_5020_icon
+    type: 2
+    uniform_class: "50"
+    color_normal: Commander_5020_N
+    color_0: Commander_5020_0
+    color_1: Commander_5020_1
+    color_2: Commander_5020_2
+    color_3: Commander_5020_3
+    color_4: Commander_5020_4
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "0.046,0.316"
+    color_icon_id: "864,865,866,867,868,869"
+  }
+  {
+    id: 5031
+    name: 千紋羆虎
+    description: 貼上這種威風凜凜的紋身貼，誰看到你都會繞著走，但請注意，下雨天不要站在戶外！
+    code: Body1
+    icon: commander_5031_icon
+    type: 3
+    gender: 1
+    uniform_class: "50"
+    color_normal: Commander_5031_N
+    color_0: Commander_5031_0
+    color_1: Commander_5031_1
+    color_2: Commander_5031_2
+    color_3: Commander_5031_3
+    color_4: Commander_5031_4
+    color_icon_id: "870,871,872,873,874,875"
+  }
+  {
+    id: 5032
+    name: 錦緞嬌龍
+    description: 由特聘裁縫製作的武術旗袍，無論藝術價值還是可愛程度都達到了極高的水平……真不想挪開眼睛啊！
+    code: Body2
+    icon: commander_5032_icon
+    type: 3
+    gender: 2
+    uniform_class: "50"
+    color_normal: Commander_5032_N
+    color_0: Commander_5032_0
+    color_1: Commander_5032_1
+    color_2: Commander_5032_2
+    color_3: Commander_5032_3
+    color_4: Commander_5032_4
+    color_icon_id: "876,877,878,879,880,881"
+  }
+  {
+    id: 5040
+    name: 神兵寶器
+    description: 作為一名江湖人士，出來混，隨身帶件防身的兵器也不奇怪吧？
+    code: BodyAcco
+    icon: commander_5040_icon
+    type: 4
+    uniform_class: "50"
+    color_normal: Commander_5040_N
+    color_0: Commander_5040_0
+    color_1: Commander_5040_1
+    color_2: Commander_5040_2
+    color_3: Commander_5040_3
+    color_4: Commander_5040_4
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "0.006,0.000"
+    color_icon_id: "882,883,884,885,886,887"
+  }
+  {
+    id: 5051
+    name: 怒濤疾影
+    description: 穿上這身二十斤配重的裝具，就能練成登萍度水的輕功絕技……想原地起飛？先生，請不要無視萬有引力！
+    code: Foot1
+    icon: commander_5051_icon
+    type: 5
+    gender: 1
+    uniform_class: "50"
+    color_normal: Commander_5051_N
+    color_0: Commander_5051_0
+    color_1: Commander_5051_1
+    color_2: Commander_5051_2
+    color_3: Commander_5051_3
+    color_4: Commander_5051_4
+    color_icon_id: "888,889,890,891,892,893"
+  }
+  {
+    id: 5052
+    name: 飛雪無形
+    description: 須臾之間，可以跨越百里路程，輕盈飄渺，即便在雪中也不會留下任何痕跡……放棄交通工具吧，這身衣裝將是你新的選擇！
+    code: Foot2
+    icon: commander_5052_icon
+    type: 5
+    gender: 2
+    uniform_class: "50"
+    color_normal: Commander_5052_N
+    color_0: Commander_5052_0
+    color_1: Commander_5052_1
+    color_2: Commander_5052_2
+    color_3: Commander_5052_3
+    color_4: Commander_5052_4
+    color_icon_id: "894,895,896,897,898,899"
+  }
+  {
     id: 9920
     name: 活力偽裝
     description: 永遠展現最好的我。

@@ -699,7 +699,7 @@
     description: 清霧點特效
     duration: "1.00"
     delay: "0.00"
-    size: "1.00"
+    size: "0.01"
     offset: "0,0"
   }
   {
@@ -720,7 +720,7 @@
     description: 記憶碎片特效
     duration: "1.00"
     delay: "0.00"
-    size: "1.00"
+    size: "0.05"
     offset: "0,0"
   }
   {

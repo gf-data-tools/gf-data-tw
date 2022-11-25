@@ -8218,6 +8218,90 @@
     detail_introduction: gift_item-40007607
   }
   {
+    id: 7701
+    name: 劉氏步槍-遊龍形拳
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 316
+    skin: 7701
+    poster: 37701
+    code: gift_bundle_KungFu2022_GeneralLiu
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    detail_introduction: gift_item-40007701
+  }
+  {
+    id: 7702
+    name: QBZ-191-孤松行
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 361
+    skin: 7702
+    poster: 37702
+    code: gift_bundle_KungFu2022_QBZ191
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    detail_introduction: gift_item-40007702
+  }
+  {
+    id: 7703
+    name: VP1915-墨鱗之刺
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 333
+    skin: 7703
+    poster: 37703
+    code: gift_bundle_KungFu2022_VP1915
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    detail_introduction: gift_item-40007703
+  }
+  {
+    id: 7704
+    name: Ak 5-蜓點曲水
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 187
+    skin: 7704
+    poster: 37704
+    code: gift_bundle_KungFu2022_Ak5
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    detail_introduction: gift_item-40007704
+  }
+  {
+    id: 7705
+    name: 四式-嬌鶴立
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 270
+    skin: 7705
+    poster: 37705
+    code: gift_bundle_KungFu2022_4type
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    detail_introduction: gift_item-40007705
+  }
+  {
+    id: 7706
+    name: 56-1式-無雙棍舞
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 66
+    skin: 7706
+    poster: 37706
+    code: gift_bundle_KungFu2022_56-1type
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    detail_introduction: gift_item-40007706
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     type: 2

@@ -82,5 +82,19 @@
         "left_icon": "00ab62bc1752aa27_draw_220922006.png",
         "background": "bde1df4d49320d0b_draw_220922005.png",
         "notice_txt": "event_prize_level-20000006"
+    },
+    {
+        "id": 7,
+        "name": "event_prize_level-10000007",
+        "type": 2,
+        "value": "110054",
+        "condition": "48000:40502;88888:40503;480000:40504;680000:40505;980000:40506;1280000:40507;1580000:40508;1880000:40509;2280000:40510;2680000:40511;3080000:40512;3480000:40513",
+        "start_time": "2022-11-21 00:00:00",
+        "end_time": "2022-12-30 23:59:59",
+        "prize_start_time": "2022-11-21 00:00:00",
+        "prize_end_time": "2022-12-30 23:59:59",
+        "left_icon": "7f0e172b0d2e727c_draw_221124002.png",
+        "background": "792b78dbb3218af3_draw_221124005.png",
+        "notice_txt": "event_prize_level-20000007"
     }
 ]

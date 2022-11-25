@@ -605,7 +605,7 @@
     code: dian_guangzhu
     description: 清霧點特效
     duration: 1.0
-    size: 1.0
+    size: 0.01
     offset: "0,0"
   }
   {
@@ -624,7 +624,7 @@
     code: sheshi_xian
     description: 記憶碎片特效
     duration: 1.0
-    size: 1.0
+    size: 0.05
     offset: "0,0"
   }
   {
