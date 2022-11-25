@@ -8362,7 +8362,7 @@
     {
         "id": 454,
         "mission_id": "10385",
-        "description": "鐵血怨",
+        "description": "積極準備禮物的格里芬人形們一定沒有想到，窗外正埋伏著各懷心事的鐵血……",
         "scripts": "-35-1-1First,-35-1-2End",
         "campaign": -35,
         "bgm": "BGM_Frontline",
@@ -8381,7 +8381,7 @@
     {
         "id": 455,
         "mission_id": "10386",
-        "description": "蟻中諜",
+        "description": "趁著混亂，背負著鐵血陰謀的兵蟻走向了懵然無知的格里芬人形……",
         "scripts": "-35-2-1First,-35-2-2End",
         "campaign": -35,
         "bgm": "BGM_Frontline",
@@ -8400,7 +8400,7 @@
     {
         "id": 456,
         "mission_id": "10387",
-        "description": "X戰蟻",
+        "description": "眼見著目標即將到手，突然其來的意外打斷了所有人形的計劃……",
         "scripts": "-35-3-1First,-35-3-2End",
         "campaign": -35,
         "bgm": "BGM_Frontline",
@@ -8419,7 +8419,7 @@
     {
         "id": 457,
         "mission_id": "10388",
-        "description": "禮物頌",
+        "description": "滿載而歸的指揮官終於回到基地，卻沒有想到迎接自己的是……",
         "scripts": "-35-4-1First,-34-4-2End",
         "campaign": -35,
         "bgm": "BGM_Frontline",

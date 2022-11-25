@@ -1939,6 +1939,9 @@ enemy_character_type-30900366,
 enemy_character_type-20900367,劊子手-血魘獵狂
 enemy_character_type-10900367,精英//c劊子手
 enemy_character_type-30900367,
+enemy_character_type-20900369,失格異構體
+enemy_character_type-10900369,精英//c裝甲//c失格異構體
+enemy_character_type-30900369,
 enemy_character_type-20080001,盾牌娘
 enemy_character_type-10080001,
 enemy_character_type-30080001,

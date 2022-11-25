@@ -3960,3 +3960,5 @@ special_spot_config-16540194,【標記】照明觸發範圍2
 special_spot_config-26540194,
 special_spot_config-16540195,[avg]-54-B-6Point2
 special_spot_config-26540195,
+special_spot_config-19550101,【標記】掛多動buff
+special_spot_config-29550101,

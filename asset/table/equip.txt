@@ -1202,7 +1202,7 @@ equip-20000303,傷害+<pow>//n迴避+<dodge>$EVO 3專用
 equip-30000303,由MI為EVO 3專門設計的mlok護木//c能夠極高地提升EVO 3的掛載能力.
 equip-40000303,
 equip-10000304,GRUNT導軌
-equip-20000304,傷害+<pow> 命中+<hit>//n暴擊機率+<critical_percent><%>$K2專用
+equip-20000304,傷害+<pow> 暴擊機率+<critical_percent><%>//n命中+<hit>技能增強$K2專用
 equip-30000304,K2現代化改件之一//c有效提升了K2的掛載能力.
 equip-40000304,
 equip-10000305,SF武器燈改
@@ -1249,3 +1249,7 @@ equip-10000315,FP6摺疊後托
 equip-20000315,命中+<hit>//n射速<rate>技能增強$FP-6專用
 equip-30000315,FP-6常見的專用配件之一，摺疊後托後能夠方便FP-6在狹窄的環境裡執行任務。
 equip-40000315,
+equip-10000316,PT2可調節後托
+equip-20000316,傷害+<pow> 暴擊機率+<critical_percent><%>//n命中+<hit>技能增強$PKP專用
+equip-30000316,PKP愛用的ZNT產可調節後托//c兼具了外觀和實用性的配件。
+equip-40000316,

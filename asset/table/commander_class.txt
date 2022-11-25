@@ -162,3 +162,7 @@ commander_class-10000049,青春脈搏
 commander_class-20000049,迎著晨間涼爽的微風，踏著斜照在大地的陽光，揮灑汗水，與朝露為伴。
 commander_class-30000049,2022
 commander_class-40000049,
+commander_class-10000050,昭武英傑
+commander_class-20000050,汗水滑落，肺中的空氣漸漸燥熱，每次出拳，都會把力量注入到血液之中……也許身體已經到達極限，但武學之道絕不會止步於此！賭上一切，只為攀登那更高更強的山峰！
+commander_class-30000050,2022
+commander_class-40000050,

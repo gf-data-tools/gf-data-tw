@@ -9561,8 +9561,8 @@
     name: GRUNT導軌
     description:
       '''
-      傷害+<pow> 命中+<hit>
-      暴擊機率+<critical_percent><%>$K2專用
+      傷害+<pow> 暴擊機率+<critical_percent><%>
+      命中+<hit>技能增強$K2專用
       '''
     rank: 5
     category: 1
