@@ -755,4 +755,6 @@ mission_buff_config-20544201,
 mission_buff_config-10544211,拾取標記
 mission_buff_config-20544211,
 mission_buff_config-10544212,攜帶燃油
+mission_buff_config-19550101,【標記】Boss
+mission_buff_config-29550101,
 mission_buff_config-20544212,
