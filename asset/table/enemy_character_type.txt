@@ -811,6 +811,15 @@ enemy_character_type-30013233,
 enemy_character_type-20013234,萊肯流浪人
 enemy_character_type-10013234,高威脅//c力場//c弱化
 enemy_character_type-30013234,
+enemy_character_type-20013235,邪靈掃地機
+enemy_character_type-10013235,精英//c裝甲//c埋雷
+enemy_character_type-30013235,
+enemy_character_type-20013236,除塵超人
+enemy_character_type-10013236,近戰//c裝甲//c護盾
+enemy_character_type-30013236,
+enemy_character_type-20013237,魔鬼星廚
+enemy_character_type-10013237,精英//c範圍殺傷
+enemy_character_type-30013237,
 enemy_character_type-20090001,工蜂型民用靶機
 enemy_character_type-10090001,精英//c訓練專用
 enemy_character_type-30090001,
@@ -1939,6 +1948,9 @@ enemy_character_type-30900366,
 enemy_character_type-20900367,劊子手-血魘獵狂
 enemy_character_type-10900367,精英//c劊子手
 enemy_character_type-30900367,
+enemy_character_type-20900368,塔亞柔斯
+enemy_character_type-10900368,精英//c貫穿
+enemy_character_type-30900368,
 enemy_character_type-20900369,失格異構體
 enemy_character_type-10900369,精英//c裝甲//c失格異構體
 enemy_character_type-30900369,
@@ -2164,3 +2176,6 @@ enemy_character_type-30910149,
 enemy_character_type-20910150,海邊的西瓜
 enemy_character_type-10910150,訓練專用
 enemy_character_type-30910150,
+enemy_character_type-20910151,SCARL
+enemy_character_type-10910151,
+enemy_character_type-30910151,

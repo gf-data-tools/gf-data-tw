@@ -1067,6 +1067,7 @@ special_spot_config-29361802,
 special_spot_config-19361803,禁飛區
 special_spot_config-29361803,
 special_spot_config-19361804,EMP球鎖定標記
+special_spot_config-29361804
 special_spot_config-19362001,廢棄歌利亞可拾取標記
 special_spot_config-29362001,
 special_spot_config-19362002,地雷觸發器

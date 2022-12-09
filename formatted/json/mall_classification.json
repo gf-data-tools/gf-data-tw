@@ -17,7 +17,7 @@
         "id": 1002,
         "parent_id": 1000,
         "sort": 2,
-        "name": "勳章兌換",
+        "name": "沙羅蝕相\n勳章兌換",
         "description": ""
     },
     {
@@ -45,7 +45,7 @@
         "id": 1006,
         "parent_id": 1000,
         "sort": 6,
-        "name": "萊肯禁獵區\n代幣兌換",
+        "name": "沙羅蝕相\n代幣兌換",
         "description": ""
     },
     {

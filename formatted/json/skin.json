@@ -11388,5 +11388,22 @@
         "illustrator_cv": "小槍,斉藤佑圭,",
         "order": 95,
         "class_id": 0
+    },
+    {
+        "id": 30003,
+        "name": "路易士-馬踏文杏襯金風",
+        "extra": 0,
+        "fit_gun": 253,
+        "ai": 0,
+        "voice": 4,
+        "is_hidden": 0,
+        "substitute_voice": "",
+        "dialog": "秋天這樣涼爽的時節，連馬兒也耐不住無聊，想要出去走走呢。如果指揮官恰好有空的話……不如和我一起陪馬兒玩耍吧？",
+        "note": "skin-30030003",
+        "explore_tag": "",
+        "gift_position": "",
+        "illustrator_cv": "skin-40030003",
+        "order": 97,
+        "class_id": 0
     }
 ]

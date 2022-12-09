@@ -1111,4 +1111,8 @@
     obtain_id: "3079"
     description: gun_obtain-10003079
   }
+  {
+    obtain_id: "3080"
+    description: 限時活動<沙羅蝕相>代幣兌換
+  }
 ]

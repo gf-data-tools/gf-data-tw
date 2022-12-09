@@ -18,3 +18,7 @@ fetter_skill-10000009,冕暈聚變
 fetter_skill-20000009,MPK與MPL相臨一格時//c不再對友方造成負面效果。//nMPK與MPL左右相鄰時//c開啟技能後//c效果範圍擴大至2格。
 fetter_skill-10000010,冕暈聚變
 fetter_skill-20000010,MPK與MPL相臨一格時//c不再對友方造成負面效果。//nMPK與MPL左右相鄰時//c開啟技能後//c效果範圍擴大至2格。
+fetter_skill-10000011,同輝禁線
+fetter_skill-20000011,SCAR-L和SCAR-H同時在場時//c自身開場獲得40點月海能量//c每秒增加4點月海能量。
+fetter_skill-10000012,同輝禁線
+fetter_skill-20000012,SCAR-L和SCAR-H同時在場時//c自身開場獲得40點聖暉能量//c每秒增加4點聖暉能量。

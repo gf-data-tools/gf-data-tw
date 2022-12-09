@@ -154,3 +154,6 @@ squad-30001017,
 squad-40001017,
 squad-50001017,
 squad-60001017,
+squad-10001018,塔亞柔斯
+squad-20001018,Tareus
+squad-30001018,

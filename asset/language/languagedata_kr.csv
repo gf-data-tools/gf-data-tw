@@ -761,6 +761,8 @@ COMMON,1760,리소스 파손!,,0
 COMMON,1761,시조요정 이외 아무 요정을 5성 100레벨로 육성 시 개방,,0
 COMMON,1762,다시 로그인,,0
 COMMON,1766,일괄 수령,,0
+COMMON,1775,【선택 박스 창구】//n"세로변형" 이벤트 이전까지 추가된 4성 전술인형 중 하나를 선택해 얻을 수 있습니다.//n[창고]에서 해당 도구를 사용해 전술인형을 선택하십시오. 각 유형별 선택 가능한 인형은 다음과 같습니다://n【HG】：콜트 리볼버//c 스테츠킨//c Mk23//c P7//c SPP-1//c Spitfire//c 썬더//c K5//c 제리코//c P30//c Rex Zero 1//c 데린저//c CZ 100//c ZiP .22//c PPQ//n【SMG】：MP5//c UMP9//c UMP45//c PP-90//c PP-19//c 시프카//c UMP40//c KLIN//c PP-19-01//c Cx4 스톰//c 허니뱃저//c MAT-49//c KAC-PDW//c CF05//c SAF//c AR-57//c PPD-40//c 비뉴홍 M2//c MPL//c MPK//n【RF】：스프링필드//c 모신나강//c PTRD//c PSG-1//c SVD//c G28//c PzB39//c T-5000//c XM3//c Mk 12//c SPR  A3G//c K31//c KSVK//c 4식//c SSG3000//c 타부크//c 몬드라곤 M1908//c TF-Q//n【AR】：AS Val//c G36//c 56-1식//c FAMAS//c TAR-21//c 9A-91//c 리베롤//c Ak 5//c CZ2000//c XM8//c A-91//c SAR-21//c EM-2//c CR-21//c M82//c FX-05//c 표도로프//c APC556//c FARA 83//c AK74M//n【MG】：M1918//c M60//c PK//c MG3//c Mk48//c Mk46//c AEK-999//c 아멜리//c 80식//c UKM-2000//c 쇼사//c M1895 CB//c PM1910//c LS26//n【SG】：M37//c M590//c Super-Shorty//c SPAS-12//c M1014//c USAS-12//c 리버레이터//c 콜트 디펜더//c V-PM5//c HK512//c 노바//c MAG-7//c UTS-15,,0
+COMMON,1776,【선택 박스 창구】//n"세로변형" 이벤트 이전까지 추가된 5성 전술인형 중 하나를 선택해 얻을 수 있습니다.//n[창고]에서 해당 도구를 사용해 전술인형을 선택하십시오. 각 유형별 선택 가능한 인형은 다음과 같습니다://n【HG】：그리즐리 MkV//c M950A//c 웰로드 MkIl//c NZ75//c Five-seveN//c CZ75//c 컨텐더//c 콜트 파이슨//c Px4 스톰//c P22//c HS2000//c PA-15//c 데저트 이글//c C93//c 웨블리//c HP-35//c 콜리블리//c 라이노//n【SMG】：톰슨//c Vector//c 수오미//c G36C//c 79식//c SR-3MP//c MP7//c AK-74U//c C-MS//c PM-O6//c JS9//c 100식//c P90//c X95//c PM-9//c Lusa//c AUG Para//c VP1915//c SP9//c SR-2//c 스털링//n【RF】：Kar98k//c WA2000//c 리엔필드//c NTW-20//c M99//c IWS2000//c DSR-50//c JS05//c 카르카노 M1891//c 카르카노 M91/38//c 발리스타//c SRS//c TAC-50//c M82A1//c M200//c QBU-88//c R93//c SL8//c VSK-94//c 류 소총//c SVCh//c Savage 99//c 드 라일//c HS.50//n【AR】：G41//c HK416//c FAL//c OTs14//c G11//c 95식//c 97식//c RFB//c ART556//c T91//c K2//c Zas M21//c AK-12//c AN-94//c MDR//c AUG//c K11//c 64식 소총//c ADS//c ACR//c SIG-556//c R5//c AK-15//c 89식 소총//c AK-Alfa//c S-ACR//c VHS//c SIG MCX//c TKB-408//c KH2002//c A-545//c QBZ-191//c SCR//n【MG】：MG5//c 네게브//c MG4//c PKP//c HK21//c 88식//c 루이스//c MG36//c Kord//c RPK-16//c ZB-26//c RPK-203//c MG338//n【SG】：KSG//c M1887//c Saiga-12//c AA-12//c FP-6//c M870//c S.A.T.8//c CAWS//c DP-12//c LTLX7000//c M6 ASW//c FO-12//c M26-MASS//c SPAS-15//c MK3A1,,0
 BATTLE,10000,퇴각,,0
 BATTLE,10001,전체퇴각,,0
 BATTLE,10002,WITHDRAW,,0
@@ -1218,7 +1220,6 @@ DEPLOYMENT,30116,야간작전,,0
 DEPLOYMENT,30117,배치된 제대,,0
 DEPLOYMENT,30118,남은 턴 수,,0
 DEPLOYMENT,30119,긴급수복 시 자원 소모량 2배.,,0
-DEPLOYMENT,30120,*紧急修复将无法获得金星奖章(todo),,0
 DEPLOYMENT,30121,소속유형 : ,,0
 DEPLOYMENT,30122,제대에 권총(HG)이 없어//c 야간시야 확보가 불가능합니다.,,0
 DEPLOYMENT,30123,일일 지원호출 가능횟수 초과!,,0
@@ -4981,7 +4982,6 @@ FRIEND,110004,아이템,,0
 FRIEND,110005,카드,,0
 FRIEND,110006,사용자가 없습니다!,,0
 FRIEND,110007,4종자원,,0
-FRIEND,110008,友情点数不足，可通过战斗支援系统、点赞他人宿舍、日常任务、拉弗伯雷兵棋扭蛋机获取。(todo),,0
 FRIEND,110009,부족,,0
 FRIEND,110010,친구 수 상한도달！,,0
 FRIEND,110011,배경,,0
@@ -5014,7 +5014,7 @@ FRIEND,110037,<color=#FFBB00FF>친구 시스템</color>에 오신 걸 환영합�
 FRIEND,110038,<color=#FFBB00FF>친구목록</color>에선 현재 자신과 친구인 지휘관을 볼 수 있고//c <color=#FFBB00FF>메시지</color>를 보낼 수 있습니다.,,0
 FRIEND,110039,<color=#FFBB00FF>친구추가</color> 에서는 친구신청을할 수 있고//c 다른 지휘관의 친구요청을 볼 수 있습니다.,,0
 FRIEND,110040,<color=#FFBB00FF>ID카드</color>는 다른 지휘관에게 공개되는 자신의 <color=#FFBB00FF>정보</color>로//c 이곳에선 자신의 ID카드를 꾸미고//c 친구에게 지원을 보낼 지원제대를 설정할 수 있습니다.,,0
-FRIEND,110041,在<color=#FFBB00FF>友情商店</color>中，你可以购买到头像及名片背景等装饰道具。并且可以使用友情点数购买功能性道具。(todo),,0
+FRIEND,110041,<color=#FFBB00FF>우정상점</color>에선 ID카드에 사용되는 배경 및 각종 장식품을 구매할 수 있으며//c 우정 점수를 사용하여 기능성 아이템을 구매할 수 있습니다.,,0
 FRIEND,110042,최신정보,,0
 FRIEND,110043,최근접속,,0
 FRIEND,110044,지휘관레벨,,0

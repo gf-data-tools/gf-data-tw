@@ -21,6 +21,7 @@ equip-40000005,
 equip-10000006,EOT 512
 equip-20000006,命中+<hit> 傷害+<pow>//n射速<rate>$HG不可用
 equip-30000006,EOT公司生產的512型全息瞄準鏡，看起來很酷，除手槍外均可裝配。
+equip-40000006
 equip-10000007,EOT 516
 equip-20000007,命中+<hit> 傷害+<pow>//n射速<rate>$HG不可用
 equip-30000007,EOT公司生產的516型全息瞄準鏡，看起來非常酷，除手槍外均可裝配。
@@ -1253,3 +1254,11 @@ equip-10000316,PT2可調節後托
 equip-20000316,傷害+<pow> 暴擊機率+<critical_percent><%>//n命中+<hit>技能增強$PKP專用
 equip-30000316,PKP愛用的ZNT產可調節後托//c兼具了外觀和實用性的配件。
 equip-40000316,
+equip-10000317,MK318 MODX
+equip-20000317,傷害+<pow>//n$SCAR-L專用
+equip-30000317,IOP為SCAR-L單獨開發//c以MK318軍用彈為藍本開發的全新子彈//c擁有優異的殺傷力與穿透力。
+equip-40000317,
+equip-10000318,M948 MODX
+equip-20000318,穿甲+<armor_piercing>//n傷害+<pow>$SCAR-H專用
+equip-30000318,IOP為SCAR-H單獨開發//c以M949軍用彈為藍本開發的全新脫殼穿甲彈//c精準度和殺傷力對比起普通的M948都有極大的提升。
+equip-40000318,
