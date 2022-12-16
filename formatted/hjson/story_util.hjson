@@ -11228,35 +11228,35 @@
     mission_id: "11233,11237"
     description: story_util-10001075
     campaign: -56
-    title: story_util-20001075
+    title: 初虧
   }
   {
     id: 1076
     mission_id: "11234,11238"
     description: story_util-10001076
     campaign: -56
-    title: story_util-20001076
+    title: 食既
   }
   {
     id: 1077
     mission_id: "11235,11239"
     description: story_util-10001077
     campaign: -56
-    title: story_util-20001077
+    title: 食甚
   }
   {
     id: 1078
     mission_id: "11236,11240"
     description: story_util-10001078
     campaign: -56
-    title: story_util-20001078
+    title: 生光
   }
   {
     id: 1079
     mission_id: "11243"
     description: story_util-10001079
     campaign: -56
-    title: story_util-20001079
+    title: 長週期攝動
     start: -56-1-A
   }
   {
@@ -11264,7 +11264,7 @@
     mission_id: "11244"
     description: story_util-10001080
     campaign: -56
-    title: story_util-20001080
+    title: 短週期攝動
     start: -56-1-B
   }
   {
@@ -11272,7 +11272,7 @@
     mission_id: "11245"
     description: story_util-10001081
     campaign: -56
-    title: story_util-20001081
+    title: 黃白交角
     start: -56-2-0
   }
   {
@@ -11280,7 +11280,7 @@
     mission_id: "11246"
     description: story_util-10001082
     campaign: -56
-    title: story_util-20001082
+    title: 災變
     start: -56-4-0
   }
   {
@@ -11288,7 +11288,7 @@
     mission_id: "11247"
     description: story_util-10001083
     campaign: -56
-    title: story_util-20001083
+    title: 入凌
     start: -56-5-A
   }
   {
@@ -11296,7 +11296,7 @@
     mission_id: "11248"
     description: story_util-10001084
     campaign: -56
-    title: story_util-20001084
+    title: 出凌
     start: -56-5-B
   }
   {
@@ -11304,7 +11304,7 @@
     mission_id: "11249"
     description: story_util-10001085
     campaign: -56
-    title: story_util-20001085
+    title: 同源
     start: -56-6-0
   }
   {
@@ -11312,7 +11312,7 @@
     mission_id: "11250"
     description: story_util-10001086
     campaign: -56
-    title: story_util-20001086
+    title: 俘獲
     start: -56-8-0
   }
   {
@@ -11320,7 +11320,7 @@
     mission_id: "11251"
     description: story_util-10001087
     campaign: -56
-    title: story_util-20001087
+    title: 偽本影
     start: -56-9-A
   }
   {
@@ -11328,7 +11328,7 @@
     mission_id: "11252"
     description: story_util-10001088
     campaign: -56
-    title: story_util-20001088
+    title: 本影
     start: -56-9-B
   }
   {
@@ -11336,7 +11336,7 @@
     mission_id: "11253"
     description: story_util-10001089
     campaign: -56
-    title: story_util-20001089
+    title: 金邊
     start: -56-10-0
   }
   {
@@ -11344,7 +11344,7 @@
     mission_id: "11254"
     description: story_util-10001090
     campaign: -56
-    title: story_util-20001090
+    title: 星環
     start: -56-12-0
   }
   {
@@ -11352,7 +11352,7 @@
     mission_id: "11255"
     description: story_util-10001091
     campaign: -56
-    title: story_util-20001091
+    title: 危海
     start: -56-13-A
   }
   {
@@ -11360,7 +11360,7 @@
     mission_id: "11256"
     description: story_util-10001092
     campaign: -56
-    title: story_util-20001092
+    title: 靜海
     start: -56-13-B
   }
   {
@@ -11368,7 +11368,7 @@
     mission_id: "11257"
     description: story_util-10001093
     campaign: -56
-    title: story_util-20001093
+    title: 交點月
     start: -56-14-0
   }
   {
@@ -11376,7 +11376,7 @@
     mission_id: "11258"
     description: story_util-10001094
     campaign: -56
-    title: story_util-20001094
+    title: 復圓
     start: -56-16-0
   }
   {
@@ -11384,7 +11384,7 @@
     mission_id: "11259"
     description: story_util-10001095
     campaign: -56
-    title: story_util-20001095
+    title: 外拉格朗日點
     start: -56-17-A
   }
   {
@@ -11392,7 +11392,7 @@
     mission_id: "11260"
     description: story_util-10001096
     campaign: -56
-    title: story_util-20001096
+    title: 內拉格朗日點
     start: -56-17-B
   }
 ]

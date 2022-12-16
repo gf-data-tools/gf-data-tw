@@ -5317,7 +5317,7 @@ BEGINNERGUIDE,150080,Commander//c it is time to set up a second Echelon. Please 
 BEGINNERGUIDE,150081,Commander//c please press  <color=#ffb400>[COMBAT]</color> to sortie!,,0
 BEGINNERGUIDE,150082,Commander//c let's take a look at [Logistic Support]. Let's first meet in the [COMBAT] screen.,,0
 BEGINNERGUIDE,150083,Commander//c your reward from HQ has arrived. Please check in the [QUEST] screen.,,0
-BEGINNERGUIDE,150084,Any damaged T-Dolls can be fixed up through repairs. Please press <color=#ffb400>[REPAIR BAY]</color> to proceed.,,0
+BEGINNERGUIDE,150084,如果有人形遭遇了重创，需要通过维修来恢复状态。现在，请先点击<color=#ffb400>【修复】</color>指令。(todo),,0
 BEGINNERGUIDE,150085,Commander//c HQ has granted us the authority to perform skill training. Let's check in the [RESEARCH] screen.,,0
 BEGINNERGUIDE,150086,Commander//c [Combat Simulation] has been unlocked. Please enter the <color=#ffb400>[COMBAT] </color> screen. I will explain how it works.,,0
 BEGINNERGUIDE,150087,Commander//c let's take a look at the newly released <color=#ffb400>[Career Mission] </color>. Firstly//c enter the <color=#ffb400>[QUEST]</color> screen.,,0
@@ -5346,7 +5346,7 @@ BEGINNERGUIDE,150109,Please press <color=#ffb400>[Main Quests]</color>.,,0
 BEGINNERGUIDE,150110,Please press <color=#ffb400>[Get reward]</color> to receive your rewards!,,0
 BEGINNERGUIDE,150111,Just like that//c you can obtain rewards by completing quests. Keep it up//c Commander!,,0
 BEGINNERGUIDE,150112,Commander//c please press <color=#ffb400>[Select T-Doll]</color>.,,0
-BEGINNERGUIDE,150113,All the damaged T-Dolls are listed here. Please select one to repair.,,0
+BEGINNERGUIDE,150113,这里会列出所有遭受重创的人形，请选择需要修复的那一位。(todo),,0
 BEGINNERGUIDE,150114,Press <color=#ffb400>[Confirm]</color> to proceed.,,0
 BEGINNERGUIDE,150115,You can also use <color=#ffb400>[Quick repair] </color>to complete repairs immediately. The guide for <color=#ffb400>[REPAIR BAY] </color> concludes here. Commander//c please take good care of your T-Dolls.,,0
 BEGINNERGUIDE,150116,Now//c press the "Return to Base" button on the upper left corner.,,0

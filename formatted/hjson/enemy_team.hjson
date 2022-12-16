@@ -55398,7 +55398,7 @@
     ai_content: "67710,67708,67711"
     enemy_type_display: "1"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-16560101
+    team_confrontfun_des: <color=#CF8000>強敵</color>
     targettrain_cancollect: 1
   }
   {
@@ -55408,7 +55408,7 @@
     ai_content: "2"
     enemy_type_display: "1"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-16560102
+    team_confrontfun_des: <color=#CF8000>強敵</color>
     targettrain_cancollect: 1
   }
   {
@@ -55437,7 +55437,7 @@
     ai_content: "99"
     enemy_type_display: "1"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-16560202
+    team_confrontfun_des: <color=#CF8000>強敵</color>
     targettrain_cancollect: 1
   }
   {
@@ -55459,7 +55459,7 @@
     ai_content: "99"
     enemy_type_display: "1"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-16560301
+    team_confrontfun_des: <color=#CF8000>強敵</color>
     targettrain_cancollect: 1
   }
   {
@@ -55487,7 +55487,7 @@
     ai_content: "67785,67789,67786"
     enemy_type_display: "1"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-16560305
+    team_confrontfun_des: <color=#CF8000>強敵</color>
     targettrain_cancollect: 1
   }
   {
@@ -55497,7 +55497,7 @@
     ai_content: "99"
     enemy_type_display: "60630"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-16560401
+    team_confrontfun_des: 艾莉安娜過於強大，需要確保收集3處月印後再與其對決！
   }
   {
     id: 6560402
@@ -55506,7 +55506,7 @@
     ai_content: "3"
     enemy_type_display: "1"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-16560402
+    team_confrontfun_des: <color=#CF8000>強敵</color>
     targettrain_cancollect: 1
   }
   {
@@ -55669,7 +55669,7 @@
     ai_content: "99"
     enemy_type_display: "60630"
     team_confrontfun_pic: tip_pic
-    team_confrontfun_des: enemy_team-16561401
+    team_confrontfun_des: 艾莉安娜過於強大，需要確保收集3處月印後再與其對決！
   }
   {
     id: 6561402

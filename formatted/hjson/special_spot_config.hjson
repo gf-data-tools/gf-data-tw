@@ -30898,7 +30898,7 @@
   }
   {
     id: 6560001
-    name: special_spot_config-16560001
+    name: 【標記】塑膠炸彈初始化
     description: special_spot_config-26560001
     code: "6560001"
     priority: 6560001
@@ -30917,7 +30917,7 @@
   }
   {
     id: 6560002
-    name: special_spot_config-16560002
+    name: 【標記】塑膠炸彈初始化
     description: special_spot_config-26560002
     code: "6560002"
     priority: 6560002
@@ -30936,7 +30936,7 @@
   }
   {
     id: 6560003
-    name: special_spot_config-16560003
+    name: 【標記】自動機初始化
     description: special_spot_config-26560003
     code: "6560003"
     priority: 6560003
@@ -30957,7 +30957,7 @@
   }
   {
     id: 6560004
-    name: special_spot_config-16560004
+    name: 【標記】自動機初始化
     description: special_spot_config-26560004
     code: "6560004"
     priority: 6560004
@@ -30978,7 +30978,7 @@
   }
   {
     id: 6560005
-    name: special_spot_config-16560005
+    name: 【標記】自動機初始化
     description: special_spot_config-26560005
     code: "6560005"
     priority: 6560005
@@ -30999,7 +30999,7 @@
   }
   {
     id: 6560006
-    name: special_spot_config-16560006
+    name: 【標記】控制台初始化
     description: special_spot_config-26560006
     code: "6560006"
     priority: 6560006
@@ -31018,7 +31018,7 @@
   }
   {
     id: 6560007
-    name: special_spot_config-16560007
+    name: 【標記】防禦門初始化
     description: special_spot_config-26560007
     code: "6560007"
     priority: 6560007
@@ -31039,7 +31039,7 @@
   }
   {
     id: 6560008
-    name: special_spot_config-16560008
+    name: 【標記】廢棄歌利亞初始化
     description: special_spot_config-26560008
     code: "6560008"
     priority: 6560008
@@ -31058,7 +31058,7 @@
   }
   {
     id: 6560009
-    name: special_spot_config-16560009
+    name: 【標記】箱子初始化
     description: special_spot_config-26560009
     code: "6560009"
     priority: 6560009
@@ -31077,7 +31077,7 @@
   }
   {
     id: 6560010
-    name: special_spot_config-16560010
+    name: 【標記】破碎心智初始化
     description: special_spot_config-26560010
     code: "6560010"
     priority: 6560010
@@ -31097,7 +31097,7 @@
   }
   {
     id: 6560011
-    name: special_spot_config-16560011
+    name: 【標記】EMP手雷初始化
     description: special_spot_config-26560011
     code: "6560011"
     priority: 6560011
@@ -31116,7 +31116,7 @@
   }
   {
     id: 6560012
-    name: special_spot_config-16560012
+    name: 【標記】67737初始化
     description: special_spot_config-26560012
     code: "6560012"
     priority: 6560012
@@ -31135,7 +31135,7 @@
   }
   {
     id: 6560013
-    name: special_spot_config-16560013
+    name: 【標記】67742初始化
     description: special_spot_config-26560013
     code: "6560013"
     priority: 6560013
@@ -31154,7 +31154,7 @@
   }
   {
     id: 6560014
-    name: special_spot_config-16560014
+    name: 【標記】67756初始化
     description: special_spot_config-26560014
     code: "6560014"
     priority: 6560014
@@ -31173,7 +31173,7 @@
   }
   {
     id: 6560015
-    name: special_spot_config-16560015
+    name: 【標記】67734初始化
     description: special_spot_config-26560015
     code: "6560015"
     priority: 6560015
@@ -31192,7 +31192,7 @@
   }
   {
     id: 6560016
-    name: special_spot_config-16560016
+    name: 【標記】67760初始化
     description: special_spot_config-26560016
     code: "6560016"
     priority: 6560016
@@ -31211,7 +31211,7 @@
   }
   {
     id: 6560017
-    name: special_spot_config-16560017
+    name: 【標記】67744初始化
     description: special_spot_config-26560017
     code: "6560017"
     priority: 6560017
@@ -31230,7 +31230,7 @@
   }
   {
     id: 6560018
-    name: special_spot_config-16560018
+    name: 【標記】67745初始化
     description: special_spot_config-26560018
     code: "6560018"
     priority: 6560018
@@ -31249,7 +31249,7 @@
   }
   {
     id: 6560019
-    name: special_spot_config-16560019
+    name: 【標記】67759初始化
     description: special_spot_config-26560019
     code: "6560019"
     priority: 6560019
@@ -31268,7 +31268,7 @@
   }
   {
     id: 6560020
-    name: special_spot_config-16560020
+    name: 【標記】拆彈勝利標記
     description: special_spot_config-26560020
     code: Viscosity_Bomb
     priority: 6560020
@@ -31287,7 +31287,7 @@
   }
   {
     id: 6560021
-    name: special_spot_config-16560021
+    name: 【標記】開火點
     description: special_spot_config-26560021
     code: "6560021"
     priority: 6560021
@@ -31308,7 +31308,7 @@
   }
   {
     id: 6560022
-    name: special_spot_config-16560022
+    name: 【標記】CD點
     description: special_spot_config-26560022
     code: "6560022"
     priority: 6560022
@@ -31327,7 +31327,7 @@
   }
   {
     id: 6560023
-    name: special_spot_config-16560023
+    name: 【標記】翻箱子1
     description: special_spot_config-26560023
     code: "6560023"
     priority: 6560023
@@ -31346,7 +31346,7 @@
   }
   {
     id: 6560024
-    name: special_spot_config-16560024
+    name: 【標記】翻箱子2
     description: special_spot_config-26560024
     code: "6560024"
     priority: 6560024
@@ -31365,7 +31365,7 @@
   }
   {
     id: 6560025
-    name: special_spot_config-16560025
+    name: 【標記】翻箱子勝利標記
     description: special_spot_config-26560025
     code: GunBox
     priority: 6560025
@@ -31384,7 +31384,7 @@
   }
   {
     id: 6560026
-    name: special_spot_config-16560026
+    name: 【標記】碎片
     description: special_spot_config-26560026
     code: "6560026"
     priority: 6560026
@@ -31403,7 +31403,7 @@
   }
   {
     id: 6560027
-    name: special_spot_config-16560027
+    name: 【標記】碎片
     description: special_spot_config-26560027
     code: "6560027"
     priority: 6560027
@@ -31422,7 +31422,7 @@
   }
   {
     id: 6560028
-    name: special_spot_config-16560028
+    name: 【標記】爆種勝利標記
     description: special_spot_config-26560028
     code: Scar_H_moon
     priority: 6560028
@@ -31441,7 +31441,7 @@
   }
   {
     id: 6560029
-    name: special_spot_config-16560029
+    name: 【標記】孫紅雷扔出
     description: special_spot_config-26560029
     code: "6560029"
     priority: 6560029
@@ -31459,7 +31459,7 @@
   }
   {
     id: 6560030
-    name: special_spot_config-16560030
+    name: 【標記】EMP
     description: special_spot_config-26560030
     code: "6560030"
     priority: 6560030
@@ -31478,7 +31478,7 @@
   }
   {
     id: 6560031
-    name: special_spot_config-16560031
+    name: 【標記】壓制生效標記
     description: special_spot_config-26560031
     code: "6560031"
     priority: 6560031
@@ -31498,7 +31498,7 @@
   }
   {
     id: 6560032
-    name: special_spot_config-16560032
+    name: 【標記】召喚敵人
     description: special_spot_config-26560032
     code: "6560032"
     priority: 6560032
@@ -31517,7 +31517,7 @@
   }
   {
     id: 6560033
-    name: special_spot_config-16560033
+    name: 【標記】召喚敵人
     description: special_spot_config-26560033
     code: "6560033"
     priority: 6560033
@@ -31536,7 +31536,7 @@
   }
   {
     id: 6560034
-    name: special_spot_config-16560034
+    name: 【標記】SCAR-L判負
     description: special_spot_config-26560034
     code: spSCARL
     priority: 6560034
@@ -31555,7 +31555,7 @@
   }
   {
     id: 6560035
-    name: special_spot_config-16560035
+    name: 【標記】SCAR-H判負
     description: special_spot_config-26560035
     code: SCAR_H
     priority: 6560035
@@ -31574,7 +31574,7 @@
   }
   {
     id: 6560036
-    name: special_spot_config-16560036
+    name: 【標記】勝利定身1
     description: special_spot_config-26560036
     code: "6560036"
     priority: 6560036
@@ -31594,7 +31594,7 @@
   }
   {
     id: 6560037
-    name: special_spot_config-16560037
+    name: 【標記】SCAR-L踩點
     description: special_spot_config-26560037
     code: "6560037"
     priority: 6560037
@@ -31614,7 +31614,7 @@
   }
   {
     id: 6560038
-    name: special_spot_config-16560038
+    name: 【標記】SCAR-L踩點
     description: special_spot_config-26560038
     code: "6560038"
     priority: 6560038
@@ -31634,7 +31634,7 @@
   }
   {
     id: 6560039
-    name: special_spot_config-16560039
+    name: 【標記】SCAR-H勝利
     description: special_spot_config-26560039
     code: SCAR_H
     priority: 6560039
@@ -31653,7 +31653,7 @@
   }
   {
     id: 6560040
-    name: special_spot_config-16560040
+    name: 【標記】SCAR-L勝利
     description: special_spot_config-26560040
     code: spSCARL
     priority: 6560040
@@ -31672,7 +31672,7 @@
   }
   {
     id: 6560041
-    name: special_spot_config-16560041
+    name: 【標記】犯人標記
     description: special_spot_config-26560041
     code: "6560041"
     priority: 6560041
@@ -31693,7 +31693,7 @@
   }
   {
     id: 6560042
-    name: special_spot_config-16560042
+    name: 【標記】犯人勝利
     description: special_spot_config-26560042
     code: refugee_smg
     priority: 6560042
@@ -31712,7 +31712,7 @@
   }
   {
     id: 6560043
-    name: special_spot_config-16560043
+    name: 【標記】左箭頭
     description: special_spot_config-26560043
     code: "6560043"
     priority: 6560043
@@ -31732,7 +31732,7 @@
   }
   {
     id: 6560044
-    name: special_spot_config-16560044
+    name: 【標記】右箭頭
     description: special_spot_config-26560044
     code: "6560044"
     priority: 6560044
@@ -31752,7 +31752,7 @@
   }
   {
     id: 6560045
-    name: special_spot_config-16560045
+    name: 【標記】開火點掃射
     description: special_spot_config-26560045
     code: "6560045"
     priority: 6560045
@@ -31771,7 +31771,7 @@
   }
   {
     id: 6560046
-    name: special_spot_config-16560046
+    name: 【標記】翻箱子0
     description: special_spot_config-26560046
     code: "6560046"
     priority: 6560046
@@ -31790,7 +31790,7 @@
   }
   {
     id: 6560047
-    name: special_spot_config-16560047
+    name: "[avg]-56-15-point1"
     description: special_spot_config-26560047
     code: "6560047"
     priority: 6560047
@@ -31809,7 +31809,7 @@
   }
   {
     id: 6560048
-    name: special_spot_config-16560048
+    name: "[avg]-56-15-point2"
     description: special_spot_config-26560048
     code: "6560048"
     priority: 6560048
@@ -31828,7 +31828,7 @@
   }
   {
     id: 6560049
-    name: special_spot_config-16560049
+    name: "[avg]-56-15-point3"
     description: special_spot_config-26560049
     code: "6560049"
     priority: 6560049

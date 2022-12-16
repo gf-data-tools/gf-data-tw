@@ -30232,7 +30232,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:3
-    name: building-16560001
+    name: 塑膠炸彈
     code: Viscosity_Bomb
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30246,8 +30246,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560001
-    des: building-26560001
-    confront_des: building-36560001
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560002
@@ -30258,7 +30258,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:3
-    name: building-16560002
+    name: 塑膠炸彈
     code: Viscosity_Bomb
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30272,8 +30272,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560002
-    des: building-26560002
-    confront_des: building-36560002
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560003
@@ -30284,7 +30284,7 @@
     mission_skill: 0;6560060;0;6560061
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
-    name: building-16560003
+    name: 自動機炮
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30297,8 +30297,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560003
-    des: building-26560003
-    confront_des: building-36560003
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560004
@@ -30309,7 +30309,7 @@
     mission_skill: 0;6560060;0;6560061
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
-    name: building-16560004
+    name: 自動機炮
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30322,8 +30322,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560004
-    des: building-26560004
-    confront_des: building-36560004
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560005
@@ -30334,7 +30334,7 @@
     mission_skill: 0;6560060;0;6560061
     battle_skill: 0;0;0;0
     condition: 0:4,1:4;0:1,1:5
-    name: building-16560005
+    name: 自動機炮
     code: Pyxis_green
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30347,8 +30347,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560005
-    des: building-26560005
-    confront_des: building-36560005
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560006
@@ -30359,7 +30359,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16560006
+    name: 控制台
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -30373,8 +30373,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560006
-    des: building-26560006
-    confront_des: building-36560006
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560007
@@ -30385,7 +30385,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-16560007
+    name: 防禦門
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -30398,8 +30398,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560007
-    des: building-26560007
-    confront_des: building-36560007
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560008
@@ -30410,7 +30410,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-16560008
+    name: 廢棄歌利亞
     code: Boomer
     shifting_spot: "45,100"
     shifting_team: "-30,0"
@@ -30425,8 +30425,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560008
-    des: building-26560008
-    confront_des: building-36560008
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560009
@@ -30437,7 +30437,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-16560009
+    name: 箱子
     code: GunBox
     shifting_spot: "45,30"
     shifting_team: "-30,0"
@@ -30451,8 +30451,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560009
-    des: building-26560009
-    confront_des: building-36560009
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560010
@@ -30463,7 +30463,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560010
+    name: 【標記】破碎心智
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30477,8 +30477,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560010
-    des: building-26560010
-    confront_des: building-36560010
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560011
@@ -30489,7 +30489,7 @@
     mission_skill: 0;0;0;2000017
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-16560011
+    name: EMP手雷
     code: Build_PortableEMP
     shifting_spot: "65,150"
     shifting_team: "-30,0"
@@ -30503,8 +30503,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560011
-    des: building-26560011
-    confront_des: building-36560011
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560012
@@ -30515,7 +30515,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560012
+    name: 【標記】67737
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30528,8 +30528,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560012
-    des: building-26560012
-    confront_des: building-36560012
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560013
@@ -30540,7 +30540,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560013
+    name: 【標記】67742
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30553,8 +30553,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560013
-    des: building-26560013
-    confront_des: building-36560013
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560014
@@ -30565,7 +30565,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560014
+    name: 【標記】67756
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30578,8 +30578,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560014
-    des: building-26560014
-    confront_des: building-36560014
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560015
@@ -30590,7 +30590,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560015
+    name: 【標記】67734
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30603,8 +30603,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560015
-    des: building-26560015
-    confront_des: building-36560015
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560016
@@ -30615,7 +30615,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560016
+    name: 【標記】67760
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30628,8 +30628,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560016
-    des: building-26560016
-    confront_des: building-36560016
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560017
@@ -30640,7 +30640,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560017
+    name: 【標記】67744
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30653,8 +30653,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560017
-    des: building-26560017
-    confront_des: building-36560017
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560018
@@ -30665,7 +30665,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560018
+    name: 【標記】67745
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30678,8 +30678,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560018
-    des: building-26560018
-    confront_des: building-36560018
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560019
@@ -30690,7 +30690,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560019
+    name: 【標記】67759
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30703,8 +30703,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560019
-    des: building-26560019
-    confront_des: building-36560019
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560020
@@ -30715,7 +30715,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560020
+    name: 【標記】npc每回合行動力+1
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30727,8 +30727,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560020
-    des: building-26560020
-    confront_des: building-36560020
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560021
@@ -30739,7 +30739,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560021
+    name: 【標記】判負兔子
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30750,8 +30750,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560021
-    des: building-26560021
-    confront_des: building-36560021
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
     missionskill_on_death: "2,6560003,6560053,0;2,6560004,6560054,0;2,6560005,6560053,0;2,6560010,6560054,0"
   }
   {
@@ -30763,7 +30763,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560022
+    name: 【標記】召喚敵人兔子
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30775,8 +30775,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560022
-    des: building-26560022
-    confront_des: building-36560022
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560023
@@ -30787,7 +30787,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560023
+    name: 【標記】召喚敵人兔子
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30799,8 +30799,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560023
-    des: building-26560023
-    confront_des: building-36560023
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560024
@@ -30811,7 +30811,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560024
+    name: 【標記】第一關勝利兔子
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30823,8 +30823,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560024
-    des: building-26560024
-    confront_des: building-36560024
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560025
@@ -30835,7 +30835,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560025
+    name: 【標記】第一關勝利兔子
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30847,8 +30847,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560025
-    des: building-26560025
-    confront_des: building-36560025
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560026
@@ -30859,7 +30859,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560026
+    name: 【標記】犯人兔子
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30871,8 +30871,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560026
-    des: building-26560026
-    confront_des: building-36560026
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560027
@@ -30883,7 +30883,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560027
+    name: 【標記】左箭頭
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30895,8 +30895,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560027
-    des: building-26560027
-    confront_des: building-36560027
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 6560028
@@ -30907,7 +30907,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:0
-    name: building-16560028
+    name: 【標記】右箭頭
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -30919,8 +30919,8 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: building-46560028
-    des: building-26560028
-    confront_des: building-36560028
+    des: 【標記】略
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 9031001

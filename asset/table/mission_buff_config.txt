@@ -758,3 +758,13 @@ mission_buff_config-10544212,攜帶燃油
 mission_buff_config-19550101,【標記】Boss
 mission_buff_config-29550101,
 mission_buff_config-20544212,
+mission_buff_config-16560001,攜帶EMP手雷
+mission_buff_config-26560001,攜帶EMP手雷
+mission_buff_config-16560002,攜帶歌利亞
+mission_buff_config-26560002,攜帶歌利亞
+mission_buff_config-16560003,可以壓制敵人
+mission_buff_config-26560003,
+mission_buff_config-16560004,定身
+mission_buff_config-26560004,
+mission_buff_config-16560005,可以與SCAR-L交戰
+mission_buff_config-26560005,

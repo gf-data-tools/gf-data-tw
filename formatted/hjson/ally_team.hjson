@@ -17252,7 +17252,7 @@
   }
   {
     id: 6560001
-    name: ally_team-16560001
+    name: ？？？
     guns: "1"
     enemy_team_id: 6560301
     initial_type: 2
@@ -17262,7 +17262,7 @@
   }
   {
     id: 6560002
-    name: ally_team-16560002
+    name: ？？？
     guns: "1"
     enemy_team_id: 6560301
     initial_type: 2
@@ -17272,7 +17272,7 @@
   }
   {
     id: 6560003
-    name: ally_team-16560003
+    name: SCAR_L
     guns: "6560101"
     enemy_team_id: 1
     initial_type: 1
@@ -17282,7 +17282,7 @@
   }
   {
     id: 6560004
-    name: ally_team-16560004
+    name: SCAR_H
     guns: "6560201"
     enemy_team_id: 1
     initial_type: 1
@@ -17292,7 +17292,7 @@
   }
   {
     id: 6560005
-    name: ally_team-16560005
+    name: 曙光小隊
     guns: "6560301,6560302,6560303,6560304,6560305"
     enemy_team_id: 1
     initial_type: 1
@@ -17302,7 +17302,7 @@
   }
   {
     id: 6560006
-    name: ally_team-16560006
+    name: ？？？
     guns: "1"
     enemy_team_id: 6561301
     initial_type: 2
@@ -17312,7 +17312,7 @@
   }
   {
     id: 6560007
-    name: ally_team-16560007
+    name: ？？？
     guns: "1"
     enemy_team_id: 6561301
     initial_type: 2
@@ -17322,7 +17322,7 @@
   }
   {
     id: 6560008
-    name: ally_team-16560008
+    name: 艾莉安娜
     guns: "1"
     enemy_team_id: 6560401
     initial_type: 2
@@ -17332,7 +17332,7 @@
   }
   {
     id: 6560009
-    name: ally_team-16560009
+    name: 艾莉安娜
     guns: "1"
     enemy_team_id: 6561401
     initial_type: 2
@@ -17342,7 +17342,7 @@
   }
   {
     id: 6560010
-    name: ally_team-16560010
+    name: 阿瑪瑞絲
     guns: "6560201"
     enemy_team_id: 1
     initial_type: 1

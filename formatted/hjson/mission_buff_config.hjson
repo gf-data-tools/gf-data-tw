@@ -3795,8 +3795,8 @@
   }
   {
     id: 6560001
-    name: mission_buff_config-16560001
-    description: mission_buff_config-26560001
+    name: 攜帶EMP手雷
+    description: 攜帶EMP手雷
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -3807,8 +3807,8 @@
   }
   {
     id: 6560002
-    name: mission_buff_config-16560002
-    description: mission_buff_config-26560002
+    name: 攜帶歌利亞
+    description: 攜帶歌利亞
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -3819,7 +3819,7 @@
   }
   {
     id: 6560003
-    name: mission_buff_config-16560003
+    name: 可以壓制敵人
     description: mission_buff_config-26560003
     type: 1
     duration_type: "1"
@@ -3830,7 +3830,7 @@
   }
   {
     id: 6560004
-    name: mission_buff_config-16560004
+    name: 定身
     description: mission_buff_config-26560004
     type: 1
     duration_type: "1"
@@ -3841,7 +3841,7 @@
   }
   {
     id: 6560005
-    name: mission_buff_config-16560005
+    name: 可以與SCAR-L交戰
     description: mission_buff_config-26560005
     type: 1
     duration_type: "1"

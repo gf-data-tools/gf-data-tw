@@ -6035,7 +6035,7 @@
         "id": 1123301,
         "type": 1407,
         "arguments": "6560020:2",
-        "extra_language": "mission_win_type_config-11123301",
+        "extra_language": "拆除炸彈",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6043,7 +6043,7 @@
         "id": 1123302,
         "type": 1407,
         "arguments": "6560039:1",
-        "extra_language": "mission_win_type_config-11123302",
+        "extra_language": "阿瑪瑞絲前往車廂左側連接處",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6051,7 +6051,7 @@
         "id": 1123303,
         "type": 1407,
         "arguments": "6560040:1",
-        "extra_language": "mission_win_type_config-11123303",
+        "extra_language": "艾莉安娜前往車廂右側連接處",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6059,7 +6059,7 @@
         "id": 1123391,
         "type": 1407,
         "arguments": "6560034:1",
-        "extra_language": "mission_win_type_config-11123391",
+        "extra_language": "SCAR_L撤退",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6067,7 +6067,7 @@
         "id": 1123392,
         "type": 1407,
         "arguments": "6560035:1",
-        "extra_language": "mission_win_type_config-11123392",
+        "extra_language": "SCAR_H撤退",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6075,7 +6075,7 @@
         "id": 1123393,
         "type": 1407,
         "arguments": "6560035:1",
-        "extra_language": "mission_win_type_config-11123393",
+        "extra_language": "阿瑪瑞絲撤退",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6083,7 +6083,7 @@
         "id": 1123401,
         "type": 1407,
         "arguments": "6560042:1",
-        "extra_language": "mission_win_type_config-11123401",
+        "extra_language": "找到犯人",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6091,7 +6091,7 @@
         "id": 1123491,
         "type": 1407,
         "arguments": "6560034:1",
-        "extra_language": "mission_win_type_config-11123491",
+        "extra_language": "曙光小隊撤退",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6099,7 +6099,7 @@
         "id": 1123501,
         "type": 1407,
         "arguments": "6560025:1",
-        "extra_language": "mission_win_type_config-11123501",
+        "extra_language": "搜尋SCAR_H",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6107,7 +6107,7 @@
         "id": 1123601,
         "type": 1407,
         "arguments": "6560028:3",
-        "extra_language": "mission_win_type_config-11123601",
+        "extra_language": "回收月印",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6115,7 +6115,7 @@
         "id": 1123602,
         "type": 1306,
         "arguments": "6560008:1",
-        "extra_language": "mission_win_type_config-11123602",
+        "extra_language": "讓阿瑪瑞絲與艾莉安娜對決",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6123,7 +6123,7 @@
         "id": 1123701,
         "type": 1407,
         "arguments": "6560020:2",
-        "extra_language": "mission_win_type_config-11123701",
+        "extra_language": "拆除炸彈",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6131,7 +6131,7 @@
         "id": 1123702,
         "type": 1407,
         "arguments": "6560039:1",
-        "extra_language": "mission_win_type_config-11123702",
+        "extra_language": "右車廂梯隊前往左側連接",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6139,7 +6139,7 @@
         "id": 1123703,
         "type": 1407,
         "arguments": "6560040:1",
-        "extra_language": "mission_win_type_config-11123703",
+        "extra_language": "左車廂梯隊前往右側連接",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6147,7 +6147,7 @@
         "id": 1123801,
         "type": 1407,
         "arguments": "6560042:1",
-        "extra_language": "mission_win_type_config-11123801",
+        "extra_language": "找到犯人",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6155,7 +6155,7 @@
         "id": 1123901,
         "type": 1407,
         "arguments": "6560025:1",
-        "extra_language": "mission_win_type_config-11123901",
+        "extra_language": "搜尋阿瑪瑞絲",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6163,7 +6163,7 @@
         "id": 1124001,
         "type": 1407,
         "arguments": "6560028:3",
-        "extra_language": "mission_win_type_config-11124001",
+        "extra_language": "回收月印",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6171,7 +6171,7 @@
         "id": 1124002,
         "type": 1306,
         "arguments": "6560009:1",
-        "extra_language": "mission_win_type_config-11124002",
+        "extra_language": "我方與艾莉安娜對決",
         "is_hidden": 0,
         "is_show_count": ""
     },

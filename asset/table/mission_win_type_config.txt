@@ -868,3 +868,25 @@ mission_win_type_config-11115101,擊退伊芙小姐//n<color=#CF8000>BOSS在任�
 mission_win_type_config-11115601,擊退伊芙小姐//n<color=#CF8000>BOSS在任務開始時是無敵的，可使用干擾裝置將防護罩破除，BOSS會一直追逐瑪姬</color>
 mission_win_type_config-11115701,
 mission_win_type_config-11115801,
+mission_win_type_config-11123301,拆除炸彈
+mission_win_type_config-11123302,阿瑪瑞絲前往車廂左側連接處
+mission_win_type_config-11123303,艾莉安娜前往車廂右側連接處
+mission_win_type_config-11123391,SCAR_L撤退
+mission_win_type_config-11123392,SCAR_H撤退
+mission_win_type_config-11123393,阿瑪瑞絲撤退
+mission_win_type_config-11123401,找到犯人
+mission_win_type_config-11123491,曙光小隊撤退
+mission_win_type_config-11123501,搜尋SCAR_H
+mission_win_type_config-11123601,回收月印
+mission_win_type_config-11123602,讓阿瑪瑞絲與艾莉安娜對決
+mission_win_type_config-11123701,拆除炸彈
+mission_win_type_config-11123702,右車廂梯隊前往左側連接
+mission_win_type_config-11123703,左車廂梯隊前往右側連接
+mission_win_type_config-11123801,找到犯人
+mission_win_type_config-11123901,搜尋阿瑪瑞絲
+mission_win_type_config-11124001,回收月印
+mission_win_type_config-11124002,我方與艾莉安娜對決
+mission_win_type_config-11124101,
+mission_win_type_config-11124201,
+mission_win_type_config-11131801,
+mission_win_type_config-11131901,

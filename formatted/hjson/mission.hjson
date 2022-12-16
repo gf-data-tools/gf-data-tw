@@ -42329,7 +42329,7 @@
     campaign: -56
     sub: 2
     if_emergency: -1
-    name: mission-10011233
+    name: 初虧|左車廂|連接|右車廂
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42360,7 +42360,7 @@
     campaign: -56
     sub: 3
     if_emergency: -1
-    name: mission-10011234
+    name: 食既
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42392,7 +42392,7 @@
     campaign: -56
     sub: 4
     if_emergency: -1
-    name: mission-10011235
+    name: 食甚
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42424,7 +42424,7 @@
     campaign: -56
     sub: 5
     if_emergency: -1
-    name: mission-10011236
+    name: 生光
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42455,7 +42455,7 @@
     campaign: -56
     sub: 6
     if_emergency: -1
-    name: mission-10011237
+    name: 初虧EX|左車廂|連接|右車廂
     difficulty: 20000
     exp_parameter: 48
     type: "3"
@@ -42480,7 +42480,7 @@
     difficulty_recommend: 20000;100
     difficulty_recommend_addendum: mission-30011237
     limit_sangvis: 4
-    mission_tip: mission-40011237
+    mission_tip: 推薦編隊類型：能力均衡編隊
     win_step: "1123701"
   }
   {
@@ -42488,7 +42488,7 @@
     campaign: -56
     sub: 7
     if_emergency: -1
-    name: mission-10011238
+    name: 食既EX
     difficulty: 26000
     exp_parameter: 51
     type: "3"
@@ -42514,14 +42514,14 @@
     difficulty_recommend: 26000;110
     difficulty_recommend_addendum: mission-30011238
     limit_sangvis: 4
-    mission_tip: mission-40011238
+    mission_tip: 推薦編隊類型：能力均衡編隊
   }
   {
     id: 11239
     campaign: -56
     sub: 8
     if_emergency: -1
-    name: mission-10011239
+    name: 食甚EX
     difficulty: 30000
     exp_parameter: 53
     type: "3"
@@ -42547,14 +42547,14 @@
     difficulty_recommend: 30000;120
     difficulty_recommend_addendum: mission-30011239
     limit_sangvis: 4
-    mission_tip: mission-40011239
+    mission_tip: 推薦編隊類型：能力均衡編隊
   }
   {
     id: 11240
     campaign: -56
     sub: 9
     if_emergency: -1
-    name: mission-10011240
+    name: 生光EX
     difficulty: 34000
     exp_parameter: 55
     type: "3"
@@ -42579,7 +42579,7 @@
     difficulty_recommend: 34000;120
     difficulty_recommend_addendum: mission-30011240
     limit_sangvis: 4
-    mission_tip: mission-40011240
+    mission_tip: 推薦編隊類型：能力均衡編隊
     win_step: "1124001"
   }
   {
@@ -42587,7 +42587,7 @@
     campaign: -56
     sub: 10
     if_emergency: -1
-    name: mission-10011241
+    name: 忒伊亞撞擊
     difficulty: 10000
     exp_parameter: 40
     type: "3"
@@ -42613,14 +42613,14 @@
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30011241
     limit_sangvis: 4
-    mission_tip: mission-40011241
+    mission_tip: 推薦編隊類型：能力均衡編隊
   }
   {
     id: 11242
     campaign: -56
     sub: 11
     if_emergency: -1
-    name: mission-10011242
+    name: 忒伊亞撞擊EX
     difficulty: 30000
     exp_parameter: 53
     type: "3"
@@ -42646,7 +42646,7 @@
     difficulty_recommend: 30000;120
     difficulty_recommend_addendum: mission-30011242
     limit_sangvis: 4
-    mission_tip: mission-40011242
+    mission_tip: 推薦編隊類型：能力均衡編隊
   }
   {
     id: 11243
@@ -42654,7 +42654,7 @@
     sub: 1
     if_emergency: -1
     special_type: 9
-    name: mission-10011243
+    name: 長週期攝動
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42680,7 +42680,7 @@
     sub: 14
     if_emergency: -1
     special_type: 9
-    name: mission-10011244
+    name: 短週期攝動
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42707,7 +42707,7 @@
     sub: 15
     if_emergency: -1
     special_type: 9
-    name: mission-10011245
+    name: 黃白交角
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42734,7 +42734,7 @@
     sub: 16
     if_emergency: -1
     special_type: 9
-    name: mission-10011246
+    name: 災變
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42761,7 +42761,7 @@
     sub: 17
     if_emergency: -1
     special_type: 9
-    name: mission-10011247
+    name: 入凌
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42788,7 +42788,7 @@
     sub: 18
     if_emergency: -1
     special_type: 9
-    name: mission-10011248
+    name: 出凌
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42815,7 +42815,7 @@
     sub: 19
     if_emergency: -1
     special_type: 9
-    name: mission-10011249
+    name: 同源
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42842,7 +42842,7 @@
     sub: 20
     if_emergency: -1
     special_type: 9
-    name: mission-10011250
+    name: 俘獲
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42869,7 +42869,7 @@
     sub: 21
     if_emergency: -1
     special_type: 9
-    name: mission-10011251
+    name: 偽本影
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42896,7 +42896,7 @@
     sub: 22
     if_emergency: -1
     special_type: 9
-    name: mission-10011252
+    name: 本影
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42923,7 +42923,7 @@
     sub: 23
     if_emergency: -1
     special_type: 9
-    name: mission-10011253
+    name: 金邊
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42950,7 +42950,7 @@
     sub: 24
     if_emergency: -1
     special_type: 9
-    name: mission-10011254
+    name: 星環
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42977,7 +42977,7 @@
     sub: 25
     if_emergency: -1
     special_type: 9
-    name: mission-10011255
+    name: 危海
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -43004,7 +43004,7 @@
     sub: 26
     if_emergency: -1
     special_type: 9
-    name: mission-10011256
+    name: 靜海
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -43031,7 +43031,7 @@
     sub: 27
     if_emergency: -1
     special_type: 9
-    name: mission-10011257
+    name: 交點月
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -43058,7 +43058,7 @@
     sub: 28
     if_emergency: -1
     special_type: 9
-    name: mission-10011258
+    name: 復圓
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -43085,7 +43085,7 @@
     sub: 29
     if_emergency: -1
     special_type: 9
-    name: mission-10011259
+    name: 外拉格朗日點
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -43112,7 +43112,7 @@
     sub: 30
     if_emergency: -1
     special_type: 9
-    name: mission-10011260
+    name: 內拉格朗日點
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -43138,7 +43138,7 @@
     campaign: -56
     sub: 12
     if_emergency: -1
-    name: mission-10011318
+    name: 泰勒斯預言
     difficulty: 10000
     exp_parameter: 40
     type: "3"
@@ -43164,14 +43164,14 @@
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30011318
     limit_sangvis: 4
-    mission_tip: mission-40011318
+    mission_tip: 推薦編隊類型：能力均衡編隊
   }
   {
     id: 11319
     campaign: -56
     sub: 13
     if_emergency: -1
-    name: mission-10011319
+    name: 泰勒斯預言EX
     difficulty: 30000
     exp_parameter: 53
     type: "3"
@@ -43197,7 +43197,7 @@
     difficulty_recommend: 30000;120
     difficulty_recommend_addendum: mission-30011319
     limit_sangvis: 4
-    mission_tip: mission-40011319
+    mission_tip: 推薦編隊類型：能力均衡編隊
   }
   {
     id: 11320

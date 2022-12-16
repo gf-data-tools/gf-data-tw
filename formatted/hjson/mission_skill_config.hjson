@@ -45526,7 +45526,7 @@
   }
   {
     id: 6560001
-    name: mission_skill_config-16560001
+    name: 【標記】塑膠炸彈初始化
     code: "1"
     description: mission_skill_config-26560001
     lvup_description: mission_skill_config-36560001
@@ -45541,7 +45541,7 @@
   }
   {
     id: 6560002
-    name: mission_skill_config-16560002
+    name: 【標記】塑膠炸彈初始化
     code: "1"
     description: mission_skill_config-26560002
     lvup_description: mission_skill_config-36560002
@@ -45556,7 +45556,7 @@
   }
   {
     id: 6560003
-    name: mission_skill_config-16560003
+    name: 【標記】自動機炮67741回合技能
     code: "1"
     description: mission_skill_config-26560003
     lvup_description: mission_skill_config-36560003
@@ -45571,7 +45571,7 @@
   }
   {
     id: 6560004
-    name: mission_skill_config-16560004
+    name: 【標記】自動機炮67747回合技能
     code: "1"
     description: mission_skill_config-26560004
     lvup_description: mission_skill_config-36560004
@@ -45586,7 +45586,7 @@
   }
   {
     id: 6560005
-    name: mission_skill_config-16560005
+    name: 【標記】自動機炮67749回合技能
     code: "1"
     description: mission_skill_config-26560005
     lvup_description: mission_skill_config-36560005
@@ -45601,7 +45601,7 @@
   }
   {
     id: 6560006
-    name: mission_skill_config-16560006
+    name: 【標記】控制台初始化
     code: "1"
     description: mission_skill_config-26560006
     lvup_description: mission_skill_config-36560006
@@ -45616,7 +45616,7 @@
   }
   {
     id: 6560007
-    name: mission_skill_config-16560007
+    name: 【標記】防禦門初始化
     code: "1"
     description: mission_skill_config-26560007
     lvup_description: mission_skill_config-36560007
@@ -45631,7 +45631,7 @@
   }
   {
     id: 6560008
-    name: mission_skill_config-16560008
+    name: 【標記】廢棄歌利亞初始化
     code: "1"
     description: mission_skill_config-26560008
     lvup_description: mission_skill_config-36560008
@@ -45646,7 +45646,7 @@
   }
   {
     id: 6560009
-    name: mission_skill_config-16560009
+    name: 【標記】箱子初始化
     code: "1"
     description: mission_skill_config-26560009
     lvup_description: mission_skill_config-36560009
@@ -45661,7 +45661,7 @@
   }
   {
     id: 6560010
-    name: mission_skill_config-16560010
+    name: 【標記】破碎心智初始化
     code: "1"
     description: mission_skill_config-26560010
     lvup_description: mission_skill_config-36560010
@@ -45676,7 +45676,7 @@
   }
   {
     id: 6560011
-    name: mission_skill_config-16560011
+    name: 【標記】EMP手雷初始化
     code: "1"
     description: mission_skill_config-26560011
     lvup_description: mission_skill_config-36560011
@@ -45691,7 +45691,7 @@
   }
   {
     id: 6560012
-    name: mission_skill_config-16560012
+    name: 【標記】67737初始化
     code: "1"
     description: mission_skill_config-26560012
     lvup_description: mission_skill_config-36560012
@@ -45706,7 +45706,7 @@
   }
   {
     id: 6560013
-    name: mission_skill_config-16560013
+    name: 【標記】67742初始化
     code: "1"
     description: mission_skill_config-26560013
     lvup_description: mission_skill_config-36560013
@@ -45721,7 +45721,7 @@
   }
   {
     id: 6560014
-    name: mission_skill_config-16560014
+    name: 【標記】67756初始化
     code: "1"
     description: mission_skill_config-26560014
     lvup_description: mission_skill_config-36560014
@@ -45736,7 +45736,7 @@
   }
   {
     id: 6560015
-    name: mission_skill_config-16560015
+    name: 【標記】67734初始化
     code: "1"
     description: mission_skill_config-26560015
     lvup_description: mission_skill_config-36560015
@@ -45751,7 +45751,7 @@
   }
   {
     id: 6560016
-    name: mission_skill_config-16560016
+    name: 【標記】67760初始化
     code: "1"
     description: mission_skill_config-26560016
     lvup_description: mission_skill_config-36560016
@@ -45766,7 +45766,7 @@
   }
   {
     id: 6560017
-    name: mission_skill_config-16560017
+    name: 【標記】67744初始化
     code: "1"
     description: mission_skill_config-26560017
     lvup_description: mission_skill_config-36560017
@@ -45781,7 +45781,7 @@
   }
   {
     id: 6560018
-    name: mission_skill_config-16560018
+    name: 【標記】67745初始化
     code: "1"
     description: mission_skill_config-26560018
     lvup_description: mission_skill_config-36560018
@@ -45796,7 +45796,7 @@
   }
   {
     id: 6560019
-    name: mission_skill_config-16560019
+    name: 【標記】67759初始化
     code: "1"
     description: mission_skill_config-26560019
     lvup_description: mission_skill_config-36560019
@@ -45811,9 +45811,9 @@
   }
   {
     id: 6560020
-    name: mission_skill_config-16560020
+    name: 拆除炸彈
     code: "1"
-    description: mission_skill_config-26560020
+    description: 趕緊收拾了敵人，回家吃紅燒雞翅啦！
     lvup_description: mission_skill_config-36560020
     skill_group_id: 6560020
     level: 1
@@ -45828,7 +45828,7 @@
   }
   {
     id: 6560021
-    name: mission_skill_config-16560021
+    name: 【標記】自動機炮1初始化回合技能
     code: "1"
     description: mission_skill_config-26560021
     lvup_description: mission_skill_config-36560021
@@ -45844,7 +45844,7 @@
   }
   {
     id: 6560022
-    name: mission_skill_config-16560022
+    name: 【標記】自動機炮2初始化回合技能
     code: "1"
     description: mission_skill_config-26560022
     lvup_description: mission_skill_config-36560022
@@ -45860,7 +45860,7 @@
   }
   {
     id: 6560023
-    name: mission_skill_config-16560023
+    name: 【標記】自動機炮3初始化回合技能
     code: "1"
     description: mission_skill_config-26560023
     lvup_description: mission_skill_config-36560023
@@ -45876,7 +45876,7 @@
   }
   {
     id: 6560024
-    name: mission_skill_config-16560024
+    name: 【標記】自動機炮1初始化回合技能
     code: "1"
     description: mission_skill_config-26560024
     lvup_description: mission_skill_config-36560024
@@ -45892,7 +45892,7 @@
   }
   {
     id: 6560025
-    name: mission_skill_config-16560025
+    name: 【標記】自動機炮2初始化回合技能
     code: "1"
     description: mission_skill_config-26560025
     lvup_description: mission_skill_config-36560025
@@ -45908,7 +45908,7 @@
   }
   {
     id: 6560026
-    name: mission_skill_config-16560026
+    name: 【標記】自動機炮3初始化回合技能
     code: "1"
     description: mission_skill_config-26560026
     lvup_description: mission_skill_config-36560026
@@ -45924,9 +45924,9 @@
   }
   {
     id: 6560027
-    name: mission_skill_config-16560027
+    name: 開啟防禦門
     code: "1"
-    description: mission_skill_config-26560027
+    description: 開啟防禦門。
     lvup_description: mission_skill_config-36560027
     skill_group_id: 6560027
     level: 1
@@ -45943,7 +45943,7 @@
   }
   {
     id: 6560028
-    name: mission_skill_config-16560028
+    name: 【標記】開啟防禦門連攜
     code: "1"
     description: mission_skill_config-26560028
     lvup_description: mission_skill_config-36560028
@@ -45959,9 +45959,9 @@
   }
   {
     id: 6560029
-    name: mission_skill_config-16560029
+    name: 搜查箱子
     code: "1"
-    description: mission_skill_config-26560029
+    description: 哈哈出來吧你。
     lvup_description: mission_skill_config-36560029
     skill_group_id: 6560029
     level: 1
@@ -45977,9 +45977,9 @@
   }
   {
     id: 6560030
-    name: mission_skill_config-16560030
+    name: 搜查箱子
     code: "1"
-    description: mission_skill_config-26560030
+    description: 哈哈出來吧你。
     lvup_description: mission_skill_config-36560030
     skill_group_id: 6560030
     level: 1
@@ -45995,9 +45995,9 @@
   }
   {
     id: 6560031
-    name: mission_skill_config-16560031
+    name: 搜查箱子
     code: "1"
-    description: mission_skill_config-26560031
+    description: 哈哈出來吧你。
     lvup_description: mission_skill_config-36560031
     skill_group_id: 6560031
     level: 1
@@ -46013,7 +46013,7 @@
   }
   {
     id: 6560032
-    name: mission_skill_config-16560032
+    name: 【標記】搜查箱子連攜
     code: "1"
     description: mission_skill_config-26560032
     lvup_description: mission_skill_config-36560032
@@ -46030,7 +46030,7 @@
   }
   {
     id: 6560033
-    name: mission_skill_config-16560033
+    name: 【標記】搜查箱子連攜
     code: "1"
     description: mission_skill_config-26560033
     lvup_description: mission_skill_config-36560033
@@ -46047,9 +46047,9 @@
   }
   {
     id: 6560034
-    name: mission_skill_config-16560034
+    name: 回收
     code: "1"
-    description: mission_skill_config-26560034
+    description: 回收月印來獲取壓制能力。
     lvup_description: mission_skill_config-36560034
     skill_group_id: 6560034
     level: 1
@@ -46067,9 +46067,9 @@
   }
   {
     id: 6560035
-    name: mission_skill_config-16560035
+    name: 回收
     code: "1"
-    description: mission_skill_config-26560035
+    description: 回收月印來獲取壓制能力。
     lvup_description: mission_skill_config-36560035
     skill_group_id: 6560035
     level: 1
@@ -46087,9 +46087,9 @@
   }
   {
     id: 6560036
-    name: mission_skill_config-16560036
+    name: 回收
     code: "1"
-    description: mission_skill_config-26560036
+    description: 這已經是最後一處了，應該可以戰勝她的！
     lvup_description: mission_skill_config-36560036
     skill_group_id: 6560036
     level: 1
@@ -46106,7 +46106,7 @@
   }
   {
     id: 6560037
-    name: mission_skill_config-16560037
+    name: 【標記】破碎心智連攜1
     code: "1"
     description: mission_skill_config-26560037
     lvup_description: mission_skill_config-36560037
@@ -46122,7 +46122,7 @@
   }
   {
     id: 6560038
-    name: mission_skill_config-16560038
+    name: 【標記】破碎心智連攜2
     code: "1"
     description: mission_skill_config-26560038
     lvup_description: mission_skill_config-36560038
@@ -46139,7 +46139,7 @@
   }
   {
     id: 6560039
-    name: mission_skill_config-16560039
+    name: 【標記】boss加速
     code: "1"
     description: mission_skill_config-26560039
     lvup_description: mission_skill_config-36560039
@@ -46155,9 +46155,9 @@
   }
   {
     id: 6560040
-    name: mission_skill_config-16560040
+    name: 拾取歌利亞
     code: "1"
-    description: mission_skill_config-26560040
+    description: 獲得一枚歌利亞
     lvup_description: mission_skill_config-36560040
     skill_group_id: 6560040
     level: 1
@@ -46173,9 +46173,9 @@
   }
   {
     id: 6560041
-    name: mission_skill_config-16560041
+    name: 拾取EMP手雷
     code: "1"
-    description: mission_skill_config-26560041
+    description: 獲得一枚EMP手雷
     lvup_description: mission_skill_config-36560041
     skill_group_id: 6560041
     level: 1
@@ -46191,9 +46191,9 @@
   }
   {
     id: 6560042
-    name: mission_skill_config-16560042
+    name: 扔出歌利亞
     code: "1"
-    description: mission_skill_config-26560042
+    description: 炸它個稀巴爛。
     lvup_description: mission_skill_config-36560042
     skill_group_id: 6560042
     level: 1
@@ -46209,9 +46209,9 @@
   }
   {
     id: 6560043
-    name: mission_skill_config-16560043
+    name: 扔出EMP手雷
     code: "1"
-    description: mission_skill_config-26560043
+    description: "1,2,3,木頭人。"
     lvup_description: mission_skill_config-36560043
     skill_group_id: 6560043
     level: 1
@@ -46227,7 +46227,7 @@
   }
   {
     id: 6560044
-    name: mission_skill_config-16560044
+    name: 【標記】扔出歌利亞連攜
     code: "1"
     description: mission_skill_config-26560044
     lvup_description: mission_skill_config-36560044
@@ -46242,7 +46242,7 @@
   }
   {
     id: 6560045
-    name: mission_skill_config-16560045
+    name: 【標記】扔出EMP手雷連攜
     code: "1"
     description: mission_skill_config-26560045
     lvup_description: mission_skill_config-36560045
@@ -46257,9 +46257,9 @@
   }
   {
     id: 6560046
-    name: mission_skill_config-16560046
+    name: 壓制敵人
     code: "1"
-    description: mission_skill_config-26560046
+    description: 可以大幅度削減敵人的血量以及定身一回合。
     lvup_description: mission_skill_config-36560046
     skill_group_id: 6560046
     level: 1
@@ -46274,7 +46274,7 @@
   }
   {
     id: 6560047
-    name: mission_skill_config-16560047
+    name: 【標記】壓制敵人連攜
     code: "1"
     description: mission_skill_config-26560047
     lvup_description: mission_skill_config-36560047
@@ -46289,7 +46289,7 @@
   }
   {
     id: 6560048
-    name: mission_skill_config-16560048
+    name: 【標記】npc行動力初始化
     code: "1"
     description: mission_skill_config-26560048
     lvup_description: mission_skill_config-36560048
@@ -46304,7 +46304,7 @@
   }
   {
     id: 6560049
-    name: mission_skill_config-16560049
+    name: 【標記】npc召喚敵人初始化
     code: "1"
     description: mission_skill_config-26560049
     lvup_description: mission_skill_config-36560049
@@ -46319,7 +46319,7 @@
   }
   {
     id: 6560050
-    name: mission_skill_config-16560050
+    name: 【標記】npc召喚敵人初始化
     code: "1"
     description: mission_skill_config-26560050
     lvup_description: mission_skill_config-36560050
@@ -46334,7 +46334,7 @@
   }
   {
     id: 6560051
-    name: mission_skill_config-16560051
+    name: 【標記】npc召喚敵人
     code: "1"
     description: mission_skill_config-26560051
     lvup_description: mission_skill_config-36560051
@@ -46349,7 +46349,7 @@
   }
   {
     id: 6560052
-    name: mission_skill_config-16560052
+    name: 【標記】npc召喚敵人
     code: "1"
     description: mission_skill_config-26560052
     lvup_description: mission_skill_config-36560052
@@ -46364,7 +46364,7 @@
   }
   {
     id: 6560053
-    name: mission_skill_config-16560053
+    name: 【標記】SCAR-L判負
     code: "1"
     description: mission_skill_config-26560053
     lvup_description: mission_skill_config-36560053
@@ -46379,7 +46379,7 @@
   }
   {
     id: 6560054
-    name: mission_skill_config-16560054
+    name: 【標記】SCAR-H判負
     code: "1"
     description: mission_skill_config-26560054
     lvup_description: mission_skill_config-36560054
@@ -46394,7 +46394,7 @@
   }
   {
     id: 6560055
-    name: mission_skill_config-16560055
+    name: 【標記】第一關勝利兔子用
     code: "1"
     description: mission_skill_config-26560055
     lvup_description: mission_skill_config-36560055
@@ -46409,7 +46409,7 @@
   }
   {
     id: 6560056
-    name: mission_skill_config-16560056
+    name: 【標記】第一關勝利兔子用
     code: "1"
     description: mission_skill_config-26560056
     lvup_description: mission_skill_config-36560056
@@ -46424,7 +46424,7 @@
   }
   {
     id: 6560057
-    name: mission_skill_config-16560057
+    name: 【標記】犯人兔子用
     code: "1"
     description: mission_skill_config-26560057
     lvup_description: mission_skill_config-36560057
@@ -46439,7 +46439,7 @@
   }
   {
     id: 6560058
-    name: mission_skill_config-16560058
+    name: 【標記】左箭頭初始化
     code: "1"
     description: mission_skill_config-26560058
     lvup_description: mission_skill_config-36560058
@@ -46454,7 +46454,7 @@
   }
   {
     id: 6560059
-    name: mission_skill_config-16560059
+    name: 【標記】右箭頭初始化
     code: "1"
     description: mission_skill_config-26560059
     lvup_description: mission_skill_config-36560059
@@ -46469,9 +46469,9 @@
   }
   {
     id: 6560060
-    name: mission_skill_config-16560060
+    name: 【標記】自動機炮開始回合掃射
     code: "1"
-    description: mission_skill_config-26560060
+    description: 回合開始時對周圍距離1以內的我方單位造成10%的當前血量傷害。
     lvup_description: mission_skill_config-36560060
     skill_group_id: 6560060
     level: 1
@@ -46484,9 +46484,9 @@
   }
   {
     id: 6560061
-    name: mission_skill_config-16560061
+    name: 【標記】自動機炮效果
     code: "1"
-    description: mission_skill_config-26560061
+    description: 回合開始時對周圍距離1以內的我方單位造成10%的當前血量傷害。
     lvup_description: mission_skill_config-36560061
     skill_group_id: 6560061
     level: 1

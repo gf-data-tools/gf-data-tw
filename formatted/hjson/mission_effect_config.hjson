@@ -1248,18 +1248,18 @@
   }
   {
     id: 1000112
-    name: mission_effect_config-11000112
+    name: 月亮
     code: bushu_moon
-    description: mission_effect_config-21000112
+    description: 月亮
     priority: -1
     size: 1.0
     offset: "0,0"
   }
   {
     id: 1000113
-    name: mission_effect_config-11000113
+    name: 受擊特效給hurt用
     code: MGT_shouji
-    description: mission_effect_config-21000113
+    description: 受擊特效給hurt用
     duration: 1.0
     size: 0.02
     offset: "0,0"
