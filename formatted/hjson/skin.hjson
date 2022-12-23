@@ -7713,6 +7713,72 @@
     class_id: 82
   }
   {
+    id: 7801
+    name: 德利爾-編織星光
+    fit_gun: 337
+    voice: 19
+    dialog: 拿去吧，聖誕快樂……啊？我今天怎麼沒戴耳機？那還不是因為想聽清楚，你收到禮物後的反應嗎！
+    note: skin-30007801
+    illustrator_cv: skin-40007801
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7802
+    name: Lusa-冬鹿拿鐵
+    fit_gun: 311
+    voice: 19
+    dialog: 指揮官，多謝你的拿鐵！要來看看我在雪地足球賽上的表現嗎？……反正，提前買我們隊贏就對了！
+    note: skin-30007802
+    illustrator_cv: skin-40007802
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7804
+    name: MPL-躍紅踏霜
+    fit_gun: 363
+    voice: 19
+    dialog: 呼，總算躲開了那個巨大的雪球。嗯？MPK怎麼不見了……什麼？！她和指揮官就在剛剛的雪球裡？
+    note: skin-30007804
+    illustrator_cv: skin-40007804
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7806
+    name: MPK-冰崖飛焰
+    fit_gun: 364
+    voice: 19
+    dialog: 唷呼，又一個超高難度動作挑戰成功！……等等，前面的不是指揮官嗎？快讓開啊啊啊我剎不住了——
+    note: skin-30007806
+    illustrator_cv: skin-40007806
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7807
+    name: KSVK-覆雪之下
+    fit_gun: 252
+    voice: 19
+    dialog: 指揮官，小心一些，即使在嚴寒的雪地裡，依然有著昂首綻放的花朵——請勿踐踏了她的心意。
+    note: skin-30007807
+    illustrator_cv: skin-40007807
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7809
+    name: Bren Ten-絨絨草莓塔
+    fit_gun: 139
+    voice: 19
+    dialog: 聽說外邊在刮暴風雪，今天就在這裡陪我吧！……誒，沒下雪嗎？我、我不管，都是天氣預報說的啦！
+    note: skin-30007809
+    illustrator_cv: 小星,佐藤有世,
+    order: 98
+    class_id: 83
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57

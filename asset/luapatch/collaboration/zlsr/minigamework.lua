@@ -20,11 +20,24 @@ local isUIPausing = false
 local haloObj
 
 local _imgTime1,_imgTime2,_imgTime3,_imgTime4,_imgFeverGauge
-local txtFever
+local txtFever,txtScore
 local spriteListTime
 local BattleController
 local spine
 local dir = 1
+
+local playerScore = 0
+local totalBrickNum = 0
+local lastFrameHoldingBrickNum = 0
+local currentHoldingBrickNum = 0
+local stunBuffNum = 0
+
+local stunTimer =0 
+local stunAnimFirstFrame = 45
+local stunAnimSecondFrame = 45
+local isMoving = false
+local isStun = false
+local lifebarFlag = false
 Awake = function()
 	
 	math.randomseed(tostring(os.time()):reverse():sub(1, 7))
@@ -79,12 +92,13 @@ Start = function()
 	_imgTime4 = imgTimeNum4:GetComponent(typeof(CS.ExImage))
 	_imgFeverGauge = feverGuage:GetComponent(typeof(CS.ExImage))
 	txtFever = feverNum:GetComponent(typeof(CS.ExText))
+	txtScore = scoreNum:GetComponent(typeof(CS.ExText))
 	spriteListTime = holderTimeNum:GetComponent(typeof(CS.UGUISpriteHolder))
 	JoyStrick:GetComponent(typeof(CS.Joystick)).JoystickMoveHandle = JoyStickMove
 	JoyStrick:GetComponent(typeof(CS.Joystick)).JoystickEndHandle = JoyStickEnd
 	JoyStrick:GetComponent(typeof(CS.Joystick)).JoystickBeginHandle = JoyStickBegin
 	UpdateFever(0)
-	
+	UpdateScore()
 	btnPause:GetComponent(typeof(CS.ExButton)).onClick:AddListener(
 		function()
 			PauseGame(true)
@@ -97,14 +111,26 @@ Start = function()
 		function()
 			PauseGame(false)
 		end)
+	btnPutDown:GetComponent(typeof(CS.ExButton)).onClick:AddListener(
+		function()
+			DiscardBrick()
+		end)
 	--CS.BattleScaler.InitScalerByMaxNum(0)
 	spine = character.listMember[0]
+	
+	CS.BattleFrameManager.Register(
+		function() 
+			MainLoop()
+		end)
 end
 JoyStickMove = function(input)
 	local XPara = speedXPara
 	if input.value <= 0.01 then
 		return
 	end
+	if isStun then
+		return
+	end	
 	--print(input.value)
 	local x =
 	CS.Mathf.Clamp(
@@ -123,14 +149,14 @@ JoyStickMove = function(input)
 			dir = -1
 			spine:SetDirection(-1)
 		end		
-		
+
 	else
 		if dir <0 then
 			dir = 1
 			spine:SetDirection(1)
 		end
 	end
-	
+
 	
 	--print("原始速度:"..character.realtimeSpeed .." ".."最终速度:"..character.gun.speed * XPara * input.value)
 	local offset = CS.UnityEngine.Vector3(x, 0, y)
@@ -138,12 +164,21 @@ JoyStickMove = function(input)
 end
 
 JoyStickBegin = function(input)
-	spine:SetSpine(GetMoveCode(),dir)
+	
+	isMoving  = true
+	if not isStun then
+		spine:SetSpine(GetMoveCode(),dir)
+	end	
 end
 
 JoyStickEnd = function(input)
-	print("End")
-	spine:SetSpine(GetWaitCode(),dir)
+
+	--print("End")
+	isMoving  = false
+	if not isStun then
+		spine:SetSpine(GetWaitCode(),dir)
+	end	
+	
 end
 OnDestroy = function()
 	xlua.hotfix(CS.BattleInteractionController,'DisableRangeLine',nil)
@@ -153,20 +188,141 @@ Update = function()
 	if haloObj ~= nil and haloObj.activeSelf then
 		haloObj:SetActive(false)
 	end
+	totalTimer = totalTimer - CS.UnityEngine.Time.deltaTime
 	MainLoop()
 	
 end
 function MainLoop()
-	totalTimer = totalTimer - CS.UnityEngine.Time.deltaTime
+	
 	UpdateRemainTime()
+	if not lifebarFlag and character.lifeBar ~= nil then
+		character.lifeBar.gameObject:SetActive(false)
+		lifebarFlag = true
+		spine:SetSpine("spwait0",1)
+	end
+	lastFrameHoldingBrickNum = currentHoldingBrickNum
+	
+	if not isStun then
+		UpdateBuff()
+		--判断是否摔倒
+		if stunBuffNum ~= 0 then
+			DoStun()
+		end
+		if lastFrameHoldingBrickNum ~= currentHoldingBrickNum then
+			if isMoving then
+				spine:SetSpine(GetMoveCode(),dir)
+			else
+				spine:SetSpine(GetWaitCode(),dir)
+			end
+			if lastFrameHoldingBrickNum > currentHoldingBrickNum then
+				--记录得分
+				totalBrickNum = totalBrickNum + (lastFrameHoldingBrickNum - currentHoldingBrickNum)
+				playerScore = totalBrickNum * brickScore
+				UpdateScore()
+			end
+		end
+	else -- 
+		stunTimer = stunTimer + 1
+		if stunTimer == stunAnimFirstFrame then
+			spine:SetSpine("up", dir)
+		end
+		if stunTimer >= stunAnimFirstFrame + stunAnimSecondFrame then
+			StunFinish()
+		end
+	end
+end
+function UpdateBuff()
+	currentHoldingBrickNum = character.conditionListSelf:GetTierByID(brickBuffID)
+	stunBuffNum = character.conditionListSelf:GetTierByID(stunBuffIDLeft)
+	if stunBuffNum == 0 then
+		stunBuffNum = -character.conditionListSelf:GetTierByID(stunBuffIDRight)	
+	end	
 end
 function GetMoveCode()
-	return "move"
+	if currentHoldingBrickNum == 0 then
+		return "move"
+	end
+	if currentHoldingBrickNum == 1 then
+		return "spmove1"
+	end
+	if currentHoldingBrickNum == 2 then
+		return "spmove2"
+	end
+	if currentHoldingBrickNum == 3 then
+		return "spmove3"
+	end
+	if currentHoldingBrickNum == 4 then
+		return "spmove4"
+	end
+	if currentHoldingBrickNum == 5 then
+		return "spmove5"
+	end
+	return""
+end
+function GetStunCode()
+		if currentHoldingBrickNum == 1 then
+			return "Down1"
+		end
+		if currentHoldingBrickNum == 2 then
+			return "Down2"
+		end
+		if currentHoldingBrickNum == 3 then
+			return "Down3"
+		end
+		if currentHoldingBrickNum == 4 then
+			return "Down4"
+		end
+		if currentHoldingBrickNum == 5 then
+			return "Down5"
+		end
+		return"Down0"
 end
 function GetWaitCode()
-	return "spwait0"
+		if currentHoldingBrickNum == 0 then
+			return "spwait0"
+		end
+		if currentHoldingBrickNum == 1 then
+			return "spwait1"
+		end
+		if currentHoldingBrickNum == 2 then
+			return "spwait2"
+		end
+		if currentHoldingBrickNum == 3 then
+			return "spwait3"
+		end
+		if currentHoldingBrickNum == 4 then
+			return "spwait4"
+		end
+		if currentHoldingBrickNum == 5 then
+			return "spwait5"
+		end
+		return""
 end
-
+function DoStun()
+	--播放倒地动作
+	if stunBuffNum < 0 then
+		dir = 1		
+	else
+		dir = -1
+	end
+	spine:SetSpine(GetStunCode(), dir)--从右边来车往左边倒，反过来也是
+	isStun = true
+	isMoving = false
+	stunTimer = 0
+end
+function StunFinish()
+	--清掉砖块和眩晕的标记buff
+	DiscardBrick()
+	character.conditionListSelf:RemoveNum(stunBuffIDLeft,1)
+	character.conditionListSelf:RemoveNum(stunBuffIDRight,1)
+	
+	if isMoving then
+		spine:SetSpine(GetMoveCode(),dir)
+	else
+		spine:SetSpine(GetWaitCode(),dir)
+	end
+	isStun = false
+end
 function UpdateFever(feverCount)
 	if playerFeverValue == feverCount then
 		return
@@ -193,7 +349,16 @@ function PauseGame(isPause)
 		CS.UnityEngine.Time.timeScale = 1
 	end
 end
-
+function DiscardBrick()
+	character.conditionListSelf:RemoveNum(brickBuffID,5)
+	lastFrameHoldingBrickNum = 0
+	currentHoldingBrickNum = 0
+	if isMoving then
+		spine:SetSpine(GetMoveCode(),dir)
+	else
+		spine:SetSpine(GetWaitCode(),dir)
+	end
+end
 function ExitGame()
 	CS.UnityEngine.Time.timeScale = 1
 	CS.BattleFrameManager.ResumeTime()
@@ -247,4 +412,7 @@ function UpdateRemainTime()
 	local sec2 = second - sec1 * 10
 	_imgTime3.sprite = spriteListTime.listSprite[sec1]
 	_imgTime4.sprite = spriteListTime.listSprite[sec2]
+end
+function UpdateScore()
+	txtScore.text = string.format("%05d",playerScore) 
 end

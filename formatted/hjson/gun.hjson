@@ -6596,7 +6596,7 @@
     eat_ratio: 125
     ratio_range: 100
     skill1: 109701
-    normal_attack: 300103
+    normal_attack: 750687
     passive_skill: "109702,756162,759056,750617,750618"
     effect_grid_center: 13
     effect_grid_pos: "12,18,19,14,17"
@@ -12438,7 +12438,7 @@
     rank_display: 2
     gun_detail_bg: nation_US
     org_id: 10704
-    show_damage_skin: ",0,"
+    show_damage_skin: ",0,7809,"
   }
   {
     id: 140
@@ -19947,7 +19947,7 @@
     eat_ratio: 100
     ratio_range: 100
     skill1: 110052
-    normal_attack: 300103
+    normal_attack: 750686
     passive_skill: "110053,750685"
     effect_grid_center: 13
     effect_guntype: "2"
@@ -21033,7 +21033,7 @@
     gun_detail_bg: nation_Russia
     org_id: 10802
     related_story_id: 100252
-    show_damage_skin: ",0,3405,5504,"
+    show_damage_skin: ",0,3405,5504,7807,"
   }
   {
     id: 253
@@ -24928,7 +24928,7 @@
     obtain_ids: "312"
     rank_display: 5
     org_id: 10802
-    show_damage_skin: ",5902,0,6703,"
+    show_damage_skin: ",5902,0,6703,7802,"
   }
   {
     id: 312
@@ -26468,7 +26468,7 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10802
-    show_damage_skin: ",6202,"
+    show_damage_skin: ",6202,7801,"
   }
   {
     id: 338
@@ -28023,7 +28023,7 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10301
-    show_damage_skin: ",0,"
+    show_damage_skin: ",0,7804,"
   }
   {
     id: 364
@@ -28084,7 +28084,7 @@
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10302
-    show_damage_skin: ",0,"
+    show_damage_skin: ",0,7806,"
   }
   {
     id: 365
@@ -29644,8 +29644,8 @@
     eat_ratio: 125
     ratio_range: 100
     skill1: 900721
-    normal_attack: 900720
-    passive_skill: "900722,900723"
+    normal_attack: 750688
+    passive_skill: "900722,900723,750689"
     dynamic_passive_skill: "900724"
     effect_grid_center: 13
     effect_guntype: "2,4"
@@ -41426,7 +41426,7 @@
     rank_display: 5
     prize_id: 3252
     gun_detail_bg: nation_Russia
-    show_damage_skin: ",0,3405,5504,5034,"
+    show_damage_skin: ",0,3405,5504,5034,7807,"
   }
   {
     id: 20293

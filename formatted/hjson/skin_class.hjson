@@ -409,4 +409,9 @@
     theme_type: 9
     name: 俠女風雲錄
   }
+  {
+    id: 83
+    theme_type: 8
+    name: skin_class-10000083
+  }
 ]
