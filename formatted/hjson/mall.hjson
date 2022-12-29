@@ -28541,6 +28541,67 @@
     classification_id: 3002
   }
   {
+    id: 11174
+    type: 8
+    item_ids: 506-100,605-1,516-200
+    gemprice: 158
+    quota: 2001
+    giftbag_name: mall-10011174
+    event_code: dailyGiftbag
+    icon: Bumdle_navy
+    daily_quota: 1
+    discount: 1.0
+    classification_id: 3002
+  }
+  {
+    id: 11175
+    type: 8
+    item_ids: 506-1000,605-20
+    mp: 2023
+    ammo: 2023
+    mre: 2023
+    part: 2023
+    gemprice: 2023
+    quota: 2001
+    giftbag_name: mall-10011175
+    event_code: dailyGiftbag
+    icon: Bumdle_2023
+    discount: 1.0
+    classification_id: 3002
+  }
+  {
+    id: 11176
+    type: 8
+    item_ids: 41-500,45-300
+    mp: 2023
+    ammo: 2023
+    mre: 2023
+    part: 2023
+    gemprice: 2023
+    quota: 2001
+    giftbag_name: mall-10011176
+    event_code: dailyGiftbag
+    icon: Bumdle_2023_2
+    discount: 1.0
+    classification_id: 3002
+  }
+  {
+    id: 11177
+    type: 8
+    item_ids: 7-4,44-300,13-1
+    mp: 2023
+    ammo: 2023
+    mre: 2023
+    part: 2023
+    gemprice: 2023
+    quota: 2001
+    giftbag_name: mall-10011177
+    event_code: dailyGiftbag
+    icon: Bumdle_2023_3
+    discount: 1.0
+    classification_id: 3002
+  }
+  {
     id: 99001
     type: 102
     gemprice: 980

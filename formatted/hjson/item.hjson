@@ -13064,6 +13064,36 @@
     detail_introduction: item-30002213
   }
   {
+    id: 2214
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season9_1
+    item_name: item-10002214
+    introduction: item-20002214
+    rank: 1
+    detail_introduction: item-30002214
+  }
+  {
+    id: 2215
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season9_2
+    item_name: item-10002215
+    introduction: item-20002215
+    rank: 1
+    detail_introduction: item-30002215
+  }
+  {
+    id: 2216
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season9_3
+    item_name: item-10002216
+    introduction: item-20002216
+    rank: 1
+    detail_introduction: item-30002216
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -16252,6 +16282,16 @@
     introduction: 環形公路棋盤背景-地獄公路
     rank: 1
     detail_introduction: item-30121001
+  }
+  {
+    id: 121002
+    type: 1
+    arg: "1"
+    code: FlightChessMap5_small
+    item_name: item-10121002
+    introduction: item-20121002
+    rank: 1
+    detail_introduction: item-30121002
   }
   {
     id: 130001

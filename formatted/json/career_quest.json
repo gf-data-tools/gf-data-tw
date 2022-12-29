@@ -1369,7 +1369,7 @@
         "prize_id": 11002,
         "title": "衣櫃：更換指揮官性別",
         "content": "首次更換指揮官性別設置",
-        "unlock_course": "130",
+        "unlock_course": "",
         "new_type": 1,
         "grade_id": 54,
         "sort": 393,

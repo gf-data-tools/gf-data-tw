@@ -29548,4 +29548,248 @@
     camera: 1
     is_hurt: 1
   }
+  {
+    id: 780101
+    type: 101
+    motion_name: motions/daiji_idle_01.mtn
+    probability: 1.0
+    name: live2d_motions-10780101
+  }
+  {
+    id: 780102
+    type: 102
+    motion_name: motions/wait_1.mtn
+    hold_time: "15,17"
+    probability: 0.5
+    name: live2d_motions-10780102
+    camera: 1
+  }
+  {
+    id: 780103
+    type: 102
+    motion_name: motions/wait_2.mtn
+    hold_time: "30,35"
+    probability: 0.5
+    name: live2d_motions-10780103
+    camera: 1
+  }
+  {
+    id: 780104
+    type: 200
+    motion_name: motions/touch_1.mtn
+    touch_area: head
+    probability: 1.0
+    voice: GUN|Delisle|DIALOGUE1
+    text: GUN|Delisle|DIALOGUE1
+    name: live2d_motions-10780104
+    camera: 1
+    voice_code: DIALOGUE1
+  }
+  {
+    id: 780105
+    type: 200
+    motion_name: motions/touch_2.mtn
+    touch_area: leg
+    probability: 1.0
+    voice: GUN|Delisle|SKILL3
+    text: GUN|Delisle|SKILL3
+    name: live2d_motions-10780105
+    camera: 1
+    voice_code: SKILL3
+  }
+  {
+    id: 780106
+    type: 200
+    motion_name: motions/touch_3.mtn
+    touch_area: body
+    probability: 1.0
+    voice: GUN|Delisle|MEET
+    text: GUN|Delisle|MEET
+    name: live2d_motions-10780106
+    camera: 1
+    voice_code: MEET
+  }
+  {
+    id: 780107
+    type: 200
+    motion_name: motions/touch_4.mtn
+    touch_area: body
+    probability: 1.0
+    voice: GUN|Delisle|HELLO
+    text: GUN|Delisle|HELLO
+    name: live2d_motions-10780107
+    camera: 1
+    voice_code: HELLO
+  }
+  {
+    id: 780108
+    type: 200
+    motion_name: motions/touch_5.mtn
+    touch_area: leg
+    probability: 1.0
+    voice: GUN|Delisle|GOATTACK
+    text: GUN|Delisle|GOATTACK
+    name: live2d_motions-10780108
+    camera: 1
+    voice_code: GOATTACK
+  }
+  {
+    id: 780109
+    type: 200
+    motion_name: motions/wedding_touch.mtn
+    touch_area: leg
+    probability: 1.0
+    voice: GUN|Delisle|DIALOGUEWEDDING
+    text: GUN|Delisle|DIALOGUEWEDDING
+    name: live2d_motions-10780109
+    camera: 1
+    voice_code: DIALOGUEWEDDING
+  }
+  {
+    id: 780110
+    type: 500
+    motion_name: motions/wedding.mtn
+    probability: 1.0
+    voice: GUN|Delisle|SOULCONTRACT
+    text: GUN|Delisle|SOULCONTRACT
+    name: live2d_motions-10780110
+    camera: 1
+    voice_code: SOULCONTRACT
+  }
+  {
+    id: 780111
+    type: 300
+    motion_name: motions/shake.mtn
+    probability: 1.0
+    name: live2d_motions-10780111
+    camera: 1
+  }
+  {
+    id: 780112
+    type: 1000
+    motion_name: motions/login.mtn
+    probability: 1.0
+    voice: GUN|Delisle|CHRISTMAS
+    text: GUN|Delisle|CHRISTMAS
+    name: live2d_motions-10780112
+    camera: 1
+    delay: 1000
+    voice_code: CHRISTMAS
+  }
+  {
+    id: 780113
+    type: 401
+    motion_name: motions/daiji_idle_01.mtn
+    probability: 1.0
+    name: live2d_motions-10780113
+    is_hurt: 1
+  }
+  {
+    id: 780114
+    type: 402
+    motion_name: motions/broken_1.mtn
+    touch_area: head
+    probability: 1.0
+    voice: GUN|Delisle|DIALOGUE2
+    text: GUN|Delisle|DIALOGUE2
+    name: live2d_motions-10780114
+    camera: 1
+    is_hurt: 1
+    voice_code: DIALOGUE2
+  }
+  {
+    id: 780115
+    type: 402
+    motion_name: motions/broken_2.mtn
+    touch_area: head
+    probability: 1.0
+    voice: GUN|Delisle|DIALOGUE3
+    text: GUN|Delisle|DIALOGUE3
+    name: live2d_motions-10780115
+    camera: 1
+    is_hurt: 1
+    voice_code: DIALOGUE3
+  }
+  {
+    id: 780116
+    type: 402
+    motion_name: motions/broken_3.mtn
+    touch_area: body
+    probability: 1.0
+    voice: GUN|Delisle|WIN
+    text: GUN|Delisle|WIN
+    name: live2d_motions-10780116
+    camera: 1
+    is_hurt: 1
+    voice_code: WIN
+  }
+  {
+    id: 780117
+    type: 402
+    motion_name: motions/broken_4.mtn
+    touch_area: body
+    probability: 1.0
+    voice: GUN|Delisle|RETREAT
+    text: GUN|Delisle|RETREAT
+    name: live2d_motions-10780117
+    camera: 1
+    is_hurt: 1
+    voice_code: RETREAT
+  }
+  {
+    id: 780118
+    type: 402
+    motion_name: motions/broken_5.mtn
+    touch_area: leg
+    probability: 1.0
+    voice: GUN|Delisle|FEED
+    text: GUN|Delisle|FEED
+    name: live2d_motions-10780118
+    camera: 1
+    is_hurt: 1
+    voice_code: FEED
+  }
+  {
+    id: 780119
+    type: 402
+    motion_name: motions/flip.mtn
+    touch_area: flip
+    probability: 1.0
+    name: live2d_motions-10780119
+    camera: 1
+    is_hurt: 1
+  }
+  {
+    id: 780120
+    type: 402
+    motion_name: motions/reset.mtn
+    touch_area: reset
+    probability: 1.0
+    name: live2d_motions-10780120
+    camera: 1
+    is_hurt: 1
+  }
+  {
+    id: 780121
+    type: 1001
+    motion_name: motions/login.mtn
+    probability: 1.0
+    voice: GUN|Delisle|BREAK
+    text: GUN|Delisle|BREAK
+    name: live2d_motions-10780121
+    camera: 1
+    is_hurt: 1
+    delay: 3180
+    voice_code: BREAK
+  }
+  {
+    id: 780122
+    type: 301
+    motion_name: motions/shake.mtn
+    probability: 1.0
+    voice: GUN|Delisle|MOOD2
+    name: live2d_motions-10780122
+    camera: 1
+    is_hurt: 1
+  }
 ]
