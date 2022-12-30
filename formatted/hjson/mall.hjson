@@ -28546,7 +28546,7 @@
     item_ids: 506-100,605-1,516-200
     gemprice: 158
     quota: 2001
-    giftbag_name: mall-10011174
+    giftbag_name: 每日特惠禮包
     event_code: dailyGiftbag
     icon: Bumdle_navy
     daily_quota: 1
@@ -28563,7 +28563,7 @@
     part: 2023
     gemprice: 2023
     quota: 2001
-    giftbag_name: mall-10011175
+    giftbag_name: 元旦特惠
     event_code: dailyGiftbag
     icon: Bumdle_2023
     discount: 1.0
@@ -28579,7 +28579,7 @@
     part: 2023
     gemprice: 2023
     quota: 2001
-    giftbag_name: mall-10011176
+    giftbag_name: 元旦限定
     event_code: dailyGiftbag
     icon: Bumdle_2023_2
     discount: 1.0
@@ -28595,7 +28595,7 @@
     part: 2023
     gemprice: 2023
     quota: 2001
-    giftbag_name: mall-10011177
+    giftbag_name: 元旦尊享
     event_code: dailyGiftbag
     icon: Bumdle_2023_3
     discount: 1.0

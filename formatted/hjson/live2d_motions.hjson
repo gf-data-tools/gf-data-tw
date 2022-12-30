@@ -29553,7 +29553,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1.0
-    name: live2d_motions-10780101
+    name: 待機
   }
   {
     id: 780102
@@ -29561,7 +29561,7 @@
     motion_name: motions/wait_1.mtn
     hold_time: "15,17"
     probability: 0.5
-    name: live2d_motions-10780102
+    name: 特殊待機1
     camera: 1
   }
   {
@@ -29570,7 +29570,7 @@
     motion_name: motions/wait_2.mtn
     hold_time: "30,35"
     probability: 0.5
-    name: live2d_motions-10780103
+    name: 特殊待機2
     camera: 1
   }
   {
@@ -29581,7 +29581,7 @@
     probability: 1.0
     voice: GUN|Delisle|DIALOGUE1
     text: GUN|Delisle|DIALOGUE1
-    name: live2d_motions-10780104
+    name: 交互1
     camera: 1
     voice_code: DIALOGUE1
   }
@@ -29593,7 +29593,7 @@
     probability: 1.0
     voice: GUN|Delisle|SKILL3
     text: GUN|Delisle|SKILL3
-    name: live2d_motions-10780105
+    name: 交互2
     camera: 1
     voice_code: SKILL3
   }
@@ -29605,7 +29605,7 @@
     probability: 1.0
     voice: GUN|Delisle|MEET
     text: GUN|Delisle|MEET
-    name: live2d_motions-10780106
+    name: 交互3
     camera: 1
     voice_code: MEET
   }
@@ -29617,7 +29617,7 @@
     probability: 1.0
     voice: GUN|Delisle|HELLO
     text: GUN|Delisle|HELLO
-    name: live2d_motions-10780107
+    name: 交互4
     camera: 1
     voice_code: HELLO
   }
@@ -29629,7 +29629,7 @@
     probability: 1.0
     voice: GUN|Delisle|GOATTACK
     text: GUN|Delisle|GOATTACK
-    name: live2d_motions-10780108
+    name: 交互5
     camera: 1
     voice_code: GOATTACK
   }
@@ -29641,7 +29641,7 @@
     probability: 1.0
     voice: GUN|Delisle|DIALOGUEWEDDING
     text: GUN|Delisle|DIALOGUEWEDDING
-    name: live2d_motions-10780109
+    name: 結契後交互
     camera: 1
     voice_code: DIALOGUEWEDDING
   }
@@ -29652,7 +29652,7 @@
     probability: 1.0
     voice: GUN|Delisle|SOULCONTRACT
     text: GUN|Delisle|SOULCONTRACT
-    name: live2d_motions-10780110
+    name: 結契動作
     camera: 1
     voice_code: SOULCONTRACT
   }
@@ -29661,7 +29661,7 @@
     type: 300
     motion_name: motions/shake.mtn
     probability: 1.0
-    name: live2d_motions-10780111
+    name: 晃動響應
     camera: 1
   }
   {
@@ -29671,7 +29671,7 @@
     probability: 1.0
     voice: GUN|Delisle|CHRISTMAS
     text: GUN|Delisle|CHRISTMAS
-    name: live2d_motions-10780112
+    name: 上線響應
     camera: 1
     delay: 1000
     voice_code: CHRISTMAS
@@ -29681,7 +29681,7 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1.0
-    name: live2d_motions-10780113
+    name: 待機
     is_hurt: 1
   }
   {
@@ -29692,7 +29692,7 @@
     probability: 1.0
     voice: GUN|Delisle|DIALOGUE2
     text: GUN|Delisle|DIALOGUE2
-    name: live2d_motions-10780114
+    name: 交互1
     camera: 1
     is_hurt: 1
     voice_code: DIALOGUE2
@@ -29705,7 +29705,7 @@
     probability: 1.0
     voice: GUN|Delisle|DIALOGUE3
     text: GUN|Delisle|DIALOGUE3
-    name: live2d_motions-10780115
+    name: 交互2
     camera: 1
     is_hurt: 1
     voice_code: DIALOGUE3
@@ -29718,7 +29718,7 @@
     probability: 1.0
     voice: GUN|Delisle|WIN
     text: GUN|Delisle|WIN
-    name: live2d_motions-10780116
+    name: 交互3
     camera: 1
     is_hurt: 1
     voice_code: WIN
@@ -29731,7 +29731,7 @@
     probability: 1.0
     voice: GUN|Delisle|RETREAT
     text: GUN|Delisle|RETREAT
-    name: live2d_motions-10780117
+    name: 交互4
     camera: 1
     is_hurt: 1
     voice_code: RETREAT
@@ -29744,7 +29744,7 @@
     probability: 1.0
     voice: GUN|Delisle|FEED
     text: GUN|Delisle|FEED
-    name: live2d_motions-10780118
+    name: 交互5
     camera: 1
     is_hurt: 1
     voice_code: FEED
@@ -29755,7 +29755,7 @@
     motion_name: motions/flip.mtn
     touch_area: flip
     probability: 1.0
-    name: live2d_motions-10780119
+    name: 翻轉
     camera: 1
     is_hurt: 1
   }
@@ -29765,7 +29765,7 @@
     motion_name: motions/reset.mtn
     touch_area: reset
     probability: 1.0
-    name: live2d_motions-10780120
+    name: 重置
     camera: 1
     is_hurt: 1
   }
@@ -29776,7 +29776,7 @@
     probability: 1.0
     voice: GUN|Delisle|BREAK
     text: GUN|Delisle|BREAK
-    name: live2d_motions-10780121
+    name: 上線響應
     camera: 1
     is_hurt: 1
     delay: 3180
@@ -29788,7 +29788,7 @@
     motion_name: motions/shake.mtn
     probability: 1.0
     voice: GUN|Delisle|MOOD2
-    name: live2d_motions-10780122
+    name: 晃動響應
     camera: 1
     is_hurt: 1
   }
