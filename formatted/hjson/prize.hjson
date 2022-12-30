@@ -22517,7 +22517,7 @@
     id: 10757
     name: prize-10010757
     user_exp: 30
-    item_ids: 106-5,2214-1,200006-1
+    item_ids: 106-5,2214-1,200008-1
     content: prize-20010757
     icon: Medal_Chess
   }
@@ -22565,7 +22565,7 @@
     id: 10763
     name: prize-10010763
     user_exp: 2000
-    item_ids: 106-60,2216-1,200008-1
+    item_ids: 106-60,2216-1,200006-1
     content: prize-20010763
     icon: Medal_Chess
   }

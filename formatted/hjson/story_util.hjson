@@ -5391,7 +5391,7 @@
     id: 457
     mission_id: "10388"
     description: 滿載而歸的指揮官終於回到基地，卻沒有想到迎接自己的是……
-    scripts: -35-4-1First,-34-4-2End
+    scripts: -35-4-1First,-35-4-2End
     campaign: -35
     bgm: BGM_Frontline
     title: 禮物頌
