@@ -9121,570 +9121,570 @@
   {
     id: 829
     mission_id: "10799"
-    description: 「你追求的是和平，戰鬥是為了更好的和平。」
+    description: 序章
     campaign: -48
     bgm: BGM_Frontline
-    title: ①
+    title: story_util-20000829
     start: -48-1-0
   }
   {
     id: 830
     mission_id: "10834"
-    description: 「我今天就是要進去，誰也別想擋我的路。」
+    description: 4-3EX
     campaign: -48
     bgm: BGM_Frontline
-    title: ②
+    title: story_util-20000830
     point: 74104:-48-EXT-4-3-2
   }
   {
     id: 831
     mission_id: "10818,10837"
-    description: 「那是萊特最擅長使用的霰彈槍，他曾在這裡戰鬥過。」
+    description: 5-2
     campaign: -48
     bgm: BGM_Frontline
-    title: ③
+    title: story_util-20000831
     point: 74365:-48-EXT-5-2-2,74431:-48-EXT-5-2-2
   }
   {
     id: 832
     mission_id: "10820,10839"
-    description: 「藥瓶上積了一層灰塵……這是迦拉提亞集團的東西。」
+    description: 5-4
     campaign: -48
     bgm: BGM_Frontline
-    title: ④
+    title: story_util-20000832
     round: 4:-48-5-7-point
   }
   {
     id: 833
     mission_id: "10819,10838"
-    description: 「父親大人，請相信我。」
+    description: 5-3
     campaign: -48
     bgm: BGM_Frontline
-    title: ⑤
+    title: story_util-20000833
     start: -48-5-9-point
   }
   {
     id: 834
     mission_id: "10821,10840"
-    description: 「如果只是「機會」，就根本沒有意義。他不喜歡別人讓他失望。」
+    description: 6-1
     campaign: -48
     bgm: BGM_Frontline
-    title: ⑦
+    title: story_util-20000834
     point: 74687:-48-EXT-6-1,74782:-48-EXT-6-1
   }
   {
     id: 835
     mission_id: "10824,10842"
-    description: 「只有留在斯塔西你才能接著查案子。」
+    description: 6-4
     campaign: -48
     bgm: BGM_Frontline
-    title: ⑧
+    title: story_util-20000835
     start: -48-6-10-point
   }
   {
     id: 836
     mission_id: "10851"
-    description: 「我們都做好了覺悟，一定會和所有的不公正戰鬥到底。」
+    description: story_util-10000836
     campaign: -48
     bgm: BGM_Frontline
-    title: ⑩
+    title: story_util-20000836
     start: -48-1-1
   }
   {
     id: 837
     mission_id: "10852"
-    description: 「我是迦拉提亞的研究員，我有藥。」
+    description: story_util-10000837
     campaign: -48
     bgm: BGM_Frontline
-    title: ⑪
+    title: story_util-20000837
     start: -48-1-3
   }
   {
     id: 838
     mission_id: "10853"
-    description: 「未來是個過於飄渺的詞彙，眼下的德國，只能專注於現在。」
+    description: story_util-10000838
     campaign: -48
     bgm: BGM_Frontline
-    title: ⑫
+    title: story_util-20000838
     start: -48-1-4
   }
   {
     id: 839
     mission_id: "10854"
-    description: 「我是斯塔西特工，K的同僚——你可以叫我，J。」
+    description: story_util-10000839
     campaign: -48
     bgm: BGM_Frontline
-    title: ⑭
+    title: story_util-20000839
     start: -48-1-6
   }
   {
     id: 840
     mission_id: "10855"
-    description: 「這樣的國家，已經不再是我們奉獻了一切的祖國了。」
+    description: story_util-10000840
     campaign: -48
     bgm: BGM_Frontline
-    title: ⑮
+    title: story_util-20000840
     start: -48-1-7
   }
   {
     id: 841
     mission_id: "10856"
-    description: 「這次任務代號為「尼歐」，目標是找回一輛失蹤的貨車。」
+    description: story_util-10000841
     campaign: -48
     bgm: BGM_Frontline
-    title: Ⅰ
+    title: story_util-20000841
     start: -48-1-9
   }
   {
     id: 842
     mission_id: "10857"
-    description: 「別擔心……不會太久的，距離我們真正的重逢。」
+    description: story_util-10000842
     campaign: -48
     bgm: BGM_Frontline
-    title: Ⅱ
+    title: story_util-20000842
     start: -48-1-10
   }
   {
     id: 843
     mission_id: "10858"
-    description: 「你明明什麼都做得到，為什麼要違抗父親大人？」
+    description: story_util-10000843
     campaign: -48
     bgm: BGM_Frontline
-    title: Ⅳ
+    title: story_util-20000843
     start: -48-1-12
   }
   {
     id: 844
     mission_id: "10859"
-    description: 「分針「滴答滴答」地挪動，與焦慮一同敲在J的心頭。」
+    description: story_util-10000844
     campaign: -48
     bgm: BGM_Frontline
-    title: Ⅴ
+    title: story_util-20000844
     start: -48-1-13
   }
   {
     id: 845
     mission_id: "10860"
-    description: 「我們到現在都不完全了解對手的真實身份。」
+    description: story_util-10000845
     campaign: -48
     bgm: BGM_Frontline
-    title: Ⅵ
+    title: story_util-20000845
     start: -48-1-14
   }
   {
     id: 846
     mission_id: "10861"
-    description: 「還是第一次有人把我當獵物……來啊，讓我見識一下你們的本事！」
+    description: story_util-10000846
     campaign: -48
     bgm: BGM_Frontline
-    title: Ⅷ
+    title: story_util-20000846
     start: -48-2-1
   }
   {
     id: 847
     mission_id: "10862"
-    description: 「被矇蔽的輿論，和被矇蔽的真相。」
+    description: story_util-10000847
     campaign: -48
     bgm: BGM_Frontline
-    title: Ⅸ
+    title: story_util-20000847
     start: -48-2-2
   }
   {
     id: 848
     mission_id: "10863"
-    description: 「線人不是那麼好做的，奈樂小姐。」
+    description: story_util-10000848
     campaign: -48
     bgm: BGM_Frontline
-    title: Ⅺ
+    title: story_util-20000848
     start: -48-2-4
   }
   {
     id: 849
     mission_id: "10864"
-    description: 「名為布拉梅德的涅托，終於浮上了水面。」
+    description: story_util-10000849
     campaign: -48
     bgm: BGM_Frontline
-    title: XII
+    title: story_util-20000849
     start: -48-2-5
   }
   {
     id: 850
     mission_id: "10865"
-    description: 「失敗了，就沒有存在的必要。這是您教給我的。」
+    description: story_util-10000850
     campaign: -48
     bgm: BGM_Frontline
-    title: XIV
+    title: story_util-20000850
     start: -48-2-6
   }
   {
     id: 851
     mission_id: "10866"
-    description: 「指揮官，你的血是熱的。」
+    description: story_util-10000851
     campaign: -48
     bgm: BGM_Frontline
-    title: XV
+    title: story_util-20000851
     start: -48-2-8
   }
   {
     id: 852
     mission_id: "10867"
-    description: 「半分鐘前的溫情，是一場你來我往的演出。」
+    description: story_util-10000852
     campaign: -48
     bgm: BGM_Frontline
-    title: IA
+    title: story_util-20000852
     start: -48-2-9
   }
   {
     id: 853
     mission_id: "10868"
-    description: 「妮莫金救了我一命，我就報答你們一次。」
+    description: story_util-10000853
     campaign: -48
     bgm: BGM_Frontline
-    title: ⅡA
+    title: story_util-20000853
     start: -48-2-11
   }
   {
     id: 854
     mission_id: "10869"
-    description: 「這批貨的訂貨人名字——烏姆魯斯。」
+    description: story_util-10000854
     campaign: -48
     bgm: BGM_Frontline
-    title: ⅣB
+    title: story_util-20000854
     start: -48-2-12
   }
   {
     id: 855
     mission_id: "10870"
-    description: 「格雷小學是隻收一年級學生嗎？」
+    description: story_util-10000855
     campaign: -48
     bgm: BGM_Frontline
-    title: ⅤB
+    title: story_util-20000855
     start: -48-2-14
   }
   {
     id: 856
     mission_id: "10871"
-    description: 「這不是一時衝動，而是我們離失竊案最近的一次。」
+    description: story_util-10000856
     campaign: -48
     bgm: BGM_Frontline
-    title: ⅥB
+    title: story_util-20000856
     start: -48-2-15
   }
   {
     id: 857
     mission_id: "10872"
-    description: 「我不會做任何有損這個民族未來的事，我所做的一切都是為了國家。」
+    description: story_util-10000857
     campaign: -48
     bgm: BGM_Frontline
-    title: ⅠB
+    title: story_util-20000857
     start: -48-3-1
   }
   {
     id: 858
     mission_id: "10873"
-    description: 「關鍵時刻已經來臨，所有角色全部就位。」
+    description: story_util-10000858
     campaign: -48
     bgm: BGM_Frontline
-    title: ⅡB
+    title: story_util-20000858
     start: -48-3-2
   }
   {
     id: 859
     mission_id: "10874"
-    description: 「如果這批武器丟失，誰都別想好過！」
+    description: story_util-10000859
     campaign: -48
     bgm: BGM_Frontline
-    title: ⅢA
+    title: story_util-20000859
     start: -48-3-4
   }
   {
     id: 860
     mission_id: "10875"
-    description: 「我想起來了……你是AR小隊的最後一個人形……」
+    description: story_util-10000860
     campaign: -48
     bgm: BGM_Frontline
-    title: ⅤA
+    title: story_util-20000860
     start: -48-3-5
   }
   {
     id: 861
     mission_id: "10876"
-    description: 「這次見面，久到仿佛進行了一次穿越。」
+    description: story_util-10000861
     campaign: -48
     bgm: BGM_Frontline
-    title: ⅦA
+    title: story_util-20000861
     start: -48-3-6
   }
   {
     id: 862
     mission_id: "10877"
-    description: 「她的確是M4，但同時又不是。」
+    description: story_util-10000862
     campaign: -48
     bgm: BGM_Frontline
-    title: alpha
+    title: story_util-20000862
     start: -48-3-8
   }
   {
     id: 863
     mission_id: "10878"
-    description: 「老師，您的胸腔裡曾跳躍著一顆慈悲之心。」
+    description: story_util-10000863
     campaign: -48
     bgm: BGM_Frontline
-    title: beta
+    title: story_util-20000863
     start: -48-3-9
   }
   {
     id: 864
     mission_id: "10879"
-    description: 「如果你一定要去，那我們一起。」
+    description: story_util-10000864
     campaign: -48
     bgm: BGM_Frontline
-    title: gamma
+    title: story_util-20000864
     start: -48-3-10
   }
   {
     id: 865
     mission_id: "10880"
-    description: 「那邊有個帕拉蒂斯在拖地……」
+    description: story_util-10000865
     campaign: -48
     bgm: BGM_Frontline
-    title: delta
+    title: story_util-20000865
     start: -48-3-12
   }
   {
     id: 866
     mission_id: "10881"
-    description: 「安潔就在這個工廠裡，如果相信她的話……」
+    description: story_util-10000866
     campaign: -48
     bgm: BGM_Frontline
-    title: epsilon
+    title: story_util-20000866
     start: -48-3-14
   }
   {
     id: 867
     mission_id: "10882"
-    description: 「……活下去，J，活到給他們報仇的那一刻。」
+    description: story_util-10000867
     campaign: -48
     bgm: BGM_Frontline
-    title: eta
+    title: story_util-20000867
     start: -48-4-1
   }
   {
     id: 868
     mission_id: "10883"
-    description: 「這樣的工廠……我們有兩處。」
+    description: story_util-10000868
     campaign: -48
     bgm: BGM_Frontline
-    title: theta
+    title: story_util-20000868
     start: -48-4-2
   }
   {
     id: 869
     mission_id: "10884"
-    description: 「她一開始就打定主意要把我們送進陷阱裡。」
+    description: story_util-10000869
     campaign: -48
     bgm: BGM_Frontline
-    title: iota
+    title: story_util-20000869
     start: -48-4-3
   }
   {
     id: 870
     mission_id: "10885"
-    description: 「他永遠讓別人付出代價……為他的肆意妄為付出代價……」
+    description: story_util-10000870
     campaign: -48
     bgm: BGM_Frontline
-    title: lambda
+    title: story_util-20000870
     start: -48-4-5
   }
   {
     id: 871
     mission_id: "10886"
-    description: 「也許我們是時候換一個朋友了。」
+    description: story_util-10000871
     campaign: -48
     bgm: BGM_Frontline
-    title: mu
+    title: story_util-20000871
     start: -48-4-7
   }
   {
     id: 872
     mission_id: "10887"
-    description: 「今天，對德國而言，是個重要而偉大的日子。」
+    description: story_util-10000872
     campaign: -48
     bgm: BGM_Frontline
-    title: nu
+    title: story_util-20000872
     start: -48-4-9
   }
   {
     id: 873
     mission_id: "10888"
-    description: 「日曆上勾畫了一個大大的紅圈，今天是個值得慶祝的日子。」
+    description: story_util-10000873
     campaign: -48
     bgm: BGM_Frontline
-    title: "1"
+    title: story_util-20000873
     start: -48-4-11
   }
   {
     id: 874
     mission_id: "10889"
-    description: 「不要溫和地走進那個良夜。」
+    description: story_util-10000874
     campaign: -48
     bgm: BGM_Frontline
-    title: "11"
+    title: story_util-20000874
     start: -48-4-12
   }
   {
     id: 875
     mission_id: "10890"
-    description: 「我們還沒有輸，還有更多的同志需要我們。」
+    description: story_util-10000875
     campaign: -48
     bgm: BGM_Frontline
-    title: "100"
+    title: story_util-20000875
     start: -48-4-13
   }
   {
     id: 876
     mission_id: "10891"
-    description: 「你看見的並不全是真實的，不要太依賴於你的眼睛，指揮官。」
+    description: story_util-10000876
     campaign: -48
     bgm: BGM_Frontline
-    title: "101"
+    title: story_util-20000876
     start: -48-5-1
   }
   {
     id: 877
     mission_id: "10892"
-    description: 「現在輪到你了，讓我看看安潔。」
+    description: story_util-10000877
     campaign: -48
     bgm: BGM_Frontline
-    title: "110"
+    title: story_util-20000877
     start: -48-5-3
   }
   {
     id: 878
     mission_id: "10893"
-    description: 「時機剛剛好。」
+    description: story_util-10000878
     campaign: -48
     bgm: BGM_Frontline
-    title: "111"
+    title: story_util-20000878
     start: -48-5-5
   }
   {
     id: 879
     mission_id: "10894"
-    description: 「我們勝利的唯一希望就是將心智伺服器完好地送出去。」
+    description: story_util-10000879
     campaign: -48
     bgm: BGM_Frontline
-    title: "1000"
+    title: story_util-20000879
     start: -48-5-6
   }
   {
     id: 880
     mission_id: "10895"
-    description: 「只有死者才能看到戰爭的終結。」
+    description: story_util-10000880
     campaign: -48
     bgm: BGM_Frontline
-    title: "1001"
+    title: story_util-20000880
     start: -48-5-8
   }
   {
     id: 881
     mission_id: "10896"
-    description: 「格裡芬基地的未來又一次落到了我們的手裡。」
+    description: story_util-10000881
     campaign: -48
     bgm: BGM_Frontline
-    title: "1010"
+    title: story_util-20000881
     start: -48-5-10
   }
   {
     id: 882
     mission_id: "10897"
-    description: 「工廠不再是工廠，而是一個小型博物館。有關愛，死亡和人形。」
+    description: story_util-10000882
     campaign: -48
     bgm: BGM_Frontline
-    title: pico
+    title: story_util-20000882
     start: -48-6-1
   }
   {
     id: 883
     mission_id: "10898"
-    description: 「就憑我們幾個，一定會把他們攔截在這裡。」
+    description: story_util-10000883
     campaign: -48
     bgm: BGM_Frontline
-    title: nano
+    title: story_util-20000883
     start: -48-6-2
   }
   {
     id: 884
     mission_id: "10899"
-    description: 「站起來，我們可都在後面看著你的。」
+    description: story_util-10000884
     campaign: -48
     bgm: BGM_Frontline
-    title: milli
+    title: story_util-20000884
     start: -48-6-4
   }
   {
     id: 885
     mission_id: "10900"
-    description: 「約好了，我們柏林見。」
+    description: story_util-10000885
     campaign: -48
     bgm: BGM_Frontline
-    title: deci
+    title: story_util-20000885
     start: -48-6-6
   }
   {
     id: 886
     mission_id: "10901"
-    description: 「我請來了一位特別顧問。」
+    description: story_util-10000886
     campaign: -48
     bgm: BGM_Frontline
-    title: deca
+    title: story_util-20000886
     start: -48-6-7
   }
   {
     id: 887
     mission_id: "10902"
-    description: 「在蘇聯，只有一個地方的人，會和刺青有密不可分的聯繫。」
+    description: story_util-10000887
     campaign: -48
     bgm: BGM_Frontline
-    title: hecta
+    title: story_util-20000887
     start: -48-6-9
   }
   {
     id: 888
     mission_id: "10903"
-    description: 「——我把你的死亡，送到了。」
+    description: story_util-10000888
     campaign: -48
     bgm: BGM_Frontline
-    title: kilo
+    title: story_util-20000888
     start: -48-6-11
   }
   {
     id: 889
     mission_id: "10904"
-    description: 「這次輪到我了，親愛的。——by布拉梅德」
+    description: story_util-10000889
     campaign: -48
     bgm: BGM_Frontline
-    title: Mega
+    title: story_util-20000889
     start: -48-6-12
   }
   {
     id: 890
     mission_id: "10801"
-    description: 「老天，你聽起來真像個斯塔西。」
+    description: story_util-10000890
     scripts: -48-1-2-First,-48-1-2-point1,-48-1-2-point2,-48-1-2-point3,-48-1-2-point4
     campaign: -48
     bgm: BGM_Frontline
-    title: Giga
+    title: story_util-20000890
     start: -48-1-2-First
     point: 64307:-48-1-2-point3,64302:-48-1-2-point4
   }
   {
     id: 891
     mission_id: "10802"
-    description: 「亡者早日解脫死亡的枷鎖，進入平安與光明的天鄉，得享永生的幸福。」
+    description: story_util-10000891
     campaign: -48
     bgm: BGM_Frontline
-    title: Tera
+    title: story_util-20000891
   }
   {
     id: 892

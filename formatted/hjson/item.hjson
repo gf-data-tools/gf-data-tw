@@ -13068,8 +13068,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season9_1
-    item_name: 圖靈火種 · 代號柒：急流
-    introduction: 圖靈火種 · 代號柒：急流
+    item_name: item-10002214
+    introduction: item-20002214
     rank: 1
     detail_introduction: item-30002214
   }
@@ -13078,8 +13078,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season9_2
-    item_name: 推導矩陣 · 代號柒：急流
-    introduction: 推導矩陣 · 代號柒：急流
+    item_name: item-10002215
+    introduction: item-20002215
     rank: 1
     detail_introduction: item-30002215
   }
@@ -13088,8 +13088,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season9_3
-    item_name: 異想核心 · 代號柒：急流
-    introduction: 異想核心 · 代號柒：急流
+    item_name: item-10002216
+    introduction: item-20002216
     rank: 1
     detail_introduction: item-30002216
   }
@@ -16288,8 +16288,8 @@
     type: 1
     arg: "1"
     code: FlightChessMap5_small
-    item_name: 異想虛景
-    introduction: 堅壁築壘棋盤背景-異想虛景
+    item_name: item-10121002
+    introduction: item-20121002
     rank: 1
     detail_introduction: item-30121002
   }

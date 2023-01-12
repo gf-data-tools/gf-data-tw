@@ -21,25 +21,9 @@ local StartPlan = function(self)
 	self:StartPlan();
 end
 
-local _CancelPlan = function(self)
-	if CS.GameData.missionAction ~= nil then
-		if CS.GameData.missionAction.currentTurnBelong ~= CS.MissionAction.TurnBelong.SelfTurn then
-			self:Clear();
-			self:UpdateRecordMask();
-			self:UpdatePlanMark();
-			self.status = CS.DeploymentPlanModeController.PlanStatus.normal;
-			CS.DeploymentUIController.Instance:ShowHideButton(true);
-			CS.DeploymentController.TriggerSwitchAbovePanelEvent(true);
-		else
-			self:_CancelPlan();
-		end
-	end
-end
-
---util.hotfix_ex(CS.DeploymentPlanModeController,'CheckData',CheckData)
---util.hotfix_ex(CS.DeploymentPlanModeController,'OnClickFastSelect',OnClickFastSelect)
---util.hotfix_ex(CS.DeploymentPlanModeController,'StartPlan',StartPlan)
-util.hotfix_ex(CS.DeploymentPlanModeController,'_CancelPlan',_CancelPlan)
+util.hotfix_ex(CS.DeploymentPlanModeController,'CheckData',CheckData)
+util.hotfix_ex(CS.DeploymentPlanModeController,'OnClickFastSelect',OnClickFastSelect)
+util.hotfix_ex(CS.DeploymentPlanModeController,'StartPlan',StartPlan)
 
 
 

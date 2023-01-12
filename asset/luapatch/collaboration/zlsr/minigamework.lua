@@ -385,15 +385,10 @@ function ShowResult()
 	end
 end
 function EndGame()
-	local ScoreRank = scoreRanking[4]
-	if playerScore >= ScoreRank then
-		
-		for i=CS.GF.Battle.BattleController.Instance.enemyTeamHolder.listCharacter.Count-1,0,-1 do
-			local DamageInfo = CS.GF.Battle.BattleDamageInfo()
-			CS.GF.Battle.BattleController.Instance.enemyTeamHolder.listCharacter[i]:UpdateLife(DamageInfo, -999999)
-		end
-	else
-		CS.GF.Battle.BattleController.Instance:RequestBattleFinish(true)
+	
+	for i=CS.GF.Battle.BattleController.Instance.enemyTeamHolder.listCharacter.Count-1,0,-1 do
+		local DamageInfo = CS.GF.Battle.BattleDamageInfo()
+		CS.GF.Battle.BattleController.Instance.enemyTeamHolder.listCharacter[i]:UpdateLife(DamageInfo, -999999)
 	end
 	CS.BattleFrameManager.ResumeTime()
 	CS.UnityEngine.Object.Destroy(GoResult)
