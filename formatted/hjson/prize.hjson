@@ -12792,7 +12792,7 @@
   }
   {
     id: 1706
-    name: prize-10001706
+    name: 鑽石盛典禮包
     gem_pay: 6100
     item_ids: 41-100
     content: prize-20001706
@@ -22515,58 +22515,58 @@
   }
   {
     id: 10757
-    name: prize-10010757
+    name: 少校榮譽
     user_exp: 30
     item_ids: 106-5,2214-1,200008-1
-    content: prize-20010757
+    content: 恭喜你在「代號柒：急流」賽季中，獲得少校榮譽，獎勵：拉弗伯雷勳章*5，指揮官經驗*30，頭像「圖靈火種」
     icon: Medal_Chess
   }
   {
     id: 10758
-    name: prize-10010758
+    name: 中校榮譽
     user_exp: 60
     item_ids: 106-10
-    content: prize-20010758
+    content: 恭喜你在「代號柒：急流」賽季中，獲得中校榮譽，獎勵：拉弗伯雷勳章*10，指揮官經驗*60
     icon: Medal_Chess
   }
   {
     id: 10759
-    name: prize-10010759
+    name: 上校榮譽
     user_exp: 100
     item_ids: 106-20
-    content: prize-20010759
+    content: 恭喜你在「代號柒：急流」賽季中，獲得上校榮譽，獎勵：拉弗伯雷勳章*20，指揮官經驗*100
     icon: Medal_Chess
   }
   {
     id: 10760
-    name: prize-10010760
+    name: 少將榮譽
     user_exp: 200
     item_ids: 106-30,2215-1,200007-1
-    content: prize-20010760
+    content: 恭喜你在「代號柒：急流」賽季中，獲得少將榮譽，獎勵：拉弗伯雷勳章*30，指揮官經驗*200，頭像"推導矩陣"
     icon: Medal_Chess
   }
   {
     id: 10761
-    name: prize-10010761
+    name: 中將榮譽
     user_exp: 500
     item_ids: 106-40
-    content: prize-20010761
+    content: 恭喜你在「代號柒：急流」賽季中，獲得中將榮譽，獎勵：拉弗伯雷勳章*40，指揮官經驗*500
     icon: Medal_Chess
   }
   {
     id: 10762
-    name: prize-10010762
+    name: 上將榮譽
     user_exp: 1000
     item_ids: 106-50
-    content: prize-20010762
+    content: 恭喜你在「代號柒：急流」賽季中，獲得上將榮譽，獎勵：拉弗伯雷勳章*50，指揮官經驗*1000
     icon: Medal_Chess
   }
   {
     id: 10763
-    name: prize-10010763
+    name: 元帥榮譽
     user_exp: 2000
     item_ids: 106-60,2216-1,200006-1
-    content: prize-20010763
+    content: 恭喜你在「代號柒：急流」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勳章*60，指揮官經驗*2000，頭像「異想核心」
     icon: Medal_Chess
   }
   {
@@ -42685,19 +42685,19 @@
   }
   {
     id: 130010
-    name: 前線協議額外獎勵-3
+    name: 前線協議額外獎勵-4
     item_ids: 1500040-1
     content: prize-20130010
   }
   {
     id: 130011
-    name: 基礎付費展示獎勵-3
+    name: 基礎付費展示獎勵-4
     item_ids: 602-1,1500037-1,1500038-1,505-680
     content: prize-20130011
   }
   {
     id: 130012
-    name: 進階付費展示獎勵-3
+    name: 進階付費展示獎勵-4
     item_ids: 10606-300,200016-1,2205-1
     content: prize-20130012
   }

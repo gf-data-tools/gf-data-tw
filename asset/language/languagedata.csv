@@ -1899,8 +1899,8 @@ DORM,31701,格纳库,,0
 DORM,31703,电池X{0},,0
 DORM,31704,未满级人形在作战中会获取<color=#ffb400>全局经验</color>，数量等同于作战经验的<color=#ffb400>{0}%</color>,,0
 DORM,31705,满级人形在作战中会获取<color=#ffb400>全局经验</color>，数量等同于溢出经验的<color=#ffb400>{0}%</color>,,0
-DORM,31706,是否将装扮礼物 【<color=#ffb400ff>{0}</color>】//n交给格琳娜收藏？//n//n<size=40><color=#e31414ff>收藏换装不会获得好感度，获得人形后该装扮会自动解锁。</color></size>,,0
-DORM,31707,装扮【<color=#ffb400ff>{0}</color>】已解锁//c获得人形后//c可以在<color=#ffb400ff>人物属性界面</color>切换。,,0
+DORM,31706,是否将装扮礼物 【<color=#ffb400ff>{0}</color>】//n交给格琳娜收藏？,,0
+DORM,31707,获得人形后//c可以在<color=#ffb400ff>人物属性界面</color>切换。,,0
 DORM,31708,海报,,0
 DORM,31709,已领取<color=#FFB400FF>【电池】*{0}</color>，电池存储已达上限，剩余电池将留在电容中。,,0
 DORM,31710,电池数量已达存储上限，<color=#ffb400>无法领取</color>,,0
@@ -4490,6 +4490,13 @@ SEPCIALOPS,60627,我承认，那个时候我确实是慌了……,,0
 SEPCIALOPS,60628,你好，玛姬·庞兹。,,0
 SEPCIALOPS,60629,行李箱,,0
 SEPCIALOPS,60630,艾莉安娜过于强大，需要确保收集3处月印后再与其对决,,0
+SEPCIALOPS,60631,源樱,,0
+SEPCIALOPS,60632,二阶堂咲,,0
+SEPCIALOPS,60633,水野爱,,0
+SEPCIALOPS,60634,绀野纯子,,0
+SEPCIALOPS,60635,夕雾,,0
+SEPCIALOPS,60636,星川莉莉,,0
+SEPCIALOPS,60637,山田多惠,,0
 GASHAPON,70000,当前家具仓库容量不足（,,0
 GASHAPON,70001,）//c请整顿后再进行采购!,,0
 GASHAPON,70002,采购币不足//c无法完成采购,,1
