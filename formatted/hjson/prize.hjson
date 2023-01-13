@@ -12792,11 +12792,27 @@
   }
   {
     id: 1706
-    name: prize-10001706
+    name: 鑽石盛典禮包
     gem_pay: 6100
     item_ids: 41-100
     content: prize-20001706
     icon: Bumdle_cashblue
+  }
+  {
+    id: 1707
+    name: 協力委託書補給
+    gem_pay: 600
+    item_ids: 605-10
+    content: prize-20001707
+    icon: Bumdle_cashblue
+  }
+  {
+    id: 1708
+    name: 採購幣補給
+    gem_pay: 300
+    item_ids: 41-100
+    content: prize-20001708
+    icon: Bumdle_cashwhite
   }
   {
     id: 2001
@@ -21567,6 +21583,24 @@
     content: prize-20008514
   }
   {
+    id: 8515
+    name: 通行證68
+    item_ids: 140009-1
+    content: prize-20008515
+  }
+  {
+    id: 8516
+    name: 通行證98
+    item_ids: 140010-1,10606-300,200018-1,2225-1
+    content: prize-20008516
+  }
+  {
+    id: 8517
+    name: 通行證30
+    item_ids: 140010-1,10606-300,200018-1,2225-1
+    content: prize-20008517
+  }
+  {
     id: 9101
     name: 來自2016年耶誕節的照片
     item_ids: 1212-1
@@ -22515,58 +22549,58 @@
   }
   {
     id: 10757
-    name: prize-10010757
+    name: 少校榮譽
     user_exp: 30
     item_ids: 106-5,2214-1,200008-1
-    content: prize-20010757
+    content: 恭喜你在「代號柒：急流」賽季中，獲得少校榮譽，獎勵：拉弗伯雷勳章*5，指揮官經驗*30，頭像「圖靈火種」
     icon: Medal_Chess
   }
   {
     id: 10758
-    name: prize-10010758
+    name: 中校榮譽
     user_exp: 60
     item_ids: 106-10
-    content: prize-20010758
+    content: 恭喜你在「代號柒：急流」賽季中，獲得中校榮譽，獎勵：拉弗伯雷勳章*10，指揮官經驗*60
     icon: Medal_Chess
   }
   {
     id: 10759
-    name: prize-10010759
+    name: 上校榮譽
     user_exp: 100
     item_ids: 106-20
-    content: prize-20010759
+    content: 恭喜你在「代號柒：急流」賽季中，獲得上校榮譽，獎勵：拉弗伯雷勳章*20，指揮官經驗*100
     icon: Medal_Chess
   }
   {
     id: 10760
-    name: prize-10010760
+    name: 少將榮譽
     user_exp: 200
     item_ids: 106-30,2215-1,200007-1
-    content: prize-20010760
+    content: 恭喜你在「代號柒：急流」賽季中，獲得少將榮譽，獎勵：拉弗伯雷勳章*30，指揮官經驗*200，頭像"推導矩陣"
     icon: Medal_Chess
   }
   {
     id: 10761
-    name: prize-10010761
+    name: 中將榮譽
     user_exp: 500
     item_ids: 106-40
-    content: prize-20010761
+    content: 恭喜你在「代號柒：急流」賽季中，獲得中將榮譽，獎勵：拉弗伯雷勳章*40，指揮官經驗*500
     icon: Medal_Chess
   }
   {
     id: 10762
-    name: prize-10010762
+    name: 上將榮譽
     user_exp: 1000
     item_ids: 106-50
-    content: prize-20010762
+    content: 恭喜你在「代號柒：急流」賽季中，獲得上將榮譽，獎勵：拉弗伯雷勳章*50，指揮官經驗*1000
     icon: Medal_Chess
   }
   {
     id: 10763
-    name: prize-10010763
+    name: 元帥榮譽
     user_exp: 2000
     item_ids: 106-60,2216-1,200006-1
-    content: prize-20010763
+    content: 恭喜你在「代號柒：急流」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勳章*60，指揮官經驗*2000，頭像「異想核心」
     icon: Medal_Chess
   }
   {
@@ -42630,6 +42664,32 @@
     content: prize-20120057
   }
   {
+    id: 120058
+    name: 增量補給-15級
+    item_ids: 41-30,1500043-1
+    content: prize-20120058
+  }
+  {
+    id: 120059
+    name: 增量補給-25級
+    item_ids: 41-30
+    gift: 30004-1
+    content: prize-20120059
+  }
+  {
+    id: 120060
+    name: 增量補給-35級
+    item_ids: 41-30,1500042-1
+    content: prize-20120060
+  }
+  {
+    id: 120061
+    name: 增量補給-45級
+    gem: 680
+    item_ids: 1500043-1
+    content: prize-20120061
+  }
+  {
     id: 130001
     name: 前線協議額外獎勵
     item_ids: 1500014-1
@@ -42685,21 +42745,39 @@
   }
   {
     id: 130010
-    name: 前線協議額外獎勵-3
+    name: 前線協議額外獎勵-4
     item_ids: 1500040-1
     content: prize-20130010
   }
   {
     id: 130011
-    name: 基礎付費展示獎勵-3
+    name: 基礎付費展示獎勵-4
     item_ids: 602-1,1500037-1,1500038-1,505-680
     content: prize-20130011
   }
   {
     id: 130012
-    name: 進階付費展示獎勵-3
+    name: 進階付費展示獎勵-4
     item_ids: 10606-300,200016-1,2205-1
     content: prize-20130012
+  }
+  {
+    id: 130013
+    name: 前線協議額外獎勵-5
+    item_ids: 1500044-1
+    content: prize-20130013
+  }
+  {
+    id: 130014
+    name: 基礎付費展示獎勵-5
+    item_ids: 602-1,1500041-1,1500042-1,505-680
+    content: prize-20130014
+  }
+  {
+    id: 130015
+    name: 進階付費展示獎勵-5
+    item_ids: 10606-300,200018-1,2225-1
+    content: prize-20130015
   }
   {
     id: 140001
@@ -42722,7 +42800,7 @@
   {
     id: 140004
     name: 五星人形裝備自選序標
-    equip_ids: "40,44,58,68,90,234"
+    equip_ids: "40,44,58,68,90,234,309,311,314"
     content: prize-20140004
   }
   {
@@ -42988,5 +43066,53 @@
     name: 必得未解鎖人形序標-88式
     gun_id: "238"
     content: prize-20140048
+  }
+  {
+    id: 140049
+    name: 必得未解鎖人形序標-HP-35
+    gun_id: "303"
+    content: prize-20140049
+  }
+  {
+    id: 140050
+    name: 必得未解鎖人形序標-P90
+    gun_id: "245"
+    content: prize-20140050
+  }
+  {
+    id: 140051
+    name: 必得未解鎖人形序標-M950A
+    gun_id: "97"
+    content: prize-20140051
+  }
+  {
+    id: 140052
+    name: 必得未解鎖人形序標-索米
+    gun_id: "115"
+    content: prize-20140052
+  }
+  {
+    id: 140053
+    name: 必得未解鎖人形序標-SIG-556
+    gun_id: "287"
+    content: prize-20140053
+  }
+  {
+    id: 140054
+    name: 必得未解鎖人形序標-AK-15
+    gun_id: "293"
+    content: prize-20140054
+  }
+  {
+    id: 140055
+    name: 必得未解鎖人形序標-PA-15
+    gun_id: "260"
+    content: prize-20140055
+  }
+  {
+    id: 140056
+    name: 必得未解鎖人形序標-WA2000
+    gun_id: "48"
+    content: prize-20140056
   }
 ]

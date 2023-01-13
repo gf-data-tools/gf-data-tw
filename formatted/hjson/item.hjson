@@ -13068,8 +13068,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season9_1
-    item_name: item-10002214
-    introduction: item-20002214
+    item_name: 圖靈火種 · 代號柒：急流
+    introduction: 圖靈火種 · 代號柒：急流
     rank: 1
     detail_introduction: item-30002214
   }
@@ -13078,8 +13078,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season9_2
-    item_name: item-10002215
-    introduction: item-20002215
+    item_name: 推導矩陣 · 代號柒：急流
+    introduction: 推導矩陣 · 代號柒：急流
     rank: 1
     detail_introduction: item-30002215
   }
@@ -13088,10 +13088,40 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season9_3
-    item_name: item-10002216
-    introduction: item-20002216
+    item_name: 異想核心 · 代號柒：急流
+    introduction: 異想核心 · 代號柒：急流
     rank: 1
     detail_introduction: item-30002216
+  }
+  {
+    id: 2224
+    type: 5
+    arg: "1"
+    code: card_FixedPoint_us
+    item_name: 名片：靜風點
+    introduction: 名片：靜風點
+    rank: 1
+    detail_introduction: item-30002224
+  }
+  {
+    id: 2225
+    type: 5
+    arg: "1"
+    code: card_BattlePass_ColtWalker
+    item_name: 名片：慾望之都
+    introduction: 名片：慾望之都
+    rank: 1
+    detail_introduction: item-30002225
+  }
+  {
+    id: 2226
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_ColtWalker
+    item_name: 柯爾特沃克-危情七日
+    introduction: 柯爾特沃克-危情七日
+    rank: 1
+    detail_introduction: item-30002226
   }
   {
     id: 4001
@@ -16288,8 +16318,8 @@
     type: 1
     arg: "1"
     code: FlightChessMap5_small
-    item_name: item-10121002
-    introduction: item-20121002
+    item_name: 異想虛景
+    introduction: 堅壁築壘棋盤背景-異想虛景
     rank: 1
     detail_introduction: item-30121002
   }
@@ -16568,6 +16598,26 @@
     detail_introduction: item-30140008
   }
   {
+    id: 140009
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    introduction: item-20140009
+    rank: 1
+    detail_introduction: item-30140009
+  }
+  {
+    id: 140010
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    introduction: item-20140010
+    rank: 1
+    detail_introduction: item-30140010
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -16716,6 +16766,16 @@
     introduction: 頭像框·躍馬■鳴
     rank: 1
     detail_introduction: item-30200016
+  }
+  {
+    id: 200018
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_ColtWalker
+    item_name: 頭像框·浮囂羅網
+    introduction: 頭像框·浮囂羅網
+    rank: 1
+    detail_introduction: item-30200018
   }
   {
     id: 900030
@@ -17222,5 +17282,49 @@
     rank: 1
     sort: -1
     detail_introduction: item-31500040
+  }
+  {
+    id: 1500041
+    type: 15
+    arg: "1500041"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500041
+  }
+  {
+    id: 1500042
+    type: 15
+    arg: "1500042"
+    code: package_choose
+    item_name: 配件裝備自選序標
+    introduction: 可從該指定投遞配給序標內選擇獲取一件配件類裝備
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500042
+  }
+  {
+    id: 1500043
+    type: 15
+    arg: "1500043"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 可必定獲得該序標內圖鑒未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500043
+  }
+  {
+    id: 1500044
+    type: 15
+    arg: "1500044"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500044
   }
 ]

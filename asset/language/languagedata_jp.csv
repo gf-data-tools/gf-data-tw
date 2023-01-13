@@ -1898,8 +1898,8 @@ DORM,31701,格納庫,,0
 DORM,31703,バッテリーX{0},,0
 DORM,31704,レベルが上限に達していない人形は、戦闘において戦闘経験値<color=#ffb400>{0}%</color>の<color=#ffb400>トータル経験値</color>を獲得できます,,0
 DORM,31705,レベルが上限に達している人形は、戦闘において溢れ出た経験値<color=#ffb400>{0}%</color>の<color=#ffb400>トータル経験値</color>を獲得できます,,0
-DORM,31706,スキン【<color=#ffb400ff>{0}</color>】をカリーナに委託しますか？//n//n<size=40><color=#e31414ff>スキンの解放を委託すると、対応の人形の好感度は得られません。また、人形獲得後、当該スキンは自動で解放されます。</color></size>,,0
-DORM,31707,スキン【<color=#ffb400ff>{0}</color>】が解放されました。//nスキンに対応する人形を獲得後は、//n<color=#ffb400ff>人形ステータス画面</color>にて変更ができます。,,0
+DORM,31706,是否将装扮礼物 【<color=#ffb400ff>{0}</color>】//n交给格琳娜收藏？(todo),,0
+DORM,31707,获得人形后//c可以在<color=#ffb400ff>人物属性界面</color>切换。(todo),,0
 DORM,31708,ポスター,,0
 DORM,31709,<color=#FFB400FF>【バッテリー】×{0}</color>を受け取りました。バッテリーが所持上限に達しているため、残ったバッテリーはコンデンサに残されます。,,0
 DORM,31710,バッテリーが所持上限に達しているため、<color=#ffb400>受け取ることができません</color>,,0
@@ -4485,6 +4485,13 @@ SEPCIALOPS,60627,我承认，那个时候我确实是慌了……(todo),,0
 SEPCIALOPS,60628,你好，玛姬·庞兹。(todo),,0
 SEPCIALOPS,60629,行李箱(todo),,0
 SEPCIALOPS,60630,艾莉安娜过于强大，需要确保收集3处月印后再与其对决(todo),,0
+SEPCIALOPS,60631,源樱(todo),,0
+SEPCIALOPS,60632,二阶堂咲(todo),,0
+SEPCIALOPS,60633,水野爱(todo),,0
+SEPCIALOPS,60634,绀野纯子(todo),,0
+SEPCIALOPS,60635,夕雾(todo),,0
+SEPCIALOPS,60636,星川莉莉(todo),,0
+SEPCIALOPS,60637,山田多惠(todo),,0
 GASHAPON,70000,家具倉庫の容量が足りません（,,0
 GASHAPON,70001,）、整理を行ってからガチャを引いて下さい！,,0
 GASHAPON,70002,コインが不足しています！//n,,0
