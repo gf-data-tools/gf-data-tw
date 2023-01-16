@@ -1,680 +1,236 @@
 [
-    {
-        "id": 1,
-        "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，只留下了一件裝備。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 2,
-        "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，只留下了一件裝備。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 3,
-        "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，只留下了一件裝備。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 4,
-        "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，什麼都沒有留下。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 5,
-        "content": "[gun1]不小心踩進了一個雪坑。她花了很大的力氣才把腳提上來，並在腳底黏著的雪塊裡發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 6,
-        "content": "[gun1]不小心踩進了一個雪坑。她花了很大的力氣才把腳提上來，並在腳底黏著的雪塊裡發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 7,
-        "content": "[gun1]不小心踩進了一個雪坑。她花了很大的力氣才把腳提上來，並在腳底黏著的雪塊裡發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 8,
-        "content": "[gun1]渡河時摔進了河裡，卻也因此在水底下發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 9,
-        "content": "[gun1]渡河時摔進了河裡，卻也因此在水底下發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 10,
-        "content": "[gun1]渡河時摔進了河裡，卻也因此在水底下發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 11,
-        "content": "[gun1]和凍到程序錯亂的鐵血打起了雪仗，並且獲得了勝利，從對方手裡贏得了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 12,
-        "content": "[gun1]和凍到程序錯亂的鐵血打起了雪仗，並且獲得了勝利，從對方手裡贏得了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 13,
-        "content": "[gun1]和凍到程序錯亂的鐵血打起了雪仗，並且獲得了勝利，從對方手裡贏得了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 14,
-        "content": "[gun1]和凍到程序錯亂的鐵血打起了雪仗，但是失敗了。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 15,
-        "content": "[gun1]和凍到程序錯亂的鐵血打起了雪仗，雖然獲得了勝利，卻被搶走了防寒服。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 16,
-        "content": "[gun1]將自己多攜帶的食物分給了需要幫助的人們，在接受感激之餘，一位難民將自己珍藏的物資贈送給了她。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 17,
-        "content": "[gun1]將自己多攜帶的食物分給了需要幫助的人們，在接受感激之餘，一位難民將自己珍藏的物資贈送給了她。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 18,
-        "content": "[gun1]將自己多攜帶的食物分給了需要幫助的人們，在接受感激之餘，一位難民將自己珍藏的物資贈送給了她。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 19,
-        "content": "[gun1]看到一朵好看的花，不禁湊過去聞了一下。雖然很臭，但她仍舊欣賞花的美麗，並在花下發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 20,
-        "content": "[gun1]看到一朵好看的花，不禁湊過去聞了一下。雖然很臭，但她仍舊欣賞花的美麗，並在花下發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 21,
-        "content": "[gun1]看到一朵好看的花，不禁湊過去聞了一下。雖然很臭，但她仍舊欣賞花的美麗，並在花下發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 22,
-        "content": "[gun1]快樂地撲進了鬆軟的雪地裡。她察覺到雪裡有東西，並挖出了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 23,
-        "content": "[gun1]快樂地撲進了鬆軟的雪地裡。她察覺到雪裡有東西，並挖出了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 24,
-        "content": "[gun1]快樂地撲進了鬆軟的雪地裡。她察覺到雪裡有東西，並挖出了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 25,
-        "content": "[gun1]身上帶的東西被突然出現的猴子搶走了，一路追討後，在樹上找到了那隻潑猴先前從其他地方搶來的物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 26,
-        "content": "[gun1]身上帶的東西被突然出現的猴子搶走了，一路追討後，在樹上找到了那隻潑猴先前從其他地方搶來的物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 27,
-        "content": "[gun1]身上帶的東西被突然出現的猴子搶走了，一路追討後，在樹上找到了那隻潑猴先前從其他地方搶來的物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 28,
-        "content": "[gun1]搜索了一處廢棄的木屋，原本想找點食物，但卻意外發現了物資",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 29,
-        "content": "[gun1]搜索了一處廢棄的木屋，原本想找點食物，但卻意外發現了物資",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 30,
-        "content": "[gun1]搜索了一處廢棄的木屋，原本想找點食物，但卻意外發現了物資",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 31,
-        "content": "[gun1]協助了一群試著修復發電機的民間工程師，作為謝禮得到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 32,
-        "content": "[gun1]協助了一群試著修復發電機的民間工程師，作為謝禮得到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 33,
-        "content": "[gun1]協助了一群試著修復發電機的民間工程師，作為謝禮得到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 34,
-        "content": "[gun1]在河邊上發現水下疑似藏有什麼東西，潛下去之後找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 35,
-        "content": "[gun1]在河邊上發現水下疑似藏有什麼東西，潛下去之後找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 36,
-        "content": "[gun1]在河邊上發現水下疑似藏有什麼東西，潛下去之後找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 37,
-        "content": "[gun1]在路上遇到了強盜，在解除對方武裝時，在他們的行囊裡發現了契約。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 38,
-        "content": "[gun1]在路上遇到了強盜，在解除對方武裝時，在他們的行囊裡發現了契約。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 39,
-        "content": "[gun1]在路上遇到了強盜，在解除對方武裝時，在他們的行囊裡發現了契約。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 40,
-        "content": "[gun1]在雪地裡踩到了堅硬的東西。當[gun1]把這個東西挖上來時，驚訝地發現這是物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 41,
-        "content": "[gun1]在雪地裡踩到了堅硬的東西。當[gun1]把這個東西挖上來時，驚訝地發現這是物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 42,
-        "content": "[gun1]在雪地裡踩到了堅硬的東西。當[gun1]把這個東西挖上來時，驚訝地發現這是物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 43,
-        "content": "[gun1]找到了一處廢棄品回收站，大家在裡面找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 44,
-        "content": "[gun1]找到了一處廢棄品回收站，大家在裡面找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 45,
-        "content": "[gun1]找到了一處廢棄品回收站，大家在裡面找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 46,
-        "content": "[gun1]在雪地中滑倒，雖然摔得很慘，但在雪堆中意外發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 47,
-        "content": "[gun1]在雪地中滑倒，雖然摔得很慘，但在雪堆中意外發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 48,
-        "content": "[gun1]在雪地中滑倒，雖然摔得很慘，但在雪堆中意外發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 49,
-        "content": "[gun1]費力地打開了廢棄木屋裡的保險箱，裡面小心翼翼地收藏著物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 50,
-        "content": "[gun1]費力地打開了廢棄木屋裡的保險箱，裡面小心翼翼地收藏著物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 51,
-        "content": "[gun1]費力地打開了廢棄木屋裡的保險箱，裡面小心翼翼地收藏著物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 52,
-        "content": "[gun1:37]靠著熟練的技巧打開了廢棄木屋裡的保險箱，裡面小心翼翼地收藏著物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 53,
-        "content": "[gun1:37]靠著熟練的技巧打開了廢棄木屋裡的保險箱，裡面小心翼翼地收藏著物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 54,
-        "content": "[gun1:37]靠著熟練的技巧打開了廢棄木屋裡的保險箱，裡面小心翼翼地收藏著物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 55,
-        "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉，一個老人說不遠處的樹下埋著對她有幫助的東西，刨開土後大家找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 56,
-        "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉，一個老人說不遠處的樹下埋著對她有幫助的東西，刨開土後大家找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 57,
-        "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉，一個老人說不遠處的樹下埋著對她有幫助的東西，刨開土後大家找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 58,
-        "content": "天氣實在是太冷了。[gun1]在翻找防凍液的時候，找到了被妥善封存的物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 59,
-        "content": "天氣實在是太冷了。[gun1]在翻找防凍液的時候，找到了被妥善封存的物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 60,
-        "content": "天氣實在是太冷了。[gun1]在翻找防凍液的時候，找到了被妥善封存的物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 61,
-        "content": "[gun1]搜索了一處廢棄的木屋，並且幸運地在角落找到了不知何故被遺留的物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 62,
-        "content": "[gun1]搜索了一處廢棄的木屋，並且幸運地在角落找到了不知何故被遺留的物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 63,
-        "content": "[gun1]搜索了一處廢棄的木屋，並且幸運地在角落找到了不知何故被遺留的物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 64,
-        "content": "在搜索一處廢棄的木屋時，[gun1]發現了暗藏的地下室，並在裡面找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 65,
-        "content": "在搜索一處廢棄的木屋時，[gun1]發現了暗藏的地下室，並在裡面找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 66,
-        "content": "在搜索一處廢棄的木屋時，[gun1]發現了暗藏的地下室，並在裡面找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 67,
-        "content": "[gun1]在森林深處遇到了一隻被藤蔓網住的廢棄人形。雖然沒能喚醒它，但是從它身上掉下了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 68,
-        "content": "[gun1]在森林深處遇到了一隻被藤蔓網住的廢棄人形。雖然沒能喚醒它，但是從它身上掉下了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 69,
-        "content": "[gun1]在森林深處遇到了一隻被藤蔓網住的廢棄人形。雖然沒能喚醒它，但是從它身上掉下了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 70,
-        "content": "[gun1]在一處廢棄的木屋裡發現了一個人形的殘骸，並在它的身上找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 71,
-        "content": "[gun1]在一處廢棄的木屋裡發現了一個人形的殘骸，並在它的身上找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 72,
-        "content": "[gun1]在一處廢棄的木屋裡發現了一個人形的殘骸，並在它的身上找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 73,
-        "content": "[gun1]發現了一家不錯的咖啡廳，想進去買些咖啡時，老闆雖然認出了她是人形，但平等地接待了她，還送給她一些物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 74,
-        "content": "[gun1]發現了一家不錯的咖啡廳，想進去買些咖啡時，老闆雖然認出了她是人形，但平等地接待了她，還送給她一些物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 75,
-        "content": "[gun1]發現了一家不錯的咖啡廳，想進去買些咖啡時，老闆雖然認出了她是人形，但平等地接待了她，還送給她一些物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 76,
-        "content": "[gun1]在雪地裡發現了破壞者堆好的雪人，並從雪人上得到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 77,
-        "content": "[gun1]在雪地裡發現了破壞者堆好的雪人，並從雪人上得到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 78,
-        "content": "[gun1]在雪地裡發現了破壞者堆好的雪人，並從雪人上得到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 79,
-        "content": "[gun1]認得這半張臉，至少她不是唯一一個認出來的人，再怎麼說這可曾都是世界上最出名的面孔之一，這也導致了她今天只剩半張臉在這兒。",
-        "background": "",
-        "script_type": "5-1"
-    },
-    {
-        "id": 80,
-        "content": "[gun1]揉了揉眼，不知道是不是錯覺，但這個藍色的電話亭十分眼熟，就好像它不停出現在每個地方，但察看了以後並沒有發現任何異狀。",
-        "background": "",
-        "script_type": "5-2"
-    },
-    {
-        "id": 81,
-        "content": "[gun1]在一處加油站旁邊找到了一個發紅的陳舊火箭，加油站裡還有個餐廳，她猜以前人類的太空人就是在這裡用餐、加油、然後繼續他們短暫的太空旅行。",
-        "background": "",
-        "script_type": "5-4"
-    },
-    {
-        "id": 82,
-        "content": "如果某個警官沒有睡過頭，那麼他可能就能搭著這輛警車去阻止世界末日的爆發，[gun1]看著這輛車子的殘骸思考道。",
-        "background": "",
-        "script_type": "5-5"
-    },
-    {
-        "id": 83,
-        "content": "[gun1]嘗試連接地上那個奇怪的終端機接口但失敗了，如果連接成功了，會不會遇到新的人工智能，它會說出失落的科研基地在哪裡嗎？",
-        "background": "",
-        "script_type": "5-8"
-    },
-    {
-        "id": 84,
-        "content": "[gun1]發現這裡是一處巨大的地下鐵車站的入口，若不是已經坍塌，裡面的空間或許能支撐好幾代人度過世界末日。",
-        "background": "",
-        "script_type": "5-7"
-    },
-    {
-        "id": 85,
-        "content": "[gun1]意外在土裡找到了一個半埋住的方塊，即使它不用開口也不用是活物就能成為人類的好朋友，但人類依然還是會選擇把它安樂死，可能這就是人類吧。",
-        "background": "",
-        "script_type": "5-9"
-    },
-    {
-        "id": 86,
-        "content": "[gun1]遇見了奇怪的雕塑，有鑒於它奇怪的形狀，她們決定跟這東西合影，並親切地稱呼它「金色飛機頭」。",
-        "background": "",
-        "script_type": "5-3"
-    },
-    {
-        "id": 87,
-        "content": "[gun1]看著放在最外面的這個金色的雕塑，認為這團火焰的意象代表著當時人類對於繁榮的渴望。然而這種解讀被其他人嘲笑了。",
-        "background": "",
-        "script_type": "5-3"
-    },
-    {
-        "id": 88,
-        "content": "[gun1]在草叢裡發現了一個奇怪的老舊載具殘骸，其設計理念相當超前，以致於大家寧願不相信這東西誕生在半個世紀前。",
-        "background": "",
-        "script_type": "5-6"
-    },
-    {
-        "id": 89,
-        "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，只留下了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 90,
-        "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，只留下了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 91,
-        "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，只留下了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 92,
-        "content": "[gun1]渡河時摔進了河裡，卻也因此在水底下發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 93,
-        "content": "[gun1]渡河時摔進了河裡，卻也因此在水底下發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 94,
-        "content": "[gun1]渡河時摔進了河裡，卻也因此在水底下發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 95,
-        "content": "[gun1]在河邊上發現水下疑似藏有什麼東西，潛下去之後找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 96,
-        "content": "[gun1]在河邊上發現水下疑似藏有什麼東西，潛下去之後找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 97,
-        "content": "[gun1]在河邊上發現水下疑似藏有什麼東西，潛下去之後找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 98,
-        "content": "[gun1]在路上遇到了強盜，在解除對方武裝時，在他們的行囊裡發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 99,
-        "content": "[gun1]在路上遇到了強盜，在解除對方武裝時，在他們的行囊裡發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 100,
-        "content": "[gun1]在路上遇到了強盜，在解除對方武裝時，在他們的行囊裡發現了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 101,
-        "content": "[gun1]將自己多攜帶的食物分給了需要幫助的人們，在接受感激之餘，一位難民將自己珍藏的物資贈送給了她。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 102,
-        "content": "[gun1]將自己多攜帶的食物分給了需要幫助的人們，在接受感激之餘，一位難民將自己珍藏的物資贈送給了她。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 103,
-        "content": "[gun1]將自己多攜帶的食物分給了需要幫助的人們，在接受感激之餘，一位難民將自己珍藏的物資贈送給了她。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 104,
-        "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉，一個老人說不遠處的樹下埋著對她有幫助的東西，刨開土後大家找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 105,
-        "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉，一個老人說不遠處的樹下埋著對她有幫助的東西，刨開土後大家找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 106,
-        "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉，一個老人說不遠處的樹下埋著對她有幫助的東西，刨開土後大家找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 107,
-        "content": "在搜索一處廢棄的木屋時，[gun1]發現了暗藏的地下室，並在裡面找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 108,
-        "content": "在搜索一處廢棄的木屋時，[gun1]發現了暗藏的地下室，並在裡面找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 109,
-        "content": "在搜索一處廢棄的木屋時，[gun1]發現了暗藏的地下室，並在裡面找到了物資。",
-        "background": "",
-        "script_type": "2"
-    },
-    {
-        "id": 110,
-        "content": "人形們與一批敵人正面遭遇。\n判斷敵人實力很弱，大家決定當場開戰。\n敵人果然被迅速擊敗，小隊成員士氣高漲，開開心心地繼續前進。",
-        "background": "",
-        "script_type": "6-12"
-    },
-    {
-        "id": 111,
-        "content": "人形們偵查到前方出現大批強敵。\n出於保存實力的考慮，大家決定避免正面衝突。\n敵人趾高氣揚地在前面漫步，小隊成員小心地隱蔽起來，等敵人離開之後再繼續前進。",
-        "background": "",
-        "script_type": "6-13"
-    },
-    {
-        "id": 112,
-        "content": "人形們正面遭遇了一批強敵。\n由於敵我實力懸殊，大家決定撤退。\n敵人不依不饒緊追不捨，小隊成員邁開矯健的步迅速拉開距離，成功回避了一場苦戰。",
-        "background": "",
-        "script_type": "6-14"
-    },
-    {
-        "id": 113,
-        "content": "人形們正面遭遇了率領著強力小隊的BOSS。\n由於受到BOSS的挑釁，大家憤而開戰。\nBOSS的隨從們血量當場蒸發，嚇得BOSS倉皇逃竄，小隊成員心情愉悅地繼續前進。",
-        "background": "",
-        "script_type": "6-15"
-    }
+  {
+    "id": 1, "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，只留下了一件裝備。", "background": "", "script_type": "2"
+  }, {
+    "id": 2, "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，只留下了一件裝備。", "background": "", "script_type": "2"
+  }, {
+    "id": 3, "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，只留下了一件裝備。", "background": "", "script_type": "2"
+  }, 
+  {"id": 4, "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，什麼都沒有留下。", "background": "", "script_type": "2"}, 
+  {
+    "id": 5, "content": "[gun1]不小心踩進了一個雪坑。她花了很大的力氣才把腳提上來，並在腳底黏著的雪塊裡發現了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 6, "content": "[gun1]不小心踩進了一個雪坑。她花了很大的力氣才把腳提上來，並在腳底黏著的雪塊裡發現了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 7, "content": "[gun1]不小心踩進了一個雪坑。她花了很大的力氣才把腳提上來，並在腳底黏著的雪塊裡發現了物資。", "background": "", "script_type": "2"
+  }, 
+  {"id": 8, "content": "[gun1]渡河時摔進了河裡，卻也因此在水底下發現了物資。", "background": "", "script_type": "2"}, 
+  {"id": 9, "content": "[gun1]渡河時摔進了河裡，卻也因此在水底下發現了物資。", "background": "", "script_type": "2"}, 
+  {"id": 10, "content": "[gun1]渡河時摔進了河裡，卻也因此在水底下發現了物資。", "background": "", "script_type": "2"}, 
+  {
+    "id": 11, "content": "[gun1]和凍到程序錯亂的鐵血打起了雪仗，並且獲得了勝利，從對方手裡贏得了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 12, "content": "[gun1]和凍到程序錯亂的鐵血打起了雪仗，並且獲得了勝利，從對方手裡贏得了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 13, "content": "[gun1]和凍到程序錯亂的鐵血打起了雪仗，並且獲得了勝利，從對方手裡贏得了物資。", "background": "", "script_type": "2"
+  }, 
+  {"id": 14, "content": "[gun1]和凍到程序錯亂的鐵血打起了雪仗，但是失敗了。", "background": "", "script_type": "2"}, 
+  {
+    "id": 15, "content": "[gun1]和凍到程序錯亂的鐵血打起了雪仗，雖然獲得了勝利，卻被搶走了防寒服。", "background": "", "script_type": "2"
+  }, {
+    "id": 16, "content": "[gun1]將自己多攜帶的食物分給了需要幫助的人們，在接受感激之餘，一位難民將自己珍藏的物資贈送給了她。", "background": "", "script_type": "2"
+  }, {
+    "id": 17, "content": "[gun1]將自己多攜帶的食物分給了需要幫助的人們，在接受感激之餘，一位難民將自己珍藏的物資贈送給了她。", "background": "", "script_type": "2"
+  }, {
+    "id": 18, "content": "[gun1]將自己多攜帶的食物分給了需要幫助的人們，在接受感激之餘，一位難民將自己珍藏的物資贈送給了她。", "background": "", "script_type": "2"
+  }, {
+    "id": 19, "content": "[gun1]看到一朵好看的花，不禁湊過去聞了一下。雖然很臭，但她仍舊欣賞花的美麗，並在花下發現了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 20, "content": "[gun1]看到一朵好看的花，不禁湊過去聞了一下。雖然很臭，但她仍舊欣賞花的美麗，並在花下發現了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 21, "content": "[gun1]看到一朵好看的花，不禁湊過去聞了一下。雖然很臭，但她仍舊欣賞花的美麗，並在花下發現了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 22, "content": "[gun1]快樂地撲進了鬆軟的雪地裡。她察覺到雪裡有東西，並挖出了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 23, "content": "[gun1]快樂地撲進了鬆軟的雪地裡。她察覺到雪裡有東西，並挖出了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 24, "content": "[gun1]快樂地撲進了鬆軟的雪地裡。她察覺到雪裡有東西，並挖出了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 25, "content": "[gun1]身上帶的東西被突然出現的猴子搶走了，一路追討後，在樹上找到了那隻潑猴先前從其他地方搶來的物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 26, "content": "[gun1]身上帶的東西被突然出現的猴子搶走了，一路追討後，在樹上找到了那隻潑猴先前從其他地方搶來的物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 27, "content": "[gun1]身上帶的東西被突然出現的猴子搶走了，一路追討後，在樹上找到了那隻潑猴先前從其他地方搶來的物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 28, "content": "[gun1]搜索了一處廢棄的木屋，原本想找點食物，但卻意外發現了物資", "background": "", "script_type": "2"
+  }, {
+    "id": 29, "content": "[gun1]搜索了一處廢棄的木屋，原本想找點食物，但卻意外發現了物資", "background": "", "script_type": "2"
+  }, {
+    "id": 30, "content": "[gun1]搜索了一處廢棄的木屋，原本想找點食物，但卻意外發現了物資", "background": "", "script_type": "2"
+  }, {
+    "id": 31, "content": "[gun1]協助了一群試著修復發電機的民間工程師，作為謝禮得到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 32, "content": "[gun1]協助了一群試著修復發電機的民間工程師，作為謝禮得到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 33, "content": "[gun1]協助了一群試著修復發電機的民間工程師，作為謝禮得到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 34, "content": "[gun1]在河邊上發現水下疑似藏有什麼東西，潛下去之後找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 35, "content": "[gun1]在河邊上發現水下疑似藏有什麼東西，潛下去之後找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 36, "content": "[gun1]在河邊上發現水下疑似藏有什麼東西，潛下去之後找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 37, "content": "[gun1]在路上遇到了強盜，在解除對方武裝時，在他們的行囊裡發現了契約。", "background": "", "script_type": "2"
+  }, {
+    "id": 38, "content": "[gun1]在路上遇到了強盜，在解除對方武裝時，在他們的行囊裡發現了契約。", "background": "", "script_type": "2"
+  }, {
+    "id": 39, "content": "[gun1]在路上遇到了強盜，在解除對方武裝時，在他們的行囊裡發現了契約。", "background": "", "script_type": "2"
+  }, {
+    "id": 40, "content": "[gun1]在雪地裡踩到了堅硬的東西。當[gun1]把這個東西挖上來時，驚訝地發現這是物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 41, "content": "[gun1]在雪地裡踩到了堅硬的東西。當[gun1]把這個東西挖上來時，驚訝地發現這是物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 42, "content": "[gun1]在雪地裡踩到了堅硬的東西。當[gun1]把這個東西挖上來時，驚訝地發現這是物資。", "background": "", "script_type": "2"
+  }, 
+  {"id": 43, "content": "[gun1]找到了一處廢棄品回收站，大家在裡面找到了物資。", "background": "", "script_type": "2"}, 
+  {"id": 44, "content": "[gun1]找到了一處廢棄品回收站，大家在裡面找到了物資。", "background": "", "script_type": "2"}, 
+  {"id": 45, "content": "[gun1]找到了一處廢棄品回收站，大家在裡面找到了物資。", "background": "", "script_type": "2"}, 
+  {
+    "id": 46, "content": "[gun1]在雪地中滑倒，雖然摔得很慘，但在雪堆中意外發現了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 47, "content": "[gun1]在雪地中滑倒，雖然摔得很慘，但在雪堆中意外發現了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 48, "content": "[gun1]在雪地中滑倒，雖然摔得很慘，但在雪堆中意外發現了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 49, "content": "[gun1]費力地打開了廢棄木屋裡的保險箱，裡面小心翼翼地收藏著物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 50, "content": "[gun1]費力地打開了廢棄木屋裡的保險箱，裡面小心翼翼地收藏著物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 51, "content": "[gun1]費力地打開了廢棄木屋裡的保險箱，裡面小心翼翼地收藏著物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 52, "content": "[gun1:37]靠著熟練的技巧打開了廢棄木屋裡的保險箱，裡面小心翼翼地收藏著物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 53, "content": "[gun1:37]靠著熟練的技巧打開了廢棄木屋裡的保險箱，裡面小心翼翼地收藏著物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 54, "content": "[gun1:37]靠著熟練的技巧打開了廢棄木屋裡的保險箱，裡面小心翼翼地收藏著物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 55, "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉，一個老人說不遠處的樹下埋著對她有幫助的東西，刨開土後大家找到了物資。", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 56, "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉，一個老人說不遠處的樹下埋著對她有幫助的東西，刨開土後大家找到了物資。", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 57, "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉，一個老人說不遠處的樹下埋著對她有幫助的東西，刨開土後大家找到了物資。", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 58, "content": "天氣實在是太冷了。[gun1]在翻找防凍液的時候，找到了被妥善封存的物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 59, "content": "天氣實在是太冷了。[gun1]在翻找防凍液的時候，找到了被妥善封存的物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 60, "content": "天氣實在是太冷了。[gun1]在翻找防凍液的時候，找到了被妥善封存的物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 61, "content": "[gun1]搜索了一處廢棄的木屋，並且幸運地在角落找到了不知何故被遺留的物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 62, "content": "[gun1]搜索了一處廢棄的木屋，並且幸運地在角落找到了不知何故被遺留的物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 63, "content": "[gun1]搜索了一處廢棄的木屋，並且幸運地在角落找到了不知何故被遺留的物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 64, "content": "在搜索一處廢棄的木屋時，[gun1]發現了暗藏的地下室，並在裡面找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 65, "content": "在搜索一處廢棄的木屋時，[gun1]發現了暗藏的地下室，並在裡面找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 66, "content": "在搜索一處廢棄的木屋時，[gun1]發現了暗藏的地下室，並在裡面找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 67, "content": "[gun1]在森林深處遇到了一隻被藤蔓網住的廢棄人形。雖然沒能喚醒它，但是從它身上掉下了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 68, "content": "[gun1]在森林深處遇到了一隻被藤蔓網住的廢棄人形。雖然沒能喚醒它，但是從它身上掉下了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 69, "content": "[gun1]在森林深處遇到了一隻被藤蔓網住的廢棄人形。雖然沒能喚醒它，但是從它身上掉下了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 70, "content": "[gun1]在一處廢棄的木屋裡發現了一個人形的殘骸，並在它的身上找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 71, "content": "[gun1]在一處廢棄的木屋裡發現了一個人形的殘骸，並在它的身上找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 72, "content": "[gun1]在一處廢棄的木屋裡發現了一個人形的殘骸，並在它的身上找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 73, "content": "[gun1]發現了一家不錯的咖啡廳，想進去買些咖啡時，老闆雖然認出了她是人形，但平等地接待了她，還送給她一些物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 74, "content": "[gun1]發現了一家不錯的咖啡廳，想進去買些咖啡時，老闆雖然認出了她是人形，但平等地接待了她，還送給她一些物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 75, "content": "[gun1]發現了一家不錯的咖啡廳，想進去買些咖啡時，老闆雖然認出了她是人形，但平等地接待了她，還送給她一些物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 76, "content": "[gun1]在雪地裡發現了破壞者堆好的雪人，並從雪人上得到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 77, "content": "[gun1]在雪地裡發現了破壞者堆好的雪人，並從雪人上得到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 78, "content": "[gun1]在雪地裡發現了破壞者堆好的雪人，並從雪人上得到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 79, "content": "[gun1]認得這半張臉，至少她不是唯一一個認出來的人，再怎麼說這可曾都是世界上最出名的面孔之一，這也導致了她今天只剩半張臉在這兒。", "background": "", 
+    "script_type": "5-1"
+  }, {
+    "id": 80, "content": "[gun1]揉了揉眼，不知道是不是錯覺，但這個藍色的電話亭十分眼熟，就好像它不停出現在每個地方，但察看了以後並沒有發現任何異狀。", "background": "", 
+    "script_type": "5-2"
+  }, {
+    "id": 81, "content": "[gun1]在一處加油站旁邊找到了一個發紅的陳舊火箭，加油站裡還有個餐廳，她猜以前人類的太空人就是在這裡用餐、加油、然後繼續他們短暫的太空旅行。", "background": "", 
+    "script_type": "5-4"
+  }, {
+    "id": 82, "content": "如果某個警官沒有睡過頭，那麼他可能就能搭著這輛警車去阻止世界末日的爆發，[gun1]看著這輛車子的殘骸思考道。", "background": "", "script_type": "5-5"
+  }, {
+    "id": 83, "content": "[gun1]嘗試連接地上那個奇怪的終端機接口但失敗了，如果連接成功了，會不會遇到新的人工智能，它會說出失落的科研基地在哪裡嗎？", "background": "", 
+    "script_type": "5-8"
+  }, {
+    "id": 84, "content": "[gun1]發現這裡是一處巨大的地下鐵車站的入口，若不是已經坍塌，裡面的空間或許能支撐好幾代人度過世界末日。", "background": "", "script_type": "5-7"
+  }, {
+    "id": 85, "content": "[gun1]意外在土裡找到了一個半埋住的方塊，即使它不用開口也不用是活物就能成為人類的好朋友，但人類依然還是會選擇把它安樂死，可能這就是人類吧。", "background": "", 
+    "script_type": "5-9"
+  }, {
+    "id": 86, "content": "[gun1]遇見了奇怪的雕塑，有鑒於它奇怪的形狀，她們決定跟這東西合影，並親切地稱呼它「金色飛機頭」。", "background": "", "script_type": "5-3"
+  }, {
+    "id": 87, "content": "[gun1]看著放在最外面的這個金色的雕塑，認為這團火焰的意象代表著當時人類對於繁榮的渴望。然而這種解讀被其他人嘲笑了。", "background": "", 
+    "script_type": "5-3"
+  }, {
+    "id": 88, "content": "[gun1]在草叢裡發現了一個奇怪的老舊載具殘骸，其設計理念相當超前，以致於大家寧願不相信這東西誕生在半個世紀前。", "background": "", "script_type": "5-6"
+  }, 
+  {"id": 89, "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，只留下了物資。", "background": "", "script_type": "2"}, 
+  {"id": 90, "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，只留下了物資。", "background": "", "script_type": "2"}, 
+  {"id": 91, "content": "[pet1]來到[gun1]的身邊，但被槍嚇到逃跑了，只留下了物資。", "background": "", "script_type": "2"}, 
+  {"id": 92, "content": "[gun1]渡河時摔進了河裡，卻也因此在水底下發現了物資。", "background": "", "script_type": "2"}, 
+  {"id": 93, "content": "[gun1]渡河時摔進了河裡，卻也因此在水底下發現了物資。", "background": "", "script_type": "2"}, 
+  {"id": 94, "content": "[gun1]渡河時摔進了河裡，卻也因此在水底下發現了物資。", "background": "", "script_type": "2"}, 
+  {
+    "id": 95, "content": "[gun1]在河邊上發現水下疑似藏有什麼東西，潛下去之後找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 96, "content": "[gun1]在河邊上發現水下疑似藏有什麼東西，潛下去之後找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 97, "content": "[gun1]在河邊上發現水下疑似藏有什麼東西，潛下去之後找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 98, "content": "[gun1]在路上遇到了強盜，在解除對方武裝時，在他們的行囊裡發現了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 99, "content": "[gun1]在路上遇到了強盜，在解除對方武裝時，在他們的行囊裡發現了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 100, "content": "[gun1]在路上遇到了強盜，在解除對方武裝時，在他們的行囊裡發現了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 101, "content": "[gun1]將自己多攜帶的食物分給了需要幫助的人們，在接受感激之餘，一位難民將自己珍藏的物資贈送給了她。", "background": "", "script_type": "2"
+  }, {
+    "id": 102, "content": "[gun1]將自己多攜帶的食物分給了需要幫助的人們，在接受感激之餘，一位難民將自己珍藏的物資贈送給了她。", "background": "", "script_type": "2"
+  }, {
+    "id": 103, "content": "[gun1]將自己多攜帶的食物分給了需要幫助的人們，在接受感激之餘，一位難民將自己珍藏的物資贈送給了她。", "background": "", "script_type": "2"
+  }, {
+    "id": 104, "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉，一個老人說不遠處的樹下埋著對她有幫助的東西，刨開土後大家找到了物資。", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 105, "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉，一個老人說不遠處的樹下埋著對她有幫助的東西，刨開土後大家找到了物資。", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 106, "content": "儘管無法提供實質上的幫助，[gun1]的話語還是為惶恐的人們提供了心靈上的慰藉，一個老人說不遠處的樹下埋著對她有幫助的東西，刨開土後大家找到了物資。", "background": "", 
+    "script_type": "2"
+  }, {
+    "id": 107, "content": "在搜索一處廢棄的木屋時，[gun1]發現了暗藏的地下室，並在裡面找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 108, "content": "在搜索一處廢棄的木屋時，[gun1]發現了暗藏的地下室，並在裡面找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 109, "content": "在搜索一處廢棄的木屋時，[gun1]發現了暗藏的地下室，並在裡面找到了物資。", "background": "", "script_type": "2"
+  }, {
+    "id": 110, "content": "人形們與一批敵人正面遭遇。\n判斷敵人實力很弱，大家決定當場開戰。\n敵人果然被迅速擊敗，小隊成員士氣高漲，開開心心地繼續前進。", "background": "", 
+    "script_type": "6-12"
+  }, {
+    "id": 111, "content": "人形們偵查到前方出現大批強敵。\n出於保存實力的考慮，大家決定避免正面衝突。\n敵人趾高氣揚地在前面漫步，小隊成員小心地隱蔽起來，等敵人離開之後再繼續前進。", "background": "", 
+    "script_type": "6-13"
+  }, {
+    "id": 112, "content": "人形們正面遭遇了一批強敵。\n由於敵我實力懸殊，大家決定撤退。\n敵人不依不饒緊追不捨，小隊成員邁開矯健的步迅速拉開距離，成功回避了一場苦戰。", "background": "", 
+    "script_type": "6-14"
+  }, {
+    "id": 113, "content": "人形們正面遭遇了率領著強力小隊的BOSS。\n由於受到BOSS的挑釁，大家憤而開戰。\nBOSS的隨從們血量當場蒸發，嚇得BOSS倉皇逃竄，小隊成員心情愉悅地繼續前進。", 
+    "background": "", "script_type": "6-15"
+  }
 ]

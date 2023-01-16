@@ -1,371 +1,125 @@
 [
-    {
-        "id": 101,
-        "fetter_id": 1,
-        "actor": "g:9",
-        "milestone": 0,
-        "reward": 22006,
-        "name": "樸素的魔女",
-        "description": "「珍珠蒙塵，亦是珍珠。」"
-    },
-    {
-        "id": 102,
-        "fetter_id": 1,
-        "actor": "g:9;g:167",
-        "milestone": 1,
-        "reward": 22003,
-        "name": "追擊的幽靈",
-        "description": "「幽靈也不是都躲在陰影中。」"
-    },
-    {
-        "id": 103,
-        "fetter_id": 1,
-        "actor": "g:9;g:167;g:92",
-        "milestone": 1,
-        "reward": 22001,
-        "name": "定型的方案",
-        "description": "「有計劃地前進，至少你會知道失敗的理由。」"
-    },
-    {
-        "id": 104,
-        "fetter_id": 1,
-        "actor": "",
-        "milestone": 2,
-        "reward": 22002,
-        "name": "美味的雜音",
-        "description": "「要想人不知……」"
-    },
-    {
-        "id": 105,
-        "fetter_id": 1,
-        "actor": "g:167;g:92;g:7",
-        "milestone": 2,
-        "reward": 22004,
-        "name": "失敗的啟程",
-        "description": "「人生是由成功與失敗和失敗組成的。」"
-    },
-    {
-        "id": 106,
-        "fetter_id": 1,
-        "actor": "g:9;g:167;g:92;g:7",
-        "milestone": 2,
-        "reward": 22006,
-        "name": "有價的援手",
-        "description": "「可以，都可以，只要你給錢。」"
-    },
-    {
-        "id": 107,
-        "fetter_id": 1,
-        "actor": "g:9;g:167;g:92;g:7",
-        "milestone": 3,
-        "reward": 22022,
-        "name": "振翅的幼鳥",
-        "description": "「努力是為了儘量不要留下遺憾。」"
-    },
-    {
-        "id": 108,
-        "fetter_id": 1,
-        "actor": "g:9;g:167;g:92;g:272",
-        "milestone": 3,
-        "reward": 22023,
-        "name": "無價的真心",
-        "description": "「在記憶這方面，人形 與人是一樣的。」"
-    },
-    {
-        "id": 109,
-        "fetter_id": 1,
-        "actor": "g:9;g:167;g:92;g:272",
-        "milestone": 4,
-        "reward": 22024,
-        "name": "魔女的夜晚",
-        "description": "「聽吧，這流淌在夜空中的樂聲……」"
-    },
-    {
-        "id": 110,
-        "fetter_id": 1,
-        "actor": "g:9;g:167;g:92;g:7;g:272",
-        "milestone": 5,
-        "reward": 22005,
-        "name": "耀眼的前程",
-        "description": "「就當做是學費吧──這話我可是提前說過的哦。」"
-    },
-    {
-        "id": 111,
-        "fetter_id": 1,
-        "actor": "g:9;g:167",
-        "milestone": 6,
-        "reward": 22041,
-        "name": "夢想的間奏",
-        "description": "美好的事物需要形容，為它取個名字吧。"
-    },
-    {
-        "id": 201,
-        "fetter_id": 2,
-        "actor": "g:36;g:50",
-        "milestone": 1,
-        "reward": 22001,
-        "name": "莊家",
-        "description": "「當李·恩菲爾德結束了一天的任務，回到令她安心的地方時，卻發生了預料之外的事……」"
-    },
-    {
-        "id": 202,
-        "fetter_id": 2,
-        "actor": "g:36;g:50;g:48",
-        "milestone": 1,
-        "reward": 22004,
-        "name": "玩家",
-        "description": "「李·恩菲爾德從未想過自己會加入這樣的團體，尤其是這團體裡還有比自己更格格不入的人……」"
-    },
-    {
-        "id": 203,
-        "fetter_id": 2,
-        "actor": "g:36;g:50;g:48",
-        "milestone": 2,
-        "reward": 22005,
-        "name": "下注",
-        "description": "「任何事都是實際做起來要比聽上去更難……李清楚這個道理，但她不想輸。」"
-    },
-    {
-        "id": 204,
-        "fetter_id": 2,
-        "actor": "g:36;g:50;g:48",
-        "milestone": 2,
-        "reward": 22006,
-        "name": "叫牌",
-        "description": "「這世界真是非常奇妙，尤其是當你以為你比別人技高一籌的時候。」"
-    },
-    {
-        "id": 205,
-        "fetter_id": 2,
-        "actor": "g:36;g:50;g:48",
-        "milestone": 3,
-        "reward": 22022,
-        "name": "賠率",
-        "description": "「坦然地接受失敗，並且吸取教訓，為下一次的成功做準備──任何人都說得出這樣漂亮的話，但失敗的人肯定不是她。」"
-    },
-    {
-        "id": 206,
-        "fetter_id": 2,
-        "actor": "g:36;g:50;g:48;g:46;g:39",
-        "milestone": 3,
-        "reward": 22005,
-        "name": "分牌",
-        "description": "「演員就位，帷幕拉開。」"
-    },
-    {
-        "id": 207,
-        "fetter_id": 2,
-        "actor": "g:36;g:50;g:48;g:46;g:39",
-        "milestone": 3,
-        "reward": 22006,
-        "name": "幸運女神",
-        "description": "「這世界上沒什麼是不可戰勝的，正因相信這一點，我才能贏到現在。」"
-    },
-    {
-        "id": 208,
-        "fetter_id": 2,
-        "actor": "g:36;g:50;g:48;g:46;g:39",
-        "milestone": 4,
-        "reward": 22003,
-        "name": "盲注",
-        "description": "「獅子搏兔，狡兔三窟。」"
-    },
-    {
-        "id": 209,
-        "fetter_id": 2,
-        "actor": "g:36;g:50;g:48;g:46;g:39",
-        "milestone": 4,
-        "reward": 22042,
-        "name": "1v1",
-        "description": "「當你凝視深淵的時候，深淵也在凝視你。」"
-    },
-    {
-        "id": 210,
-        "fetter_id": 2,
-        "actor": "g:36;g:50",
-        "milestone": 5,
-        "reward": 22047,
-        "name": "封牌",
-        "description": "「生活並不是故事，又或是，在名為生活的故事裡，人人都是主人公。」"
-    },
-    {
-        "id": 301,
-        "fetter_id": 3,
-        "actor": "g:96;g:297;g:155",
-        "milestone": 1,
-        "reward": 22025,
-        "name": "獵戶座",
-        "description": "「當你的朋友一反常態的時候，你最好做好心理準備……」"
-    },
-    {
-        "id": 302,
-        "fetter_id": 3,
-        "actor": "g:96;g:297;g:155",
-        "milestone": 1,
-        "reward": 22003,
-        "name": "鏡面反射",
-        "description": "「我當然知道自然而然是最好的辦法，但誰又敢說保持自然就一定簡單？」"
-    },
-    {
-        "id": 303,
-        "fetter_id": 3,
-        "actor": "g:96;g:297;g:155",
-        "milestone": 1,
-        "reward": 22004,
-        "name": "漫遊指南",
-        "description": "「如果我有一本人生指南書，我一定用它來決定我每天的晚飯。」"
-    },
-    {
-        "id": 304,
-        "fetter_id": 3,
-        "actor": "g:96;g:180;g:297;g:306;g:155",
-        "milestone": 2,
-        "reward": 22006,
-        "name": "萬有引力",
-        "description": "「有些吸引力，是命中註定的。」"
-    },
-    {
-        "id": 305,
-        "fetter_id": 3,
-        "actor": "g:96;g:180;g:297;g:306;g:155",
-        "milestone": 2,
-        "reward": 22005,
-        "name": "占星術",
-        "description": "「如果這世界上每一件事都有意義，我一定會發瘋的。」"
-    },
-    {
-        "id": 306,
-        "fetter_id": 3,
-        "actor": "g:96;g:180;g:297;g:306;g:155",
-        "milestone": 3,
-        "reward": 22001,
-        "name": "星象儀",
-        "description": "「飛向宇宙,浩瀚無垠」"
-    },
-    {
-        "id": 307,
-        "fetter_id": 3,
-        "actor": "g:96;g:180;g:297;g:306;g:155",
-        "milestone": 3,
-        "reward": 22003,
-        "name": "銀河",
-        "description": "「學會敬畏你所不瞭解的事物。」"
-    },
-    {
-        "id": 308,
-        "fetter_id": 3,
-        "actor": "g:96;g:180;g:297;g:306;g:155",
-        "milestone": 4,
-        "reward": 22002,
-        "name": "啟明星",
-        "description": "「決定自己的選擇，決定自己的命運。」"
-    },
-    {
-        "id": 309,
-        "fetter_id": 3,
-        "actor": "g:96;g:180;g:297;g:306;g:155",
-        "milestone": 4,
-        "reward": 22022,
-        "name": "麗達兄弟",
-        "description": "「永遠不要在失去之後，才懂得珍惜無價的寶物。」"
-    },
-    {
-        "id": 310,
-        "fetter_id": 3,
-        "actor": "g:96;g:180;g:297;g:306;g:155",
-        "milestone": 5,
-        "reward": 22042,
-        "name": "星空的記憶",
-        "description": "「有形體的東西終將腐朽，無形體的意志卻會永存。」"
-    },
-    {
-        "id": 401,
-        "fetter_id": 4,
-        "actor": "g:64;g:36",
-        "milestone": 1,
-        "reward": 22006,
-        "name": "迷迭香",
-        "description": "「那兩個人是格里芬後勤部的驕傲，貪心的人會想，如果她們合而為一會不會更強。」"
-    },
-    {
-        "id": 402,
-        "fetter_id": 4,
-        "actor": "g:64;g:36",
-        "milestone": 1,
-        "reward": 22003,
-        "name": "黑胡椒",
-        "description": "「只有突發事件能夠打破日常，並且帶來一些從未有過的變化。」"
-    },
-    {
-        "id": 403,
-        "fetter_id": 4,
-        "actor": "g:64;g:36;g:216",
-        "milestone": 2,
-        "reward": 22005,
-        "name": "莓果漿",
-        "description": "「一點火星就可以點燃一片草原，需要的只是一陣方向正確的風。」"
-    },
-    {
-        "id": 404,
-        "fetter_id": 4,
-        "actor": "g:64;g:36;g:216",
-        "milestone": 2,
-        "reward": 22024,
-        "name": "鹽與糖",
-        "description": "「有些事情的發展往往不如所想，美味的調料如果混在一起，味道反而會變得奇怪。」"
-    },
-    {
-        "id": 405,
-        "fetter_id": 4,
-        "actor": "g:36;g:104",
-        "milestone": 3,
-        "reward": 22003,
-        "name": "熱牛奶",
-        "description": "「春田總是善解人意的。」"
-    },
-    {
-        "id": 406,
-        "fetter_id": 4,
-        "actor": "g:64;g:216",
-        "milestone": 3,
-        "reward": 22002,
-        "name": "冰咖啡",
-        "description": "「G36總是一絲不苟的。」"
-    },
-    {
-        "id": 407,
-        "fetter_id": 4,
-        "actor": "g:36;g:104",
-        "milestone": 3,
-        "reward": 22022,
-        "name": "蛋白質過量",
-        "description": "「有時，太善解人意了。」"
-    },
-    {
-        "id": 408,
-        "fetter_id": 4,
-        "actor": "g:64;g:216",
-        "milestone": 4,
-        "reward": 22023,
-        "name": "咖啡因上癮",
-        "description": "「有時，太一絲不苟了。」"
-    },
-    {
-        "id": 409,
-        "fetter_id": 4,
-        "actor": "g:64;g:36",
-        "milestone": 4,
-        "reward": 22026,
-        "name": "調味",
-        "description": "「你嘗試過在西瓜上撒鹽嗎？」"
-    },
-    {
-        "id": 410,
-        "fetter_id": 4,
-        "actor": "g:64;g:36;g:104;g:216",
-        "milestone": 5,
-        "reward": 22042,
-        "name": "鹽西瓜",
-        "description": "「那是雙倍的可口。」"
-    }
+  {
+    "id": 101, "fetter_id": 1, "actor": "g:9", "milestone": 0, "reward": 22006, "name": "樸素的魔女", 
+    "description": "「珍珠蒙塵，亦是珍珠。」"
+  }, {
+    "id": 102, "fetter_id": 1, "actor": "g:9;g:167", "milestone": 1, "reward": 22003, "name": "追擊的幽靈", 
+    "description": "「幽靈也不是都躲在陰影中。」"
+  }, {
+    "id": 103, "fetter_id": 1, "actor": "g:9;g:167;g:92", "milestone": 1, "reward": 22001, "name": "定型的方案", 
+    "description": "「有計劃地前進，至少你會知道失敗的理由。」"
+  }, {
+    "id": 104, "fetter_id": 1, "actor": "", "milestone": 2, "reward": 22002, "name": "美味的雜音", "description": "「要想人不知……」"
+  }, {
+    "id": 105, "fetter_id": 1, "actor": "g:167;g:92;g:7", "milestone": 2, "reward": 22004, "name": "失敗的啟程", 
+    "description": "「人生是由成功與失敗和失敗組成的。」"
+  }, {
+    "id": 106, "fetter_id": 1, "actor": "g:9;g:167;g:92;g:7", "milestone": 2, "reward": 22006, "name": "有價的援手", 
+    "description": "「可以，都可以，只要你給錢。」"
+  }, {
+    "id": 107, "fetter_id": 1, "actor": "g:9;g:167;g:92;g:7", "milestone": 3, "reward": 22022, "name": "振翅的幼鳥", 
+    "description": "「努力是為了儘量不要留下遺憾。」"
+  }, {
+    "id": 108, "fetter_id": 1, "actor": "g:9;g:167;g:92;g:272", "milestone": 3, "reward": 22023, "name": "無價的真心", 
+    "description": "「在記憶這方面，人形 與人是一樣的。」"
+  }, {
+    "id": 109, "fetter_id": 1, "actor": "g:9;g:167;g:92;g:272", "milestone": 4, "reward": 22024, "name": "魔女的夜晚", 
+    "description": "「聽吧，這流淌在夜空中的樂聲……」"
+  }, {
+    "id": 110, "fetter_id": 1, "actor": "g:9;g:167;g:92;g:7;g:272", "milestone": 5, "reward": 22005, "name": "耀眼的前程", 
+    "description": "「就當做是學費吧──這話我可是提前說過的哦。」"
+  }, {
+    "id": 111, "fetter_id": 1, "actor": "g:9;g:167", "milestone": 6, "reward": 22041, "name": "夢想的間奏", 
+    "description": "美好的事物需要形容，為它取個名字吧。"
+  }, {
+    "id": 201, "fetter_id": 2, "actor": "g:36;g:50", "milestone": 1, "reward": 22001, "name": "莊家", 
+    "description": "「當李·恩菲爾德結束了一天的任務，回到令她安心的地方時，卻發生了預料之外的事……」"
+  }, {
+    "id": 202, "fetter_id": 2, "actor": "g:36;g:50;g:48", "milestone": 1, "reward": 22004, "name": "玩家", 
+    "description": "「李·恩菲爾德從未想過自己會加入這樣的團體，尤其是這團體裡還有比自己更格格不入的人……」"
+  }, {
+    "id": 203, "fetter_id": 2, "actor": "g:36;g:50;g:48", "milestone": 2, "reward": 22005, "name": "下注", 
+    "description": "「任何事都是實際做起來要比聽上去更難……李清楚這個道理，但她不想輸。」"
+  }, {
+    "id": 204, "fetter_id": 2, "actor": "g:36;g:50;g:48", "milestone": 2, "reward": 22006, "name": "叫牌", 
+    "description": "「這世界真是非常奇妙，尤其是當你以為你比別人技高一籌的時候。」"
+  }, {
+    "id": 205, "fetter_id": 2, "actor": "g:36;g:50;g:48", "milestone": 3, "reward": 22022, "name": "賠率", 
+    "description": "「坦然地接受失敗，並且吸取教訓，為下一次的成功做準備──任何人都說得出這樣漂亮的話，但失敗的人肯定不是她。」"
+  }, {
+    "id": 206, "fetter_id": 2, "actor": "g:36;g:50;g:48;g:46;g:39", "milestone": 3, "reward": 22005, "name": "分牌", 
+    "description": "「演員就位，帷幕拉開。」"
+  }, {
+    "id": 207, "fetter_id": 2, "actor": "g:36;g:50;g:48;g:46;g:39", "milestone": 3, "reward": 22006, "name": "幸運女神", 
+    "description": "「這世界上沒什麼是不可戰勝的，正因相信這一點，我才能贏到現在。」"
+  }, {
+    "id": 208, "fetter_id": 2, "actor": "g:36;g:50;g:48;g:46;g:39", "milestone": 4, "reward": 22003, "name": "盲注", 
+    "description": "「獅子搏兔，狡兔三窟。」"
+  }, {
+    "id": 209, "fetter_id": 2, "actor": "g:36;g:50;g:48;g:46;g:39", "milestone": 4, "reward": 22042, "name": "1v1", 
+    "description": "「當你凝視深淵的時候，深淵也在凝視你。」"
+  }, {
+    "id": 210, "fetter_id": 2, "actor": "g:36;g:50", "milestone": 5, "reward": 22047, "name": "封牌", 
+    "description": "「生活並不是故事，又或是，在名為生活的故事裡，人人都是主人公。」"
+  }, {
+    "id": 301, "fetter_id": 3, "actor": "g:96;g:297;g:155", "milestone": 1, "reward": 22025, "name": "獵戶座", 
+    "description": "「當你的朋友一反常態的時候，你最好做好心理準備……」"
+  }, {
+    "id": 302, "fetter_id": 3, "actor": "g:96;g:297;g:155", "milestone": 1, "reward": 22003, "name": "鏡面反射", 
+    "description": "「我當然知道自然而然是最好的辦法，但誰又敢說保持自然就一定簡單？」"
+  }, {
+    "id": 303, "fetter_id": 3, "actor": "g:96;g:297;g:155", "milestone": 1, "reward": 22004, "name": "漫遊指南", 
+    "description": "「如果我有一本人生指南書，我一定用它來決定我每天的晚飯。」"
+  }, {
+    "id": 304, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 2, "reward": 22006, "name": "萬有引力", 
+    "description": "「有些吸引力，是命中註定的。」"
+  }, {
+    "id": 305, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 2, "reward": 22005, "name": "占星術", 
+    "description": "「如果這世界上每一件事都有意義，我一定會發瘋的。」"
+  }, {
+    "id": 306, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 3, "reward": 22001, "name": "星象儀", 
+    "description": "「飛向宇宙,浩瀚無垠」"
+  }, {
+    "id": 307, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 3, "reward": 22003, "name": "銀河", 
+    "description": "「學會敬畏你所不瞭解的事物。」"
+  }, {
+    "id": 308, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 4, "reward": 22002, "name": "啟明星", 
+    "description": "「決定自己的選擇，決定自己的命運。」"
+  }, {
+    "id": 309, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 4, "reward": 22022, "name": "麗達兄弟", 
+    "description": "「永遠不要在失去之後，才懂得珍惜無價的寶物。」"
+  }, {
+    "id": 310, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 5, "reward": 22042, "name": "星空的記憶", 
+    "description": "「有形體的東西終將腐朽，無形體的意志卻會永存。」"
+  }, {
+    "id": 401, "fetter_id": 4, "actor": "g:64;g:36", "milestone": 1, "reward": 22006, "name": "迷迭香", 
+    "description": "「那兩個人是格里芬後勤部的驕傲，貪心的人會想，如果她們合而為一會不會更強。」"
+  }, {
+    "id": 402, "fetter_id": 4, "actor": "g:64;g:36", "milestone": 1, "reward": 22003, "name": "黑胡椒", 
+    "description": "「只有突發事件能夠打破日常，並且帶來一些從未有過的變化。」"
+  }, {
+    "id": 403, "fetter_id": 4, "actor": "g:64;g:36;g:216", "milestone": 2, "reward": 22005, "name": "莓果漿", 
+    "description": "「一點火星就可以點燃一片草原，需要的只是一陣方向正確的風。」"
+  }, {
+    "id": 404, "fetter_id": 4, "actor": "g:64;g:36;g:216", "milestone": 2, "reward": 22024, "name": "鹽與糖", 
+    "description": "「有些事情的發展往往不如所想，美味的調料如果混在一起，味道反而會變得奇怪。」"
+  }, {
+    "id": 405, "fetter_id": 4, "actor": "g:36;g:104", "milestone": 3, "reward": 22003, "name": "熱牛奶", 
+    "description": "「春田總是善解人意的。」"
+  }, {
+    "id": 406, "fetter_id": 4, "actor": "g:64;g:216", "milestone": 3, "reward": 22002, "name": "冰咖啡", 
+    "description": "「G36總是一絲不苟的。」"
+  }, {
+    "id": 407, "fetter_id": 4, "actor": "g:36;g:104", "milestone": 3, "reward": 22022, "name": "蛋白質過量", 
+    "description": "「有時，太善解人意了。」"
+  }, {
+    "id": 408, "fetter_id": 4, "actor": "g:64;g:216", "milestone": 4, "reward": 22023, "name": "咖啡因上癮", 
+    "description": "「有時，太一絲不苟了。」"
+  }, {
+    "id": 409, "fetter_id": 4, "actor": "g:64;g:36", "milestone": 4, "reward": 22026, "name": "調味", 
+    "description": "「你嘗試過在西瓜上撒鹽嗎？」"
+  }, {
+    "id": 410, "fetter_id": 4, "actor": "g:64;g:36;g:104;g:216", "milestone": 5, "reward": 22042, "name": "鹽西瓜", 
+    "description": "「那是雙倍的可口。」"
+  }
 ]
