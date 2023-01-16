@@ -9,7 +9,8 @@
     "id": 103, "fetter_id": 1, "actor": "g:9;g:167;g:92", "milestone": 1, "reward": 22001, "name": "定型的方案", 
     "description": "「有計劃地前進，至少你會知道失敗的理由。」"
   }, {
-    "id": 104, "fetter_id": 1, "actor": "", "milestone": 2, "reward": 22002, "name": "美味的雜音", "description": "「要想人不知……」"
+    "id": 104, "fetter_id": 1, "actor": "", "milestone": 2, "reward": 22002, "name": "美味的雜音", 
+    "description": "「要想人不知……」"
   }, {
     "id": 105, "fetter_id": 1, "actor": "g:167;g:92;g:7", "milestone": 2, "reward": 22004, "name": "失敗的啟程", 
     "description": "「人生是由成功與失敗和失敗組成的。」"
@@ -89,8 +90,8 @@
     "id": 309, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 4, "reward": 22022, "name": "麗達兄弟", 
     "description": "「永遠不要在失去之後，才懂得珍惜無價的寶物。」"
   }, {
-    "id": 310, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 5, "reward": 22042, "name": "星空的記憶", 
-    "description": "「有形體的東西終將腐朽，無形體的意志卻會永存。」"
+    "id": 310, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 5, "reward": 22042, 
+    "name": "星空的記憶", "description": "「有形體的東西終將腐朽，無形體的意志卻會永存。」"
   }, {
     "id": 401, "fetter_id": 4, "actor": "g:64;g:36", "milestone": 1, "reward": 22006, "name": "迷迭香", 
     "description": "「那兩個人是格里芬後勤部的驕傲，貪心的人會想，如果她們合而為一會不會更強。」"

@@ -35,12 +35,12 @@
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 6, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 8, "name": "增援buff", "description": "增援後增加一場戰鬥提升迴避", "code": "buff", "type": 1, "duration_type": "1", 
-    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 900116, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 8, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 8, "name": "增援buff", "description": "增援後增加一場戰鬥提升迴避", "code": "buff", "type": 1, 
+    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 900116, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 8, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 13, "name": "經驗buff", "description": "增加經驗獲得", "code": "buff", "type": 1, "duration_type": "2", 
     "duration_time": "1", "limit_buff": "0", "exp_buff": "*0", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
@@ -56,8 +56,8 @@
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 14, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 15, "name": "夜戰buff", "description": "增加視野", "code": "buff", "type": 1, "duration_type": "1", "duration_time": "2", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "*0", "cannot_move": "", 
+    "id": 15, "name": "夜戰buff", "description": "增加視野", "code": "buff", "type": 1, "duration_type": "1", 
+    "duration_time": "2", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "*0", "cannot_move": "", 
     "battle_skill_config_id": 900114, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
@@ -225,22 +225,22 @@
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 1700, "priority": -1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 1701, "name": "二連擊", "description": "二連擊", "code": "combo", "type": 1, "duration_type": "1", "duration_time": "1", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
+    "id": 1701, "name": "二連擊", "description": "二連擊", "code": "combo", "type": 1, "duration_type": "1", 
+    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
     "battle_skill_config_id": 900173, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 1702, 
     "conditions_type": "2", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 1701, "priority": -1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 1702, "name": "多連擊", "description": "多連擊", "code": "combo", "type": 1, "duration_type": "1", "duration_time": "1", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
+    "id": 1702, "name": "多連擊", "description": "多連擊", "code": "combo", "type": 1, "duration_type": "1", 
+    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
     "battle_skill_config_id": 900174, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 1702, "priority": -1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 1801, "name": "桃子", "description": "你在想桃子", "code": "buff", "type": 1, "duration_type": "4", "duration_time": "1", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
+    "id": 1801, "name": "桃子", "description": "你在想桃子", "code": "buff", "type": 1, "duration_type": "4", 
+    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
     "battle_skill_config_id": 115501, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
@@ -276,15 +276,15 @@
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 2100, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 2300, "name": "火箭", "description": "火箭", "code": "SpeedUp", "type": 1, "duration_type": "4", "duration_time": "1", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
+    "id": 2300, "name": "火箭", "description": "火箭", "code": "SpeedUp", "type": 1, "duration_type": "4", 
+    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
     "battle_skill_config_id": 757059, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 2300, "priority": -1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 10001, "name": "攜帶歌利亞", "description": "攜帶歌利亞", "code": "", "type": 1, "duration_type": "1", "duration_time": "99", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
+    "id": 10001, "name": "攜帶歌利亞", "description": "攜帶歌利亞", "code": "", "type": 1, "duration_type": "1", 
+    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
     "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
@@ -306,12 +306,13 @@
     "extra_ammo_mre": "", "conflict_type": 10101, "priority": -1, "carry_mission_skill": "10102", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 20101, "name": "單獨行動C", "description": "mission_buff_config-20020101", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 20102, 
-    "conditions_type": "1", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 20101, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 20101, "name": "單獨行動C", "description": "mission_buff_config-20020101", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 20102, "conditions_type": "1", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 20101, "priority": 1, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 20102, "name": "單獨行動C", "description": "mission_buff_config-20020102", "code": "SpeedUp", "type": 1, 
     "duration_type": "5", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
@@ -321,12 +322,13 @@
     "extra_ammo_mre": "", "conflict_type": 20102, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 20201, "name": "單獨行動B", "description": "mission_buff_config-20020201", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 20202, 
-    "conditions_type": "1", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 20201, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 20201, "name": "單獨行動B", "description": "mission_buff_config-20020201", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 20202, "conditions_type": "1", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 20201, "priority": 1, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 20202, "name": "單獨行動B", "description": "mission_buff_config-20020202", "code": "SpeedUp", "type": 1, 
     "duration_type": "5", "duration_time": "2", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
@@ -336,12 +338,13 @@
     "extra_ammo_mre": "", "conflict_type": 20202, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 20301, "name": "單獨行動A", "description": "mission_buff_config-20020301", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 20302, 
-    "conditions_type": "1", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 20301, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 20301, "name": "單獨行動A", "description": "mission_buff_config-20020301", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 20302, "conditions_type": "1", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 20301, "priority": 1, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 20302, "name": "單獨行動A", "description": "mission_buff_config-20020302", "code": "SpeedUp", "type": 1, 
     "duration_type": "5", "duration_time": "3", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
@@ -372,9 +375,9 @@
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 20403, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 3
   }, {
-    "id": 50000, "name": "額外彈藥口糧測試", "description": "額外攜帶彈藥口糧", "code": "ExtraAmmo", "type": 1, "duration_type": "1", 
-    "duration_time": "1000", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", 
-    "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "id": 50000, "name": "額外彈藥口糧測試", "description": "額外攜帶彈藥口糧", "code": "ExtraAmmo", "type": 1, 
+    "duration_type": "1", "duration_time": "1000", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "2,2", "conflict_type": 50000, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
@@ -410,8 +413,8 @@
     "extra_ammo_mre": "", "conflict_type": 50004, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 50005, "name": "炮灰", "description": "炮灰", "code": "SpeedUp", "type": 1, "duration_type": "4", "duration_time": "1", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
+    "id": 50005, "name": "炮灰", "description": "炮灰", "code": "SpeedUp", "type": 1, "duration_type": "4", 
+    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
     "battle_skill_config_id": 900641, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
@@ -441,8 +444,8 @@
     "extra_ammo_mre": "", "conflict_type": 50008, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 363001, "name": "攜帶炸藥", "description": "攜帶炸藥", "code": "", "type": 1, "duration_type": "1", "duration_time": "99", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
+    "id": 363001, "name": "攜帶炸藥", "description": "攜帶炸藥", "code": "", "type": 1, "duration_type": "1", 
+    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
     "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
@@ -681,8 +684,8 @@
     "extra_ammo_mre": "", "conflict_type": 381903, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 410301, "name": "靠近檢測", "description": "靠近檢測", "code": "", "type": 1, "duration_type": "1", "duration_time": "99", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
+    "id": 410301, "name": "靠近檢測", "description": "靠近檢測", "code": "", "type": 1, "duration_type": "1", 
+    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
     "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 410301, 
     "conditions_type": "1", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
@@ -807,42 +810,45 @@
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 480000, "priority": 1, "carry_mission_skill": "480112", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 480102, "name": "【標記】攜帶EMP手榴彈", "description": "【標記】攜帶EMP手榴彈", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "CarryEMPIcon#1E90FF", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 480102, "priority": 1, "carry_mission_skill": "480122", "sangvis_chip_id": "", 
+    "id": 480102, "name": "【標記】攜帶EMP手榴彈", "description": "【標記】攜帶EMP手榴彈", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "CarryEMPIcon#1E90FF", "ammo_mre_reduce": "", 
+    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 480102, "priority": 1, "carry_mission_skill": "480122", 
+    "sangvis_chip_id": "", "ext_move": 0
+  }, {
+    "id": 481400, "name": "【標記】攜帶大量炸藥", "description": "【標記】攜帶大量炸藥", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", 
+    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 481400, "priority": 1, "carry_mission_skill": "", 
+    "sangvis_chip_id": "", "ext_move": 0
+  }, {
+    "id": 482000, "name": "【標記】運輸隊定身", "description": "【標記】運輸隊定身", "code": "Theresa_Back", "type": 2, 
+    "duration_type": "1", "duration_time": "3", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "1", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 482000, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 481400, "name": "【標記】攜帶大量炸藥", "description": "【標記】攜帶大量炸藥", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 481400, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "id": 482001, "name": "【標記】帕斯卡鬼步", "description": "【標記】帕斯卡鬼步", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 482004, "conditions_type": "1", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 482001, "priority": 1, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+  }, {
+    "id": 482002, "name": "【標記】帕斯卡鬼步生效", "description": "【標記】帕斯卡鬼步", "code": "SpeedUp", "type": 1, 
+    "duration_type": "5", "duration_time": "3", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 1, 
+    "extra_ammo_mre": "", "conflict_type": 482002, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
-  }, {
-    "id": 482000, "name": "【標記】運輸隊定身", "description": "【標記】運輸隊定身", "code": "Theresa_Back", "type": 2, "duration_type": "1", 
-    "duration_time": "3", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "1", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 482000, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 482001, "name": "【標記】帕斯卡鬼步", "description": "【標記】帕斯卡鬼步", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 482004, 
-    "conditions_type": "1", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 482001, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 482002, "name": "【標記】帕斯卡鬼步生效", "description": "【標記】帕斯卡鬼步", "code": "SpeedUp", "type": 1, "duration_type": "5", 
-    "duration_time": "3", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 1, "extra_ammo_mre": "", 
-    "conflict_type": 482002, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 482101, "name": "【標記】夜視buff", "description": "【標記】", "code": "", "type": 1, "duration_type": "1", 
     "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "1", "cannot_move": "", 
@@ -858,67 +864,69 @@
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 482300, "priority": 1, "carry_mission_skill": "482300", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 482301, "name": "【標記】帕斯卡技能CD", "description": "【標記】帕斯卡技能CD", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 482301, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 482301, "name": "【標記】帕斯卡技能CD", "description": "【標記】帕斯卡技能CD", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 482301, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
-    "id": 482430, "name": "【標記】布置傀儡cost", "description": "【標記】布置傀儡cost", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "CarryEMPIcon#1E90FF", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 482430, "priority": -1, 
+    "id": 482430, "name": "【標記】布置傀儡cost", "description": "【標記】布置傀儡cost", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "CarryEMPIcon#1E90FF", "ammo_mre_reduce": "", 
+    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 482430, "priority": -1, 
     "carry_mission_skill": "482431,482432,482433,482434,482435", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 482505, "name": "【標記】布拉梅德削弱", "description": "【標記】布拉梅德削弱", "code": "debuff", "type": 2, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 117801, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 1000021, "effect_process_star": 0, 
+    "id": 482505, "name": "【標記】布拉梅德削弱", "description": "【標記】布拉梅德削弱", "code": "debuff", "type": 2, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 117801, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 1000021, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 482505, "priority": 1, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+  }, {
+    "id": 482506, "name": "【標記】布拉梅德削弱", "description": "【標記】布拉梅德削弱", "code": "debuff", "type": 2, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 117804, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 1000022, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 482506, "priority": 1, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+  }, {
+    "id": 482507, "name": "【標記】布拉梅德削弱", "description": "【標記】布拉梅德削弱", "code": "debuff", "type": 2, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 117805, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 1000023, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 482507, "priority": 1, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+  }, {
+    "id": 483501, "name": "【標記】攜帶歌利亞", "description": "【標記】攜帶歌利亞", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", 
+    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 483501, "priority": 1, "carry_mission_skill": "483511", 
+    "sangvis_chip_id": "", "ext_move": 0
+  }, {
+    "id": 483600, "name": "【標記】指揮官定身", "description": "【標記】指揮官定身", "code": "Theresa_Back", "type": 2, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "1", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 482505, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "extra_ammo_mre": "", "conflict_type": 483600, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 482506, "name": "【標記】布拉梅德削弱", "description": "【標記】布拉梅德削弱", "code": "debuff", "type": 2, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 117804, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 1000022, "effect_process_star": 0, 
-    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 482506, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
-    "ext_move": 0
-  }, {
-    "id": 482507, "name": "【標記】布拉梅德削弱", "description": "【標記】布拉梅德削弱", "code": "debuff", "type": 2, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 117805, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 1000023, "effect_process_star": 0, 
-    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 482507, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
-    "ext_move": 0
-  }, {
-    "id": 483501, "name": "【標記】攜帶歌利亞", "description": "【標記】攜帶歌利亞", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 483501, "priority": 1, "carry_mission_skill": "483511", "sangvis_chip_id": "", 
-    "ext_move": 0
-  }, {
-    "id": 483600, "name": "【標記】指揮官定身", "description": "【標記】指揮官定身", "code": "Theresa_Back", "type": 2, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "1", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 483600, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 483601, "name": "【標記】攜帶高爆炸藥", "description": "【標記】攜帶高爆炸藥", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 483601, "priority": -1, "carry_mission_skill": "483611", "sangvis_chip_id": "", 
-    "ext_move": 0
+    "id": 483601, "name": "【標記】攜帶高爆炸藥", "description": "【標記】攜帶高爆炸藥", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", 
+    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 483601, "priority": -1, "carry_mission_skill": "483611", 
+    "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 483901, "name": "【標記】運輸隊", "description": "【標記】運輸隊", "code": "", "type": 1, "duration_type": "1", 
     "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
@@ -927,70 +935,72 @@
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 1, "extra_ammo_mre": "", 
     "conflict_type": 483901, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 483903, "name": "【標記】攜帶塑膠炸彈", "description": "【標記】攜帶塑膠炸彈", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 483903, "priority": -1, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "id": 483903, "name": "【標記】攜帶塑膠炸彈", "description": "【標記】攜帶塑膠炸彈", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", 
+    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 483903, "priority": -1, "carry_mission_skill": "", 
+    "sangvis_chip_id": "", "ext_move": 0
+  }, {
+    "id": 483911, "name": "【標記】運輸隊定身", "description": "【標記】運輸隊定身", "code": "Theresa_Back", "type": 2, 
+    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "1", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 483911, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 483911, "name": "【標記】運輸隊定身", "description": "【標記】運輸隊定身", "code": "Theresa_Back", "type": 2, "duration_type": "1", 
-    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "1", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 483911, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 483921, "name": "【標記】運輸隊鬼步生效", "description": "【標記】運輸隊鬼步", "code": "SpeedUp", "type": 1, 
+    "duration_type": "5", "duration_time": "3", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 482002, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
-    "id": 483921, "name": "【標記】運輸隊鬼步生效", "description": "【標記】運輸隊鬼步", "code": "SpeedUp", "type": 1, "duration_type": "5", 
-    "duration_time": "3", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 482002, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 500020, "name": "可可豆", "description": "攜帶可可豆", "code": "", "type": 1, "duration_type": "1", "duration_time": "99", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
+    "id": 500020, "name": "可可豆", "description": "攜帶可可豆", "code": "", "type": 1, "duration_type": "1", 
+    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
     "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "2022WV01#1E90FF", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "", "conflict_type": 500020, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 500021, "name": "咖啡豆", "description": "攜帶咖啡豆", "code": "", "type": 1, "duration_type": "1", "duration_time": "99", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
+    "id": 500021, "name": "咖啡豆", "description": "攜帶咖啡豆", "code": "", "type": 1, "duration_type": "1", 
+    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
     "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "2022WV10#1E90FF", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "", "conflict_type": 500021, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 500022, "name": "白砂糖", "description": "攜帶白砂糖", "code": "", "type": 1, "duration_type": "1", "duration_time": "99", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
+    "id": 500022, "name": "白砂糖", "description": "攜帶白砂糖", "code": "", "type": 1, "duration_type": "1", 
+    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
     "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "2022WV02#1E90FF", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "", "conflict_type": 500022, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 500023, "name": "怪味粉", "description": "攜帶怪味粉", "code": "", "type": 1, "duration_type": "1", "duration_time": "99", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
+    "id": 500023, "name": "怪味粉", "description": "攜帶怪味粉", "code": "", "type": 1, "duration_type": "1", 
+    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
     "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "2022WV03#1E90FF", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "", "conflict_type": 500023, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 500024, "name": "螢光粉", "description": "攜帶螢光粉", "code": "", "type": 1, "duration_type": "1", "duration_time": "99", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
+    "id": 500024, "name": "螢光粉", "description": "攜帶螢光粉", "code": "", "type": 1, "duration_type": "1", 
+    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
     "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "2022WV04#1E90FF", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "", "conflict_type": 500024, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 500025, "name": "冷卻劑", "description": "攜帶冷卻劑", "code": "", "type": 1, "duration_type": "1", "duration_time": "99", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
+    "id": 500025, "name": "冷卻劑", "description": "攜帶冷卻劑", "code": "", "type": 1, "duration_type": "1", 
+    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
     "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "2022WV05#1E90FF", "ammo_mre_reduce": "", "free_ap_move": 0, 
@@ -1085,8 +1095,8 @@
     "extra_ammo_mre": "", "conflict_type": 500406, "priority": 0, 
     "carry_mission_skill": "500491,500492,500493,500494,500495", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 500407, "name": "巧蘇魯", "description": "攜帶巧蘇魯", "code": "", "type": 1, "duration_type": "1", "duration_time": "99", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
+    "id": 500407, "name": "巧蘇魯", "description": "攜帶巧蘇魯", "code": "", "type": 1, "duration_type": "1", 
+    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
     "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "2022WV12#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
@@ -1124,12 +1134,13 @@
     "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 510703, "priority": -2, 
     "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 510704, "name": "RO標記", "description": "mission_buff_config-20510704", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 510704, "priority": 1, "carry_mission_skill": "510705", "sangvis_chip_id": "", "ext_move": 0
+    "id": 510704, "name": "RO標記", "description": "mission_buff_config-20510704", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 510704, "priority": 1, "carry_mission_skill": "510705", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
     "id": 510705, "name": "訊號增幅", "description": "mission_buff_config-20510705", "code": "SpeedUp", "type": 1, 
     "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
@@ -1227,8 +1238,8 @@
     "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 541201, "priority": 0, 
     "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 541212, "name": "偽裝", "description": "偽裝成功", "code": "", "type": 1, "duration_type": "1", "duration_time": "999", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
+    "id": 541212, "name": "偽裝", "description": "偽裝成功", "code": "", "type": 1, "duration_type": "1", 
+    "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
     "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 541200, 
     "conditions_type": "51", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "2022WV25#1E90FF", "ammo_mre_reduce": "", "free_ap_move": 0, 
@@ -1242,12 +1253,13 @@
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 541301, "priority": 0, "carry_mission_skill": "541311", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 541311, "name": "空襲引導", "description": "mission_buff_config-20541311", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "1", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 541311, 
-    "conditions_type": "51", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 541311, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 541311, "name": "空襲引導", "description": "mission_buff_config-20541311", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", 
+    "cannot_move": "1", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 541311, "conditions_type": "51", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 541311, "priority": 0, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 541314, "name": "攜帶歌利亞", "description": "攜帶歌利亞", "code": "", "type": 1, "duration_type": "1", 
     "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
@@ -1310,38 +1322,40 @@
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 544124, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 544201, "name": "手錶標記", "description": "mission_buff_config-20544201", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 544211, 
-    "conditions_type": "1", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 544201, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 544201, "name": "手錶標記", "description": "mission_buff_config-20544201", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 544211, "conditions_type": "1", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 544201, "priority": 0, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 544211, "name": "拾取標記", "description": "mission_buff_config-20544211", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 544211, "priority": 0, "carry_mission_skill": "544211", "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 544212, "name": "攜帶燃油", "description": "mission_buff_config-20544212", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 544212, "priority": 0, "carry_mission_skill": "544213", "sangvis_chip_id": "", 
+    "id": 544211, "name": "拾取標記", "description": "mission_buff_config-20544211", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", 
+    "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 544211, "priority": 0, "carry_mission_skill": "544211", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 910630, "name": "【標記】護盾發生器buff", "description": "mission_buff_config-20910630", "code": "shield", "type": 1, 
-    "duration_type": "1,5", "duration_time": "2,1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 544212, "name": "攜帶燃油", "description": "mission_buff_config-20544212", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", 
+    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 544212, "priority": 0, "carry_mission_skill": "544213", 
+    "sangvis_chip_id": "", "ext_move": 0
+  }, {
+    "id": 910630, "name": "【標記】護盾發生器buff", "description": "mission_buff_config-20910630", "code": "shield", 
+    "type": 1, "duration_type": "1,5", "duration_time": "2,1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 910630, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "", "conflict_type": 910630, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 1000000, "name": "攜帶炸藥", "description": "攜帶炸藥", "code": "", "type": 1, "duration_type": "1", "duration_time": "99", 
-    "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
+    "id": 1000000, "name": "攜帶炸藥", "description": "攜帶炸藥", "code": "", "type": 1, "duration_type": "1", 
+    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
     "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
     "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
     "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
@@ -1362,16 +1376,16 @@
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 1000002, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 1000003, "name": "【標記】1回合定身", "description": "mission_buff_config-21000003", "code": "Theresa_Back", "type": 2, 
-    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 1000003, "name": "【標記】1回合定身", "description": "mission_buff_config-21000003", "code": "Theresa_Back", 
+    "type": 2, "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "0", "cannot_move": "1", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "", "conflict_type": 1000003, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 1000004, "name": "【標記】99回合定身", "description": "mission_buff_config-21000004", "code": "Theresa_Back", "type": 2, 
-    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 1000004, "name": "【標記】99回合定身", "description": "mission_buff_config-21000004", "code": "Theresa_Back", 
+    "type": 2, "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "0", "cannot_move": "1", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
@@ -1394,34 +1408,37 @@
     "extra_ammo_mre": "", "conflict_type": 1000006, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 1000007, "name": "可以被EMP球攻擊", "description": "可以被EMP球攻擊", "code": "SpeedUp", "type": 1, "duration_type": "1", 
-    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 1000007, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 1000008, "name": "【標記】炮擊目標標記buff", "description": "mission_buff_config-21000008", "code": "Chasing_AntiMissile", 
-    "type": 1, "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 1000007, "name": "可以被EMP球攻擊", "description": "可以被EMP球攻擊", "code": "SpeedUp", "type": 1, 
+    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 1000008, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "extra_ammo_mre": "", "conflict_type": 1000007, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 1000009, "name": "【標記】浸水debuff_1", "description": "-30%閃避/火力", "code": "debuff", "type": 2, "duration_type": "1", 
-    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 900491, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 1000009, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 1000008, "name": "【標記】炮擊目標標記buff", "description": "mission_buff_config-21000008", 
+    "code": "Chasing_AntiMissile", "type": 1, "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", 
+    "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", 
+    "property_data_pool": "0", "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", 
+    "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 1000008, "priority": 0, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 1000010, "name": "【標記】浸水debuff_2", "description": "-10%閃避/火力", "code": "debuff", "type": 2, "duration_type": "1", 
-    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 900491, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 1000010, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 1000009, "name": "【標記】浸水debuff_1", "description": "-30%閃避/火力", "code": "debuff", "type": 2, 
+    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 900491, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 1000009, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "ext_move": 0
+  }, {
+    "id": 1000010, "name": "【標記】浸水debuff_2", "description": "-10%閃避/火力", "code": "debuff", "type": 2, 
+    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 900491, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 1000010, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
     "id": 1000011, "name": "【標記】搬運標記", "description": "mission_buff_config-21000011", "code": "ExtraAp", "type": 1, 
     "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
@@ -1512,18 +1529,18 @@
     "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6430002, "priority": 1, "carry_mission_skill": "", 
     "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 6430003, "name": "【標記】困難全境攜帶道具buff", "description": "mission_buff_config-26430003", "code": "", "type": 1, 
-    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "", "is_resource_buff": 0, "vision_buff": "", 
-    "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "id": 6430003, "name": "【標記】困難全境攜帶道具buff", "description": "mission_buff_config-26430003", "code": "", 
+    "type": 1, "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "", "conflict_type": 6430003, "priority": 1, 
     "carry_mission_skill": "6430022,6430025,6430026,6430011,6430012,6430013,6430015,6430006,6430016,6430029", 
     "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 6430004, "name": "【標記】VECTOR抵抗破片手榴彈buff", "description": "mission_buff_config-26430004", "code": "", "type": 1, 
-    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "", "is_resource_buff": 0, "vision_buff": "", 
-    "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "id": 6430004, "name": "【標記】VECTOR抵抗破片手榴彈buff", "description": "mission_buff_config-26430004", "code": "", 
+    "type": 1, "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "", "conflict_type": 6430004, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
@@ -1537,13 +1554,13 @@
     "extra_ammo_mre": "", "conflict_type": 6430005, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 6440001, "name": "【標記】炮擊定身", "description": "定身一回合", "code": "debuff", "type": 1, "duration_type": "1", 
-    "duration_time": "1", "limit_buff": "0", "exp_buff": "", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "1", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 1000044, "effect_process_star": 0, 
-    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6440001, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
-    "ext_move": 0
+    "id": 6440001, "name": "【標記】炮擊定身", "description": "定身一回合", "code": "debuff", "type": 1, 
+    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "", "is_resource_buff": 0, "vision_buff": "0", 
+    "cannot_move": "1", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 1000044, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6440001, "priority": 1, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 6440002, "name": "【標記】持有EMP標記", "description": "持有EMP標記", "code": "", "type": 1, "duration_type": "1", 
     "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
@@ -1553,12 +1570,13 @@
     "extra_ammo_mre": "", "conflict_type": 6440051, "priority": 1, "carry_mission_skill": "6440051", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 6440003, "name": "【標記】電磁癱瘓", "description": "降低各項屬性", "code": "debuff", "type": 2, "duration_type": "1", 
-    "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "1", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 6440003, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6440003, "name": "【標記】電磁癱瘓", "description": "降低各項屬性", "code": "debuff", "type": 2, 
+    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "1", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 6440003, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
     "id": 6440004, "name": "【標記】電磁癱瘓", "description": "降低各項屬性", "code": "", "type": 2, "duration_type": "1", 
     "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
@@ -1567,12 +1585,13 @@
     "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
     "conflict_type": 6440004, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 6440005, "name": "【標記】抵抗電磁癱瘓屬性降低", "description": "抵抗電磁癱瘓屬性降低", "code": "", "type": 2, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 6440004, "priority": 2, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6440005, "name": "【標記】抵抗電磁癱瘓屬性降低", "description": "抵抗電磁癱瘓屬性降低", "code": "", "type": 2, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 6440004, "priority": 2, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
     "id": 6440006, "name": "【標記】丟孫紅雷標記", "description": "mission_buff_config-26440006", "code": "", "type": 1, 
     "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
@@ -1582,12 +1601,13 @@
     "extra_ammo_mre": "", "conflict_type": 6440006, "priority": 1, "carry_mission_skill": "6449999", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 6480001, "name": "【標記】電磁癱瘓", "description": "降低各項屬性", "code": "debuff", "type": 2, "duration_type": "1", 
-    "duration_time": "2", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "1", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 6480001, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6480001, "name": "【標記】電磁癱瘓", "description": "降低各項屬性", "code": "debuff", "type": 2, 
+    "duration_type": "1", "duration_time": "2", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "1", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 6480001, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
     "id": 6480002, "name": "【標記】丟歌利亞標記", "description": "攜帶歌利亞", "code": "", "type": 1, "duration_type": "1", 
     "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
@@ -1597,21 +1617,21 @@
     "extra_ammo_mre": "", "conflict_type": 6480002, "priority": 1, "carry_mission_skill": "6480036", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 6480003, "name": "【標記】攜帶塑膠炸彈", "description": "攜帶塑膠炸彈", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": -1, "priority": 1, "carry_mission_skill": "6480049", "sangvis_chip_id": "", 
-    "ext_move": 0
+    "id": 6480003, "name": "【標記】攜帶塑膠炸彈", "description": "攜帶塑膠炸彈", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", 
+    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": -1, "priority": 1, "carry_mission_skill": "6480049", 
+    "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 6480004, "name": "【標記】攜帶塑膠炸彈", "description": "攜帶塑膠炸彈", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": -1, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
-    "ext_move": 0
+    "id": 6480004, "name": "【標記】攜帶塑膠炸彈", "description": "攜帶塑膠炸彈", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", 
+    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": -1, "priority": 1, "carry_mission_skill": "", 
+    "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 6510001, "name": "電磁炮癱瘓", "description": "癱瘓", "code": "debuff", "type": 1, "duration_type": "1", 
     "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "1", 
@@ -1784,92 +1804,103 @@
     "extra_ammo_mre": "", "conflict_type": 6520002, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 6520003, "name": "【標記】攜帶煙火buff", "description": "攜帶煙火buff", "code": "dodgeBuff", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 6520003, "priority": 0, "carry_mission_skill": "6520022", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6520003, "name": "【標記】攜帶煙火buff", "description": "攜帶煙火buff", "code": "dodgeBuff", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 6520003, "priority": 0, "carry_mission_skill": "6520022", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
-    "id": 6540000, "name": "【標記】格里芬經驗0", "description": "晉升少尉所需破敵數：3", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759035, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540001, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "griffin_warrant_officer#A5881F", "ammo_mre_reduce": "", 
-    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540000, "priority": 0, 
-    "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6540000, "name": "【標記】格里芬經驗0", "description": "晉升少尉所需破敵數：3", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759035, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540001, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "griffin_warrant_officer#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540000, "priority": 0, "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
-    "id": 6540001, "name": "【標記】格里芬經驗1", "description": "晉升少尉所需破敵數：2", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759035, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540002, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "griffin_warrant_officer#A5881F", "ammo_mre_reduce": "", 
-    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540000, "priority": 1, 
-    "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6540001, "name": "【標記】格里芬經驗1", "description": "晉升少尉所需破敵數：2", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759035, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540002, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "griffin_warrant_officer#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540000, "priority": 1, "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
-    "id": 6540002, "name": "【標記】格里芬經驗2", "description": "晉升少尉所需破敵數：1", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759035, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540003, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "griffin_warrant_officer#A5881F", "ammo_mre_reduce": "", 
-    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540000, "priority": 2, 
-    "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6540002, "name": "【標記】格里芬經驗2", "description": "晉升少尉所需破敵數：1", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759035, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540003, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "griffin_warrant_officer#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540000, "priority": 2, "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
-    "id": 6540003, "name": "【標記】格里芬經驗3", "description": "晉升中尉所需破敵數：3", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759036, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540004, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "griffin_lieutenant#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540000, "priority": 3, "carry_mission_skill": "6540038,6540039,6540040,6540041", 
-    "sangvis_chip_id": "", "ext_move": 0
+    "id": 6540003, "name": "【標記】格里芬經驗3", "description": "晉升中尉所需破敵數：3", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759036, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540004, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "griffin_lieutenant#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540000, "priority": 3, "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
-    "id": 6540004, "name": "【標記】格里芬經驗4", "description": "晉升中尉所需破敵數：2", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759036, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540005, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "griffin_lieutenant#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540000, "priority": 4, "carry_mission_skill": "6540038,6540039,6540040,6540041", 
-    "sangvis_chip_id": "", "ext_move": 0
+    "id": 6540004, "name": "【標記】格里芬經驗4", "description": "晉升中尉所需破敵數：2", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759036, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540005, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "griffin_lieutenant#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540000, "priority": 4, "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
-    "id": 6540005, "name": "【標記】格里芬經驗5", "description": "晉升中尉所需破敵數：1", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759036, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540006, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "griffin_lieutenant#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540000, "priority": 5, "carry_mission_skill": "6540038,6540039,6540040,6540041", 
-    "sangvis_chip_id": "", "ext_move": 0
+    "id": 6540005, "name": "【標記】格里芬經驗5", "description": "晉升中尉所需破敵數：1", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759036, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540006, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "griffin_lieutenant#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540000, "priority": 5, "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
-    "id": 6540006, "name": "【標記】格里芬經驗6", "description": "晉升上尉所需破敵數：4", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540007, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "griffin_first_lieutenant#A5881F", "ammo_mre_reduce": "", 
-    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540000, "priority": 6, 
-    "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6540006, "name": "【標記】格里芬經驗6", "description": "晉升上尉所需破敵數：4", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540007, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "griffin_first_lieutenant#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540000, "priority": 6, "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
-    "id": 6540007, "name": "【標記】格里芬經驗7", "description": "晉升上尉所需破敵數：3", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540008, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "griffin_first_lieutenant#A5881F", "ammo_mre_reduce": "", 
-    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540000, "priority": 7, 
-    "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6540007, "name": "【標記】格里芬經驗7", "description": "晉升上尉所需破敵數：3", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540008, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "griffin_first_lieutenant#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540000, "priority": 7, "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
-    "id": 6540008, "name": "【標記】格里芬經驗8", "description": "晉升上尉所需破敵數：2", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540009, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "griffin_first_lieutenant#A5881F", "ammo_mre_reduce": "", 
-    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540000, "priority": 8, 
-    "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6540008, "name": "【標記】格里芬經驗8", "description": "晉升上尉所需破敵數：2", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540009, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "griffin_first_lieutenant#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540000, "priority": 8, "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
-    "id": 6540009, "name": "【標記】格里芬經驗9", "description": "晉升上尉所需破敵數：1", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540010, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "griffin_first_lieutenant#A5881F", "ammo_mre_reduce": "", 
-    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540000, "priority": 9, 
-    "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6540009, "name": "【標記】格里芬經驗9", "description": "晉升上尉所需破敵數：1", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540010, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "griffin_first_lieutenant#A5881F", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540000, "priority": 9, "carry_mission_skill": "6540038,6540039,6540040,6540041", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
     "id": 6540010, "name": "【標記】格里芬經驗10", "description": "已晉升上尉", "code": "", "type": 1, "duration_type": "1", 
     "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
@@ -1879,101 +1910,111 @@
     "extra_ammo_mre": "", "conflict_type": 6540000, "priority": 10, "carry_mission_skill": "6540038,6540039,6540040,6540041", 
     "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 6540100, "name": "【標記】融合勢力經驗0", "description": "晉升中士所需破敵數：3", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759035, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540016, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "sangvis_corporal#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540100, "priority": 0, "carry_mission_skill": "6540042,6540043,6540044,6540045", 
-    "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 6540101, "name": "【標記】融合勢力經驗1", "description": "晉升中士所需破敵數：2", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759035, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540017, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "sangvis_corporal#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540100, "priority": 1, "carry_mission_skill": "6540042,6540043,6540044,6540045", 
-    "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 6540102, "name": "【標記】融合勢力經驗2", "description": "晉升中士所需破敵數：1", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759035, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540018, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "sangvis_corporal#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540100, "priority": 2, "carry_mission_skill": "6540042,6540043,6540044,6540045", 
-    "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 6540103, "name": "【標記】融合勢力經驗3", "description": "晉升上士所需破敵數：3", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759036, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540019, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "sangvis_sergeant#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540100, "priority": 3, "carry_mission_skill": "6540042,6540043,6540044,6540045", 
-    "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 6540104, "name": "【標記】融合勢力經驗4", "description": "晉升上士所需破敵數：2", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759036, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540020, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "sangvis_sergeant#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540100, "priority": 4, "carry_mission_skill": "6540042,6540043,6540044,6540045", 
-    "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 6540105, "name": "【標記】融合勢力經驗5", "description": "晉升上士所需破敵數：1", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759036, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540021, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "sangvis_sergeant#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540100, "priority": 5, "carry_mission_skill": "6540042,6540043,6540044,6540045", 
-    "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 6540106, "name": "【標記】融合勢力經驗6", "description": "晉升軍士長所需破敵數：4", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540022, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "sangvis_ staff_sergeant#D20000", "ammo_mre_reduce": "", 
-    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540100, "priority": 6, 
-    "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 6540107, "name": "【標記】融合勢力經驗7", "description": "晉升軍士長所需破敵數：3", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540023, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "sangvis_ staff_sergeant#D20000", "ammo_mre_reduce": "", 
-    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540100, "priority": 7, 
-    "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 6540108, "name": "【標記】融合勢力經驗8", "description": "晉升軍士長所需破敵數：2", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540024, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "sangvis_ staff_sergeant#D20000", "ammo_mre_reduce": "", 
-    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540100, "priority": 8, 
-    "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 6540109, "name": "【標記】融合勢力經驗9", "description": "晉升軍士長所需破敵數：1", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 6540025, 
-    "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "sangvis_ staff_sergeant#D20000", "ammo_mre_reduce": "", 
-    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540100, "priority": 9, 
-    "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 6540110, "name": "【標記】融合勢力經驗10", "description": "已晉升軍士長", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 759038, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "sangvis_chief_ergeant#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540100, "priority": 10, "carry_mission_skill": "6540042,6540043,6540044,6540045", 
-    "sangvis_chip_id": "", "ext_move": 0
-  }, {
-    "id": 6540200, "name": "【標記】任務可接", "description": "可以接受任務buff", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 6540200, "priority": 0, "carry_mission_skill": "6540012,6540013,6540014,6540015", "sangvis_chip_id": "", 
+    "id": 6540100, "name": "【標記】融合勢力經驗0", "description": "晉升中士所需破敵數：3", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759035, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540016, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "sangvis_corporal#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540100, "priority": 0, "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", 
     "ext_move": 0
+  }, {
+    "id": 6540101, "name": "【標記】融合勢力經驗1", "description": "晉升中士所需破敵數：2", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759035, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540017, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "sangvis_corporal#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540100, "priority": 1, "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", 
+    "ext_move": 0
+  }, {
+    "id": 6540102, "name": "【標記】融合勢力經驗2", "description": "晉升中士所需破敵數：1", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759035, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540018, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "sangvis_corporal#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540100, "priority": 2, "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", 
+    "ext_move": 0
+  }, {
+    "id": 6540103, "name": "【標記】融合勢力經驗3", "description": "晉升上士所需破敵數：3", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759036, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540019, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "sangvis_sergeant#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540100, "priority": 3, "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", 
+    "ext_move": 0
+  }, {
+    "id": 6540104, "name": "【標記】融合勢力經驗4", "description": "晉升上士所需破敵數：2", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759036, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540020, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "sangvis_sergeant#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540100, "priority": 4, "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", 
+    "ext_move": 0
+  }, {
+    "id": 6540105, "name": "【標記】融合勢力經驗5", "description": "晉升上士所需破敵數：1", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759036, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540021, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "sangvis_sergeant#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540100, "priority": 5, "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", 
+    "ext_move": 0
+  }, {
+    "id": 6540106, "name": "【標記】融合勢力經驗6", "description": "晉升軍士長所需破敵數：4", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540022, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "sangvis_ staff_sergeant#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540100, "priority": 6, "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", 
+    "ext_move": 0
+  }, {
+    "id": 6540107, "name": "【標記】融合勢力經驗7", "description": "晉升軍士長所需破敵數：3", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540023, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "sangvis_ staff_sergeant#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540100, "priority": 7, "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", 
+    "ext_move": 0
+  }, {
+    "id": 6540108, "name": "【標記】融合勢力經驗8", "description": "晉升軍士長所需破敵數：2", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540024, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "sangvis_ staff_sergeant#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540100, "priority": 8, "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", 
+    "ext_move": 0
+  }, {
+    "id": 6540109, "name": "【標記】融合勢力經驗9", "description": "晉升軍士長所需破敵數：1", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759037, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 6540025, "conditions_type": "4", "conditions_time": "0-1", "birth_effect": 0, 
+    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, 
+    "manual_ui_code": "sangvis_ staff_sergeant#D20000", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
+    "conflict_type": 6540100, "priority": 9, "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", 
+    "ext_move": 0
+  }, {
+    "id": 6540110, "name": "【標記】融合勢力經驗10", "description": "已晉升軍士長", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759038, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "sangvis_chief_ergeant#D20000", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540100, "priority": 10, 
+    "carry_mission_skill": "6540042,6540043,6540044,6540045", "sangvis_chip_id": "", "ext_move": 0
+  }, {
+    "id": 6540200, "name": "【標記】任務可接", "description": "可以接受任務buff", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 6540200, "priority": 0, "carry_mission_skill": "6540012,6540013,6540014,6540015", 
+    "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 6540201, "name": "【標記】任務1", "description": "mission_buff_config-26540201", "code": "", "type": 1, 
     "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
@@ -2007,20 +2048,21 @@
     "extra_ammo_mre": "", "conflict_type": 6540204, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 6540205, "name": "【標記】任務3護送資料", "description": "攜帶作戰方案", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "CarryDataIcon#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540205, "priority": 0, "carry_mission_skill": "6540018", "sangvis_chip_id": "", 
-    "ext_move": 0
+    "id": 6540205, "name": "【標記】任務3護送資料", "description": "攜帶作戰方案", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "CarryDataIcon#EC4702", "ammo_mre_reduce": "", 
+    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540205, "priority": 0, "carry_mission_skill": "6540018", 
+    "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 6540206, "name": "【標記】任務唯一", "description": "可以接受任務buff", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 6540206, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6540206, "name": "【標記】任務唯一", "description": "可以接受任務buff", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 6540206, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
     "id": 6540207, "name": "【標記】任務3目標", "description": "mission_buff_config-26540207", "code": "", "type": 1, 
     "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
@@ -2102,24 +2144,24 @@
     "extra_ammo_mre": "", "conflict_type": 6540216, "priority": 0, "carry_mission_skill": "6540059", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 6540217, "name": "融合勢力技能1  孫紅雷", "description": "攜帶投擲式歌利亞", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540217, "priority": 0, "carry_mission_skill": "6540060", "sangvis_chip_id": "", 
-    "ext_move": 0
+    "id": 6540217, "name": "融合勢力技能1  孫紅雷", "description": "攜帶投擲式歌利亞", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "CarryBoomerIcon#EC4702", "ammo_mre_reduce": "", 
+    "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540217, "priority": 0, "carry_mission_skill": "6540060", 
+    "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 6540218, "name": "融合勢力技能2  視野+1", "description": "mission_buff_config-26540218", "code": "powBuff", "type": 1, 
-    "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 6540218, "name": "融合勢力技能2  視野+1", "description": "mission_buff_config-26540218", "code": "powBuff", 
+    "type": 1, "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "1", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "", "conflict_type": 6540218, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 6540220, "name": "融合勢力技能4  屬性20", "description": "mission_buff_config-26540220", "code": "powBuff", "type": 1, 
-    "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 6540220, "name": "融合勢力技能4  屬性20", "description": "mission_buff_config-26540220", "code": "powBuff", 
+    "type": 1, "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 759039, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
@@ -2166,13 +2208,13 @@
     "extra_ammo_mre": "", "conflict_type": 6540225, "priority": 0, "carry_mission_skill": "6540065", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 6540226, "name": "【標記】額外移動_1回，移動1次消失", "description": "mission_buff_config-26540226", "code": "ExtraMove", 
-    "type": 1, "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
-    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
-    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
-    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540226, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
-    "ext_move": 1
+    "id": 6540226, "name": "【標記】額外移動_1回，移動1次消失", "description": "mission_buff_config-26540226", 
+    "code": "ExtraMove", "type": 1, "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", 
+    "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", 
+    "property_data_pool": "0", "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", 
+    "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540226, "priority": 0, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 1
   }, {
     "id": 6540227, "name": "攜帶歌利亞", "description": "攜帶歌利亞", "code": "", "type": 1, "duration_type": "1", 
     "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
@@ -2262,13 +2304,13 @@
     "extra_ammo_mre": "", "conflict_type": 6540237, "priority": 0, "carry_mission_skill": "6540142,6540156,6540168", 
     "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 6540238, "name": "【標記】額外移動_1回，移動99次消失", "description": "mission_buff_config-26540238", "code": "ExtraMove", 
-    "type": 1, "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
-    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
-    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
-    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 6540238, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
-    "ext_move": 1
+    "id": 6540238, "name": "【標記】額外移動_1回，移動99次消失", "description": "mission_buff_config-26540238", 
+    "code": "ExtraMove", "type": 1, "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", 
+    "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", 
+    "property_data_pool": "0", "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", 
+    "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 6540238, "priority": 0, 
+    "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 1
   }, {
     "id": 6540239, "name": "攜帶歌利亞", "description": "攜帶歌利亞", "code": "", "type": 1, "duration_type": "1", 
     "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "", 
@@ -2326,9 +2368,9 @@
     "extra_ammo_mre": "", "conflict_type": 6540240, "priority": 6, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 6540246, "name": "【標記】禿洞照明抵抗夜戰60%", "description": "mission_buff_config-26540246", "code": "", "type": 1, 
-    "duration_type": "4", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", 
-    "cannot_move": "", "battle_skill_config_id": 755255, "property_type": "0", "property_data_pool": "0", 
+    "id": 6540246, "name": "【標記】禿洞照明抵抗夜戰60%", "description": "mission_buff_config-26540246", "code": "", 
+    "type": 1, "duration_type": "4", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 755255, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "", "conflict_type": 6540246, "priority": 6, "carry_mission_skill": "", "sangvis_chip_id": "", 
@@ -2350,8 +2392,8 @@
     "extra_ammo_mre": "", "conflict_type": 6540248, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 6540249, "name": "融合勢力技能2  視野+1", "description": "mission_buff_config-26540249", "code": "powBuff", "type": 1, 
-    "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 6540249, "name": "融合勢力技能2  視野+1", "description": "mission_buff_config-26540249", "code": "powBuff", 
+    "type": 1, "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "2", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
@@ -2382,12 +2424,13 @@
     "extra_ammo_mre": "", "conflict_type": -1, "priority": 0, "carry_mission_skill": "6560046", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 6560004, "name": "定身", "description": "mission_buff_config-26560004", "code": "", "type": 1, "duration_type": "1", 
-    "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", "cannot_move": "1", 
-    "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", "special_spot_config_id": 0, 
-    "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, 
-    "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", 
-    "conflict_type": 6560004, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+    "id": 6560004, "name": "定身", "description": "mission_buff_config-26560004", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "vision_buff": "", "cannot_move": "1", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 6560004, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
     "id": 6560005, "name": "可以與SCAR-L交戰", "description": "mission_buff_config-26560005", "code": "", "type": 1, 
     "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
@@ -2877,24 +2920,24 @@
     "extra_ammo_mre": "", "conflict_type": 9100060, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 9130601, "name": "【標記】標記buff_99回合_存活標記", "description": "mission_buff_config-29130601", "code": "SpeedUp", 
-    "type": 1, "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
-    "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
-    "special_spot_config_id": 9130612, "conditions_type": "2", "conditions_time": "0-1", "birth_effect": 0, 
-    "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
+    "id": 9130601, "name": "【標記】標記buff_99回合_存活標記", "description": "mission_buff_config-29130601", 
+    "code": "SpeedUp", "type": 1, "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", 
+    "is_resource_buff": 0, "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", 
+    "property_data_pool": "0", "special_spot_config_id": 9130612, "conditions_type": "2", "conditions_time": "0-1", 
+    "birth_effect": 0, "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
     "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 9130601, "priority": 0, 
     "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 9200001, "name": "【標記】標記buff_99回合", "description": "mission_buff_config-29200001", "code": "SpeedUp", "type": 1, 
-    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 9200001, "name": "【標記】標記buff_99回合", "description": "mission_buff_config-29200001", "code": "SpeedUp", 
+    "type": 1, "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
     "extra_ammo_mre": "", "conflict_type": 9200001, "priority": 0, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 9200002, "name": "【標記】標記buff_99回合", "description": "mission_buff_config-29200002", "code": "SpeedUp", "type": 1, 
-    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 9200002, "name": "【標記】標記buff_99回合", "description": "mission_buff_config-29200002", "code": "SpeedUp", 
+    "type": 1, "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
@@ -2909,16 +2952,16 @@
     "extra_ammo_mre": "", "conflict_type": 9410201, "priority": -1, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 9410216, "name": "【標記】無限移動", "description": "mission_buff_config-29410216", "code": "Racing_Fly", "type": 1, 
-    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 9410216, "name": "【標記】無限移動", "description": "mission_buff_config-29410216", "code": "Racing_Fly", 
+    "type": 1, "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", 
     "free_ap_move": 99999999, "extra_ammo_mre": "", "conflict_type": 9410216, "priority": -1, "carry_mission_skill": "", 
     "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 9410331, "name": "【標記】門卡1", "description": "mission_buff_config-29410331", "code": "DJMAX_ArrowLeft", "type": 1, 
-    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 9410331, "name": "【標記】門卡1", "description": "mission_buff_config-29410331", "code": "DJMAX_ArrowLeft", 
+    "type": 1, "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
@@ -2941,16 +2984,16 @@
     "extra_ammo_mre": "", "conflict_type": 9410333, "priority": -1, "carry_mission_skill": "", "sangvis_chip_id": "", 
     "ext_move": 0
   }, {
-    "id": 9411870, "name": "【標記】4章探索任務_銜尾蛇資料", "description": "mission_buff_config-29411870", "code": "claes", "type": 1, 
-    "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 9411870, "name": "【標記】4章探索任務_銜尾蛇資料", "description": "mission_buff_config-29411870", "code": "claes", 
+    "type": 1, "duration_type": "1", "duration_time": "99", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "0", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 9411871, "conditions_type": "1", "conditions_time": "0-1", "birth_effect": 0, 
     "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
     "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 9410333, "priority": -1, 
     "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
   }, {
-    "id": 9490101, "name": "【標記】定身2回合", "description": "mission_buff_config-29490101", "code": "Theresa_Back", "type": 2, 
-    "duration_type": "1", "duration_time": "2", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
+    "id": 9490101, "name": "【標記】定身2回合", "description": "mission_buff_config-29490101", "code": "Theresa_Back", 
+    "type": 2, "duration_type": "1", "duration_time": "2", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "0", "cannot_move": "1", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 

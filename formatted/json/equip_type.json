@@ -34,7 +34,8 @@
     "type": 11, "name": "防彈插板", "category": 3, "code": "ArmorPlate", "fit_gun_type": "6", 
     "des": "可以提升人形的<color=#FFB400FF>護甲</color>，但會減少<color=#FFB400FF>迴避</color>"
   }, {
-    "type": 12, "name": "勳章", "category": 3, "code": "Medal", "fit_gun_type": "0", "des": "特殊的人形裝備，不同類型對人形屬性影響不同"
+    "type": 12, "name": "勳章", "category": 3, "code": "Medal", "fit_gun_type": "0", 
+    "des": "特殊的人形裝備，不同類型對人形屬性影響不同"
   }, {
     "type": 13, "name": "消音器", "category": 1, "code": "Suppressor", "fit_gun_type": "1,2,3,4", 
     "des": "可以提升人形的<color=#FFB400FF>暴擊機率</color>和<color=#FFB400FF>迴避</color>"

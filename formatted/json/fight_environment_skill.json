@@ -1,42 +1,43 @@
 [
   {
-    "id": 1, "name": "能量護盾", "desc": "戰鬥中為本梯隊內的所有衝鋒槍張開護盾,每個護盾最多吸收40點傷害。", "if_display": 1, "code": "shield", 
-    "skill_group": "900101"
+    "id": 1, "name": "能量護盾", "desc": "戰鬥中為本梯隊內的所有衝鋒槍張開護盾,每個護盾最多吸收40點傷害。", "if_display": 1, 
+    "code": "shield", "skill_group": "900101"
   }, {
-    "id": 2, "name": "狙擊指令", "desc": "戰鬥中瞄準敵方血量最高的角色,造成2500點傷害。", "if_display": 1, "code": "sniper", "skill_group": "900102"
+    "id": 2, "name": "狙擊指令", "desc": "戰鬥中瞄準敵方血量最高的角色,造成2500點傷害。", "if_display": 1, "code": "sniper", 
+    "skill_group": "900102"
   }, {
-    "id": 3, "name": "防暴強化", "desc": "戰鬥中為本梯隊內的所有霰彈槍加強防暴能力,護甲提升15%,持續20秒。", "if_display": 1, "code": "armor", 
-    "skill_group": "900103"
+    "id": 3, "name": "防暴強化", "desc": "戰鬥中為本梯隊內的所有霰彈槍加強防暴能力,護甲提升15%,持續20秒。", "if_display": 1, 
+    "code": "armor", "skill_group": "900103"
   }, {
-    "id": 4, "name": "嘲諷靶機", "desc": "戰鬥開場時投放一個能夠吸引敵方傷害的靶機,靶機具有400生命值。", "if_display": 1, "code": "target", 
-    "skill_group": "900104"
+    "id": 4, "name": "嘲諷靶機", "desc": "戰鬥開場時投放一個能夠吸引敵方傷害的靶機,靶機具有400生命值。", "if_display": 1, 
+    "code": "target", "skill_group": "900104"
   }, {
-    "id": 5, "name": "炮擊指令", "desc": "戰鬥中發射一枚迫擊炮彈,對2.5範圍內的敵人造成200的傷害。", "if_display": 1, "code": "bombard", 
-    "skill_group": "900108"
+    "id": 5, "name": "炮擊指令", "desc": "戰鬥中發射一枚迫擊炮彈,對2.5範圍內的敵人造成200的傷害。", "if_display": 1, 
+    "code": "bombard", "skill_group": "900108"
   }, {
-    "id": 6, "name": "致命空襲", "desc": "戰鬥開場時呼叫空中打擊,對全體敵人造成80的傷害。", "if_display": 1, "code": "air_attack", 
-    "skill_group": "900109"
+    "id": 6, "name": "致命空襲", "desc": "戰鬥開場時呼叫空中打擊,對全體敵人造成80的傷害。", "if_display": 1, 
+    "code": "air_attack", "skill_group": "900109"
   }, {
-    "id": 7, "name": "戰鬥效率", "desc": "戰鬥中提升本梯隊全體傷害5%和射速5%,持續20秒（不可疊加）。", "if_display": 1, "code": "fighting", 
-    "skill_group": "900110"
+    "id": 7, "name": "戰鬥效率", "desc": "戰鬥中提升本梯隊全體傷害5%和射速5%,持續20秒（不可疊加）。", "if_display": 1, 
+    "code": "fighting", "skill_group": "900110"
   }, {
-    "id": 8, "name": "怒無限強", "desc": "戰鬥中提升本梯隊全體命中10%和暴擊率10%,持續20秒（不可疊加）。", "if_display": 1, "code": "crit", 
-    "skill_group": "900111"
+    "id": 8, "name": "怒無限強", "desc": "戰鬥中提升本梯隊全體命中10%和暴擊率10%,持續20秒（不可疊加）。", "if_display": 1, 
+    "code": "crit", "skill_group": "900111"
   }, {
-    "id": 701, "name": "夜間怒氣", "desc": "夜間作戰時，我方暴擊率和暴擊傷害增加30%", "if_display": 1, "code": "fight_skill_buff106", 
-    "skill_group": "756071"
+    "id": 701, "name": "夜間怒氣", "desc": "夜間作戰時，我方暴擊率和暴擊傷害增加30%", "if_display": 1, 
+    "code": "fight_skill_buff106", "skill_group": "756071"
   }, {
-    "id": 702, "name": "近身打擊", "desc": "我方對範圍3以內的敵方單位傷害提升20%", "if_display": 1, "code": "fight_skill_buff101", 
-    "skill_group": "756072"
+    "id": 702, "name": "近身打擊", "desc": "我方對範圍3以內的敵方單位傷害提升20%", "if_display": 1, 
+    "code": "fight_skill_buff101", "skill_group": "756072"
   }, {
-    "id": 703, "name": "突擊慣性", "desc": "該場戰鬥中提升我方全體傷害和迴避每4秒提升3%，最多疊加10層", "if_display": 1, "code": "fight_skill_buff102", 
-    "skill_group": "756082"
+    "id": 703, "name": "突擊慣性", "desc": "該場戰鬥中提升我方全體傷害和迴避每4秒提升3%，最多疊加10層", "if_display": 1, 
+    "code": "fight_skill_buff102", "skill_group": "756082"
   }, {
     "id": 704, "name": "迅速整備", "desc": "我方前置冷卻時間縮減30%", "if_display": 1, "code": "fight_skill_buff105", 
     "skill_group": "756076"
   }, {
-    "id": 705, "name": "偏轉力場", "desc": "我方血量最高單位開場獲得9999點偏轉力場，持續8秒", "if_display": 1, "code": "fight_skill_buff104", 
-    "skill_group": "756077"
+    "id": 705, "name": "偏轉力場", "desc": "我方血量最高單位開場獲得9999點偏轉力場，持續8秒", "if_display": 1, 
+    "code": "fight_skill_buff104", "skill_group": "756077"
   }, {
     "id": 706, "name": "裝甲缺失", "desc": "本場戰鬥我方護甲降低90%", "if_display": 1, "code": "fight_skill_buff203", 
     "skill_group": "756078"
@@ -44,14 +45,14 @@
     "id": 707, "name": "火力抑制", "desc": "每10秒眩暈我方輸出最高的單位5秒", "if_display": 1, "code": "fight_skill_buff201", 
     "skill_group": "756079"
   }, {
-    "id": 708, "name": "燃燒打擊", "desc": "開場在我方第一排生成燃燒區域，每10幀50點編制傷害，持續10秒", "if_display": 1, "code": "fight_skill_hurt102", 
-    "skill_group": "756084"
+    "id": 708, "name": "燃燒打擊", "desc": "開場在我方第一排生成燃燒區域，每10幀50點編制傷害，持續10秒", "if_display": 1, 
+    "code": "fight_skill_hurt102", "skill_group": "756084"
   }, {
     "id": 709, "name": "中樞遲緩", "desc": "我方前置冷卻時間延長30%", "if_display": 1, "code": "fight_skill_buff204", 
     "skill_group": "756081"
   }, {
-    "id": 710, "name": "隊長之殤", "desc": "我方隊長傷害、命中、迴避、護甲和暴擊率降低90%", "if_display": 1, "code": "fight_skill_buff204", 
-    "skill_group": "756086"
+    "id": 710, "name": "隊長之殤", "desc": "我方隊長傷害、命中、迴避、護甲和暴擊率降低90%", "if_display": 1, 
+    "code": "fight_skill_buff204", "skill_group": "756086"
   }, {
     "id": 711, "name": "步履維艱", "desc": "我方全體移速下降50%", "if_display": 1, "code": "fight_skill_hurt202", 
     "skill_group": "756085"
@@ -62,52 +63,56 @@
     "id": 713, "name": "鬼影迷蹤", "desc": "大幅提升敵方迴避500%", "if_display": 1, "code": "fight_skill_buff202", 
     "skill_group": "990004"
   }, {
-    "id": 714, "name": "摸魚禁止", "desc": "每隔15秒對我方輸出最低的單位造成999點傷害", "if_display": 1, "code": "fight_skill_hurt201", 
-    "skill_group": "990006"
+    "id": 714, "name": "摸魚禁止", "desc": "每隔15秒對我方輸出最低的單位造成999點傷害", "if_display": 1, 
+    "code": "fight_skill_hurt201", "skill_group": "990006"
   }, {
-    "id": 715, "name": "鐵甲肉盾", "desc": "我方血量最高的單位額外獲得50%減傷", "if_display": 1, "code": "fight_skill_buff104", 
-    "skill_group": "990007"
+    "id": 715, "name": "鐵甲肉盾", "desc": "我方血量最高的單位額外獲得50%減傷", "if_display": 1, 
+    "code": "fight_skill_buff104", "skill_group": "990007"
   }, {
-    "id": 716, "name": "天譴之人", "desc": "每隔15秒隨機弱化一個人形單位，大幅降低該人形屬性（傷害，射速，命中，迴避，護甲）50%持續5秒", "if_display": 1, 
+    "id": 716, "name": "天譴之人", 
+    "desc": "每隔15秒隨機弱化一個人形單位，大幅降低該人形屬性（傷害，射速，命中，迴避，護甲）50%持續5秒", "if_display": 1, 
     "code": "fight_skill_buff204", "skill_group": "990009"
   }, {
-    "id": 717, "name": "焦土戰略", "desc": "每隔6秒時間向敵人血量最高單位投擲燃燒物，每0.33秒造成100點傷害，持續15秒，範圍3*3", "if_display": 1, 
+    "id": 717, "name": "焦土戰略", 
+    "desc": "每隔6秒時間向敵人血量最高單位投擲燃燒物，每0.33秒造成100點傷害，持續15秒，範圍3*3", "if_display": 1, 
     "code": "fight_skill_hurt102", "skill_group": "990011"
   }, {
-    "id": 718, "name": "堅守陣地", "desc": "每隔3秒提升我方前排人形迴避和護甲10%，最多10層", "if_display": 1, "code": "fight_skill_buff103", 
-    "skill_group": "990013"
+    "id": 718, "name": "堅守陣地", "desc": "每隔3秒提升我方前排人形迴避和護甲10%，最多10層", "if_display": 1, 
+    "code": "fight_skill_buff103", "skill_group": "990013"
   }, {
-    "id": 719, "name": "負隅頑抗", "desc": "每隔15秒時間恢復敵方已損失血量10%的護盾持續6秒", "if_display": 1, "code": "fight_skill_buff203", 
-    "skill_group": "990014"
+    "id": 719, "name": "負隅頑抗", "desc": "每隔15秒時間恢復敵方已損失血量10%的護盾持續6秒", "if_display": 1, 
+    "code": "fight_skill_buff203", "skill_group": "990014"
   }, {
-    "id": 720, "name": "鋼鐵靶機", "desc": "每隔10秒召喚1組5編，每編1000血的靶機", "if_display": 1, "code": "fight_skill_hurt103", 
-    "skill_group": "990017"
+    "id": 720, "name": "鋼鐵靶機", "desc": "每隔10秒召喚1組5編，每編1000血的靶機", "if_display": 1, 
+    "code": "fight_skill_hurt103", "skill_group": "990017"
   }, {
-    "id": 721, "name": "腹背受敵", "desc": "每隔6秒在我方梯隊前方生成1組敵人", "if_display": 1, "code": "fight_skill_hurt203", 
-    "skill_group": "990019"
+    "id": 721, "name": "腹背受敵", "desc": "每隔6秒在我方梯隊前方生成1組敵人", "if_display": 1, 
+    "code": "fight_skill_hurt203", "skill_group": "990019"
   }, {
-    "id": 722, "name": "越戰越勇", "desc": "我方每次使用技能後下次技能冷卻減少20%", "if_display": 1, "code": "fight_skill_buff105", 
-    "skill_group": "756087"
+    "id": 722, "name": "越戰越勇", "desc": "我方每次使用技能後下次技能冷卻減少20%", "if_display": 1, 
+    "code": "fight_skill_buff105", "skill_group": "756087"
   }, {
     "id": 723, "name": "火力全開", "desc": "我方全體射速提升100%", "if_display": 1, "code": "fight_skill_buff102", 
     "skill_group": "756088"
   }, {
-    "id": 724, "name": "應急護盾", "desc": "每隔10秒時間恢復我方已損失血量30%的護盾持續6秒", "if_display": 1, "code": "fight_skill_buff104", 
-    "skill_group": "756089"
+    "id": 724, "name": "應急護盾", "desc": "每隔10秒時間恢復我方已損失血量30%的護盾持續6秒", "if_display": 1, 
+    "code": "fight_skill_buff104", "skill_group": "756089"
   }, {
-    "id": 725, "name": "隨機打擊", "desc": "每隔10秒隨機弱化一個敵方單位，大幅降低該單位屬性（傷害，射速，命中，閃避，護甲）降低50%", "if_display": 1, 
+    "id": 725, "name": "隨機打擊", 
+    "desc": "每隔10秒隨機弱化一個敵方單位，大幅降低該單位屬性（傷害，射速，命中，閃避，護甲）降低50%", "if_display": 1, 
     "code": "fight_skill_hurt101", "skill_group": "756093"
   }, {
-    "id": 726, "name": "槍械故障", "desc": "我方射速降低50%", "if_display": 1, "code": "fight_skill_hurt202", "skill_group": "756091"
+    "id": 726, "name": "槍械故障", "desc": "我方射速降低50%", "if_display": 1, "code": "fight_skill_hurt202", 
+    "skill_group": "756091"
   }, {
-    "id": 727, "name": "領袖之風", "desc": "我方隊長傷害、命中、迴避、護甲和暴擊率提升50%", "if_display": 1, "code": "fight_skill_buff101", 
-    "skill_group": "756114"
+    "id": 727, "name": "領袖之風", "desc": "我方隊長傷害、命中、迴避、護甲和暴擊率提升50%", "if_display": 1, 
+    "code": "fight_skill_buff101", "skill_group": "756114"
   }, {
-    "id": 728, "name": "凝神射擊", "desc": "降低我方射速20%但提升我方傷害20%和命中20%", "if_display": 1, "code": "fight_skill_buff103", 
-    "skill_group": "756115"
+    "id": 728, "name": "凝神射擊", "desc": "降低我方射速20%但提升我方傷害20%和命中20%", "if_display": 1, 
+    "code": "fight_skill_buff103", "skill_group": "756115"
   }, {
-    "id": 729, "name": "應急護盾", "desc": "每隔10秒時間恢復我方已損失血量30%的護盾持續6秒", "if_display": 1, "code": "fight_skill_buff104", 
-    "skill_group": "756089"
+    "id": 729, "name": "應急護盾", "desc": "每隔10秒時間恢復我方已損失血量30%的護盾持續6秒", "if_display": 1, 
+    "code": "fight_skill_buff104", "skill_group": "756089"
   }, {
     "id": 730, "name": "手槍專精", "desc": "提升我方手槍人形技能冷卻20%", "if_display": 1, "code": "fight_skill_buff101", 
     "skill_group": "756126"
@@ -118,17 +123,17 @@
     "id": 732, "name": "步槍專精", "desc": "提升我方步槍人形射速和暴擊率20%", "if_display": 1, "code": "fight_skill_buff101", 
     "skill_group": "756128"
   }, {
-    "id": 733, "name": "突擊專精", "desc": "提升我方突擊步槍人形20%傷害和100%命中", "if_display": 1, "code": "fight_skill_buff101", 
-    "skill_group": "756129"
+    "id": 733, "name": "突擊專精", "desc": "提升我方突擊步槍人形20%傷害和100%命中", "if_display": 1, 
+    "code": "fight_skill_buff101", "skill_group": "756129"
   }, {
-    "id": 734, "name": "霰彈專精", "desc": "提升我方霰彈人形20%護甲和20%傷害減免", "if_display": 1, "code": "fight_skill_buff101", 
-    "skill_group": "756130"
+    "id": 734, "name": "霰彈專精", "desc": "提升我方霰彈人形20%護甲和20%傷害減免", "if_display": 1, 
+    "code": "fight_skill_buff101", "skill_group": "756130"
   }, {
     "id": 735, "name": "機槍專精", "desc": "增加我方機槍人形15彈鏈", "if_display": 1, "code": "fight_skill_buff101", 
     "skill_group": "756131"
   }, {
-    "id": 736, "name": "天佑之人", "desc": "我方人形開場獲得自身最大生命值20%護盾持續10秒", "if_display": 1, "code": "fight_skill_buff102", 
-    "skill_group": "756124"
+    "id": 736, "name": "天佑之人", "desc": "我方人形開場獲得自身最大生命值20%護盾持續10秒", "if_display": 1, 
+    "code": "fight_skill_buff102", "skill_group": "756124"
   }, {
     "id": 737, "name": "突擊號令", "desc": "我方全體射速提升50%", "if_display": 1, "code": "fight_skill_buff101", 
     "skill_group": "756133"
@@ -136,35 +141,37 @@
     "id": 738, "name": "急速攻擊", "desc": "我方前置冷卻時間縮減50%", "if_display": 1, "code": "fight_skill_buff101", 
     "skill_group": "756134"
   }, {
-    "id": 739, "name": "暴怒號令", "desc": "暴擊傷害提升50%", "if_display": 1, "code": "fight_skill_buff102", "skill_group": "756135"
+    "id": 739, "name": "暴怒號令", "desc": "暴擊傷害提升50%", "if_display": 1, "code": "fight_skill_buff102", 
+    "skill_group": "756135"
   }, {
-    "id": 740, "name": "全面出擊", "desc": "每有1種槍種全體提升30%傷害、射速、命中、閃避", "if_display": 1, "code": "fight_skill_buff103", 
-    "skill_group": "756136"
+    "id": 740, "name": "全面出擊", "desc": "每有1種槍種全體提升30%傷害、射速、命中、閃避", "if_display": 1, 
+    "code": "fight_skill_buff103", "skill_group": "756136"
   }, {
     "id": 741, "name": "清除指令", "desc": "每隔8秒清除我方有益狀態", "if_display": 1, "code": "fight_skill_hurt201", 
     "skill_group": "756144"
   }, {
-    "id": 742, "name": "暴擊壓制", "desc": "暴擊率降低100%", "if_display": 1, "code": "fight_skill_buff201", "skill_group": "756146"
+    "id": 742, "name": "暴擊壓制", "desc": "暴擊率降低100%", "if_display": 1, "code": "fight_skill_buff201", 
+    "skill_group": "756146"
   }, {
     "id": 743, "name": "信道中斷", "desc": "每次使用技能後技能冷卻增加100%", "if_display": 1, "code": "fight_skill_buff202", 
     "skill_group": "756147"
   }, {
-    "id": 901, "name": "力不從心", "desc": "我方全體暴擊率上升50%，但暴擊傷害下降80%", "if_display": 1, "code": "fight_skill_buff107", 
-    "skill_group": "756193"
+    "id": 901, "name": "力不從心", "desc": "我方全體暴擊率上升50%，但暴擊傷害下降80%", "if_display": 1, 
+    "code": "fight_skill_buff107", "skill_group": "756193"
   }, {
-    "id": 902, "name": "擊搏挽裂", "desc": "我方全體傷害下降50%，同時賦予敵方全體100%易傷", "if_display": 1, "code": "fight_skill_buff301", 
-    "skill_group": "756195"
+    "id": 902, "name": "擊搏挽裂", "desc": "我方全體傷害下降50%，同時賦予敵方全體100%易傷", "if_display": 1, 
+    "code": "fight_skill_buff301", "skill_group": "756195"
   }, {
     "id": 903, "name": "冰消瓦解", "desc": "敵方全體穿甲值增加200點", "if_display": 1, "code": "fight_skill_buff205", 
     "skill_group": "756198"
   }, {
-    "id": 904, "name": "同舟之殤", "desc": "我方除了隊長以外的單位傷害下降20%", "if_display": 1, "code": "fight_skill_buff108", 
-    "skill_group": "756200"
+    "id": 904, "name": "同舟之殤", "desc": "我方除了隊長以外的單位傷害下降20%", "if_display": 1, 
+    "code": "fight_skill_buff108", "skill_group": "756200"
   }, {
-    "id": 905, "name": "燃燒打擊Ⅱ", "desc": "開場在我方第二排生成燃燒區域，每0.33秒造成50點編制傷害，持續10秒", "if_display": 1, 
-    "code": "fight_skill_hurt104", "skill_group": "756202"
+    "id": 905, "name": "燃燒打擊Ⅱ", "desc": "開場在我方第二排生成燃燒區域，每0.33秒造成50點編制傷害，持續10秒", 
+    "if_display": 1, "code": "fight_skill_hurt104", "skill_group": "756202"
   }, {
-    "id": 906, "name": "巨人痛擊", "desc": "每隔10秒對敵我雙方血量最高的單位造成10%最大生命值的傷害", "if_display": 1, "code": "fight_skill_hurt301", 
-    "skill_group": "756204"
+    "id": 906, "name": "巨人痛擊", "desc": "每隔10秒對敵我雙方血量最高的單位造成10%最大生命值的傷害", "if_display": 1, 
+    "code": "fight_skill_hurt301", "skill_group": "756204"
   }
 ]

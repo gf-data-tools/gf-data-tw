@@ -123,13 +123,17 @@
   {"obtain_id": "415", "description": "常駐活動【異構體】中救援獲得", "detail": "0", "goto_page_id": "0"}, 
   {"obtain_id": "424", "description": "常駐活動【裂變鏈接】中救援獲得", "detail": "0", "goto_page_id": "0"}, 
   {
-    "obtain_id": "502", "description": "常駐活動【有序紊流】中限時積分模式【颶風營救】獎勵", "detail": "0", "goto_page_id": "0"
+    "obtain_id": "502", "description": "常駐活動【有序紊流】中限時積分模式【颶風營救】獎勵", "detail": "0", 
+    "goto_page_id": "0"
   }, {
-    "obtain_id": "503", "description": "常駐活動【異構體】中限時積分模式【混沌落幕】獎勵", "detail": "0", "goto_page_id": "0"
+    "obtain_id": "503", "description": "常駐活動【異構體】中限時積分模式【混沌落幕】獎勵", "detail": "0", 
+    "goto_page_id": "0"
   }, {
-    "obtain_id": "504", "description": "常駐活動【裂變鏈接】中限時積分模式【終焉花海】獎勵", "detail": "0", "goto_page_id": "0"
+    "obtain_id": "504", "description": "常駐活動【裂變鏈接】中限時積分模式【終焉花海】獎勵", "detail": "0", 
+    "goto_page_id": "0"
   }, {
-    "obtain_id": "505", "description": "常駐活動【偏振光】中限時積分模式【逃逸加速度EX-I】或【謎境守衛】獎勵", "detail": "0", "goto_page_id": "0"
+    "obtain_id": "505", "description": "常駐活動【偏振光】中限時積分模式【逃逸加速度EX-I】或【謎境守衛】獎勵", "detail": "0", 
+    "goto_page_id": "0"
   }, 
   {"obtain_id": "506", "description": "限時活動【雙聯亂數】積分模式獎勵", "detail": "0", "goto_page_id": "0"}, 
   {"obtain_id": "507", "description": "限時活動【鏡像論】積分模式獎勵", "detail": "0", "goto_page_id": "0"}, 
@@ -137,7 +141,8 @@
   {"obtain_id": "509", "description": "大型戰役關卡獎勵", "detail": "0", "goto_page_id": "0"}, 
   {"obtain_id": "510", "description": "商城禮包", "detail": "0", "goto_page_id": "0"}, 
   {
-    "obtain_id": "511", "description": "常駐活動【深層映射】中限時積分模式【虛數迷宮】獎勵", "detail": "0", "goto_page_id": "0"
+    "obtain_id": "511", "description": "常駐活動【深層映射】中限時積分模式【虛數迷宮】獎勵", "detail": "0", 
+    "goto_page_id": "0"
   }, {
     "obtain_id": "512", "description": "常駐活動【塌縮點】中限時積分模式【馬蜂窩】獎勵", "detail": "0", "goto_page_id": "0"
   }, 

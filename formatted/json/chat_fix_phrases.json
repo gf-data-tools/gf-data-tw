@@ -5,14 +5,16 @@
   {"id": 4, "group": 2, "content": "請稍等！", "paras": "", "type": 1, "type_name": "chat_fix_phrases-20000004"}, 
   {"id": 5, "group": 2, "content": "（探頭", "paras": "", "type": 1, "type_name": "chat_fix_phrases-20000005"}, 
   {
-    "id": 6, "group": 2, "content": "新晉指揮官，萌新請多多指教。", "paras": "", "type": 1, "type_name": "chat_fix_phrases-20000006"
+    "id": 6, "group": 2, "content": "新晉指揮官，萌新請多多指教。", "paras": "", "type": 1, 
+    "type_name": "chat_fix_phrases-20000006"
   }, 
   {"id": 7, "group": 2, "content": "該收後勤了", "paras": "", "type": 1, "type_name": "chat_fix_phrases-20000007"}, 
   {"id": 8, "group": 2, "content": "準備好了嗎？", "paras": "", "type": 2, "type_name": "催促"}, 
   {"id": 9, "group": 2, "content": "開始對決吧！", "paras": "", "type": 2, "type_name": "chat_fix_phrases-20000009"}, 
   {"id": 10, "group": 2, "content": "快點，快點！", "paras": "", "type": 2, "type_name": "chat_fix_phrases-20000010"}, 
   {
-    "id": 11, "group": 2, "content": "快點啊，副官還等著我回去打靶呢！", "paras": "", "type": 2, "type_name": "chat_fix_phrases-20000011"
+    "id": 11, "group": 2, "content": "快點啊，副官還等著我回去打靶呢！", "paras": "", "type": 2, 
+    "type_name": "chat_fix_phrases-20000011"
   }, 
   {"id": 12, "group": 2, "content": "房主在嗎？", "paras": "", "type": 2, "type_name": "chat_fix_phrases-20000012"}, 
   {"id": 13, "group": 2, "content": "決戰到天亮！", "paras": "", "type": 3, "type_name": "約戰"}, 
@@ -33,7 +35,8 @@
   {"id": 25, "group": 3, "content": "大意了。", "paras": "", "type": 1, "type_name": "chat_fix_phrases-20000025"}, 
   {"id": 26, "group": 3, "content": "運氣不錯。", "paras": "", "type": 1, "type_name": "chat_fix_phrases-20000026"}, 
   {
-    "id": 27, "group": 3, "content": "訊號怎麼回事？該找格琳娜修一下了。", "paras": "", "type": 1, "type_name": "chat_fix_phrases-20000027"
+    "id": 27, "group": 3, "content": "訊號怎麼回事？該找格琳娜修一下了。", "paras": "", "type": 1, 
+    "type_name": "chat_fix_phrases-20000027"
   }, 
   {"id": 28, "group": 3, "content": "納尼(ÒωÓױ)！", "paras": "", "type": 1, "type_name": "chat_fix_phrases-20000028"}, 
   {"id": 29, "group": 3, "content": "專業！", "paras": "", "type": 1, "type_name": "chat_fix_phrases-20000029"}, 
@@ -53,9 +56,11 @@
   {"id": 43, "group": 3, "content": "精彩", "paras": "", "type": 3, "type_name": "chat_fix_phrases-20000043"}, 
   {"id": 44, "group": 3, "content": "這就是傳說中的大佬嗎？", "paras": "", "type": 4, "type_name": "求饒"}, 
   {
-    "id": 45, "group": 3, "content": "我還是回家喝坍塌液吧。", "paras": "", "type": 4, "type_name": "chat_fix_phrases-20000045"
+    "id": 45, "group": 3, "content": "我還是回家喝坍塌液吧。", "paras": "", "type": 4, 
+    "type_name": "chat_fix_phrases-20000045"
   }, {
-    "id": 46, "group": 3, "content": "戰術少女會有什麼壞心思呢？", "paras": "", "type": 4, "type_name": "chat_fix_phrases-20000046"
+    "id": 46, "group": 3, "content": "戰術少女會有什麼壞心思呢？", "paras": "", "type": 4, 
+    "type_name": "chat_fix_phrases-20000046"
   }, 
   {"id": 47, "group": 3, "content": "結盟吧！不要打我", "paras": "", "type": 4, "type_name": "chat_fix_phrases-20000047"}, 
   {"id": 48, "group": 3, "content": "別打我，我投降", "paras": "", "type": 4, "type_name": "chat_fix_phrases-20000048"}, 
@@ -64,34 +69,44 @@
   {
     "id": 51, "group": 3, "content": "我想要挨一頓毒打。", "paras": "", "type": 5, "type_name": "chat_fix_phrases-20000051"
   }, {
-    "id": 52, "group": 3, "content": "格里芬的救援隊都比這強。", "paras": "", "type": 5, "type_name": "chat_fix_phrases-20000052"
+    "id": 52, "group": 3, "content": "格里芬的救援隊都比這強。", "paras": "", "type": 5, 
+    "type_name": "chat_fix_phrases-20000052"
   }, {
-    "id": 53, "group": 3, "content": "把我的木星炮拿過來！", "paras": "", "type": 5, "type_name": "chat_fix_phrases-20000053"
+    "id": 53, "group": 3, "content": "把我的木星炮拿過來！", "paras": "", "type": 5, 
+    "type_name": "chat_fix_phrases-20000053"
   }, {
-    "id": 54, "group": 3, "content": "你已經進入我的射程範圍了", "paras": "", "type": 5, "type_name": "chat_fix_phrases-20000054"
+    "id": 54, "group": 3, "content": "你已經進入我的射程範圍了", "paras": "", "type": 5, 
+    "type_name": "chat_fix_phrases-20000054"
   }, {
-    "id": 55, "group": 3, "content": "你的生命已如風中殘燭", "paras": "", "type": 5, "type_name": "chat_fix_phrases-20000055"
+    "id": 55, "group": 3, "content": "你的生命已如風中殘燭", "paras": "", "type": 5, 
+    "type_name": "chat_fix_phrases-20000055"
   }, {
-    "id": 56, "group": 3, "content": "這波啊，這波是在大氣層。", "paras": "", "type": 5, "type_name": "chat_fix_phrases-20000056"
+    "id": 56, "group": 3, "content": "這波啊，這波是在大氣層。", "paras": "", "type": 5, 
+    "type_name": "chat_fix_phrases-20000056"
   }, {
     "id": 57, "group": 3, "content": "你告訴我我怎麼輸？", "paras": "", "type": 5, "type_name": "chat_fix_phrases-20000057"
   }, {
-    "id": 58, "group": 3, "content": "我拭目以待，你梯隊潰滅的樣子。", "paras": "", "type": 5, "type_name": "chat_fix_phrases-20000058"
+    "id": 58, "group": 3, "content": "我拭目以待，你梯隊潰滅的樣子。", "paras": "", "type": 5, 
+    "type_name": "chat_fix_phrases-20000058"
   }, {
     "id": 59, "group": 3, "content": "滿血你還能秒了我？", "paras": "", "type": 5, "type_name": "chat_fix_phrases-20000059"
   }, 
   {"id": 60, "group": 3, "content": "來啊，對狙啊", "paras": "", "type": 6, "type_name": "反擊"}, 
   {"id": 61, "group": 3, "content": "沒想到吧！", "paras": "", "type": 6, "type_name": "chat_fix_phrases-20000061"}, 
   {
-    "id": 62, "group": 3, "content": "我手中握著1/6的未來。", "paras": "", "type": 6, "type_name": "chat_fix_phrases-20000062"
+    "id": 62, "group": 3, "content": "我手中握著1/6的未來。", "paras": "", "type": 6, 
+    "type_name": "chat_fix_phrases-20000062"
   }, {
-    "id": 63, "group": 3, "content": "沒事，這一發沒裝子彈。", "paras": "", "type": 6, "type_name": "chat_fix_phrases-20000063"
+    "id": 63, "group": 3, "content": "沒事，這一發沒裝子彈。", "paras": "", "type": 6, 
+    "type_name": "chat_fix_phrases-20000063"
   }, {
     "id": 64, "group": 3, "content": "現在，是我的回合！", "paras": "", "type": 6, "type_name": "chat_fix_phrases-20000064"
   }, {
-    "id": 65, "group": 3, "content": "等我投出6就把你們都幹掉", "paras": "", "type": 6, "type_name": "chat_fix_phrases-20000065"
+    "id": 65, "group": 3, "content": "等我投出6就把你們都幹掉", "paras": "", "type": 6, 
+    "type_name": "chat_fix_phrases-20000065"
   }, {
-    "id": 66, "group": 3, "content": "不用慌，這是我戰略性調整", "paras": "", "type": 6, "type_name": "chat_fix_phrases-20000066"
+    "id": 66, "group": 3, "content": "不用慌，這是我戰略性調整", "paras": "", "type": 6, 
+    "type_name": "chat_fix_phrases-20000066"
   }, {
     "id": 67, "group": 3, "content": "哈哈，不好意思了！", "paras": "", "type": 6, "type_name": "chat_fix_phrases-20000067"
   }, 

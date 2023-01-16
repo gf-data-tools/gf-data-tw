@@ -211,7 +211,8 @@
     "description": "以聚集強大助力為目標的地方，可以進行更全面的訓練與技術開發。", "icon": "106_2"
   }, {
     "id": 106009, "organization_id": 106, "level": 9, "exp": 400, "function_skill_config_id": "", 
-    "description": "以聚集強大助力為目標的地方，以成熟的技術進行考核與檢驗，使成員成為格里芬同樣不可或缺的力量。", "icon": "106_3"
+    "description": "以聚集強大助力為目標的地方，以成熟的技術進行考核與檢驗，使成員成為格里芬同樣不可或缺的力量。", 
+    "icon": "106_3"
   }, {
     "id": 107001, "organization_id": 107, "level": 1, "exp": 0, "function_skill_config_id": "", 
     "description": "以聚集踏實人形為目標的勤務團隊，是格里芬主要的保障力量。", "icon": "107_1"

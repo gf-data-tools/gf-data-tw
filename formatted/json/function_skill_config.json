@@ -9,8 +9,8 @@
     "function_skill": "battle_speed_up"
   }, {
     "id": 103, "name": "魅力", "level": 1, "group_id": 0, "code": "function_skill_icon_103", 
-    "description": "戰鬥產生的人形好感度、融合勢力好感度增加 {0}%{1}", "arguments": 3, "max_level": 5, "is_show": 1, "type": 1, 
-    "function_skill": "battle_favor_up"
+    "description": "戰鬥產生的人形好感度、融合勢力好感度增加 {0}%{1}", "arguments": 3, "max_level": 5, "is_show": 1, 
+    "type": 1, "function_skill": "battle_favor_up"
   }, {
     "id": 104, "name": "作戰總結", "level": 1, "group_id": 0, "code": "function_skill_icon_104", 
     "description": "戰鬥產生的人形經驗、融合勢力經驗增加 {0}%{1}", "arguments": 3, "max_level": 5, "is_show": 1, "type": 1, 
@@ -29,12 +29,12 @@
     "function_skill": "battle_squad_exp_up"
   }, {
     "id": 108, "name": "搖籃曲", "level": 1, "group_id": 0, "code": "function_skill_icon_108", 
-    "description": "修復時間減少 {0}%，包括人形、重裝和融合勢力{1}", "arguments": 10, "max_level": 3, "is_show": 1, "type": 1, 
-    "function_skill": "repair_time_reduce"
+    "description": "修復時間減少 {0}%，包括人形、重裝和融合勢力{1}", "arguments": 10, "max_level": 3, "is_show": 1, 
+    "type": 1, "function_skill": "repair_time_reduce"
   }, {
     "id": 109, "name": "速記輔助", "level": 1, "group_id": 0, "code": "function_skill_icon_109", 
-    "description": "作戰報告書、特種作戰報告書撰寫時間縮短  {0}%{1}", "arguments": 1, "max_level": 5, "is_show": 1, "type": 1, 
-    "function_skill": "report_time_reduce"
+    "description": "作戰報告書、特種作戰報告書撰寫時間縮短  {0}%{1}", "arguments": 1, "max_level": 5, "is_show": 1, 
+    "type": 1, "function_skill": "report_time_reduce"
   }, {
     "id": 110, "name": "樂觀", "level": 1, "group_id": 0, "code": "function_skill_icon_110", 
     "description": "前進營地獲取探索歸來獎勵數量提高 {0}%{1}", "arguments": 5, "max_level": 3, "is_show": 0, "type": 1, 
@@ -45,8 +45,8 @@
     "function_skill": "exploration_mid_rate_up"
   }, {
     "id": 112, "name": "速成培訓", "level": 1, "group_id": 0, "code": "function_skill_icon_112", 
-    "description": "技能訓練（包括人形、妖精、重裝和融合勢力）時間縮短 {0}%{1}", "arguments": 3, "max_level": 5, "is_show": 1, "type": 1, 
-    "function_skill": "skill_time_reduce"
+    "description": "技能訓練（包括人形、妖精、重裝和融合勢力）時間縮短 {0}%{1}", "arguments": 3, "max_level": 5, 
+    "is_show": 1, "type": 1, "function_skill": "skill_time_reduce"
   }, {
     "id": 113, "name": "高效改裝", "level": 1, "group_id": 0, "code": "function_skill_icon_113", 
     "description": "裝備提供的強化經驗提高 {0}%{1}", "arguments": 1, "max_level": 5, "is_show": 1, "type": 1, 
@@ -81,8 +81,8 @@
     "function_skill": "coalitiondrill_reward_up"
   }, {
     "id": 126, "name": "技能訓練時間縮短", "level": 1, "group_id": 0, "code": "function_skill_icon_112", 
-    "description": "技能訓練（包括人形、妖精、重裝和融合勢力）時間縮短 {0}%{1}", "arguments": 1, "max_level": 10, "is_show": 0, "type": 2, 
-    "function_skill": "skill_time_reduce"
+    "description": "技能訓練（包括人形、妖精、重裝和融合勢力）時間縮短 {0}%{1}", "arguments": 1, "max_level": 10, 
+    "is_show": 0, "type": 2, "function_skill": "skill_time_reduce"
   }, {
     "id": 127, "name": "電池回覆量提升", "level": 1, "group_id": 0, "code": "function_skill_icon_115", 
     "description": "電池自然產出提高 {0}%{1}", "arguments": 1, "max_level": 10, "is_show": 0, "type": 2, 
@@ -117,8 +117,8 @@
     "function_skill": "coalitiondrill_reward_up"
   }, {
     "id": 135, "name": "技能訓練時間縮短", "level": 1, "group_id": 0, "code": "function_skill_icon_112", 
-    "description": "技能訓練（包括人形、妖精、重裝和融合勢力）時間縮短 {0}%{1}", "arguments": 2, "max_level": 10, "is_show": 0, "type": 2, 
-    "function_skill": "skill_time_reduce"
+    "description": "技能訓練（包括人形、妖精、重裝和融合勢力）時間縮短 {0}%{1}", "arguments": 2, "max_level": 10, 
+    "is_show": 0, "type": 2, "function_skill": "skill_time_reduce"
   }, {
     "id": 136, "name": "電池回覆量提升", "level": 1, "group_id": 0, "code": "function_skill_icon_115", 
     "description": "電池自然產出提高 {0}%{1}", "arguments": 2, "max_level": 10, "is_show": 0, "type": 2, 
