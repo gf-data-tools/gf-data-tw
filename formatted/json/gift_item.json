@@ -2995,6 +2995,46 @@
     "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
     "item_access": "", "detail_introduction": "gift_item-40007809", "sort": 0
   }, {
+    "id": 8001, "name": "MK3A1-紅露醉", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 367, "skin": 8001, "poster": 38001, 
+    "code": "gift_bundle_SpringFes2023_MK3A1", "bonus_description": "可解鎖人形換裝", 
+    "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
+    "item_access": "", "detail_introduction": "gift_item-40008001", "sort": 0
+  }, {
+    "id": 8002, "name": "Px4 風暴-金風嬈", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 233, "skin": 8002, 
+    "poster": 38002, "code": "gift_bundle_SpringFes2023_Px4Storm", "bonus_description": "可解鎖人形換裝", 
+    "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
+    "item_access": "", "detail_introduction": "gift_item-40008002", "sort": 0
+  }, {
+    "id": 8003, "name": "Erma-暗香盈", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 376, "skin": 8003, "poster": 38003, 
+    "code": "gift_bundle_SpringFes2023_Erma", "bonus_description": "可解鎖人形換裝", 
+    "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
+    "item_access": "", "detail_introduction": "gift_item-40008003", "sort": 0
+  }, {
+    "id": 8004, "name": "Savage 99-玉叢幽", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 334, "skin": 8004, 
+    "poster": 38004, "code": "gift_bundle_SpringFes2023_Savage99", "bonus_description": "可解鎖人形換裝", 
+    "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
+    "item_access": "", "detail_introduction": "gift_item-40008004", "sort": 0
+  }, {
+    "id": 8005, "name": "Rex Zero 1-滿庭芳", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 310, "skin": 8005, 
+    "poster": 38005, "code": "gift_bundle_SpringFes2023_RexZero1", "bonus_description": "可解鎖人形換裝", 
+    "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
+    "item_access": "", "detail_introduction": "gift_item-40008005", "sort": 0
+  }, {
+    "id": 8006, "name": "塔布克-福雙至", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 305, "skin": 8006, "poster": 38006, 
+    "code": "gift_bundle_SpringFes2023_Tabuk", "bonus_description": "可解鎖人形換裝", 
+    "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
+    "item_access": "", "detail_introduction": "gift_item-40008006", "sort": 0
+  }, {
+    "id": 8007, "name": "APC556-木蘭謠", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 343, "skin": 8007, "poster": 38007, 
+    "code": "gift_bundle_SpringFes2023_APC556", "bonus_description": "可解鎖人形換裝", 
+    "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
+    "item_access": "", "detail_introduction": "gift_item-40008007", "sort": 0
+  }, {
+    "id": 8008, "name": "DP28-朝顏蔓", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 82, "skin": 8008, "poster": 38008, 
+    "code": "gift_bundle_SpringFes2023_DP28", "bonus_description": "可解鎖人形換裝", 
+    "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
+    "item_access": "", "detail_introduction": "gift_item-40008008", "sort": 0
+  }, {
     "id": 30001, "name": "ST AR-15-午夏憩風", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 57, "skin": 30001, 
     "poster": 330001, "code": "gift_bundle_BattlePass_AR15", "bonus_description": "可解鎖人形換裝", 
     "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 

@@ -1289,7 +1289,7 @@
   {
     id: 480102
     name: 【標記】攜帶EMP手榴彈
-    description: 【標記】攜帶EMP手榴彈
+    description: 攜帶EMP手雷
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -1302,7 +1302,7 @@
   {
     id: 481400
     name: 【標記】攜帶大量炸藥
-    description: 【標記】攜帶大量炸藥
+    description: 攜帶大量炸藥
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -1390,7 +1390,7 @@
   {
     id: 482430
     name: 【標記】布置傀儡cost
-    description: 【標記】布置傀儡cost
+    description: 布置傀儡cost
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -1445,7 +1445,7 @@
   {
     id: 483501
     name: 【標記】攜帶歌利亞
-    description: 【標記】攜帶歌利亞
+    description: 攜帶歌利亞
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -1471,7 +1471,7 @@
   {
     id: 483601
     name: 【標記】攜帶高爆炸藥
-    description: 【標記】攜帶高爆炸藥
+    description: 攜帶高爆炸藥
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -1499,7 +1499,7 @@
   {
     id: 483903
     name: 【標記】攜帶塑膠炸彈
-    description: 【標記】攜帶塑膠炸彈
+    description: 攜帶塑膠炸彈
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -2122,6 +2122,1758 @@
     manual_ui_code: CarryBoomerIcon#EC4702
     conflict_type: 544212
     carry_mission_skill: "544213"
+  }
+  {
+    id: 590000
+    name: 待機
+    description: mission_buff_config-20590000
+    code: Theresa_Back
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    cannot_move: "1"
+    conflict_type: 590000
+  }
+  {
+    id: 590001
+    name: 狙擊支援
+    description: mission_buff_config-20590001
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590001
+  }
+  {
+    id: 590002
+    name: 狙擊強化
+    description: mission_buff_config-20590002
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590002
+  }
+  {
+    id: 590003
+    name: 定點清除
+    description: mission_buff_config-20590003
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590003
+  }
+  {
+    id: 590004
+    name: 連攜炮擊
+    description: mission_buff_config-20590004
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590004
+  }
+  {
+    id: 590005
+    name: 心眼
+    description: mission_buff_config-20590005
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590005
+  }
+  {
+    id: 590006
+    name: 穿甲彈頭
+    description: mission_buff_config-20590006
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590006
+  }
+  {
+    id: 590101
+    name: 炮擊支援
+    description: mission_buff_config-20590101
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590101
+  }
+  {
+    id: 590102
+    name: 炮擊強化
+    description: mission_buff_config-20590102
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590102
+  }
+  {
+    id: 590103
+    name: 集束炮擊
+    description: mission_buff_config-20590103
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590103
+  }
+  {
+    id: 590104
+    name: 連攜空襲
+    description: mission_buff_config-20590104
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590104
+  }
+  {
+    id: 590105
+    name: 英勇
+    description: mission_buff_config-20590105
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590105
+  }
+  {
+    id: 590106
+    name: 衝擊彈藥
+    description: mission_buff_config-20590106
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590106
+  }
+  {
+    id: 590201
+    name: 空襲支援
+    description: mission_buff_config-20590201
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590201
+  }
+  {
+    id: 590202
+    name: 空襲強化
+    description: mission_buff_config-20590202
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590202
+  }
+  {
+    id: 590203
+    name: 地毯轟炸
+    description: mission_buff_config-20590203
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590203
+  }
+  {
+    id: 590204
+    name: 連攜狙擊
+    description: mission_buff_config-20590204
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590204
+  }
+  {
+    id: 590205
+    name: 嗜血
+    description: mission_buff_config-20590205
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590205
+  }
+  {
+    id: 590206
+    name: 天降火海
+    description: mission_buff_config-20590206
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590206
+  }
+  {
+    id: 590301
+    name: 破甲
+    description: mission_buff_config-20590301
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590301
+  }
+  {
+    id: 590302
+    name: 易碎
+    description: mission_buff_config-20590302
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590302
+  }
+  {
+    id: 590303
+    name: 破甲強化
+    description: mission_buff_config-20590303
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590303
+  }
+  {
+    id: 590401
+    name: 震盪
+    description: mission_buff_config-20590401
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590401
+  }
+  {
+    id: 590402
+    name: 易爆
+    description: mission_buff_config-20590402
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590402
+  }
+  {
+    id: 590403
+    name: 震盪強化
+    description: mission_buff_config-20590403
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590403
+  }
+  {
+    id: 590501
+    name: 點燃
+    description: mission_buff_config-20590501
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590501
+  }
+  {
+    id: 590502
+    name: 易燃
+    description: mission_buff_config-20590502
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590502
+  }
+  {
+    id: 590503
+    name: 點燃強化
+    description: mission_buff_config-20590503
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590503
+  }
+  {
+    id: 590601
+    name: 專注
+    description: mission_buff_config-20590601
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590601
+  }
+  {
+    id: 590602
+    name: 專注強化
+    description: mission_buff_config-20590602
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590602
+  }
+  {
+    id: 590603
+    name: 明鏡止水
+    description: mission_buff_config-20590603
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590603
+  }
+  {
+    id: 590604
+    name: 速射
+    description: mission_buff_config-20590604
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590604
+  }
+  {
+    id: 590605
+    name: 速射強化
+    description: mission_buff_config-20590605
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590605
+  }
+  {
+    id: 590606
+    name: 限制解除
+    description: mission_buff_config-20590606
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590606
+  }
+  {
+    id: 590701
+    name: 精密
+    description: mission_buff_config-20590701
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590701
+  }
+  {
+    id: 590702
+    name: 精密強化
+    description: mission_buff_config-20590702
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590702
+  }
+  {
+    id: 590703
+    name: 直死魔眼
+    description: mission_buff_config-20590703
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590703
+  }
+  {
+    id: 590704
+    name: 會心
+    description: mission_buff_config-20590704
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590704
+  }
+  {
+    id: 590705
+    name: 會心強化
+    description: mission_buff_config-20590705
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590705
+  }
+  {
+    id: 590706
+    name: 自動校準
+    description: mission_buff_config-20590706
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590706
+  }
+  {
+    id: 590801
+    name: 強化
+    description: mission_buff_config-20590801
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590801
+  }
+  {
+    id: 590802
+    name: 強化增幅
+    description: mission_buff_config-20590802
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590802
+  }
+  {
+    id: 590901
+    name: 耐性
+    description: mission_buff_config-20590901
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590901
+  }
+  {
+    id: 590902
+    name: 耐性增幅
+    description: mission_buff_config-20590902
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 590902
+  }
+  {
+    id: 591001
+    name: 突擊專注
+    description: mission_buff_config-20591001
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591001
+  }
+  {
+    id: 591002
+    name: 突擊精密
+    description: mission_buff_config-20591002
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591002
+  }
+  {
+    id: 591003
+    name: 突擊強化
+    description: mission_buff_config-20591003
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591003
+  }
+  {
+    id: 591004
+    name: 炮擊小隊
+    description: mission_buff_config-20591004
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591004
+  }
+  {
+    id: 591101
+    name: 衝鋒會心
+    description: mission_buff_config-20591101
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591101
+  }
+  {
+    id: 591102
+    name: 衝鋒強化
+    description: mission_buff_config-20591102
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591102
+  }
+  {
+    id: 591103
+    name: 衝鋒耐性
+    description: mission_buff_config-20591103
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591103
+  }
+  {
+    id: 591104
+    name: 燃燒手雷
+    description: mission_buff_config-20591104
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591104
+  }
+  {
+    id: 591201
+    name: 步槍速射
+    description: mission_buff_config-20591201
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591201
+  }
+  {
+    id: 591202
+    name: 步槍會心
+    description: mission_buff_config-20591202
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591202
+  }
+  {
+    id: 591203
+    name: 步槍強化
+    description: mission_buff_config-20591203
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591203
+  }
+  {
+    id: 591204
+    name: 狙擊小隊
+    description: mission_buff_config-20591204
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591204
+  }
+  {
+    id: 591301
+    name: 手槍專注
+    description: mission_buff_config-20591301
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591301
+  }
+  {
+    id: 591302
+    name: 手槍速射
+    description: mission_buff_config-20591302
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591302
+  }
+  {
+    id: 591303
+    name: 手槍精密
+    description: mission_buff_config-20591303
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591303
+  }
+  {
+    id: 591304
+    name: 手槍會心
+    description: mission_buff_config-20591304
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591304
+  }
+  {
+    id: 591401
+    name: 機槍精密
+    description: mission_buff_config-20591401
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591401
+  }
+  {
+    id: 591402
+    name: 機槍會心
+    description: mission_buff_config-20591402
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591402
+  }
+  {
+    id: 591403
+    name: 機槍強化
+    description: mission_buff_config-20591403
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591403
+  }
+  {
+    id: 591404
+    name: 空襲小隊
+    description: mission_buff_config-20591404
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591404
+  }
+  {
+    id: 591501
+    name: 霰彈專注
+    description: mission_buff_config-20591501
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591501
+  }
+  {
+    id: 591502
+    name: 霰彈耐性
+    description: mission_buff_config-20591502
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591502
+  }
+  {
+    id: 591503
+    name: 破甲打擊
+    description: mission_buff_config-20591503
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591503
+  }
+  {
+    id: 591504
+    name: 震盪打擊
+    description: mission_buff_config-20591504
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 591504
+  }
+  {
+    id: 592001
+    name: 槍彈狂熱
+    description: mission_buff_config-20592001
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592001
+  }
+  {
+    id: 592002
+    name: 英雄作成
+    description: mission_buff_config-20592002
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592002
+  }
+  {
+    id: 592003
+    name: 無羈狂怒
+    description: mission_buff_config-20592003
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592003
+  }
+  {
+    id: 592004
+    name: 嗜血狂怒
+    description: mission_buff_config-20592004
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592004
+  }
+  {
+    id: 592101
+    name: 機械壁壘
+    description: mission_buff_config-20592101
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592101
+  }
+  {
+    id: 592102
+    name: 多面防禦
+    description: mission_buff_config-20592102
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592102
+  }
+  {
+    id: 592103
+    name: 偏折護盾
+    description: mission_buff_config-20592103
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592103
+  }
+  {
+    id: 592104
+    name: 湧能護盾
+    description: mission_buff_config-20592104
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592104
+  }
+  {
+    id: 592105
+    name: 靜滯力場
+    description: mission_buff_config-20592105
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592105
+  }
+  {
+    id: 592106
+    name: 保護之殼
+    description: mission_buff_config-20592106
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592106
+  }
+  {
+    id: 592107
+    name: 協同嘲諷
+    description: mission_buff_config-20592107
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592107
+  }
+  {
+    id: 592108
+    name: 意外驚喜
+    description: mission_buff_config-20592108
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592108
+  }
+  {
+    id: 592201
+    name: 狙擊引導
+    description: mission_buff_config-20592201
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592201
+  }
+  {
+    id: 592202
+    name: 雪上加霜
+    description: mission_buff_config-20592202
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592202
+  }
+  {
+    id: 592203
+    name: 炮擊引導
+    description: mission_buff_config-20592203
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592203
+  }
+  {
+    id: 592204
+    name: 落井下石
+    description: mission_buff_config-20592204
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592204
+  }
+  {
+    id: 592205
+    name: 空襲引導
+    description: mission_buff_config-20592205
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592205
+  }
+  {
+    id: 592206
+    name: 趁火打劫
+    description: mission_buff_config-20592206
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 592206
+  }
+  {
+    id: 593001
+    name: 勇士無人機
+    description: 攜帶勇士無人機
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 593001
+    carry_mission_skill: "593011"
+  }
+  {
+    id: 593002
+    name: 暴怒無人機
+    description: 攜帶暴怒無人機
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 593002
+    carry_mission_skill: "593012"
+  }
+  {
+    id: 593011
+    name: 戰鬥效率·改
+    description: mission_buff_config-20593011
+    code: MK3A1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778086
+    conflict_type: 593011
+  }
+  {
+    id: 593012
+    name: 怒無限強·改
+    description: mission_buff_config-20593012
+    code: MK3A1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778087
+    conflict_type: 593012
+  }
+  {
+    id: 593021
+    name: 戰鬥效率·改
+    description: mission_buff_config-20593021
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778068
+    conflict_type: 593021
+  }
+  {
+    id: 593022
+    name: 怒無限強·改
+    description: mission_buff_config-20593022
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778068
+    conflict_type: 593022
+  }
+  {
+    id: 593103
+    name: 盾甲無人機
+    description: 攜帶盾甲無人機
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 593103
+    carry_mission_skill: "593113"
+  }
+  {
+    id: 593104
+    name: 護盾無人機
+    description: 攜帶護盾無人機
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 593104
+    carry_mission_skill: "593114"
+  }
+  {
+    id: 593105
+    name: 防禦無人機
+    description: 攜帶防禦無人機
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 593105
+    carry_mission_skill: "593115"
+  }
+  {
+    id: 593106
+    name: 嘲諷無人機
+    description: 攜帶嘲諷無人機
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 593106
+    carry_mission_skill: "593116"
+  }
+  {
+    id: 593113
+    name: 防暴強化·改
+    description: mission_buff_config-20593113
+    code: MK3A1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778088
+    conflict_type: 593113
+  }
+  {
+    id: 593114
+    name: 能量護盾·改
+    description: mission_buff_config-20593114
+    code: MK3A1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778089
+    conflict_type: 593114
+  }
+  {
+    id: 593115
+    name: 臨時裝甲·改
+    description: mission_buff_config-20593115
+    code: MK3A1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778090
+    conflict_type: 593115
+  }
+  {
+    id: 593116
+    name: 嘲諷靶機·改
+    description: mission_buff_config-20593116
+    code: MK3A1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778094
+    conflict_type: 593116
+  }
+  {
+    id: 593123
+    name: 防暴強化·改
+    description: mission_buff_config-20593123
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778070
+    conflict_type: 593123
+  }
+  {
+    id: 593124
+    name: 能量護盾·改
+    description: mission_buff_config-20593124
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778070
+    conflict_type: 593124
+  }
+  {
+    id: 593125
+    name: 臨時裝甲·改
+    description: mission_buff_config-20593125
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778070
+    conflict_type: 593125
+  }
+  {
+    id: 593126
+    name: 嘲諷靶機·改
+    description: mission_buff_config-20593126
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778070
+    conflict_type: 593126
+  }
+  {
+    id: 593201
+    name: 狙擊無人機
+    description: 攜帶狙擊無人機
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 593201
+    carry_mission_skill: "593211"
+  }
+  {
+    id: 593202
+    name: 炮擊無人機
+    description: 攜帶炮擊無人機
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 593202
+    carry_mission_skill: "593212"
+  }
+  {
+    id: 593203
+    name: 空襲無人機
+    description: 攜帶空襲無人機
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 593203
+    carry_mission_skill: "593213"
+  }
+  {
+    id: 593211
+    name: 狙擊指令·改
+    description: mission_buff_config-20593211
+    code: MK3A1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778093
+    conflict_type: 593211
+  }
+  {
+    id: 593212
+    name: 炮擊指令·改
+    description: mission_buff_config-20593212
+    code: MK3A1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778092
+    conflict_type: 593212
+  }
+  {
+    id: 593213
+    name: 致命空襲·改
+    description: mission_buff_config-20593213
+    code: MK3A1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778091
+    conflict_type: 593213
+  }
+  {
+    id: 593221
+    name: 狙擊指令·改
+    description: mission_buff_config-20593221
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778068
+    conflict_type: 593221
+  }
+  {
+    id: 593222
+    name: 炮擊指令·改
+    description: mission_buff_config-20593222
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778068
+    conflict_type: 593222
+  }
+  {
+    id: 593223
+    name: 致命空襲·改
+    description: mission_buff_config-20593223
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778068
+    conflict_type: 593223
+  }
+  {
+    id: 593301
+    name: 熱血無人機
+    description: 攜帶熱血無人機
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 593301
+    carry_mission_skill: "593311"
+  }
+  {
+    id: 593302
+    name: 集中無人機
+    description: 攜帶集中無人機
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 593302
+    carry_mission_skill: "593312"
+  }
+  {
+    id: 593303
+    name: 干擾無人機
+    description: 攜帶干擾無人機
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 593303
+    carry_mission_skill: "593313"
+  }
+  {
+    id: 593311
+    name: 熱血
+    description: mission_buff_config-20593311
+    code: MK3A1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778072
+    conflict_type: 593311
+  }
+  {
+    id: 593312
+    name: 集中
+    description: mission_buff_config-20593312
+    code: MK3A1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778076
+    conflict_type: 593312
+  }
+  {
+    id: 593313
+    name: 干擾
+    description: mission_buff_config-20593313
+    code: MK3A1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778080
+    conflict_type: 593313
+  }
+  {
+    id: 593321
+    name: 熱血
+    description: mission_buff_config-20593321
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778074
+    conflict_type: 593321
+  }
+  {
+    id: 593322
+    name: 集中
+    description: mission_buff_config-20593322
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778078
+    conflict_type: 593322
+  }
+  {
+    id: 593323
+    name: 干擾
+    description: mission_buff_config-20593323
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778082
+    conflict_type: 593323
+  }
+  {
+    id: 593333
+    name: 干擾
+    description: mission_buff_config-20593333
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778084
+    conflict_type: 593333
+  }
+  {
+    id: 595001
+    name: 【標記】單線ALLY標記
+    description: mission_buff_config-20595001
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    free_ap_move: 1
+    conflict_type: 595001
+    carry_mission_skill: "595101,595111"
+  }
+  {
+    id: 595002
+    name: 【標記】單線TEAM標記
+    description: mission_buff_config-20595002
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 595002
+    carry_mission_skill: "595102,595112"
+  }
+  {
+    id: 596001
+    name: 【標記】AR標記
+    description: mission_buff_config-20596001
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    free_ap_move: 1
+    conflict_type: 596001
+    carry_mission_skill: "596101,596111"
+  }
+  {
+    id: 596002
+    name: 【標記】RF標記
+    description: mission_buff_config-20596002
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    free_ap_move: 1
+    conflict_type: 596002
+    carry_mission_skill: "596102,596112"
+  }
+  {
+    id: 596003
+    name: 【標記】MG標記
+    description: mission_buff_config-20596003
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    free_ap_move: 1
+    conflict_type: 596003
+    carry_mission_skill: "596103,596113"
+  }
+  {
+    id: 596004
+    name: 【標記】TEAM標記
+    description: mission_buff_config-20596004
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 596004
+    carry_mission_skill: "596104,596114"
+  }
+  {
+    id: 597001
+    name: 【標記】AR普通預備
+    description: mission_buff_config-20597001
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 597011
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 597001
+    priority: 1
+  }
+  {
+    id: 597002
+    name: 【標記】RF普通預備
+    description: mission_buff_config-20597002
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 597012
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 597002
+    priority: 1
+  }
+  {
+    id: 597003
+    name: 【標記】MG普通預備
+    description: mission_buff_config-20597003
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 597013
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 597003
+    priority: 1
+  }
+  {
+    id: 597004
+    name: 【標記】通用普通預備
+    description: mission_buff_config-20597004
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 597014
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 597004
+    priority: 1
+  }
+  {
+    id: 597005
+    name: 【標記】AR精英預備
+    description: mission_buff_config-20597005
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 597015
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 597001
+    priority: 2
+  }
+  {
+    id: 597006
+    name: 【標記】RF精英預備
+    description: mission_buff_config-20597006
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 597016
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 597002
+    priority: 2
+  }
+  {
+    id: 597007
+    name: 【標記】MG精英預備
+    description: mission_buff_config-20597007
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 597017
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 597003
+    priority: 2
+  }
+  {
+    id: 597008
+    name: 【標記】通用精英預備
+    description: mission_buff_config-20597008
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 597018
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 597004
+    priority: 2
+  }
+  {
+    id: 597011
+    name: 【標記】AR普通升級
+    description: mission_buff_config-20597011
+    code: buff
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 597001
+    priority: 3
+    carry_mission_skill: "590001,590003,590005,590006,590101,590103,590105,590106,590201,590203,590205,590206,590301,590302,590303,590401,590402,590403,590501,590502,590503,590601,590603,590604,590606,590701,590703,590704,590706,590801,590901,591001,591002,591003,591101,591102,591103,592001,592002,592003,592004,592101,592102,592103,592104,592105,592106,592201,592203,592205"
+  }
+  {
+    id: 597012
+    name: 【標記】RF普通升級
+    description: mission_buff_config-20597012
+    code: buff
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 597002
+    priority: 3
+    carry_mission_skill: "590001,590003,590005,590006,590101,590103,590105,590106,590201,590203,590205,590206,590301,590302,590303,590401,590402,590403,590501,590502,590503,590601,590603,590604,590606,590701,590703,590704,590706,590801,590901,591201,591202,591203,591301,591302,591303,591304,592001,592002,592003,592004,592101,592102,592103,592104,592105,592106,592201,592203,592205"
+  }
+  {
+    id: 597013
+    name: 【標記】MG普通升級
+    description: mission_buff_config-20597013
+    code: buff
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 597003
+    priority: 3
+    carry_mission_skill: "590001,590003,590005,590006,590101,590103,590105,590106,590201,590203,590205,590206,590301,590302,590303,590401,590402,590403,590501,590502,590503,590601,590603,590604,590606,590701,590703,590704,590706,590801,590901,591401,591402,591403,591501,591502,592001,592002,592003,592004,592101,592102,592103,592104,592105,592106,592201,592203,592205"
+  }
+  {
+    id: 597014
+    name: 【標記】通用普通升級
+    description: mission_buff_config-20597014
+    code: buff
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 597004
+    priority: 3
+    carry_mission_skill: "590001,590003,590005,590006,590101,590103,590105,590106,590201,590203,590205,590206,590301,590302,590303,590401,590402,590403,590501,590502,590503,590601,590603,590604,590606,590701,590703,590704,590706,590801,590901,591001,591002,591003,591101,591102,591103,591201,591202,591203,591301,591302,591303,591304,591401,591402,591403,591501,591502,592001,592002,592003,592004,592101,592102,592103,592104,592105,592106,592201,592203,592205"
+  }
+  {
+    id: 597015
+    name: 【標記】AR精英升級
+    description: mission_buff_config-20597015
+    code: buff
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 597001
+    priority: 4
+    carry_mission_skill: "590002,590102,590202,590602,590605,590702,590705,590802,590902,591004,591104,592202,592204,592206"
+  }
+  {
+    id: 597016
+    name: 【標記】RF精英升級
+    description: mission_buff_config-20597016
+    code: buff
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 597002
+    priority: 4
+    carry_mission_skill: "590002,590102,590202,590602,590605,590702,590705,590802,590902,591204,592202,592204,592206"
+  }
+  {
+    id: 597017
+    name: 【標記】MG精英升級
+    description: mission_buff_config-20597017
+    code: buff
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 597003
+    priority: 4
+    carry_mission_skill: "590002,590102,590202,590602,590605,590702,590705,590802,590902,591404,591503,591504,592202,592204,592206"
+  }
+  {
+    id: 597018
+    name: 【標記】通用精英升級
+    description: mission_buff_config-20597018
+    code: buff
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 597004
+    priority: 4
+    carry_mission_skill: "590002,590102,590202,590602,590605,590702,590705,590802,590902,591004,591104,591204,591404,591503,591504,592202,592204,592206"
+  }
+  {
+    id: 597021
+    name: 【標記】EX升級-聯合突襲
+    description: mission_buff_config-20597021
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 597021
+    carry_mission_skill: "597021"
+  }
+  {
+    id: 597022
+    name: 【標記】EX升級-專注
+    description: mission_buff_config-20597022
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 597022
+    carry_mission_skill: "597022"
+  }
+  {
+    id: 597023
+    name: 【標記】EX升級-強化
+    description: mission_buff_config-20597023
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 597023
+    carry_mission_skill: "597023"
+  }
+  {
+    id: 598001
+    name: 【標記】無人機站
+    description: mission_buff_config-20598001
+    code: buff
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    conflict_type: 598001
+    carry_mission_skill: "593001,593002,593103,593104,593105,593106,593201,593202,593203,593301,593302,593303"
+  }
+  {
+    id: 599002
+    name: 【標記】解除定身
+    description: mission_buff_config-20599002
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 590000
+    priority: 1
+  }
+  {
+    id: 599901
+    name: 【標記】劇情檢測
+    description: mission_buff_config-20599901
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 599911
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 599901
+  }
+  {
+    id: 599902
+    name: 【標記】劇情檢測
+    description: mission_buff_config-20599902
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 599912
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 599902
+  }
+  {
+    id: 599903
+    name: 【標記】劇情檢測
+    description: mission_buff_config-20599903
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 599913
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 599903
+  }
+  {
+    id: 599904
+    name: 【標記】劇情檢測
+    description: mission_buff_config-20599904
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 599914
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 599904
+  }
+  {
+    id: 599905
+    name: 【標記】劇情檢測
+    description: mission_buff_config-20599905
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 599915
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 599905
+  }
+  {
+    id: 599906
+    name: 【標記】劇情檢測
+    description: mission_buff_config-20599906
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 599916
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 599906
+  }
+  {
+    id: 599907
+    name: 【標記】劇情檢測
+    description: mission_buff_config-20599907
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 599917
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 599907
+  }
+  {
+    id: 599908
+    name: 【標記】劇情檢測
+    description: mission_buff_config-20599908
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 599918
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 599908
+  }
+  {
+    id: 599909
+    name: 【標記】劇情檢測
+    description: mission_buff_config-20599909
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 599919
+    conditions_type: "4"
+    conditions_time: 0-1
+    conflict_type: 599909
   }
   {
     id: 910630

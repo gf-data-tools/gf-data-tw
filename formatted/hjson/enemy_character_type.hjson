@@ -17814,7 +17814,7 @@
   {
     id: 900501
     type: 1
-    name: 稻草人
+    name: 聚類僕從
     enemy_info: 稻草人110AR1
     code: Scarecrow
     maxlife: 510000
@@ -17836,12 +17836,12 @@
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900501
-    enemy_illustration_id: 5
+    enemy_illustration_id: 182
   }
   {
     id: 900502
     type: 1
-    name: 稻草人
+    name: 聚類僕從
     enemy_info: 稻草人115AR2
     code: Scarecrow
     maxlife: 690000
@@ -17863,12 +17863,12 @@
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900502
-    enemy_illustration_id: 5
+    enemy_illustration_id: 182
   }
   {
     id: 900503
     type: 1
-    name: 計量官
+    name: 加權騎士
     enemy_info: 计量官120AR2
     code: BossGager
     maxlife: 990000
@@ -17886,17 +17886,17 @@
     level: 100
     character: 精英,計量官
     normal_attack: 300301
-    passive_skill: "401001,200303,119029"
+    passive_skill: "401001,401002,401003,401004,401005,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900503
-    enemy_illustration_id: 26
+    enemy_illustration_id: 183
   }
   {
     id: 900504
     type: 1
-    name: 計量官
+    name: 加權騎士
     enemy_info: 计量官120AR3
     code: BossGager
     maxlife: 990000
@@ -17914,17 +17914,17 @@
     level: 100
     character: 精英,計量官
     normal_attack: 300301
-    passive_skill: "401001,200303,119029"
+    passive_skill: "401001,401002,401003,401004,401005,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900504
-    enemy_illustration_id: 26
+    enemy_illustration_id: 183
   }
   {
     id: 900505
     type: 1
-    name: 建築師
+    name: 極值玩偶
     enemy_info: 建筑师125AR3
     code: BossArchitect
     maxlife: 980000
@@ -17942,17 +17942,17 @@
     level: 100
     character: 精英,建築師,裝甲
     normal_attack: 300307
-    passive_skill: "400801,400901,400902,200303,119029"
+    passive_skill: "400801,400901,400902,400903,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900505
-    enemy_illustration_id: 27
+    enemy_illustration_id: 184
   }
   {
     id: 900506
     type: 1
-    name: 代理人
+    name: 正態指揮
     enemy_info: 代理人130AR3
     code: Agent
     maxlife: 1480000
@@ -17974,12 +17974,12 @@
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900506
-    enemy_illustration_id: 45
+    enemy_illustration_id: 185
   }
   {
     id: 900507
     type: 1
-    name: 行裁者
+    name: 離散測繪員
     enemy_info: 刽子手110RF1
     code: Excutioner
     maxlife: 750000
@@ -17997,17 +17997,17 @@
     character: 精英,行裁者,裝甲
     special_attack: 4
     normal_attack: 300301
-    passive_skill: "400201,119029"
+    passive_skill: "400201,200303,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900507
-    enemy_illustration_id: 8
+    enemy_illustration_id: 186
   }
   {
     id: 900508
     type: 1
-    name: 行裁者
+    name: 離散測繪員
     enemy_info: 刽子手115RF2
     code: Excutioner
     maxlife: 1015000
@@ -18025,19 +18025,19 @@
     character: 精英,行裁者,裝甲
     special_attack: 4
     normal_attack: 300301
-    passive_skill: "400201,119029"
+    passive_skill: "400201,200303,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900508
-    enemy_illustration_id: 8
+    enemy_illustration_id: 186
   }
   {
     id: 900509
     type: 1
-    name: 破壞者
+    name: 方差牧童
     enemy_info: 破坏者120RF2
-    code: DestroyerPlus
+    code: Destroyer
     maxlife: 930000
     pow: 140
     hit: 130
@@ -18054,18 +18054,19 @@
     level: 100
     character: 精英,破壞者
     normal_attack: 300304
-    passive_skill: "402201,401901,401902,200303,119029"
+    passive_skill: "402201,401911,401912,200303,119029"
     effect_ratio: 1.05
+    voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900509
-    enemy_illustration_id: 34
+    enemy_illustration_id: 187
   }
   {
     id: 900510
     type: 1
-    name: 破壞者
+    name: 方差牧童
     enemy_info: 破坏者120RF3
-    code: DestroyerPlus
+    code: Destroyer
     maxlife: 930000
     pow: 140
     hit: 130
@@ -18082,16 +18083,17 @@
     level: 100
     character: 精英,破壞者
     normal_attack: 300304
-    passive_skill: "402201,401901,401902,200303,119029"
+    passive_skill: "402201,401911,401912,200303,119029"
     effect_ratio: 1.05
+    voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900510
-    enemy_illustration_id: 34
+    enemy_illustration_id: 187
   }
   {
     id: 900511
     type: 1
-    name: 銜尾蛇
+    name: 似然近衛
     enemy_info: 衔尾蛇125RF3
     code: Weaver
     maxlife: 1050000
@@ -18115,12 +18117,12 @@
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900511
-    enemy_illustration_id: 21
+    enemy_illustration_id: 188
   }
   {
     id: 900512
     type: 1
-    name: 夢想家
+    name: 混沌歌者
     enemy_info: 梦想家130RF3
     code: Dreamer
     maxlife: 1395000
@@ -18143,12 +18145,12 @@
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900512
-    enemy_illustration_id: 24
+    enemy_illustration_id: 189
   }
   {
     id: 900513
     type: 1
-    name: 獵手
+    name: 後驗紡工
     enemy_info: 猎手110MG1
     code: Hunter
     maxlife: 545000
@@ -18165,17 +18167,17 @@
     level: 100
     character: 精英,獵手,裝甲
     normal_attack: 300302
-    passive_skill: "400301"
+    passive_skill: "400301,200303,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900513
-    enemy_illustration_id: 11
+    enemy_illustration_id: 190
   }
   {
     id: 900514
     type: 1
-    name: 獵手
+    name: 後驗紡工
     enemy_info: 猎手115MG2
     code: Hunter
     maxlife: 740000
@@ -18192,17 +18194,17 @@
     level: 100
     character: 精英,獵手,裝甲
     normal_attack: 300302
-    passive_skill: "400301"
+    passive_skill: "400301,200303,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900514
-    enemy_illustration_id: 11
+    enemy_illustration_id: 190
   }
   {
     id: 900515
     type: 1
-    name: 煉金術士
+    name: 游移祭司
     enemy_info: 炼金术士120MG2
     code: Alchemist
     maxlife: 1160000
@@ -18225,12 +18227,12 @@
     voice: "1,2"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900515
-    enemy_illustration_id: 23
+    enemy_illustration_id: 191
   }
   {
     id: 900516
     type: 1
-    name: 煉金術士
+    name: 游移祭司
     enemy_info: 炼金术士120MG3
     code: Alchemist
     maxlife: 1160000
@@ -18253,12 +18255,12 @@
     voice: "1,2"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900516
-    enemy_illustration_id: 23
+    enemy_illustration_id: 191
   }
   {
     id: 900517
     type: 1
-    name: 干擾者
+    name: 擾動修士
     enemy_info: 干扰者125MG3
     code: Intruder
     maxlife: 1190000
@@ -18276,17 +18278,17 @@
     character: 精英,干擾者
     special_attack: 7
     normal_attack: 300314
-    passive_skill: "400401"
+    passive_skill: "400401,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900517
-    enemy_illustration_id: 17
+    enemy_illustration_id: 192
   }
   {
     id: 900518
     type: 1
-    name: 法官
+    name: 收斂愚者
     enemy_info: 法官130MG3
     code: Justice
     maxlife: 1970000
@@ -18309,12 +18311,12 @@
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900518
-    enemy_illustration_id: 35
+    enemy_illustration_id: 193
   }
   {
     id: 900519
     type: 1
-    name: 獵手
+    name: 後驗紡工
     enemy_info: 猎手135BoSS
     code: Hunter
     maxlife: 1505000
@@ -18331,17 +18333,17 @@
     level: 100
     character: 精英,獵手,裝甲
     normal_attack: 300302
-    passive_skill: "400301"
+    passive_skill: "400301,200303,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900519
-    enemy_illustration_id: 11
+    enemy_illustration_id: 190
   }
   {
     id: 900520
     type: 1
-    name: 行裁者
+    name: 離散測繪員
     enemy_info: 刽子手145BoSS
     code: Excutioner
     maxlife: 2600000
@@ -18359,24 +18361,24 @@
     character: 精英,行裁者,裝甲
     special_attack: 4
     normal_attack: 300301
-    passive_skill: "400201,119029"
+    passive_skill: "400201,200303,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900520
-    enemy_illustration_id: 8
+    enemy_illustration_id: 186
   }
   {
     id: 900521
     type: 1
-    name: 稻草人-新春
+    name: 魘淵夕來
     enemy_info: 年兽稻草人150BoSS
-    code: Scarecrow
+    code: Scarecrow_SpringFes
     maxlife: 2950000
     pow: 255
     hit: 225
     dodge: 255
-    range: 5
+    range: 8
     speed: 60
     number: 1
     angle: 180
@@ -18386,12 +18388,12 @@
     level: 100
     character: 精英,稻草人
     normal_attack: 120301
-    passive_skill: "120304,120305,120307,120308,120309,120310,120313,120314,119029,120302"
+    passive_skill: "120304,120305,120307,120308,119029,120302,120313,120309"
     effect_ratio: 1.0
     voice: "1,2,3"
     deployment_scale: 1.0
     recommend_description: enemy_character_type-30900521
-    enemy_illustration_id: 5
+    enemy_illustration_id: 194
   }
   {
     id: 910101

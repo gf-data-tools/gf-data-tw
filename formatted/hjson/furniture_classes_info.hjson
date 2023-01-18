@@ -1428,6 +1428,20 @@
     years: "2022"
   }
   {
+    id: "109"
+    name: 玉兔踏歌會
+    rank: "5"
+    bonus_picture: "3103"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: "12"
+    description: 以春節舞台為主題的傢俱組合。焰火新綻，飯菜飄香，萬眾期待的格里芬新春聯歡會即將在鬧騰的氛圍中閃亮登場……
+    bonus_description: 集齊後宿舍內會出現意想不到的現象。
+    code: SpringFes2023_deco_06_icon
+    is_showed: "1"
+    placement: "1"
+    years: "2023"
+  }
+  {
     id: "299"
     name: 寵物
     rank: "5"

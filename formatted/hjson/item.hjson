@@ -13124,6 +13124,86 @@
     detail_introduction: item-30002226
   }
   {
+    id: 2227
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_MK3A1
+    item_name: MK3A1-紅露醉
+    introduction: MK3A1-紅露醉
+    rank: 1
+    detail_introduction: item-30002227
+  }
+  {
+    id: 2228
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_Px4Storm
+    item_name: Px4 風暴-金風嬈
+    introduction: Px4 風暴-金風嬈
+    rank: 1
+    detail_introduction: item-30002228
+  }
+  {
+    id: 2229
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_Erma
+    item_name: Erma-暗香盈
+    introduction: Erma-暗香盈
+    rank: 1
+    detail_introduction: item-30002229
+  }
+  {
+    id: 2230
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_Savage99
+    item_name: Savage 99-玉叢幽
+    introduction: Savage 99-玉叢幽
+    rank: 1
+    detail_introduction: item-30002230
+  }
+  {
+    id: 2231
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_RexZero1
+    item_name: Rex Zero 1-滿庭芳
+    introduction: Rex Zero 1-滿庭芳
+    rank: 1
+    detail_introduction: item-30002231
+  }
+  {
+    id: 2232
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_Tabuk
+    item_name: 塔布克-福雙至
+    introduction: 塔布克-福雙至
+    rank: 1
+    detail_introduction: item-30002232
+  }
+  {
+    id: 2233
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_APC556
+    item_name: APC556-木蘭謠
+    introduction: APC556-木蘭謠
+    rank: 1
+    detail_introduction: item-30002233
+  }
+  {
+    id: 2234
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_DP28
+    item_name: DP28-朝顏蔓
+    introduction: DP28-朝顏蔓
+    rank: 1
+    detail_introduction: item-30002234
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -13684,6 +13764,7 @@
     code: qjyd_20220901
     item_name: 衝線時刻
     introduction: 不斷提升性能，反覆調試素體——一切為決出勝負所做的努力，都將在這一瞬間成為永恆。
+    rank: 1
     detail_introduction: item-30007039
   }
   {
@@ -13693,6 +13774,7 @@
     code: qjyd_20220902
     item_name: 小小驚喜
     introduction: 美酒與佳肴，祝福與歡笑——在手拉炮清脆的響聲中，徹夜狂歡宣告開始。
+    rank: 1
     detail_introduction: item-30007040
   }
   {
@@ -13702,7 +13784,38 @@
     code: qjyd_20220903
     item_name: 金色傳說
     introduction: 勝者高舉獎盃，將全場目光匯聚於此——在耀眼光芒見證之下，是少女們締造的又一個傳說。
+    rank: 1
     detail_introduction: item-30007041
+  }
+  {
+    id: 7042
+    type: 7
+    arg: "7042"
+    code: qjyd_20230101
+    item_name: 自由人
+    introduction: 看看對面的陣型，沒什麼了不起的！除了必要的防守以外，我們該做的只有三件事——進攻！進攻！還是進攻！
+    rank: 1
+    detail_introduction: item-30007042
+  }
+  {
+    id: 7043
+    type: 7
+    arg: "7043"
+    code: qjyd_20230102
+    item_name: 帽子戲法
+    introduction: 第一粒進球，對方覺得還有機會；第二粒進球，對方開始調整策略；第三粒進球……對方的門將似乎需要一位心理醫生？
+    rank: 1
+    detail_introduction: item-30007043
+  }
+  {
+    id: 7044
+    type: 7
+    arg: "7044"
+    code: qjyd_20230103
+    item_name: 世界波
+    introduction: 進啦！進——啦——！！這是本場比賽最精彩的進球，沒有之一！！！讓我們把鏡頭給到締造這一瞬間的功臣——哦哦，這、這是何等的耀眼！！！
+    rank: 1
+    detail_introduction: item-30007044
   }
   {
     id: 7201
@@ -13937,6 +14050,49 @@
     introduction: 禿洞npc卡score標記用
     rank: 1
     detail_introduction: item-30009019
+    is_hide_info: 1
+  }
+  {
+    id: 9026
+    type: 1
+    arg: "9026"
+    code: EventPT4
+    item_name: 迷籠猜想PT
+    introduction: 迷籠猜想PT
+    rank: 1
+    detail_introduction: item-30009026
+  }
+  {
+    id: 9027
+    type: 1
+    arg: "9027"
+    code: Rouge_Raid
+    item_name: 獲取後活動中的友方梯隊可獲得技能聯合突襲，使用後同時獲得狙擊支援、炮擊支援、空襲支援的戰場效果
+    introduction: 獲取後活動中的友方梯隊可獲得技能聯合突襲，使用後同時獲得狙擊支援、炮擊支援、空襲支援的戰場效果
+    rank: 1
+    detail_introduction: item-30009027
+    is_hide_info: 1
+  }
+  {
+    id: 9028
+    type: 1
+    arg: "9028"
+    code: Rouge_Focus
+    item_name: 獲取後活動中的友方梯隊可獲得技能專注，使用後獲得同名戰場效果
+    introduction: 獲取後活動中的友方梯隊可獲得技能專注，使用後獲得同名戰場效果
+    rank: 1
+    detail_introduction: item-30009028
+    is_hide_info: 1
+  }
+  {
+    id: 9029
+    type: 1
+    arg: "9029"
+    code: Rouge_Strengthen
+    item_name: 獲取後活動中的友方梯隊可獲得技能強化，使用後獲得同名戰場效果
+    introduction: 獲取後活動中的友方梯隊可獲得技能強化，使用後獲得同名戰場效果
+    rank: 1
+    detail_introduction: item-30009029
     is_hide_info: 1
   }
   {
@@ -15694,6 +15850,70 @@
     detail_introduction: item-30100168
   }
   {
+    id: 100169
+    type: 9
+    arg: "100169"
+    code: Fix_Coin
+    item_name: 修正幣
+    introduction: 修正幣
+    rank: 1
+    daily_limit: "60"
+    detail_introduction: item-30100169
+  }
+  {
+    id: 100170
+    type: 4
+    arg: "100170"
+    code: Nova_medal
+    item_name: 新星勛章·迷籠猜想
+    introduction: 新星勛章·迷籠猜想
+    rank: 1
+    detail_introduction: item-30100170
+  }
+  {
+    id: 100171
+    type: 4
+    arg: "100171"
+    code: Platinum_medal
+    item_name: 白金勛章·迷籠猜想
+    introduction: 白金勛章·迷籠猜想
+    rank: 1
+    detail_introduction: item-30100171
+  }
+  {
+    id: 100172
+    type: 1
+    arg: "100172"
+    code: Rouge_Raid
+    item_name: 聯合突襲
+    introduction: 獲取後活動中的友方梯隊可獲得技能聯合突襲，使用後同時獲得狙擊支援、炮擊支援、空襲支援的戰場效果
+    rank: 1
+    sort: -1
+    detail_introduction: item-30100172
+  }
+  {
+    id: 100173
+    type: 1
+    arg: "100173"
+    code: Rouge_Focus
+    item_name: 專注
+    introduction: 獲取後活動中的友方梯隊可獲得技能專注，使用後獲得同名戰場效果
+    rank: 1
+    sort: -1
+    detail_introduction: item-30100173
+  }
+  {
+    id: 100174
+    type: 1
+    arg: "100174"
+    code: Rouge_Strengthen
+    item_name: 強化
+    introduction: 獲取後活動中的友方梯隊可獲得技能強化，使用後獲得同名戰場效果
+    rank: 1
+    sort: -1
+    detail_introduction: item-30100174
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -16242,6 +16462,16 @@
     introduction: 活動點數
     rank: 1
     detail_introduction: item-30110055
+  }
+  {
+    id: 110056
+    type: 4
+    arg: "110056"
+    code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+    detail_introduction: item-30110056
   }
   {
     id: 120001
@@ -17326,5 +17556,38 @@
     rank: 1
     sort: -1
     detail_introduction: item-31500044
+  }
+  {
+    id: 1500045
+    type: 15
+    arg: "1500045"
+    code: Bumdle_Coupons3
+    item_name: 珍藏裝扮券
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500045
+  }
+  {
+    id: 1500046
+    type: 15
+    arg: "1500046"
+    code: Bumdle_Coupons2
+    item_name: 尊享裝扮券
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500046
+  }
+  {
+    id: 1500047
+    type: 15
+    arg: "1500047"
+    code: Bumdle_Coupons1
+    item_name: 至臻裝扮券
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500047
   }
 ]

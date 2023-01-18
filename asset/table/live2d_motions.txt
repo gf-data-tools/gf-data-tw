@@ -2840,5 +2840,23 @@ live2d_motions-10780119,翻轉
 live2d_motions-10780120,重置
 live2d_motions-10780121,上線響應
 live2d_motions-10780122,晃動響應
-
+live2d_motions-10800301,待機
+live2d_motions-10800302,特殊待機1
+live2d_motions-10800303,特殊待機2
+live2d_motions-10800304,交互1
+live2d_motions-10800305,交互2
+live2d_motions-10800306,交互3
+live2d_motions-10800307,交互4
+live2d_motions-10800308,交互5
+live2d_motions-10800309,結契後交互
+live2d_motions-10800310,結契動作
+live2d_motions-10800311,晃動響應
+live2d_motions-10800312,上線響應
+live2d_motions-10800313,待機
+live2d_motions-10800314,交互1
+live2d_motions-10800315,交互2
+live2d_motions-10800316,交互3
+live2d_motions-10800317,交互4
+live2d_motions-10800318,交互5
+live2d_motions-10800319,上線響應
 

@@ -1163,4 +1163,8 @@
     obtain_id: 3092
     description: 2023年12月簽到獎勵
   }
+  {
+    obtain_id: 3093
+    description: 限時活動<迷籠猜想>代幣兌換
+  }
 ]

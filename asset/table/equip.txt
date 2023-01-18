@@ -1163,7 +1163,7 @@ equip-20000293,傷害+<pow>//n護甲+<armor>$M6 ASW專用
 equip-30000293,IOP為M6 ASW開發的多功能披肩，採用了先進材料，具有相當的防彈能力。
 equip-40000293,
 equip-10000294,ACR固定後托
-equip-20000294,暴擊機率+<critical_percent><%>//n傷害+<pow>$ACR專用
+equip-20000294,暴擊機率+<critical_percent><%>//n傷害+<pow>技能增強$ACR專用
 equip-30000294,ACR專用的固定後拖，雖然無法摺疊但是提升了可靠性，可以根據任務需求切換。
 equip-40000294,
 equip-10000295,專用Mlok護木
@@ -1263,6 +1263,26 @@ equip-20000318,穿甲+<armor_piercing>//n傷害+<pow>$SCAR-H專用
 equip-30000318,IOP為SCAR-H單獨開發//c以M949軍用彈為藍本開發的全新脫殼穿甲彈//c精準度和殺傷力對比起普通的M948都有極大的提升。
 equip-40000318,
 equip-10000319,PSP特殊彈
-equip-20000319,傷害+<pow>//n$ADS專用
+equip-20000319,傷害+<pow>技能增強//n$ADS專用
 equip-30000319,專為ADS設計的水下用特種彈藥//c經由IOP改造後在非水下環境也能發揮其價值。
 equip-40000319,
+equip-10000320,MAB高性能運動骨骼
+equip-20000320,傷害+<pow>//n迴避+<dodge>$PA-15專用
+equip-30000320,IOP為PA-15開發新型運動骨骼//c內置可以和心智雲圖共享戰鬥數據的芯片//c極大地提高了人形的作戰效率。
+equip-40000320,
+equip-10000321,8mm毛瑟特殊彈
+equip-20000321,穿甲+<armor_piercing>//n傷害+<pow>技能增強$ZB-26專用
+equip-30000321,IOP為ZB-26獨立開發的8mm毛瑟彈//c彈頭採用了和Patrone 88一樣的圓頭造型//c得益於IOP的技術使得其殺傷力甚至在現代彈頭之上。
+equip-40000321,
+equip-10000322,6.5X50mm改良彈
+equip-20000322,穿甲+<armor_piercing>//n傷害+<pow>$八一式馬專用
+equip-30000322,經過IOP改良後的八一式馬步槍專用6.5x50mm穿甲彈//c可靠性和殺傷力都得到了保障。
+equip-40000322,
+equip-10000323,MHS33
+equip-20000323,暴擊機率+<critical_percent><%>//n傷害+<pow>$HK33專用
+equip-30000323,專為HK33現代化準備的Mlok護木//c極大的提升了握持手感和掛載能力。
+equip-40000323,
+equip-10000324,Dreibein 34
+equip-20000324,傷害+<pow> 命中+<hit>//n暴擊機率+<critical_percent><%>$MG34專用
+equip-30000324,經過IOP的復原和加工的MG34專用三腳架//c能使武器在戰鬥中更加穩定地提供火力支援。
+equip-40000324,

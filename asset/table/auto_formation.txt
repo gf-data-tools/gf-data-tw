@@ -60,3 +60,5 @@ auto_formation-10000030,劊子手-血魘獵狂基礎陣型
 auto_formation-20000030,直接衝擊敵方梯隊，對人形敵人有著更強的殺傷能力。
 auto_formation-10000031,塔亞柔斯基礎陣型
 auto_formation-20000031,對敵方有高威脅核心的梯隊有著良好的抵禦能力，作為<color=#ff7f00>支援</color>梯隊也有著較好的表現。
+auto_formation-10000032,稻草人-魘淵夕來基礎陣型
+auto_formation-20000032,<color=#ff7f00>平衡性</color>很好的梯隊，對於高威脅的敵人有著不小的壓製能力。

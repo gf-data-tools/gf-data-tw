@@ -1336,6 +1336,110 @@
     "character": "1001", "enemy_skill": "", "launch_time": "2035-5-20 00:00:00", "extra": "enemy_illustration-40000180", 
     "spine_scale": "", "org_id": 0, "related_story_id": 0
   }, {
+    "id": 181, "name": "稻草人-魘淵夕來", "type": 1, "code": "Scarecrow_SpringFes", 
+    "introduce": "稻草人-魘淵夕來，火力改造強化後的新型號。迭代升級後的浮游槍能為稻草人提供更強大的輸出，而安裝在稻草人指尖的指揮端口也得到了信號加強，和浮游槍之間的鏈接也更為緊密。據說服裝設計靈感來源於神話傳說中會在年底來到人類村莊大肆破壞的猛獸，它雙眼的凶光能劃破夜晚的黑暗，鋒利的爪子能撕碎一切阻礙……恰如此刻的稻草人。", 
+    "forces": 1, "if_capture": 1, "pow_rank": 5, "life_rank": 4, "hit_rank": 4, "dodge_rank": 4, "rate_rank": 4, 
+    "armor_rank": 0, "speed_rank": 4, "range_rank": 3, "counter": "情報不明,謹慎應對!", "character": "1001", 
+    "enemy_skill": "179,116,180,181,182,183", "launch_time": "2035-5-20 00:00:00", "extra": "enemy_illustration-40000181", 
+    "spine_scale": "70,70,1", "org_id": 10604, "related_story_id": 0
+  }, {
+    "id": 182, "name": "聚類僕從", "type": 1, "code": "Scarecrow", 
+    "introduce": "擅長收集和分析情報，並不擅長正面作戰，在鐵血人形中地位較低。理性派，無口毒舌，忠於職守，鄙夷感性，面對感情豐富卻只懂得服從的格里芬人形充滿優越感。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 5, "life_rank": 4, "hit_rank": 4, "dodge_rank": 4, "rate_rank": 4, 
+    "armor_rank": 0, "speed_rank": 4, "range_rank": 3, "counter": "該單位能力均衡，請注意提高梯隊的整體作戰能力應對。", 
+    "character": "1001,201", "enemy_skill": "59", "launch_time": "2035-5-20 00:00:00", 
+    "extra": "enemy_illustration-40000182", "spine_scale": "70,70,1", "org_id": 0, "related_story_id": 0
+  }, {
+    "id": 183, "name": "加權騎士", "type": 1, "code": "BossGager", 
+    "introduce": "主要擔當指揮行動和人員調度，可以直接指揮作戰人形，也具備不小的作戰能力，地位較高，直接對代理人負責。認真嚴謹，一絲不苟，言行中透露出一股凜然利落的氣質，即使對於敵人也很講求原則和禮節。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 5, "life_rank": 4, "hit_rank": 5, "dodge_rank": 4, "rate_rank": 3, 
+    "armor_rank": 0, "speed_rank": 4, "range_rank": 3, "counter": "該單位能力均衡，請注意提高梯隊的整體作戰能力應對。", 
+    "character": "1001,207", "enemy_skill": "66,67,96", "launch_time": "2035-5-20 00:00:00", 
+    "extra": "enemy_illustration-40000183", "spine_scale": "85,85,1", "org_id": 0, "related_story_id": 0
+  }, {
+    "id": 184, "name": "極值玩偶", "type": 1, "code": "BossArchitect", 
+    "introduce": "擅長遠程破壞和火力支援，作戰能力很強，通常獨來獨往。活潑開朗的沒頭腦元氣少女，什麼時候都興高采烈，對格里芬也沒有敵對意識，對於鐵血只能最低限度地服從命令，但是對轟炸和破壞十分熱心，所以作為敵人仍然十分危險。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 6, "life_rank": 5, "hit_rank": 4, "dodge_rank": 3, "rate_rank": 3, 
+    "armor_rank": 3, "speed_rank": 3, "range_rank": 5, 
+    "counter": "該單位將向預警位置製造較強傷害，且附帶範圍濺射，請注意指揮人形及時移動規避。", "character": "1001,208,309", 
+    "enemy_skill": "68,69", "launch_time": "2035-5-20 00:00:00", "extra": "enemy_illustration-40000184", 
+    "spine_scale": "85,85,1", "org_id": 0, "related_story_id": 0
+  }, {
+    "id": 185, "name": "正態指揮", "type": 1, "code": "Agent", 
+    "introduce": "負責伊萊莎與下屬鐵血的溝通聯絡工作和後勤管理，作戰人形都直接聽從她的命令，地位極高，無論戰鬥還是指揮都很擅長，可以指揮所有作戰人形。冷淡平靜，有條不紊的言行做派，對敵我都會用尊敬的語氣，但實際上除了對主人十分尊重之外，稱呼他人的詞彙都很低劣，尤其對於格里芬更是充滿蔑視。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 5, "life_rank": 5, "hit_rank": 5, "dodge_rank": 2, "rate_rank": 4, 
+    "armor_rank": 0, "speed_rank": 2, "range_rank": 4, 
+    "counter": "在該角色生成護盾時，請注意集中火力將護盾擊破以中斷蓄力，避免蓄力的高傷害攻擊。", "character": "1001,212", 
+    "enemy_skill": "77,78", "launch_time": "2035-5-20 00:00:00", "extra": "enemy_illustration-40000185", 
+    "spine_scale": "80,80,1", "org_id": 0, "related_story_id": 0
+  }, {
+    "id": 186, "name": "離散測繪員", "type": 1, "code": "Excutioner", 
+    "introduce": "相當於精英斥候，比稻草人地位稍高，兩人經常搭檔。莽撞衝動，大大咧咧的女漢子，熱衷於堂堂正正的戰鬥，並不喜歡欺負弱者。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 5, "life_rank": 4, "hit_rank": 4, "dodge_rank": 5, "rate_rank": 3, 
+    "armor_rank": 3, "speed_rank": 3, "range_rank": 2, "counter": "該單位能力均衡，請注意提高梯隊的整體作戰能力應對。", 
+    "character": "1001,202,309", "enemy_skill": "60", "launch_time": "2035-5-20 00:00:00", 
+    "extra": "enemy_illustration-40000186", "spine_scale": "80,80,1", "org_id": 0, "related_story_id": 0
+  }, {
+    "id": 187, "name": "方差牧童", "type": 1, "code": "Destroyer", 
+    "introduce": "擅長爆破任務，解除炸彈也是專家級的，作戰能力也不錯，和煉金術士有時會搭檔。平時高傲，毒舌，實際上是個傲嬌，有點小孩子脾氣，逼急了會哭鼻子，十分在意自己的身高。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 5, "life_rank": 5, "hit_rank": 4, "dodge_rank": 3, "rate_rank": 3, 
+    "armor_rank": 0, "speed_rank": 4, "range_rank": 5, 
+    "counter": "該單位具有極高的單發傷害，但是攻速較慢，命中一般，迴避型人形會有更好的防禦效果。", "character": "1001,206", 
+    "enemy_skill": "64,99", "launch_time": "2035-5-20 00:00:00", "extra": "enemy_illustration-40000187", 
+    "spine_scale": "85,85,1", "org_id": 0, "related_story_id": 0
+  }, {
+    "id": 188, "name": "似然近衛", "type": 1, "code": "Weaver", 
+    "introduce": "擅長短距離的突破或者防禦作戰，智能和作戰能力很高，是蝴蝶事件之後才製造的人形，但因為是製造時期的試驗品，AI極不穩定且很難被控制。表面沉穩內心高傲，擁有強勁的武力和智力優勢，但是實戰經驗較少，而且行事風格捉摸不定，令敵我雙方都難以預判，因此具有極高的危險度。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 4, "life_rank": 5, "hit_rank": 5, "dodge_rank": 4, "rate_rank": 4, 
+    "armor_rank": 3, "speed_rank": 4, "range_rank": 3, 
+    "counter": "該單位將向預警位置製造較強傷害，請注意指揮人形及時移動規避。", "character": "1001,210,309", 
+    "enemy_skill": "71,98", "launch_time": "2035-5-20 00:00:00", "extra": "enemy_illustration-40000188", 
+    "spine_scale": "80,80,1", "org_id": 0, "related_story_id": 0
+  }, {
+    "id": 189, "name": "混沌歌者", "type": 1, "code": "Dreamer", 
+    "introduce": "偏向作戰能力，擁有超遠距離定點打擊的能力，由伊萊莎直接下令指揮，是蝴蝶事件之後才製造的人形，因為自身能力不需要正面出擊，所以平時只呆在鐵血總部，以捉弄法官為樂。優雅的笑容中透著傲慢和難以捉摸，精神狀態極不穩定，總是以自我為中心作戰中會露出瘋狂而不受控制的一面，加上可怕的破壞力，連同伴的安全都不會考慮所幸的是通常不會出現在正面戰場上。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 5, "life_rank": 5, "hit_rank": 5, "dodge_rank": 5, "rate_rank": 5, 
+    "armor_rank": 0, "speed_rank": 5, "range_rank": 5, 
+    "counter": "該單位射程較遠，請注意梯隊整體移動速度，避免移動時間過長導致戰損加重。", "character": "1001,209", 
+    "enemy_skill": "70,97", "launch_time": "2035-5-20 00:00:00", "extra": "enemy_illustration-40000189", 
+    "spine_scale": "75,75,1", "org_id": 0, "related_story_id": 0
+  }, {
+    "id": 190, "name": "後驗紡工", "type": 1, "code": "Hunter", 
+    "introduce": "機動和智能都比較高，擅長騷擾和追擊作戰，需要稻草人與行裁者的配合才能發揮最強的實力。沉著冷靜，喜歡用各種手段將敵人逼到走投無路再活捉，面對格里芬十分高傲，但不屑於使用過於卑劣的手段。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 4, "life_rank": 4, "hit_rank": 5, "dodge_rank": 5, "rate_rank": 5, 
+    "armor_rank": 4, "speed_rank": 5, "range_rank": 4, "counter": "該單位能力均衡，請注意提高梯隊的整體作戰能力應對。", 
+    "character": "1001,203,309", "enemy_skill": "62", "launch_time": "2035-5-20 00:00:00", 
+    "extra": "enemy_illustration-40000190", "spine_scale": "75,75,1", "org_id": 0, "related_story_id": 0
+  }, {
+    "id": 191, "name": "游移祭司", "type": 1, "code": "Alchemist", 
+    "introduce": "擅長應對各種戰術需求，也精通審訊逼供，是鐵血作戰的精英，和破壞者有時會搭檔。狂妄自大，囂張而殘忍，為達目的不擇手段，有施虐傾向，將格里芬視為滿足慾望的玩物，不過心理成熟，可以為鐵血的同伴挺身而出。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 5, "life_rank": 5, "hit_rank": 4, "dodge_rank": 5, "rate_rank": 4, 
+    "armor_rank": 0, "speed_rank": 3, "range_rank": 3, "counter": "該單位能力均衡，請注意提高梯隊的整體作戰能力應對。", 
+    "character": "1001,205", "enemy_skill": "63", "launch_time": "2035-5-20 00:00:00", 
+    "extra": "enemy_illustration-40000191", "spine_scale": "85,85,1", "org_id": 0, "related_story_id": 0
+  }, {
+    "id": 192, "name": "擾動修士", "type": 1, "code": "Intruder", 
+    "introduce": "負責提供作戰策略，也擅長破解和干擾工作，可以直接指揮作戰人形，是稍高級的人形，直接對計量官負責。優雅溫和的言行背後，令人感到的是巨大的空洞，喜歡人類的戲劇，可能是希望從中找到自己的個性。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 4, "life_rank": 4, "hit_rank": 3, "dodge_rank": 4, "rate_rank": 5, 
+    "armor_rank": 0, "speed_rank": 3, "range_rank": 3, "counter": "該單位能力均衡，請注意提高梯隊的整體作戰能力應對。", 
+    "character": "1001,204", "enemy_skill": "84", "launch_time": "2035-5-20 00:00:00", 
+    "extra": "enemy_illustration-40000192", "spine_scale": "85,85,1", "org_id": 0, "related_story_id": 0
+  }, {
+    "id": 193, "name": "收斂愚者", "type": 1, "code": "Justice", 
+    "introduce": "偏向指揮能力，負責鐵血總部的防禦和安全系統，相當於伊萊莎的侍衛，只會聽從伊萊莎個人的命令，是蝴蝶事件之後才製造的人形，整天面對夢想家很頭疼。嚴肅古板，充滿軍人的威嚴和風範，對伊萊莎絕對忠誠，但個子比較矮小，讓人覺得缺乏氣勢，提出這一點的人無論敵我都會倒大霉。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 5, "life_rank": 6, "hit_rank": 4, "dodge_rank": 4, "rate_rank": 4, 
+    "armor_rank": 3, "speed_rank": 4, "range_rank": 5, 
+    "counter": "該單位攻速較高、傷害一般，且會同時攻擊多個單位，推薦使用霰彈槍人形搭配足夠的護甲進行抵禦，同時請注意及時躲避地面的紫色區域，避免受到持續的傷害以及弱化效果。", 
+    "character": "1001,211,309", "enemy_skill": "73,74,75", "launch_time": "2035-5-20 00:00:00", 
+    "extra": "enemy_illustration-40000193", "spine_scale": "70,70,1", "org_id": 0, "related_story_id": 0
+  }, {
+    "id": 194, "name": "魘淵夕來", "type": 1, "code": "Scarecrow_SpringFes", 
+    "introduce": "稻草人-魘淵夕來，火力改造強化後的新型號。迭代升級後的浮游槍能為稻草人提供更強大的輸出，而安裝在稻草人指尖的指揮端口也得到了信號加強，和浮游槍之間的鏈接也更為緊密。據說服裝設計靈感來源於神話傳說中會在年底來到人類村莊大肆破壞的猛獸，它雙眼的凶光能劃破夜晚的黑暗，鋒利的爪子能撕碎一切阻礙……恰如此刻的稻草人。", 
+    "forces": 1, "if_capture": 0, "pow_rank": 5, "life_rank": 4, "hit_rank": 4, "dodge_rank": 4, "rate_rank": 4, 
+    "armor_rank": 0, "speed_rank": 4, "range_rank": 3, "counter": "情報不明,謹慎應對!", "character": "1001", 
+    "enemy_skill": "179,116,180,181,182,183", "launch_time": "2035-5-20 00:00:00", "extra": "enemy_illustration-40000194", 
+    "spine_scale": "70,70,1", "org_id": 0, "related_story_id": 0
+  }, {
     "id": 100001, "name": "鶚視虎", "type": 1, "code": "Gebbennu", 
     "introduce": "神秘的巨型復式戰鬥單位，火力極強，除此以外的地方都是謎團。", "forces": 3, "if_capture": 0, "pow_rank": 6, 
     "life_rank": 7, "hit_rank": 5, "dodge_rank": 5, "rate_rank": 4, "armor_rank": 4, "speed_rank": 4, "range_rank": 5, 

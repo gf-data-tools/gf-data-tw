@@ -7380,6 +7380,7 @@
     explore_tag: "30,54"
     gun_detail_bg: nation_Russia
     org_id: 10302
+    show_damage_skin: ",8008,"
   }
   {
     id: 84
@@ -7744,7 +7745,7 @@
     effect_grid_pos: "25"
     effect_grid_effect: "1,20"
     type_equip1: 2;5,17
-    type_equip2: 1;1,2,3,16
+    type_equip2: 1;1,2,3,16,18
     type_equip3: 3;14,21
     ai: 87
     launch_time: 2016-05-20 00:00:00
@@ -15139,7 +15140,7 @@
     effect_guntype: "1"
     effect_grid_pos: "19"
     effect_grid_effect: "6,12"
-    type_equip1: 2;5
+    type_equip1: 2;5,19
     type_equip2: 1;1,2,3,13
     type_equip3: 3;15
     ai: 174
@@ -19650,7 +19651,7 @@
     gun_detail_bg: nation_Italy
     org_id: 10203
     related_story_id: 100233
-    show_damage_skin: ",6103,0,7203,"
+    show_damage_skin: ",6103,0,7203,8002,"
   }
   {
     id: 234
@@ -21602,7 +21603,7 @@
     effect_grid_effect: "2,15;3,25"
     type_equip1: 1;4,13,16
     type_equip2: 2;6
-    type_equip3: 3;10
+    type_equip3: 3;10,20
     ai: 96
     launch_time: 2019-04-29 00:00:00
     obtain_ids: "1"
@@ -22035,7 +22036,7 @@
     effect_guntype: "2"
     effect_grid_pos: "17,19"
     effect_grid_effect: "1,10;4,10"
-    type_equip1: 1;1,2,3,4,13
+    type_equip1: 1;1,2,3,4,13,18
     type_equip2: 2;8
     type_equip3: 3;9,10
     ai: 105
@@ -24584,7 +24585,7 @@
     obtain_ids: "1,2"
     rank_display: 4
     org_id: 10802
-    show_damage_skin: ",4906,6206,"
+    show_damage_skin: ",4906,6206,8006,"
   }
   {
     id: 306
@@ -24692,13 +24693,13 @@
     ratio_range: 100
     skill1: 115901
     normal_attack: 115902
-    passive_skill: "115904,115905,300202"
+    passive_skill: "115904,115905,300202,759071"
     dynamic_passive_skill: "115903"
     effect_grid_center: 18
     effect_guntype: "6"
     effect_grid_pos: "18,23,24"
     effect_grid_effect: "2,15;8,15"
-    type_equip1: 2;5,17
+    type_equip1: 2;5,17,19
     type_equip2: 1;1,2,3,16
     type_equip3: 3;14,21
     ai: 238
@@ -24872,6 +24873,7 @@
     obtain_ids: "1"
     rank_display: 4
     org_id: 10703
+    show_damage_skin: ",8005,"
   }
   {
     id: 311
@@ -26290,6 +26292,7 @@
     gun_detail_bg: nation_US
     org_id: 10302
     related_story_id: 100334
+    show_damage_skin: ",8004,"
   }
   {
     id: 335
@@ -26826,7 +26829,7 @@
     obtain_ids: "246"
     rank_display: 4
     org_id: 10402
-    show_damage_skin: ",0,"
+    show_damage_skin: ",0,8007,"
   }
   {
     id: 344
@@ -28267,6 +28270,7 @@
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10704
+    show_damage_skin: ",8001,"
   }
   {
     id: 368
@@ -28806,7 +28810,7 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10703
-    show_damage_skin: ",0,"
+    show_damage_skin: ",0,8003,"
   }
   {
     id: 377

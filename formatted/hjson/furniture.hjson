@@ -19414,6 +19414,38 @@
     touch_area: "5,5,3"
   }
   {
+    id: 7238
+    name: 必勝達摩
+    classes: 72
+    type: 201
+    space: "4,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 無論如何都不會倒下的它，正是您百折不撓的信念的化身！等等……P7，別以為沒人注意到，你又想對它做什麽惡作劇？
+    code: qjyd_20230102_deco_01
+    texture_type: "2"
+    offset: "0.000,0.136,0.031"
+    rotate: "2"
+    touch_area: "4,4,4"
+  }
+  {
+    id: 7239
+    name: 招福三花喵
+    classes: 72
+    type: 201
+    space: "5,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 一份許多貓咪夢寐以求的工作，只要坐著搖搖手就能被供養起來……但聽說也有累斷胳膊的先例，所以請善待家中的招財貓貓哦！
+    code: qjyd_20230101_deco_01
+    texture_type: "2"
+    offset: "0.000,0.334,0.073"
+    rotate: "2"
+    interact_point: "43"
+    interact_point_offset: *0.379,0.911,0.199
+    touch_area: "5,5,5"
+  }
+  {
     id: 7301
     name: 水族館-地板
     classes: 73
@@ -26716,6 +26748,196 @@
     code: KungFu2022_deco_16
     texture_type: "1"
     offset: "0.000,-0.219,-0.052"
+    rotate: "2"
+  }
+  {
+    id: 10901
+    name: 玉兔踏歌會-應雪之地
+    classes: 109
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 天空啊，請讓晶瑩的白雪掩蓋舊歲的塵埃，因為我們將於這片純潔清澈的新土地上書寫未來。
+    code: SpringFes2023_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 10902
+    name: 玉兔踏歌會-暖場花海
+    classes: 109
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 在眾人形因爭搶晚會「首發登台」機會而大打出手時，愛湊熱鬧的建築師早已端著改良煙火版木星炮，悄悄潛入後台……
+    code: SpringFes2023_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10903
+    name: 玉兔踏歌會-鴻運門庭
+    classes: 109
+    type: 201
+    position: "1,3"
+    space: "7,4,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 通往後台的「Stage Door」（演職人員入口）貼上火紅的對聯後，更能令今晚登台的人形們感受到回家的溫暖。
+    code: SpringFes2023_deco_01
+    texture_type: "1"
+    offset: "0.000,-0.323,-0.073"
+    rotate: "2"
+  }
+  {
+    id: 10904
+    name: 玉兔踏歌會-動感鯉池
+    classes: 109
+    type: 201
+    position: "1,10"
+    space: "5,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 當音樂響起，聰明的池中錦鯉隨節奏翩翩游動……這是實景，抑或是精巧的巨型八音盒？
+    code: SpringFes2023_deco_15,SpringFes2023_deco_16,SpringFes2023_pool
+    texture_type: "1,1,2"
+    sorting: "0,20,10"
+    offset: "0.000,0.000,0.000|0,0.3555607,0.0813306|0.198,0.480,0.104"
+    rotate: "2,2,2"
+  }
+  {
+    id: 10905
+    name: 玉兔踏歌會-純白首席
+    classes: 109
+    type: 201
+    position: "10,9"
+    space: "9,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 文火慢燉，精湯入味。「只有最淳樸的烹飪方式才能還原食物鮮美的味道！」不喜吃辣的人形如是說道。
+    code: SpringFes2023_deco_02,SpringFes2023_deco_13,SpringFes2023_deco_14
+    texture_type: "1,1,1"
+    sorting: "20,0,0"
+    offset: "0.000,0.000,0.000|-1.220,0.000,0.000|1.189,0.000,0.000"
+    rotate: "2,2,2"
+    interact_point: "14,15"
+    interact_point_offset: *3.150,1.423,-0.285|*-3.222,1.252,0.398
+  }
+  {
+    id: 10906
+    name: 玉兔踏歌會-熾紅主桌
+    classes: 109
+    type: 201
+    position: "19,11"
+    space: "9,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 紅油沸騰，麻辣鮮香。「辣不僅是冬日的需求，更是至高無上的精神信仰！」無辣不歡的人形如是宣稱。
+    code: SpringFes2023_deco_03,SpringFes2023_deco_13,SpringFes2023_deco_14
+    texture_type: "1,1,1"
+    sorting: "20,0,0"
+    offset: "0.000,0.000,0.000|-1.220,0.000,0.000|1.189,0.000,0.000"
+    rotate: "2,2,2"
+    interact_point: "14,15"
+    interact_point_offset: *3.150,1.423,-0.285|*-3.222,1.252,0.398
+  }
+  {
+    id: 10907
+    name: 玉兔踏歌會-欲燃的心意
+    classes: 109
+    type: 201
+    position: "7,10"
+    space: "3,4,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 「只要用星火點燃引線，就能收獲年度最驚艷的祝福！」——格里芬試膽大會敬贈。
+    code: SpringFes2023_deco_04
+    texture_type: "1"
+    offset: "0.000,-0.104,-0.021"
+    rotate: "2"
+  }
+  {
+    id: 10908
+    name: 玉兔踏歌會-報幕精靈
+    classes: 109
+    type: 201
+    position: "26,3"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 完美融入雪景的智慧報幕機器人，據說原型是一隻被迫加班的戰術妖精。
+    code: SpringFes2023_deco_05
+    texture_type: "1"
+    offset: "0.000,-0.094,-0.021"
+    rotate: "2"
+  }
+  {
+    id: 10909
+    name: 玉兔踏歌會-望兔主劇場
+    classes: 109
+    type: 201
+    position: "9,0"
+    space: "16,4,1,1,1,0"
+    deco_rate: 1350
+    decompose_gift: 100003
+    description: 為新春特意準備的豪華舞台。此刻聚光燈已經就位，靜靜等候身懷絕技的藝人們登場……醉酒人形？想都別想！
+    code: SpringFes2023_deco_06,SpringFes2023_deco_07,SpringFes2023_deco_11,SpringFes2023_deco_12,SpringFes2023_RabbitLantern
+    texture_type: "1,1,1,1,2"
+    sorting: "0,0,0,0,20"
+    offset: "-1.182,-0.235,-0.054|3.405,-0.235,-0.054|3.405,4.238,0.978|-1.182,4.238,0.978|0.011,1.246,-0.044"
+    rotate: "2,2,2,2,2"
+    interact_point: "28,36"
+    interact_point_offset: *3.208,0.825,-0.285|*-2.800,0.683,-0.285
+  }
+  {
+    id: 10910
+    name: 玉兔踏歌會-販糖小鋪
+    classes: 109
+    type: 201
+    position: "30,6"
+    space: "4,4,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 販賣甜蜜的自助糖品小鋪，新春不限量供應，但是要小心蛀牙哦。
+    code: SpringFes2023_deco_08
+    texture_type: "1"
+    offset: "0.000,-0.250,-0.063"
+    rotate: "2"
+  }
+  {
+    id: 10911
+    name: 玉兔踏歌會-新願闌珊
+    classes: 109
+    type: 201
+    position: "28,0"
+    space: "5,5,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 燈火闌珊處，貼滿人形新年願望的祈福牆格外溫馨。翻開第一張——「希望指揮官今年能給我放365天帶薪長假！」
+    code: SpringFes2023_deco_09
+    texture_type: "1"
+    offset: "0.000,-0.240,0.448"
+    rotate: "2"
+  }
+  {
+    id: 10912
+    name: 玉兔踏歌會-不眠夜衛
+    classes: 109
+    type: 201
+    position: "30,11"
+    space: "3,2,1,1,1,1"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 為了防止醉酒人形在新年伊始跌倒破相，總有一盞小燈默默守候，點亮回家的夜路。
+    code: SpringFes2023_deco_10
+    texture_type: "1"
+    offset: "0.000,-0.271,-0.063"
     rotate: "2"
   }
   {
@@ -37023,6 +37245,126 @@
     decompose_gift: 100003
     description: Bren Ten的海報。
     code: poster_Christmas2022_BrenTen
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38001
+    name: MK3A1-紅露醉
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MK3A1的海報
+    code: poster_SpringFes2023_MK3A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38002
+    name: Px4 風暴-金風嬈
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Px4 風暴的海報
+    code: poster_SpringFes2023_Px4Storm
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38003
+    name: Erma-暗香盈
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Erma的海報
+    code: poster_SpringFes2023_Erma
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38004
+    name: Savage 99-玉叢幽
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Savage 99的海報
+    code: poster_SpringFes2023_Savage99
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38005
+    name: Rex Zero 1-滿庭芳
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Rex Zero 1的海報
+    code: poster_SpringFes2023_RexZero1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38006
+    name: 塔布克-福雙至
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 塔布克的海報
+    code: poster_SpringFes2023_Tabuk
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38007
+    name: APC556-木蘭謠
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: APC556的海報
+    code: poster_SpringFes2023_APC556
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38008
+    name: DP28-朝顏蔓
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: DP28的海報
+    code: poster_SpringFes2023_DP28
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
