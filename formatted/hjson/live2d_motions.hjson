@@ -30009,8 +30009,15 @@
     type: 301
     motion_name: motions/shake.mtn
     probability: 1.0
-    name: live2d_motions-10800320
+    name: 晃動響應
     camera: 1
     is_hurt: 1
+  }
+  {
+    id: 800321
+    type: 103
+    motion_name: motions/BG.mtn
+    probability: 1.0
+    name: 待機
   }
 ]

@@ -2859,4 +2859,7 @@ live2d_motions-10800316,交互3
 live2d_motions-10800317,交互4
 live2d_motions-10800318,交互5
 live2d_motions-10800319,上線響應
+live2d_motions-10800320,晃動響應
+live2d_motions-10800321,待機
+
 
