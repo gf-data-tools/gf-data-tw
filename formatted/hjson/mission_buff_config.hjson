@@ -3426,7 +3426,7 @@
     exp_buff: "1"
     free_ap_move: 1
     conflict_type: 595001
-    carry_mission_skill: "595101,595111"
+    carry_mission_skill: "595101,595111,597021,597022,597023"
   }
   {
     id: 595002
@@ -3437,7 +3437,7 @@
     duration_time: "999"
     exp_buff: "1"
     conflict_type: 595002
-    carry_mission_skill: "595102,595112"
+    carry_mission_skill: "595102,595112,597021,597022,597023"
   }
   {
     id: 596001
@@ -3449,7 +3449,7 @@
     exp_buff: "1"
     free_ap_move: 1
     conflict_type: 596001
-    carry_mission_skill: "596101,596111"
+    carry_mission_skill: "596101,596111,597021,597022,597023"
   }
   {
     id: 596002
@@ -3461,7 +3461,7 @@
     exp_buff: "1"
     free_ap_move: 1
     conflict_type: 596002
-    carry_mission_skill: "596102,596112"
+    carry_mission_skill: "596102,596112,597021,597022,597023"
   }
   {
     id: 596003
@@ -3473,7 +3473,7 @@
     exp_buff: "1"
     free_ap_move: 1
     conflict_type: 596003
-    carry_mission_skill: "596103,596113"
+    carry_mission_skill: "596103,596113,597021,597022,597023"
   }
   {
     id: 596004
@@ -3484,7 +3484,7 @@
     duration_time: "999"
     exp_buff: "1"
     conflict_type: 596004
-    carry_mission_skill: "596104,596114"
+    carry_mission_skill: "596104,596114,597021,597022,597023"
   }
   {
     id: 597001
@@ -3874,6 +3874,17 @@
     conditions_type: "4"
     conditions_time: 0-1
     conflict_type: 599909
+  }
+  {
+    id: 599910
+    name: 【标记】战场效果
+    description: mission_buff_config-20599910
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 599910
+    priority: 1
   }
   {
     id: 910630

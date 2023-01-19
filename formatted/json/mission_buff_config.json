@@ -2316,48 +2316,48 @@
     "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 1, 
-    "extra_ammo_mre": "", "conflict_type": 595001, "priority": 0, "carry_mission_skill": "595101,595111", 
-    "sangvis_chip_id": "", "ext_move": 0
+    "extra_ammo_mre": "", "conflict_type": 595001, "priority": 0, 
+    "carry_mission_skill": "595101,595111,597021,597022,597023", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 595002, "name": "【標記】單線TEAM標記", "description": "mission_buff_config-20595002", "code": "", "type": 1, 
     "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 595002, "priority": 0, "carry_mission_skill": "595102,595112", 
-    "sangvis_chip_id": "", "ext_move": 0
+    "extra_ammo_mre": "", "conflict_type": 595002, "priority": 0, 
+    "carry_mission_skill": "595102,595112,597021,597022,597023", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 596001, "name": "【標記】AR標記", "description": "mission_buff_config-20596001", "code": "", "type": 1, 
     "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 1, 
-    "extra_ammo_mre": "", "conflict_type": 596001, "priority": 0, "carry_mission_skill": "596101,596111", 
-    "sangvis_chip_id": "", "ext_move": 0
+    "extra_ammo_mre": "", "conflict_type": 596001, "priority": 0, 
+    "carry_mission_skill": "596101,596111,597021,597022,597023", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 596002, "name": "【標記】RF標記", "description": "mission_buff_config-20596002", "code": "", "type": 1, 
     "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 1, 
-    "extra_ammo_mre": "", "conflict_type": 596002, "priority": 0, "carry_mission_skill": "596102,596112", 
-    "sangvis_chip_id": "", "ext_move": 0
+    "extra_ammo_mre": "", "conflict_type": 596002, "priority": 0, 
+    "carry_mission_skill": "596102,596112,597021,597022,597023", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 596003, "name": "【標記】MG標記", "description": "mission_buff_config-20596003", "code": "", "type": 1, 
     "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 1, 
-    "extra_ammo_mre": "", "conflict_type": 596003, "priority": 0, "carry_mission_skill": "596103,596113", 
-    "sangvis_chip_id": "", "ext_move": 0
+    "extra_ammo_mre": "", "conflict_type": 596003, "priority": 0, 
+    "carry_mission_skill": "596103,596113,597021,597022,597023", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 596004, "name": "【標記】TEAM標記", "description": "mission_buff_config-20596004", "code": "", "type": 1, 
     "duration_type": "1", "duration_time": "999", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 
     "vision_buff": "", "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
     "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
     "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
-    "extra_ammo_mre": "", "conflict_type": 596004, "priority": 0, "carry_mission_skill": "596104,596114", 
-    "sangvis_chip_id": "", "ext_move": 0
+    "extra_ammo_mre": "", "conflict_type": 596004, "priority": 0, 
+    "carry_mission_skill": "596104,596114,597021,597022,597023", "sangvis_chip_id": "", "ext_move": 0
   }, {
     "id": 597001, "name": "【標記】AR普通預備", "description": "mission_buff_config-20597001", "code": "", "type": 1, 
     "duration_type": "5", "duration_time": "2", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", 
@@ -2607,6 +2607,14 @@
     "effect_process_star": 0, "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", 
     "ammo_mre_reduce": "", "free_ap_move": 0, "extra_ammo_mre": "", "conflict_type": 599909, "priority": 0, 
     "carry_mission_skill": "", "sangvis_chip_id": "", "ext_move": 0
+  }, {
+    "id": 599910, "name": "【标记】战场效果", "description": "mission_buff_config-20599910", "code": "", "type": 1, 
+    "duration_type": "1", "duration_time": "1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, "vision_buff": "", 
+    "cannot_move": "", "battle_skill_config_id": 0, "property_type": "0", "property_data_pool": "0", 
+    "special_spot_config_id": 0, "conditions_type": "0", "conditions_time": "0", "birth_effect": 0, "effect_process_star": 0, 
+    "effect_process_end": 0, "effect_process_duration": 0, "manual_ui_code": "", "ammo_mre_reduce": "", "free_ap_move": 0, 
+    "extra_ammo_mre": "", "conflict_type": 599910, "priority": 1, "carry_mission_skill": "", "sangvis_chip_id": "", 
+    "ext_move": 0
   }, {
     "id": 910630, "name": "【標記】護盾發生器buff", "description": "mission_buff_config-20910630", "code": "shield", 
     "type": 1, "duration_type": "1,5", "duration_time": "2,1", "limit_buff": "0", "exp_buff": "1", "is_resource_buff": 0, 

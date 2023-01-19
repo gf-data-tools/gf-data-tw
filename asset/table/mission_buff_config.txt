@@ -1086,3 +1086,5 @@ mission_buff_config-10599908,【標記】劇情檢測
 mission_buff_config-20599908,
 mission_buff_config-10599909,【標記】劇情檢測
 mission_buff_config-20599909,
+mission_buff_config-10599910,【标记】战场效果
+mission_buff_config-20599910,
