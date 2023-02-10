@@ -5337,6 +5337,10 @@
     "introduction": "DP28-朝顏蔓", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30002234", "is_hide_info": 0
   }, {
+    "id": 2235, "type": 5, "arg": "1", "code": "profilePic_sangvis_Scarecrow_SpringFes", "item_name": "稻草人-魘淵夕來頭像", 
+    "introduction": "稻草人-魘淵夕來頭像", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002235", "is_hide_info": 0
+  }, {
     "id": 4001, "type": 1, "arg": "4001", "code": "explore_loot_city", "item_name": "城市的饋贈", 
     "introduction": "很久前生產的一種積木玩具，因為其極高的生產精度現在已經很難仿製，在很多戰亂地區被用作貨幣，可以換到很多有用的東西。", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 99999, "consume_type": 0, "item_access": "", 

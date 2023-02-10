@@ -30013,11 +30013,4 @@
     camera: 1
     is_hurt: 1
   }
-  {
-    id: 800321
-    type: 103
-    motion_name: motions/BG.mtn
-    probability: 1.0
-    name: 待機
-  }
 ]

@@ -10898,6 +10898,16 @@
     "coins": "", "skin": 0, "content": "prize-20004316", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
+    "id": 4317, "name": "融合勢力：稻草人-魘淵夕來", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, 
+    "gem": 0, "gem_pay": 0, "gun_id": "0", "sangvis": "1023", "item_ids": "", "furniture": "", "gift": "", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20004317", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 4318, "name": "頭像：稻草人-魘淵夕來頭像", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, 
+    "gem": 0, "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "2235-1", "furniture": "", "gift": "", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20004318", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
     "id": 5001, "name": "咖啡廳PV獎勵-魔方行動", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "2004", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "領取獎勵", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", "chip": "", 
@@ -17072,6 +17082,71 @@
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "7-1,41-888,506-888", "furniture": "", "gift": "100003-10", 
     "equip_ids": "", "coins": "", "skin": 0, "content": "prize-20007404", "send_limit": 0, "icon": "", "bp_pay": 0, 
     "fairy_ids": "", "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7405, "name": "555鑽石", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 555, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "", "equip_ids": "", "coins": "", 
+    "skin": 0, "content": "prize-20007405", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", "chip": "", 
+    "commander_uniform": ""
+  }, {
+    "id": 7406, "name": "1105鑽石", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 1105, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "", "equip_ids": "", "coins": "", 
+    "skin": 0, "content": "prize-20007406", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", "chip": "", 
+    "commander_uniform": ""
+  }, {
+    "id": 7407, "name": "2270鑽石", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 2270, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "", "equip_ids": "", "coins": "", 
+    "skin": 0, "content": "prize-20007407", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", "chip": "", 
+    "commander_uniform": ""
+  }, {
+    "id": 7408, "name": "阿斯特拉左輪-阿斯特拉的泳池漂流", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, 
+    "gem": 0, "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "4708-1", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20007408", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7409, "name": "AR-57-三友伴歲寒", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "6705-1", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20007409", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7410, "name": "V-PM5-初夢見飛羽", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "6706-1", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20007410", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7411, "name": "LTLX7000-巫姬翩舞起", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "6702-1", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20007411", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7412, "name": "Lusa-竹劍掃落雪", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "6703-1", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20007412", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7413, "name": "UMP9-幽玄旅人", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "6704-1", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20007413", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7414, "name": "Vector-攜枝踏玉塵", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "6701-1", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20007414", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7468, "name": "中級訓練資料*500", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "", "equip_ids": "", 
+    "coins": "2-500", "skin": 0, "content": "prize-20007468", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7469, "name": "高級訓練資料*300", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "", "equip_ids": "", 
+    "coins": "3-300", "skin": 0, "content": "prize-20007469", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7470, "name": "日程記錄板", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "20085", "gift": "", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20007470", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
   }, {
     "id": 8001, "name": "新人七天累計儲值活動第1天", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, 
     "gem": 50, "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "", "equip_ids": "", 

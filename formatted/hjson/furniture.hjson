@@ -28266,6 +28266,20 @@
     interact_point_offset: *0.000,1.593,-0.285
   }
   {
+    id: 20085
+    name: 日程記錄板
+    classes: 81
+    type: 201
+    space: "5,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 用來記錄法蘭秀秀接下來需要重點投入的項目，並用Q版小頭像來表示參與的成員。等等，右下角什麼時候多出了一個奇怪的傢伙？
+    code: Saga_deco_blackboard
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
     id: 30001
     name: 馬卡洛夫-南瓜熊熊
     classes: 300

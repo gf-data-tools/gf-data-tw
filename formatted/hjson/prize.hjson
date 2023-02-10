@@ -15835,6 +15835,18 @@
     content: prize-20004316
   }
   {
+    id: 4317
+    name: 融合勢力：稻草人-魘淵夕來
+    sangvis: "1023"
+    content: prize-20004317
+  }
+  {
+    id: 4318
+    name: 頭像：稻草人-魘淵夕來頭像
+    item_ids: 2235-1
+    content: prize-20004318
+  }
+  {
     id: 5001
     name: 咖啡廳PV獎勵-魔方行動
     furniture: "2004"
@@ -24047,6 +24059,84 @@
     item_ids: 7-1,41-888,506-888
     gift: 100003-10
     content: prize-20007404
+  }
+  {
+    id: 7405
+    name: 555鑽石
+    gem_pay: 555
+    content: prize-20007405
+  }
+  {
+    id: 7406
+    name: 1105鑽石
+    gem_pay: 1105
+    content: prize-20007406
+  }
+  {
+    id: 7407
+    name: 2270鑽石
+    gem_pay: 2270
+    content: prize-20007407
+  }
+  {
+    id: 7408
+    name: 阿斯特拉左輪-阿斯特拉的泳池漂流
+    gift: 4708-1
+    content: prize-20007408
+  }
+  {
+    id: 7409
+    name: AR-57-三友伴歲寒
+    gift: 6705-1
+    content: prize-20007409
+  }
+  {
+    id: 7410
+    name: V-PM5-初夢見飛羽
+    gift: 6706-1
+    content: prize-20007410
+  }
+  {
+    id: 7411
+    name: LTLX7000-巫姬翩舞起
+    gift: 6702-1
+    content: prize-20007411
+  }
+  {
+    id: 7412
+    name: Lusa-竹劍掃落雪
+    gift: 6703-1
+    content: prize-20007412
+  }
+  {
+    id: 7413
+    name: UMP9-幽玄旅人
+    gift: 6704-1
+    content: prize-20007413
+  }
+  {
+    id: 7414
+    name: Vector-攜枝踏玉塵
+    gift: 6701-1
+    content: prize-20007414
+  }
+  {
+    id: 7468
+    name: 中級訓練資料*500
+    coins: 2-500
+    content: prize-20007468
+  }
+  {
+    id: 7469
+    name: 高級訓練資料*300
+    coins: 3-300
+    content: prize-20007469
+  }
+  {
+    id: 7470
+    name: 日程記錄板
+    furniture: "20085"
+    content: prize-20007470
   }
   {
     id: 8001
