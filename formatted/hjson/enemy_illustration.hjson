@@ -4502,6 +4502,306 @@
     extra: enemy_illustration-40100036
   }
   {
+    id: 100037
+    name: 浴場刺客
+    type: 3
+    code: Bathhouse_guest_2
+    introduce: 熱衷於在浴場泡澡的不明閒散人士。性格狂躁，動手能力極強，還喜愛在泡澡時突然施展花樣游泳等水上運動，因此成為了人們最不想在浴場遇見的對象。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 熱衷於在浴場泡澡的不明閒散人士。性格狂躁，動手能力極強，還喜愛在泡澡時突然施展花樣游泳等水上運動，因此成為了人們最不想在浴場遇見的對象。
+    character: "303,313"
+    enemy_skill: "10037"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100037
+  }
+  {
+    id: 100038
+    name: 浴場刺客
+    type: 3
+    code: Bathhouse_guest_1
+    introduce: 熱衷於在浴場泡澡的不明閒散人士。性格狂躁，動手能力極強，還喜愛在泡澡時突然施展花樣游泳等水上運動，因此成為了人們最不想在浴場遇見的對象。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 熱衷於在浴場泡澡的不明閒散人士。性格狂躁，動手能力極強，還喜愛在泡澡時突然施展花樣游泳等水上運動，因此成為了人們最不想在浴場遇見的對象。
+    character: "309,312,316"
+    enemy_skill: "10038,140"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100038
+  }
+  {
+    id: 100039
+    name: 狂飆飛輪
+    type: 4
+    code: Tyre_enemy
+    introduce: 疑似擁有自我意識的車輪，會突然出現在街頭，並根據自己的喜好狂奔向受害者身邊……是新一代的都市傳說。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 疑似擁有自我意識的車輪，會突然出現在街頭，並根據自己的喜好狂奔向受害者身邊……是新一代的都市傳說。
+    character: "304,319"
+    enemy_skill: "10039"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100039
+  }
+  {
+    id: 100040
+    name: 貨車狂徒
+    type: 4
+    code: Truck_enemy
+    introduce: 神秘莫測的輕型貨運卡車，交通安全法考試從未合格，但仍然放肆地在各地超速行駛，尤其喜歡在靜謐的居民區街道暴衝。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 神秘莫測的輕型貨運卡車，交通安全法考試從未合格，但仍然放肆地在各地超速行駛，尤其喜歡在靜謐的居民區街道暴衝。
+    character: "1001,1003,304,902"
+    enemy_skill: "10040"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100040
+  }
+  {
+    id: 100041
+    name: 泡泡機
+    type: 4
+    code: Bubble_machine
+    introduce: 用於製造搖曳泡影的微型工廠，移動緩慢，本身不具備殺傷力，因此經常遭到小朋友和家長群體的追逐。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 用於製造搖曳泡影的微型工廠，移動緩慢，本身不具備殺傷力，因此經常遭到小朋友和家長群體的追逐。
+    character: "321"
+    enemy_skill: "10041"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100041
+  }
+  {
+    id: 100042
+    name: 搖曳泡影
+    type: 2
+    code: Bubble
+    introduce: 外觀酷似使用肥皂水吹制而成的泡泡，具備淡淡的皂香和夢幻的泡影。是最適合潛伏在浴場中的偵察者，悄然接近敵人的身邊，在被發現時「啪」地消失掉。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 外觀酷似使用肥皂水吹制而成的泡泡，具備淡淡的皂香和夢幻的泡影。是最適合潛伏在浴場中的偵察者，悄然接近敵人的身邊，在被發現時「啪」地消失掉。
+    character: "319"
+    enemy_skill: "10042"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100042
+  }
+  {
+    id: 100043
+    name: 羅梅羅
+    type: 2
+    code: saga_dog_enemy
+    introduce: 來歷不明的殭屍犬，喜愛魷魚絲，忠心耿耿地履行著看家護院、守護法蘭秀秀的職責。看上去瘦弱嬌小，一旦變身就將化為夷平一切的惡犬。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 來歷不明的殭屍犬，喜愛魷魚絲，忠心耿耿地履行著看家護院、守護法蘭秀秀的職責。看上去瘦弱嬌小，一旦變身就將化為夷平一切的惡犬。
+    character: "304,315"
+    enemy_skill: "10043"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100043
+  }
+  {
+    id: 100044
+    name: 灰色歌者
+    type: 3
+    code: HK21_SagaEnemy
+    introduce: 夜間咖啡館成員之一，會高喊著「姐姐大人」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 夜間咖啡館成員之一，會高喊著「姐姐大人」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
+    character: "100"
+    enemy_skill: "10044"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100044
+  }
+  {
+    id: 100045
+    name: 綠色歌者
+    type: 3
+    code: JS-127_SagaEnemy
+    introduce: 夜間咖啡館成員之一，會高喊著「劉海角度」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 夜間咖啡館成員之一，會高喊著「劉海角度」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
+    character: "100"
+    enemy_skill: "10045"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100045
+  }
+  {
+    id: 100046
+    name: 紅色歌者
+    type: 3
+    code: PM06_SagaEnemy
+    introduce: 夜間咖啡館成員之一，會高喊著「紅通通」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 夜間咖啡館成員之一，會高喊著「紅通通」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
+    character: "100"
+    enemy_skill: "10046"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100046
+  }
+  {
+    id: 100047
+    name: 不羈主唱
+    type: 3
+    code: MG5_SagaEnemy
+    introduce: 灰樹樂隊的主唱，冷冽不羈，看上去是樂隊中最難招惹的對象，而實際上是著名和平愛好者，經常解決樂隊成員惹出的麻煩。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 灰樹樂隊的主唱，冷冽不羈，看上去是樂隊中最難招惹的對象，而實際上是著名和平愛好者，經常解決樂隊成員惹出的麻煩。
+    character: "100"
+    enemy_skill: "10047"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100047
+  }
+  {
+    id: 100048
+    name: 烈焰吉他手
+    type: 3
+    code: M1887_SagaEnemy
+    introduce: 灰樹樂隊的吉他手，隨身攜帶紅色染發劑和燃燒劑，喜歡烈焰般的顏色，在暴躁時也會親手製造烈焰。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 灰樹樂隊的吉他手，隨身攜帶紅色染發劑和燃燒劑，喜歡烈焰般的顏色，在暴躁時也會親手製造烈焰。
+    character: "100"
+    enemy_skill: "10048"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100048
+  }
+  {
+    id: 100049
+    name: 追影鼓手
+    type: 3
+    code: 80type_SagaEnemy
+    introduce: 灰樹樂隊的鼓手，表演時的速度幾乎無法用肉眼捕捉，還擅長用無人機製造出絢爛的演出特效，但偶爾也會失手把無人機飛到觀眾席中。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 灰樹樂隊的鼓手，表演時的速度幾乎無法用肉眼捕捉，還擅長用無人機製造出絢爛的演出特效，但偶爾也會失手把無人機飛到觀眾席中。
+    character: "100"
+    enemy_skill: "10049"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100049
+  }
+  {
+    id: 100050
+    name: 墨鏡貝斯手
+    type: 3
+    code: M1897_SagaEnemy
+    introduce: 灰樹樂隊的貝斯手，總是將表情藏在墨鏡之後，讓人難以揣摩她究竟是醒是睡，手中彈奏的究竟是貝斯還是掃把。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 灰樹樂隊的貝斯手，總是將表情藏在墨鏡之後，讓人難以揣摩她究竟是醒是睡，手中彈奏的究竟是貝斯還是掃把。
+    character: "100"
+    enemy_skill: "10050"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100050
+  }
+  {
+    id: 100051
+    name: 神秘鍵盤手
+    type: 3
+    code: G11_SagaEnemy
+    introduce: 灰樹樂隊的鍵盤手，只在演出時現身，平常幾乎不出現。除了樂隊的工作，似乎還有著自己的神秘任務。
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 灰樹樂隊的鍵盤手，只在演出時現身，平常幾乎不出現。除了樂隊的工作，似乎還有著自己的神秘任務。
+    character: "100"
+    enemy_skill: "10051"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100051
+  }
+  {
     id: 100082
     name: 殘獸SWAP
     type: 3

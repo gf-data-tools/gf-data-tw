@@ -5859,7 +5859,11 @@
   {
     id: 194
     name: 戰術導軌
-    description: 專為謝爾久科夫手槍設計的戰術導軌，使得手槍能更換外部配件以應對不同的環境。
+    description:
+      '''
+      暴擊機率+<critical_percent><%>
+      迴避+<dodge>$謝爾久科夫專用
+      '''
     rank: 5
     category: 1
     type: 18
@@ -5873,7 +5877,7 @@
     develop_duration: 2820
     company: IOP
     fit_guns: "113"
-    equip_introduction: equip-30000194
+    equip_introduction: 專為謝爾久科夫手槍設計的戰術導軌，使得手槍能更換外部配件以應對不同的環境。
     powerup_mp: 0.55
     powerup_ammo: 0.23
     powerup_mre: 0.23
@@ -10257,5 +10261,249 @@
     is_show: 1
     obtain_ids: "3003"
     sp_description: equip-40000324
+  }
+  {
+    id: 325
+    name: 擴音喇叭
+    description:
+      '''
+      暴擊機率+<critical_percent><%>
+      暴擊傷害+<critical_harm_rate><%>$源櫻專用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    critical_harm_rate: "8,11"
+    critical_percent: "17,20"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_Sakura
+    develop_duration: 2700
+    company: IOP
+    fit_guns: "1037"
+    equip_introduction: 常見的擴音喇叭，優點是非常結實。它早已記不清陪伴源櫻走過多少次路演、爭吵、吶喊……或許接下來還要陪伴很久很久。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3.0
+    bonus_type: critical_percent:1000,critical_harm_rate:1000
+    max_level: 10
+    auto_select_id: 18111
+    is_addition: 1
+    is_show: 1
+    obtain_ids: "3094"
+    sp_description: equip-40000325
+  }
+  {
+    id: 326
+    name: 初心者的三味線
+    description:
+      '''
+      傷害+<pow> 命中+<hit>
+      暴擊機率+<critical_percent><%>$夕霧專用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "1,3"
+    hit: "2,4"
+    critical_percent: "18,25"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_Yuugiri
+    develop_duration: 2700
+    company: IOP
+    fit_guns: "1040"
+    equip_introduction: 三味線初學者時期的夕霧所使用的琴。即便現在琴聲婉轉流暢，她也不曾忘記過去那段時光。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3.0
+    bonus_type: critical_percent:1000,hit:1000,pow:1000
+    max_level: 10
+    auto_select_id: 18112
+    is_addition: 1
+    is_show: 1
+    obtain_ids: "3095"
+    sp_description: equip-40000326
+  }
+  {
+    id: 327
+    name: 魷魚絲
+    description:
+      '''
+      傷害+<pow>
+      命中<hit>$山田妙專用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "10,15"
+    hit: "-8,-5"
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: 弹匣_特殊_Tae
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "1035"
+    equip_introduction: 魷魚絲，山田妙的生命之光，慾念之火。絕沒有人可以活著從她身邊搶走魷魚絲，絕沒有！
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3.0
+    bonus_type: pow:700
+    max_level: 10
+    auto_select_id: 19050
+    is_addition: 1
+    is_show: 1
+    obtain_ids: "3095"
+    sp_description: equip-40000327
+  }
+  {
+    id: 328
+    name: 星星髮夾
+    description:
+      '''
+      命中+<hit>
+      梯隊命中+10%$星川莉莉專用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    hit: "8,12"
+    skill_effect: 150
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: 弹匣_特殊_Lily
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "1036"
+    equip_introduction: 這是一枚漂亮的髮夾，也是星川莉莉的重要組成部分。沒有星星髮夾的星川莉莉是不完整的！
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3.0
+    bonus_type: hit:700
+    passive_skill: "300903"
+    max_level: 10
+    auto_select_id: 19051
+    is_addition: 1
+    is_show: 1
+    obtain_ids: "3095"
+    sp_description: 梯隊命中+10%
+  }
+  {
+    id: 329
+    name: 愛的便當盒
+    description:
+      '''
+      傷害+<pow> 射速+<rate>
+      暴擊傷害<critical_harm_rate><%>$水野愛專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "10,12"
+    rate: "12,16"
+    critical_harm_rate: "-50,-50"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: 人形_特殊_Ai
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "1038"
+    equip_introduction: 水野愛常用的便當盒。便當盒本身很普通，不普通的是每一位填滿這個便當盒的人都心懷關愛。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3.0
+    bonus_type: pow:500,rate:600
+    max_level: 10
+    auto_select_id: 20052
+    is_addition: 1
+    is_show: 1
+    obtain_ids: "3094"
+    sp_description: equip-40000329
+  }
+  {
+    id: 330
+    name: 尾崎人偶
+    description:
+      '''
+      傷害+<pow> 射速<rate>
+      暴擊傷害+<critical_harm_rate><%>$紺野純子專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "5,8"
+    rate: "-5,-1"
+    critical_harm_rate: "18,25"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: 人形_特殊_Junko
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "1039"
+    equip_introduction: 據說是按照指揮官的外貌來進行繪製，但究竟有幾分相似，繪製者和被繪製的對象各有說法。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3.0
+    bonus_type: pow:900,critical_harm_rate:400
+    max_level: 10
+    auto_select_id: 20053
+    is_addition: 1
+    is_show: 1
+    obtain_ids: "3094"
+    sp_description: equip-40000330
+  }
+  {
+    id: 331
+    name: 隊長袖章
+    description:
+      '''
+      傷害+<pow> 命中<hit>
+      護甲+<armor>$二階堂咲專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "3,5"
+    hit: "-1,-1"
+    armor: "6,8"
+    retire_mp: 2
+    retire_ammo: 2
+    retire_mre: 3
+    retire_part: 3
+    code: 人形_特殊_Saki
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "1041"
+    equip_introduction: 寫有法蘭秀秀的萬葉假名的袖章，某前暴走族曾積極推廣，但遭到隊友的一致否決。
+    powerup_mp: 0.23
+    powerup_ammo: 0.23
+    powerup_mre: 0.33
+    powerup_part: 0.38
+    exclusive_rate: 3.0
+    bonus_type: pow:1000,armor:400
+    max_level: 10
+    auto_select_id: 20054
+    is_addition: 1
+    is_show: 1
+    obtain_ids: "3094"
+    sp_description: equip-40000331
   }
 ]

@@ -250,3 +250,9 @@ fairy_skin-10000132,和平妖精
 fairy_skin-20000132,2階默認造型
 fairy_skin-10000133,和平妖精
 fairy_skin-20000133,3階默認造型
+fairy_skin-10000134,DR雞
+fairy_skin-20000134,1階默認裝扮
+fairy_skin-10000135,DR雞
+fairy_skin-20000135,2階默認裝扮
+fairy_skin-10000136,DR雞
+fairy_skin-20000136,3階默認裝扮

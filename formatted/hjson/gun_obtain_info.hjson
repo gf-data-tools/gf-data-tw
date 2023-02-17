@@ -404,6 +404,18 @@
     description: gun_obtain-10000253
   }
   {
+    obtain_id: "254"
+    description: 限時活動【雪浪映花顏】通關獎勵
+  }
+  {
+    obtain_id: "255"
+    description: 限時活動【雪浪映花顏】中救援獲得
+  }
+  {
+    obtain_id: "256"
+    description: 限時活動【雪浪映花顏】商店兌換
+  }
+  {
     obtain_id: "301"
     description: 作戰綱領【金色月夕】獎勵
   }
@@ -1166,5 +1178,13 @@
   {
     obtain_id: "3093"
     description: 限時活動<迷籠猜想>代幣兌換
+  }
+  {
+    obtain_id: "3094"
+    description: 限時活動<雪浪映花顏>代幣兌換
+  }
+  {
+    obtain_id: "3095"
+    description: 限時活動<雪浪映花顏>全服應援獎勵
   }
 ]

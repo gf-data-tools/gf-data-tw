@@ -1675,19 +1675,27 @@
     "new_type": 1, "grade_id": 12, "sort": 100, "condition": "100", "new_unlock_ids": ""
   }, {
     "id": 554, "type": "special_develop_fairy", "unlock_lv": "", "unlock_ids": "", "unlock_label": "", "count": 1, 
-    "prize_id": 11137, "title": "工廠任務：妖精重建", "content": "透過「工廠-妖精製造」完成1次妖精重型製造", 
+    "prize_id": 11137, "title": "工廠任務：妖精重建", "content": "通過「工廠-妖精製造」完成1次妖精重型製造", 
     "unlock_course": "", "new_type": 1, "grade_id": 23, "sort": 173, "condition": "", "new_unlock_ids": ""
   }, {
     "id": 555, "type": "special_develop_fairy", "unlock_lv": "", "unlock_ids": "", "unlock_label": "", "count": 5, 
-    "prize_id": 11138, "title": "工廠任務：妖精重建", "content": "透過「工廠-妖精製造」完成5次妖精重型製造", 
+    "prize_id": 11138, "title": "工廠任務：妖精重建", "content": "通過「工廠-妖精製造」完成5次妖精重型製造", 
     "unlock_course": "", "new_type": 1, "grade_id": 24, "sort": 177, "condition": "", "new_unlock_ids": ""
   }, {
     "id": 556, "type": "special_develop_fairy", "unlock_lv": "", "unlock_ids": "", "unlock_label": "", "count": 10, 
-    "prize_id": 11139, "title": "工廠任務：妖精重建", "content": "透過「工廠-妖精製造」完成10次妖精重型製造", 
+    "prize_id": 11139, "title": "工廠任務：妖精重建", "content": "通過「工廠-妖精製造」完成10次妖精重型製造", 
     "unlock_course": "", "new_type": 1, "grade_id": 25, "sort": 182, "condition": "", "new_unlock_ids": ""
   }, {
     "id": 557, "type": "special_develop_fairy_notexp", "unlock_lv": "", "unlock_ids": "", "unlock_label": "", "count": 1, 
-    "prize_id": 765, "title": "妖精：獲取妖精", "content": "透過「工廠-妖精製造」獲得1隻妖精", "unlock_course": "170", 
+    "prize_id": 765, "title": "妖精：獲取妖精", "content": "通過「工廠-妖精製造」獲得1隻妖精", "unlock_course": "170", 
     "new_type": 1, "grade_id": 23, "sort": 168, "condition": "", "new_unlock_ids": ""
+  }, {
+    "id": 562, "type": "c_tutorial_mission", "unlock_lv": "", "unlock_ids": "", "unlock_label": "", "count": 1, 
+    "prize_id": 11337, "title": "路徑點：補給修理站", "content": "完成教學關卡，了解補給修理站的機制。", "unlock_course": "", 
+    "new_type": 1, "grade_id": 45, "sort": 359, "condition": "10933", "new_unlock_ids": ""
+  }, {
+    "id": 563, "type": "c_tutorial_mission", "unlock_lv": "", "unlock_ids": "", "unlock_label": "", "count": 1, 
+    "prize_id": 11338, "title": "地圖機制：戰場效果", "content": "完成教學關卡，了解戰場效果的機制。", "unlock_course": "", 
+    "new_type": 1, "grade_id": 45, "sort": 360, "condition": "10921", "new_unlock_ids": ""
   }
 ]

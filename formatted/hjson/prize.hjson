@@ -24139,6 +24139,301 @@
     content: prize-20007470
   }
   {
+    id: 7471
+    name: 佐賀代幣6
+    item_ids: 100175-6
+    content: prize-20007471
+  }
+  {
+    id: 7472
+    name: 佐賀代幣8
+    item_ids: 100175-8
+    content: prize-20007472
+  }
+  {
+    id: 7473
+    name: 佐賀代幣10
+    item_ids: 100175-10
+    content: prize-20007473
+  }
+  {
+    id: 7474
+    name: 佐賀代幣12
+    item_ids: 100175-12
+    content: prize-20007474
+  }
+  {
+    id: 7475
+    name: 佐賀代幣12+b+應援點
+    item_ids: 100175-12,100176-1,9020-500,9025-25
+    content: prize-20007475
+  }
+  {
+    id: 7476
+    name: 佐賀代幣15
+    item_ids: 100175-15
+    content: prize-20007476
+  }
+  {
+    id: 7477
+    name: 佐賀代幣15+b
+    item_ids: 100175-15,100176-1
+    content: prize-20007477
+  }
+  {
+    id: 7478
+    name: 佐賀保底b
+    item_ids: 100176-1,9020-500
+    content: prize-20007478
+  }
+  {
+    id: 7479
+    name: 夕霧專屬
+    equip_ids: "326"
+    content: prize-20007479
+  }
+  {
+    id: 7480
+    name: 星川莉莉專屬
+    equip_ids: "328"
+    content: prize-20007480
+  }
+  {
+    id: 7481
+    name: 山田妙專屬
+    equip_ids: "327"
+    content: prize-20007481
+  }
+  {
+    id: 7482
+    name: 音準A
+    item_ids: 9020-1,9021-10
+    content: prize-20007482
+  }
+  {
+    id: 7483
+    name: 音準S
+    item_ids: 9020-500,9021-25
+    content: prize-20007483
+  }
+  {
+    id: 7484
+    name: 律動A
+    item_ids: 9020-1,9022-10
+    content: prize-20007484
+  }
+  {
+    id: 7485
+    name: 律動S
+    item_ids: 9020-500,9022-25
+    content: prize-20007485
+  }
+  {
+    id: 7486
+    name: 存款A
+    item_ids: 9020-1,9023-10
+    content: prize-20007486
+  }
+  {
+    id: 7487
+    name: 存款S
+    item_ids: 9020-500,9023-25
+    content: prize-20007487
+  }
+  {
+    id: 7488
+    name: 活力A
+    item_ids: 9020-200,9024-10
+    content: prize-20007488
+  }
+  {
+    id: 7489
+    name: 活力S
+    item_ids: 9020-500,9024-25
+    content: prize-20007489
+  }
+  {
+    id: 7490
+    name: 靈感A
+    item_ids: 9020-200,9025-10
+    content: prize-20007490
+  }
+  {
+    id: 7491
+    name: 靈感S
+    item_ids: 9020-500,9025-25
+    content: prize-20007491
+  }
+  {
+    id: 7492
+    name: 夕霧-佐賀事變
+    gift: 591-1
+    content: prize-20007492
+    icon: Bumdle_xiwu
+  }
+  {
+    id: 7493
+    name: 星川莉莉-致最親愛的人
+    gift: 592-1
+    content: prize-20007493
+    icon: Bumdle_xingchuanlili
+  }
+  {
+    id: 7494
+    name: 水野愛-覺醒的夢想家
+    gift: 589-1
+    content: prize-20007494
+    icon: Bumdle_shuiyeai
+  }
+  {
+    id: 7495
+    name: 山田妙-競技館擊碎者
+    gift: 593-1
+    content: prize-20007495
+    icon: Bumdle_shantianduohui
+  }
+  {
+    id: 7496
+    name: 源櫻-閃耀光芒
+    gift: 587-1
+    content: prize-20007496
+    icon: Bumdle_yuanying
+  }
+  {
+    id: 7497
+    name: 二階堂咲-暴走族黎明
+    gift: 588-1
+    content: prize-20007497
+    icon: Bumdle_erjietangxiao
+  }
+  {
+    id: 7498
+    name: 紺野純子-不能遺忘的時光
+    gift: 590-1
+    content: prize-20007498
+    icon: Bumdle_ganyechunzi
+  }
+  {
+    id: 7499
+    name: 源櫻
+    gun_id: "1037"
+    content: prize-20007499
+  }
+  {
+    id: 7500
+    name: 二階堂咲
+    gun_id: "1041"
+    content: prize-20007500
+  }
+  {
+    id: 7501
+    name: 擴音喇叭
+    equip_ids: "325"
+    content: prize-20007501
+  }
+  {
+    id: 7502
+    name: 隊長袖章
+    equip_ids: "331"
+    content: prize-20007502
+  }
+  {
+    id: 7503
+    name: 愛的便當盒
+    equip_ids: "329"
+    content: prize-20007503
+  }
+  {
+    id: 7504
+    name: 尾崎人偶
+    equip_ids: "330"
+    content: prize-20007504
+  }
+  {
+    id: 7505
+    name: 妖精：DR雞
+    content: prize-20007505
+    fairy_ids: 1009-0
+  }
+  {
+    id: 7506
+    name: 寵物：羅梅羅
+    furniture: "20091"
+    content: prize-20007506
+  }
+  {
+    id: 7507
+    name: 傢俱：古董吊燈
+    furniture: "20087"
+    content: prize-20007507
+  }
+  {
+    id: 7508
+    name: 傢俱：老友宴席
+    furniture: "20086"
+    content: prize-20007508
+  }
+  {
+    id: 7509
+    name: 水野愛
+    gun_id: "1038"
+    content: prize-20007509
+  }
+  {
+    id: 7510
+    name: 紺野純子
+    gun_id: "1039"
+    content: prize-20007510
+  }
+  {
+    id: 7511
+    name: 10000應援券獎勵
+    item_ids: 45-50
+    content: prize-20007511
+  }
+  {
+    id: 7512
+    name: 20000應援券獎勵
+    item_ids: 45-100
+    content: prize-20007512
+  }
+  {
+    id: 7513
+    name: 30000應援券獎勵
+    item_ids: 2248-1
+    content: prize-20007513
+  }
+  {
+    id: 7514
+    name: 60000應援券獎勵
+    item_ids: 2249-1
+    content: prize-20007514
+  }
+  {
+    id: 7515
+    name: 90000應援券獎勵
+    item_ids: 2250-1
+    content: prize-20007515
+  }
+  {
+    id: 7516
+    name: 120000應援券獎勵
+    item_ids: 2256-1
+    content: prize-20007516
+  }
+  {
+    id: 7517
+    name: 160000應援券獎勵
+    item_ids: 2257-1
+    content: prize-20007517
+  }
+  {
+    id: 7518
+    name: 200000應援券獎勵
+    item_ids: 2259-1
+    content: prize-20007518
+  }
+  {
     id: 8001
     name: 新人七天累計儲值活動第1天
     gem: 50
@@ -24648,6 +24943,24 @@
     content: prize-20008517
   }
   {
+    id: 8518
+    name: 通行證68
+    item_ids: 140011-1
+    content: prize-20008518
+  }
+  {
+    id: 8519
+    name: 通行證98
+    item_ids: 140012-1,10606-300,200019-1,2261-1
+    content: prize-20008519
+  }
+  {
+    id: 8520
+    name: 通行證30
+    item_ids: 140012-1,10606-300,200019-1,2261-1
+    content: prize-20008520
+  }
+  {
     id: 9101
     name: 來自2016年耶誕節的照片
     item_ids: 1212-1
@@ -24900,97 +25213,97 @@
     id: 10086
     name: 嘉年華獎勵
     mp: 100
-    item_ids: 110056-10
+    item_ids: 110057-10
     content: prize-20010086
   }
   {
     id: 10087
     name: 嘉年華獎勵
     mp: 100
-    item_ids: 110056-30
+    item_ids: 110057-30
     content: prize-20010087
   }
   {
     id: 10088
     name: 嘉年華獎勵
     ammo: 200
-    item_ids: 110056-20
+    item_ids: 110057-20
     content: prize-20010088
   }
   {
     id: 10089
     name: 嘉年華獎勵
     ammo: 200
-    item_ids: 110056-30
+    item_ids: 110057-30
     content: prize-20010089
   }
   {
     id: 10090
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110056-20
+    item_ids: 110057-20
     content: prize-20010090
   }
   {
     id: 10091
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110056-30
+    item_ids: 110057-30
     content: prize-20010091
   }
   {
     id: 10092
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110056-50
+    item_ids: 110057-50
     content: prize-20010092
   }
   {
     id: 10093
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110056-30
+    item_ids: 110057-30
     content: prize-20010093
   }
   {
     id: 10094
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110056-50
+    item_ids: 110057-50
     content: prize-20010094
   }
   {
     id: 10095
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110056-100
+    item_ids: 110057-100
     content: prize-20010095
   }
   {
     id: 10096
     name: 嘉年華獎勵
     part: 200
-    item_ids: 110056-50
+    item_ids: 110057-50
     content: prize-20010096
   }
   {
     id: 10097
     name: 嘉年華獎勵
     part: 200
-    item_ids: 110056-100
+    item_ids: 110057-100
     content: prize-20010097
   }
   {
     id: 10098
     name: 嘉年華獎勵
     part: 300
-    item_ids: 110056-150
+    item_ids: 110057-150
     content: prize-20010098
   }
   {
     id: 10099
     name: 嘉年華獎勵
-    item_ids: 110056-200,45-200
+    item_ids: 110057-200,45-200
     content: prize-20010099
   }
   {
@@ -25034,7 +25347,7 @@
   {
     id: 10105
     name: 活躍獎勵
-    gift: 100003-10,8008-1
+    gift: 100003-10,7907-1
     content: prize-20010105
     icon: Bumdle_bline
   }
@@ -28094,6 +28407,24 @@
     core: 30
     item_ids: 9-30
     gift: 200001-200
+    content: 領取獎勵
+  }
+  {
+    id: 11337
+    name: 生涯任務獎勵562
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: 領取獎勵
+  }
+  {
+    id: 11338
+    name: 生涯任務獎勵563
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
     content: 領取獎勵
   }
   {
@@ -32761,6 +33092,15 @@
     content: prize-20016920
   }
   {
+    id: 16921
+    name: 地圖機制教學：戰場效果-任務獎勵
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20016921
+  }
+  {
     id: 16922
     name: 地圖機制教學：查看敵人行動邏輯-任務獎勵
     mp: 500
@@ -32858,6 +33198,15 @@
     mre: 500
     part: 500
     content: prize-20016932
+  }
+  {
+    id: 16933
+    name: 特殊路徑點教學：修理站-任務獎勵
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20016933
   }
   {
     id: 16934
@@ -34981,6 +35330,376 @@
     content: prize-20017260
   }
   {
+    id: 17261
+    name: 來自格里芬的你-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017261
+  }
+  {
+    id: 17262
+    name: 哆-唻-咪-任務獎勵
+    coins: 1-200
+    content: prize-20017262
+  }
+  {
+    id: 17263
+    name: 抬頭-挺胸-扭胯-任務獎勵
+    coins: 2-200
+    content: prize-20017263
+  }
+  {
+    id: 17264
+    name: 歡迎光臨！-任務獎勵
+    coins: 3-200
+    content: prize-20017264
+  }
+  {
+    id: 17265
+    name: 咕嘟咕嘟-任務獎勵
+    core: 10
+    content: prize-20017265
+  }
+  {
+    id: 17266
+    name: 茲-嘩-唰-任務獎勵
+    item_ids: 45-30
+    content: prize-20017266
+  }
+  {
+    id: 17267
+    name: 為誰而戰-任務獎勵
+    gun_id: "1040"
+    content: prize-20017267
+  }
+  {
+    id: 17268
+    name: 天命-任務獎勵
+    gun_id: "1036"
+    content: prize-20017268
+  }
+  {
+    id: 17269
+    name: 薄暮破曉-任務獎勵
+    gun_id: "1035"
+    content: prize-20017269
+  }
+  {
+    id: 17270
+    name: 第一天·中午-任務獎勵
+    item_ids: 41-50
+    content: prize-20017270
+  }
+  {
+    id: 17271
+    name: 第一天·夜間-任務獎勵
+    item_ids: 46-50
+    content: prize-20017271
+  }
+  {
+    id: 17272
+    name: 第二天·中午-任務獎勵
+    core: 10
+    content: prize-20017272
+  }
+  {
+    id: 17273
+    name: 第二天·夜間-任務獎勵
+    item_ids: 9-25
+    content: prize-20017273
+  }
+  {
+    id: 17274
+    name: 第三天·中午-任務獎勵
+    item_ids: 45-25
+    content: prize-20017274
+  }
+  {
+    id: 17275
+    name: 第三天·夜間-任務獎勵
+    content: prize-20017275
+    fairy_ids: 1009-0
+  }
+  {
+    id: 17276
+    name: 第四天·中午-任務獎勵
+    item_ids: 46-50
+    content: prize-20017276
+  }
+  {
+    id: 17277
+    name: 第四天·夜間-任務獎勵
+    item_ids: 41-50
+    content: prize-20017277
+  }
+  {
+    id: 17278
+    name: 第五天·中午-任務獎勵
+    item_ids: 9-25
+    content: prize-20017278
+  }
+  {
+    id: 17279
+    name: 第五天·夜間-任務獎勵
+    item_ids: 45-25
+    content: prize-20017279
+  }
+  {
+    id: 17280
+    name: 第六天·中午-任務獎勵
+    item_ids: 506-100
+    content: prize-20017280
+  }
+  {
+    id: 17281
+    name: 第六天·夜間-任務獎勵
+    item_ids: 45-25
+    content: prize-20017281
+  }
+  {
+    id: 17282
+    name: 第七天·中午-任務獎勵
+    item_ids: 118-1
+    furniture: "20090"
+    content: prize-20017282
+  }
+  {
+    id: 17283
+    name: 笑與淚的夜-任務獎勵
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017283
+  }
+  {
+    id: 17284
+    name: 熒光色的夜-任務獎勵
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017284
+  }
+  {
+    id: 17285
+    name: 乘風而起的夜-任務獎勵
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017285
+  }
+  {
+    id: 17286
+    name: 灰白色的夜-任務獎勵
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017286
+  }
+  {
+    id: 17287
+    name: 鬆動的背景板-任務獎勵
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017287
+  }
+  {
+    id: 17288
+    name: 歌聲不停，舞步不休-任務獎勵
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017288
+  }
+  {
+    id: 17289
+    name: 肩與肩的距離-任務獎勵
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017289
+  }
+  {
+    id: 17290
+    name: 加油，打工人！-任務獎勵
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017290
+  }
+  {
+    id: 17291
+    name: 巔峰！狂飆！-任務獎勵
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017291
+  }
+  {
+    id: 17292
+    name: 靈感！泉涌！-任務獎勵
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017292
+  }
+  {
+    id: 17293
+    name: 請勿靠近！-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017293
+  }
+  {
+    id: 17294
+    name: 共在異鄉為異客-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017294
+  }
+  {
+    id: 17295
+    name: 雨間庭-任務獎勵
+    coins: 1-100
+    content: prize-20017295
+  }
+  {
+    id: 17296
+    name: 完美陌生人-任務獎勵
+    coins: 2-100
+    content: prize-20017296
+  }
+  {
+    id: 17297
+    name: 奇妙夜遊記-任務獎勵
+    coins: 3-100
+    content: prize-20017297
+  }
+  {
+    id: 17298
+    name: 時間旅人-任務獎勵
+    gift: 200001-50
+    content: prize-20017298
+  }
+  {
+    id: 17299
+    name: 暴走電台！-任務獎勵
+    furniture: "20089"
+    content: prize-20017299
+  }
+  {
+    id: 17300
+    name: 吉光片羽-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017300
+  }
+  {
+    id: 17301
+    name: 明月何年初照人-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017301
+  }
+  {
+    id: 17302
+    name: 王牌特工-任務獎勵
+    coins: 1-100
+    content: prize-20017302
+  }
+  {
+    id: 17303
+    name: 暴走回憶！-任務獎勵
+    coins: 2-100
+    content: prize-20017303
+  }
+  {
+    id: 17304
+    name: 贈禮者-任務獎勵
+    coins: 3-100
+    content: prize-20017304
+  }
+  {
+    id: 17305
+    name: 月見海-任務獎勵
+    gift: 200001-50
+    content: prize-20017305
+  }
+  {
+    id: 17306
+    name: 海之聲-任務獎勵
+    core: 10
+    content: prize-20017306
+  }
+  {
+    id: 17307
+    name: 櫻之蕊-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017307
+  }
+  {
+    id: 17308
+    name: 煙波相望各西東-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017308
+  }
+  {
+    id: 17309
+    name: 長日留痕-任務獎勵
+    coins: 1-100
+    content: prize-20017309
+  }
+  {
+    id: 17310
+    name: 暴走的畢業禮-任務獎勵
+    coins: 2-100
+    content: prize-20017310
+  }
+  {
+    id: 17311
+    name: 「請不要走」-任務獎勵
+    coins: 3-100
+    content: prize-20017311
+  }
+  {
+    id: 17312
+    name: 閃耀之愛-任務獎勵
+    gift: 200001-50
+    content: prize-20017312
+  }
+  {
+    id: 17313
+    name: 直至太陽下山-任務獎勵
+    furniture: "20088"
+    content: prize-20017313
+  }
+  {
     id: 17318
     name: 泰勒斯預言-任務獎勵
     core: 5
@@ -35676,7 +36395,7 @@
     mre: 5000
     part: 5000
     core: 21
-    gun_id: "268"
+    gun_id: "220"
     item_ids: 4-20,6009-2,601-2
     gift: 200001-235
     coins: 1-600,2-620,3-200
@@ -45926,6 +46645,32 @@
     content: prize-20120061
   }
   {
+    id: 120062
+    name: 增量補給-15級
+    item_ids: 41-30,1500048-1
+    content: prize-20120062
+  }
+  {
+    id: 120063
+    name: 增量補給-25級
+    item_ids: 41-30
+    gift: 30005-1
+    content: prize-20120063
+  }
+  {
+    id: 120064
+    name: 增量補給-35級
+    item_ids: 41-30,1500049-1
+    content: prize-20120064
+  }
+  {
+    id: 120065
+    name: 增量補給-45級
+    gem: 680
+    item_ids: 1500050-1
+    content: prize-20120065
+  }
+  {
     id: 130001
     name: 前線協議額外獎勵
     item_ids: 1500014-1
@@ -46014,6 +46759,24 @@
     name: 進階付費展示獎勵-5
     item_ids: 10606-300,200018-1,2225-1
     content: prize-20130015
+  }
+  {
+    id: 130016
+    name: 前線協議額外獎勵-6
+    item_ids: 1500051-1
+    content: prize-20130016
+  }
+  {
+    id: 130017
+    name: 基礎付費展示獎勵-6
+    item_ids: 602-1,1500048-1,1500049-1,505-680
+    content: prize-20130017
+  }
+  {
+    id: 130018
+    name: 進階付費展示獎勵-6
+    item_ids: 10606-300,200019-1,2261-1
+    content: prize-20130018
   }
   {
     id: 140001
@@ -46350,5 +47113,53 @@
     name: 必得未解鎖人形序標-WA2000
     gun_id: "48"
     content: prize-20140056
+  }
+  {
+    id: 140057
+    name: 必得未解鎖人形序標-競爭者
+    gun_id: "183"
+    content: prize-20140057
+  }
+  {
+    id: 140058
+    name: 必得未解鎖人形序標-M99
+    gun_id: "128"
+    content: prize-20140058
+  }
+  {
+    id: 140059
+    name: 必得未解鎖人形序標-RPK-16
+    gun_id: "292"
+    content: prize-20140059
+  }
+  {
+    id: 140060
+    name: 必得未解鎖人形序標-SIG MCX
+    gun_id: "338"
+    content: prize-20140060
+  }
+  {
+    id: 140061
+    name: 必得未解鎖人形序標-G36C
+    gun_id: "104"
+    content: prize-20140061
+  }
+  {
+    id: 140062
+    name: 必得未解鎖人形序標-AK-Alfa
+    gun_id: "306"
+    content: prize-20140062
+  }
+  {
+    id: 140063
+    name: 必得未解鎖人形序標-97式
+    gun_id: "130"
+    content: prize-20140063
+  }
+  {
+    id: 140064
+    name: 必得未解鎖人形序標-Vector
+    gun_id: "20"
+    content: prize-20140064
   }
 ]

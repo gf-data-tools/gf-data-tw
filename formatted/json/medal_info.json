@@ -77,5 +77,9 @@
     "id": "18", "name": "蝕相觀測者", "order": "82", "evo_step": "1", "appearance_id": "105", "item_id": "117", 
     "medal_obtain": "授予在限時活動沙羅蝕相中完成所有戰役挑戰的指揮官。", "medal_color": "#ff0000", "is_date": "2", 
     "decorate_code": "Logo_Events", "if_elite_medal": "1"
+  }, {
+    "id": "19", "name": "金話筒音樂勳章", "order": "81", "evo_step": "1", "appearance_id": "106", "item_id": "118", 
+    "medal_obtain": "授予在限時活動雪浪映花顏中完成所有戰役挑戰的指揮官。", "medal_color": "#ff0000", "is_date": "2", 
+    "decorate_code": "Logo_Events", "if_elite_medal": "1"
   }
 ]

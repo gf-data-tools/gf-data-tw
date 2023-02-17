@@ -26751,6 +26751,194 @@
     rotate: "2"
   }
   {
+    id: 10801
+    name: 雪夜溫泉館-微涼足跡
+    classes: 108
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 雪花落在地磚上，融化消失了，沒有人知道它們來過。就像有一天戰爭結束了，沒有人知道她們來過。
+    code: HotSpring2023_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 10802
+    name: 雪夜溫泉館-靜謐雪夜
+    classes: 108
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 雪夜聽簌簌，無風無月，唯一壺清酒、二三好友。
+    code: HotSpring2023_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10803
+    name: 雪夜溫泉館-一簾暖意
+    classes: 108
+    type: 201
+    position: "29,8"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 我見雪落下，便知冬已至，遙見紅刀旗，便知你的笑顏在溫泉中盛開。
+    code: HotSpring2023_deco_01
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 10804
+    name: 雪夜溫泉館-貼心告示
+    classes: 108
+    type: 201
+    position: "24,5"
+    space: "4,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 想提醒你按時吃飯，又怕打擾你，便寫在顯眼的告示牌上吧。
+    code: HotSpring2023_deco_02
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 10805
+    name: 雪夜溫泉館-煙火氣息
+    classes: 108
+    type: 201
+    position: "25,0"
+    space: "7,4,1,1,1,0"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: 我準備了許多食材，許多美酒，還有幾鍋有滋有味的故事。如果你來了，我會對你說，「歡迎光臨！」
+    code: HotSpring2023_deco_03,HotSpring2023_deco_04
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "0,0,0|0,0,0"
+    rotate: "2,2"
+    interact_point: "17"
+    interact_point_offset: *-0.963,4.263,-0.285
+  }
+  {
+    id: 10806
+    name: 雪夜溫泉館-精緻木刻
+    classes: 108
+    type: 201
+    position: "32,3"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 如果食物和快樂都定格在木版畫上，這一刻，能否稱得上永恆呢？
+    code: HotSpring2023_deco_05
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 10807
+    name: 雪夜溫泉館-池邊絮語
+    classes: 108
+    type: 201
+    position: "0,5"
+    space: "3,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 想說點什麼，又不好意思開口的話，就寫在這裡吧。你的一字一句，都會被看見。
+    code: HotSpring2023_deco_06
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 10808
+    name: 雪夜溫泉館-楓橋白雪
+    classes: 108
+    type: 201
+    position: "0,12"
+    space: "35,2,1,1,1,0"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: 來時，你在橋邊撣撣衣角，抖落一身風霜與硝煙。去時，你微笑擺手告別，然後披堅執銳、踏破冰雪。
+    code: HotSpring2023_deco_07,HotSpring2023_deco_08,HotSpring2023_deco_09,2023Newyearbridge
+    texture_type: "1,1,1,2"
+    sorting: "0,0,0,20"
+    offset: "-3.545,0.365,-1.314|1.064,0.365,-1.314|5.641,0.365,-1.314|-0.261,0.261,-1.084"
+    rotate: "2,2,2,2"
+  }
+  {
+    id: 10809
+    name: 雪夜溫泉館-格里芬溫泉館
+    classes: 108
+    type: 201
+    position: "9,0"
+    space: "15,4,1,1,1,0"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: 據小道消息稱，溫泉館建成後，指揮官只來過一次，還沒泡進池子，就在人形們熱情包圍下落荒而逃。
+    code: HotSpring2023_deco_10,HotSpring2023_deco_11,HotSpring2023_deco_12
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "-0.261,-0.229,-0.052|4.337,-0.229,-0.052|-0.261,4.275,0.991"
+    rotate: "2,2,2"
+  }
+  {
+    id: 10810
+    name: 雪夜溫泉館-好物收納
+    classes: 108
+    type: 201
+    position: "20,5"
+    space: "2,2,1,1,0,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 即便是平凡普通的雨傘，也會有適合它的收納位置吧。
+    code: HotSpring2023_deco_13
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 10811
+    name: 雪夜溫泉館-冬日暖飲
+    classes: 108
+    type: 201
+    position: "4,8"
+    space: "2,2,1,1,0,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 從前有人讓你請她喝一杯，你大笑不肯。後來你站在販售機前，看到第二瓶半價，回憶像雪花崩落。然後你擰開兩個瓶子，自己與自己乾杯。
+    code: HotSpring2023_deco_14
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 10812
+    name: 雪夜溫泉館-驅寒足湯
+    classes: 108
+    type: 201
+    position: "1,0"
+    space: "7,4,1,1,1,1"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 這個冬天格外冷，願這一池溫熱能暫驅寒意。
+    code: HotSpring2023_deco_15,HotSpring2023_deco_16,HotSpring2023_deco_17,HotSpring2023_deco_18
+    texture_type: "1,1,1,1"
+    sorting: "0,20,10,10"
+    offset: "0.000,0.000,0.000|0.000,0.000,0.000|0.000,1.227,0.284|2.297,1.227,0.284"
+    rotate: "2,2,2,2"
+    interact_point: "14"
+    interact_point_offset: *1.254,1.545,-0.285
+  }
+  {
     id: 10901
     name: 玉兔踏歌會-應雪之地
     classes: 109
@@ -28278,6 +28466,101 @@
     texture_type: "1"
     offset: "0,0,0"
     rotate: "2"
+  }
+  {
+    id: 20086
+    name: 老友宴席
+    classes: 81
+    type: 201
+    space: "14,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 經過法蘭秀秀精心布置的餐桌，就算生活再艱難，也要和朋友一起好好吃頓飯。不好吃？挑食的叉下去和羅梅羅一桌！
+    code: Saga_deco_table1,Saga_deco_table2,Saga_deco_table3
+    texture_type: "1,1,1"
+    sorting: "20,0,0"
+    offset: "0.000,0.000,0.000|-2.035,0.000,0.000|2.096,0.000,0.000"
+    rotate: "2,2,2"
+    interact_point: "18,19"
+    interact_point_offset: *5.425,1.480,-0.285|*-5.104,1.480,-0.285
+  }
+  {
+    id: 20087
+    name: 古董吊燈
+    classes: 81
+    type: 201
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 難以判定具體使用年限的吊燈，似乎自從那座洋房建成，它就懸在了天花板上，看著人們熙來攘往，又看著屋中一片沉寂。唯一不變的，是黑夜照樣來臨，而它也照樣為屋中的人們奉上光明。
+    code: Saga_deco_light
+    texture_type: "1"
+    offset: "0.000,3.535,0.824"
+    rotate: "2"
+  }
+  {
+    id: 20088
+    name: 爆裂爵士
+    classes: 81
+    type: 201
+    space: "9,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 一台頗有故事的爵士鼓，鼓面上留下了鼓手狂暴敲擊的痕跡，連鑔片也有疑似被啃咬的牙印。根據體驗過的人形介紹，一旦坐上去就會進入忘卻一切、只想打爆地球的心流狀態……
+    code: Saga_DrumKit_deco
+    texture_type: "2"
+    sorting: "20"
+    offset: "0.000,0.219,0.052"
+    rotate: "2"
+    interact_point: "820088"
+    interact_point_offset: *0.000,2.106,0.000
+    touch_area: "9,4,0"
+  }
+  {
+    id: 20089
+    name: 記憶回聲
+    classes: 81
+    type: 201
+    space: "3,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 型號古老的錄音機，功能簡單，只能使用磁帶進行聲音的錄製和播放，且雜聲很大。但這並不影響人形們圍繞在旁，聆聽來自過去時代的天使之音。
+    code: Saga_deco_recorder
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20090
+    name: 金話筒音樂勳章
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 表彰該指揮官及其麾下的樂隊在「雪浪映花顏」活動中的精彩演出，「哪怕前路坎坷，也要將那破滅後一直積蓄在心底的願望喊出來！」
+    code: 2023SagaActivity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20091
+    name: 羅梅羅
+    classes: 299
+    type: 299
+    space: "3,2,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 嬌小可愛的殭屍犬，可以自由變換體型。最喜歡魷魚絲，最討厭搶魷魚絲的人。
+    code: 2023SagaActivity_Romero
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "4"
+    interact_point_offset: *0.061,0.848,-0.285
+    touch_area: "3,3,3"
+    bonus_id: 3104
   }
   {
     id: 30001
@@ -29969,6 +30252,111 @@
     decompose_gift: 100003
     description: OBR的海報。
     code: poster_ChessBonus_OBR
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30587
+    name: 源櫻-閃耀光芒
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 源櫻的海報
+    code: poster_Saga2023_Sakura
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30588
+    name: 二階堂咲-暴走族黎明
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 二階堂咲的海報
+    code: poster_Saga2023_Saki
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30589
+    name: 水野愛-覺醒的夢想家
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 水野愛的海報
+    code: poster_Saga2023_Ai
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30590
+    name: 紺野純子-不能遺忘的時光
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 紺野純子的海報
+    code: poster_Saga2023_Junko
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30591
+    name: 夕霧-佐賀事變
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 夕霧的海報
+    code: poster_Saga2023_Yuugiri
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30592
+    name: 星川莉莉-致最親愛的人
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 星川莉莉的海報
+    code: poster_Saga2023_Lily
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30593
+    name: 山田妙-競技館擊碎者
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 山田妙的海報
+    code: poster_Saga2023_Tae
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
@@ -37265,6 +37653,96 @@
     rotate: "3"
   }
   {
+    id: 37902
+    name: A-545-銀樹的致意
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: A-545的海報。
+    code: poster_NewYear2023_A545
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37903
+    name: SL8-青雪歸君
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SL8的海報。
+    code: poster_NewYear2023_SL8
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37904
+    name: FX-05-星野環遊記
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: FX-05的海報。
+    code: poster_NewYear2023_FX05
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37905
+    name: PPD-40-悠然見黛山
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PPD-40的海報。
+    code: poster_NewYear2023_PPD40
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37906
+    name: OTs-39-幻畫杏桃
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: OTs-39的海報。
+    code: poster_NewYear2023_OTs39
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37907
+    name: 微型烏茲-新橙剪影
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 微型烏茲的海報。
+    code: poster_NewYear2023_MicroUZI
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 38001
     name: MK3A1-紅露醉
     classes: 300
@@ -41731,6 +42209,21 @@
     decompose_gift: 100003
     description: 柯爾特沃克的海報
     code: poster_BattlePass_ColtWalker
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330005
+    name: Scar-L-與愛犬的安逸午後
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Scar-L的海報。
+    code: poster_BattlePass_scarL
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

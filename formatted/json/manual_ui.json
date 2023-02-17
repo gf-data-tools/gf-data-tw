@@ -624,6 +624,57 @@
     "id": 544213, "code_a": "tong", "description_a": "我方梯隊", "description_b": "樹林", "description_c": "點燃", 
     "code_b": "Console_Icon", "is_manual_target": 2, "use_fairy_ui": 0
   }, {
+    "id": 570011, "code_a": "ZLSR_570011", "description_a": "水野愛", "description_b": "覺醒之音", "description_c": "演出", 
+    "code_b": "Console_Icon", "is_manual_target": 2, "use_fairy_ui": 0
+  }, {
+    "id": 570021, "code_a": "ZLSR_570021", "description_a": "紺野純子", "description_b": "強力和弦", "description_c": "演出", 
+    "code_b": "Console_Icon", "is_manual_target": 2, "use_fairy_ui": 0
+  }, {
+    "id": 570031, "code_a": "ZLSR_570031", "description_a": "星川莉莉", "description_b": "星星射線", "description_c": "演出", 
+    "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
+    "id": 570041, "code_a": "ZLSR_570041", "description_a": "二階堂咲", "description_b": "暴走登場", "description_c": "演出", 
+    "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
+    "id": 570051, "code_a": "ZLSR_570051", "description_a": "夕霧", "description_b": "琴影十字斬", "description_c": "演出", 
+    "code_b": "Console_Icon", "is_manual_target": 2, "use_fairy_ui": 0
+  }, {
+    "id": 570061, "code_a": "ZLSR_570061", "description_a": "源櫻", "description_b": "厄運衝撞", "description_c": "演出", 
+    "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
+    "id": 570071, "code_a": "ZLSR_570071", "description_a": "山田妙", "description_b": "羅梅羅的聲援汪！", 
+    "description_c": "演出", "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
+    "id": 570501, "code_a": "Bubble_machine", "description_a": "我方梯隊", "description_b": "泡泡機", 
+    "description_c": "關閉", "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
+    "id": 570605, "code_a": "DriedSquid", "description_a": "我方梯隊", "description_b": "魷魚絲", "description_c": "投擲", 
+    "code_b": "Console_Icon", "is_manual_target": 2, "use_fairy_ui": 0
+  }, {
+    "id": 570606, "code_a": "TakeOut", "description_a": "我方梯隊", "description_b": "外賣", "description_c": "送達", 
+    "code_b": "Console_Icon", "is_manual_target": 2, "use_fairy_ui": 0
+  }, {
+    "id": 570607, "code_a": "DriedSquid", "description_a": "我方梯隊", "description_b": "魷魚絲", "description_c": "拾取", 
+    "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
+    "id": 570608, "code_a": "TakeOut", "description_a": "我方梯隊", "description_b": "外賣", "description_c": "拾取", 
+    "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
+    "id": 570610, "code_a": "Console", "description_a": "我方梯隊", "description_b": "控制台", "description_c": "打卡", 
+    "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
+    "id": 572041, "code_a": "ZLSP", "description_a": "指揮官", "description_b": "演出選手", "description_c": "查看技能", 
+    "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
+    "id": 572042, "code_a": "ZLSP", "description_a": "指揮官", "description_b": "我方選手", "description_c": "查看技能", 
+    "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
+    "id": 572043, "code_a": "ZLSP", "description_a": "指揮官", "description_b": "對方選手", "description_c": "查看技能", 
+    "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
+    "id": 575001, "code_a": "ZLSP", "description_a": "結算員", "description_b": "訓練結算", "description_c": "結算", 
+    "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
     "id": 590001, "code_a": "Rouge_590001", "description_a": "我方梯隊", "description_b": "狙擊支援", 
     "description_c": "升級", "code_b": "Console_Icon", "is_manual_target": 3, "use_fairy_ui": 0
   }, {
@@ -1574,6 +1625,9 @@
   }, {
     "id": 6000010, "code_a": "Portal1", "description_a": "我方梯隊", "description_b": "傳送節點", "description_c": "傳送", 
     "code_b": "Squad_Icon", "is_manual_target": 0, "use_fairy_ui": 0
+  }, {
+    "id": 6000011, "code_a": "Console", "description_a": "我方梯隊", "description_b": "控制台", "description_c": "開啟", 
+    "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
   }, {
     "id": 6380201, "code_a": "Console", "description_a": "我方梯隊", "description_b": "防禦門X1", "description_c": "開啟", 
     "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0

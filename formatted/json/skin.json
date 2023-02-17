@@ -580,6 +580,42 @@
     "note": "skin-30000586", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40000586", "order": 90, 
     "class_id": 0
   }, {
+    "id": 587, "name": "源櫻-閃耀光芒", "extra": 0, "fit_gun": 1037, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "明明說站在舞台上是看不清台下觀眾的樣子的，可為什麼我每次一和台下視線交匯，看見的都是你……", 
+    "note": "skin-30000587", "explore_tag": "", "gift_position": "-172,2.1", "illustrator_cv": "skin-40000587", "order": 101, 
+    "class_id": 0
+  }, {
+    "id": 588, "name": "二階堂咲-暴走族黎明", "extra": 0, "fit_gun": 1041, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", "dialog": "極！速！狂！飆！敢擋在前面的傢伙通通撞飛！指揮官？當然是坐上我的後座！", 
+    "note": "skin-30000588", "explore_tag": "", "gift_position": "-173.8,134.9", "illustrator_cv": "skin-40000588", 
+    "order": 101, "class_id": 0
+  }, {
+    "id": 589, "name": "水野愛-覺醒的夢想家", "extra": 0, "fit_gun": 1038, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", "dialog": "我要懷抱著熾熱的心情，用最大的努力，創造直達靈魂深處的奇跡！", 
+    "note": "skin-30000589", "explore_tag": "", "gift_position": "-117.7,6.9", "illustrator_cv": "skin-40000589", 
+    "order": 101, "class_id": 0
+  }, {
+    "id": 590, "name": "紺野純子-不能遺忘的時光", "extra": 0, "fit_gun": 1039, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "別擔心，今天親眼目送的晚霞，明天還是會來迎接您的，如果您願意的話，我們約好一起去看吧！", 
+    "note": "skin-30000590", "explore_tag": "", "gift_position": "-115.1,1.4", "illustrator_cv": "skin-40000590", 
+    "order": 101, "class_id": 0
+  }, {
+    "id": 591, "name": "夕霧-佐賀事變", "extra": 0, "fit_gun": 1040, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "莫要被蝴蝶亂舞迷亂心境，莫要被荊棘阻礙前行，若能有跨越千山萬壑的勇氣，即便身處地獄，你我也會有相見之時。", 
+    "note": "skin-30000591", "explore_tag": "", "gift_position": "23.6,58.5", "illustrator_cv": "skin-40000591", 
+    "order": 101, "class_id": 0
+  }, {
+    "id": 592, "name": "星川莉莉-致最親愛的人", "extra": 0, "fit_gun": 1036, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", "dialog": "莉莉會將愛與思念化作閃耀的魔法，一直傳遞到那個人的心裡~！", "note": "skin-30000592", 
+    "explore_tag": "", "gift_position": "-112.6,189", "illustrator_cv": "skin-40000592", "order": 101, "class_id": 0
+  }, {
+    "id": 593, "name": "山田妙-競技館擊碎者", "extra": 0, "fit_gun": 1035, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", "dialog": "唔啊唔啊，呃啊啊啊啊啊——！（充滿了擊碎一切的氣勢！）", "note": "skin-30000593", 
+    "explore_tag": "", "gift_position": "-352.1,67.5", "illustrator_cv": "skin-40000593", "order": 101, "class_id": 0
+  }, {
     "id": 601, "name": "托卡列夫-兩人的旅程", "extra": 0, "fit_gun": 6, "ai": 40601, "voice": 16, "is_hidden": 0, 
     "substitute_voice": "", "dialog": "……兩個人之間的事？我不太懂。不過，您會教給我吧？", "note": "skin-30000601", 
     "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40000601", "order": 7, "class_id": 7
@@ -3307,6 +3343,41 @@
     "note": "skin-30007809", "explore_tag": "", "gift_position": "", "illustrator_cv": "小星,佐藤有世,", "order": 98, 
     "class_id": 83
   }, {
+    "id": 7902, "name": "A-545-銀樹的致意", "extra": 0, "fit_gun": 356, "ai": 0, "voice": 15, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "說到新年「祛厄運」，普通的羽板球怎麼比得上這顆小榴彈呢？……看把你嚇得，只是灌滿伏特加的小酒瓶而已。", 
+    "note": "skin-30007902", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40007902", "order": 99, 
+    "class_id": 84
+  }, {
+    "id": 7903, "name": "SL8-青雪歸君", "extra": 0, "fit_gun": 296, "ai": 0, "voice": 15, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "嘿呀，別害怕嘛！我剛才搖晃的不是氣泡酒，而是一瓶櫻花花瓣！來，趁我還沒撒完，許個新年願望吧？", 
+    "note": "skin-30007903", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40007903", "order": 99, 
+    "class_id": 84
+  }, {
+    "id": 7904, "name": "FX-05-星野環遊記", "extra": 0, "fit_gun": 330, "ai": 0, "voice": 15, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "比起新年的日出，我更想和您共賞第一個點滿繁星的夜晚呢……指揮官，您會準備好地圖帶我出發的，對吧？", 
+    "note": "skin-30007904", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40007904", "order": 99, 
+    "class_id": 84
+  }, {
+    "id": 7905, "name": "PPD-40-悠然見黛山", "extra": 0, "fit_gun": 336, "ai": 0, "voice": 15, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "基地的裝扮太簡樸了，一點都沒有過年的氛圍……所以我特地訂製了一整套造景，這樣說「新年快樂」才有特別的感覺，不是嗎？", 
+    "note": "skin-30007905", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40007905", "order": 99, 
+    "class_id": 84
+  }, {
+    "id": 7906, "name": "OTs-39-幻畫杏桃", "extra": 0, "fit_gun": 209, "ai": 0, "voice": 15, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "指揮官，忙碌了一整年，您辛苦了！這瓶酒是我精心挑選的，很適合紓困解乏……請讓我為您斟一杯吧？", 
+    "note": "skin-30007906", "explore_tag": "", "gift_position": "", "illustrator_cv": "巫目目,蘓和治美,", "order": 99, 
+    "class_id": 84
+  }, {
+    "id": 7907, "name": "微型烏茲-新橙剪影", "extra": 0, "fit_gun": 32, "ai": 0, "voice": 15, "is_hidden": 0, 
+    "substitute_voice": "", "dialog": "指揮官，只要在我標記的吉語下擺個帥氣的POSE，來年所有的計劃都會順順利利、逢難必過哦！", 
+    "note": "skin-30007907", "explore_tag": "", "gift_position": "", "illustrator_cv": "人力,大西沙織,", "order": 99, 
+    "class_id": 84
+  }, {
     "id": 8001, "name": "MK3A1-紅露醉", "extra": 0, "fit_gun": 367, "ai": 0, "voice": 15, "is_hidden": 0, 
     "substitute_voice": "", 
     "dialog": "指揮官你回來啦？誒，這個機械兔子嗎，等你的時候順手做的，是不是很可愛？指揮官，新年快樂！新的一年我們繼續發明創造吧~", 
@@ -3376,6 +3447,11 @@
     "substitute_voice": "", 
     "dialog": "歡迎，指揮官，我再重複一遍遊戲規則——七天後，所有賞金都將屬於那個抓住我的人……那麼，狩獵開始了。", 
     "note": "skin-30030004", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40030004", "order": 99, 
+    "class_id": 0
+  }, {
+    "id": 30005, "name": "Scar-L-與愛犬的安逸午後", "extra": 0, "fit_gun": 378, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", "dialog": "下午陽光不錯，適合為狗狗修理毛髮。SAMO也贊同我的意見，對吧UNCLE？", 
+    "note": "skin-30030005", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40030005", "order": 102, 
     "class_id": 0
   }
 ]
