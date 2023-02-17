@@ -1591,8 +1591,6 @@ DEPLOYMENT,30497,아군의 행동을 기다리는 중...,,0
 DEPLOYMENT,30498,재3세력의 행동을 기다리는 중...,,0
 DEPLOYMENT,30499,배치된 전투제대,,0
 DEPLOYMENT,30500,특성II 발동,,0
-DEPLOYMENT,30532,目标小攻略(todo),,0
-DEPLOYMENT,30533,获得技能(todo),,0
 DORM,31000,수납고,,0
 DORM,31001,Warehouse,,0
 DORM,31002,구매,,0
@@ -3377,8 +3375,6 @@ MISSIONSELECTION,40417,전원출정 성공,,0
 MISSIONSELECTION,40418,제대출정 성공,,0
 MISSIONSELECTION,40419,보상 미획득,,0
 MISSIONSELECTION,40420,작전 알림,,0
-MISSIONSELECTION,40459,完成后开启普通奖励(todo),,0
-MISSIONSELECTION,40460,完成后重置(todo),,0
 REINFORCEMENT,50000,인형선택,,0
 REINFORCEMENT,50001,잠겨있음,,0
 REINFORCEMENT,50002,LOCKED,,0
@@ -7687,5 +7683,3 @@ MINIGAME,280498,현재 사용,,0
 MINIGAME,280499,미획득,,0
 MINIGAME,280500,사용중,,0
 MINIGAME,280501,획득하지 않은 체스판 배경을 사용할 수 없습니다,,0
-MINIGAME,280528,可任意选择对应难度，每个难度需要足够的战力应对探查中遇到的困难，每次选择将重新开始灰域探查。//n完成灰域内的探查可以获得PT点数，PT点数用于兑换道具，灰域内的PT由每个探查点上PT掉落（全图掉落PT）和全部探查完的全图清理PT组成(todo),,0
-MINIGAME,280529,当前地图已全部清空(todo),,0

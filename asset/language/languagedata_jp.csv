@@ -1590,10 +1590,7 @@ DEPLOYMENT,30497,等待友方行动中……(todo),,0
 DEPLOYMENT,30498,等待第三方行动中……(todo),,0
 DEPLOYMENT,30499,已部署非重装梯队(todo),,0
 DEPLOYMENT,30500,天赋II发动(todo),,0
-DEPLOYMENT,30507,即将修复以下单位(todo),,0
 DEPLOYMENT,30508,资源消耗<Color=#FF5B22FF>（快速修理）</Color>(todo),,0
-DEPLOYMENT,30532,目标小攻略(todo),,0
-DEPLOYMENT,30533,获得技能(todo),,0
 DORM,31000,収納ボックス,,0
 DORM,31001,Warehouse,,0
 DORM,31002,ガチャ,,0
@@ -3376,8 +3373,6 @@ MISSIONSELECTION,40417,全体出征成功(todo),,0
 MISSIONSELECTION,40418,梯队出征成功(todo),,0
 MISSIONSELECTION,40419,未获得奖励(todo),,0
 MISSIONSELECTION,40420,作战提示(todo),,0
-MISSIONSELECTION,40459,完成后开启普通奖励(todo),,0
-MISSIONSELECTION,40460,完成后重置(todo),,0
 REINFORCEMENT,50000,人形選択,,0
 REINFORCEMENT,50001,未開放,,0
 REINFORCEMENT,50002,LOCKED,,0
@@ -7693,5 +7688,3 @@ MINIGAME,280498,当前使用(todo),,0
 MINIGAME,280499,未获得(todo),,0
 MINIGAME,280500,使用中(todo),,0
 MINIGAME,280501,未获取的棋盘背景，不能使用(todo),,0
-MINIGAME,280528,可任意选择对应难度，每个难度需要足够的战力应对探查中遇到的困难，每次选择将重新开始灰域探查。//n完成灰域内的探查可以获得PT点数，PT点数用于兑换道具，灰域内的PT由每个探查点上PT掉落（全图掉落PT）和全部探查完的全图清理PT组成(todo),,0
-MINIGAME,280529,当前地图已全部清空(todo),,0

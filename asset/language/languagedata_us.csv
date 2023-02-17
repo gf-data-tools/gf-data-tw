@@ -1590,9 +1590,6 @@ DEPLOYMENT,30497,Awaiting ally's move...,,0
 DEPLOYMENT,30498,Awaiting third party's move...,,0
 DEPLOYMENT,30499,Non-HOC unit already deployed,,0
 DEPLOYMENT,30500,Talent II activated,,0
-DEPLOYMENT,30507,即将修复以下单位(todo),,0
-DEPLOYMENT,30532,目标小攻略(todo),,0
-DEPLOYMENT,30533,获得技能(todo),,0
 DORM,31000,Warehouse,,0
 DORM,31001,Warehouse,,0
 DORM,31002,Re-supply,,0
@@ -3379,8 +3376,6 @@ MISSIONSELECTION,40417,Full-Scale Expedition Successful,,0
 MISSIONSELECTION,40418,Echelon Expedition Successful,,0
 MISSIONSELECTION,40419,Rewards Unobtained,,0
 MISSIONSELECTION,40420,Battle Tips,,0
-MISSIONSELECTION,40459,完成后开启普通奖励(todo),,0
-MISSIONSELECTION,40460,完成后重置(todo),,0
 REINFORCEMENT,50000,Select,,0
 REINFORCEMENT,50001,Locked,,0
 REINFORCEMENT,50002,LOCKED,,0
@@ -7447,5 +7442,3 @@ MINIGAME,280498,Currently in use,,0
 MINIGAME,280499,Not obtained,,0
 MINIGAME,280500,,,0
 MINIGAME,280501,Chessboard background locked and cannot be used.,,0
-MINIGAME,280528,可任意选择对应难度，每个难度需要足够的战力应对探查中遇到的困难，每次选择将重新开始灰域探查。//n完成灰域内的探查可以获得PT点数，PT点数用于兑换道具，灰域内的PT由每个探查点上PT掉落（全图掉落PT）和全部探查完的全图清理PT组成(todo),,0
-MINIGAME,280529,当前地图已全部清空(todo),,0
