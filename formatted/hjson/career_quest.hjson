@@ -4851,28 +4851,4 @@
     grade_id: 23
     sort: 168
   }
-  {
-    id: 562
-    type: c_tutorial_mission
-    count: 1
-    prize_id: 11337
-    title: 路徑點：補給修理站
-    content: 完成教學關卡，了解補給修理站的機制。
-    new_type: 1
-    grade_id: 45
-    sort: 359
-    condition: "10933"
-  }
-  {
-    id: 563
-    type: c_tutorial_mission
-    count: 1
-    prize_id: 11338
-    title: 地圖機制：戰場效果
-    content: 完成教學關卡，了解戰場效果的機制。
-    new_type: 1
-    grade_id: 45
-    sort: 360
-    condition: "10921"
-  }
 ]
