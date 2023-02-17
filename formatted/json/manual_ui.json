@@ -669,7 +669,7 @@
     "id": 572042, "code_a": "ZLSP", "description_a": "指揮官", "description_b": "我方選手", "description_c": "查看技能", 
     "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
   }, {
-    "id": 572043, "code_a": "ZLSP", "description_a": "指揮官", "description_b": "對方選手", "description_c": "查看技能", 
+    "id": 572043, "code_a": "Griffin", "description_a": "指揮官", "description_b": "對方選手", "description_c": "查看技能", 
     "code_b": "Console_Icon", "is_manual_target": 0, "use_fairy_ui": 0
   }, {
     "id": 575001, "code_a": "ZLSP", "description_a": "結算員", "description_b": "訓練結算", "description_c": "結算", 

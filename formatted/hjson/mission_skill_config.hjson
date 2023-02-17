@@ -20811,7 +20811,7 @@
     cd_time_type: 1
     start_range: 1
     target_id: "57060501"
-    special_spot_minus: 570601:1
+    special_spot_minus: 570601:1,570614:1
     subsidiary_mission_skill: "570611"
     is_manual: 570605
   }
