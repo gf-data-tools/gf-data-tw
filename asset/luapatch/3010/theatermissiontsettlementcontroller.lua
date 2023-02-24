@@ -1,10 +1,10 @@
 local util = require 'xlua.util'
 xlua.private_accessible(CS.TheaterMissiontSettlementController)
 
-local Start = function(self)
-	self:Start();
+local InitData = function(self,result)
+	self:InitData(result);
 	self.scoreText.gameObject:SetActive(true);
 end
 
 
-util.hotfix_ex(CS.TheaterMissiontSettlementController,'Start',Start)
+util.hotfix_ex(CS.TheaterMissiontSettlementController,'InitData',InitData)

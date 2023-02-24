@@ -19363,7 +19363,7 @@
   </item>
   <item des="Assets/_Scenes/UGUIPrefab.unity/Bottom/UI_Text_9">
     <xmlID>Assets/_Scenes/UGUIPrefab.unity/Bottom/UI_Text_9</xmlID>
-    <rect>(201, -45),(277, 62)</rect>
+    <rect>(256.76, -45),(388.52, 62)</rect>
     <textfont>JDJSTE</textfont>
     <fontstyle>Normal</fontstyle>
     <fontsize>28</fontsize>
@@ -22291,7 +22291,7 @@
   </item>
   <item des="Assets/_Scenes/HotUpdate.unity/Time/Tex_AddTime">
     <xmlID>Assets/_Scenes/HotUpdate.unity/Time/Tex_AddTime</xmlID>
-    <rect>(-7.0, 0.0),(132.6 58.0)</rect>
+    <rect>(-7.0, 0.0),(132.6,58.0)</rect>
     <textfont>bordamedium</textfont>
     <fontstyle>Normal</fontstyle>
     <fontsize>55</fontsize>
@@ -27972,6 +27972,102 @@
     <item des="Assets/_Scenes/HotUpdate.unity/btn_Return/Text_1">
     <xmlID>Assets/_Scenes/HotUpdate.unity/btn_Return/Text_1</xmlID>
     <rect>(45.45,4.577),(197.1,94.12)</rect>
+    <textfont>tesong</textfont>
+    <fontstyle>Normal</fontstyle>
+    <fontsize>60</fontsize>
+    <linespac>1</linespac>
+    <richtext>True</richtext>
+    <alignment>MiddleLeft</alignment>
+    <horover>Wrap</horover>
+    <verover>Truncate</verover>
+    <bestfit>True</bestfit>
+    <minsize>10</minsize>
+    <maxsize>60</maxsize>
+    <isOrnamental>False</isOrnamental>
+  </item>
+  <item des="Assets/_Scenes/HotUpdate.unity/ChangeMsg/Tex_Information">
+    <xmlID>Assets/_Scenes/HotUpdate.unity/ChangeMsg/Tex_Information</xmlID>
+    <rect>(3.885,0),(123.37,42.002)</rect>
+    <textfont>sans</textfont>
+    <fontstyle>Normal</fontstyle>
+    <fontsize>25</fontsize>
+    <linespac>0.75</linespac>
+    <richtext>True</richtext>
+    <alignment>MiddleCenter</alignment>
+    <horover>Wrap</horover>
+    <verover>Truncate</verover>
+    <bestfit>True</bestfit>
+    <minsize>10</minsize>
+    <maxsize>50</maxsize>
+    <isOrnamental>False</isOrnamental>
+  </item>
+  <item des="Assets/_Scenes/HotUpdate.unity/On/Tex_Information_1">
+    <xmlID>Assets/_Scenes/HotUpdate.unity/On/Tex_Information_1</xmlID>
+    <rect>(-6.68,0),(127.55,41.99)</rect>
+    <textfont>sans</textfont>
+    <fontstyle>Normal</fontstyle>
+    <fontsize>25</fontsize>
+    <linespac>0.75</linespac>
+    <richtext>True</richtext>
+    <alignment>MiddleCenter</alignment>
+    <horover>Wrap</horover>
+    <verover>Truncate</verover>
+    <bestfit>True</bestfit>
+    <minsize>10</minsize>
+    <maxsize>50</maxsize>
+    <isOrnamental>False</isOrnamental>
+  </item>
+  <item des="Assets/_Scenes/HotUpdate.unity/Off/Tex_Information_4">
+    <xmlID>Assets/_Scenes/HotUpdate.unity/Off/Tex_Information_4</xmlID>
+    <rect>(-6.68,0),(127.55,41.99)</rect>
+    <textfont>sans</textfont>
+    <fontstyle>Normal</fontstyle>
+    <fontsize>25</fontsize>
+    <linespac>0.75</linespac>
+    <richtext>True</richtext>
+    <alignment>MiddleCenter</alignment>
+    <horover>Wrap</horover>
+    <verover>Truncate</verover>
+    <bestfit>True</bestfit>
+    <minsize>10</minsize>
+    <maxsize>50</maxsize>
+    <isOrnamental>False</isOrnamental>
+  </item>
+  <item des="Assets/_Scenes/HotUpdate.unity/On/Tex_Information_5">
+    <xmlID>Assets/_Scenes/HotUpdate.unity/On/Tex_Information_5</xmlID>
+    <rect>(-6.68,0),(127.55,41.99)</rect>
+    <textfont>sans</textfont>
+    <fontstyle>Normal</fontstyle>
+    <fontsize>25</fontsize>
+    <linespac>0.75</linespac>
+    <richtext>True</richtext>
+    <alignment>MiddleCenter</alignment>
+    <horover>Wrap</horover>
+    <verover>Truncate</verover>
+    <bestfit>True</bestfit>
+    <minsize>10</minsize>
+    <maxsize>50</maxsize>
+    <isOrnamental>False</isOrnamental>
+  </item>
+  <item des="Assets/_Scenes/HotUpdate.unity/On/Tex_Information_5">
+    <xmlID>Assets/_Scenes/HotUpdate.unity/On/Tex_Information_5</xmlID>
+    <rect>(-6.68,0),(127.55,41.99)</rect>
+    <textfont>sans</textfont>
+    <fontstyle>Normal</fontstyle>
+    <fontsize>25</fontsize>
+    <linespac>0.75</linespac>
+    <richtext>True</richtext>
+    <alignment>MiddleCenter</alignment>
+    <horover>Wrap</horover>
+    <verover>Truncate</verover>
+    <bestfit>True</bestfit>
+    <minsize>10</minsize>
+    <maxsize>50</maxsize>
+    <isOrnamental>False</isOrnamental>
+  </item>
+  <item des="Assets/_Scenes/HotUpdate.unity/btn_Next/UI_Text_2">
+    <xmlID>Assets/_Scenes/HotUpdate.unity/btn_Next/UI_Text_2</xmlID>
+    <rect>(4.4,3),(190.61,70.44)</rect>
     <textfont>tesong</textfont>
     <fontstyle>Normal</fontstyle>
     <fontsize>60</fontsize>

@@ -305,7 +305,6 @@ patch3010={
 "3010/BattleUIDefenseTrialResultController",
 "3010/BattleSLGModeController",
 "3010/WeddingPlay",
-"3010/TheaterMissiontSettlementController",	
 }
 -- va11
 print("load Va11");
