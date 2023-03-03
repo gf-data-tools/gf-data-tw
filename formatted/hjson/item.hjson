@@ -16953,6 +16953,16 @@
     detail_introduction: item-30110057
   }
   {
+    id: 110058
+    type: 4
+    arg: "110058"
+    code: PT
+    item_name: item-10110058
+    introduction: item-20110058
+    rank: 1
+    detail_introduction: item-30110058
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
