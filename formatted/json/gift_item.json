@@ -600,10 +600,10 @@
     "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
     "item_access": "", "detail_introduction": "gift_item-40000593", "sort": 0
   }, {
-    "id": 594, "name": "gift_item-10000594", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 152, "skin": 594, 
-    "poster": 30594, "code": "gift_bundle_ChessBonus_M1897", "bonus_description": "gift_item-20000594", 
-    "description": "gift_item-30000594", "is_hidden": 0, "exp": 0, "profile_pic": 0, "item_access": "", 
-    "detail_introduction": "gift_item-40000594", "sort": 0
+    "id": 594, "name": "M1897-茂林游嘰", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 152, "skin": 594, "poster": 30594, 
+    "code": "gift_bundle_ChessBonus_M1897", "bonus_description": "可解鎖人形換裝", 
+    "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
+    "item_access": "", "detail_introduction": "gift_item-40000594", "sort": 0
   }, {
     "id": 601, "name": "托卡列夫-兩人的旅程", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 6, "skin": 601, 
     "poster": 30601, "code": "gift_bundle_wedding_tt33", "bonus_description": "可解鎖人形換裝", 
@@ -3130,7 +3130,7 @@
     "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
     "item_access": "", "detail_introduction": "gift_item-40008106", "sort": 0
   }, {
-    "id": 8107, "name": "阿斯特拉左輪-阿斯特拉左輪", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 14, "skin": 8107, 
+    "id": 8107, "name": "阿斯特拉左輪-薰風蝶影", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 14, "skin": 8107, 
     "poster": 38107, "code": "gift_bundle_WhiteV2023_357", "bonus_description": "可解鎖人形換裝", 
     "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
     "item_access": "", "detail_introduction": "gift_item-40008107", "sort": 0

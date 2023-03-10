@@ -18484,40 +18484,44 @@
     "content": "恭喜你在「代號柒：急流」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勳章*60，指揮官經驗*2000，頭像「異想核心」", 
     "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
   }, {
-    "id": 10764, "name": "prize-10010764", "user_exp": 30, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "id": 10764, "name": "少校榮譽", "user_exp": 30, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-5,2270-1,200008-1", "furniture": "", "gift": "", 
-    "equip_ids": "", "coins": "", "skin": 0, "content": "prize-20010764", "send_limit": 0, "icon": "Medal_Chess", 
-    "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
+    "equip_ids": "", "coins": "", "skin": 0, 
+    "content": "恭喜你在「代號捌：極線」賽季中，獲得少校榮譽，獎勵：拉弗伯雷勳章*5，指揮官經驗*30，頭像「黑傑克 」", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
   }, {
-    "id": 10765, "name": "prize-10010765", "user_exp": 60, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "id": 10765, "name": "中校榮譽", "user_exp": 60, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-10", "furniture": "", "gift": "", "equip_ids": "", 
-    "coins": "", "skin": 0, "content": "prize-20010765", "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, 
-    "fairy_ids": "", "chip": "", "commander_uniform": ""
+    "coins": "", "skin": 0, "content": "恭喜你在「代號捌：極線」賽季中，獲得中校榮譽，獎勵：拉弗伯雷勳章*10，指揮官經驗*60", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
   }, {
-    "id": 10766, "name": "prize-10010766", "user_exp": 100, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "id": 10766, "name": "上校榮譽", "user_exp": 100, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-20", "furniture": "", "gift": "", "equip_ids": "", 
-    "coins": "", "skin": 0, "content": "prize-20010766", "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, 
-    "fairy_ids": "", "chip": "", "commander_uniform": ""
+    "coins": "", "skin": 0, "content": "恭喜你在「代號捌：極線」賽季中，獲得上校榮譽，獎勵：拉弗伯雷勳章*20，指揮官經驗*100", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
   }, {
-    "id": 10767, "name": "prize-10010767", "user_exp": 200, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "id": 10767, "name": "少將榮譽", "user_exp": 200, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-30,2271-1,200007-1", "furniture": "", "gift": "", 
-    "equip_ids": "", "coins": "", "skin": 0, "content": "prize-20010767", "send_limit": 0, "icon": "Medal_Chess", 
-    "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
+    "equip_ids": "", "coins": "", "skin": 0, 
+    "content": "恭喜你在「代號捌：極線」賽季中，獲得少將榮譽，獎勵：拉弗伯雷勳章*30，指揮官經驗*200，頭像「尤克牌戲」", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
   }, {
-    "id": 10768, "name": "prize-10010768", "user_exp": 500, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "id": 10768, "name": "中將榮譽", "user_exp": 500, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-40", "furniture": "", "gift": "", "equip_ids": "", 
-    "coins": "", "skin": 0, "content": "prize-20010768", "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, 
-    "fairy_ids": "", "chip": "", "commander_uniform": ""
+    "coins": "", "skin": 0, "content": "恭喜你在「代號捌：極線」賽季中，獲得中將榮譽，獎勵：拉弗伯雷勳章*40，指揮官經驗*500", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
   }, {
-    "id": 10769, "name": "prize-10010769", "user_exp": 1000, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "id": 10769, "name": "上將榮譽", "user_exp": 1000, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-50", "furniture": "", "gift": "", "equip_ids": "", 
-    "coins": "", "skin": 0, "content": "prize-20010769", "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, 
-    "fairy_ids": "", "chip": "", "commander_uniform": ""
+    "coins": "", "skin": 0, 
+    "content": "恭喜你在「代號捌：極線」賽季中，獲得上將榮譽，獎勵：拉弗伯雷勳章*50，指揮官經驗*1000", "send_limit": 0, 
+    "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
   }, {
-    "id": 10770, "name": "prize-10010770", "user_exp": 2000, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "id": 10770, "name": "元帥榮譽", "user_exp": 2000, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-60,2272-1,200006-1", "furniture": "", "gift": "", 
-    "equip_ids": "", "coins": "", "skin": 0, "content": "prize-20010770", "send_limit": 0, "icon": "Medal_Chess", 
-    "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
+    "equip_ids": "", "coins": "", "skin": 0, 
+    "content": "恭喜你在「代號捌：極線」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勳章*60，指揮官經驗*2000，頭像「欺詐師 」", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
   }, {
     "id": 11000, "name": "我需要一個空衣架", "user_exp": 30, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "", "equip_ids": "", "coins": "", 
@@ -21307,7 +21311,7 @@
     "coins": "", "skin": 0, "content": "prize-20012614", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
-    "id": 12615, "name": "prize-10012615", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "id": 12615, "name": "婚紗展示櫃", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "2056", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20012615", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""

@@ -590,7 +590,7 @@
     gift: 1-1
     gemprice: "388"
     quota: "2001"
-    giftbag_name: 南瓜熊熊禮包
+    giftbag_name: 馬卡洛夫-南瓜熊熊
     event_code: dailyGiftbag
     icon: Bumdle_halloween
     discount: "1.00"
@@ -604,7 +604,7 @@
     gift: 4-1
     gemprice: "588"
     quota: "2001"
-    giftbag_name: 糖果快遞禮包
+    giftbag_name: M45-糖果快遞
     event_code: dailyGiftbag
     icon: Bumdle_halloween
     discount: "1.00"
@@ -618,7 +618,7 @@
     gift: 8-1
     gemprice: "988"
     quota: "2001"
-    giftbag_name: 甜心小惡魔禮包
+    giftbag_name: MK23-甜心小惡魔
     event_code: dailyGiftbag
     icon: Bumdle_halloween
     discount: "1.00"
@@ -740,7 +740,7 @@
     gift: 303-1
     gemprice: "588"
     quota: "2001"
-    giftbag_name: M14聖夜祭禮包
+    giftbag_name: M14-聖誕巡遊禮服
     event_code: dailyGiftbag
     icon: Bumdle_Christmas
     discount: "1.00"
@@ -754,7 +754,7 @@
     gift: 302-1
     gemprice: "988"
     quota: "2001"
-    giftbag_name: 春田聖夜祭禮包
+    giftbag_name: 春田-聖善夜的祝福
     event_code: dailyGiftbag
     icon: Bumdle_Christmas
     discount: "1.00"
@@ -768,7 +768,7 @@
     gift: 308-1
     gemprice: "1488"
     quota: "2001"
-    giftbag_name: FAL聖夜祭禮包
+    giftbag_name: FAL-冬幕補給行動
     event_code: dailyGiftbag
     icon: Bumdle_Christmas
     discount: "1.00"
@@ -840,7 +840,7 @@
     gift: 406-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: 97式春節禮包
+    giftbag_name: 97式-牡丹魁
     event_code: dailyGiftbag
     icon: Bumdle_Spring
     discount: "1.00"
@@ -933,7 +933,7 @@
     gemprice: "2888"
     original_price: "6620"
     quota: "2001"
-    giftbag_name: 一髮入魂禮包
+    giftbag_name: PK-與您同在
     event_code: dailyGiftbag
     icon: Bumdle_ruby
     daily_quota: "50"
@@ -1054,7 +1054,7 @@
     gemprice: "128"
     original_price: "290"
     quota: "2001"
-    giftbag_name: 作戰補給禮包
+    giftbag_name: SR-3MP-黑兔瑪奇朵
     event_code: dailyGiftbag
     icon: Bumdle_indigo
     daily_quota: "10"
@@ -1072,7 +1072,7 @@
     gemprice: "2888"
     original_price: "6620"
     quota: "2001"
-    giftbag_name: 一髮入魂禮包
+    giftbag_name: 莫辛-納甘-月之海
     event_code: dailyGiftbag
     icon: Bumdle_ruby
     daily_quota: "50"
@@ -1085,7 +1085,7 @@
     item_ids: 2-5,9-20
     gemprice: "188"
     quota: "2001"
-    giftbag_name: 每日特惠禮包
+    giftbag_name: 蝎式-深紅的星途
     event_code: dailyGiftbag
     icon: Bumdle_indigo
     daily_quota: "5"
@@ -1207,7 +1207,7 @@
     gemprice: "218"
     original_price: "480"
     quota: "2001"
-    giftbag_name: mall-10000169
+    giftbag_name: 95式-夏鳴蟬
     event_code: dailyGiftbag
     icon: Bumdle_indigo
     daily_quota: "10"
@@ -1587,7 +1587,7 @@
     gift: 1403-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: IWS2000狂月禮包
+    giftbag_name: IWS 2000-第七封印者
     event_code: dailyGiftbag
     icon: Bumdle_halloween2017
     discount: "1.00"
@@ -1872,7 +1872,7 @@
     gift: 1502-1
     gemprice: "1988"
     quota: "2001"
-    giftbag_name: 競爭者歌劇魅影禮包
+    giftbag_name: 競爭者-歌劇魅影
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: "1.00"
@@ -1886,7 +1886,7 @@
     gift: 1505-1
     gemprice: "1588"
     quota: "2001"
-    giftbag_name: AEK-999極道車神禮包
+    giftbag_name: AEK-999-極道車神
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: "1.00"
@@ -2234,7 +2234,7 @@
     gift: 1603-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: Zas M21聖誕裝扮禮包
+    giftbag_name: Zas M21-獻上槍聲的雪姑娘
     event_code: dailyGiftbag
     icon: Bumdle_Christmas2017
     discount: "1.00"
@@ -2275,7 +2275,7 @@
     gift: 1204-1
     gemprice: "1188"
     quota: "2001"
-    giftbag_name: KLIN朝顏夕夢禮包
+    giftbag_name: KLIN-三羽烏
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: "1.00"
@@ -2405,7 +2405,7 @@
     gift: 1805-1
     gemprice: "1299"
     quota: "2001"
-    giftbag_name: MK23新春裝扮
+    giftbag_name: Mk23-蜂糖花
     event_code: dailyGiftbag
     icon: Bumdle_Spring2018
     discount: "1.00"
@@ -2419,7 +2419,7 @@
     gift: 1802-1
     gemprice: "1699"
     quota: "2001"
-    giftbag_name: S.A.T.8新春裝扮
+    giftbag_name: S.A.T.8-梅花印
     event_code: dailyGiftbag
     icon: Bumdle_Spring2018
     discount: "1.00"
@@ -2433,7 +2433,7 @@
     gift: 1803-1
     gemprice: "1999"
     quota: "2001"
-    giftbag_name: ART556新春裝扮
+    giftbag_name: ART556-蓮花白
     event_code: dailyGiftbag
     icon: Bumdle_Spring2018
     discount: "1.00"
@@ -2486,7 +2486,7 @@
     gift: 1904-1
     gemprice: "1888"
     quota: "2001"
-    giftbag_name: G36誓約裝扮
+    giftbag_name: G36-純白矢車菊
     event_code: dailyGiftbag
     icon: Bumdle_whiteValentine
     discount: "1.00"
@@ -3714,7 +3714,7 @@
     gift: 2201-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: 卡爾卡諾M1891童話節裝扮
+    giftbag_name: 卡爾卡諾M1891-勇敢的小卡諾
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: "1.00"
@@ -4160,7 +4160,7 @@
     gift: 2406-1
     gemprice: "1699"
     quota: "2001"
-    giftbag_name: FAL海灘裝扮禮包
+    giftbag_name: FAL-FAL的夏天
     event_code: dailyGiftbag
     icon: Bumdle_skin02
     discount: "1.00"
@@ -4174,7 +4174,7 @@
     gift: 2405-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: MP7海灘裝扮禮包
+    giftbag_name: MP7-糖果槍彈
     event_code: dailyGiftbag
     icon: Bumdle_skin02
     discount: "1.00"
@@ -4188,7 +4188,7 @@
     gift: 2404-1
     gemprice: "1999"
     quota: "2001"
-    giftbag_name: AN-94海灘裝扮禮包
+    giftbag_name: AN-94-潛水鐘與人偶
     event_code: dailyGiftbag
     icon: Bumdle_skin02
     discount: "1.00"
@@ -4202,7 +4202,7 @@
     gift: 2407-1
     gemprice: "1299"
     quota: "2001"
-    giftbag_name: G36海灘裝扮禮包
+    giftbag_name: G36-和G36的五十天
     event_code: dailyGiftbag
     icon: Bumdle_skin02
     discount: "1.00"
@@ -4476,7 +4476,7 @@
     gift: 2703-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: PM-06偶像裝扮禮包
+    giftbag_name: PM-06-翱翔天空之法
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: "1.00"
@@ -4586,7 +4586,7 @@
     gift: 2802-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: P90聖誕裝扮禮包
+    giftbag_name: P90-緋紅渦輪
     event_code: dailyGiftbag
     icon: Bumdle_Christmas
     discount: "1.00"
@@ -5485,7 +5485,7 @@
     gift: 3004-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: IWS 2000新春裝扮禮包
+    giftbag_name: IWS 2000-薄雪絨
     event_code: dailyGiftbag
     icon: Bumdle_Spring2018
     discount: "1.00"
@@ -5752,7 +5752,7 @@
     gift: 3103-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: G36C誓約裝扮禮包
+    giftbag_name: G36C-邁出步伐的你
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: "1.00"
@@ -5889,7 +5889,7 @@
     gift: 3202-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: 內蓋夫黑石姬裝扮禮包
+    giftbag_name: 內蓋夫-黑石姬
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: "1.00"
@@ -6653,7 +6653,7 @@
     gift: 3307-1
     gemprice: "1299"
     quota: "2001"
-    giftbag_name: G28週年裝扮禮包
+    giftbag_name: G28-月光與祖母綠
     event_code: dailyGiftbag
     icon: Bumdle_cn3year
     discount: "1.00"
@@ -6667,7 +6667,7 @@
     gift: 3309-1
     gemprice: "1588"
     quota: "2001"
-    giftbag_name: 雷電週年裝扮禮包
+    giftbag_name: 雷電-黑天鵝的夢
     event_code: dailyGiftbag
     icon: Bumdle_cn3year
     discount: "1.00"
@@ -6681,7 +6681,7 @@
     gift: 3302-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: AK-12週年裝扮禮包
+    giftbag_name: AK-12-靜寂蒼藍
     event_code: dailyGiftbag
     icon: Bumdle_cn3year
     discount: "1.00"
@@ -6695,7 +6695,7 @@
     gift: 3306-1
     gemprice: "1988"
     quota: "2001"
-    giftbag_name: 79式週年裝扮禮包
+    giftbag_name: 79式-星夜狐步
     event_code: dailyGiftbag
     icon: Bumdle_cn3year
     discount: "1.00"
@@ -7024,7 +7024,7 @@
     gift: 3402-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: K11童童園裝扮禮包
+    giftbag_name: K11-小小科學家
     event_code: dailyGiftbag
     icon: Bumdle_summer
     discount: "1.00"
@@ -7277,7 +7277,7 @@
     gift: 3502-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: 路易士盛夏裝扮禮包
+    giftbag_name: 路易士-防曬大作戰
     event_code: dailyGiftbag
     icon: Bumdle_natsu
     discount: "1.00"
@@ -8073,7 +8073,7 @@
     gift: 3702-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: 95式學院裝扮禮包
+    giftbag_name: 95式-純白畢業祭
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: "1.00"
@@ -8087,7 +8087,7 @@
     gift: 3705-1
     gemprice: "1588"
     quota: "2001"
-    giftbag_name: Mk23學院裝扮禮包
+    giftbag_name: Mk23-宣告開學的貓之歌
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: "1.00"
@@ -8101,7 +8101,7 @@
     gift: 3708-1
     gemprice: "999"
     quota: "2001"
-    giftbag_name: TMP學院裝扮禮包
+    giftbag_name: TMP-喵稜鏡威力
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: "1.00"
@@ -8394,7 +8394,7 @@
     gift: 3807-1
     gemprice: "2180"
     quota: "2001"
-    giftbag_name: 97式霰萬聖裝扮禮包
+    giftbag_name: 97式霰-奇謀妙策九七計
     event_code: dailyGiftbag
     icon: Bumdle_halloween2019
     discount: "1.00"
@@ -8683,7 +8683,7 @@
     gift: 4002-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: HK21聖誕裝扮禮包
+    giftbag_name: HK21-銀狐的⅑月台
     event_code: dailyGiftbag
     icon: Bumdle_Christmas
     discount: "1.00"
@@ -9920,7 +9920,7 @@
     gift: 4204-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: JS 9新春裝扮禮包
+    giftbag_name: JS 9-棣棠卿
     event_code: dailyGiftbag
     icon: Bumdle_Spingfestival
     discount: "1.00"
@@ -9934,7 +9934,7 @@
     gift: 4205-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: MG36新春裝扮禮包
+    giftbag_name: MG36-懸鈴緋
     event_code: dailyGiftbag
     icon: Bumdle_Spingfestival
     discount: "1.00"
@@ -10031,7 +10031,7 @@
     gift: 4102-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: G11正月裝扮禮包
+    giftbag_name: G11-福鼠懶春
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: "1.00"
@@ -10045,7 +10045,7 @@
     gift: 4103-1
     gemprice: "1288"
     quota: "2001"
-    giftbag_name: 四式正月裝扮禮包
+    giftbag_name: 四式-花拍子
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: "1.00"
@@ -10097,7 +10097,7 @@
     gift: 4303-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: 灰熊Mk V白情裝扮禮包
+    giftbag_name: 灰熊MkⅤ-星夜落雨之時
     event_code: dailyGiftbag
     icon: Bumdle_314
     discount: "1.00"
@@ -10111,7 +10111,7 @@
     gift: 4306-1
     gemprice: "1888"
     quota: "2001"
-    giftbag_name: 斯捷奇金白情裝扮禮包
+    giftbag_name: 斯捷奇金-山茶小姐的特別服務
     event_code: dailyGiftbag
     icon: Bumdle_314
     discount: "1.00"
@@ -10369,7 +10369,7 @@
     item_ids: 506-100,515-700,516-300
     gemprice: "128"
     quota: "2001"
-    giftbag_name: 融合勢力每日養成禮包
+    giftbag_name: 每日特惠禮包
     event_code: dailyGiftbag
     icon: Bumdle_black
     daily_quota: "1"
@@ -10381,7 +10381,7 @@
     type: "8"
     gemprice: "998"
     quota: "2001"
-    giftbag_name: 10連裝定向轟炸特惠禮包
+    giftbag_name: 4月特惠禮包
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: "1.00"
@@ -10409,7 +10409,7 @@
     gift: 4401-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: AA-12藏品裝扮禮包
+    giftbag_name: AA-12-無煙棒棒糖
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: "1.00"
@@ -13191,7 +13191,7 @@
     gemprice: "400"
     original_price: "500"
     quota: "2001"
-    giftbag_name: 鏡面宇宙
+    giftbag_name: 律動飛馳
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "94911"
@@ -13204,7 +13204,7 @@
     gemprice: "400"
     original_price: "500"
     quota: "2001"
-    giftbag_name: 天外星系
+    giftbag_name: 奕然夢境
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "94912"
@@ -13217,7 +13217,7 @@
     gemprice: "400"
     original_price: "500"
     quota: "2001"
-    giftbag_name: 天文館紀念品
+    giftbag_name: 揮汗如雨時
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "94920"
@@ -13230,7 +13230,7 @@
     gemprice: "400"
     original_price: "500"
     quota: "2001"
-    giftbag_name: 觸月摘星
+    giftbag_name: 爆裂熱魂
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "94931"
@@ -13243,7 +13243,7 @@
     gemprice: "400"
     original_price: "500"
     quota: "2001"
-    giftbag_name: 星間航行
+    giftbag_name: 輕舞昂揚
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "94932"
@@ -13256,7 +13256,7 @@
     gemprice: "400"
     original_price: "500"
     quota: "2001"
-    giftbag_name: 生命保障系統
+    giftbag_name: 體魄煉造器
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "94940"
@@ -13269,7 +13269,7 @@
     gemprice: "400"
     original_price: "500"
     quota: "2001"
-    giftbag_name: 游弋空間
+    giftbag_name: 極速躍動
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "94951"
@@ -13282,7 +13282,7 @@
     gemprice: "400"
     original_price: "500"
     quota: "2001"
-    giftbag_name: 折躍光年
+    giftbag_name: 靈動翩旋
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "94952"
@@ -13479,7 +13479,7 @@
     gift: 4502-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: M200周年裝扮禮包
+    giftbag_name: M200-戰地的採訪者
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: "1.00"
@@ -13493,7 +13493,7 @@
     gift: 4504-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: RO635周年裝扮禮包
+    giftbag_name: RO635-規則的實行者
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: "1.00"
@@ -13507,7 +13507,7 @@
     gift: 4508-1
     gemprice: "1888"
     quota: "2001"
-    giftbag_name: ST AR-15周年裝扮禮包
+    giftbag_name: ST AR-15-夢境的囚困者
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: "1.00"
@@ -13521,7 +13521,7 @@
     gift: 4505-1
     gemprice: "1888"
     quota: "2001"
-    giftbag_name: M4A1周年裝扮禮包
+    giftbag_name: M4A1-時光的定格者
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: "1.00"
@@ -13535,7 +13535,7 @@
     gift: 4506-1
     gemprice: "1888"
     quota: "2001"
-    giftbag_name: M16A1周年裝扮禮包
+    giftbag_name: M16A1-道路的指引者
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: "1.00"
@@ -13549,7 +13549,7 @@
     gift: 4507-1
     gemprice: "1888"
     quota: "2001"
-    giftbag_name: M4 SOPMODII周年裝扮禮包
+    giftbag_name: M4 SOPMODII-酒席的掃蕩者
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: "1.00"
@@ -13589,7 +13589,7 @@
     gift: 4603-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: X95兒童節裝扮禮包
+    giftbag_name: X95-白薔薇少女
     event_code: dailyGiftbag
     icon: Bumdle_newskin03
     discount: "1.00"
@@ -13603,7 +13603,7 @@
     gift: 4604-1
     gemprice: "1288"
     quota: "2001"
-    giftbag_name: FAMAS兒童節裝扮禮包
+    giftbag_name: FAMAS-鳥與森語者
     event_code: dailyGiftbag
     icon: Bumdle_newskin03
     discount: "1.00"
@@ -14334,7 +14334,7 @@
     gift: 4706-1
     gemprice: "1888"
     quota: "2001"
-    giftbag_name: KAC-PDW盛夏裝扮禮包
+    giftbag_name: KAC-PDW-甜慕之心
     event_code: dailyGiftbag
     icon: Bumdle_newskin07
     discount: "1.00"
@@ -14348,7 +14348,7 @@
     gift: 4704-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: SL8盛夏裝扮禮包
+    giftbag_name: SL8-怒濤之巔
     event_code: dailyGiftbag
     icon: Bumdle_newskin07
     discount: "1.00"
@@ -16684,7 +16684,7 @@
     gift: 5203-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: VHS特工裝扮禮包
+    giftbag_name: VHS-第八頁守密人
     event_code: dailyGiftbag
     icon: Bumdle_Division
     discount: "1.00"

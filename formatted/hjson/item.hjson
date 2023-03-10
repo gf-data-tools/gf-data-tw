@@ -13628,8 +13628,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessBonus_M1897
-    item_name: item-10002269
-    introduction: item-20002269
+    item_name: M1897-茂林游嘰
+    introduction: M1897-茂林游嘰
     rank: 1
     detail_introduction: item-30002269
   }
@@ -13638,8 +13638,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season10_1
-    item_name: item-10002270
-    introduction: item-20002270
+    item_name: 黑傑克 · 代號捌：極線
+    introduction: 黑傑克 · 代號捌：極線
     rank: 1
     detail_introduction: item-30002270
   }
@@ -13648,8 +13648,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season10_2
-    item_name: item-10002271
-    introduction: item-20002271
+    item_name: 尤克牌戲 · 代號捌：極線
+    introduction: 尤克牌戲 · 代號捌：極線
     rank: 1
     detail_introduction: item-30002271
   }
@@ -13658,8 +13658,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season10_3
-    item_name: item-10002272
-    introduction: item-20002272
+    item_name: 欺詐師 · 代號捌：極線
+    introduction: 欺詐師 · 代號捌：極線
     rank: 1
     detail_introduction: item-30002272
   }

@@ -1490,10 +1490,10 @@
   }
   {
     id: 594
-    name: skin-10000594
+    name: M1897-茂林游嘰
     fit_gun: 152
     voice: 4
-    dialog: skin-20000594
+    dialog: 指、指揮官，被您看出來了，我完全不是它們倆的對手呢……誒，指揮官真厲害，轉眼就逆轉了形勢，把敵方棋子清掃得一乾二淨！
     note: skin-30000594
     gift_position: "-352.1,67.5"
     illustrator_cv: skin-40000594
@@ -8103,7 +8103,7 @@
     voice: 16
     dialog: （叩叩——）蝴蝶仙子前來兌現心願啦！按照約定，今天您所有的時間都由我來安排……唔，要不要先吃點東西呢？
     note: skin-30008107
-    illustrator_cv: skin-40008107
+    illustrator_cv: 小星,雨宮天,
     order: 103
     class_id: 86
   }

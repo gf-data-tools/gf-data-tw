@@ -760,37 +760,8 @@ COMMON,1759,Rewards Obtained,,0
 COMMON,1760,Resources damaged!,,0
 COMMON,1761,Raise any non-Prototype Fairy to 5-star and Level 100 to unlock this feature.,,0
 COMMON,1762,Login Again,,0
-COMMON,1763,,,0
-COMMON,1764,,,0
-COMMON,1765,,,0
 COMMON,1766,Collect all,,0
-COMMON,1767,,,0
-COMMON,1768,,,0
-COMMON,1769,撤离的非重创单位已自动修复(todo),,0
-COMMON,1771,复制成功(todo),,0
-COMMON,1772,已发放(todo),,0
-COMMON,1773,是否确认您的推荐人为指挥官{0}（ 认证码{1}）(todo),,0
-COMMON,1774,该玩家邀请次数已达上限！(todo),,0
 COMMON,1775,礼物盒规则测试(todo),,0
-COMMON,1777,满足(todo),,0
-COMMON,1778,不满足(todo),,0
-COMMON,1779,双倍(todo),,0
-COMMON,1780,已达成(todo),,0
-COMMON,1781,未达成(todo),,0
-COMMON,1782,解谜(todo),,0
-COMMON,1786,第一次登录时间{0}年{1}月{2}日(todo),,0
-COMMON,1787,参与过{0}场战斗(todo),,0
-COMMON,1788,击败过{0}名敌人(todo),,0
-COMMON,1789,拥有{0}位人形(todo),,0
-COMMON,1790,缔结过{0}次誓约(todo),,0
-COMMON,1791,捕获过{0}名铁血(todo),,0
-COMMON,1792,欢迎回到格里芬(todo),,0
-COMMON,1793,推荐梯队(todo),,0
-COMMON,1794,誓约if线(todo),,0
-COMMON,1795,铁血捕获if线(todo),,0
-COMMON,1796,*用时缩减(todo),,0
-COMMON,1797,训练次数(todo),,0
-COMMON,1798,暂不可用(todo),,0
 BATTLE,10000,Retreat,,0
 BATTLE,10001,Withdraw,,0
 BATTLE,10002,WITHDRAW,,0
@@ -985,11 +956,6 @@ BATTLE,10196,You have reached the limit of deployed T-Doll echelons.,,0
 BATTLE,10197,You have reached the limit of deployed Coalition echelons.,,0
 BATTLE,10198,You have reached the limit of deployed HOC units.,,0
 BATTLE,10199,You have reached the limit of deployed non-HOC units.,,0
-BATTLE,10200,,,0
-BATTLE,10202,修复(todo),,0
-BATTLE,10203,当前战斗失败，已中断代理作战。(todo),,0
-BATTLE,10204,射速上限(todo),,0
-BATTLE,10205,攻速上限(todo),,0
 CARNIVAL,11000,Progress,,0
 CARNIVAL,11001,Get reward,,0
 CARNIVAL,11002,GETREWARD,,0
@@ -1133,21 +1099,6 @@ HOME,20130,There is a grading evaluation which can be performed.,,0
 HOME,20131,Can be collected,,0
 HOME,20132,Purchase at Level {0}. Raise to Level {1} to unlock the rewards listed above.,,0
 HOME,20133,Complete this character's Progression Breakthrough to unlock this artwork.,,0
-HOME,20134,,,0
-HOME,20135,,,0
-HOME,20136,回归签到(todo),,0
-HOME,20137,回归任务(todo),,0
-HOME,20138,回归基金(todo),,0
-HOME,20139,回归商城(todo),,0
-HOME,20145,回归邀请(todo),,0
-HOME,20148,请激活回归基金后，领取奖励(todo),,0
-HOME,20150,*邀请玩家可获得回归奖励，奖励将自动发放至邮箱领取(todo),,0
-HOME,20152,未达到(todo),,0
-HOME,20153,<color=#ffb400ff><size=48><b>回归助力：</b></size></color>//n回归期间，模拟作战产出提升，模拟作战<color=#F27C25FF>【资料采样】【经验特训】【强化练习】和【云图回廊】</color>//n所有关卡产出提升为原本的2倍，<color=#F27C25FF>【融合演习】</color>所有关卡产出不限时3倍产出！//n//n<color=#ffb400ff><size=48><b>回归签到：</b></size></color>//n1.回归活动期间，指挥官只需要登录游戏即可领取丰厚的签到奖励//n2.可领取的回归签到奖励天数依据累计登录天数计算//n3.签到会累积<color=#F27C25FF>回归活跃度</color>，用于解锁丰厚的活跃度大礼//n//n<color=#ffb400ff><size=48><b>回归任务：</b></size></color>//n1.回归活动期间，完成指定的回归任务即可领取对应的丰厚奖励//n2.指挥官可以提前预览并完成所有的回归任务，回归任务奖励需要等待回归活动开始后经历对应的自然日解锁，//n未解锁奖励领取期间，可以正常累计任务完成进度//n3.完成回归任务会累积回归活跃度，回归活跃度达到阶段要求后，可以领取相应阶段的回归活跃度奖励//n4.领取最终的回归活跃度奖励将获得回归指挥官专属的限时锚定构筑一次//n//n<color=#ffb400ff><size=48><b>回归基金：</b></size></color>//n1.格里芬为回归指挥官准备了专属的回归基金，购买后可以获得大量资源助力指挥官再度起航//n2.通过回归签到和回归任务累积回归活跃度，回归基金奖励将使用回归活跃度进行解锁，//n回归活跃度达到阶段要求后，可以领取相应阶段的回归基金奖励//n//n<color=#ffb400ff><size=48><b>回归商城：</b></size></color>//n1.回归商城是提供给回归指挥官的专属商城，指挥官可以自由选购超值的成长助力补给(todo),,0
-HOME,20154,<color=#ffb400ff><size=48><b>邀请规则：</b></size></color>//n1.活动期间，回归玩家在回归邀请页签内填写您的邀请码则视为邀请成功；//n2.每位指挥官可以邀请三位回归玩家，每名回归玩家仅可接受一位指挥官的邀请；//n3.邀请活动仅限同服务器玩家。//n//n<color=#ffb400ff><size=48><b>奖励规则：</b></size></color>//n1.邀请成功后，第一份奖励将直接发送到您的邮箱内；//n2.后续奖励需要被邀请玩家的回归活跃度解锁。(todo),,0
-HOME,20155,灰域探查(todo),,0
-HOME,20156,重返基地(todo),,0
-HOME,20157,前往自选(todo),,0
 DEPLOYMENT,30000,Deploy,,0
 DEPLOYMENT,30001,Move,,0
 DEPLOYMENT,30002,Swap,,0
@@ -1639,35 +1590,7 @@ DEPLOYMENT,30497,Awaiting ally's move...,,0
 DEPLOYMENT,30498,Awaiting third party's move...,,0
 DEPLOYMENT,30499,Non-HOC unit already deployed,,0
 DEPLOYMENT,30500,Talent II activated,,0
-DEPLOYMENT,30501,,,0
-DEPLOYMENT,30502,代理介入中(todo),,0
-DEPLOYMENT,30503,,,0
 DEPLOYMENT,30507,即将修复以下单位(todo),,0
-DEPLOYMENT,30511,当前操作会影响已部署梯队，是否继续进行操作(todo),,0
-DEPLOYMENT,30512,剩余修理次数(todo),,0
-DEPLOYMENT,30513,再次作战(todo),,0
-DEPLOYMENT,30514,代理介入中..(todo),,0
-DEPLOYMENT,30515,代理介入中.(todo),,0
-DEPLOYMENT,30516,部署中(todo),,0
-DEPLOYMENT,30517,推荐等级(todo),,0
-DEPLOYMENT,30518,推荐效能(todo),,0
-DEPLOYMENT,30519,梯队推荐信息(todo),,0
-DEPLOYMENT,30520,当前编队类型(todo),,0
-DEPLOYMENT,30521,推荐星级(todo),,0
-DEPLOYMENT,30522,*以下配置满足任意即可出击(todo),,0
-DEPLOYMENT,30523,*以下为敌方信息(todo),,0
-DEPLOYMENT,30524,各部切换至昼战模式(todo),,0
-DEPLOYMENT,30525,队伍等级：(todo),,0
-DEPLOYMENT,30526,*推荐战术妖精等级<Color=#FFB400FF>≥{0}级</Color>(todo),,0
-DEPLOYMENT,30527,*推荐战术妖精星级<Color=#FFB400FF>≥{0}</Color>(todo),,0
-DEPLOYMENT,30528,*该难度下关卡可能要求使用的妖精：(todo),,0
-DEPLOYMENT,30529,*推荐重装梯队等级<Color=#FFB400FF>≥{0}级</Color>(todo),,0
-DEPLOYMENT,30530,*推荐重装梯队星级<Color=#FFB400FF>≥{0}</Color>(todo),,0
-DEPLOYMENT,30531,*该难度下关卡可能要求使用的重装梯队：(todo),,0
-DEPLOYMENT,30532,目标小攻略(todo),,0
-DEPLOYMENT,30533,获得技能(todo),,0
-DEPLOYMENT,30534,当前作战资源不足，已终止代理作战(todo),,0
-DEPLOYMENT,30535,资源不足，无法部署小队！(todo),,0
 DORM,31000,Warehouse,,0
 DORM,31001,Warehouse,,0
 DORM,31002,Re-supply,,0
@@ -2200,17 +2123,6 @@ DORM,31944,,,0
 DORM,31945,Open Compensation,,0
 DORM,31946,You have reached the max. capacity of some rewards and cannot obtain more. Please check the rewards shelves.,,0
 DORM,31947,,,0
-DORM,31949,获得友情点数:(todo),,0
-DORM,31951,*该皮肤已获得，继续赠送将获得海报和黑卡道具。(todo),,0
-DORM,31952,是否将装扮礼物赠送与{0}？(todo),,0
-DORM,31953,赠送成功(todo),,0
-DORM,31954,获得海报【<color=#ffb400ff>{0}</color>】x1(todo),,0
-DORM,31955,获得【<color=#ffb400ff>黑卡</color>】x1(todo),,0
-DORM,31956,头像【<color=#ffb400ff>{0}</color>】已可以在<color=#ffb400ff>商店</color>购入(todo),,0
-DORM,31957,人形好感度(todo),,0
-DORM,31959,皮肤预览(todo),,0
-DORM,31960,*该皮肤已获得。(todo),,0
-DORM,31961,收藏换装不会获得好感度，获得人形后该装扮会自动解锁。(todo),,0
 FACTORY,32000,Start,,0
 FACTORY,32001,Production complete,,0
 FACTORY,32002,Produce T-Doll,,0
@@ -2535,9 +2447,6 @@ FACTORY,32322,1. The ratio of the type of Fairy you obtain changes depending on 
 FACTORY,32323,This production recipe is very unlikely to produce a high-quality yield.,,0
 FACTORY,32324,Fairy Production,,0
 FACTORY,32325,,,0
-FACTORY,32326,(新的回归锚定将重置现有回归锚定进度，请及时完成建造)(todo),,0
-FACTORY,32327,请在剩余时间内使用格里芬指挥官回归锚定构筑福利(todo),,0
-FACTORY,32328,回归指挥官锚定构筑规则：//n1、指挥官可从人形列表中选择特定人形成为“锚定目标”，在锚定构筑界面点击“开始构筑”按钮，使用给定公式进行构筑；//n2、每次进行“锚定目标”的构筑，若本次构筑“锚定目标”失败，则下一次的构筑时会临时提升成功率，提升上限为100%；成功构筑“锚定目标时”，临时成功率会清零；//n3、构筑失败所提升的临时成功率，会跟随“锚定目标”进行保留，不会因为切换“锚定目标”而清零；//n、在单次回归指挥官锚定构筑中，单个“锚定目标”只能被成功构筑一次，最多可通过“锚定目标”成功构筑1个人形，多次回归指挥官锚定构筑可以选择同一个“锚定目标”，活动将在成功构筑1个人形或持续时间结束后结束；//n5、累计指定的锚定构筑次数后，锚定目标将必定构筑成功；//n6、“锚定目标”构筑成功初始几率与“工厂制造”无关(todo),,0
 DEVELOP,33000,Reached T-Doll capacity limit//c please make more space!,,0
 DEVELOP,33001,Using this service costs,,0
 DEVELOP,33002,<color=#76DFCEFF>Quick Production</color>X,,0
@@ -2793,12 +2702,6 @@ ILLUSTRATEDBOOK,35189,Switch to Post-Evolution,,0
 ILLUSTRATEDBOOK,35190,This Fairy cannot be modified yet. Coming soon.,,0
 ILLUSTRATEDBOOK,35191,协议回归部(todo),,0
 ILLUSTRATEDBOOK,35192,,,0
-ILLUSTRATEDBOOK,35193,已解锁(todo),,0
-ILLUSTRATEDBOOK,35195,使用途径(todo),,0
-ILLUSTRATEDBOOK,35196,韧性(todo),,0
-ILLUSTRATEDBOOK,35197,长按可查看详细信息(todo),,0
-ILLUSTRATEDBOOK,35198,心智升级尚未解锁，请先解锁系统。(todo),,0
-ILLUSTRATEDBOOK,35199,往事回忆尚未解锁，请先解锁系统。(todo),,0
 LOGIN,36000,Forget password,,0
 LOGIN,36001,Customer Support,,0
 LOGIN,36002,User EULA,,0
@@ -3474,39 +3377,6 @@ MISSIONSELECTION,40417,Full-Scale Expedition Successful,,0
 MISSIONSELECTION,40418,Echelon Expedition Successful,,0
 MISSIONSELECTION,40419,Rewards Unobtained,,0
 MISSIONSELECTION,40420,Battle Tips,,0
-MISSIONSELECTION,40421,,,0
-MISSIONSELECTION,40422,,,0
-MISSIONSELECTION,40423,,,0
-MISSIONSELECTION,40424,,,0
-MISSIONSELECTION,40425,,,0
-MISSIONSELECTION,40426,,,0
-MISSIONSELECTION,40427,,,0
-MISSIONSELECTION,40428,,,0
-MISSIONSELECTION,40432,1.灰域探查为一个常驻永久开放的事件//n2.通过难度选择每次进入灰域都会是一个全新的探查//n3.玩家通过消耗门票、资源进行灰域探查救援人形、获得积分//n4.完成整个灰域的探查可以获得丰厚的奖励//n5.每隔一段时间灰域内的救援人形会进行替换//n6.更多神秘的内容等待大家的探索//n(todo),,0
-MISSIONSELECTION,40437,1.积分兑换为灰域探查发放奖励//n2.积分兑换会随灰域探查永久开放//n3.积分兑换内容将不定期进行更新替换//n4.积分兑换分为【首通奖励】（首通奖励丰厚于普通）及【普通奖励】//n5.通过在灰域探查中获得PT值（完成事件，完成全图清理获得）可解锁奖励（奖励自动发放）//n6.当期完成【首通奖励】后，将关闭【首通】开启【普通奖励】//n7.当期活动中【普通奖励】将为循环模式，完成最后一档后将自动重置至第一档//n8.每次更新积分兑换奖励后将从【首通奖励】重新计算//n9.每次更新积分兑换将清空当前的PT//n(todo),,0
-MISSIONSELECTION,40438,单次时长(todo),,0
-MISSIONSELECTION,40439,总计时长(todo),,0
-MISSIONSELECTION,40440,重复次数(todo),,0
-MISSIONSELECTION,40441,行动要求(todo),,0
-MISSIONSELECTION,40442,可部署妖精(todo),,0
-MISSIONSELECTION,40443,已替换(todo),,0
-MISSIONSELECTION,40444,当前有资源即将到达存储上限，超过上限的部分将<color=#ffb400>无法获取</color>，是否继续后勤支援？//n<size=40><color=grey>建议将取消后将后勤重复次数修改为{0}次</color></size>(todo),,0
-MISSIONSELECTION,40445,当前有资源即将到达存储上限，超过上限的部分将<color=#ffb400>无法获取</color>，是否使用相同配置再次出征？//n<size=40><color=grey>建议将取消后将后勤重复次数修改为{0}次</color></size>(todo),,0
-MISSIONSELECTION,40446,需通关60个不同关卡，解锁关卡8-6解锁该模块(todo),,0
-MISSIONSELECTION,40447,可部署重装小队(todo),,0
-MISSIONSELECTION,40448,当前关卡发生变化，请退出(todo),,0
-MISSIONSELECTION,40449,战斗记录(todo),,0
-MISSIONSELECTION,40450,累计攻略(todo),,0
-MISSIONSELECTION,40451,精锐遭遇(todo),,0
-MISSIONSELECTION,40452,完全攻略(todo),,0
-MISSIONSELECTION,40453,进入昼战(todo),,0
-MISSIONSELECTION,40454,该作战梯队不允许撤离！(todo),,0
-MISSIONSELECTION,40455,队伍未配置妖精，是否确认出击？(todo),,0
-MISSIONSELECTION,40456,未配置自身重装梯队，是否出击?(todo),,0
-MISSIONSELECTION,40457,**灰域探查生涯计数(todo),,0
-MISSIONSELECTION,40458,未获取灰域信息(todo),,0
-MISSIONSELECTION,40459,完成后开启普通奖励(todo),,0
-MISSIONSELECTION,40460,完成后重置(todo),,0
 REINFORCEMENT,50000,Select,,0
 REINFORCEMENT,50001,Locked,,0
 REINFORCEMENT,50002,LOCKED,,0
@@ -3825,7 +3695,6 @@ SETTING,52150,Max,,0
 SETTING,52151,Current number of Rename Cards: {0},,0
 SETTING,52152,Effect of Selected T-Doll,,0
 SETTING,52153,*Slow down time when a T-Doll is selected.,,0
-SETTING,52154,伤害数字简化(todo),,0
 STOREROOM,53000,T-Doll,,0
 STOREROOM,53001,FIGURINE,,0
 STOREROOM,53002,Equipment,,0
@@ -3991,7 +3860,6 @@ EQUIP,54113,Enhancement at maximum,,0
 EQUIP,54114,Calibration Complete,,0
 EQUIP,54115,Currently Equipped On,,0
 EQUIP,54116,Idle,,0
-EQUIP,54117,装备{0}件(todo),,0
 SEPCIALOPS,60000,Operation: Cube,,0
 SEPCIALOPS,60001,Details,,0
 SEPCIALOPS,60002,In combat,,0
@@ -4632,11 +4500,6 @@ MALL,71156,Potential Energy sold out for today,,0
 MALL,71157,Buy Sim Energy,,0
 MALL,71158,Buy Potential Energy,,0
 MALL,71159,Content Preview,,0
-MALL,71160,,,0
-MALL,71161,,,0
-MALL,71162,前往自选(todo),,0
-MALL,71163,扭一扭(todo),,0
-MALL,71164,盲盒信息(todo),,0
 DOWNLOAD,80000,Resuming download of incomplete data files.,,0
 DOWNLOAD,80001,Please ensure that your device has at least ,,0
 DOWNLOAD,80002, memory! Continue?,,0
@@ -4933,16 +4796,6 @@ OTHER,100196,Commander:,,0
 OTHER,100197,Upon terminating Auto Battles//c rewards will be given for battles that have been completed//c while resources for incomplete battles will be refunded. Incomplete battles yield no reward.//n//n Spend <color=#ffb400>{1}</color>*<color=#ffb400>{0}</color> <color=#ffb400>{1}</color> (<color=#ffb400>{2}</color> left)//n to complete all current Auto Battles immediately.,,0
 OTHER,100198,Upon terminating Auto Battles//c resources for incomplete battles will be refunded//c but you will gain no reward.//n//n Spend <color=#ffb400>{1}</color>*<color=#ffb400>{0}</color> <color=#ffb400>{1}</color> (<color=#ffb400>{2}</color> left)//n to complete all current Auto Battles immediately.,,0
 OTHER,100199,Customer Service Email Address: support@sunborngame.com,,0
-OTHER,100201,{0}回合后变化(todo),,0
-OTHER,100202,{0}回合(todo),,0
-OTHER,100203,{0}场战斗(todo),,0
-OTHER,100204,持续(todo),,0
-OTHER,100205,可获得积分(todo),,0
-OTHER,100206,当前环境(todo),,0
-OTHER,100207,总PT：{0}(todo),,0
-OTHER,100208,通关PT：{0}(todo),,0
-OTHER,100209,全图清理PT：{0}(todo),,0
-OTHER,100210,点(todo),,0
 ACTIVITY,110000,Operation: Cube,,0
 ACTIVITY,110001,Blindfold Theorem,,0
 FRIEND,110002,友情点数(todo),,0
@@ -4951,7 +4804,6 @@ FRIEND,110004,Item,,0
 FRIEND,110005,ID Card,,0
 FRIEND,110006,The user does not exist!,,0
 FRIEND,110007,Four resources,,0
-FRIEND,110008,友情点数不足，暂不能购买。//n<color=#2FB20EFF><size=36>*可通过下列每日活动获取友情点数：//n1.日常任务；2.宿舍点赞；3.作战支援；4.兵棋扭蛋</size></color>(todo),,0
 FRIEND,110009, Insufficient,,0
 FRIEND,110010,Number of friends has reached the maximum limit!,,0
 FRIEND,110011,Background,,0
@@ -5005,9 +4857,6 @@ FRIEND,110058,Previewing,,0
 FRIEND,110059,Icon frame changed successfully,,0
 FRIEND,110060,Icon Frame - Alloy Shell,,0
 FRIEND,110061,Default icon,,0
-FRIEND,110062,,,0
-FRIEND,110063,今日获取情况：//n宿舍点赞{0}/<color=#72FF00FF>{1}</color>//n作战支援{2}/<color=#72FF00FF>{3}</color>(todo),,0
-FRIEND,110064,友情点数：{0}/{1}次(todo),,0
 BINGO,120001,Random draw,,0
 BINGO,120002,Cancel draw,,0
 BINGO,120003,Choose number,,0
@@ -5452,17 +5301,6 @@ GUIDE,140343,Rewards can be redeemed when you fill up the 【Daily Protocol】 p
 GUIDE,140344,【Daily Key Tasks】 are refreshed at <color=#f27f19>00:00 every day</color>. 【Weekly Key Tasks】 are refreshed <color=#f27f19>at 00:00 every Monday</color>. Take not of how much time you have left for completing your tasks.,,0
 GUIDE,140345,That's everything covered regarding 【Griffin Daily Tasks】. Remember to complete them//c Commander!,,0
 GUIDE,140346,<color=#f27f19>Activity Points</color> contributes to the progress of 【Griffin Weekly】. You can redeem generous rewards upon reaching certain thresholds.,,0
-GUIDE,140347,指挥官，前方红区发生异动，请立即确认信息！(todo),,0
-GUIDE,140348,指挥官，前方红区发生异动，请立即确认信息！(todo),,0
-GUIDE,140349,指挥官，请立即前往！(todo),,0
-GUIDE,140350,日常玩法强制引导占位2-1(todo),,0
-GUIDE,140351,前方区域危险！应根据实际战备情况来选择探索难度。现在，请选择【沙尘带】难度前往视察情况吧。(todo),,0
-GUIDE,140352,日常玩法强制引导占位3-1(todo),,0
-GUIDE,140353,我们到了，指挥官。+面前每一个可行动的地块都会触发不同的状况，有的需要作战，甚至遇到强敌，有的则将遇到随机事件，请沉着应对。(todo),,0
-GUIDE,140354,针对地块的详细介绍，也已收录至<color=#ffb400ff>格里芬手册</color>，可随时查阅。(todo),,0
-GUIDE,140355,每次完成地块战役，都将获得<color=#ffb400ff>积分</color>，难度越高的战役积分越多，Boss所在地块会有更多积分；完成所有区域内可交互的地块，还能获得额外<color=#ffb400ff>积分</color>。+积分到达一定数量就能获取<color=#ffb400ff>战利品</color>哦，所以，请尽量探索吧，指挥官！(todo),,0
-GUIDE,140356,指挥官注意该地区的昼夜情况会随着探索步伐切换的哦(todo),,0
-GUIDE,140357,指挥官也可以随时使用重置功能，重新<color=#ffb400ff>更换探索区域</color>。+就先说这么多啦，更多情报只能靠您自己发现了。那么，祝您好运！(todo),,0
 BEGINNERGUIDE,150000,Please head to the [COMBAT] screen.,,0
 BEGINNERGUIDE,150001,After obtaining the three medals for a mission//c you can use the [Auto-Battle] command.,,0
 BEGINNERGUIDE,150002,Different Auto-Battle missions require different numbers of Echelons to engage.,,0
@@ -5614,7 +5452,6 @@ SPECIALFORGLOBAL,160015,Skill,,0
 SPECIALFORGLOBAL,160016,ROF,,0
 SPECIALFORGLOBAL,160017,Maximum Cost,,0
 SPECIALFORGLOBAL,160018,HP,,0
-SPECIALFORGLOBAL,160019,修复(todo),,0
 PURCHASE_POOL,170000,Drop Rates Provision,,0
 PURCHASE_POOL,170001,Drop Rates Title,,0
 PURCHASE_POOL,170002,//nRarity ratio//n <Color=#EE798BFF>⭐Costumes</Color>:2%//n ⭐<Color=#FFC600FF>5★ Furniture</Color>:8%//n <Color=#8FC31F>4★ Furniture</Color>:36%//n <Color=#97C9C3>3★ Furniture</Color>:54%//n,,0
@@ -7108,12 +6945,6 @@ FORMATION,270054,Auto-Formation,,0
 FORMATION,270055,Automatically appointed as leader of Echelon {0},,0
 FORMATION,270056,{0} has no assigned leader. Please assign a leader.,,0
 FORMATION,270057,Echelon {0},,0
-FORMATION,270058,,,0
-FORMATION,270059,,,0
-FORMATION,270060,,,0
-FORMATION,270061,,,0
-FORMATION,270062,,,0
-FORMATION,270070,队长(todo),,0
 MINIGAME,280001,Turn,,0
 MINIGAME,280002,Finding a room//c please wait...,,0
 MINIGAME,280003,Waiting,,0
@@ -7612,31 +7443,3 @@ MINIGAME,280498,Currently in use,,0
 MINIGAME,280499,Not obtained,,0
 MINIGAME,280500,,,0
 MINIGAME,280501,Chessboard background locked and cannot be used.,,0
-MINIGAME,280502,是否确认在该难度下进行游戏//n<size=50>点击<color=#FFBB00FF>确定，重置地图进度</color></size>(todo),,0
-MINIGAME,280503,沙尘带(todo),,0
-MINIGAME,280504,风暴带(todo),,0
-MINIGAME,280505,硅状带(todo),,0
-MINIGAME,280506,昼夜交替剩余{0}回合(todo),,0
-MINIGAME,280507,资源不足无法进行探索(todo),,0
-MINIGAME,280508,不可探索的区域(todo),,0
-MINIGAME,280509,妖精未满足要求，无法进行探索(todo),,0
-MINIGAME,280510,重装未满足要求，无法进行探索(todo),,0
-MINIGAME,280511,点位攻略奖励(todo),,0
-MINIGAME,280512,确认后地图将重置(todo),,0
-MINIGAME,280513,*简单攻略(todo),,0
-MINIGAME,280514,*颇具难度(todo),,0
-MINIGAME,280515,*具有挑战(todo),,0
-MINIGAME,280516,倍积分(todo),,0
-MINIGAME,280517,*简单攻略(todo),,0
-MINIGAME,280518,*颇具难度(todo),,0
-MINIGAME,280519,*具有挑战(todo),,0
-MINIGAME,280520,全图掉落PT+全图清理PT(todo),,0
-MINIGAME,280521,指挥官，接下来要做什么？(todo),,0
-MINIGAME,280522,*推荐战术妖精等级<Color=#FFB400FF>--</Color>(todo),,0
-MINIGAME,280523,*推荐战术妖精星级<Color=#FFB400FF>--</Color>(todo),,0
-MINIGAME,280524,*推荐重装梯队等级<Color=#FFB400FF>--</Color>(todo),,0
-MINIGAME,280525,*推荐重装梯队星级<Color=#FFB400FF>--</Color>(todo),,0
-MINIGAME,280526,已扣除灰域探索消耗(todo),,0
-MINIGAME,280527,未获灰域取信息(todo),,0
-MINIGAME,280528,可任意选择对应难度，每个难度需要足够的战力应对探查中遇到的困难，每次选择将重新开始灰域探查。//n完成灰域内的探查可以获得PT点数，PT点数用于兑换道具，灰域内的PT由每个探查点上PT掉落（全图掉落PT）和全部探查完的全图清理PT组成(todo),,0
-MINIGAME,280529,当前地图已全部清空(todo),,0

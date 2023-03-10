@@ -616,9 +616,11 @@
     "substitute_voice": "", "dialog": "唔啊唔啊，呃啊啊啊啊啊——！（充滿了擊碎一切的氣勢！）", "note": "skin-30000593", 
     "explore_tag": "", "gift_position": "-352.1,67.5", "illustrator_cv": "skin-40000593", "order": 101, "class_id": 0
   }, {
-    "id": 594, "name": "skin-10000594", "extra": 0, "fit_gun": 152, "ai": 0, "voice": 4, "is_hidden": 0, 
-    "substitute_voice": "", "dialog": "skin-20000594", "note": "skin-30000594", "explore_tag": "", 
-    "gift_position": "-352.1,67.5", "illustrator_cv": "skin-40000594", "order": 101, "class_id": 0
+    "id": 594, "name": "M1897-茂林游嘰", "extra": 0, "fit_gun": 152, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "指、指揮官，被您看出來了，我完全不是它們倆的對手呢……誒，指揮官真厲害，轉眼就逆轉了形勢，把敵方棋子清掃得一乾二淨！", 
+    "note": "skin-30000594", "explore_tag": "", "gift_position": "-352.1,67.5", "illustrator_cv": "skin-40000594", 
+    "order": 101, "class_id": 0
   }, {
     "id": 601, "name": "托卡列夫-兩人的旅程", "extra": 0, "fit_gun": 6, "ai": 40601, "voice": 16, "is_hidden": 0, 
     "substitute_voice": "", "dialog": "……兩個人之間的事？我不太懂。不過，您會教給我吧？", "note": "skin-30000601", 
@@ -3462,7 +3464,7 @@
     "id": 8107, "name": "阿斯特拉左輪-薰風蝶影", "extra": 0, "fit_gun": 14, "ai": 48107, "voice": 16, "is_hidden": 0, 
     "substitute_voice": "", 
     "dialog": "（叩叩——）蝴蝶仙子前來兌現心願啦！按照約定，今天您所有的時間都由我來安排……唔，要不要先吃點東西呢？", 
-    "note": "skin-30008107", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40008107", "order": 103, 
+    "note": "skin-30008107", "explore_tag": "", "gift_position": "", "illustrator_cv": "小星,雨宮天,", "order": 103, 
     "class_id": 86
   }, {
     "id": 8108, "name": "MP-443-塵間心願", "extra": 0, "fit_gun": 220, "ai": 48108, "voice": 16, "is_hidden": 0, 

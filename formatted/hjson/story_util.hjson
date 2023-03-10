@@ -6154,7 +6154,7 @@
   {
     id: 526
     mission_id: "10481"
-    description: 白情test
+    description: 「作為廢棄的建築物，這裡保養得好過頭了，沒有腐朽的氣味，連大門前的地毯都一塵不染。」
     scripts: -37-1-1
     campaign: -37
     bgm: BGM_Frontline
@@ -6164,17 +6164,17 @@
   {
     id: 527
     mission_id: "10475"
-    description: 白情test
+    description: 「隨著電源被切斷，事情進展到了李最不願見到的狀況。」
     scripts: -37-2-1
     campaign: -37
     bgm: BGM_Frontline
-    title: 格里芬的建築師
+    title: 格裡芬的建築師
     start: -37-2-1
   }
   {
     id: 528
     mission_id: "10476"
-    description: 白情test
+    description: 「時光荏苒，你如此美麗。」
     scripts: -37-3-1First,-37-3-4-Point70626,-37-3-4-Point70633,-37-3-2End
     campaign: -37
     bgm: BGM_Frontline
@@ -6187,7 +6187,7 @@
   {
     id: 529
     mission_id: "10477"
-    description: 白情test
+    description: 「撲朔迷離的公館中，隱藏的敵人依然窺視著李小隊的後背。」
     scripts: -37-4-1,-37-4-4-Point70712
     campaign: -37
     bgm: BGM_Frontline
@@ -6198,11 +6198,11 @@
   {
     id: 530
     mission_id: "10478"
-    description: 白情test
+    description: 「所謂的亡靈殺人，只不過是人使用詭計造成的假象而已。」
     scripts: -37-5-1First,-37-5-2End
     campaign: -37
     bgm: BGM_Frontline
-    title: 七個橘核
+    title: 七個桔核
     start: -37-5-1First
     first: -37-5-2End
     end: -37-5-2End
@@ -6210,7 +6210,7 @@
   {
     id: 531
     mission_id: "10479"
-    description: 白情test
+    description: 「看著倒在那裡的PK，李恩菲爾德不禁想到……她實在是太美了。」
     scripts: -37-6-1,-37-6-4-Point70901,-37-6-4-Point70905,-37-6-4-Point70906,-37-6-4-Point70912,-37-6-4-Point70918,-37-6-4-Point70919,-37-6-4-Point70923
     campaign: -37
     bgm: BGM_Frontline
@@ -6221,7 +6221,7 @@
   {
     id: 532
     mission_id: "10480"
-    description: 白情test
+    description: 「附近居民聲稱這棟廢棄的公館時不時會傳出擾民的聲響，據當地傳說，這是未能得償夙願的新娘亡靈的彷徨。」
     scripts: -37-7-1First,-37-7-4-Point71024,-37-7-2End
     campaign: -37
     bgm: BGM_Frontline
@@ -6234,7 +6234,7 @@
   {
     id: 533
     mission_id: "10482"
-    description: 白情test
+    description: 「這絕非是奇幻故事，而是三流的推理小說。」
     scripts: -37-8-1
     campaign: -37
     bgm: BGM_Frontline
@@ -6244,7 +6244,7 @@
   {
     id: 534
     mission_id: "10483"
-    description: 白情test
+    description: 「一位藝術家的一生，只需要把她的作品獻給兩位觀眾：能夠抵禦她魅力的，和能夠理解她魅力的。」
     scripts: -37-9-1
     campaign: -37
     bgm: BGM_Frontline

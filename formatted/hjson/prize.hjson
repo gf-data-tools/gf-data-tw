@@ -26028,58 +26028,58 @@
   }
   {
     id: 10764
-    name: prize-10010764
+    name: 少校榮譽
     user_exp: 30
     item_ids: 106-5,2270-1,200008-1
-    content: prize-20010764
+    content: 恭喜你在「代號捌：極線」賽季中，獲得少校榮譽，獎勵：拉弗伯雷勳章*5，指揮官經驗*30，頭像「黑傑克 」
     icon: Medal_Chess
   }
   {
     id: 10765
-    name: prize-10010765
+    name: 中校榮譽
     user_exp: 60
     item_ids: 106-10
-    content: prize-20010765
+    content: 恭喜你在「代號捌：極線」賽季中，獲得中校榮譽，獎勵：拉弗伯雷勳章*10，指揮官經驗*60
     icon: Medal_Chess
   }
   {
     id: 10766
-    name: prize-10010766
+    name: 上校榮譽
     user_exp: 100
     item_ids: 106-20
-    content: prize-20010766
+    content: 恭喜你在「代號捌：極線」賽季中，獲得上校榮譽，獎勵：拉弗伯雷勳章*20，指揮官經驗*100
     icon: Medal_Chess
   }
   {
     id: 10767
-    name: prize-10010767
+    name: 少將榮譽
     user_exp: 200
     item_ids: 106-30,2271-1,200007-1
-    content: prize-20010767
+    content: 恭喜你在「代號捌：極線」賽季中，獲得少將榮譽，獎勵：拉弗伯雷勳章*30，指揮官經驗*200，頭像「尤克牌戲」
     icon: Medal_Chess
   }
   {
     id: 10768
-    name: prize-10010768
+    name: 中將榮譽
     user_exp: 500
     item_ids: 106-40
-    content: prize-20010768
+    content: 恭喜你在「代號捌：極線」賽季中，獲得中將榮譽，獎勵：拉弗伯雷勳章*40，指揮官經驗*500
     icon: Medal_Chess
   }
   {
     id: 10769
-    name: prize-10010769
+    name: 上將榮譽
     user_exp: 1000
     item_ids: 106-50
-    content: prize-20010769
+    content: 恭喜你在「代號捌：極線」賽季中，獲得上將榮譽，獎勵：拉弗伯雷勳章*50，指揮官經驗*1000
     icon: Medal_Chess
   }
   {
     id: 10770
-    name: prize-10010770
+    name: 元帥榮譽
     user_exp: 2000
     item_ids: 106-60,2272-1,200006-1
-    content: prize-20010770
+    content: 恭喜你在「代號捌：極線」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勳章*60，指揮官經驗*2000，頭像「欺詐師 」
     icon: Medal_Chess
   }
   {
@@ -30109,7 +30109,7 @@
   }
   {
     id: 12615
-    name: prize-10012615
+    name: 婚紗展示櫃
     furniture: "2056"
     content: prize-20012615
   }
