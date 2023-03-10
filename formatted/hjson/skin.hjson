@@ -1489,6 +1489,17 @@
     order: 101
   }
   {
+    id: 594
+    name: skin-10000594
+    fit_gun: 152
+    voice: 4
+    dialog: skin-20000594
+    note: skin-30000594
+    gift_position: "-352.1,67.5"
+    illustrator_cv: skin-40000594
+    order: 101
+  }
+  {
     id: 601
     name: 托卡列夫-兩人的旅程
     fit_gun: 6
@@ -8022,6 +8033,91 @@
     illustrator_cv: YoYo,筏井かなえ,
     order: 100
     class_id: 85
+  }
+  {
+    id: 8101
+    name: DP-12-霧敘十字星
+    fit_gun: 282
+    ai: 48101
+    voice: 16
+    dialog: 按照湖畔的約定，我於今夜化身為人，與您相會……嗯？您為什麼這樣看著我？即便是冒牌的白天鵝，我對您的心意也是真誠的哦。
+    note: skin-30008101
+    illustrator_cv: skin-40008101
+    order: 103
+    class_id: 86
+  }
+  {
+    id: 8102
+    name: SP9-浮沫白雪
+    fit_gun: 341
+    ai: 48102
+    voice: 16
+    dialog: 從前，我不明白為何有人會如此輕信他人、涉足險境——直到遇見您，我才懂得：如果磨難是幸福的必經之路，那麼我也願意做出同樣輕信的選擇。
+    note: skin-30008102
+    gift_position: "-194.3,62.6"
+    illustrator_cv: skin-40008102
+    order: 103
+    class_id: 86
+  }
+  {
+    id: 8103
+    name: AUG-藍色沉思曲
+    fit_gun: 73
+    ai: 48103
+    voice: 16
+    dialog: 我遍尋此地，似乎只有這架大提琴完好無缺……您願意暫且扮演一位被詛咒的王子，伴隨沉重悠揚的旋律，與我共舞一曲嗎？
+    note: skin-30008103
+    illustrator_cv: skin-40008103
+    order: 103
+    class_id: 86
+  }
+  {
+    id: 8105
+    name: 蒙德拉貢M1908-烏藤仙境
+    fit_gun: 317
+    ai: 48105
+    voice: 16
+    dialog: 詛咒的期限一旦來臨，環繞王宮的藤荊將為那唯一命定之人開啟……我很喜歡這則故事的紀律性，恰如長官您今日赴約的時間，分毫不差。
+    note: skin-30008105
+    illustrator_cv: skin-40008105
+    order: 103
+    class_id: 86
+  }
+  {
+    id: 8106
+    name: TAR-21-迷途三月兔
+    fit_gun: 72
+    ai: 48106
+    voice: 16
+    dialog: 指揮官，先前預定的「奇幻樹洞雙人遊」差不多可以出發囉~放心，日期沒有提前，只是為了節約車費，我們需要一天時間走到那裡而已。
+    note: skin-30008106
+    illustrator_cv: skin-40008106
+    order: 103
+    class_id: 86
+  }
+  {
+    id: 8107
+    name: 阿斯特拉左輪-薰風蝶影
+    fit_gun: 14
+    ai: 48107
+    voice: 16
+    dialog: （叩叩——）蝴蝶仙子前來兌現心願啦！按照約定，今天您所有的時間都由我來安排……唔，要不要先吃點東西呢？
+    note: skin-30008107
+    illustrator_cv: skin-40008107
+    order: 103
+    class_id: 86
+  }
+  {
+    id: 8108
+    name: MP-443-塵間心願
+    fit_gun: 220
+    ai: 48108
+    voice: 16
+    dialog: 親愛的春泥精靈啊，快快飛來我的身邊！我要用最美的石頭和你們交換奪目的新衣——這樣，指揮官的視線就永遠也離不開我啦！
+    note: skin-30008108
+    illustrator_cv: skin-40008108
+    order: 103
+    class_id: 86
   }
   {
     id: 30001

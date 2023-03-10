@@ -24441,6 +24441,62 @@
     content: prize-20007519
   }
   {
+    id: 7520
+    name: 委託助力禮包
+    item_ids: 41-100,605-5
+    gift: 100003-5
+    coins: 3-500
+    content: prize-20007520
+  }
+  {
+    id: 7521
+    name: 白情代幣*10+白情打撈保底A
+    item_ids: 100177-1,100179-10
+    content: prize-20007521
+  }
+  {
+    id: 7522
+    name: 白情代幣*15+白情打撈保底B
+    item_ids: 100178-1,100179-15
+    content: prize-20007522
+  }
+  {
+    id: 7523
+    name: 白情代幣*15+白情打撈保底A+B
+    item_ids: 100177-1,100178-1,100179-15
+    content: prize-20007523
+  }
+  {
+    id: 7524
+    name: 白情打撈保底A
+    item_ids: 100177-1
+    content: prize-20007524
+  }
+  {
+    id: 7525
+    name: 白情打撈保底B
+    item_ids: 100178-1
+    content: prize-20007525
+  }
+  {
+    id: 7526
+    name: 白情代幣*10
+    item_ids: 100179-10
+    content: prize-20007526
+  }
+  {
+    id: 7527
+    name: 白情代幣*15
+    item_ids: 100179-15
+    content: prize-20007527
+  }
+  {
+    id: 7528
+    name: 白情打撈保底A+B
+    item_ids: 100177-1,100178-1
+    content: prize-20007528
+  }
+  {
     id: 8001
     name: 新人七天累計儲值活動第1天
     gem: 50
@@ -25220,97 +25276,97 @@
     id: 10086
     name: 嘉年華獎勵
     mp: 100
-    item_ids: 110057-10
+    item_ids: 110059-10
     content: prize-20010086
   }
   {
     id: 10087
     name: 嘉年華獎勵
     mp: 100
-    item_ids: 110057-30
+    item_ids: 110059-30
     content: prize-20010087
   }
   {
     id: 10088
     name: 嘉年華獎勵
     ammo: 200
-    item_ids: 110057-20
+    item_ids: 110059-20
     content: prize-20010088
   }
   {
     id: 10089
     name: 嘉年華獎勵
     ammo: 200
-    item_ids: 110057-30
+    item_ids: 110059-30
     content: prize-20010089
   }
   {
     id: 10090
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110057-20
+    item_ids: 110059-20
     content: prize-20010090
   }
   {
     id: 10091
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110057-30
+    item_ids: 110059-30
     content: prize-20010091
   }
   {
     id: 10092
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110057-50
+    item_ids: 110059-50
     content: prize-20010092
   }
   {
     id: 10093
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110057-30
+    item_ids: 110059-30
     content: prize-20010093
   }
   {
     id: 10094
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110057-50
+    item_ids: 110059-50
     content: prize-20010094
   }
   {
     id: 10095
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110057-100
+    item_ids: 110059-100
     content: prize-20010095
   }
   {
     id: 10096
     name: 嘉年華獎勵
     part: 200
-    item_ids: 110057-50
+    item_ids: 110059-50
     content: prize-20010096
   }
   {
     id: 10097
     name: 嘉年華獎勵
     part: 200
-    item_ids: 110057-100
+    item_ids: 110059-100
     content: prize-20010097
   }
   {
     id: 10098
     name: 嘉年華獎勵
     part: 300
-    item_ids: 110057-150
+    item_ids: 110059-150
     content: prize-20010098
   }
   {
     id: 10099
     name: 嘉年華獎勵
-    item_ids: 110057-200,45-200
+    item_ids: 110059-200,45-200
     content: prize-20010099
   }
   {
@@ -25354,7 +25410,7 @@
   {
     id: 10105
     name: 活躍獎勵
-    gift: 100003-10,7907-1
+    gift: 100003-10,8107-1
     content: prize-20010105
     icon: Bumdle_bline
   }
@@ -25968,6 +26024,62 @@
     user_exp: 2000
     item_ids: 106-60,2216-1,200006-1
     content: 恭喜你在「代號柒：急流」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勳章*60，指揮官經驗*2000，頭像「異想核心」
+    icon: Medal_Chess
+  }
+  {
+    id: 10764
+    name: prize-10010764
+    user_exp: 30
+    item_ids: 106-5,2270-1,200008-1
+    content: prize-20010764
+    icon: Medal_Chess
+  }
+  {
+    id: 10765
+    name: prize-10010765
+    user_exp: 60
+    item_ids: 106-10
+    content: prize-20010765
+    icon: Medal_Chess
+  }
+  {
+    id: 10766
+    name: prize-10010766
+    user_exp: 100
+    item_ids: 106-20
+    content: prize-20010766
+    icon: Medal_Chess
+  }
+  {
+    id: 10767
+    name: prize-10010767
+    user_exp: 200
+    item_ids: 106-30,2271-1,200007-1
+    content: prize-20010767
+    icon: Medal_Chess
+  }
+  {
+    id: 10768
+    name: prize-10010768
+    user_exp: 500
+    item_ids: 106-40
+    content: prize-20010768
+    icon: Medal_Chess
+  }
+  {
+    id: 10769
+    name: prize-10010769
+    user_exp: 1000
+    item_ids: 106-50
+    content: prize-20010769
+    icon: Medal_Chess
+  }
+  {
+    id: 10770
+    name: prize-10010770
+    user_exp: 2000
+    item_ids: 106-60,2272-1,200006-1
+    content: prize-20010770
     icon: Medal_Chess
   }
   {
@@ -29994,6 +30106,12 @@
     name: 聖誕馴蟻
     furniture: "2052"
     content: prize-20012614
+  }
+  {
+    id: 12615
+    name: prize-10012615
+    furniture: "2056"
+    content: prize-20012615
   }
   {
     id: 14101

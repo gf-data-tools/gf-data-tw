@@ -5478,6 +5478,50 @@
     "introduction": "名片：春日清潔大作戰", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30002261", "is_hide_info": 0
   }, {
+    "id": 2262, "type": 5, "arg": "1", "code": "profilePic_WhiteV2023_DP12", "item_name": "DP-12-霧敘十字星", 
+    "introduction": "DP-12-霧敘十字星", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002262", "is_hide_info": 0
+  }, {
+    "id": 2263, "type": 5, "arg": "1", "code": "profilePic_WhiteV2023_SP9", "item_name": "SP9-浮沫白雪", 
+    "introduction": "SP9-浮沫白雪", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002263", "is_hide_info": 0
+  }, {
+    "id": 2264, "type": 5, "arg": "1", "code": "profilePic_WhiteV2023_AUG", "item_name": "AUG-藍色沉思曲", 
+    "introduction": "AUG-藍色沉思曲", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002264", "is_hide_info": 0
+  }, {
+    "id": 2265, "type": 5, "arg": "1", "code": "profilePic_WhiteV2023_MondragonM1908", "item_name": "蒙德拉貢M1908-烏藤仙境", 
+    "introduction": "蒙德拉貢M1908-烏藤仙境", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002265", "is_hide_info": 0
+  }, {
+    "id": 2266, "type": 5, "arg": "1", "code": "profilePic_WhiteV2023_TAR21", "item_name": "TAR-21-迷途三月兔", 
+    "introduction": "TAR-21-迷途三月兔", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002266", "is_hide_info": 0
+  }, {
+    "id": 2267, "type": 5, "arg": "1", "code": "profilePic_WhiteV2023_357", "item_name": "阿斯特拉左輪-薰風蝶影", 
+    "introduction": "阿斯特拉左輪-薰風蝶影", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002267", "is_hide_info": 0
+  }, {
+    "id": 2268, "type": 5, "arg": "1", "code": "profilePic_WhiteV2023_MP443", "item_name": "MP-443-塵間心願", 
+    "introduction": "MP-443-塵間心願", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002268", "is_hide_info": 0
+  }, {
+    "id": 2269, "type": 5, "arg": "1", "code": "profilePic_ChessBonus_M1897", "item_name": "item-10002269", 
+    "introduction": "item-20002269", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002269", "is_hide_info": 0
+  }, {
+    "id": 2270, "type": 5, "arg": "1", "code": "profilePic_ChessFlight_season10_1", "item_name": "item-10002270", 
+    "introduction": "item-20002270", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002270", "is_hide_info": 0
+  }, {
+    "id": 2271, "type": 5, "arg": "1", "code": "profilePic_ChessFlight_season10_2", "item_name": "item-10002271", 
+    "introduction": "item-20002271", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002271", "is_hide_info": 0
+  }, {
+    "id": 2272, "type": 5, "arg": "1", "code": "profilePic_ChessFlight_season10_3", "item_name": "item-10002272", 
+    "introduction": "item-20002272", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002272", "is_hide_info": 0
+  }, {
     "id": 4001, "type": 1, "arg": "4001", "code": "explore_loot_city", "item_name": "城市的饋贈", 
     "introduction": "很久前生產的一種積木玩具，因為其極高的生產精度現在已經很難仿製，在很多戰亂地區被用作貨幣，可以換到很多有用的東西。", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 99999, "consume_type": 0, "item_access": "", 
@@ -6660,6 +6704,18 @@
     "introduction": "白金勳章·雪浪映花顏", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30100176", "is_hide_info": 0
   }, {
+    "id": 100177, "type": 4, "arg": "100177", "code": "Nova_medal", "item_name": "新星勳章·焙炒愛意", 
+    "introduction": "新星勳章·焙炒愛意", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30100177", "is_hide_info": 0
+  }, {
+    "id": 100178, "type": 4, "arg": "100178", "code": "Platinum_medal", "item_name": "白金勳章·焙炒愛意", 
+    "introduction": "白金勳章·焙炒愛意", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30100178", "is_hide_info": 0
+  }, {
+    "id": 100179, "type": 9, "arg": "100179", "code": "Roasted_Cocoa", "item_name": "焙香可可", "introduction": "焙香可可", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "60", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30100179", "is_hide_info": 0
+  }, {
     "id": 110001, "type": 4, "arg": "110001", "code": "PT", "item_name": "嘉年華活躍點數", "introduction": "嘉年華活躍點數", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30110001", "is_hide_info": 0
@@ -6888,9 +6944,13 @@
     "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30110057", "is_hide_info": 0
   }, {
-    "id": 110058, "type": 4, "arg": "110058", "code": "PT", "item_name": "item-10110058", "introduction": "item-20110058", 
-    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "id": 110058, "type": 4, "arg": "110058", "code": "PT", "item_name": "活動點數", "introduction": "活動點數", "rank": 1, 
+    "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30110058", "is_hide_info": 0
+  }, {
+    "id": 110059, "type": 4, "arg": "110059", "code": "PT", "item_name": "活動點數", "introduction": "活動點數", "rank": 1, 
+    "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30110059", "is_hide_info": 0
   }, {
     "id": 120001, "type": 10, "arg": "1", "code": "bondage_lines_icon", "item_name": "友人談", 
     "introduction": "P38與沙漠之鷹", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 

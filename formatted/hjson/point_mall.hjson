@@ -14319,6 +14319,17 @@
     classification_id: 6003
   }
   {
+    id: 60215
+    type: 21
+    gem_pay: 1745
+    gem: 1745
+    double_gem_pay: 1745
+    double_gem: 1745
+    quota_num: 1
+    prize_id: 1234
+    classification_id: 2000
+  }
+  {
     id: 70201
     type: 21
     gem_pay: 1040

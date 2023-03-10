@@ -24477,8 +24477,8 @@
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
-    itemprice: 100136-150
-    classification_id: "1004"
+    itemprice: 100179-150
+    classification_id: "1007"
   }
   {
     id: "10860"
@@ -24489,8 +24489,8 @@
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
-    itemprice: 100136-50
-    classification_id: "1004"
+    itemprice: 100179-50
+    classification_id: "1007"
   }
   {
     id: "10861"
@@ -24501,8 +24501,8 @@
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
-    itemprice: 100136-30
-    classification_id: "1004"
+    itemprice: 100179-30
+    classification_id: "1007"
   }
   {
     id: "10862"
@@ -24513,8 +24513,8 @@
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
-    itemprice: 100136-30
-    classification_id: "1004"
+    itemprice: 100179-30
+    classification_id: "1007"
   }
   {
     id: "10863"
@@ -24525,8 +24525,8 @@
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
-    itemprice: 100136-30
-    classification_id: "1004"
+    itemprice: 100179-30
+    classification_id: "1007"
   }
   {
     id: "10864"
@@ -24537,8 +24537,8 @@
     discount: "1.00"
     prize_id: "1431"
     pay_type: "1"
-    itemprice: 100136-80
-    classification_id: "1004"
+    itemprice: 100179-80
+    classification_id: "1007"
   }
   {
     id: "10865"
@@ -24549,8 +24549,8 @@
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
-    itemprice: 100136-3
-    classification_id: "1004"
+    itemprice: 100179-3
+    classification_id: "1007"
   }
   {
     id: "10866"
@@ -24561,8 +24561,8 @@
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
-    itemprice: 100136-2
-    classification_id: "1004"
+    itemprice: 100179-2
+    classification_id: "1007"
   }
   {
     id: "10867"
@@ -24573,8 +24573,8 @@
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
-    itemprice: 100136-2
-    classification_id: "1004"
+    itemprice: 100179-2
+    classification_id: "1007"
   }
   {
     id: "10868"
@@ -24585,8 +24585,8 @@
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
-    itemprice: 100136-2
-    classification_id: "1004"
+    itemprice: 100179-2
+    classification_id: "1007"
   }
   {
     id: "10869"
@@ -24597,8 +24597,8 @@
     discount: "1.00"
     prize_id: "652"
     pay_type: "1"
-    itemprice: 100135-500
-    classification_id: "1003"
+    itemprice: 100178-500
+    classification_id: "1008"
   }
   {
     id: "10870"
@@ -24609,8 +24609,8 @@
     discount: "1.00"
     prize_id: "651"
     pay_type: "1"
-    itemprice: 100135-500
-    classification_id: "1003"
+    itemprice: 100178-500
+    classification_id: "1008"
   }
   {
     id: "10871"
@@ -24621,8 +24621,8 @@
     discount: "1.00"
     prize_id: "40230"
     pay_type: "1"
-    itemprice: 100134-400
-    classification_id: "1003"
+    itemprice: 100177-400
+    classification_id: "1008"
   }
   {
     id: "10872"
@@ -24633,8 +24633,8 @@
     discount: "1.00"
     prize_id: "1289"
     pay_type: "1"
-    itemprice: 100134-400
-    classification_id: "1003"
+    itemprice: 100177-400
+    classification_id: "1008"
   }
   {
     id: "10873"
@@ -24645,8 +24645,8 @@
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
-    itemprice: 100134-5
-    classification_id: "1003"
+    itemprice: 100177-5
+    classification_id: "1008"
   }
   {
     id: "10874"
@@ -24657,8 +24657,8 @@
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
-    itemprice: 100135-5
-    classification_id: "1003"
+    itemprice: 100178-5
+    classification_id: "1008"
   }
   {
     id: "10875"
@@ -29278,6 +29278,20 @@
     discount: "1.00"
     prize_id: "1542"
     classification_id: "3002"
+  }
+  {
+    id: "11234"
+    type: "8"
+    item_ids: 7-1,41-100
+    gift: 8102-1
+    gemprice: "2588"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: SP9-浮沫白雪
+    event_code: dailyGiftbag
+    icon: Bumdle_whiteValentine
+    discount: "1.00"
+    classification_id: "3003"
   }
   {
     id: "99001"

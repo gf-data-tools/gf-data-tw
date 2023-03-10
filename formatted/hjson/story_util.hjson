@@ -6153,83 +6153,83 @@
   }
   {
     id: 526
+    mission_id: "10481"
+    description: 白情test
+    scripts: -37-1-1
+    campaign: -37
+    bgm: BGM_Frontline
+    title: 空屋
+    start: -37-1-1
+  }
+  {
+    id: 527
     mission_id: "10475"
     description: 白情test
     scripts: -37-2-1
     campaign: -37
     bgm: BGM_Frontline
-    title: 空屋
+    title: 格里芬的建築師
     start: -37-2-1
   }
   {
-    id: 527
+    id: 528
     mission_id: "10476"
     description: 白情test
     scripts: -37-3-1First,-37-3-4-Point70626,-37-3-4-Point70633,-37-3-2End
     campaign: -37
     bgm: BGM_Frontline
-    title: 格里芬的建築師
+    title: 失蹤的MDR
     start: -37-3-1First
     point: 70626:-37-3-4-Point70626,70633:-37-3-4-Point70633
     first: -37-3-2End
     end: -37-3-2End
   }
   {
-    id: 528
+    id: 529
     mission_id: "10477"
     description: 白情test
     scripts: -37-4-1,-37-4-4-Point70712
     campaign: -37
     bgm: BGM_Frontline
-    title: 失蹤的MDR
+    title: 駝背人
     start: -37-4-1
     point: 70712:-37-4-4-Point70712
   }
   {
-    id: 529
+    id: 530
     mission_id: "10478"
     description: 白情test
     scripts: -37-5-1First,-37-5-2End
     campaign: -37
     bgm: BGM_Frontline
-    title: 駝背人
+    title: 七個橘核
     start: -37-5-1First
     first: -37-5-2End
     end: -37-5-2End
   }
   {
-    id: 530
+    id: 531
     mission_id: "10479"
     description: 白情test
     scripts: -37-6-1,-37-6-4-Point70901,-37-6-4-Point70905,-37-6-4-Point70906,-37-6-4-Point70912,-37-6-4-Point70918,-37-6-4-Point70919,-37-6-4-Point70923
     campaign: -37
     bgm: BGM_Frontline
-    title: 七個橘核
+    title: 第二塊雲圖
     start: -37-6-1
     point: 70901:-37-6-4-Point70901,70905:-37-6-4-Point70905,70906:-37-6-4-Point70906,70912:-37-6-4-Point70912,70918:-37-6-4-Point70918,70919:-37-6-4-Point70919,70923:-37-6-4-Point70923
   }
   {
-    id: 531
+    id: 532
     mission_id: "10480"
     description: 白情test
     scripts: -37-7-1First,-37-7-4-Point71024,-37-7-2End
     campaign: -37
     bgm: BGM_Frontline
-    title: 第二塊雲圖
+    title: 幽靈公館的傳言
     start: -37-7-1First
     point: 71024:-37-7-4-Point71024
     first: -37-7-2End
     end: -37-7-2End
-  }
-  {
-    id: 532
-    mission_id: "10481"
-    description: 白情test
-    scripts: -37-1-1
-    campaign: -37
-    bgm: BGM_Frontline
-    title: 幽靈公館的傳言
-    start: -37-1-1
   }
   {
     id: 533
