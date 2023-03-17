@@ -2661,8 +2661,8 @@
     "effect_guntype": "2", "effect_grid_pos": "16,18", "effect_grid_effect": "1,20;4,12", "max_equip": 0, 
     "type_equip1": "1;1,2,3,4,13", "type_equip2": "2;8", "type_equip3": "3;9,10", "type_equip4": "", "ai": 181, 
     "is_additional": 0, "launch_time": "2017-08-17 00:00:00", "obtain_ids": "1,2", "rank_display": 5, "prize_id": 0, 
-    "mindupdate_consume": "", "explore_tag": "26,40,53", "gun_detail_bg": "", "org_id": 10203, "related_story_id": 100181, 
-    "show_damage_skin": ""
+    "mindupdate_consume": "", "explore_tag": "26,40,53", "gun_detail_bg": "nation_China", "org_id": 10203, 
+    "related_story_id": 100181, "show_damage_skin": ""
   }, {
     "id": 182, "name": "wz.29", "en_name": "wz.29", "code": "wz29", 
     "introduce": "类型            手动步枪\n总重            4 公斤\n全长            1,100 毫米\n枪管长度        600 毫米\n弹药            7.92×57毫米尖头弹\n枪机种类        旋转后拉式枪机\n发射速率        15 发/分钟\n枪口初速        745 米／秒\n供弹方式        5发固定弹仓", 
@@ -2840,8 +2840,8 @@
     "effect_guntype": "2", "effect_grid_pos": "18,19", "effect_grid_effect": "1,15;3,25", "max_equip": 0, 
     "type_equip1": "1;1,2,3,4,13", "type_equip2": "2;8", "type_equip3": "3;9,10", "type_equip4": "", "ai": 193, 
     "is_additional": 0, "launch_time": "2017-11-01 00:00:00", "obtain_ids": "1711,403", "rank_display": 3, "prize_id": 0, 
-    "mindupdate_consume": "", "explore_tag": "53", "gun_detail_bg": "", "org_id": 10704, "related_story_id": 100193, 
-    "show_damage_skin": ""
+    "mindupdate_consume": "", "explore_tag": "53", "gun_detail_bg": "nation_China", "org_id": 10704, 
+    "related_story_id": 100193, "show_damage_skin": ""
   }, {
     "id": 194, "name": "K2", "en_name": "K2", "code": "K2", 
     "introduce": "类型            突击步枪\n总重            3.26 公斤\n全长            枪托折叠：730毫米\n                枪托伸出：970毫米\n枪管长度        465 毫米\n弹药            5.56×45毫米NATO\n枪机种类        长行程导气式活塞，转拴式枪机\n发射速率        700–900 发／分钟\n枪口初速        920 米／秒\n有效射程        600 米\n供弹方式        20或30发可拆卸STANAG弹匣\n瞄准具型式      机械瞄具", 
@@ -3224,7 +3224,7 @@
     "effect_guntype": "4", "effect_grid_pos": "7,8,9", "effect_grid_effect": "2,12", "max_equip": 0, "type_equip1": "3;9,10", 
     "type_equip2": "2;6,19", "type_equip3": "1;1,2,3,4,13", "type_equip4": "", "ai": 218, "is_additional": 0, 
     "launch_time": "2018-05-21 00:00:00", "obtain_ids": "411", "rank_display": 3, "prize_id": 0, "mindupdate_consume": "", 
-    "explore_tag": "9,10,36,53", "gun_detail_bg": "", "org_id": 10703, "related_story_id": 100218, 
+    "explore_tag": "9,10,36,53", "gun_detail_bg": "nation_China", "org_id": 10703, "related_story_id": 100218, 
     "show_damage_skin": ",6906,"
   }, {
     "id": 220, "name": "MP-443", "en_name": "MP-443", "code": "MP443", 
@@ -5488,6 +5488,58 @@
     "obtain_ids": "1,2", "rank_display": 5, "prize_id": 0, "mindupdate_consume": "", "explore_tag": "", 
     "gun_detail_bg": "nation_Belgium", "org_id": 10201, "related_story_id": 0, "show_damage_skin": ",0,30005,"
   }, {
+    "id": 379, "name": "P10C", "en_name": "P10C", "code": "P10C", "introduce": "", "dialogue": "", "extra": "ニナハチ,,", 
+    "en_introduce": "Type                       Pistol\nMass                       26 oz (740 g)\nLength                     7.3 in (190 mm)\nBarrel length              4.02 in (102 mm)\nCaliber                    9x19mm\n                           .40 S&W\nEffective firing range     50 m\nFeed system                12 rounds (.40 S&W)\n                           15 rounds (9mm)\nSights                     Metal Three-Dot", 
+    "character": "gun-60000379", "type": 1, "rank": 4, "develop_duration": 2760, "baseammo": 10, "basemre": 10, 
+    "ammo_add_withnumber": 5, "mre_add_withnumber": 5, "retiremp": 2, "retireammo": 2, "retiremre": 2, "retirepart": 0, 
+    "ratio_life": 108, "ratio_pow": 110, "ratio_rate": 124, "ratio_speed": 100, "ratio_hit": 110, "ratio_dodge": 110, 
+    "ratio_armor": 0, "armor_piercing": 15, "crit": 20, "special": 0, "eat_ratio": 108, "ratio_range": 100, "skill1": 750746, 
+    "skill2": 0, "normal_attack": 300101, "passive_skill": "", "dynamic_passive_skill": "", "effect_grid_center": 13, 
+    "effect_guntype": "0", "effect_grid_pos": "7,12,17,9,14,19", "effect_grid_effect": "1,15;3,20", "max_equip": 0, 
+    "type_equip1": "1;4,13,16", "type_equip2": "2;6", "type_equip3": "3;10", "type_equip4": "", "ai": 212, 
+    "is_additional": 0, "launch_time": "2023-03-03 00:00:00", "obtain_ids": "1", "rank_display": 4, "prize_id": 0, 
+    "mindupdate_consume": "", "explore_tag": "", "gun_detail_bg": "", "org_id": 10301, "related_story_id": 0, 
+    "show_damage_skin": ",0,"
+  }, {
+    "id": 380, "name": "APC9K", "en_name": "APC9K", "code": "APC9K", "introduce": "", "dialogue": "", "extra": "虛,,", 
+    "en_introduce": "Type                       Submachine gun\nMass                       2.5kg\nLength                     597 mm (Stock unfolded)\n                           385 mm (Stock folded)\nBarrel length              175 mm\nCartridge                  9×19mm\nAction                     Straight blowback, closed bolt\nRate of fire               1,080 rounds/min\nEffective firing range     100 m\nFeed system                15-, 20-, 25-, and 30-round\n                           B&T MP9 detachable box magazine\nSights                     Iron sights,\n                           Picatinny rail for various optical sights", 
+    "character": "gun-60000380", "type": 2, "rank": 4, "develop_duration": 8700, "baseammo": 25, "basemre": 20, 
+    "ammo_add_withnumber": 15, "mre_add_withnumber": 10, "retiremp": 5, "retireammo": 5, "retiremre": 2, "retirepart": 0, 
+    "ratio_life": 100, "ratio_pow": 100, "ratio_rate": 125, "ratio_speed": 100, "ratio_hit": 110, "ratio_dodge": 110, 
+    "ratio_armor": 0, "armor_piercing": 15, "crit": 5, "special": 0, "eat_ratio": 110, "ratio_range": 100, "skill1": 750749, 
+    "skill2": 0, "normal_attack": 300102, "passive_skill": "750752,750753", "dynamic_passive_skill": "750750,750751", 
+    "effect_grid_center": 13, "effect_guntype": "4", "effect_grid_pos": "7,8,9", "effect_grid_effect": "2,12;3,25", 
+    "max_equip": 0, "type_equip1": "3;9,10", "type_equip2": "2;6", "type_equip3": "1;1,2,3,4,13", "type_equip4": "", 
+    "ai": 150, "is_additional": 0, "launch_time": "2023-03-03 00:00:00", "obtain_ids": "1,2", "rank_display": 4, 
+    "prize_id": 0, "mindupdate_consume": "", "explore_tag": "", "gun_detail_bg": "", "org_id": 10402, "related_story_id": 0, 
+    "show_damage_skin": ",0,"
+  }, {
+    "id": 381, "name": "M110", "en_name": "M110", "code": "M110", "introduce": "", "dialogue": "", "extra": "ちょこ庵,,", 
+    "en_introduce": "Type                       Rifle\n                           \nMass                       6.27 kg (13.8 lb)\nLength                     1029 mm (40.51 in)\nBarrel length              508 mm (20.0 in)\nCartridge                  7.62×51mm NATO\n                           6.5mm Creedmoor\nAction                     Gas-operated,\n                           rotating bolt\nRate of fire               Semi-automatic\nMuzzle velocity            783 m/s\nEffective firing range     800 m\nFeed system                10 or 20-round detachable\n                           SR-25 pattern box magazine", 
+    "character": "gun-60000381", "type": 3, "rank": 5, "develop_duration": 16500, "baseammo": 15, "basemre": 30, 
+    "ammo_add_withnumber": 10, "mre_add_withnumber": 15, "retiremp": 5, "retireammo": 2, "retiremre": 5, "retirepart": 0, 
+    "ratio_life": 95, "ratio_pow": 120, "ratio_rate": 105, "ratio_speed": 100, "ratio_hit": 100, "ratio_dodge": 88, 
+    "ratio_armor": 0, "armor_piercing": 15, "crit": 40, "special": 0, "eat_ratio": 130, "ratio_range": 100, "skill1": 120701, 
+    "skill2": 0, "normal_attack": 120702, "passive_skill": "120703,120704", "dynamic_passive_skill": "", 
+    "effect_grid_center": 17, "effect_guntype": "1", "effect_grid_pos": "11,12,18", "effect_grid_effect": "6,18", 
+    "max_equip": 0, "type_equip1": "2;5", "type_equip2": "1;1,2,3,13", "type_equip3": "3;15", "type_equip4": "", "ai": 241, 
+    "is_additional": 0, "launch_time": "2023-03-03 00:00:00", "obtain_ids": "1,2", "rank_display": 5, "prize_id": 0, 
+    "mindupdate_consume": "", "explore_tag": "", "gun_detail_bg": "nation_US", "org_id": 10705, "related_story_id": 0, 
+    "show_damage_skin": ",0,"
+  }, {
+    "id": 382, "name": "MSBS", "en_name": "MSBS", "code": "MSBS", "introduce": "", "dialogue": "", "extra": "redflowers,,", 
+    "en_introduce": "Type                       Assault rifle\nMass                       3.7 kg (8.2 lb)\nLength                     980 mm (39 in)\nBarrel length              406 mm (16.0 in)\nCartridge                  5.56×45mm NATO\n                           7.62×39mm\nAction                     Short-stroke gas piston,\n                           rotating bolt\nRate of fire               700–900 rounds/min\nMuzzle velocity            890 m/s\nEffective firing range     500 m\nFeed system                30-round detachable STANAG magazines\n                           60-round casket magazine\nSights                     Integrated Picatinny rail\n                           for various optical sights\n                           and Picatinny attachable iron sights", 
+    "character": "gun-60000382", "type": 4, "rank": 4, "develop_duration": 13800, "baseammo": 20, "basemre": 20, 
+    "ammo_add_withnumber": 10, "mre_add_withnumber": 10, "retiremp": 2, "retireammo": 5, "retiremre": 5, "retirepart": 0, 
+    "ratio_life": 100, "ratio_pow": 110, "ratio_rate": 106, "ratio_speed": 100, "ratio_hit": 120, "ratio_dodge": 110, 
+    "ratio_armor": 0, "armor_piercing": 15, "crit": 20, "special": 0, "eat_ratio": 122, "ratio_range": 100, "skill1": 120801, 
+    "skill2": 0, "normal_attack": 120811, "passive_skill": "120802,120812", 
+    "dynamic_passive_skill": "120807,120808,120809,120810", "effect_grid_center": 12, "effect_guntype": "2,4", 
+    "effect_grid_pos": "6,7,8,16,17,18", "effect_grid_effect": "2,10;4,15", "max_equip": 0, "type_equip1": "1;1,2,3,4,13", 
+    "type_equip2": "2;8", "type_equip3": "3;9,10", "type_equip4": "", "ai": 48, "is_additional": 0, 
+    "launch_time": "2023-03-03 00:00:00", "obtain_ids": "1,2", "rank_display": 4, "prize_id": 0, "mindupdate_consume": "", 
+    "explore_tag": "", "gun_detail_bg": "", "org_id": 10402, "related_story_id": 0, "show_damage_skin": ",0,"
+  }, {
     "id": 1001, "name": "諾愛兒", "en_name": "Noel", "code": "BB_Noel", "introduce": "", 
     "dialogue": "我必须一直前进下去，所以不管是谁……请不要阻挡我的道路！", "extra": "水熊,近藤佳奈子,", 
     "en_introduce": "gun-50001001", "character": "gun-60001001", "type": 1, "rank": 5, "develop_duration": 3600, 
@@ -5513,6 +5565,83 @@
     "type_equip3": "1;1,2,3,4,22", "type_equip4": "", "ai": 1002, "is_additional": 1, "launch_time": "2017-06-22 00:00:00", 
     "obtain_ids": "0", "rank_display": 7, "prize_id": 0, "mindupdate_consume": "", "explore_tag": "", 
     "gun_detail_bg": "collab", "org_id": 0, "related_story_id": 0, "show_damage_skin": ",505,0,504,"
+  }, {
+    "id": 1003, "name": "gun-10001003", "en_name": "Kiana", "code": "Kiana", "introduce": "", 
+    "dialogue": "我只是一个偶然在这里路过的学生妹啦。琪亚娜·卡斯兰娜，没事可别随便叫这个名字哦！", "extra": "gun-40001003", 
+    "en_introduce": "gun-50001003", "character": "gun-60001003", "type": 1, "rank": 5, "develop_duration": 3600, 
+    "baseammo": 10, "basemre": 10, "ammo_add_withnumber": 5, "mre_add_withnumber": 5, "retiremp": 2, "retireammo": 2, 
+    "retiremre": 2, "retirepart": 0, "ratio_life": 105, "ratio_pow": 125, "ratio_rate": 125, "ratio_speed": 100, 
+    "ratio_hit": 118, "ratio_dodge": 115, "ratio_armor": 0, "armor_piercing": 15, "crit": 20, "special": 0, "eat_ratio": 104, 
+    "ratio_range": 100, "skill1": 107301, "skill2": 0, "normal_attack": 300101, "passive_skill": "200485", 
+    "dynamic_passive_skill": "", "effect_grid_center": 13, "effect_guntype": "0", "effect_grid_pos": "12,14,17,19", 
+    "effect_grid_effect": "1,10;4,15", "max_equip": 0, "type_equip1": "1;4,13,16", "type_equip2": "2;6", 
+    "type_equip3": "3;10", "type_equip4": "", "ai": 1003, "is_additional": 1, "launch_time": "2017-11-16 00:00:00", 
+    "obtain_ids": "309", "rank_display": 7, "prize_id": 0, "mindupdate_consume": "", "explore_tag": "", 
+    "gun_detail_bg": "collab", "org_id": 0, "related_story_id": 0, "show_damage_skin": ",506,"
+  }, {
+    "id": 1004, "name": "gun-10001004", "en_name": "Mei", "code": "RaidenMei", "introduce": "", 
+    "dialogue": "你好啊，小鬼……请多指教，我的名字是……雷电芽衣。", "extra": "gun-40001004", "en_introduce": "gun-50001004", 
+    "character": "gun-60001004", "type": 3, "rank": 5, "develop_duration": 17400, "baseammo": 15, "basemre": 30, 
+    "ammo_add_withnumber": 10, "mre_add_withnumber": 15, "retiremp": 5, "retireammo": 2, "retiremre": 5, "retirepart": 0, 
+    "ratio_life": 95, "ratio_pow": 135, "ratio_rate": 98, "ratio_speed": 100, "ratio_hit": 105, "ratio_dodge": 95, 
+    "ratio_armor": 0, "armor_piercing": 15, "crit": 40, "special": 0, "eat_ratio": 120, "ratio_range": 100, "skill1": 107401, 
+    "skill2": 0, "normal_attack": 300104, "passive_skill": "200485", "dynamic_passive_skill": "", "effect_grid_center": 13, 
+    "effect_guntype": "1", "effect_grid_pos": "14,19", "effect_grid_effect": "6,18", "max_equip": 0, "type_equip1": "2;5", 
+    "type_equip2": "1;1,2,3,13", "type_equip3": "3;15,23", "type_equip4": "", "ai": 1004, "is_additional": 1, 
+    "launch_time": "2017-11-16 00:00:00", "obtain_ids": "307", "rank_display": 7, "prize_id": 0, "mindupdate_consume": "", 
+    "explore_tag": "", "gun_detail_bg": "collab", "org_id": 0, "related_story_id": 0, "show_damage_skin": ",0,"
+  }, {
+    "id": 1005, "name": "gun-10001005", "en_name": "Bronya", "code": "Bronya", "introduce": "", 
+    "dialogue": "布洛妮娅·扎伊切克……机能启动。正在载入瓦尔基里系统……", "extra": "gun-40001005", 
+    "en_introduce": "gun-50001005", "character": "gun-60001005", "type": 3, "rank": 5, "develop_duration": 17400, 
+    "baseammo": 15, "basemre": 30, "ammo_add_withnumber": 10, "mre_add_withnumber": 15, "retiremp": 5, "retireammo": 2, 
+    "retiremre": 5, "retirepart": 0, "ratio_life": 92, "ratio_pow": 122, "ratio_rate": 110, "ratio_speed": 100, 
+    "ratio_hit": 115, "ratio_dodge": 100, "ratio_armor": 0, "armor_piercing": 15, "crit": 40, "special": 0, "eat_ratio": 120, 
+    "ratio_range": 100, "skill1": 107101, "skill2": 0, "normal_attack": 300104, "passive_skill": "200485", 
+    "dynamic_passive_skill": "", "effect_grid_center": 13, "effect_guntype": "1", "effect_grid_pos": "12,17", 
+    "effect_grid_effect": "6,18", "max_equip": 0, "type_equip1": "2;5", "type_equip2": "1;1,2,3,13", "type_equip3": "3;15", 
+    "type_equip4": "", "ai": 1005, "is_additional": 1, "launch_time": "2017-11-16 00:00:00", "obtain_ids": "307", 
+    "rank_display": 7, "prize_id": 0, "mindupdate_consume": "", "explore_tag": "", "gun_detail_bg": "collab", "org_id": 0, 
+    "related_story_id": 0, "show_damage_skin": ",0,"
+  }, {
+    "id": 1006, "name": "gun-10001006", "en_name": "Theresa", "code": "Theresa", "introduce": "", 
+    "dialogue": "我是圣芙蕾雅学园的学园长——德丽莎·阿波卡利斯，可不要以为我是个小孩子！", "extra": "gun-40001006", 
+    "en_introduce": "gun-50001006", "character": "gun-60001006", "type": 1, "rank": 5, "develop_duration": 3600, 
+    "baseammo": 10, "basemre": 10, "ammo_add_withnumber": 5, "mre_add_withnumber": 5, "retiremp": 2, "retireammo": 2, 
+    "retiremre": 2, "retirepart": 0, "ratio_life": 125, "ratio_pow": 120, "ratio_rate": 105, "ratio_speed": 100, 
+    "ratio_hit": 105, "ratio_dodge": 120, "ratio_armor": 0, "armor_piercing": 15, "crit": 20, "special": 0, "eat_ratio": 104, 
+    "ratio_range": 100, "skill1": 107501, "skill2": 0, "normal_attack": 301901, "passive_skill": "200486", 
+    "dynamic_passive_skill": "107503,107504,107505", "effect_grid_center": 13, "effect_guntype": "0", 
+    "effect_grid_pos": "7,9,12,14", "effect_grid_effect": "2,15;3,25", "max_equip": 0, "type_equip1": "1;4,13,16", 
+    "type_equip2": "2;6", "type_equip3": "3;10", "type_equip4": "", "ai": 1006, "is_additional": 1, 
+    "launch_time": "2017-11-16 00:00:00", "obtain_ids": "306", "rank_display": 7, "prize_id": 0, "mindupdate_consume": "", 
+    "explore_tag": "", "gun_detail_bg": "collab", "org_id": 0, "related_story_id": 0, "show_damage_skin": ",0,"
+  }, {
+    "id": 1007, "name": "gun-10001007", "en_name": "Himeko", "code": "Himeko", "introduce": "", 
+    "dialogue": "……就是你来指挥我吗？哼……我无量塔姬子还真是被小看了。", "extra": "gun-40001007", 
+    "en_introduce": "gun-50001007", "character": "gun-60001007", "type": 4, "rank": 5, "develop_duration": 14100, 
+    "baseammo": 20, "basemre": 20, "ammo_add_withnumber": 10, "mre_add_withnumber": 10, "retiremp": 2, "retireammo": 5, 
+    "retiremre": 5, "retirepart": 0, "ratio_life": 110, "ratio_pow": 126, "ratio_rate": 95, "ratio_speed": 100, 
+    "ratio_hit": 105, "ratio_dodge": 100, "ratio_armor": 0, "armor_piercing": 15, "crit": 20, "special": 0, "eat_ratio": 122, 
+    "ratio_range": 100, "skill1": 107601, "skill2": 0, "normal_attack": 302001, "passive_skill": "200485", 
+    "dynamic_passive_skill": "107602", "effect_grid_center": 13, "effect_guntype": "2", "effect_grid_pos": "18", 
+    "effect_grid_effect": "1,20;2,20", "max_equip": 0, "type_equip1": "1;1,2,3,4,13", "type_equip2": "2;8", 
+    "type_equip3": "3;9,10", "type_equip4": "", "ai": 1007, "is_additional": 1, "launch_time": "2017-11-16 00:00:00", 
+    "obtain_ids": "308", "rank_display": 7, "prize_id": 0, "mindupdate_consume": "", "explore_tag": "", 
+    "gun_detail_bg": "collab", "org_id": 0, "related_story_id": 0, "show_damage_skin": ",0,"
+  }, {
+    "id": 1008, "name": "gun-10001008", "en_name": "Seele", "code": "Seele", "introduce": "", 
+    "dialogue": "您、您好,初次见面。我的名字是……希儿·芙乐艾。", "extra": "gun-40001008", "en_introduce": "gun-50001008", 
+    "character": "gun-60001008", "type": 6, "rank": 5, "develop_duration": 28800, "baseammo": 30, "basemre": 40, 
+    "ammo_add_withnumber": 15, "mre_add_withnumber": 25, "retiremp": 5, "retireammo": 2, "retiremre": 5, "retirepart": 5, 
+    "ratio_life": 112, "ratio_pow": 128, "ratio_rate": 108, "ratio_speed": 100, "ratio_hit": 110, "ratio_dodge": 130, 
+    "ratio_armor": 120, "armor_piercing": 15, "crit": 40, "special": 5, "eat_ratio": 90, "ratio_range": 100, 
+    "skill1": 107001, "skill2": 0, "normal_attack": 300110, "passive_skill": "107002,200487", "dynamic_passive_skill": "", 
+    "effect_grid_center": 8, "effect_guntype": "5", "effect_grid_pos": "2,4", "effect_grid_effect": "1,20;3,10", 
+    "max_equip": 0, "type_equip1": "3;11", "type_equip2": "2;7", "type_equip3": "1;1,2,3,4,22", "type_equip4": "", 
+    "ai": 1008, "is_additional": 1, "launch_time": "2017-11-16 00:00:00", "obtain_ids": "306", "rank_display": 7, 
+    "prize_id": 0, "mindupdate_consume": "", "explore_tag": "", "gun_detail_bg": "collab", "org_id": 0, 
+    "related_story_id": 0, "show_damage_skin": ",0,508,"
   }, {
     "id": 1009, "name": "克莉爾", "en_name": "CLEAR", "code": "CLEAR", "introduce": "", 
     "dialogue": "感到耀眼吗？别再逃避了，抓住它吧！这就是你所渴望的荣耀之光！", "extra": "水熊,,", 
@@ -8225,7 +8354,7 @@
     "type_equip1": "1;4,13,16", "type_equip2": "2;6,19", "type_equip3": "3;10", "type_equip4": "", "ai": 220, 
     "is_additional": 0, "launch_time": "2018-06-21 00:00:00", "obtain_ids": "35", "rank_display": 4, "prize_id": 3220, 
     "mindupdate_consume": "", "explore_tag": "10", "gun_detail_bg": "nation_Russia", "org_id": 0, "related_story_id": 100220, 
-    "show_damage_skin": ",0,7105,6405,"
+    "show_damage_skin": ",0,7105,6405,8108,"
   }, {
     "id": 20221, "name": "GSh-18", "en_name": "GSh-18", "code": "GSH18Mod", 
     "introduce": "类型            半自动手枪\n总重            空枪：470克\n                上弹：580克\n全长            184毫米\n枪管长度        103毫米\n弹药            9×19毫米鲁格弹\n                9×19毫米7N21高压子弹（+P+）\n                9×19毫米7N31高压子弹（+P+）\n枪机种类        枪管短行程后座作用\n                自由枪机\n                双动\n发射速率        15—20发／分钟\n枪口初速        535—570米／秒\n有效射程        50 米\n供弹方式        18发可拆卸式双排弹匣\n瞄准具型式      机械瞄具：固定缺口式照门及刀片式准星（三点式准星）", 

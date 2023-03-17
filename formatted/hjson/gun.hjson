@@ -15675,6 +15675,7 @@
     obtain_ids: "1,2"
     rank_display: 5
     explore_tag: "26,40,53"
+    gun_detail_bg: nation_China
     org_id: 10203
     related_story_id: 100181
   }
@@ -16586,6 +16587,7 @@
     obtain_ids: "1711,403"
     rank_display: 3
     explore_tag: "53"
+    gun_detail_bg: nation_China
     org_id: 10704
     related_story_id: 100193
   }
@@ -18587,6 +18589,7 @@
     obtain_ids: "411"
     rank_display: 3
     explore_tag: "9,10,36,53"
+    gun_detail_bg: nation_China
     org_id: 10703
     related_story_id: 100218
     show_damage_skin: ",6906,"
@@ -28965,6 +28968,248 @@
     show_damage_skin: ",0,30005,"
   }
   {
+    id: 379
+    name: P10C
+    en_name: P10C
+    code: P10C
+    extra: ニナハチ,,
+    en_introduce:
+      '''
+      Type                       Pistol
+      Mass                       26 oz (740 g)
+      Length                     7.3 in (190 mm)
+      Barrel length              4.02 in (102 mm)
+      Caliber                    9x19mm
+                                 .40 S&W
+      Effective firing range     50 m
+      Feed system                12 rounds (.40 S&W)
+                                 15 rounds (9mm)
+      Sights                     Metal Three-Dot
+      '''
+    character: gun-60000379
+    type: 1
+    rank: 4
+    develop_duration: 2760
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 108
+    ratio_pow: 110
+    ratio_rate: 124
+    ratio_speed: 100
+    ratio_hit: 110
+    ratio_dodge: 110
+    armor_piercing: 15
+    crit: 20
+    eat_ratio: 108
+    ratio_range: 100
+    skill1: 750746
+    normal_attack: 300101
+    effect_grid_center: 13
+    effect_grid_pos: "7,12,17,9,14,19"
+    effect_grid_effect: "1,15;3,20"
+    type_equip1: 1;4,13,16
+    type_equip2: 2;6
+    type_equip3: 3;10
+    ai: 212
+    launch_time: 2023-03-03 00:00:00
+    obtain_ids: "1"
+    rank_display: 4
+    org_id: 10301
+    show_damage_skin: ",0,"
+  }
+  {
+    id: 380
+    name: APC9K
+    en_name: APC9K
+    code: APC9K
+    extra: 虛,,
+    en_introduce:
+      '''
+      Type                       Submachine gun
+      Mass                       2.5kg
+      Length                     597 mm (Stock unfolded)
+                                 385 mm (Stock folded)
+      Barrel length              175 mm
+      Cartridge                  9×19mm
+      Action                     Straight blowback, closed bolt
+      Rate of fire               1,080 rounds/min
+      Effective firing range     100 m
+      Feed system                15-, 20-, 25-, and 30-round
+                                 B&T MP9 detachable box magazine
+      Sights                     Iron sights,
+                                 Picatinny rail for various optical sights
+      '''
+    character: gun-60000380
+    type: 2
+    rank: 4
+    develop_duration: 8700
+    baseammo: 25
+    basemre: 20
+    ammo_add_withnumber: 15
+    mre_add_withnumber: 10
+    retiremp: 5
+    retireammo: 5
+    retiremre: 2
+    ratio_life: 100
+    ratio_pow: 100
+    ratio_rate: 125
+    ratio_speed: 100
+    ratio_hit: 110
+    ratio_dodge: 110
+    armor_piercing: 15
+    crit: 5
+    eat_ratio: 110
+    ratio_range: 100
+    skill1: 750749
+    normal_attack: 300102
+    passive_skill: "750752,750753"
+    dynamic_passive_skill: "750750,750751"
+    effect_grid_center: 13
+    effect_guntype: "4"
+    effect_grid_pos: "7,8,9"
+    effect_grid_effect: "2,12;3,25"
+    type_equip1: 3;9,10
+    type_equip2: 2;6
+    type_equip3: 1;1,2,3,4,13
+    ai: 150
+    launch_time: 2023-03-03 00:00:00
+    obtain_ids: "1,2"
+    rank_display: 4
+    org_id: 10402
+    show_damage_skin: ",0,"
+  }
+  {
+    id: 381
+    name: M110
+    en_name: M110
+    code: M110
+    extra: ちょこ庵,,
+    en_introduce:
+      '''
+      Type                       Rifle
+                                 
+      Mass                       6.27 kg (13.8 lb)
+      Length                     1029 mm (40.51 in)
+      Barrel length              508 mm (20.0 in)
+      Cartridge                  7.62×51mm NATO
+                                 6.5mm Creedmoor
+      Action                     Gas-operated,
+                                 rotating bolt
+      Rate of fire               Semi-automatic
+      Muzzle velocity            783 m/s
+      Effective firing range     800 m
+      Feed system                10 or 20-round detachable
+                                 SR-25 pattern box magazine
+      '''
+    character: gun-60000381
+    type: 3
+    rank: 5
+    develop_duration: 16500
+    baseammo: 15
+    basemre: 30
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 15
+    retiremp: 5
+    retireammo: 2
+    retiremre: 5
+    ratio_life: 95
+    ratio_pow: 120
+    ratio_rate: 105
+    ratio_speed: 100
+    ratio_hit: 100
+    ratio_dodge: 88
+    armor_piercing: 15
+    crit: 40
+    eat_ratio: 130
+    ratio_range: 100
+    skill1: 120701
+    normal_attack: 120702
+    passive_skill: "120703,120704"
+    effect_grid_center: 17
+    effect_guntype: "1"
+    effect_grid_pos: "11,12,18"
+    effect_grid_effect: "6,18"
+    type_equip1: 2;5
+    type_equip2: 1;1,2,3,13
+    type_equip3: 3;15
+    ai: 241
+    launch_time: 2023-03-03 00:00:00
+    obtain_ids: "1,2"
+    rank_display: 5
+    gun_detail_bg: nation_US
+    org_id: 10705
+    show_damage_skin: ",0,"
+  }
+  {
+    id: 382
+    name: MSBS
+    en_name: MSBS
+    code: MSBS
+    extra: redflowers,,
+    en_introduce:
+      '''
+      Type                       Assault rifle
+      Mass                       3.7 kg (8.2 lb)
+      Length                     980 mm (39 in)
+      Barrel length              406 mm (16.0 in)
+      Cartridge                  5.56×45mm NATO
+                                 7.62×39mm
+      Action                     Short-stroke gas piston,
+                                 rotating bolt
+      Rate of fire               700–900 rounds/min
+      Muzzle velocity            890 m/s
+      Effective firing range     500 m
+      Feed system                30-round detachable STANAG magazines
+                                 60-round casket magazine
+      Sights                     Integrated Picatinny rail
+                                 for various optical sights
+                                 and Picatinny attachable iron sights
+      '''
+    character: gun-60000382
+    type: 4
+    rank: 4
+    develop_duration: 13800
+    baseammo: 20
+    basemre: 20
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 10
+    retiremp: 2
+    retireammo: 5
+    retiremre: 5
+    ratio_life: 100
+    ratio_pow: 110
+    ratio_rate: 106
+    ratio_speed: 100
+    ratio_hit: 120
+    ratio_dodge: 110
+    armor_piercing: 15
+    crit: 20
+    eat_ratio: 122
+    ratio_range: 100
+    skill1: 120801
+    normal_attack: 120811
+    passive_skill: "120802,120812"
+    dynamic_passive_skill: "120807,120808,120809,120810"
+    effect_grid_center: 12
+    effect_guntype: "2,4"
+    effect_grid_pos: "6,7,8,16,17,18"
+    effect_grid_effect: "2,10;4,15"
+    type_equip1: 1;1,2,3,4,13
+    type_equip2: 2;8
+    type_equip3: 3;9,10
+    ai: 48
+    launch_time: 2023-03-03 00:00:00
+    obtain_ids: "1,2"
+    rank_display: 4
+    org_id: 10402
+    show_damage_skin: ",0,"
+  }
+  {
     id: 1001
     name: 諾愛兒
     en_name: Noel
@@ -29055,6 +29300,291 @@
     rank_display: 7
     gun_detail_bg: collab
     show_damage_skin: ",505,0,504,"
+  }
+  {
+    id: 1003
+    name: gun-10001003
+    en_name: Kiana
+    code: Kiana
+    dialogue: 我只是一个偶然在这里路过的学生妹啦。琪亚娜·卡斯兰娜，没事可别随便叫这个名字哦！
+    extra: gun-40001003
+    en_introduce: gun-50001003
+    character: gun-60001003
+    type: 1
+    rank: 5
+    develop_duration: 3600
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 105
+    ratio_pow: 125
+    ratio_rate: 125
+    ratio_speed: 100
+    ratio_hit: 118
+    ratio_dodge: 115
+    armor_piercing: 15
+    crit: 20
+    eat_ratio: 104
+    ratio_range: 100
+    skill1: 107301
+    normal_attack: 300101
+    passive_skill: "200485"
+    effect_grid_center: 13
+    effect_grid_pos: "12,14,17,19"
+    effect_grid_effect: "1,10;4,15"
+    type_equip1: 1;4,13,16
+    type_equip2: 2;6
+    type_equip3: 3;10
+    ai: 1003
+    is_additional: 1
+    launch_time: 2017-11-16 00:00:00
+    obtain_ids: "309"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",506,"
+  }
+  {
+    id: 1004
+    name: gun-10001004
+    en_name: Mei
+    code: RaidenMei
+    dialogue: 你好啊，小鬼……请多指教，我的名字是……雷电芽衣。
+    extra: gun-40001004
+    en_introduce: gun-50001004
+    character: gun-60001004
+    type: 3
+    rank: 5
+    develop_duration: 17400
+    baseammo: 15
+    basemre: 30
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 15
+    retiremp: 5
+    retireammo: 2
+    retiremre: 5
+    ratio_life: 95
+    ratio_pow: 135
+    ratio_rate: 98
+    ratio_speed: 100
+    ratio_hit: 105
+    ratio_dodge: 95
+    armor_piercing: 15
+    crit: 40
+    eat_ratio: 120
+    ratio_range: 100
+    skill1: 107401
+    normal_attack: 300104
+    passive_skill: "200485"
+    effect_grid_center: 13
+    effect_guntype: "1"
+    effect_grid_pos: "14,19"
+    effect_grid_effect: "6,18"
+    type_equip1: 2;5
+    type_equip2: 1;1,2,3,13
+    type_equip3: 3;15,23
+    ai: 1004
+    is_additional: 1
+    launch_time: 2017-11-16 00:00:00
+    obtain_ids: "307"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,"
+  }
+  {
+    id: 1005
+    name: gun-10001005
+    en_name: Bronya
+    code: Bronya
+    dialogue: 布洛妮娅·扎伊切克……机能启动。正在载入瓦尔基里系统……
+    extra: gun-40001005
+    en_introduce: gun-50001005
+    character: gun-60001005
+    type: 3
+    rank: 5
+    develop_duration: 17400
+    baseammo: 15
+    basemre: 30
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 15
+    retiremp: 5
+    retireammo: 2
+    retiremre: 5
+    ratio_life: 92
+    ratio_pow: 122
+    ratio_rate: 110
+    ratio_speed: 100
+    ratio_hit: 115
+    ratio_dodge: 100
+    armor_piercing: 15
+    crit: 40
+    eat_ratio: 120
+    ratio_range: 100
+    skill1: 107101
+    normal_attack: 300104
+    passive_skill: "200485"
+    effect_grid_center: 13
+    effect_guntype: "1"
+    effect_grid_pos: "12,17"
+    effect_grid_effect: "6,18"
+    type_equip1: 2;5
+    type_equip2: 1;1,2,3,13
+    type_equip3: 3;15
+    ai: 1005
+    is_additional: 1
+    launch_time: 2017-11-16 00:00:00
+    obtain_ids: "307"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,"
+  }
+  {
+    id: 1006
+    name: gun-10001006
+    en_name: Theresa
+    code: Theresa
+    dialogue: 我是圣芙蕾雅学园的学园长——德丽莎·阿波卡利斯，可不要以为我是个小孩子！
+    extra: gun-40001006
+    en_introduce: gun-50001006
+    character: gun-60001006
+    type: 1
+    rank: 5
+    develop_duration: 3600
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    retiremp: 2
+    retireammo: 2
+    retiremre: 2
+    ratio_life: 125
+    ratio_pow: 120
+    ratio_rate: 105
+    ratio_speed: 100
+    ratio_hit: 105
+    ratio_dodge: 120
+    armor_piercing: 15
+    crit: 20
+    eat_ratio: 104
+    ratio_range: 100
+    skill1: 107501
+    normal_attack: 301901
+    passive_skill: "200486"
+    dynamic_passive_skill: "107503,107504,107505"
+    effect_grid_center: 13
+    effect_grid_pos: "7,9,12,14"
+    effect_grid_effect: "2,15;3,25"
+    type_equip1: 1;4,13,16
+    type_equip2: 2;6
+    type_equip3: 3;10
+    ai: 1006
+    is_additional: 1
+    launch_time: 2017-11-16 00:00:00
+    obtain_ids: "306"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,"
+  }
+  {
+    id: 1007
+    name: gun-10001007
+    en_name: Himeko
+    code: Himeko
+    dialogue: ……就是你来指挥我吗？哼……我无量塔姬子还真是被小看了。
+    extra: gun-40001007
+    en_introduce: gun-50001007
+    character: gun-60001007
+    type: 4
+    rank: 5
+    develop_duration: 14100
+    baseammo: 20
+    basemre: 20
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 10
+    retiremp: 2
+    retireammo: 5
+    retiremre: 5
+    ratio_life: 110
+    ratio_pow: 126
+    ratio_rate: 95
+    ratio_speed: 100
+    ratio_hit: 105
+    ratio_dodge: 100
+    armor_piercing: 15
+    crit: 20
+    eat_ratio: 122
+    ratio_range: 100
+    skill1: 107601
+    normal_attack: 302001
+    passive_skill: "200485"
+    dynamic_passive_skill: "107602"
+    effect_grid_center: 13
+    effect_guntype: "2"
+    effect_grid_pos: "18"
+    effect_grid_effect: "1,20;2,20"
+    type_equip1: 1;1,2,3,4,13
+    type_equip2: 2;8
+    type_equip3: 3;9,10
+    ai: 1007
+    is_additional: 1
+    launch_time: 2017-11-16 00:00:00
+    obtain_ids: "308"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,"
+  }
+  {
+    id: 1008
+    name: gun-10001008
+    en_name: Seele
+    code: Seele
+    dialogue: 您、您好,初次见面。我的名字是……希儿·芙乐艾。
+    extra: gun-40001008
+    en_introduce: gun-50001008
+    character: gun-60001008
+    type: 6
+    rank: 5
+    develop_duration: 28800
+    baseammo: 30
+    basemre: 40
+    ammo_add_withnumber: 15
+    mre_add_withnumber: 25
+    retiremp: 5
+    retireammo: 2
+    retiremre: 5
+    retirepart: 5
+    ratio_life: 112
+    ratio_pow: 128
+    ratio_rate: 108
+    ratio_speed: 100
+    ratio_hit: 110
+    ratio_dodge: 130
+    ratio_armor: 120
+    armor_piercing: 15
+    crit: 40
+    special: 5
+    eat_ratio: 90
+    ratio_range: 100
+    skill1: 107001
+    normal_attack: 300110
+    passive_skill: "107002,200487"
+    effect_grid_center: 8
+    effect_guntype: "5"
+    effect_grid_pos: "2,4"
+    effect_grid_effect: "1,20;3,10"
+    type_equip1: 3;11
+    type_equip2: 2;7
+    type_equip3: 1;1,2,3,4,22
+    ai: 1008
+    is_additional: 1
+    launch_time: 2017-11-16 00:00:00
+    obtain_ids: "306"
+    rank_display: 7
+    gun_detail_bg: collab
+    show_damage_skin: ",0,508,"
   }
   {
     id: 1009
@@ -41806,7 +42336,7 @@
     explore_tag: "10"
     gun_detail_bg: nation_Russia
     related_story_id: 100220
-    show_damage_skin: ",0,7105,6405,"
+    show_damage_skin: ",0,7105,6405,8108,"
   }
   {
     id: 20221
