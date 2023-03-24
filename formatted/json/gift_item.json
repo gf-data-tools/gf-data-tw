@@ -3165,6 +3165,11 @@
     "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
     "item_access": "", "detail_introduction": "gift_item-40030005", "sort": 0
   }, {
+    "id": 30006, "name": "C-93-斑斕色的邂逅", "type": 2, "rank": 6, "favor": 50000, "fit_gun": 285, "skin": 30006, 
+    "poster": 330006, "code": "gift_bundle_BattlePass_C93", "bonus_description": "可解鎖人形換裝", 
+    "description": "在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 
+    "item_access": "", "detail_introduction": "gift_item-40030006", "sort": 0
+  }, {
     "id": 100001, "name": "波板糖", "type": 1, "rank": 2, "favor": 1000, "fit_gun": 0, "skin": 0, "poster": 0, 
     "code": "gift_item_lollipop_N", "bonus_description": "無", 
     "description": "在宿舍內在宿舍內贈送給對應人形，可以獲得微量好感度。", "is_hidden": 0, "exp": 0, "profile_pic": 0, 

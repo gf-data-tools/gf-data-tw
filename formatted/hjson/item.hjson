@@ -13664,6 +13664,26 @@
     detail_introduction: item-30002272
   }
   {
+    id: 2277
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_C93
+    item_name: C-93-斑斕色的邂逅
+    introduction: C-93-斑斕色的邂逅
+    rank: 1
+    detail_introduction: item-30002277
+  }
+  {
+    id: 2278
+    type: 5
+    arg: "1"
+    code: card_BattlePass_C93
+    item_name: 名片：甜暖時光
+    introduction: 名片：甜暖時光
+    rank: 1
+    detail_introduction: item-30002278
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -17508,6 +17528,26 @@
     detail_introduction: item-30140012
   }
   {
+    id: 140013
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    introduction: item-20140013
+    rank: 1
+    detail_introduction: item-30140013
+  }
+  {
+    id: 140014
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    introduction: item-20140014
+    rank: 1
+    detail_introduction: item-30140014
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -17686,6 +17726,16 @@
     introduction: 頭像框·嗷嗷快樂的一天浮囂羅網
     rank: 1
     detail_introduction: item-30200019
+  }
+  {
+    id: 200020
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_C93
+    item_name: 頭像框·蝶翼翩然
+    introduction: 頭像框·蝶翼翩然
+    rank: 1
+    detail_introduction: item-30200020
   }
   {
     id: 900030
@@ -18313,5 +18363,49 @@
     rank: 1
     sort: -1
     detail_introduction: item-31500051
+  }
+  {
+    id: 1500052
+    type: 15
+    arg: "1500052"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-假日情調，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500052
+  }
+  {
+    id: 1500053
+    type: 15
+    arg: "1500053"
+    code: package_choose
+    item_name: 人形裝備自選序標
+    introduction: 來自於前線協議-假日情調，可從該指定投遞配給序標內選擇獲取一件人形類裝備
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500053
+  }
+  {
+    id: 1500054
+    type: 15
+    arg: "1500054"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-假日情調，可必定獲得該序標內圖鑒未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500054
+  }
+  {
+    id: 1500055
+    type: 15
+    arg: "1500055"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-假日情調，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500055
   }
 ]

@@ -18,5 +18,8 @@
     "id": 8, "name": "代號陸：渦旋", "start_time": "2022-11-15 10:04:00", "end_time": "2023-01-13 10:04:00", "mission_id": 2
   }, {
     "id": 9, "name": "代號柒：急流", "start_time": "2023-01-18 10:04:00", "end_time": "2023-03-17 10:04:00", "mission_id": 3
+  }, {
+    "id": 10, "name": "chess_seasonevent-10000010", "start_time": "2023-03-24 10:04:00", "end_time": "2023-06-02 10:04:00", 
+    "mission_id": 1
   }
 ]
