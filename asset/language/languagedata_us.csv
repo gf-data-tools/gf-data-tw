@@ -1377,7 +1377,7 @@ DEPLOYMENT,30277,During Combat Simulation//c pausing and other actions are disab
 DEPLOYMENT,30278,After capturing//c nodes up to <color=#ffb400ff>{0}</color> nodes away will be visible.//nDeployment and resupply are unavailable at this node.,,0
 DEPLOYMENT,30279,Echelon {0},,0
 DEPLOYMENT,30280,A change has occurred to the target. The plan is interrupted!,,0
-DEPLOYMENT,30281,Restart //nBattle,,0
+DEPLOYMENT,30281,再次作战(todo),,0
 DEPLOYMENT,30282,Restarting battle will//n<color=#c13939>forfeit current progress//nand any carried ammo and rations.</color>//nThe battle will restart from <color=#c13939>the beginning</color>.,,0
 DEPLOYMENT,30283,Confirm to restart battle?,,0
 DEPLOYMENT,30284,Capture ,,0
