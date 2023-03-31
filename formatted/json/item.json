@@ -5522,6 +5522,22 @@
     "introduction": "欺詐師 · 代號捌：極線", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30002272", "is_hide_info": 0
   }, {
+    "id": 2273, "type": 5, "arg": "1", "code": "profilePic_rank4_M1919A4Mod", "item_name": "M1919A4心智升級頭像", 
+    "introduction": "M1919A4心智升級頭像", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002273", "is_hide_info": 0
+  }, {
+    "id": 2274, "type": 5, "arg": "1", "code": "profilePic_rank5_K5Mod", "item_name": "K5心智升級頭像", 
+    "introduction": "K5心智升級頭像", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002274", "is_hide_info": 0
+  }, {
+    "id": 2275, "type": 5, "arg": "1", "code": "profilePic_rank6_Type100Mod", "item_name": "一〇〇式心智升級頭像", 
+    "introduction": "一〇〇式心智升級頭像", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002275", "is_hide_info": 0
+  }, {
+    "id": 2276, "type": 5, "arg": "1", "code": "profilePic_rank6_DP12Mod", "item_name": "DP-12心智升級頭像", 
+    "introduction": "DP-12心智升級頭像", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002276", "is_hide_info": 0
+  }, {
     "id": 2277, "type": 5, "arg": "1", "code": "profilePic_BattlePass_C93", "item_name": "C-93-斑斕色的邂逅", 
     "introduction": "C-93-斑斕色的邂逅", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30002277", "is_hide_info": 0
@@ -5529,6 +5545,10 @@
     "id": 2278, "type": 5, "arg": "1", "code": "card_BattlePass_C93", "item_name": "名片：甜暖時光", 
     "introduction": "名片：甜暖時光", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30002278", "is_hide_info": 0
+  }, {
+    "id": 2279, "type": 5, "arg": "1", "code": "profilePic_AprilFool2023_Liberator", "item_name": "解放者-鎏金收藏家", 
+    "introduction": "解放者-鎏金收藏家", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002279", "is_hide_info": 0
   }, {
     "id": 4001, "type": 1, "arg": "4001", "code": "explore_loot_city", "item_name": "城市的饋贈", 
     "introduction": "很久前生產的一種積木玩具，因為其極高的生產精度現在已經很難仿製，在很多戰亂地區被用作貨幣，可以換到很多有用的東西。", 
@@ -6959,6 +6979,10 @@
     "id": 110059, "type": 4, "arg": "110059", "code": "PT", "item_name": "活動點數", "introduction": "活動點數", "rank": 1, 
     "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30110059", "is_hide_info": 0
+  }, {
+    "id": 110060, "type": 4, "arg": "110060", "code": "PT", "item_name": "活動點數", "introduction": "活動點數", "rank": 1, 
+    "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30110060", "is_hide_info": 0
   }, {
     "id": 120001, "type": 10, "arg": "1", "code": "bondage_lines_icon", "item_name": "友人談", 
     "introduction": "P38與沙漠之鷹", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 

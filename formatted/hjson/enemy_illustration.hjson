@@ -333,7 +333,7 @@
     speed_rank: 2
     range_rank: 3
     counter: 擁有一定護甲，輸出能力優秀，不是適合長時間對抗的敵人，請注意提高梯隊的整體作戰能力應對。
-    character: "1003,309,301"
+    character: "1003,302,309,301"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000016
     spine_scale: "80,80,1"
@@ -539,7 +539,7 @@
     armor_rank: 2
     range_rank: 5
     counter: 未被切斷供電前具有極高的威脅性，建議通過合圍佔領以切斷供電，削弱該單位後再進行攻克。
-    character: "1003,309,910"
+    character: "1003,302,309,910"
     enemy_skill: "12"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000025
@@ -924,7 +924,7 @@
     speed_rank: 3
     range_rank: 5
     counter: 護甲較高，蓄力後發射可以造成多段穿透傷害的激光，但是有最大俯角限制，快速靠近可以免受攻擊，護盾技能可以抵御部分激光傷害但效果並不理想。
-    character: "1001,1003,309,320"
+    character: "1001,1003,302,309,320"
     enemy_skill: "20"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000043
@@ -1033,7 +1033,7 @@
     speed_rank: 1
     range_rank: 3
     counter: 擁有較高的護甲和力場值，具有較高的減傷能力，會使用多枚榴彈進行轟炸。請注意使用具有穿甲能力的人形在接戰前盡可能進行打擊，或使用護盾技能抵御榴彈的轟炸。重裝部隊的支援將使戰鬥更加有利。
-    character: "1003,309,312,319"
+    character: "302,1003,309,312,319"
     enemy_skill: "28,29"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000048
@@ -1054,7 +1054,7 @@
     speed_rank: 3
     range_rank: 4
     counter: 擁有高額的力場值和較高的護甲，具有優異的減傷能力，會使用突進碾壓的手段衝擊我方陣型。請注意及時指揮人形躲避。重裝部隊的支援將使戰鬥更加有利。
-    character: "1001,309,312"
+    character: "302,1001,309,312"
     enemy_skill: "31,32"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000049
@@ -1160,7 +1160,7 @@
     speed_rank: 3
     range_rank: 5
     counter: 該單位能力均衡，同時會持續給我方造成小額傷害，不適合長時間交戰，請注意提高梯隊的整體作戰能力應對。
-    character: "1001,301"
+    character: "1001,301,302"
     enemy_skill: "57,58"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000054
@@ -1356,7 +1356,7 @@
     speed_rank: 2
     range_rank: 2
     counter: 擁有一定的力場值和護甲，起初的減傷能力一般，但是後續會不斷恢復和增加力場值，在破防能力不足的情況下不適合長時間與之交戰。建議在有重裝部隊支援的前提下進行戰鬥。
-    character: "309,312,316"
+    character: "302,309,312,316"
     enemy_skill: "34,35,140"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000063
@@ -1378,7 +1378,7 @@
     speed_rank: 2
     range_rank: 4
     counter: 擁有較高的護甲和力場值，且具有極強的回避性能,請注意有效打擊的時機。建議使用帶有狙擊技能等有必中手段的人形。
-    character: "1001,309,310,315"
+    character: "1001,302,309,310,315"
     enemy_skill: "36,37,38"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000064
@@ -1563,7 +1563,7 @@
     speed_rank: 2
     range_rank: 1
     counter: 高護甲單位，移速較慢，可大範圍發射複數小型導彈進行轟炸。轟炸預警出現時請注意及時指揮我方人形移動規避傷害
-    character: "303,309,313"
+    character: "302,303,309,313"
     enemy_skill: "26,33"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000073
@@ -1583,7 +1583,7 @@
     armor_rank: 3
     range_rank: 5
     counter: 在戰役地圖上能對友方提供遠程支援，在戰略上具有極大威脅性，建議避免與受其支援的單位作戰。注意觀察前中後段各自的支援範圍，選取正確的攻克順序，避免其交叉火力打擊。
-    character: "908,910,326"
+    character: "302,908,910,326"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000074
     spine_scale: "-15,15,1"
@@ -1602,7 +1602,7 @@
     armor_rank: 3
     range_rank: 5
     counter: 在戰役地圖上能對友方提供遠程支援，在戰略上具有極大威脅性，建議避免與受其支援的單位作戰。注意觀察前中後段各自的支援範圍，選取正確的攻克順序，避免其交叉火力打擊。
-    character: "908,910,326"
+    character: "302,908,910,326"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000075
     spine_scale: "-15,15,1"
@@ -1621,7 +1621,7 @@
     armor_rank: 3
     range_rank: 5
     counter: 在戰役地圖上能對友方提供遠程支援，在戰略上具有極大威脅性，建議避免與受其支援的單位作戰。注意觀察前中後段各自的支援範圍，選取正確的攻克順序，避免其交叉火力打擊。
-    character: "908,910,326"
+    character: "302,908,910,326"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000076
     spine_scale: "-15,15,1"
@@ -1642,7 +1642,7 @@
     speed_rank: 4
     range_rank: 2
     counter: 擁有較高護甲，會同時打擊我方前後排單位，請注意保持前後排之間的距離。
-    character: "1001,303,309,310"
+    character: "1001,302,303,309,310"
     enemy_skill: "48,49,50"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000077
@@ -1680,7 +1680,7 @@
     speed_rank: 5
     range_rank: 3
     counter: 具有一般程度的護甲，請注意梯隊的穿甲能力、提升前排人形的防禦能力,以及面對該單位強力的炮擊時注意移動被鎖定的單位,不讓其後排的單位受到波及。
-    character: "1001,1003,309,317,316"
+    character: "1001,302,1003,309,317,316"
     enemy_skill: "52,53"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000079
@@ -1702,7 +1702,7 @@
     speed_rank: 6
     range_rank: 7
     counter: 擁有較高護甲，會向預警位置造成較強傷害，帶護盾狀態下若受到穿透打擊則會有一定的硬直反饋。請注意及時指揮人形躲避預警傷害。
-    character: "1001,309,326,316"
+    character: "1001,302,309,326,316"
     enemy_skill: "93,94,95"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000080
@@ -2414,7 +2414,7 @@
     speed_rank: 2
     range_rank: 2
     counter: 擁有一定的力場值和護甲，起初的減傷能力一般，但是後續會不斷恢復和增加力場值，在破防能力不足的情況下不適合長時間與之交戰。建議在有重裝部隊支援的前提下進行戰鬥。
-    character: "309,312,316"
+    character: "302,309,312,316"
     enemy_skill: "34,35,140"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000118
@@ -2436,7 +2436,7 @@
     speed_rank: 2
     range_rank: 4
     counter: 擁有較高的護甲和力場值，且具有極強的迴避性能,請注意有效打擊的時機。建議使用帶有狙擊技能等有必中手段的人形。
-    character: "1001,309,310,315"
+    character: "1001,302,309,310,315"
     enemy_skill: "36,37,38"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000119
@@ -2655,7 +2655,7 @@
     armor_rank: 2
     range_rank: 5
     counter: 該單位攻速較高、傷害一般，推薦使用霰彈槍人形搭配足夠的護甲進行抵禦。
-    character: "1001,320"
+    character: "1001,302,320"
     enemy_skill: "129"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000130
@@ -2802,7 +2802,7 @@
     speed_rank: 5
     range_rank: 5
     counter: 該單位在高血量時擁有炮擊陣地的能力，對我方生存壓力極大，建議迅速將其壓制。
-    character: "1001,335,320,309"
+    character: "1001,302,335,320,309"
     enemy_skill: "126,127,128"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000137
@@ -3326,7 +3326,7 @@
     speed_rank: 2
     range_rank: 2
     counter: 擁有一定的力場值和護甲，起初的減傷能力一般，但是後續會不斷恢復和增加力場值，在破防能力不足的情況下不適合長時間與之交戰。建議在有重裝部隊支援的前提下進行戰鬥。
-    character: "309,312,316"
+    character: "302,309,312,316"
     enemy_skill: "34,35,140"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000163
@@ -3430,7 +3430,7 @@
     speed_rank: 1
     range_rank: 3
     counter: 克制低血量單位，建議盡快處理。
-    character: "1003,314,319"
+    character: "1003,302,314,319"
     enemy_skill: "168"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000168
@@ -3452,7 +3452,7 @@
     speed_rank: 3
     range_rank: 3
     counter: 該單位對機械單位有著不錯的防禦強化能力，並且注意規避定嚮導彈的傷害。
-    character: "1001,1003"
+    character: "1001,1003,302"
     enemy_skill: "169,170"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000169
@@ -3535,7 +3535,7 @@
     speed_rank: 5
     range_rank: 5
     counter: 該單位火力十足的同時還擁有強大的防護能力，注意合適的集火時機。
-    character: "1001,320"
+    character: "1001,302,320"
     enemy_skill: "174,175,176"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000173
