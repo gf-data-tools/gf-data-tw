@@ -1,0 +1,5 @@
+{
+  game_host: 'http://sn-game.txwy.tw/index.php/1001',
+  cdn_host: 'http://sncdn.imtxwy.com',
+  asset_host: 'http://sn-list.txwy.tw'
+}
