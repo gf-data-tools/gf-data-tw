@@ -264,6 +264,16 @@
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30000118", "is_hide_info": 0
   }, {
+    "id": 119, "type": 3, "arg": "20", "code": "Medal_Theater10th", "item_name": "第十戰區開拓者勛章", 
+    "introduction": "表彰該指揮官及其麾下戰術人形在第十期戰區通過不懈努力收穫的矚目積分，「任憑風暴撕扯戰旗，任憑驟雨洗練軀體，向前進，直到斬獲勝利。」", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30000119", "is_hide_info": 0
+  }, {
+    "id": 120, "type": 3, "arg": "21", "code": "Medal_Theater10th_rank", "item_name": "第十戰區征服者勛章", 
+    "introduction": "表彰該指揮官及其麾下戰術人形在第十期戰區立下的卓越戰功，「縱使黑暗吞沒一切，您依然能夠帶回黎明。」", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30000120", "is_hide_info": 0
+  }, {
     "id": 301, "type": 1, "arg": "1", "code": "CentreDataBGM71", "item_name": "中樞數據:BGM-71", 
     "introduction": "重裝部隊BGM-71的數據碎片，-「報告，目標區域有自己人哦！」 -「哎呀⋯⋯那就祝她們好運吧！」", "rank": 1, 
     "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
@@ -5550,6 +5560,30 @@
     "introduction": "解放者-鎏金收藏家", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30002279", "is_hide_info": 0
   }, {
+    "id": 2280, "type": 5, "arg": "1", "code": "profilePic_Piracy2023_Kord", "item_name": "Kord-寇德船長", 
+    "introduction": "Kord-寇德船長", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002280", "is_hide_info": 0
+  }, {
+    "id": 2281, "type": 5, "arg": "1", "code": "profilePic_Piracy2023_KH2002", "item_name": "KH2002-黑色女爵士", 
+    "introduction": "KH2002-黑色女爵士", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002281", "is_hide_info": 0
+  }, {
+    "id": 2282, "type": 5, "arg": "1", "code": "profilePic_Piracy2023_SIGMCX", "item_name": "SIG MCX-克拉肯獵人", 
+    "introduction": "SIG MCX-克拉肯獵人", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002282", "is_hide_info": 0
+  }, {
+    "id": 2283, "type": 5, "arg": "1", "code": "profilePic_Piracy2023_PTRD", "item_name": "PTRD-鴿血紅渦流", 
+    "introduction": "PTRD-鴿血紅渦流", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002283", "is_hide_info": 0
+  }, {
+    "id": 2284, "type": 5, "arg": "1", "code": "profilePic_Piracy2023_TavorTS12", "item_name": "TS12-紅發的海上魔王", 
+    "introduction": "TS12-紅發的海上魔王", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002284", "is_hide_info": 0
+  }, {
+    "id": 2285, "type": 5, "arg": "1", "code": "profilePic_Piracy2023_MP41", "item_name": "MP41-最後的私掠者", 
+    "introduction": "MP41-最後的私掠者", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002285", "is_hide_info": 0
+  }, {
     "id": 4001, "type": 1, "arg": "4001", "code": "explore_loot_city", "item_name": "城市的饋贈", 
     "introduction": "很久前生產的一種積木玩具，因為其極高的生產精度現在已經很難仿製，在很多戰亂地區被用作貨幣，可以換到很多有用的東西。", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 99999, "consume_type": 0, "item_access": "", 
@@ -7110,6 +7144,11 @@
     "introduction": "此乃獨創內功絕技，出招看似挨打，實則會給對手造成嚴重內傷……出招之後流鼻血？不過是一點副作用而已！", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30130019", "is_hide_info": 0
+  }, {
+    "id": 130020, "type": 12, "arg": "130020", "code": "Y_Z_zhihuiguan_Cannon", "item_name": "炮火弧線", 
+    "introduction": "裝藥！裝彈！動作快點！很好，瞄準目標，準備把他們炸個稀巴爛——發射！", "rank": 1, "sort": 0, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30130020", "is_hide_info": 0
   }, {
     "id": 140001, "type": 14, "arg": "1", "code": "Y_Z_zhihuiguan_Chessman", "item_name": "*榴彈捕手", 
     "introduction": "item-20140001", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 

@@ -81,5 +81,14 @@
     "id": "19", "name": "金話筒音樂勳章", "order": "81", "evo_step": "1", "appearance_id": "106", "item_id": "118", 
     "medal_obtain": "授予在限時活動雪浪映花顏中完成所有戰役挑戰的指揮官。", "medal_color": "#ff0000", "is_date": "2", 
     "decorate_code": "Logo_Events", "if_elite_medal": "1"
+  }, {
+    "id": "20", "name": "第十戰區開拓者勛章", "order": "80", "evo_step": "1", "appearance_id": "107", "item_id": "119", 
+    "medal_obtain": "授予第十期戰區活動最終關卡中獲得非凡成績的指揮官。", "medal_color": "#ff0000", "is_date": "2", 
+    "decorate_code": "Logo_Events", "if_elite_medal": "0"
+  }, {
+    "id": "21", "name": "第十戰區征服者勛章", "order": "79", "evo_step": "1,2,3,4,5,6,7,8,9,10,11,12", 
+    "appearance_id": "108,109,110,111,112,113,114,115,116,117,118,119", "item_id": "120", 
+    "medal_obtain": "授予第十期戰區活動中獲得耀眼積分成績的指揮官。", "medal_color": "#ff0000", "is_date": "2", 
+    "decorate_code": "Logo_Events", "if_elite_medal": "0"
   }
 ]

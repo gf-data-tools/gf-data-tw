@@ -182,6 +182,11 @@
     "group_id": "92", "code": "commander_5031_icon", "bonus_plastic": "130019", "skill_id": 104, "path": "CLASS50", 
     "is_class": 1, "des_year": "2022", "source": 1, "source_description": "commander_class-40000050"
   }, {
+    "id": 51, "name": "四海領主", 
+    "description": "闖入隱秘的海灣，穿越凶險的風暴。在波濤中引吭高歌，與敵人刀兵相向——聽好了水手們，乾了這瓶朗姆酒，讓我們揚帆起錨，去尋找下一處寶藏！", 
+    "group_id": "93", "code": "commander_5132_icon", "bonus_plastic": "130020", "skill_id": 107, "path": "CLASS51", 
+    "is_class": 1, "des_year": "2023", "source": 1, "source_description": "commander_class-40000051"
+  }, {
     "id": 99, "name": "謊言面具", "description": "埋藏我所思，塑化我所願", "group_id": "60", "code": "commander_9920_icon", 
     "bonus_plastic": "", "skill_id": 0, "path": "EMOJI", "is_class": 0, "des_year": "2019", "source": 2, 
     "source_description": "會伴隨壞運氣一起出現"

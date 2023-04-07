@@ -1185,6 +1185,62 @@
     "color_2": "Commander_5052_2", "color_3": "Commander_5052_3", "color_4": "Commander_5052_4", "skill_id": 0, 
     "bone_name": "", "rotation": 0, "scale": 0.0, "position": "", "color_icon_id": "894,895,896,897,898,899"
   }, {
+    "id": 5111, "name": "巴巴羅薩", 
+    "description": "這標誌性的大鬍子將成為那些仇家的噩夢，而每天三個小時的鬍鬚打理時間則是你的噩夢。", "code": "Head1", 
+    "icon": "commander_5111_icon", "type": 1, "gender": 1, "uniform_class": "51", "color_normal": "Commander_5111_N", 
+    "color_0": "Commander_5111_0", "color_1": "Commander_5111_1", "color_2": "Commander_5111_2", 
+    "color_3": "Commander_5111_3", "color_4": "Commander_5111_4", "skill_id": 0, "bone_name": "", "rotation": 0, 
+    "scale": 0.0, "position": "", "color_icon_id": "900,901,902,903,904,905"
+  }, {
+    "id": 5112, "name": "卡塔琳娜", "description": "當敵人倒在劍下，他們生命最後一刻所看到的，只會是如波濤般致命的長髮。", 
+    "code": "Head2", "icon": "commander_5112_icon", "type": 1, "gender": 2, "uniform_class": "51", 
+    "color_normal": "Commander_5112_N", "color_0": "Commander_5112_0", "color_1": "Commander_5112_1", 
+    "color_2": "Commander_5112_2", "color_3": "Commander_5112_3", "color_4": "Commander_5112_4", "skill_id": 0, 
+    "bone_name": "", "rotation": 0, "scale": 0.0, "position": "", "color_icon_id": "906,907,908,909,910,911"
+  }, {
+    "id": 5120, "name": "懸賞尊位", 
+    "description": "船長，戴好它！這能讓您通緝令上的畫像更加的威風八面！還想要鸚鵡？沒問題，這就去抓！", "code": "HeadAcco", 
+    "icon": "commander_5120_icon", "type": 2, "gender": 0, "uniform_class": "51", "color_normal": "Commander_5120_N", 
+    "color_0": "Commander_5120_0", "color_1": "Commander_5120_1", "color_2": "Commander_5120_2", 
+    "color_3": "Commander_5120_3", "color_4": "Commander_5120_4", "skill_id": 0, "bone_name": "HairBinder1", "rotation": 0, 
+    "scale": 0.2, "position": "-0.044,0.146", "color_icon_id": "912,913,914,915,916,917"
+  }, {
+    "id": 5131, "name": "劈波斬浪", 
+    "description": "無論多麼凶險，只要看到這屹立不倒的身軀，水手們便有百倍的信心去征服任何海域！", "code": "Body1", 
+    "icon": "commander_5131_icon", "type": 3, "gender": 1, "uniform_class": "51", "color_normal": "Commander_5131_N", 
+    "color_0": "Commander_5131_0", "color_1": "Commander_5131_1", "color_2": "Commander_5131_2", 
+    "color_3": "Commander_5131_3", "color_4": "Commander_5131_4", "skill_id": 0, "bone_name": "", "rotation": 0, 
+    "scale": 0.0, "position": "", "color_icon_id": "918,919,920,921,922,923"
+  }, {
+    "id": 5132, "name": "呼嘯海風", 
+    "description": "美人魚？陪酒女？在身體被刺到滿身窟窿之前，建議去海裡洗洗腦子，不然，咱們就走著瞧吧。", "code": "Body2", 
+    "icon": "commander_5132_icon", "type": 3, "gender": 2, "uniform_class": "51", "color_normal": "Commander_5132_N", 
+    "color_0": "Commander_5132_0", "color_1": "Commander_5132_1", "color_2": "Commander_5132_2", 
+    "color_3": "Commander_5132_3", "color_4": "Commander_5132_4", "skill_id": 0, "bone_name": "", "rotation": 0, 
+    "scale": 0.0, "position": "", "color_icon_id": "924,925,926,927,928,929"
+  }, {
+    "id": 5140, "name": "大洋混跡指南", 
+    "description": "現在，聰明人一眼就能看出你是哪條船上的老大了！不過，要是想隨時隨地亮出傢伙，您就得當心仇家在背地裡偷襲，切記！", 
+    "code": "BodyAcco", "icon": "commander_5140_icon", "type": 4, "gender": 0, "uniform_class": "51", 
+    "color_normal": "Commander_5140_N", "color_0": "Commander_5140_0", "color_1": "Commander_5140_1", 
+    "color_2": "Commander_5140_2", "color_3": "Commander_5140_3", "color_4": "Commander_5140_4", "skill_id": 0, 
+    "bone_name": "BodyBinder1", "rotation": 0, "scale": 0.2, "position": "-0.120,0.068", 
+    "color_icon_id": "930,931,932,933,934,935"
+  }, {
+    "id": 5151, "name": "朽木桅桿", 
+    "description": "乾淨利落，很好！小子們，接舷戰近在眼前，抓緊纜繩，準備擺蕩到敵人船上來一場近距離的較量！", 
+    "code": "Foot1", "icon": "commander_5151_icon", "type": 5, "gender": 1, "uniform_class": "51", 
+    "color_normal": "Commander_5151_N", "color_0": "Commander_5151_0", "color_1": "Commander_5151_1", 
+    "color_2": "Commander_5151_2", "color_3": "Commander_5151_3", "color_4": "Commander_5151_4", "skill_id": 0, 
+    "bone_name": "", "rotation": 0, "scale": 0.0, "position": "", "color_icon_id": "936,937,938,939,940,941"
+  }, {
+    "id": 5152, "name": "破碎甲板", 
+    "description": "把頭低下去！上一個應付差事的傢伙已經被丟到海裡跟鯊魚親熱了，不想加入他們，就把船給我好好打掃乾淨！", 
+    "code": "Foot2", "icon": "commander_5152_icon", "type": 5, "gender": 2, "uniform_class": "51", 
+    "color_normal": "Commander_5152_N", "color_0": "Commander_5152_0", "color_1": "Commander_5152_1", 
+    "color_2": "Commander_5152_2", "color_3": "Commander_5152_3", "color_4": "Commander_5152_4", "skill_id": 0, 
+    "bone_name": "", "rotation": 0, "scale": 0.0, "position": "", "color_icon_id": "942,943,944,945,946,947"
+  }, {
     "id": 9920, "name": "活力偽裝", "description": "永遠展現最好的我。", "code": "HeadAcco", "icon": "commander_9920_icon", 
     "type": 2, "gender": 0, "uniform_class": "99", "color_normal": "Commander_9920_N", "color_0": "", "color_1": "", 
     "color_2": "", "color_3": "", "color_4": "", "skill_id": 0, "bone_name": "HairBinder2", "rotation": 0, "scale": 0.4, 
