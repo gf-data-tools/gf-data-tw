@@ -1,0 +1,134 @@
+[
+  {
+    id: 1
+    name: 極速狂花
+    code: PzB39andGrizzly
+    description: 火力號令對自身和PzB39效果額外增加10%。
+    gun_group: "96,180"
+    gun: 96
+    type: 1
+    skill1: 190101
+  }
+  {
+    id: 2
+    name: 極速狂花
+    code: PzB39andGrizzly
+    description: 與灰熊MkⅤ在同一梯隊時,瞄準時間減少至1秒,每秒蓄力層數增加至2層。
+    gun_group: "96,180"
+    gun: 180
+    type: 1
+    skill1: 190102
+    passive_skill: "190103"
+  }
+  {
+    id: 3
+    name: 星河成約
+    code: AkalfaandM82
+    description: 與M82在同一梯隊時,M82普攻對自身正前方單位也能造成10%額外傷害。
+    gun_group: "306,297"
+    gun: 306
+    type: 1
+  }
+  {
+    id: 4
+    name: 星河成約
+    code: AkalfaandM82
+    description: 將自身正前方視作AK-Alfa的正前方。
+    gun_group: "306,297"
+    gun: 297
+    type: 1
+    normal_attack: 190201
+    passive_skill: "190202"
+  }
+  {
+    id: 5
+    name: 我開動了！
+    code: g36andm1903
+    description: 「持之以恆是比任何事都要更重要的才能」當G36和春田處於同一梯隊時,G36為隨行的隊友呈上甜點,振奮士氣的同時,火力專注的效果也變得可以作用於友方單位(效果下降至15%)——要小心變胖哦。
+    gun_group: "64,36"
+    gun: 64
+    type: 1
+    skill1: 190302
+    passive_skill: "190301"
+  }
+  {
+    id: 6
+    name: 我開動了！
+    code: g36andm1903
+    description: 「我對混合咖啡還是蠻有自信的」當G36和春田處於同一梯隊時,春田為隨行的隊友端上咖啡,振奮士氣的同時,每疊加1層蓄力,提升我方全體射速5%(持續5秒,最多疊加5層)——要小心變胖哦。
+    gun_group: "64,36"
+    gun: 36
+    type: 1
+    passive_skill: "190401"
+  }
+  {
+    id: 7
+    name: 我開動了！
+    code: g36andm1903
+    description: 「持之以恆是比任何事都要更重要的才能」當G36和春田處於同一梯隊時,G36為隨行的隊友呈上甜點,振奮士氣的同時,火力專注的效果也變得可以作用於友方單位(效果下降至15%)——要小心變胖哦。
+    gun_group: "20064,36"
+    gun: 20064
+    type: 1
+    skill1: 190303
+    passive_skill: "190301"
+    active_trigger: "5"
+  }
+  {
+    id: 8
+    name: 我開動了！
+    code: g36andm1903
+    gun_group: "20064,36"
+    gun: 36
+    type: 5
+    passive_skill: "190401"
+    active_trigger: "6"
+  }
+  {
+    id: 9
+    name: 冕暈聚變
+    code: MPKandMPL
+    description:
+      '''
+      MPK與MPL相臨一格時,不再對友方造成負面效果。
+      MPK與MPL左右相鄰時,開啟技能後,效果範圍擴大至2格。
+      '''
+    gun_group: "363,364"
+    gun: 363
+    type: 1
+    dynamic_passive_skill: "119302,119303,119304,119305,119308,119309"
+  }
+  {
+    id: 10
+    name: 冕暈聚變
+    code: MPKandMPL
+    description:
+      '''
+      MPK與MPL相臨一格時,不再對友方造成負面效果。
+      MPK與MPL左右相鄰時,開啟技能後,效果範圍擴大至2格。
+      '''
+    gun_group: "363,364"
+    gun: 364
+    type: 1
+    dynamic_passive_skill: "119203,119204,119205,119206,119207,119208,119209"
+  }
+  {
+    id: 11
+    name: 同輝禁線
+    code: SCAR_CON
+    description: SCAR-L和SCAR-H同時在場時,自身開場獲得40點月海能量,每秒增加4點月海能量。
+    gun_group: "377,378"
+    gun: 377
+    type: 1
+    passive_skill: "119702,119706,119707"
+  }
+  {
+    id: 12
+    name: 同輝禁線
+    code: SCAR_CON
+    description: SCAR-L和SCAR-H同時在場時,自身開場獲得40點聖暉能量,每秒增加4點聖暉能量。
+    gun_group: "377,378"
+    gun: 378
+    type: 1
+    passive_skill: "119602,119604,119606,119607,119608"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    id: 201
+    class_id: 2
+    title: 戰術人形等級
+    weight: 0.01
+  }
+  {
+    id: 202
+    class_id: 2
+    title: 戰術人形心智升級
+    weight: 0.5
+  }
+  {
+    id: 203
+    class_id: 2
+    title: 戰術人形技能等級
+    weight: 0.05
+  }
+  {
+    id: 204
+    class_id: 2
+    title: 戰術人形強化
+    weight: 0.02
+  }
+  {
+    id: 205
+    class_id: 2
+    title: 戰術人形擴編
+    weight: 0.04
+  }
+  {
+    id: 301
+    class_id: 3
+    title: 擁有五星人形裝備
+    weight: 1.0
+  }
+  {
+    id: 302
+    class_id: 3
+    title: 擁有專屬人形裝備
+    weight: 1.0
+  }
+  {
+    id: 303
+    class_id: 3
+    title: 人形裝備校準
+    weight: 0.5
+  }
+  {
+    id: 304
+    class_id: 3
+    title: 人形裝備強化
+    weight: 0.08
+  }
+  {
+    id: 401
+    class_id: 4
+    title: 戰術妖精等級
+    weight: 0.01
+  }
+  {
+    id: 402
+    class_id: 4
+    title: 戰術妖精星級
+    weight: 0.05
+  }
+  {
+    id: 403
+    class_id: 4
+    title: 戰術妖精天賦
+    weight: 0.3
+  }
+  {
+    id: 404
+    class_id: 4
+    title: 戰術妖精技能等級
+    weight: 0.02
+  }
+  {
+    id: 501
+    class_id: 5
+    title: 重裝部隊等級
+    weight: 0.3
+  }
+  {
+    id: 502
+    class_id: 5
+    title: 重裝部隊晉升
+    weight: 1.0
+  }
+  {
+    id: 503
+    class_id: 5
+    title: 重裝部隊迭代
+    weight: 2.0
+  }
+  {
+    id: 504
+    class_id: 5
+    title: 重裝部隊技能等級
+    weight: 0.9
+  }
+  {
+    id: 505
+    class_id: 5
+    title: 重裝部隊晶片
+    weight: 0.6
+  }
+  {
+    id: 601
+    class_id: 6
+    title: 融合勢力等級
+    weight: 0.01
+  }
+  {
+    id: 602
+    class_id: 6
+    title: 融合勢力開發
+    weight: 0.4
+  }
+  {
+    id: 603
+    class_id: 6
+    title: 融合勢力解析度
+    weight: 0.2
+  }
+  {
+    id: 604
+    class_id: 6
+    title: 融合勢力技能
+    weight: 0.2
+  }
+  {
+    id: 605
+    class_id: 6
+    title: 戰術晶片研發
+    weight: 2.0
+  }
+  {
+    id: 801
+    class_id: 8
+    title: 主線戰役
+    weight: 1.0
+  }
+  {
+    id: 802
+    class_id: 8
+    title: 大型活動戰役
+    weight: 0.8
+  }
+  {
+    id: 803
+    class_id: 8
+    title: 積分活動參與
+    weight: 1.0
+  }
+  {
+    id: 804
+    class_id: 8
+    title: 圖鑒收集
+    weight: 1.0
+  }
+  {
+    id: 901
+    class_id: 9
+    title: 後勤支援
+    weight: 1.0
+  }
+  {
+    id: 902
+    class_id: 9
+    title: 前進營地探索
+    weight: 1.0
+  }
+  {
+    id: 903
+    class_id: 9
+    title: 自律作戰
+    weight: 1.0
+  }
+  {
+    id: 904
+    class_id: 9
+    title: 基礎建設
+    weight: 1.0
+  }
+  {
+    id: 1001
+    class_id: 10
+    title: 好友數量
+    weight: 1.0
+  }
+  {
+    id: 1002
+    class_id: 10
+    title: 宿舍點讚數
+    weight: 0.01
+  }
+  {
+    id: 1003
+    class_id: 10
+    title: 宿舍共享電池
+    weight: 0.01
+  }
+  {
+    id: 1004
+    class_id: 10
+    title: 使用支援梯隊
+    weight: 0.05
+  }
+  {
+    id: 1005
+    class_id: 10
+    title: 遊玩拉弗伯雷兵棋
+    weight: 0.1
+  }
+  {
+    id: 1101
+    class_id: 11
+    title: 獲得傢俱數量
+    weight: 0.3
+  }
+  {
+    id: 1102
+    class_id: 11
+    title: 獲得傢俱套裝
+    weight: 4.0
+  }
+  {
+    id: 1103
+    class_id: 11
+    title: 人形裝扮收集
+    weight: 1.0
+  }
+  {
+    id: 1104
+    class_id: 11
+    title: 咖啡廳漫畫收集
+    weight: 5.0
+  }
+  {
+    id: 1105
+    class_id: 11
+    title: 人形回憶錄
+    weight: 3.0
+  }
+  {
+    id: 1106
+    class_id: 11
+    title: 格里芬往事
+    weight: 5.0
+  }
+  {
+    id: 1107
+    class_id: 11
+    title: 人形誓約
+    weight: 1.0
+  }
+  {
+    id: 1108
+    class_id: 11
+    title: 人形好感度
+    weight: 1.0
+  }
+]

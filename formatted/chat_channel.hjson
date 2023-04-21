@@ -1,0 +1,22 @@
+[
+  {
+    id: 1
+    name: 系統
+  }
+  {
+    id: 2
+    name: 公會
+    if_input: 1
+    is_fixed_phrases: 1
+  }
+  {
+    id: 3
+    name: 私聊
+    if_input: 1
+  }
+  {
+    id: 4
+    name: 遊戲
+    is_fixed_phrases: 1
+  }
+]

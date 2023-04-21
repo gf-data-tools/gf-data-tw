@@ -1,0 +1,518 @@
+[
+  {
+    id: 10
+    name: 末日迷彩
+    description: 初始贈送的套裝，不分男女
+    group_id: "51"
+    code: commander_10_icon
+    path: CLASS10
+    is_class: 1
+    des_year: "2019"
+    source: 1
+  }
+  {
+    id: 11
+    name: 格里芬標準制服
+    description: 來到格里芬之後的通常制服，可以從入職穿到你回家結婚前的那次戰鬥結束。
+    group_id: "52"
+    code: commander_11_icon
+    skill_id: 103
+    path: CLASS11
+    is_class: 1
+    des_year: "2019"
+    source: 2
+    source_description: 新人入職制服
+  }
+  {
+    id: 12
+    name: 格里芬夏日氣息
+    description: 泳裝指揮官套裝，有配色，分男女
+    group_id: "53"
+    code: commander_1232_icon
+    bonus_plastic: "130001"
+    skill_id: 104
+    path: CLASS12
+    is_class: 1
+    des_year: "2019"
+    source: 1
+  }
+  {
+    id: 13
+    name: 特種防護服
+    description: 應對高強度輻射環境的套裝。穿上它去花海裡和人形們拍照留念吧，在開始下一段旅途之前。
+    group_id: "54"
+    code: commander_13_icon
+    bonus_plastic: "130002"
+    skill_id: 105
+    path: CLASS13
+    is_class: 1
+    des_year: "2019"
+    source: 2
+    source_description: 裂變鏈接活動獲得
+  }
+  {
+    id: 14
+    name: 夏夜流影
+    description: 我們用浴衣來紀念這轉瞬即逝的月影和夏天。
+    group_id: "55"
+    code: commander_1432_icon
+    bonus_plastic: "130003"
+    skill_id: 108
+    path: CLASS14
+    is_class: 1
+    des_year: "2019"
+    source: 1
+  }
+  {
+    id: 15
+    name: 裂變佛光
+    description: 戰爭是殘酷的。能持續從戰鬥中取勝的人除了運氣，也必然有絕頂的實力。
+    group_id: "56"
+    code: commander_1510_icon
+    path: CLASS15
+    des_year: "2019"
+    source: 2
+    source_description: 裂變鏈接活動排名獎勵
+  }
+  {
+    id: 16
+    name: 我不是不良
+    description: 準備好了嗎？穿上這套行頭，站上桌椅的頂點吧！
+    group_id: "57"
+    code: commander_1632_icon
+    bonus_plastic: "130004"
+    skill_id: 112
+    path: CLASS16
+    is_class: 1
+    des_year: "2019"
+    source: 1
+  }
+  {
+    id: 17
+    name: 唬人王的秘密道具
+    description: 今天的特邀嘉賓是蟬聯多年萬聖節唬人大賽的冠軍！就讓我們一起打開冠軍的秘密寶箱吧——
+    group_id: "58"
+    code: commander_1720_icon
+    path: CLASS17
+    des_year: "2019"
+    source: 1
+  }
+  {
+    id: 18
+    name: 瑞雪之旅
+    description: 為什麼聖誕老人需要送禮呢？有人這樣問道，“或許是想把大家聯繫在一起吧。”馴鹿漫不經心地回答道。
+    group_id: "59"
+    code: commander_1832_icon
+    bonus_plastic: "130005"
+    skill_id: 113
+    path: CLASS18
+    is_class: 1
+    des_year: "2019"
+    source: 1
+  }
+  {
+    id: 19
+    name: 招運納福
+    description: 敞開心懷，與人形們共同迎來新的一年吧，人生轉眼即是百年，記憶卻可以確鑿，可以不忘，可以傳承。
+    group_id: "61"
+    code: commander_1932_icon
+    bonus_plastic: "130006"
+    skill_id: 106
+    path: CLASS19
+    is_class: 1
+    des_year: "2020"
+    source: 1
+  }
+  {
+    id: 20
+    name: 惡海鯊魚
+    description: 設計者期望用它來表現指揮官在海邊如鯊魚般英勇狂猛的戰鬥身姿，但不如意事常八九……
+    group_id: "62"
+    code: commander_2010_icon
+    path: CLASS20
+    des_year: "2020"
+    source: 2
+    source_description: 偏振光活動排名獎勵
+  }
+  {
+    id: 21
+    name: 春睡閒情
+    description: 能讓你肆意享受回到家後放鬆的感覺，這才是工作的意義。
+    group_id: "63"
+    code: commander_2132_icon
+    bonus_plastic: "130007"
+    skill_id: 108
+    path: CLASS21
+    is_class: 1
+    des_year: "2020"
+    source: 1
+  }
+  {
+    id: 22
+    name: 三百少女的夢
+    description: 這是一頂神奇的帽子，戴上它就會閃耀到讓所有遇見你的人形都痴痴地盯著你，甚至為你留下貪婪的口涎……
+    group_id: "64"
+    code: commander_2220_icon
+    path: CLASS22
+    des_year: "2020"
+    source: 2
+    source_description: 花好果圓簽到獎勵
+  }
+  {
+    id: 23
+    name: 粉絲資格證
+    description: 支持員工的夢想並不是上司的必修課，但如果你願意……
+    group_id: "65"
+    code: commander_2340_icon
+    path: CLASS23
+    des_year: "2020"
+    source: 2
+    source_description: 格里芬往事積星階段獎勵
+  }
+  {
+    id: 24
+    name: 太空逃亡者
+    description: 曾有那麼一群人讓孩子們嚮往繁星，教會他們懂得珍惜與失去。
+    group_id: "66"
+    code: commander_2420_icon
+    path: CLASS24
+    des_year: "2020"
+    source: 2
+    source_description: 格里芬往事積星階段獎勵
+  }
+  {
+    id: 25
+    name: 和平大使
+    description: 在苦難中經歷磨難固然艱辛，但在安逸中尋求和平更加可貴。小孩子才爭得你死我活，大人當然是全都要！
+    group_id: "67"
+    code: commander_2520_icon
+    path: CLASS25
+    des_year: "2020"
+    source: 2
+    source_description: 雙聯亂數活動排名獎勵
+  }
+  {
+    id: 26
+    name: 守城者
+    description: 享受多大的榮耀，就必然承受多大的責任。戰鬥吧，為了守護你擁有的一切。
+    group_id: "68"
+    code: commander_2632_icon
+    bonus_plastic: "130008"
+    skill_id: 104
+    path: CLASS26
+    is_class: 1
+    des_year: "2020"
+    source: 1
+  }
+  {
+    id: 27
+    name: 和雅清風
+    description: 穿上寬鬆復古的衣裝，能否被風帶回那個時代？如果能，那就糟了。
+    group_id: "69"
+    code: commander_2732_icon
+    bonus_plastic: "130009"
+    skill_id: 101
+    path: CLASS27
+    is_class: 1
+    des_year: "2020"
+    source: 1
+  }
+  {
+    id: 28
+    name: 狂野慶典
+    description: 用自己的方式來表達對這個節日的喜悅吧！即使不瞭解節日的精神內涵，你也因此獲得假期啦。
+    group_id: "70"
+    code: commander_2820_icon
+    path: CLASS28
+    des_year: "2020"
+    source: 2
+    source_description: 糖心桂月簽到獎勵
+  }
+  {
+    id: 29
+    name: 瘋狂萬聖夜
+    description: 在這個特殊節日的派對上，不要隨意揭開他人的偽裝——畢竟你也不知道這到底是不是偽裝。
+    group_id: "71"
+    code: commander_2920_icon
+    path: CLASS29
+    des_year: "2020"
+    source: 2
+    source_description: 繭中蝶影活動代幣兌換
+  }
+  {
+    id: 30
+    name: 沉默之鋒
+    description: 我們身處黑暗，卻服務於光明！至於光明是否正確，那不是我們的判斷範圍。
+    group_id: "72"
+    code: commander_3020_icon
+    bonus_plastic: "130010"
+    skill_id: 107
+    path: CLASS30
+    is_class: 1
+    des_year: "2020"
+    source: 1
+  }
+  {
+    id: 31
+    name: 女僕套裝
+    description: G36的工作小道具，她從來不做無用功，只是需要一點小小的儀式感。
+    group_id: "73"
+    code: commander_3120_icon
+    path: CLASS31
+    des_year: "2020"
+    source: 2
+    source_description: 格里芬往事積星階段獎勵
+  }
+  {
+    id: 32
+    name: 潮流慶典
+    description: 慶典就不要穿制服來了吧，指揮官！我們為你準備了新的定製服裝哦。
+    group_id: "74"
+    code: commander_3230_icon
+    path: CLASS32
+    des_year: "2021"
+    source: 2
+    source_description: 繁中服4周年指揮官紀念服裝
+  }
+  {
+    id: 33
+    name: G&K500
+    description: 戰爭中必然有所取捨，不要抱住一個你必須放手的人。
+    group_id: "75"
+    code: commander_3310_icon
+    path: CLASS33
+    des_year: "2021"
+    source: 2
+    source_description: 鏡像論活動排名獎勵
+  }
+  {
+    id: 34
+    name: 最後致意
+    description: 倘若是能夠確實地毀滅罪惡，那麼為了公眾的利益，我們很樂意迎接死亡。
+    group_id: "76"
+    code: commander_3432_icon
+    bonus_plastic: "130011"
+    skill_id: 105
+    path: CLASS34
+    is_class: 1
+    des_year: "2021"
+    source: 1
+  }
+  {
+    id: 35
+    name: 便捷旅行
+    description: 即使此刻閉上眼睛，也仍有奇跡正在某處發生……
+    group_id: "77"
+    code: commander_3520_icon
+    path: CLASS35
+    des_year: "2021"
+    source: 2
+    source_description: 少女前線五周年 X 羅森聯動線下活動兌換
+  }
+  {
+    id: 36
+    name: 戰略遊樂
+    description: 你的人生是一場壯闊的展會，指揮官。為你所經歷過的旅程做一個總結，然後繼續下一段路吧。
+    group_id: "78"
+    code: commander_3640_icon
+    path: CLASS36
+    des_year: "2021"
+    source: 2
+    source_description: 五周年簽到活動獎勵
+  }
+  {
+    id: 37
+    name: 「華彩」新裝
+    description: 來自兩位國際服裝設計大師的高級定制禮服，相信有緣人能夠一睹它的美麗。
+    group_id: "79"
+    code: commander_3700_icon
+    path: CLASS37
+    des_year: "2021"
+    source: 2
+    source_description: 前進營地兌換
+  }
+  {
+    id: 38
+    name: 馬戲團之王
+    description: 戰爭如表演，墜落即退場。
+    group_id: "80"
+    code: commander_3820_icon
+    path: CLASS38
+    des_year: "2021"
+    source: 2
+    source_description: 熵減焓增活動排名獎勵
+  }
+  {
+    id: 39
+    name: 野獸之夜
+    description: 夜幕低垂，銀月溢滿，當你來到這屬於野獸的街區，歡快的音樂與大型遊樂設施的燈光迎接著你的到來，無需隱藏刻印著野性的血脈，與我們共舞吧！此處是野獸們的樂園，此刻是屬於毛皮與利爪的夜晚！
+    group_id: "81"
+    code: commander_3932_icon
+    bonus_plastic: "130012"
+    skill_id: 103
+    path: CLASS39
+    is_class: 1
+    des_year: "2021"
+    source: 1
+  }
+  {
+    id: 40
+    name: 願此刻永恆
+    description: 那一日的回憶，是我生命中永不褪色的樂章，那十指緊扣的溫存，是值得封存一生的寶藏。
+    group_id: "82"
+    code: commander_4032_icon
+    bonus_plastic: "130013"
+    skill_id: 101
+    path: CLASS40
+    is_class: 1
+    des_year: "2021"
+    source: 1
+  }
+  {
+    id: 41
+    name: 先驅者的意志
+    description: 無論歷史的車輪揚起怎樣的沙塵，終無法掩蓋他們的意志。
+    group_id: "83"
+    code: commander_4120_icon
+    path: CLASS41
+    des_year: "2021"
+    source: 2
+    source_description: 踏月尋秋簽到活動獎勵
+  }
+  {
+    id: 42
+    name: 鋼鐵獅鷲
+    description: 當機甲的轟鳴響徹天際，擋在無法戰鬥的人身前的，永遠是「獅鷲」的雙翼。
+    group_id: "84"
+    code: commander_4232_icon
+    bonus_plastic: "130014"
+    skill_id: 113
+    path: CLASS42
+    is_class: 1
+    des_year: "2021"
+    source: 1
+  }
+  {
+    id: 43
+    name: 藏在碧空的夢
+    description: 帶著承載了兒時夢想的玩具，那個迷醉於仰望天空的孩子踏入了這片一望無際的蒼藍之境。
+    group_id: "85"
+    code: commander_4310_icon
+    path: CLASS43
+    des_year: "2022"
+    source: 2
+    source_description: 靜風點活動排名獎勵
+  }
+  {
+    id: 44
+    name: 游騎獵兵
+    description: 戰爭的兵棋緩慢落下，而一架鋼鐵巨獸隨著洶湧尾焰騰空決起，在那萬里蒼穹中，沒人敢否認壯志凌雲的決鬥者們不可當做騎士。
+    group_id: "86"
+    code: commander_4432_icon
+    bonus_plastic: "130015"
+    skill_id: 115
+    path: CLASS44
+    is_class: 1
+    des_year: "2022"
+    source: 2
+    source_description: 拉弗伯雷兵棋扭蛋機獎勵
+  }
+  {
+    id: 45
+    name: 城際先鋒
+    description: 真正的商業精英往往帶著十足的派頭，他們的氣質中必須包括50%的精幹，和另外50%的嚴謹。
+    group_id: "87"
+    code: commander_4532_icon
+    bonus_plastic: "130016"
+    skill_id: 109
+    path: CLASS45
+    is_class: 1
+    des_year: "2022"
+    source: 1
+  }
+  {
+    id: 46
+    name: 醺夢邀請函
+    description: 帶上我，去赴一場夢中的宴會。夢醒時分，共同歡醉的人們仍陪在你的身邊。
+    group_id: "88"
+    code: commander_4640_icon
+    path: CLASS46
+    des_year: "2022"
+    source: 2
+    source_description: 六週年簽到活動獎勵
+  }
+  {
+    id: 47
+    name: 星域漫步
+    description: 漂泊在浩瀚宇宙，被繁密的群星凝視，除了供氧裝置的呼吸之聲，萬籟俱寂……我們將止步於此嗎？不，遠方一定還有未曾窺見的絕景，懷抱勇氣，向著未知——前進四！
+    group_id: "89"
+    code: commander_4732_icon
+    bonus_plastic: "130017"
+    skill_id: 101
+    path: CLASS47
+    is_class: 1
+    des_year: "2022"
+    source: 1
+  }
+  {
+    id: 48
+    name: 像素墨鏡
+    description: 當你立於人類巔峰之時，它便降臨，成為你加冕終極怪客的證明。
+    group_id: "90"
+    code: commander_4810_icon
+    path: CLASS48
+    des_year: "2022"
+    source: 2
+    source_description: 縱向應變活動排名獎勵
+  }
+  {
+    id: 49
+    name: 青春脈搏
+    description: 迎著晨間涼爽的微風，踏著斜照在大地的陽光，揮灑汗水，與朝露為伴。
+    group_id: "91"
+    code: commander_4932_icon
+    bonus_plastic: "130018"
+    skill_id: 105
+    path: CLASS49
+    is_class: 1
+    des_year: "2022"
+    source: 1
+  }
+  {
+    id: 50
+    name: 昭武英傑
+    description: 汗水滑落，肺中的空氣漸漸燥熱，每次出拳，都會把力量注入到血液之中……也許身體已經到達極限，但武學之道絕不會止步於此！賭上一切，只為攀登那更高更強的山峰！
+    group_id: "92"
+    code: commander_5031_icon
+    bonus_plastic: "130019"
+    skill_id: 104
+    path: CLASS50
+    is_class: 1
+    des_year: "2022"
+    source: 1
+  }
+  {
+    id: 51
+    name: 四海領主
+    description: 闖入隱秘的海灣，穿越凶險的風暴。在波濤中引吭高歌，與敵人刀兵相向——聽好了水手們，乾了這瓶朗姆酒，讓我們揚帆起錨，去尋找下一處寶藏！
+    group_id: "93"
+    code: commander_5132_icon
+    bonus_plastic: "130020"
+    skill_id: 107
+    path: CLASS51
+    is_class: 1
+    des_year: "2023"
+    source: 1
+  }
+  {
+    id: 99
+    name: 謊言面具
+    description: 埋藏我所思，塑化我所願
+    group_id: "60"
+    code: commander_9920_icon
+    path: EMOJI
+    des_year: "2019"
+    source: 2
+    source_description: 會伴隨壞運氣一起出現
+  }
+]

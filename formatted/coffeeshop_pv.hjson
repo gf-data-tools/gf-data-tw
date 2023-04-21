@@ -1,0 +1,128 @@
+[
+  {
+    id: "1"
+    title: 魔方行動
+    description: 魔方行動PV
+    cost: 506-1000
+    prize_id: "5001"
+  }
+  {
+    id: "2"
+    title: 失溫症
+    description: 失溫症PV
+    cost: 506-1000
+    prize_id: "5002"
+  }
+  {
+    id: "3"
+    title: 深層映射
+    description: 深層映射PV
+    cost: 506-1000
+    prize_id: "5003"
+  }
+  {
+    id: "4"
+    title: 塌縮點
+    description: 塌縮點PV
+    cost: 506-1000
+    prize_id: "5008"
+  }
+  {
+    id: "5"
+    title: 有序紊流
+    description: 2018年夏季活動PV
+    cost: 506-1000
+    prize_id: "5014"
+  }
+  {
+    id: "6"
+    title: 異構體
+    description: 2019年冬季活動PV
+    cost: 506-1000
+    prize_id: "5015"
+  }
+  {
+    id: "7"
+    title: 裂變鏈接
+    description: 2019年夏季活動PV
+    cost: 506-1000
+    prize_id: "5017"
+  }
+  {
+    id: "8"
+    title: 詭疫狂潮
+    description: 2019年萬聖活動PV
+    cost: 506-1000
+    prize_id: "5018"
+  }
+  {
+    id: "9"
+    title: 雪夜殺禮異想曲
+    description: 2019年聖誕活動PV
+    cost: 506-1000
+    prize_id: "5019"
+  }
+  {
+    id: "10"
+    title: 偏振光
+    description: 2020年冬季活動PV
+    cost: 506-1000
+    prize_id: "5020"
+  }
+  {
+    id: "11"
+    title: 照相館謎題
+    description: 2020白情活動PV
+    cost: 506-1000
+    prize_id: "5021"
+  }
+  {
+    id: "12"
+    title: 碧海秘聞
+    description: 2020年海灘活動PV
+    cost: 506-1000
+    prize_id: "5022"
+  }
+  {
+    id: "13"
+    title: 雙聯亂數
+    description: 2020年夏季活動PV
+    cost: 506-1000
+    prize_id: "5023"
+  }
+  {
+    id: "14"
+    title: 鏡像論-Protean
+    description: 2021年冬季活動PV-Protean
+    cost: 506-1000
+    prize_id: "5026"
+  }
+  {
+    id: "15"
+    title: 鏡像論-Decalcomanie
+    description: 2021年冬季活動PV-Decalcomanie
+    cost: 506-1000
+    prize_id: "5024"
+  }
+  {
+    id: "16"
+    title: 熵減焓增
+    description: 2021年夏季活動PV
+    cost: 506-1000
+    prize_id: "5025"
+  }
+  {
+    id: "17"
+    title: 靜風點
+    description: 2022年冬季活動視頻
+    cost: 506-1000
+    prize_id: "5027"
+  }
+  {
+    id: "18"
+    title: 縱向應變
+    description: 2022年夏季活動視頻
+    cost: 506-1000
+    prize_id: "5028"
+  }
+]

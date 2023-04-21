@@ -1,0 +1,137 @@
+[
+  {
+    id: -14
+    name: 格里芬
+    code: Org_Griffin
+    title: 格里芬
+    ai: 9999
+    org_id: "101"
+    org_introduction: 獅鷲每接近天空一尺，就需要部門間的配合更默契一分。
+  }
+  {
+    id: -13
+    name: 指揮官
+    code: Org_Commander
+    title: 指揮官
+    ai: 9999
+    org_id: "10101"
+    org_introduction: 年輕有為的獅鷲騎士，或許前行的道路上還有很多波折，但這位騎士的身邊絕不缺少幫手。
+  }
+  {
+    id: -12
+    name: 瑪荷洛
+    code: NPC_Maid
+    title: 瑪荷洛
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通關緊急11-4解鎖
+    mission_id: 114
+  }
+  {
+    id: -11
+    name: K
+    code: NPC_Jason
+    title: K
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通關緊急11-4解鎖
+    mission_id: 114
+    org_introduction: npc-39999989
+  }
+  {
+    id: -10
+    name: 安潔
+    code: NPC_Ange
+    title: 安潔
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通關普通10-1解鎖
+    mission_id: 95
+  }
+  {
+    id: -9
+    name: 哈維爾
+    code: NPC_Havel
+    title: 哈維爾
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通關普通9-2解鎖
+    mission_id: 86
+  }
+  {
+    id: -8
+    name: 希爾
+    code: NPC_Seele
+    title: 希爾
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通關 深層映射-認知迷雲I 解鎖
+    mission_id: 10030
+  }
+  {
+    id: -7
+    name: 德爾
+    code: NPC_Deele
+    title: 德爾
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通關 深層映射-認知迷雲I 解鎖
+    mission_id: 10030
+    org_introduction: npc-39999993
+  }
+  {
+    id: -6
+    name: 克魯格
+    code: NPC_Kryuger
+    title: 克魯格
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通關普通5-2解鎖
+    mission_id: 46
+  }
+  {
+    id: -5
+    name: 帕斯卡
+    code: NPC_Persica
+    title: 帕斯卡
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通關普通2-4解鎖
+    mission_id: 18
+  }
+  {
+    id: -4
+    name: 赫麗安
+    code: NPC_Helianthus
+    title: 赫麗安
+    ai: 9999
+    is_adjutant: 1
+    unlock_text: 通關普通1-2解鎖
+    mission_id: 6
+  }
+  {
+    id: -3
+    name: TGS
+    code: NPC_TGS0201
+    title: TGS
+    ai: 9999
+  }
+  {
+    id: -2
+    name: T77
+    code: T77
+    title: T77
+    ai: 9999
+    voice_code: T77
+  }
+  {
+    id: -1
+    name: 格琳娜
+    code: NPC_Kalina
+    title: 後勤官
+    ai: 9999
+    is_adjutant: 1
+    org_id: "108,10103"
+    org_introduction: 自詡從來沒有在交易上吃過虧的後勤官，但卻在領著一份薪水的情況下同時做著兩份工作。
+  }
+]
