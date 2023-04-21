@@ -1,6 +1,0 @@
-[
-  { "id": 0, "name": "全體", "description": "全體" }, { "id": 1, "name": "有甲", "description": "有甲" }, 
-  { "id": 2, "name": "無甲", "description": "無甲" }, { "id": 3, "name": "機械", "description": "機械" }, 
-  { "id": 4, "name": "人形", "description": "人形" }, { "id": 5, "name": "近戰", "description": "近戰" }, 
-  { "id": 6, "name": "遠程", "description": "遠程" }
-]
