@@ -2719,3 +2719,6 @@ manual_ui-30572042,查看技能
 manual_ui-10572043,指揮官
 manual_ui-20572043,對方選手
 manual_ui-30572043,查看技能
+manual_ui-10078001,我方梯隊
+manual_ui-20078001,箱子
+manual_ui-30078001,打開

@@ -15382,4 +15382,454 @@
     icon_code: 就是这个人
     condition: "11209"
   }
+  {
+    identity: 1041
+    type: map_capture
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 10
+    title: 著棋點
+    content: 在灰域探查中累計占領1個點位。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1042
+    type: map_capture
+    count: 10
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 20
+    title: 前沿陣地
+    content: 在灰域探查中累計占領10個點位。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1043
+    type: map_capture
+    count: 40
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 30
+    title: 未解領域
+    content: 在灰域探查中累計占領40個點位。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1044
+    type: map_capture
+    count: 100
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 60
+    title: 遞進攻勢
+    content: 在灰域探查中累計占領100個點位。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1045
+    type: map_capture
+    count: 200
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 200
+    title: 蠶食戰術
+    content: 在灰域探查中累計占領200個點位。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1046
+    type: map_capture
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 300
+    title: 圈地運動
+    content: 在灰域探查中累計占領500個點位。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1047
+    type: map_capture
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 600
+    title: 爆發式蔓延
+    content: 在灰域探查中累計占領1000個點位。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1048
+    type: map_capture
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 1000
+    title: 星羅棋布
+    content: 在灰域探查中累計占領2000個點位。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1049
+    type: map_capture
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 1300
+    title: 霧靄消散
+    content: 在灰域探查中累計占領5000個點位。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1050
+    type: map_capture
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 1600
+    title: 灰域破解
+    content: 在灰域探查中累計占領10000個點位。
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1051
+    type: daily_encounter
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 10
+    title: 休戰時刻
+    content: 在灰域探查中累計觸發1個事件點位。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1052
+    type: daily_encounter
+    count: 10
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 20
+    title: 暴風眼
+    content: 在灰域探查中累計觸發10個事件點位。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1053
+    type: daily_encounter
+    count: 20
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 30
+    title: 停火線
+    content: 在灰域探查中累計觸發20個事件點位。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1054
+    type: daily_encounter
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 60
+    title: 再見扳機
+    content: 在灰域探查中累計觸發50個事件點位。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1055
+    type: daily_encounter
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 200
+    title: 無人區
+    content: 在灰域探查中累計觸發100個事件點位。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1056
+    type: daily_encounter
+    count: 200
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 300
+    title: 夜與黎明
+    content: 在灰域探查中累計觸發200個事件點位。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1057
+    type: daily_encounter
+    count: 500
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 600
+    title: 塵埃之後
+    content: 在灰域探查中累計觸發500個事件點位。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1058
+    type: daily_encounter
+    count: 1000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 1000
+    title: 回望孤城
+    content: 在灰域探查中累計觸發1000個事件點位。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1059
+    type: daily_encounter
+    count: 2000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 1300
+    title: 靜謐世界
+    content: 在灰域探查中累計觸發2000個事件點位。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1060
+    type: daily_encounter
+    count: 5000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 1600
+    title: 前線無戰事
+    content: 在灰域探查中累計觸發5000個事件點位。
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1061
+    type: daily_game_bonus
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 10
+    title: 明天？意外？
+    content: 在灰域探查中累計觸發1個奇遇之地。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1062
+    type: daily_game_bonus
+    count: 2
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 20
+    title: 折射暗影
+    content: 在灰域探查中累計觸發2個奇遇之地。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1063
+    type: daily_game_bonus
+    count: 5
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 30
+    title: 水面之下
+    content: 在灰域探查中累計觸發5個奇遇之地。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1064
+    type: daily_game_bonus
+    count: 10
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 60
+    title: 門的另一面——
+    content: 在灰域探查中累計觸發10個奇遇之地。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1065
+    type: daily_game_bonus
+    count: 20
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 200
+    title: 雷暴來臨前
+    content: 在灰域探查中累計觸發20個奇遇之地。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1066
+    type: daily_game_bonus
+    count: 50
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 300
+    title: 荊棘叢中
+    content: 在灰域探查中累計觸發50個奇遇之地。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1067
+    type: daily_game_bonus
+    count: 100
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 600
+    title: 蟄伏密林之物
+    content: 在灰域探查中累計觸發100個奇遇之地。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1068
+    type: daily_game_bonus
+    count: 200
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 1000
+    title: 凝視深淵
+    content: 在灰域探查中累計觸發200個奇遇之地。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1069
+    type: daily_game_bonus
+    count: 500
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 1300
+    title: 混沌邊緣
+    content: 在灰域探查中累計觸發500個奇遇之地。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1070
+    type: daily_game_bonus
+    count: 1000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 1600
+    title: 徘徊永夜
+    content: 在灰域探查中累計觸發1000個奇遇之地。
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
 ]

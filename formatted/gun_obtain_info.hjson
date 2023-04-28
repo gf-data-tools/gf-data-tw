@@ -393,15 +393,15 @@
   }
   {
     obtain_id: "251"
-    description: gun_obtain-10000251
+    description: 限時活動【縱向應變】中救援獲得
   }
   {
     obtain_id: "252"
-    description: gun_obtain-10000252
+    description: 限時活動【縱向應變】通關獎勵
   }
   {
     obtain_id: "253"
-    description: gun_obtain-10000253
+    description: 限時活動【縱向應變】中打開物資箱獲得
   }
   {
     obtain_id: "254"
@@ -1121,7 +1121,7 @@
   }
   {
     obtain_id: "3079"
-    description: gun_obtain-10003079
+    description: <縱向應變>積分榜1280000積分獎勵
   }
   {
     obtain_id: "3080"
@@ -1186,5 +1186,10 @@
   {
     obtain_id: "3095"
     description: 限時活動<雪浪映花顏>全服應援獎勵
+  }
+  {
+    obtain_id: "3096"
+    description: 灰域探查獲取
+    goto_page_id: "384"
   }
 ]

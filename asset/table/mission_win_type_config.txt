@@ -922,3 +922,11 @@ mission_win_type_config-11126502,擊敗泡泡環繞的泡泡機//n<color=#CF8000
 mission_win_type_config-11126605,擊敗最深處的狂飆飛輪//n<color=#CF8000>完成該任務以直接勝利</color>
 mission_win_type_config-11092101,
 mission_win_type_config-11093301,
+mission_win_type_config-68000101,完成1個回合的探索//n<color=#CF8000>移動可以改變出生機場以外路徑點的顏色，結算時藍色的路徑點越多獲得的獎勵越多</color>
+mission_win_type_config-68000601,
+mission_win_type_config-68000602,
+mission_win_type_config-68000603,
+mission_win_type_config-68000604,
+mission_win_type_config-68000605,
+mission_win_type_config-68000501,打開任意一個箱子
+mission_win_type_config-68000502,

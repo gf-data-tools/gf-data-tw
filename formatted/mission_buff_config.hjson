@@ -733,6 +733,86 @@
     priority: 1
   }
   {
+    id: 70015
+    name: 【標記】加速
+    description: 行動力提升
+    code: ExtraAp
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    free_ap_move: 5
+    conflict_type: 70015
+  }
+  {
+    id: 70016
+    name: 【標記】自動作戰加速
+    description: 行動力提升
+    code: ExtraAp
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    free_ap_move: 5
+    conflict_type: 70016
+  }
+  {
+    id: 70021
+    name: 【標記】求救信號
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 70021
+    effect_duration: 70021
+  }
+  {
+    id: 70022
+    name: 【標記】火炮偵察中
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 70022
+    effect_duration: 70022
+  }
+  {
+    id: 78001
+    name: 單獨行動A
+    code: SpeedUp
+    type: 1
+    duration_type: "5"
+    duration_time: "3"
+    exp_buff: "1"
+    free_ap_move: 1
+    conflict_type: 78001
+    priority: 1
+  }
+  {
+    id: 78002
+    name: 單獨行動EX
+    code: SpeedUp
+    type: 1
+    duration_type: "5"
+    duration_time: "15"
+    exp_buff: "1"
+    free_ap_move: 1
+    conflict_type: 78002
+    priority: 1
+  }
+  {
+    id: 78003
+    name: 單獨行動EX
+    code: SpeedUp
+    type: 1
+    duration_type: "5"
+    duration_time: "16"
+    exp_buff: "1"
+    free_ap_move: 1
+    conflict_type: 78003
+    priority: 1
+  }
+  {
     id: 363001
     name: 攜帶炸藥
     description: 攜帶炸藥
@@ -5157,6 +5237,7 @@
     manual_ui_code: CarryBoomerIcon#EC4702
     conflict_type: 6540228
     carry_mission_skill: "6540120"
+    is_still_alive: 1
   }
   {
     id: 6540229
@@ -5463,6 +5544,15 @@
     exp_buff: "1"
     battle_skill_config_id: 119801
     conflict_type: 6560005
+  }
+  {
+    id: 7000001
+    name: 【標記】自動作戰標識
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 7000001
   }
   {
     id: 9100001

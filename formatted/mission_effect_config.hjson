@@ -232,6 +232,26 @@
     offset: "0,150"
   }
   {
+    id: 70021
+    name: 【標記】求救信號
+    code: M_buff04
+    description: Shocker！
+    priority: 5
+    size: 1.5
+    offset: "50,120;0,0"
+    is_focus: "1"
+  }
+  {
+    id: 70022
+    name: 【標記】火炮偵察中
+    code: M_buff01
+    description: 觀察中
+    priority: 5
+    size: 1.5
+    offset: "50,120;0,0"
+    is_focus: "1"
+  }
+  {
     id: 100861
     name: 空降飛機特效
     code: Heli
@@ -1268,7 +1288,7 @@
     delay: 0.5
     size: 2.5
     offset: "0,0"
-    is_focus: 1
+    is_focus: "1"
   }
   {
     id: 1000115
@@ -1280,7 +1300,7 @@
     delay: 0.5
     size: 3.0
     offset: "0,0"
-    is_focus: 1
+    is_focus: "1"
   }
   {
     id: 1000116
@@ -1292,7 +1312,7 @@
     delay: 0.5
     size: 2.5
     offset: "0,80"
-    is_focus: 1
+    is_focus: "1"
   }
   {
     id: 1000117
@@ -1334,7 +1354,7 @@
     delay: 1.5
     size: 2.5
     offset: "0,0"
-    is_focus: 1
+    is_focus: "1"
   }
   {
     id: 1000121
@@ -1346,7 +1366,7 @@
     delay: 1.5
     size: 3.0
     offset: "0,0"
-    is_focus: 1
+    is_focus: "1"
   }
   {
     id: 1000122
@@ -1358,7 +1378,7 @@
     delay: 1.5
     size: 2.5
     offset: "0,80"
-    is_focus: 1
+    is_focus: "1"
   }
   {
     id: 1000123
@@ -1550,6 +1570,15 @@
     description: mission_effect_config-21000140
     duration: 1.5
     size: 1.0
+    offset: "0,0"
+  }
+  {
+    id: 1000141
+    name: 星星
+    code: BlueCA
+    description: 星星
+    duration: 1.0
+    size: 0.5
     offset: "0,0"
   }
   {

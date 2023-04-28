@@ -769,4 +769,10 @@
     content: 累計進行妖精重型製造{0}次
     function_control_id: 1
   }
+  {
+    id: 132
+    type: map_capture
+    title: 累計探查點位
+    content: 在灰域探查中累計占領{0}個點位
+  }
 ]

@@ -1,0 +1,737 @@
+[
+  {
+    id: 101
+    tag: 前排
+    tag_type: 1
+    description: 該人形生存能力較強，編成時適合放置在隊伍前排。
+    is_show: 1
+  }
+  {
+    id: 102
+    tag: 後排
+    tag_type: 1
+    description: 該人形生存能力較弱，編成時適合放置在隊伍後排。
+    is_show: 1
+  }
+  {
+    id: 103
+    tag: 優秀輔助
+    tag_type: 1
+    description: 該人形可以有效提升我方梯隊的輸出和生存能力。
+    is_show: 1
+  }
+  {
+    id: 104
+    tag: 照明
+    tag_type: 1
+    description: 該人形可以提升我方梯隊夜視能力。
+    is_show: 1
+  }
+  {
+    id: 105
+    tag: 擲彈
+    tag_type: 1
+    description: 該人形可以使用投擲武器。
+    is_show: 1
+  }
+  {
+    id: 106
+    tag: 夜戰特化
+    tag_type: 1
+    description: 該人形的技能在夜間作戰時能獲得強化。
+    is_show: 1
+  }
+  {
+    id: 107
+    tag: 集火
+    tag_type: 1
+    description: 該人形可以指定目標被我方梯隊一起攻擊。
+    is_show: 1
+  }
+  {
+    id: 108
+    tag: 屬性強化
+    tag_type: 1
+    description: 該人形擁有強化自身屬性的技能。
+    is_show: 1
+  }
+  {
+    id: 109
+    tag: 多體殺傷
+    tag_type: 1
+    description: 該人形普攻或技能會對多個敵方單位造成有效傷害。
+    is_show: 1
+  }
+  {
+    id: 110
+    tag: 眩暈
+    tag_type: 1
+    description: 該人形的技能可以對敵方單位造成眩暈。
+    is_show: 1
+  }
+  {
+    id: 111
+    tag: 加速
+    tag_type: 1
+    description: 該人形可以提升我方梯隊的移動速度。
+    is_show: 1
+  }
+  {
+    id: 112
+    tag: 隊長
+    tag_type: 1
+    description: 該人形作為隊長時技能會有不同的效果。
+    is_show: 1
+  }
+  {
+    id: 113
+    tag: 護盾
+    tag_type: 1
+    description: 該人形可以為我方梯隊提供護盾。
+    is_show: 1
+  }
+  {
+    id: 114
+    tag: 穿盾
+    tag_type: 1
+    description: 該人形普攻或技能可以穿透敵方單位的護盾造成有效傷害。
+    is_show: 1
+  }
+  {
+    id: 115
+    tag: 護甲穿透
+    tag_type: 1
+    description: 該人形可以通過攜帶穿甲裝備有效針對裝甲類型的敵方單位。
+    is_show: 1
+  }
+  {
+    id: 116
+    tag: 王牌肉盾
+    tag_type: 1
+    description: 該人形生存能力較強，在戰鬥中能夠吸收成噸傷害。
+    is_show: 1
+  }
+  {
+    id: 117
+    tag: 單體重傷
+    tag_type: 1
+    description: 該人形普攻或技能會對單體敵方單位造成大量傷害。
+    is_show: 1
+  }
+  {
+    id: 118
+    tag: 強力輸出
+    tag_type: 1
+    description: 該人形輸出較高，在戰鬥中能夠造成大量傷害。
+    is_show: 1
+  }
+  {
+    id: 119
+    tag: 專屬裝備
+    tag_type: 1
+    description: 該人形擁有強力的專屬裝備，可以極大提升作戰能力。
+    is_show: 1
+  }
+  {
+    id: 120
+    tag: 免疫傷害
+    tag_type: 1
+    description: 該人形的技能會使自身短時間內免疫傷害。
+    is_show: 1
+  }
+  {
+    id: 121
+    tag: 範圍傷害
+    tag_type: 1
+    description: 該人形普攻或技能會一定範圍內的所有編製敵方單位造成傷害。
+    is_show: 1
+  }
+  {
+    id: 122
+    tag: 高迴避
+    tag_type: 1
+    description: 該人形迴避數值優秀，可以有效躲避敵方單位的攻擊。
+    is_show: 1
+  }
+  {
+    id: 123
+    tag: 單體壓製
+    tag_type: 1
+    description: 該人形會對單體敵方單位造成較強減益效果。
+    is_show: 1
+  }
+  {
+    id: 124
+    tag: 減益
+    tag_type: 1
+    description: 該人形對自身會有減益效果，需要注意使用。
+    is_show: 1
+  }
+  {
+    id: 125
+    tag: 模式切換
+    tag_type: 1
+    description: 該人形可以切換技能模式，可以應對不同的戰鬥需求。
+    is_show: 1
+  }
+  {
+    id: 126
+    tag: 支援
+    tag_type: 1
+    description: 該人形能夠召出新單位增援入場輔助作戰。
+    is_show: 1
+  }
+  {
+    id: 127
+    tag: 低血特攻
+    tag_type: 1
+    description: 該人形普攻或技能對低血量的敵方單位有更強的效果。
+    is_show: 1
+  }
+  {
+    id: 128
+    tag: 低星輔助
+    tag_type: 1
+    description: 該人形可以有效提升我方低星人形的輸出和生存能力。
+    is_show: 1
+  }
+  {
+    id: 129
+    tag: 傷害減免
+    tag_type: 1
+    description: 該人形擁有可以減免自身傷害的技能。
+    is_show: 1
+  }
+  {
+    id: 130
+    tag: 淨化
+    tag_type: 1
+    description: 該人形可以清除自身或者我方梯隊減益效果。
+    is_show: 1
+  }
+  {
+    id: 131
+    tag: 急速
+    tag_type: 1
+    description: 該人形可以縮減自身或者我方梯隊的技能冷卻時間。
+    is_show: 1
+  }
+  {
+    id: 132
+    tag: 嘲諷
+    tag_type: 1
+    description: 該人形擁有被敵方單位優先集火的能力。
+    is_show: 1
+  }
+  {
+    id: 133
+    tag: 充能
+    tag_type: 1
+    description: 該人形的技能擁有充能點數，可以存儲或消耗充能點數。
+    is_show: 1
+  }
+  {
+    id: 134
+    tag: 同心技
+    tag_type: 1
+    description: 該人形擁有同心技，可以極大提升作戰能力。
+    is_show: 1
+  }
+  {
+    id: 135
+    tag: 專屬套裝
+    tag_type: 1
+    description: 該人形擁有專屬套裝，可以極大提升作戰能力。
+    is_show: 1
+  }
+  {
+    id: 136
+    tag: 連戰
+    tag_type: 1
+    description: 該人形連續作戰能獲得更強的戰鬥能力。
+    is_show: 1
+  }
+  {
+    id: 137
+    tag: 占領點
+    tag_type: 1
+    description: 該人形的技能在占領點位時會有不同的效果。
+    is_show: 1
+  }
+  {
+    id: 138
+    tag: 蓄力狙擊
+    tag_type: 1
+    description: 該人形可以在蓄力後對敵方單位造成強大的傷害。
+    is_show: 1
+  }
+  {
+    id: 139
+    tag: 單體重傷EX
+    tag_type: 1
+    description: 該人形普攻或技能會對單體敵方單位造成極大的傷害。
+    is_show: 1
+  }
+  {
+    id: 140
+    tag: 位移
+    tag_type: 1
+    description: 該人形的技能會改變單體敵方單位的位置。
+    is_show: 1
+  }
+  {
+    id: 141
+    tag: 麻痺
+    tag_type: 1
+    description: 該人形可以使敵方單位無法移動和攻擊。
+    is_show: 1
+  }
+  {
+    id: 142
+    tag: 短路
+    tag_type: 1
+    description: 該人形可以使敵方單位每秒受到固定傷害。
+    is_show: 1
+  }
+  {
+    id: 143
+    tag: 前排殺傷
+    tag_type: 1
+    description: 該人形普攻或技能可以優先攻擊距離最近的敵方後排單位。
+    is_show: 1
+  }
+  {
+    id: 144
+    tag: 貫通
+    tag_type: 1
+    description: 該人形的技能可以對一條直線的敵方單位造成傷害。
+    is_show: 1
+  }
+  {
+    id: 145
+    tag: 清除增益
+    tag_type: 1
+    description: 該人形可以清除敵方單位的增益效果。
+    is_show: 1
+  }
+  {
+    id: 146
+    tag: 有甲特攻
+    tag_type: 1
+    description: 該人形普攻或技能對有護甲的敵方單位有更強的效果。
+    is_show: 1
+  }
+  {
+    id: 147
+    tag: 無甲特攻
+    tag_type: 1
+    description: 該人形普攻或技能對沒有護甲的敵方單位有更強的效果。
+    is_show: 1
+  }
+  {
+    id: 148
+    tag: 低編特攻
+    tag_type: 1
+    description: 該人形普攻或技能對低編製的敵方單位有更強的效果。
+    is_show: 1
+  }
+  {
+    id: 149
+    tag: 貫穿
+    tag_type: 1
+    description: 該人形的技能可以對一條直線的敵方單位造成傷害。
+    is_show: 1
+  }
+  {
+    id: 150
+    tag: 獵殺
+    tag_type: 1
+    description: 該人形擁有可以連續擊殺敵方單位的技能。
+    is_show: 1
+  }
+  {
+    id: 151
+    tag: 狙殺
+    tag_type: 1
+    description: 該人形擁有造成致命類傷害的技能。
+    is_show: 1
+  }
+  {
+    id: 152
+    tag: 護甲
+    tag_type: 1
+    description: 該人形可以通過攜帶裝備或自身擁有護甲。
+    is_show: 1
+  }
+  {
+    id: 153
+    tag: 榴彈
+    tag_type: 1
+    description: 該人形可以發射榴彈。
+    is_show: 1
+  }
+  {
+    id: 154
+    tag: 後排殺傷
+    tag_type: 1
+    description: 該人形普攻或技能可以優先攻擊距離最遠的敵方後排單位。
+    is_show: 1
+  }
+  {
+    id: 155
+    tag: AK輔助
+    tag_type: 1
+    description: 該人形可以有效提升我方「AK」人形的輸出和生存能力。
+    is_show: 1
+  }
+  {
+    id: 156
+    tag: 沉默
+    tag_type: 1
+    description: 該人形可以使敵方單位的技能無效化。
+    is_show: 1
+  }
+  {
+    id: 157
+    tag: 忤逆
+    tag_type: 1
+    description: 我方梯隊擁有忤逆隊員時會有額外的技能效果。
+    is_show: 1
+  }
+  {
+    id: 158
+    tag: 背水
+    tag_type: 1
+    description: 該人形當前血量越低，普攻或技能對敵方單位的傷害越高。
+    is_show: 1
+  }
+  {
+    id: 159
+    tag: 護甲穿透EX
+    tag_type: 1
+    description: 該人形可以通過攜帶特殊穿甲裝備有效針對重甲類型的敵方單位。
+    is_show: 1
+  }
+  {
+    id: 160
+    tag: 換彈增益
+    tag_type: 1
+    description: 該人形在換彈時對自身或者我方梯隊會有額外的技能效果。
+    is_show: 1
+  }
+  {
+    id: 161
+    tag: 擊退
+    tag_type: 1
+    description: 該人形普攻或技能可以擊退敵方單位。
+    is_show: 1
+  }
+  {
+    id: 162
+    tag: 保護後排
+    tag_type: 1
+    description: 該人形可以有效保護我方後排單位。
+    is_show: 1
+  }
+  {
+    id: 163
+    tag: 擊退EX
+    tag_type: 1
+    description: 該人形普攻或技能可以強力擊退敵方單位。
+    is_show: 1
+  }
+  {
+    id: 164
+    tag: 致命擊殺
+    tag_type: 1
+    description: 該人形擁有造成致命類傷害的技能。
+    is_show: 1
+  }
+  {
+    id: 165
+    tag: 越戰越勇
+    tag_type: 1
+    description: 該人形長線作戰時能有更好的發揮。
+    is_show: 1
+  }
+  {
+    id: 166
+    tag: gun_tag-10000166
+    tag_type: 1
+    description: gun_tag-20000166
+    is_show: 1
+  }
+  {
+    id: 10101
+    tag: 輸出輔助
+    tag_type: 1
+    description: 該人形可以有效提升我方梯隊的輸出能力。
+    is_show: 1
+  }
+  {
+    id: 10102
+    tag: 生存輔助
+    tag_type: 1
+    description: 該人形可以有效提升我方梯隊的生存能力。
+    is_show: 1
+  }
+  {
+    id: 10103
+    tag: 強力輸出
+    tag_type: 1
+    description: 該人形輸出較高，在戰鬥中能夠造成大量傷害。
+    is_show: 1
+  }
+  {
+    id: 10104
+    tag: 王牌肉盾
+    tag_type: 1
+    description: 該人形生存能力較強，在戰鬥中能夠吸收成噸傷害。
+    is_show: 1
+  }
+  {
+    id: 10105
+    tag: 優秀輔助
+    tag_type: 1
+    description: 該人形可以有效提升隊友的生存和輸出能力。
+    is_show: 1
+  }
+  {
+    id: 10106
+    tag: 護甲穿透
+    tag_type: 1
+    description: 該人形可以通過攜帶穿甲裝備有效針對裝甲類型的敵方單位。
+    is_show: 1
+  }
+  {
+    id: 10107
+    tag: 夜間作戰
+    tag_type: 1
+    description: 該人形可以裝備夜視儀提高夜戰中的命中。
+    is_show: 1
+  }
+  {
+    id: 10108
+    tag: 高迴避
+    tag_type: 1
+    description: 該人形迴避數值優秀，可以有效躲避敵方單位的攻擊。
+    is_show: 1
+  }
+  {
+    id: 10109
+    tag: 高護甲
+    tag_type: 1
+    description: 該人形護甲數值優秀，可以有效抵禦敵方單位的非穿甲類傷害。
+    is_show: 1
+  }
+  {
+    id: 10110
+    tag: 高傷害
+    tag_type: 1
+    description: 該人形傷害數值優秀，可以對敵方單位造成可觀的單發傷害。
+    is_show: 1
+  }
+  {
+    id: 10111
+    tag: 高射速
+    tag_type: 1
+    description: 該人形射速數值優秀，可以快速對敵方單位造成多次傷害。
+    is_show: 1
+  }
+  {
+    id: 10112
+    tag: 高生命
+    tag_type: 1
+    description: 該人形生命數值優秀，可以承受更多的傷害。
+    is_show: 1
+  }
+  {
+    id: 10113
+    tag: 高暴擊率
+    tag_type: 1
+    description: 該人形暴擊率數值優秀，有更高概率對敵方單位造成暴擊傷害。
+    is_show: 1
+  }
+  {
+    id: 10114
+    tag: 高移速
+    tag_type: 1
+    description: 該人形在戰鬥中移動速度較快，易於躲避帶有預警的敵方技能。
+    is_show: 1
+  }
+  {
+    id: 10115
+    tag: 低移速
+    tag_type: 1
+    description: 該人形在戰鬥中移動速度較慢，難以躲避帶有預警的敵方技能。
+    is_show: 1
+  }
+  {
+    id: 10116
+    tag: 強力光環
+    tag_type: 1
+    description: 該人形的影響格效果出色，可以為隊友提供更多的支持。
+    is_show: 1
+  }
+  {
+    id: 10117
+    tag: 專屬裝備
+    tag_type: 1
+    description: 該人形擁有強力的專屬裝備，可以極大提升作戰能力。
+    is_show: 1
+  }
+  {
+    id: 10118
+    tag: 瞬時爆發
+    tag_type: 1
+    description: 開啟技能後可以在短時間內對敵方單位會產生大量傷害。
+    is_show: 1
+  }
+  {
+    id: 10119
+    tag: 持續輸出
+    tag_type: 1
+    description: 開啟技能後可以在較長時間內提供可觀輸出。
+    is_show: 1
+  }
+  {
+    id: 10120
+    tag: 單體重傷
+    tag_type: 1
+    description: 普攻或技能會對單體敵方單位造成大量傷害。
+    is_show: 1
+  }
+  {
+    id: 10121
+    tag: 多體殺傷
+    tag_type: 1
+    description: 普攻或技能會對多個敵方單位造成有效傷害。
+    is_show: 1
+  }
+  {
+    id: 10122
+    tag: 範圍傷害
+    tag_type: 1
+    description: 普攻或技能會一定範圍內的所有編製敵方單位造成傷害。
+    is_show: 1
+  }
+  {
+    id: 10123
+    tag: 免疫傷害
+    tag_type: 1
+    description: 該人形的技能會使自身短時間內免疫傷害。
+    is_show: 1
+  }
+  {
+    id: 10124
+    tag: 眩暈
+    tag_type: 1
+    description: 該人形的技能可以對敵方單位造成眩暈。
+    is_show: 1
+  }
+  {
+    id: 10125
+    tag: 貫通
+    tag_type: 1
+    description: 該人形的技能可以對一條直線的敵方單位造成傷害。
+    is_show: 1
+  }
+  {
+    id: 10126
+    tag: 擊退
+    tag_type: 1
+    description: 普攻或技能可以擊退敵方單位。
+    is_show: 1
+  }
+  {
+    id: 10127
+    tag: 後排殺傷
+    tag_type: 1
+    description: 普攻或技能可以優先攻擊距離最遠的敵方後排單位。
+    is_show: 1
+  }
+  {
+    id: 10128
+    tag: 提升傷害
+    tag_type: 1
+    description: 該人形可以提升我方傷害。
+    is_show: 1
+  }
+  {
+    id: 10129
+    tag: 提升迴避
+    tag_type: 1
+    description: 該人形可以提升我方迴避。
+    is_show: 1
+  }
+  {
+    id: 10130
+    tag: 提升命中
+    tag_type: 1
+    description: 該人形可以提升我方命中。
+    is_show: 1
+  }
+  {
+    id: 10131
+    tag: 提升射速
+    tag_type: 1
+    description: 該人形可以提升我方射速。
+    is_show: 1
+  }
+  {
+    id: 10132
+    tag: 提升暴率
+    tag_type: 1
+    description: 該人形可以提升我方暴擊率。
+    is_show: 1
+  }
+  {
+    id: 10133
+    tag: 弱化傷害
+    tag_type: 1
+    description: 該人形可以弱化敵方傷害。
+    is_show: 1
+  }
+  {
+    id: 10134
+    tag: 弱化迴避
+    tag_type: 1
+    description: 該人形可以弱化敵方迴避。
+    is_show: 1
+  }
+  {
+    id: 10135
+    tag: 弱化命中
+    tag_type: 1
+    description: 該人形可以弱化敵方命中。
+    is_show: 1
+  }
+  {
+    id: 10136
+    tag: 弱化射速
+    tag_type: 1
+    description: 該人形可以弱化敵方射速。
+    is_show: 1
+  }
+  {
+    id: 10137
+    tag: 夜戰特化
+    tag_type: 1
+    description: 該人形擁有強力的夜戰技能，可以在夜戰中發揮更強的作戰能力。
+    is_show: 1
+  }
+  {
+    id: 10138
+    tag: 傷害加深
+    tag_type: 1
+    description: 該人形的技能可以使敵方單位短時間內所受傷害提升。
+    is_show: 1
+  }
+  {
+    id: 10139
+    tag: 近戰衝鋒
+    tag_type: 1
+    description: 該單位適合衝鋒陷陣。
+    is_show: 1
+  }
+]

@@ -6,6 +6,8 @@
     code: EgroupVec
     equip_unit: "199,200,201"
     group_skill: 2:992050,3:992051
+    fit_gun: "1028"
+    is_addition: 1
   }
   {
     id: 2
@@ -14,5 +16,25 @@
     code: EgroupHk416
     equip_unit: "202,203,204"
     group_skill: 2:992052,3:992053
+    fit_gun: "1029"
+    is_addition: 1
+  }
+  {
+    id: 3
+    name: Хорошо
+    des: 擁有完整套裝的莫辛-納甘可以最大限度發揮出自身的戰鬥素質，一切都會沒問題的。
+    code: EgroupM1891
+    equip_unit: "337,111,86"
+    group_skill: 2:778217,3:759100
+    fit_gun: "20039"
+  }
+  {
+    id: 4
+    name: 16LAB訂製「AR15」
+    des: 使用了全套16LAB特殊裝備的ST AR-15得到了極強的作戰能力加成，副武器的使用也會更加得心應手。
+    code: EgroupAR15
+    equip_unit: "100,338,60"
+    group_skill: 2:778217,3:759094
+    fit_gun: "20057"
   }
 ]

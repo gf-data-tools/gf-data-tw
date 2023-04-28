@@ -1,0 +1,44 @@
+[
+  {
+    id: 1
+    item: 1600050
+    name: "1"
+    first_info: OTS-14紫雨心
+    first_count: 全服5個
+    first_code: 3.png
+    second_info: 黏土人
+    second_count: 全服1000個
+    second_code: 4.png
+    third_info: 鑰匙扣
+    third_count: 全服4000個
+    third_code: 5.png
+  }
+  {
+    id: 2
+    item: 1600050
+    name: "2"
+    first_info: OTS-14紫雨心1
+    first_count: 全服5個
+    first_code: 3.png
+    second_info: 黏土人1
+    second_count: 全服1000個
+    second_code: 4.png
+    third_info: 鑰匙扣1
+    third_count: 全服4000個
+    third_code: 5.png
+  }
+  {
+    id: 3
+    item: 1600050
+    name: "3"
+    first_info: OTS-14紫雨心2
+    first_count: 全服5個
+    first_code: 3.png
+    second_info: 黏土人2
+    second_count: 全服1000個
+    second_code: 4.png
+    third_info: 鑰匙扣2
+    third_count: 全服4000個
+    third_code: 5.png
+  }
+]

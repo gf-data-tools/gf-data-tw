@@ -320,3 +320,9 @@ mission_effect_config-11000138,4000分
 mission_effect_config-21000138,4000分
 mission_effect_config-11000139,延遲
 mission_effect_config-21000139,延遲
+mission_effect_config-10070021,【標記】求救信號
+mission_effect_config-20070021,Shocker！
+mission_effect_config-10070022,【標記】火炮偵察中
+mission_effect_config-20070022,觀察中
+mission_effect_config-11000141,星星
+mission_effect_config-21000141,星星

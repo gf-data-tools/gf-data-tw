@@ -130,4 +130,42 @@
     name: 強化練習
     carnival_goto_page_id: 357
   }
+  {
+    id: 26
+    name: 往事回憶：逐星行動
+    fetter_story_id: 3
+  }
+  {
+    id: 27
+    name: 往事回憶：你的微笑
+    fetter_story_id: 4
+  }
+  {
+    id: 28
+    name: 獲取人形：MPK
+  }
+  {
+    id: 29
+    name: 獲取人形：MPL
+  }
+  {
+    id: 30
+    name: 獲取人形：SCAR-L
+    carnival_goto_page_id: 25
+  }
+  {
+    id: 31
+    name: 獲取人形：SCAR-H
+    carnival_goto_page_id: 25
+  }
+  {
+    id: 32
+    name: 解鎖重裝
+    function_control_id: 15
+  }
+  {
+    id: 33
+    name: 灰域探查
+    carnival_goto_page_id: 385
+  }
 ]

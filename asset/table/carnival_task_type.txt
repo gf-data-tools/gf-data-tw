@@ -260,3 +260,5 @@ carnival_task_type-10000130,勢能消耗（包括超導勢能）
 carnival_task_type-20000130,累計消耗勢能{0}個
 carnival_task_type-10000131,妖精重型製造
 carnival_task_type-20000131,累計進行妖精重型製造{0}次
+carnival_task_type-10000132,累計探查點位
+carnival_task_type-20000132,在灰域探查中累計占領{0}個點位

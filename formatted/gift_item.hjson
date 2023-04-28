@@ -11,6 +11,7 @@
     code: gift_bundle_halloween_PM
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2
@@ -24,6 +25,7 @@
     code: gift_bundle_halloween_VECTOR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3
@@ -37,6 +39,7 @@
     code: gift_bundle_halloween_MP5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4
@@ -50,6 +53,7 @@
     code: gift_bundle_halloween_M45
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5
@@ -63,6 +67,7 @@
     code: gift_bundle_halloween_M1903
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6
@@ -76,6 +81,7 @@
     code: gift_bundle_halloween_WA2000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7
@@ -89,6 +95,7 @@
     code: gift_bundle_halloween_M1919A4
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8
@@ -102,10 +109,11 @@
     code: gift_bundle_halloween_MK23
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 9
-    name: G11-僵屍家裡蹲
+    name: G11-殭屍家裡蹲
     type: 2
     rank: 6
     favor: 50000
@@ -115,6 +123,7 @@
     code: gift_bundle_halloween_G11
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 10
@@ -128,6 +137,7 @@
     code: gift_bundle_nichijou_MLEMK1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 11
@@ -141,6 +151,7 @@
     code: gift_bundle_halloween_64type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 101
@@ -154,6 +165,7 @@
     code: gift_bundle_nichijou_Microuzi
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 102
@@ -167,6 +179,7 @@
     code: gift_bundle_nichijou_M1918
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 103
@@ -180,6 +193,7 @@
     code: gift_bundle_nichijou_MP466
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 104
@@ -193,6 +207,7 @@
     code: gift_bundle_nichijou_64type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 105
@@ -206,6 +221,7 @@
     code: gift_bundle_nichijou_Grizzly
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 106
@@ -219,6 +235,137 @@
     code: gift_bundle_nichijou_M1919A4
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 201
+    name: 格琳娜-青春弧光
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 201
+    code: gift_bundle_kalina_201
+    bonus_description: 可解鎖格琳娜換裝
+    description: 在宿舍內贈送給對應NPC，可以解鎖裝扮
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 202
+    name: 格琳娜-自由街頭
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 202
+    code: gift_bundle_kalina_202
+    bonus_description: 可解鎖格琳娜換裝
+    description: 在宿舍內贈送給對應NPC，可以解鎖裝扮
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 203
+    name: 格琳娜-搖滾扳手
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 203
+    code: gift_bundle_kalina_203
+    bonus_description: 可解鎖格琳娜換裝
+    description: 在宿舍內贈送給對應NPC，可以解鎖裝扮
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 204
+    name: 格琳娜-格里芬制服
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 204
+    code: gift_bundle_kalina_204
+    bonus_description: 可解鎖格琳娜換裝
+    description: 在宿舍內贈送給對應NPC，可以解鎖裝扮
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 205
+    name: 格琳娜-鑽石與煙花
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 205
+    code: gift_bundle_kalina_205
+    bonus_description: 可解鎖格琳娜換裝
+    description: 在宿舍內贈送給對應NPC，可以解鎖裝扮
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 206
+    name: 格琳娜-冬幕派對
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 206
+    code: gift_bundle_kalina_206
+    bonus_description: 可解鎖格琳娜換裝
+    description: 在宿舍內贈送給對應NPC，可以解鎖裝扮
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 207
+    name: 格琳娜-黑貓小姐
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 207
+    code: gift_bundle_kalina_207
+    bonus_description: 可解鎖格琳娜換裝
+    description: 在宿舍內贈送給對應NPC，可以解鎖裝扮
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 208
+    name: 格琳娜-戀人絮語
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 208
+    code: gift_bundle_kalina_208
+    bonus_description: 可解鎖格琳娜換裝
+    description: 在宿舍內贈送給對應NPC，可以解鎖裝扮
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 209
+    name: 格琳娜-夏夜攝夢
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 209
+    code: gift_bundle_kalina_209
+    bonus_description: 可解鎖格琳娜換裝
+    description: 在宿舍內贈送給對應NPC，可以解鎖裝扮
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 210
+    name: 帕斯卡-C12H22O11
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -5
+    skin: 210
+    code: gift_bundle_Persica_210
+    bonus_description: 可解鎖帕斯卡換裝
+    description: 在宿舍內贈送給對應NPC，可以解鎖裝扮
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 301
@@ -232,6 +379,7 @@
     code: gift_bundle_xmas_M1873
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 302
@@ -245,6 +393,7 @@
     code: gift_bundle_xmas_M1903
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 303
@@ -258,6 +407,7 @@
     code: gift_bundle_xmas_M14
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 304
@@ -271,6 +421,7 @@
     code: gift_bundle_xmas_M21
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 305
@@ -284,6 +435,7 @@
     code: gift_bundle_xmas_SVD
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 306
@@ -297,6 +449,7 @@
     code: gift_bundle_xmas_WA2000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 307
@@ -310,6 +463,7 @@
     code: gift_bundle_xmas_NTW20
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 308
@@ -323,6 +477,7 @@
     code: gift_bundle_xmas_FNFAL
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 309
@@ -336,6 +491,7 @@
     code: gift_bundle_xmas_MG5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 310
@@ -349,6 +505,7 @@
     code: gift_bundle_xmas_KP31
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 401
@@ -362,6 +519,7 @@
     code: gift_bundle_spring_561type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 402
@@ -375,6 +533,7 @@
     code: gift_bundle_spring_mp446
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 403
@@ -388,6 +547,7 @@
     code: gift_bundle_spring_nz75
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 404
@@ -401,6 +561,7 @@
     code: gift_bundle_spring_m99
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 405
@@ -414,6 +575,7 @@
     code: gift_bundle_spring_95type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 406
@@ -427,6 +589,7 @@
     code: gift_bundle_spring_97type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 407
@@ -440,6 +603,7 @@
     code: gift_bundle_spring_59type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 408
@@ -453,10 +617,11 @@
     code: gift_bundle_spring_ptrd
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 409
-    name: UMP9-"我來晚了?"
+    name: UMP9-「我來晚了?」
     type: 2
     rank: 6
     favor: 50000
@@ -466,10 +631,11 @@
     code: gift_bundle_spring_ump9
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 410
-    name: UMP45-"下不為例。"
+    name: UMP45-「下不為例。」
     type: 2
     rank: 6
     favor: 50000
@@ -479,6 +645,7 @@
     code: gift_bundle_spring_ump45
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 411
@@ -492,6 +659,7 @@
     code: gift_bundle_spring_welrod
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 501
@@ -505,6 +673,7 @@
     code: gift_bundle_golden_ak47
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 502
@@ -518,6 +687,7 @@
     code: gift_bundle_maid_sv98
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 503
@@ -531,10 +701,11 @@
     code: gift_bundle_bb_myu12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 504
-    name: 愛爾菲特-馬格南婚禮
+    name: 艾爾菲爾特-馬格南婚禮
     type: 2
     rank: 6
     favor: 50000
@@ -544,10 +715,11 @@
     code: gift_bundle_gg_dress_elphelt
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 505
-    name: 愛爾菲特-人偶殲滅者
+    name: 艾爾菲爾特-人偶殲滅者
     type: 2
     rank: 6
     favor: 50000
@@ -557,6 +729,7 @@
     code: gift_bundle_gg_blood_elphelt
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 506
@@ -570,6 +743,7 @@
     code: gift_bundle_GGSD_Kiana
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 507
@@ -583,6 +757,7 @@
     code: gift_bundle_GGSD_Bronya
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 508
@@ -596,6 +771,7 @@
     code: gift_bundle_GGSD_Seele
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 509
@@ -609,6 +785,7 @@
     code: gift_bundle_djmax_clear
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 510
@@ -622,6 +799,7 @@
     code: gift_bundle_djmax_fail
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 521
@@ -635,6 +813,7 @@
     code: gift_bundle_Pizex19_UMP45
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 522
@@ -648,6 +827,7 @@
     code: gift_bundle_sdjver2_SPAS12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 523
@@ -661,6 +841,7 @@
     code: gift_bundle_comics10_GSH18
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 524
@@ -674,10 +855,11 @@
     code: gift_bundle_sbld19_Stella
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 525
-    name: 桃樂絲·海茲-珍稀聖誕禮服
+    name: 多蘿西·海茲-珍稀聖誕禮服
     type: 2
     rank: 6
     favor: 50000
@@ -687,10 +869,11 @@
     code: gift_bundle_sbld19_Dorothy
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 526
-    name: 戴娜·贊恩-赤色彗星
+    name: 達娜·贊恩-赤色彗星
     type: 2
     rank: 6
     favor: 50000
@@ -700,6 +883,7 @@
     code: gift_bundle_sbld19_Dana
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 527
@@ -713,6 +897,7 @@
     code: gift_bundle_sbld19_SEI
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 528
@@ -726,10 +911,11 @@
     code: gift_bundle_sbld19_Alma
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 529
-    name: 吉兒·斯汀雷-模特戰士
+    name: 吉爾·斯汀雷-模特戰士
     type: 2
     rank: 6
     favor: 50000
@@ -739,6 +925,7 @@
     code: gift_bundle_sbld19_Jill
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 530
@@ -752,6 +939,7 @@
     code: gift_bundle_Carnival2020_M4A1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 531
@@ -765,10 +953,11 @@
     code: gift_bundle_Carnival2020_M4 SOPMOD II
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 532
-    name: ST AR-15-飄向花海的禮帽
+    name: ST AR-15-飄向花海的禮帽
     type: 2
     rank: 6
     favor: 50000
@@ -778,6 +967,7 @@
     code: gift_bundle_Carnival2020_AR15
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 533
@@ -791,6 +981,7 @@
     code: gift_bundle_Carnival2020_M16A1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 534
@@ -804,6 +995,7 @@
     code: gift_bundle_Carnival2020_RO635
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 535
@@ -817,6 +1009,7 @@
     code: gift_bundle_Carnival2020_UMP45
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 536
@@ -830,6 +1023,7 @@
     code: gift_bundle_Carnival2020_UMP9
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 537
@@ -843,6 +1037,7 @@
     code: gift_bundle_Carnival2020_HK416
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 538
@@ -856,6 +1051,7 @@
     code: gift_bundle_Carnival2020_G11
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 539
@@ -869,6 +1065,7 @@
     code: gift_bundle_Carnival2020_UMP40
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 540
@@ -882,6 +1079,7 @@
     code: gift_bundle_chy2020SP_AK12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 541
@@ -895,10 +1093,11 @@
     code: gift_bundle_Gunslinger_Triela
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 542
-    name: 黎各-自由餐廳
+    name: 莉可-自由餐廳
     type: 2
     rank: 6
     favor: 50000
@@ -908,10 +1107,11 @@
     code: gift_bundle_Gunslinger_Rico
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 543
-    name: 安潔麗卡-童話起點
+    name: 安潔莉卡-童話起點
     type: 2
     rank: 6
     favor: 50000
@@ -921,10 +1121,11 @@
     code: gift_bundle_Gunslinger_Angelica
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 544
-    name: 荷莉葉特-月神假日
+    name: 海莉艾塔-月神假日
     type: 2
     rank: 6
     favor: 50000
@@ -934,10 +1135,11 @@
     code: gift_bundle_Gunslinger_Henrietta
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 545
-    name: 克拉耶絲-晨風庭園
+    name: 庫拉耶絲-晨風庭園
     type: 2
     rank: 6
     favor: 50000
@@ -947,6 +1149,7 @@
     code: gift_bundle_Gunslinger_Claes
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 546
@@ -960,6 +1163,7 @@
     code: gift_bundle_Division_HK416Agent
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 547
@@ -973,6 +1177,7 @@
     code: gift_bundle_Division_VectorAgent
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 548
@@ -986,6 +1191,7 @@
     code: gift_bundle_Division_HK416
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 549
@@ -999,6 +1205,7 @@
     code: gift_bundle_Division_Vector
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 550
@@ -1012,6 +1219,7 @@
     code: gift_bundle_Carnival2021_M4A1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 551
@@ -1025,6 +1233,7 @@
     code: gift_bundle_Carnival2021_M4 SOPMOD II
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 552
@@ -1038,6 +1247,7 @@
     code: gift_bundle_Carnival2021_AR15
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 553
@@ -1051,6 +1261,7 @@
     code: gift_bundle_Carnival2021_M16A1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 554
@@ -1064,6 +1275,7 @@
     code: gift_bundle_Carnival2021_RO635
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 555
@@ -1077,6 +1289,7 @@
     code: gift_bundle_Carnival2021_UMP45
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 556
@@ -1090,6 +1303,7 @@
     code: gift_bundle_Carnival2021_UMP9
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 557
@@ -1103,6 +1317,7 @@
     code: gift_bundle_Carnival2021_HK416
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 558
@@ -1116,6 +1331,7 @@
     code: gift_bundle_Carnival2021_G11
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 559
@@ -1129,6 +1345,7 @@
     code: gift_bundle_Carnival2021_UMP40
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 560
@@ -1142,6 +1359,7 @@
     code: gift_bundle_Carnival2021_M200
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 561
@@ -1155,6 +1373,7 @@
     code: gift_bundle_Carnival2021_AUGPARA
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 562
@@ -1168,6 +1387,7 @@
     code: gift_bundle_Carnival2021_VHS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 563
@@ -1181,6 +1401,7 @@
     code: gift_bundle_Carnival2021_GeneralLiu
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 564
@@ -1194,6 +1415,7 @@
     code: gift_bundle_Carnival2021_SL8
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 565
@@ -1207,10 +1429,11 @@
     code: gift_bundle_Carnival2021_G36
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 566
-    name: QBU-88-晨光欧蕾
+    name: QBU-88-晨光歐蕾
     type: 2
     rank: 6
     favor: 50000
@@ -1218,12 +1441,13 @@
     skin: 566
     poster: 30566
     code: gift_bundle_Lawson2021_QBU88
-    bonus_description: 可解锁人形换装
-    description: 在宿舍内赠送给对应人形，可以获得装扮、海报以及好感度奖励。
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 567
-    name: 小邪神-墨鴿爵士
+    name: 邪神醬-墨鴿爵士
     type: 2
     rank: 6
     favor: 50000
@@ -1233,6 +1457,7 @@
     code: gift_bundle_Dropkick2021_Jashinchan
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 568
@@ -1246,10 +1471,11 @@
     code: gift_bundle_Dropkick2021_Yurine
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 569
-    name: 梅杜莎-濃情生巧職人
+    name: 美杜莎-濃情生巧職人
     type: 2
     rank: 6
     favor: 50000
@@ -1259,10 +1485,11 @@
     code: gift_bundle_Dropkick2021_Medusa
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 570
-    name: 佩珂拉-打工吧！天使大人
+    name: 佩可拉-打工吧！天使大人
     type: 2
     rank: 6
     favor: 50000
@@ -1272,6 +1499,7 @@
     code: gift_bundle_Dropkick2021_Pekora
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 571
@@ -1285,6 +1513,7 @@
     code: gift_bundle_Dropkick2021_Minosu
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 572
@@ -1298,6 +1527,7 @@
     code: gift_bundle_2021Double11_G11
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 573
@@ -1311,6 +1541,7 @@
     code: gift_bundle_ChessBonus_Z62
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 574
@@ -1324,6 +1555,7 @@
     code: gift_bundle_AprilFool2022_M4 SOPMOD II
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 575
@@ -1337,6 +1569,7 @@
     code: gift_bundle_Carnival2022_QBZ191
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 576
@@ -1350,6 +1583,7 @@
     code: gift_bundle_Carnival2022_SL8
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 577
@@ -1363,6 +1597,7 @@
     code: gift_bundle_Carnival2022_VHS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 578
@@ -1376,6 +1611,7 @@
     code: gift_bundle_Carnival2022_GeneralLiu
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 579
@@ -1389,6 +1625,7 @@
     code: gift_bundle_Carnival2022_AUGPARA
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 581
@@ -1402,6 +1639,7 @@
     code: gift_bundle_Carnival2022_HK416
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 582
@@ -1415,6 +1653,7 @@
     code: gift_bundle_Carnival2022_G11
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 583
@@ -1428,6 +1667,7 @@
     code: gift_bundle_Carnival2022_UMP9
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 584
@@ -1441,6 +1681,7 @@
     code: gift_bundle_Carnival2022_UMP45
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 585
@@ -1454,6 +1695,7 @@
     code: gift_bundle_Carnival2022_UMP40
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 586
@@ -1467,6 +1709,7 @@
     code: gift_bundle_ChessBonus_OBR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 587
@@ -1480,6 +1723,7 @@
     code: gift_bundle_Saga2023_Sakura
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 588
@@ -1493,6 +1737,7 @@
     code: gift_bundle_Saga2023_Saki
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 589
@@ -1506,6 +1751,7 @@
     code: gift_bundle_Saga2023_Ai
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 590
@@ -1519,6 +1765,7 @@
     code: gift_bundle_Saga2023_Junko
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 591
@@ -1532,6 +1779,7 @@
     code: gift_bundle_Saga2023_Yuugiri
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 592
@@ -1545,6 +1793,7 @@
     code: gift_bundle_Saga2023_Lily
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 593
@@ -1558,6 +1807,7 @@
     code: gift_bundle_Saga2023_Tae
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 594
@@ -1571,6 +1821,7 @@
     code: gift_bundle_ChessBonus_M1897
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 595
@@ -1584,6 +1835,7 @@
     code: gift_bundle_AprilFool2023_Liberator
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 601
@@ -1597,6 +1849,7 @@
     code: gift_bundle_wedding_tt33
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 602
@@ -1610,6 +1863,7 @@
     code: gift_bundle_wedding_ppsh41
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 603
@@ -1623,6 +1877,7 @@
     code: gift_bundle_wedding_stenmkii
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 604
@@ -1636,6 +1891,7 @@
     code: gift_bundle_wedding_mlemk1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 605
@@ -1649,6 +1905,7 @@
     code: gift_bundle_wedding_pk
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 606
@@ -1662,6 +1919,7 @@
     code: gift_bundle_wedding_p7
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 607
@@ -1675,6 +1933,7 @@
     code: gift_bundle_wedding_fal
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 701
@@ -1688,6 +1947,7 @@
     code: gift_bundle_serafuku_ar15
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 702
@@ -1701,6 +1961,7 @@
     code: gift_bundle_serafuku_m950a
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 703
@@ -1714,6 +1975,7 @@
     code: gift_bundle_serafuku_mg4
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 704
@@ -1727,6 +1989,7 @@
     code: gift_bundle_serafuku_6p62
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 801
@@ -1740,6 +2003,7 @@
     code: gift_bundle_dress_vz61
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 802
@@ -1753,6 +2017,7 @@
     code: gift_bundle_dress_m1903
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 803
@@ -1766,6 +2031,7 @@
     code: gift_bundle_dress_m1891
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 804
@@ -1779,6 +2045,7 @@
     code: gift_bundle_dress_wa2000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 805
@@ -1792,6 +2059,7 @@
     code: gift_bundle_dress_hk416
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 806
@@ -1805,6 +2073,7 @@
     code: gift_bundle_dress_m1918
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 807
@@ -1818,6 +2087,7 @@
     code: gift_bundle_dress_sr3mp
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 808
@@ -1831,6 +2101,7 @@
     code: gift_bundle_dress_m950a
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 901
@@ -1844,6 +2115,7 @@
     code: gift_bundle_childrensday_MLEMK1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 902
@@ -1857,6 +2129,7 @@
     code: gift_bundle_childrensday_MP40
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 903
@@ -1870,6 +2143,7 @@
     code: gift_bundle_childrensday_Grizzly
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 904
@@ -1883,6 +2157,7 @@
     code: gift_bundle_childrensday_NEGEV
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 905
@@ -1896,6 +2171,7 @@
     code: gift_bundle_childrensday_G36
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1101
@@ -1909,6 +2185,7 @@
     code: gift_bundle_swimsuit_NTW20
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1102
@@ -1922,6 +2199,7 @@
     code: gift_bundle_swimsuit_95type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1103
@@ -1935,6 +2213,7 @@
     code: gift_bundle_swimsuit_KP31
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1104
@@ -1948,6 +2227,7 @@
     code: gift_bundle_swimsuit_G28
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1105
@@ -1961,6 +2241,7 @@
     code: gift_bundle_swimsuit_Ithaca37
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1106
@@ -1974,6 +2255,7 @@
     code: gift_bundle_swimsuit_M1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1107
@@ -1987,6 +2269,7 @@
     code: gift_bundle_swimsuit_M1903
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1108
@@ -2000,6 +2283,7 @@
     code: gift_bundle_swimsuit_WA2000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1109
@@ -2013,6 +2297,7 @@
     code: gift_bundle_swimsuit_FN57
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1201
@@ -2026,10 +2311,11 @@
     code: gift_bundle_yukata_pkp
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1202
-    name: G36C-夏天•煙火•向陽之詩
+    name: G36C-夏天·煙火·向陽之詩
     type: 2
     rank: 6
     favor: 50000
@@ -2039,6 +2325,7 @@
     code: gift_bundle_yukata_G36C
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1203
@@ -2052,6 +2339,7 @@
     code: gift_bundle_yukata_OTs14
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1204
@@ -2065,6 +2353,7 @@
     code: gift_bundle_yukata_KLIN
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1205
@@ -2078,6 +2367,7 @@
     code: gift_bundle_yukata_MP5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1301
@@ -2091,6 +2381,7 @@
     code: gift_bundle_leisurewear_M249SAW
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1302
@@ -2104,6 +2395,7 @@
     code: gift_bundle_leisurewear_9A91
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1303
@@ -2117,6 +2409,7 @@
     code: gift_bundle_leisurewear_G3
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1304
@@ -2130,6 +2423,7 @@
     code: gift_bundle_leisurewear_MG3
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1305
@@ -2143,6 +2437,7 @@
     code: gift_bundle_leisurewear_TAR21
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1401
@@ -2156,6 +2451,7 @@
     code: gift_bundle_halloween2_Welrod
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1402
@@ -2169,6 +2465,7 @@
     code: gift_bundle_halloween2_79type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1403
@@ -2182,6 +2479,7 @@
     code: gift_bundle_halloween2_IWS2000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1404
@@ -2195,6 +2493,7 @@
     code: gift_bundle_halloween2_P7
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1405
@@ -2208,6 +2507,7 @@
     code: gift_bundle_halloween2_Spitfire
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1406
@@ -2221,6 +2521,7 @@
     code: gift_bundle_halloween2_FNFNC
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1407
@@ -2234,6 +2535,7 @@
     code: gift_bundle_halloween2_SuperSASS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1501
@@ -2247,6 +2549,7 @@
     code: gift_bundle_manwear_M1928A1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1502
@@ -2260,6 +2563,7 @@
     code: gift_bundle_manwear_Contender
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1503
@@ -2273,6 +2577,7 @@
     code: gift_bundle_manwear_PKP
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1504
@@ -2286,6 +2591,7 @@
     code: gift_bundle_manwear_MG5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1505
@@ -2299,6 +2605,7 @@
     code: gift_bundle_manwear_AEK999
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1506
@@ -2312,10 +2619,11 @@
     code: gift_bundle_manwear_PzB39
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1507
-    name: G36-“調酒師”
+    name: G36-「調酒師」
     type: 2
     rank: 6
     favor: 50000
@@ -2325,6 +2633,7 @@
     code: gift_bundle_manwear_G36
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1601
@@ -2338,6 +2647,7 @@
     code: gift_bundle_xmas2_RFB
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1602
@@ -2351,6 +2661,7 @@
     code: gift_bundle_xmas2_G11
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1603
@@ -2364,6 +2675,7 @@
     code: gift_bundle_xmas2_ZastavaM21
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1604
@@ -2377,6 +2689,7 @@
     code: gift_bundle_xmas2_CZ75
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1605
@@ -2390,6 +2703,7 @@
     code: gift_bundle_xmas2_Ameli
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1606
@@ -2403,6 +2717,7 @@
     code: gift_bundle_xmas2_M1918
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1608
@@ -2416,6 +2731,7 @@
     code: gift_bundle_xmas2_OC44
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1701
@@ -2429,6 +2745,7 @@
     code: gift_bundle_leisurewear2_M99
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1702
@@ -2442,6 +2759,7 @@
     code: gift_bundle_leisurewear2_NZ75
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1703
@@ -2455,6 +2773,7 @@
     code: gift_bundle_leisurewear2_SPP1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1704
@@ -2468,6 +2787,7 @@
     code: gift_bundle_leisurewear2_SUPERSHORTY
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1705
@@ -2481,6 +2801,7 @@
     code: gift_bundle_leisurewear2_RMB93
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1801
@@ -2494,6 +2815,7 @@
     code: gift_bundle_newyear2_DSR50
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1802
@@ -2507,6 +2829,7 @@
     code: gift_bundle_newyear2_SAT8
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1803
@@ -2520,6 +2843,7 @@
     code: gift_bundle_newyear2_ART556
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1804
@@ -2533,6 +2857,7 @@
     code: gift_bundle_newyear2_JS05
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1805
@@ -2546,6 +2871,7 @@
     code: gift_bundle_newyear2_MK23
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1806
@@ -2559,6 +2885,7 @@
     code: gift_bundle_newyear2_M590
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1807
@@ -2572,6 +2899,7 @@
     code: gift_bundle_newyear2_81typeR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1808
@@ -2585,6 +2913,7 @@
     code: gift_bundle_newyear2_LWMMG
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1809
@@ -2598,6 +2927,7 @@
     code: gift_bundle_newyear2_88type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1901
@@ -2611,6 +2941,7 @@
     code: gift_bundle_wedding2_Vector
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1902
@@ -2624,6 +2955,7 @@
     code: gift_bundle_wedding2_FN57
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1903
@@ -2637,6 +2969,7 @@
     code: gift_bundle_wedding2_MP5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1904
@@ -2650,6 +2983,7 @@
     code: gift_bundle_wedding2_G36
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1905
@@ -2663,6 +2997,7 @@
     code: gift_bundle_wedding2_56-1type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 1906
@@ -2676,6 +3011,7 @@
     code: gift_bundle_wedding2_SV98
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2001
@@ -2689,6 +3025,7 @@
     code: gift_bundle_mzf_k2
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2002
@@ -2702,6 +3039,7 @@
     code: gift_bundle_mzf_k5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2003
@@ -2715,6 +3053,7 @@
     code: gift_bundle_mzf_klin
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2004
@@ -2728,6 +3067,7 @@
     code: gift_bundle_mzf_63type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2101
@@ -2741,6 +3081,7 @@
     code: gift_bundle_znq_DSR50
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2102
@@ -2754,6 +3095,7 @@
     code: gift_bundle_znq_Grizzly
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2103
@@ -2767,6 +3109,7 @@
     code: gift_bundle_znq_Welrod
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2104
@@ -2780,6 +3123,7 @@
     code: gift_bundle_znq_ZastavaM21
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2105
@@ -2793,6 +3137,7 @@
     code: gift_bundle_znq_M1873
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2106
@@ -2806,6 +3151,7 @@
     code: gift_bundle_znq_UMP9
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2107
@@ -2819,6 +3165,7 @@
     code: gift_bundle_znq_UMP45
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2108
@@ -2832,6 +3179,7 @@
     code: gift_bundle_znq_IDW
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2109
@@ -2845,6 +3193,7 @@
     code: gift_bundle_znq_EVO3
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2201
@@ -2858,10 +3207,11 @@
     code: gift_bundle_childrensday18_Carcano1891
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2202
-    name: 卡爾卡諾M91/38-皮諾丘小姐
+    name: 卡爾卡諾M91/38-匹諾曹小姐
     type: 2
     rank: 6
     favor: 50000
@@ -2871,6 +3221,7 @@
     code: gift_bundle_childrensday18_Carcano1938
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2203
@@ -2884,6 +3235,7 @@
     code: gift_bundle_childrensday18_FN57
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2204
@@ -2897,6 +3249,7 @@
     code: gift_bundle_childrensday18_PP19
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2205
@@ -2910,6 +3263,7 @@
     code: gift_bundle_childrensday18_CBJMS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2206
@@ -2923,6 +3277,7 @@
     code: gift_bundle_childrensday18_Thunder50
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2301
@@ -2936,6 +3291,7 @@
     code: gift_bundle_jxnpr18_NTW20
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2302
@@ -2949,6 +3305,7 @@
     code: gift_bundle_jxnpr18_Contender
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2303
@@ -2962,6 +3319,7 @@
     code: gift_bundle_jxnpr18_M950A
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2304
@@ -2975,6 +3333,7 @@
     code: gift_bundle_jxnpr18_G28
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2305
@@ -2988,6 +3347,7 @@
     code: gift_bundle_jxnpr18_GepardM1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2401
@@ -3001,6 +3361,7 @@
     code: gift_bundle_swimsuit18_G41
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2402
@@ -3014,6 +3375,7 @@
     code: gift_bundle_swimsuit18_AK12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2403
@@ -3027,6 +3389,7 @@
     code: gift_bundle_swimsuit18_AA12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2404
@@ -3040,6 +3403,7 @@
     code: gift_bundle_swimsuit18_AN94
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2405
@@ -3053,6 +3417,7 @@
     code: gift_bundle_swimsuit18_MP7
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2406
@@ -3066,6 +3431,7 @@
     code: gift_bundle_swimsuit18_FNFAL
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2407
@@ -3079,6 +3445,7 @@
     code: gift_bundle_swimsuit18_G36
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2408
@@ -3092,6 +3459,7 @@
     code: gift_bundle_swimsuit18_SPAS12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2409
@@ -3105,6 +3473,7 @@
     code: gift_bundle_swimsuit18_Ameli
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2410
@@ -3118,6 +3487,7 @@
     code: gift_bundle_swimsuit18_P38
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2501
@@ -3131,6 +3501,7 @@
     code: gift_bundle_rockroll18_MG5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2502
@@ -3144,6 +3515,7 @@
     code: gift_bundle_rockroll18_G11
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2503
@@ -3157,6 +3529,7 @@
     code: gift_bundle_rockroll18_M1887
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2504
@@ -3170,6 +3543,7 @@
     code: gift_bundle_rockroll18_80type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2505
@@ -3183,6 +3557,7 @@
     code: gift_bundle_rockroll18_M1897
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2601
@@ -3196,6 +3571,7 @@
     code: gift_bundle_halloween18_SAT8
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2602
@@ -3209,6 +3585,7 @@
     code: gift_bundle_halloween18_TAC50
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2603
@@ -3222,6 +3599,7 @@
     code: gift_bundle_halloween18_MDR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2604
@@ -3235,6 +3613,7 @@
     code: gift_bundle_halloween18_FAMAS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2605
@@ -3248,6 +3627,7 @@
     code: gift_bundle_halloween18_BrenMK
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2606
@@ -3261,6 +3641,7 @@
     code: gift_bundle_halloween18_F1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2701
@@ -3274,6 +3655,7 @@
     code: gift_bundle_idol18_HK21
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2702
@@ -3287,6 +3669,7 @@
     code: gift_bundle_idol18_JS-127
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2703
@@ -3300,6 +3683,7 @@
     code: gift_bundle_idol18_PM06
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2704
@@ -3313,10 +3697,11 @@
     code: gift_bundle_idol18_USAS12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2705
-    name: HK45-奇蹟☆開始
+    name: HK45-奇跡☆開始
     type: 2
     rank: 6
     favor: 50000
@@ -3326,6 +3711,7 @@
     code: gift_bundle_idol18_HK45
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2706
@@ -3339,6 +3725,7 @@
     code: gift_bundle_idol18_M1895
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2801
@@ -3352,6 +3739,7 @@
     code: gift_bundle_Xmas18_Px4Storm
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2802
@@ -3365,6 +3753,7 @@
     code: gift_bundle_Xmas18_P90
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2803
@@ -3378,6 +3767,7 @@
     code: gift_bundle_Xmas18_ART556
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2804
@@ -3391,6 +3781,7 @@
     code: gift_bundle_Xmas18_FP6
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2805
@@ -3404,6 +3795,7 @@
     code: gift_bundle_Xmas18_FN57
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2806
@@ -3417,6 +3809,7 @@
     code: gift_bundle_Xmas18_G36
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2807
@@ -3430,6 +3823,7 @@
     code: gift_bundle_Xmas18_TMP
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2901
@@ -3443,6 +3837,7 @@
     code: gift_bundle_newyear18_Type64-AR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2902
@@ -3456,6 +3851,7 @@
     code: gift_bundle_newyear18_RFB
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2903
@@ -3469,6 +3865,7 @@
     code: gift_bundle_newyear18_Type100
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2904
@@ -3482,6 +3879,7 @@
     code: gift_bundle_newyear18_Carcano1938
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2905
@@ -3495,6 +3893,7 @@
     code: gift_bundle_newyear18_Carcano1891
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2906
@@ -3508,6 +3907,7 @@
     code: gift_bundle_newyear18_M1014
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2907
@@ -3521,6 +3921,7 @@
     code: gift_bundle_newyear18_ASVAL
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 2908
@@ -3534,6 +3935,7 @@
     code: gift_bundle_newyear18_Type62
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3001
@@ -3547,6 +3949,7 @@
     code: gift_bundle_springfestival19_OTs14
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3002
@@ -3560,6 +3963,7 @@
     code: gift_bundle_springfestival19_AK74U
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3003
@@ -3573,6 +3977,7 @@
     code: gift_bundle_springfestival19_Type88
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3004
@@ -3586,6 +3991,7 @@
     code: gift_bundle_springfestival19_IWS2000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3005
@@ -3599,6 +4005,7 @@
     code: gift_bundle_springfestival19_CZ75
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3006
@@ -3612,6 +4019,7 @@
     code: gift_bundle_springfestival19_MP5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3007
@@ -3625,6 +4033,7 @@
     code: gift_bundle_springfestival19_CZ52
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3101
@@ -3638,6 +4047,7 @@
     code: gift_bundle_wv19_KP31
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3102
@@ -3651,6 +4061,7 @@
     code: gift_bundle_wv19_PKP
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3103
@@ -3664,6 +4075,7 @@
     code: gift_bundle_wv19_G36C
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3105
@@ -3677,6 +4089,7 @@
     code: gift_bundle_wv19_MK23
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3106
@@ -3690,6 +4103,7 @@
     code: gift_bundle_wv19_T5000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3107
@@ -3703,6 +4117,7 @@
     code: gift_bundle_wv19_GepardM1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3201
@@ -3716,6 +4131,7 @@
     code: gift_bundle_hh19_Contender
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3202
@@ -3729,6 +4145,7 @@
     code: gift_bundle_hh19_NEGEV
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3203
@@ -3742,10 +4159,11 @@
     code: gift_bundle_hh19_SPAS12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3204
-    name: 托卡列夫-格里芬的舞孃
+    name: 托卡列夫-格里芬的舞娘
     type: 2
     rank: 6
     favor: 50000
@@ -3755,6 +4173,7 @@
     code: gift_bundle_hh19_TT33
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3205
@@ -3768,6 +4187,7 @@
     code: gift_bundle_hh19_IDW
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3301
@@ -3781,6 +4201,7 @@
     code: gift_bundle_3znq19_K2
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3302
@@ -3794,10 +4215,11 @@
     code: gift_bundle_3znq19_AK12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3303
-    name: AN-94-沈默嫣紅
+    name: AN-94-沉默嫣紅
     type: 2
     rank: 6
     favor: 50000
@@ -3807,6 +4229,7 @@
     code: gift_bundle_3znq19_AN94
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3304
@@ -3820,6 +4243,7 @@
     code: gift_bundle_3znq19_M99
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3305
@@ -3833,6 +4257,7 @@
     code: gift_bundle_3znq19_MDR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3306
@@ -3846,6 +4271,7 @@
     code: gift_bundle_3znq19_79type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3307
@@ -3859,6 +4285,7 @@
     code: gift_bundle_3znq19_G28
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3308
@@ -3872,6 +4299,7 @@
     code: gift_bundle_3znq19_K5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3309
@@ -3885,6 +4313,7 @@
     code: gift_bundle_3znq19_Thunder50
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3401
@@ -3898,6 +4327,7 @@
     code: gift_bundle_etj19_HK416
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3402
@@ -3911,6 +4341,7 @@
     code: gift_bundle_etj19_K11
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3403
@@ -3924,6 +4355,7 @@
     code: gift_bundle_etj19_UMP45
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3404
@@ -3937,6 +4369,7 @@
     code: gift_bundle_etj19_UMP9
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3405
@@ -3950,6 +4383,7 @@
     code: gift_bundle_etj19_KSVK
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3406
@@ -3963,6 +4397,7 @@
     code: gift_bundle_etj19_OC44
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3501
@@ -3976,6 +4411,7 @@
     code: gift_bundle_summer19_R93
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3502
@@ -3989,6 +4425,7 @@
     code: gift_bundle_summer19_Lewis
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3503
@@ -4002,6 +4439,7 @@
     code: gift_bundle_summer19_CBJMS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3504
@@ -4015,6 +4453,7 @@
     code: gift_bundle_summer19_Type88
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3505
@@ -4028,6 +4467,7 @@
     code: gift_bundle_summer19_4type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3506
@@ -4041,6 +4481,7 @@
     code: gift_bundle_summer19_SPS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3507
@@ -4054,6 +4495,7 @@
     code: gift_bundle_summer19_Z62
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3601
@@ -4067,6 +4509,7 @@
     code: gift_bundle_yukata19_ADS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3602
@@ -4080,6 +4523,7 @@
     code: gift_bundle_yukata19_SAT8
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3603
@@ -4093,6 +4537,7 @@
     code: gift_bundle_yukata19_G36
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3604
@@ -4106,6 +4551,7 @@
     code: gift_bundle_yukata19_M249SAW
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3605
@@ -4119,6 +4565,7 @@
     code: gift_bundle_yukata19_OTs12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3701
@@ -4132,6 +4579,7 @@
     code: gift_bundle_dwxy19_PA15
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3702
@@ -4145,6 +4593,7 @@
     code: gift_bundle_dwxy19_95type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3703
@@ -4158,6 +4607,7 @@
     code: gift_bundle_dwxy19_97type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3704
@@ -4171,6 +4621,7 @@
     code: gift_bundle_dwxy19_SR3MP
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3705
@@ -4184,6 +4635,7 @@
     code: gift_bundle_dwxy19_Mk23
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3706
@@ -4197,6 +4649,7 @@
     code: gift_bundle_dwxy19_M590
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3707
@@ -4210,10 +4663,11 @@
     code: gift_bundle_dwxy19_M500
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3708
-    name: TMP-喵棱鏡威力
+    name: TMP-喵稜鏡威力
     type: 2
     rank: 6
     favor: 50000
@@ -4223,6 +4677,7 @@
     code: gift_bundle_dwxy19_TMP
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3801
@@ -4236,6 +4691,7 @@
     code: gift_bundle_Halloween19_QBU88
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3802
@@ -4249,6 +4705,7 @@
     code: gift_bundle_Halloween19_G36C
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3803
@@ -4262,6 +4719,7 @@
     code: gift_bundle_Halloween19_M870P
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3805
@@ -4275,6 +4733,7 @@
     code: gift_bundle_Halloween19_KSVK
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3806
@@ -4288,6 +4747,7 @@
     code: gift_bundle_Halloween19_MG3
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3807
@@ -4301,6 +4761,7 @@
     code: gift_bundle_Halloween19_97typeS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3808
@@ -4314,6 +4775,7 @@
     code: gift_bundle_Halloween19_PSG1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3809
@@ -4327,6 +4789,7 @@
     code: gift_bundle_Halloween19_CETME556
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3901
@@ -4340,6 +4803,7 @@
     code: gift_bundle_racing19_Saiga12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3902
@@ -4353,6 +4817,7 @@
     code: gift_bundle_racing19_P22
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3903
@@ -4366,6 +4831,7 @@
     code: gift_bundle_racing19_UKM2000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3904
@@ -4379,6 +4845,7 @@
     code: gift_bundle_racing19_M2HB
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 3905
@@ -4392,6 +4859,7 @@
     code: gift_bundle_racing19_PPK
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4001
@@ -4405,10 +4873,11 @@
     code: gift_bundle_Xms19_Lewis
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4002
-    name: HK21-銀狐的⅑月臺
+    name: HK21-銀狐的⅑月台
     type: 2
     rank: 6
     favor: 50000
@@ -4418,6 +4887,7 @@
     code: gift_bundle_Xms19_HK21
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4003
@@ -4431,6 +4901,7 @@
     code: gift_bundle_Xms19_HKCAWS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4004
@@ -4444,6 +4915,7 @@
     code: gift_bundle_Xms19_Type100
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4005
@@ -4457,6 +4929,7 @@
     code: gift_bundle_Xms19_PDW
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4006
@@ -4470,6 +4943,7 @@
     code: gift_bundle_Xms19_GepardM1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4007
@@ -4483,10 +4957,11 @@
     code: gift_bundle_Xms19_LWMMG
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4101
-    name: SR-3MP-神子上上籤
+    name: SR-3MP-神子上上簽
     type: 2
     rank: 6
     favor: 50000
@@ -4496,6 +4971,7 @@
     code: gift_bundle_zy2020_SR3MP
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4102
@@ -4509,6 +4985,7 @@
     code: gift_bundle_zy2020_G11
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4103
@@ -4522,6 +4999,7 @@
     code: gift_bundle_zy2020_4type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4104
@@ -4535,6 +5013,7 @@
     code: gift_bundle_zy2020_9A91
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4105
@@ -4548,6 +5027,7 @@
     code: gift_bundle_zy2020_MG3
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4106
@@ -4561,6 +5041,7 @@
     code: gift_bundle_zy2020_M1A1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4107
@@ -4574,6 +5055,7 @@
     code: gift_bundle_zy2020_Falcon
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4201
@@ -4587,6 +5069,7 @@
     code: gift_bundle_spring2020_DP12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4202
@@ -4600,6 +5083,7 @@
     code: gift_bundle_spring2020_PA15
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4203
@@ -4613,6 +5097,7 @@
     code: gift_bundle_spring2020_PKP
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4204
@@ -4626,6 +5111,7 @@
     code: gift_bundle_spring2020_JS9mm
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4205
@@ -4639,6 +5125,7 @@
     code: gift_bundle_spring2020_MG36
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4206
@@ -4652,6 +5139,7 @@
     code: gift_bundle_spring2020_T91
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4207
@@ -4665,6 +5153,7 @@
     code: gift_bundle_spring2020_SPP1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4208
@@ -4678,6 +5167,7 @@
     code: gift_bundle_spring2020_M1895MG
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4209
@@ -4691,6 +5181,7 @@
     code: gift_bundle_spring2020_EM2
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4210
@@ -4704,10 +5195,11 @@
     code: gift_bundle_spring2020_MG34
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4301
-    name: Kar98k-手心的朱砂痣
+    name: Kar98k-手心的硃砂痣
     type: 2
     rank: 6
     favor: 50000
@@ -4717,6 +5209,7 @@
     code: gift_bundle_WhiteV2020_98K
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4302
@@ -4730,6 +5223,7 @@
     code: gift_bundle_WhiteV2020_M950A
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4303
@@ -4743,6 +5237,7 @@
     code: gift_bundle_WhiteV2020_Grizzly
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4304
@@ -4756,6 +5251,7 @@
     code: gift_bundle_WhiteV2020_ZastavaM21
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4305
@@ -4769,6 +5265,7 @@
     code: gift_bundle_WhiteV2020_M1014
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4306
@@ -4782,6 +5279,7 @@
     code: gift_bundle_WhiteV2020_APS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4308
@@ -4795,6 +5293,7 @@
     code: gift_bundle_WhiteV2020_FNFNC
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4309
@@ -4808,6 +5307,7 @@
     code: gift_bundle_WhiteV2020_RMB93
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4310
@@ -4821,6 +5321,7 @@
     code: gift_bundle_WhiteV2020_PM
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4401
@@ -4834,6 +5335,7 @@
     code: gift_bundle_Pajamas2020_AA12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4402
@@ -4847,6 +5349,7 @@
     code: gift_bundle_Pajamas2020_PA15
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4403
@@ -4860,6 +5363,7 @@
     code: gift_bundle_Pajamas2020_A91
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4404
@@ -4873,6 +5377,7 @@
     code: gift_bundle_Pajamas2020_P30
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4405
@@ -4886,10 +5391,11 @@
     code: gift_bundle_Pajamas2020_PP1901
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4406
-    name: NS2000-百味咖喱兔
+    name: NS2000-百味咖哩兔
     type: 2
     rank: 6
     favor: 50000
@@ -4899,6 +5405,7 @@
     code: gift_bundle_Pajamas2020_NS2000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4501
@@ -4912,6 +5419,7 @@
     code: gift_bundle_Anniversary2020_OTs14
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4502
@@ -4925,6 +5433,7 @@
     code: gift_bundle_Anniversary2020_M200
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4503
@@ -4938,6 +5447,7 @@
     code: gift_bundle_Anniversary2020_QBU88
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4504
@@ -4951,6 +5461,7 @@
     code: gift_bundle_Anniversary2020_RO635
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4505
@@ -4964,6 +5475,7 @@
     code: gift_bundle_Anniversary2020_M4A1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4506
@@ -4977,6 +5489,7 @@
     code: gift_bundle_Anniversary2020_M16A1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4507
@@ -4990,10 +5503,11 @@
     code: gift_bundle_Anniversary2020_M4 SOPMOD II
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4508
-    name: ST AR-15-夢境的囚困者
+    name: ST AR-15-夢境的囚困者
     type: 2
     rank: 6
     favor: 50000
@@ -5003,6 +5517,7 @@
     code: gift_bundle_Anniversary2020_AR15
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4509
@@ -5016,6 +5531,7 @@
     code: gift_bundle_Anniversary2020_KSVK
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4510
@@ -5029,6 +5545,7 @@
     code: gift_bundle_Anniversary2020_Saiga12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4511
@@ -5042,6 +5559,7 @@
     code: gift_bundle_Anniversary2020_ZasM76
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4514
@@ -5055,6 +5573,7 @@
     code: gift_bundle_Anniversary2020_M1911
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4601
@@ -5068,6 +5587,7 @@
     code: gift_bundle_Children2020_AKAlfa
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4602
@@ -5081,6 +5601,7 @@
     code: gift_bundle_Children2020_BrowningHP
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4603
@@ -5094,6 +5615,7 @@
     code: gift_bundle_Children2020_X95
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4604
@@ -5107,6 +5629,7 @@
     code: gift_bundle_Children2020_FAMAS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4605
@@ -5120,6 +5643,7 @@
     code: gift_bundle_Children2020_T5000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4606
@@ -5133,6 +5657,7 @@
     code: gift_bundle_Children2020_TMP
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4607
@@ -5146,6 +5671,7 @@
     code: gift_bundle_Children2020_EVO3
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4702
@@ -5159,6 +5685,7 @@
     code: gift_bundle_YZ2020_JS9mm
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4703
@@ -5172,6 +5699,7 @@
     code: gift_bundle_YZ2020_ZB26
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4704
@@ -5185,6 +5713,7 @@
     code: gift_bundle_YZ2020_SL8
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4705
@@ -5198,6 +5727,7 @@
     code: gift_bundle_YZ2020_PP19
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4706
@@ -5211,6 +5741,7 @@
     code: gift_bundle_YZ2020_KAC
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4707
@@ -5224,6 +5755,7 @@
     code: gift_bundle_YZ2020_Ak5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4708
@@ -5237,6 +5769,7 @@
     code: gift_bundle_YZ2020_357
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4709
@@ -5250,6 +5783,7 @@
     code: gift_bundle_YZ2020_FN49
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4801
@@ -5263,6 +5797,7 @@
     code: gift_bundle_Armor2020_NTW20
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4802
@@ -5276,6 +5811,7 @@
     code: gift_bundle_Armor2020_AUG
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4803
@@ -5289,6 +5825,7 @@
     code: gift_bundle_Armor2020_M1891
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4804
@@ -5302,6 +5839,7 @@
     code: gift_bundle_Armor2020_Mk48
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4805
@@ -5315,6 +5853,7 @@
     code: gift_bundle_Armor2020_M1897
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4901
@@ -5328,6 +5867,7 @@
     code: gift_bundle_Edo2020_DP12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4902
@@ -5341,6 +5881,7 @@
     code: gift_bundle_Edo2020_MG5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4903
@@ -5354,6 +5895,7 @@
     code: gift_bundle_Edo2020_MG36
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4904
@@ -5367,6 +5909,7 @@
     code: gift_bundle_Edo2020_R93
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4905
@@ -5380,6 +5923,7 @@
     code: gift_bundle_Edo2020_Type100
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4906
@@ -5393,6 +5937,7 @@
     code: gift_bundle_Edo2020_Tabuk
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4907
@@ -5406,6 +5951,7 @@
     code: gift_bundle_Edo2020_wz29
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 4908
@@ -5419,6 +5965,7 @@
     code: gift_bundle_Edo2020_IDW
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5101
@@ -5432,6 +5979,7 @@
     code: gift_bundle_Halloween2020_GeneralLiu
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5102
@@ -5445,6 +5993,7 @@
     code: gift_bundle_Halloween2020_Kord
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5103
@@ -5458,6 +6007,7 @@
     code: gift_bundle_Halloween2020_97type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5104
@@ -5471,6 +6021,7 @@
     code: gift_bundle_Halloween2020_06TypeSMG
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5105
@@ -5484,6 +6035,7 @@
     code: gift_bundle_Halloween2020_M82
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5106
@@ -5497,6 +6049,7 @@
     code: gift_bundle_Halloween2020_TT33
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5107
@@ -5510,6 +6063,7 @@
     code: gift_bundle_Halloween2020_M21
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5201
@@ -5523,6 +6077,7 @@
     code: gift_bundle_Agent2020_G36C
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5202
@@ -5536,6 +6091,7 @@
     code: gift_bundle_Agent2020_SL8
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5203
@@ -5549,6 +6105,7 @@
     code: gift_bundle_Agent2020_VHS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5204
@@ -5562,6 +6119,7 @@
     code: gift_bundle_Agent2020_SuperShorty
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5205
@@ -5575,6 +6133,7 @@
     code: gift_bundle_Agent2020_SAF
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5206
@@ -5588,6 +6147,7 @@
     code: gift_bundle_Agent2020_TEC9
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5301
@@ -5601,6 +6161,7 @@
     code: gift_bundle_Christmas2020_VSK
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5302
@@ -5614,6 +6175,7 @@
     code: gift_bundle_Christmas2020_R5RGP
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5303
@@ -5627,6 +6189,7 @@
     code: gift_bundle_Christmas2020_SACR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5304
@@ -5640,6 +6203,7 @@
     code: gift_bundle_Christmas2020_HS2000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5305
@@ -5653,6 +6217,7 @@
     code: gift_bundle_Christmas2020_4type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5306
@@ -5666,6 +6231,7 @@
     code: gift_bundle_Christmas2020_K5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5307
@@ -5679,6 +6245,7 @@
     code: gift_bundle_Christmas2020_PM1910
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5308
@@ -5692,6 +6259,7 @@
     code: gift_bundle_Christmas2020_88type
     bonus_description: 可解鎖人形換裝
     description: 傳說中的BABAYAGA, 我親眼看見用鉛筆殺了三個人
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5309
@@ -5705,6 +6273,7 @@
     code: gift_bundle_Christmas2020_M1895
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5401
@@ -5718,6 +6287,7 @@
     code: gift_bundle_NewYear2021_ACR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5402
@@ -5731,6 +6301,7 @@
     code: gift_bundle_NewYear2021_Saiga12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5403
@@ -5744,6 +6315,7 @@
     code: gift_bundle_NewYear2021_M950A
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5404
@@ -5757,6 +6329,7 @@
     code: gift_bundle_NewYear2021_Shipka
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5405
@@ -5770,6 +6343,7 @@
     code: gift_bundle_NewYear2021_UMP45
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5406
@@ -5783,6 +6357,7 @@
     code: gift_bundle_NewYear2021_UKM2000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5407
@@ -5796,6 +6371,7 @@
     code: gift_bundle_NewYear2021_OBR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5408
@@ -5809,6 +6385,7 @@
     code: gift_bundle_NewYear2021_EVO3
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5501
@@ -5822,6 +6399,7 @@
     code: gift_bundle_SpringFes2021_Lewis
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5502
@@ -5835,6 +6413,7 @@
     code: gift_bundle_SpringFes2021_QBU88
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5503
@@ -5848,10 +6427,11 @@
     code: gift_bundle_SpringFes2021_AUGPARA
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5504
-    name: KSVK-挽玉環
+    name: KSVK-輓玉環
     type: 2
     rank: 6
     favor: 50000
@@ -5861,6 +6441,7 @@
     code: gift_bundle_SpringFes2021_KSVK
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5505
@@ -5874,6 +6455,7 @@
     code: gift_bundle_SpringFes2021_ColtDefender
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5506
@@ -5887,6 +6469,7 @@
     code: gift_bundle_SpringFes2021_SVD
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5507
@@ -5900,6 +6483,7 @@
     code: gift_bundle_SpringFes2021_92type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5508
@@ -5913,6 +6497,7 @@
     code: gift_bundle_SpringFes2021_56typeR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5601
@@ -5926,6 +6511,7 @@
     code: gift_bundle_WhiteV2021_Webley
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5602
@@ -5939,6 +6525,7 @@
     code: gift_bundle_WhiteV2021_OTs14
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5603
@@ -5952,6 +6539,7 @@
     code: gift_bundle_WhiteV2021_ZB26
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5604
@@ -5965,6 +6553,7 @@
     code: gift_bundle_WhiteV2021_95type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5605
@@ -5978,6 +6567,7 @@
     code: gift_bundle_WhiteV2021_Ithaca37
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5606
@@ -5991,6 +6581,7 @@
     code: gift_bundle_WhiteV2021_XM8
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5607
@@ -6004,6 +6595,7 @@
     code: gift_bundle_WhiteV2021_81typeR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5608
@@ -6017,6 +6609,7 @@
     code: gift_bundle_WhiteV2021_64type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5701
@@ -6030,6 +6623,7 @@
     code: gift_bundle_Detective2021_P90
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5702
@@ -6043,6 +6637,7 @@
     code: gift_bundle_Detective2021_Type64-AR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5703
@@ -6056,6 +6651,7 @@
     code: gift_bundle_Detective2021_M1928A1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5704
@@ -6069,6 +6665,7 @@
     code: gift_bundle_Detective2021_MondragonM1908
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5706
@@ -6082,6 +6679,7 @@
     code: gift_bundle_Detective2021_EM2
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5707
@@ -6095,6 +6693,7 @@
     code: gift_bundle_Detective2021_Magal
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5801
@@ -6108,6 +6707,7 @@
     code: gift_bundle_Anniversary2021_C93
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5802
@@ -6121,6 +6721,7 @@
     code: gift_bundle_Anniversary2021_PA15
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5803
@@ -6134,6 +6735,7 @@
     code: gift_bundle_Anniversary2021_M82A1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5804
@@ -6147,6 +6749,7 @@
     code: gift_bundle_Anniversary2021_VSK
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5805
@@ -6160,6 +6763,7 @@
     code: gift_bundle_Anniversary2021_97typeS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5806
@@ -6173,6 +6777,7 @@
     code: gift_bundle_Anniversary2021_FX05
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5807
@@ -6186,6 +6791,7 @@
     code: gift_bundle_Anniversary2021_CZ805
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5808
@@ -6199,6 +6805,7 @@
     code: gift_bundle_Anniversary2021_PPsh41
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5901
@@ -6212,6 +6819,7 @@
     code: gift_bundle_Children2021_RPK203
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5902
@@ -6225,6 +6833,7 @@
     code: gift_bundle_Children2021_Lusa
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5903
@@ -6238,6 +6847,7 @@
     code: gift_bundle_Children2021_SACR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5904
@@ -6251,6 +6861,7 @@
     code: gift_bundle_Children2021_PKP
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5905
@@ -6264,10 +6875,11 @@
     code: gift_bundle_Children2021_06TypeSMG
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5906
-    name: Ak 5-接引彩虹的花仙子
+    name: Ak 5-接引彩虹的花仙子
     type: 2
     rank: 6
     favor: 50000
@@ -6277,6 +6889,7 @@
     code: gift_bundle_Children2021_Ak5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5907
@@ -6290,6 +6903,7 @@
     code: gift_bundle_Children2021_M82
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 5908
@@ -6303,6 +6917,7 @@
     code: gift_bundle_Children2021_wz29
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6101
@@ -6316,6 +6931,7 @@
     code: gift_bundle_YZ2021_LTLX7000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6102
@@ -6329,10 +6945,11 @@
     code: gift_bundle_YZ2021_DP12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6103
-    name: Px4 風暴-臨海準則
+    name: Px4 風暴-臨海準則
     type: 2
     rank: 6
     favor: 50000
@@ -6342,6 +6959,7 @@
     code: gift_bundle_YZ2021_Px4Storm
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6105
@@ -6355,6 +6973,7 @@
     code: gift_bundle_YZ2021_PPD40
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6106
@@ -6368,6 +6987,7 @@
     code: gift_bundle_YZ2021_UKM2000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6107
@@ -6381,6 +7001,7 @@
     code: gift_bundle_YZ2021_VPM5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6108
@@ -6394,6 +7015,7 @@
     code: gift_bundle_YZ2021_QSB91
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6109
@@ -6407,10 +7029,11 @@
     code: gift_bundle_YZ2021_PPK
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6201
-    name: PM-9-不敗的金色龍捲
+    name: PM-9-不敗的金色龍卷
     type: 2
     rank: 6
     favor: 50000
@@ -6420,6 +7043,7 @@
     code: gift_bundle_Fur2021_PM9
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6202
@@ -6433,10 +7057,11 @@
     code: gift_bundle_Fur2021_Delisle
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6203
-    name: Mk 12-食劫者的正義
+    name: Mk 12-食劫者的正義
     type: 2
     rank: 6
     favor: 50000
@@ -6446,6 +7071,7 @@
     code: gift_bundle_Fur2021_Mk12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6204
@@ -6459,6 +7085,7 @@
     code: gift_bundle_Fur2021_9A91
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6205
@@ -6472,6 +7099,7 @@
     code: gift_bundle_Fur2021_TT33
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6206
@@ -6485,6 +7113,7 @@
     code: gift_bundle_Fur2021_Tabuk
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6207
@@ -6498,10 +7127,11 @@
     code: gift_bundle_Fur2021_OC44
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6301
-    name: AUG Para-溯溪踏秋時
+    name: AUG Para-溯溪踏秋時
     type: 2
     rank: 6
     favor: 50000
@@ -6511,6 +7141,7 @@
     code: gift_bundle_Dating2021_AUGPARA
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6302
@@ -6524,6 +7155,7 @@
     code: gift_bundle_Dating2021_SL8
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6303
@@ -6537,6 +7169,7 @@
     code: gift_bundle_Dating2021_SP9
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6304
@@ -6550,6 +7183,7 @@
     code: gift_bundle_Dating2021_MondragonM1908
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6305
@@ -6563,10 +7197,11 @@
     code: gift_bundle_Dating2021_RexZero1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6306
-    name: Model L-向著碧空漾去
+    name: Model L-向著碧空漾去
     type: 2
     rank: 6
     favor: 50000
@@ -6576,6 +7211,7 @@
     code: gift_bundle_Dating2021_CETME556
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6401
@@ -6589,6 +7225,7 @@
     code: gift_bundle_Halloween2021_95type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6402
@@ -6602,6 +7239,7 @@
     code: gift_bundle_Halloween2021_SVCh
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6403
@@ -6615,6 +7253,7 @@
     code: gift_bundle_Halloween2021_CBJMS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6404
@@ -6628,6 +7267,7 @@
     code: gift_bundle_Halloween2021_KAC
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6405
@@ -6641,6 +7281,7 @@
     code: gift_bundle_Halloween2021_MP443
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6406
@@ -6654,6 +7295,7 @@
     code: gift_bundle_Halloween2021_LWMMG
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6501
@@ -6667,6 +7309,7 @@
     code: gift_bundle_Meka2021_DesertEagle
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6502
@@ -6680,6 +7323,7 @@
     code: gift_bundle_Meka2021_SIGMCX
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6503
@@ -6693,6 +7337,7 @@
     code: gift_bundle_Meka2021_88type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6504
@@ -6706,6 +7351,7 @@
     code: gift_bundle_Meka2021_MG36
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6505
@@ -6719,6 +7365,7 @@
     code: gift_bundle_Meka2021_HK416
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6507
@@ -6732,6 +7379,7 @@
     code: gift_bundle_Meka2021_F1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6601
@@ -6745,6 +7393,7 @@
     code: gift_bundle_Christmas2021_HowaType89
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6603
@@ -6758,6 +7407,7 @@
     code: gift_bundle_Christmas2021_Python
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6604
@@ -6771,6 +7421,7 @@
     code: gift_bundle_Christmas2021_VP1915
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6605
@@ -6784,10 +7435,11 @@
     code: gift_bundle_Christmas2021_CR21
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6606
-    name: Cx4 風暴-泳池邊的聖誕奇遇
+    name: Cx4 風暴-泳池邊的聖誕奇遇
     type: 2
     rank: 6
     favor: 50000
@@ -6797,6 +7449,7 @@
     code: gift_bundle_Christmas2021_Cx4Storm
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6607
@@ -6810,6 +7463,7 @@
     code: gift_bundle_Christmas2021_SAF
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6608
@@ -6823,6 +7477,7 @@
     code: gift_bundle_Christmas2021_FNFNC
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6701
@@ -6836,6 +7491,7 @@
     code: gift_bundle_NewYear2022_Vector
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6702
@@ -6849,6 +7505,7 @@
     code: gift_bundle_NewYear2022_LTLX7000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6703
@@ -6862,6 +7519,7 @@
     code: gift_bundle_NewYear2022_Lusa
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6704
@@ -6875,6 +7533,7 @@
     code: gift_bundle_NewYear2022_UMP9
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6705
@@ -6888,6 +7547,7 @@
     code: gift_bundle_NewYear2022_AR57
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6706
@@ -6901,6 +7561,7 @@
     code: gift_bundle_NewYear2022_VPM5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6707
@@ -6914,6 +7575,7 @@
     code: gift_bundle_NewYear2022_M14
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6801
@@ -6927,6 +7589,7 @@
     code: gift_bundle_SpringFes2022_SP9
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6802
@@ -6940,6 +7603,7 @@
     code: gift_bundle_SpringFes2022_Kolibri
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6803
@@ -6953,6 +7617,7 @@
     code: gift_bundle_SpringFes2022_A545
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6804
@@ -6966,6 +7631,7 @@
     code: gift_bundle_SpringFes2022_TKB408
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6805
@@ -6979,6 +7645,7 @@
     code: gift_bundle_SpringFes2022_HS50
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6806
@@ -6992,6 +7659,7 @@
     code: gift_bundle_SpringFes2022_MP7
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6807
@@ -7005,6 +7673,7 @@
     code: gift_bundle_SpringFes2022_G36
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6808
@@ -7018,6 +7687,7 @@
     code: gift_bundle_SpringFes2022_APS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6809
@@ -7031,6 +7701,7 @@
     code: gift_bundle_SpringFes2022_FN49
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6901
@@ -7044,6 +7715,7 @@
     code: gift_bundle_WhiteV2022_Lewis
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6902
@@ -7057,6 +7729,7 @@
     code: gift_bundle_WhiteV2022_97type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6903
@@ -7070,6 +7743,7 @@
     code: gift_bundle_WhiteV2022_P22
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6904
@@ -7083,6 +7757,7 @@
     code: gift_bundle_WhiteV2022_79type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6905
@@ -7096,6 +7771,7 @@
     code: gift_bundle_WhiteV2022_K5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6906
@@ -7109,6 +7785,7 @@
     code: gift_bundle_WhiteV2022_T77
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6907
@@ -7122,6 +7799,7 @@
     code: gift_bundle_WhiteV2022_M1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6908
@@ -7135,6 +7813,7 @@
     code: gift_bundle_WhiteV2022_Falcon
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 6909
@@ -7148,6 +7827,7 @@
     code: gift_bundle_WhiteV2022_LWMMG
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7001
@@ -7161,6 +7841,7 @@
     code: gift_bundle_OfficeLady2022_CZ75
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7002
@@ -7174,6 +7855,7 @@
     code: gift_bundle_OfficeLady2022_FX05
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7003
@@ -7187,6 +7869,7 @@
     code: gift_bundle_OfficeLady2022_RexZero1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7004
@@ -7200,6 +7883,7 @@
     code: gift_bundle_OfficeLady2022_C14
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7101
@@ -7213,6 +7897,7 @@
     code: gift_bundle_Anniversary2022_ZB26
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7102
@@ -7226,10 +7911,11 @@
     code: gift_bundle_Anniversary2022_Type100
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7103
-    name: Rhino-孤月之冠
+    name: 芮諾-孤月之冠
     type: 2
     rank: 6
     favor: 50000
@@ -7239,6 +7925,7 @@
     code: gift_bundle_Anniversary2022_Rhino
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7104
@@ -7252,6 +7939,7 @@
     code: gift_bundle_Anniversary2022_ColtDefender
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7105
@@ -7265,6 +7953,7 @@
     code: gift_bundle_Anniversary2022_MP443
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7106
@@ -7278,6 +7967,7 @@
     code: gift_bundle_Anniversary2022_88type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7107
@@ -7291,6 +7981,7 @@
     code: gift_bundle_Anniversary2022_M1895
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7108
@@ -7304,6 +7995,7 @@
     code: gift_bundle_Anniversary2022_64type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7201
@@ -7317,6 +8009,7 @@
     code: gift_bundle_Children2022_VSK
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7202
@@ -7330,10 +8023,11 @@
     code: gift_bundle_Children2022_95type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7203
-    name: Px4 風暴-冬眠守夢者
+    name: Px4 風暴-冬眠守夢者
     type: 2
     rank: 6
     favor: 50000
@@ -7343,6 +8037,7 @@
     code: gift_bundle_Children2022_Px4Storm
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7204
@@ -7356,6 +8051,7 @@
     code: gift_bundle_Children2022_Tabuk
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7205
@@ -7369,6 +8065,7 @@
     code: gift_bundle_Children2022_MG3
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7206
@@ -7382,6 +8079,7 @@
     code: gift_bundle_Children2022_56typeR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7301
@@ -7395,6 +8093,7 @@
     code: gift_bundle_Swimsuit2022_M6ASW
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7302
@@ -7408,6 +8107,7 @@
     code: gift_bundle_Swimsuit2022_Savage99
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7303
@@ -7421,6 +8121,7 @@
     code: gift_bundle_Swimsuit2022_Sterling
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7304
@@ -7434,6 +8135,7 @@
     code: gift_bundle_Swimsuit2022_HS50
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7305
@@ -7447,6 +8149,7 @@
     code: gift_bundle_Swimsuit2022_AK74M
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7306
@@ -7460,6 +8163,7 @@
     code: gift_bundle_Swimsuit2022_06TypeSMG
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7307
@@ -7473,10 +8177,11 @@
     code: gift_bundle_Swimsuit2022_EVO3
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7308
-    name: IWS 2000-沙堡終結者
+    name: IWS 2000-沙堡終結者
     type: 2
     rank: 6
     favor: 50000
@@ -7486,7 +8191,7 @@
     code: gift_bundle_Swimsuit2022_IWS2000
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
-    detail_introduction: gift_item-40007308
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7401
@@ -7500,6 +8205,7 @@
     code: gift_bundle_Cosmos2022_ACR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7402
@@ -7513,6 +8219,7 @@
     code: gift_bundle_Cosmos2022_SCR
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7403
@@ -7526,6 +8233,7 @@
     code: gift_bundle_Cosmos2022_QBU88
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7404
@@ -7539,6 +8247,7 @@
     code: gift_bundle_Cosmos2022_SIGMCX
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7406
@@ -7552,6 +8261,7 @@
     code: gift_bundle_Cosmos2022_G41
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7407
@@ -7565,6 +8275,7 @@
     code: gift_bundle_Cosmos2022_88type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7408
@@ -7578,6 +8289,7 @@
     code: gift_bundle_Cosmos2022_TavorTS12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7501
@@ -7591,6 +8303,7 @@
     code: gift_bundle_Sport2022_PA15
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7502
@@ -7604,6 +8317,7 @@
     code: gift_bundle_Sport2022_SR2
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7503
@@ -7617,6 +8331,7 @@
     code: gift_bundle_Sport2022_HKCAWS
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7504
@@ -7630,6 +8345,7 @@
     code: gift_bundle_Sport2022_SAF
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7505
@@ -7643,6 +8359,7 @@
     code: gift_bundle_Sport2022_Nova
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7506
@@ -7656,6 +8373,7 @@
     code: gift_bundle_Sport2022_C14
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7601
@@ -7669,6 +8387,7 @@
     code: gift_bundle_Halloween2022_M327
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7602
@@ -7682,6 +8401,7 @@
     code: gift_bundle_Halloween2022_KH2002
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7603
@@ -7695,6 +8415,7 @@
     code: gift_bundle_Halloween2022_JS9mm
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7604
@@ -7708,6 +8429,7 @@
     code: gift_bundle_Halloween2022_PPQ
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7605
@@ -7721,6 +8443,7 @@
     code: gift_bundle_Halloween2022_StenMK2
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7606
@@ -7734,6 +8457,7 @@
     code: gift_bundle_Halloween2022_MG42
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7607
@@ -7747,10 +8471,11 @@
     code: gift_bundle_Halloween2022_G43
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7701
-    name: 劉氏步槍-遊龍形拳
+    name: 劉氏步槍-游龍形拳
     type: 2
     rank: 6
     favor: 50000
@@ -7760,6 +8485,7 @@
     code: gift_bundle_KungFu2022_GeneralLiu
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7702
@@ -7773,6 +8499,7 @@
     code: gift_bundle_KungFu2022_QBZ191
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7703
@@ -7786,6 +8513,7 @@
     code: gift_bundle_KungFu2022_VP1915
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7704
@@ -7799,6 +8527,7 @@
     code: gift_bundle_KungFu2022_Ak5
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7705
@@ -7812,6 +8541,7 @@
     code: gift_bundle_KungFu2022_4type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7706
@@ -7825,6 +8555,7 @@
     code: gift_bundle_KungFu2022_56-1type
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7801
@@ -7838,6 +8569,7 @@
     code: gift_bundle_Christmas2022_Delisle
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7802
@@ -7851,6 +8583,7 @@
     code: gift_bundle_Christmas2022_Lusa
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7804
@@ -7864,6 +8597,7 @@
     code: gift_bundle_Christmas2022_MPL
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7806
@@ -7877,6 +8611,7 @@
     code: gift_bundle_Christmas2022_MPK
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7807
@@ -7890,10 +8625,11 @@
     code: gift_bundle_Christmas2022_KSVK
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7809
-    name: Bren Ten-絨絨草莓塔
+    name: Bren Ten-絨絨草莓撻
     type: 2
     rank: 6
     favor: 50000
@@ -7903,6 +8639,7 @@
     code: gift_bundle_Christmas2022_BrenTen
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7902
@@ -7916,6 +8653,7 @@
     code: gift_bundle_NewYear2023_A545
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7903
@@ -7929,6 +8667,7 @@
     code: gift_bundle_NewYear2023_SL8
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7904
@@ -7942,6 +8681,7 @@
     code: gift_bundle_NewYear2023_FX05
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7905
@@ -7955,6 +8695,7 @@
     code: gift_bundle_NewYear2023_PPD40
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7906
@@ -7968,6 +8709,7 @@
     code: gift_bundle_NewYear2023_OTs39
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 7907
@@ -7981,6 +8723,7 @@
     code: gift_bundle_NewYear2023_MicroUZI
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8001
@@ -7994,6 +8737,7 @@
     code: gift_bundle_SpringFes2023_MK3A1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8002
@@ -8007,6 +8751,7 @@
     code: gift_bundle_SpringFes2023_Px4Storm
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8003
@@ -8020,6 +8765,7 @@
     code: gift_bundle_SpringFes2023_Erma
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8004
@@ -8033,6 +8779,7 @@
     code: gift_bundle_SpringFes2023_Savage99
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8005
@@ -8046,6 +8793,7 @@
     code: gift_bundle_SpringFes2023_RexZero1
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8006
@@ -8059,6 +8807,7 @@
     code: gift_bundle_SpringFes2023_Tabuk
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8007
@@ -8072,6 +8821,7 @@
     code: gift_bundle_SpringFes2023_APC556
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8008
@@ -8085,6 +8835,7 @@
     code: gift_bundle_SpringFes2023_DP28
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8101
@@ -8098,6 +8849,7 @@
     code: gift_bundle_WhiteV2023_DP12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8102
@@ -8111,6 +8863,7 @@
     code: gift_bundle_WhiteV2023_SP9
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8103
@@ -8124,6 +8877,7 @@
     code: gift_bundle_WhiteV2023_AUG
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8105
@@ -8137,6 +8891,7 @@
     code: gift_bundle_WhiteV2023_MondragonM1908
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8106
@@ -8150,6 +8905,7 @@
     code: gift_bundle_WhiteV2023_TAR21
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8107
@@ -8163,6 +8919,7 @@
     code: gift_bundle_WhiteV2023_357
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8108
@@ -8176,6 +8933,7 @@
     code: gift_bundle_WhiteV2023_MP443
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8201
@@ -8189,6 +8947,7 @@
     code: gift_bundle_Piracy2023_Kord
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8202
@@ -8202,10 +8961,11 @@
     code: gift_bundle_Piracy2023_KH2002
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8203
-    name: SIG MCX-克拉肯獵人
+    name: SIG MCX-克拉肯獵人
     type: 2
     rank: 6
     favor: 50000
@@ -8215,6 +8975,7 @@
     code: gift_bundle_Piracy2023_SIGMCX
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8204
@@ -8228,10 +8989,11 @@
     code: gift_bundle_Piracy2023_PTRD
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8205
-    name: TS12-紅發的海上魔王
+    name: TS12-紅髮的海上魔王
     type: 2
     rank: 6
     favor: 50000
@@ -8241,6 +9003,7 @@
     code: gift_bundle_Piracy2023_TavorTS12
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 8206
@@ -8254,6 +9017,7 @@
     code: gift_bundle_Piracy2023_MP41
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 30001
@@ -8267,6 +9031,7 @@
     code: gift_bundle_BattlePass_AR15
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 30002
@@ -8280,6 +9045,7 @@
     code: gift_bundle_BattlePass_DSR50
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 30003
@@ -8293,6 +9059,7 @@
     code: gift_bundle_BattlePass_Lewis
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 30004
@@ -8306,6 +9073,7 @@
     code: gift_bundle_BattlePass_ColtWalker
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 30005
@@ -8319,6 +9087,7 @@
     code: gift_bundle_BattlePass_scarL
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 30006
@@ -8332,6 +9101,7 @@
     code: gift_bundle_BattlePass_C93
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 100001
@@ -8341,9 +9111,10 @@
     favor: 1000
     code: gift_item_lollipop_N
     bonus_description: 無
-    description: 在宿舍內在宿舍內贈送給對應人形，可以獲得微量好感度。
+    description: 在宿舍內贈送給對應人形，可以獲得微量好感度。
     item_access: "21"
     sort: 1001
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 100002
@@ -8353,9 +9124,10 @@
     favor: 3000
     code: gift_item_icecream_R
     bonus_description: 無
-    description: 在宿舍內在宿舍內贈送給對應人形，可以獲得少量好感度。
+    description: 在宿舍內贈送給對應人形，可以獲得少量好感度。
     item_access: "21"
     sort: 1002
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 100003
@@ -8365,9 +9137,10 @@
     favor: 10000
     code: gift_item_cake_SR
     bonus_description: 無
-    description: 在宿舍內在宿舍內贈送給對應人形，可以獲得1點好感度。
+    description: 在宿舍內贈送給對應人形，可以獲得1點好感度。
     item_access: "21,19,11,2"
     sort: 1003
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 100004
@@ -8376,9 +9149,11 @@
     rank: 5
     favor: 30000
     code: gift_item_destiny
-    description: 在宿舍內在宿舍內贈送給對應人形，可以獲得3點好感度。
+    bonus_description: 無
+    description: 在宿舍內贈送給對應人形，可以獲得3點好感度。
     item_access: "2"
     sort: -1005
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 100005
@@ -8387,9 +9162,11 @@
     rank: 5
     favor: 30000
     code: gift_item_mulantea
-    description: 在宿舍內在宿舍內贈送給對應人形，可以獲得3點好感度。
+    bonus_description: 無
+    description: 在宿舍內贈送給對應人形，可以獲得3點好感度。
     item_access: "2"
     sort: -1007
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 100006
@@ -8398,9 +9175,11 @@
     rank: 5
     favor: 30000
     code: gift_item_afternoonTea
-    description: 在宿舍內在宿舍內贈送給對應人形，可以獲得3點好感度。
+    bonus_description: 無
+    description: 在宿舍內贈送給對應人形，可以獲得3點好感度。
     item_access: "2"
     sort: -1009
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 100007
@@ -8409,10 +9188,11 @@
     rank: 5
     favor: 30000
     code: gift_item_whiskey
-    bonus_description: 要是我們奪回城市，我會請你喝一杯的。抱歉，我的意思是「當我們奪回城市後」
-    description: 在宿舍內在宿舍內贈送給對應人形，可以獲得3點好感度。
+    bonus_description: 要是我們奪回城市，我會請你喝一杯的。抱歉，我的意思是‘當我們奪回城市後’
+    description: 在宿舍內贈送給對應人形，可以獲得3點好感度。
     item_access: "2"
     sort: -1011
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 100008
@@ -8421,10 +9201,168 @@
     rank: 5
     favor: 30000
     code: gift_item_edenApple
+    bonus_description: 無
     description: 在宿舍內贈送給對應人形，可以獲得3點好感度。
     item_access: "2"
     detail_introduction: 曾經是禁止採摘的蘋果，被某位商業鬼才發現其中的價值後，迅速發展成了需要提前半年預訂的熱門蘋果種類。
     sort: -1014
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 100009
+    name: 擬態瓜子
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_Mimicmelonseeds
+    bonus_description: 無
+    description: 種下擬態瓜子，會長出擬態瓜嗎……那和真的西瓜有什麼區別？
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得好感度
+  }
+  {
+    id: 100010
+    name: 驚魂南瓜頭
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_pumpkinhead
+    bonus_description: 無
+    description: 半夜驚醒時看到床頭的南瓜燈，一瞬間會不會分不清噩夢與現實？
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得好感度
+  }
+  {
+    id: 100011
+    name: 聖誕老人的鬍子
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_beard
+    bonus_description: 無
+    description: 遭到人形哄搶的變裝道具，一度引領格里芬自拍濾鏡新風尚。
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得好感度
+  }
+  {
+    id: 100012
+    name: 鈴兒響叮噹
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_bell
+    bonus_description: 無
+    description: 據說只有相信聖誕老人真的存在的人，才能聽見它清脆的響聲。
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得好感度
+  }
+  {
+    id: 100013
+    name: 馴鹿頭飾
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_antlerheaddress
+    bonus_description: 無
+    description: 超級顯高的搭配單品，送給嬌小人形的不二選擇……誒，量身高的時候不讓戴嗎？！
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得好感度
+  }
+  {
+    id: 100014
+    name: 鯊排
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_sharkvolleyball
+    bonus_description: 無
+    description: 已去除殺傷組件，將不再引發「爆炸式扣殺」。堂堂正正地用鯊灘排球一決勝負吧！
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得好感度
+  }
+  {
+    id: 100015
+    name: 橡膠碎片
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_brokenrubber
+    bonus_description: 無
+    description: 顯然不能復原成排球了，但仍能作為爆炸箭、弓箭、小刀等緊急戰備物資的原料。
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得好感度
+  }
+  {
+    id: 100016
+    name: 黑巧脆殼
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_darkchocolate
+    bonus_description: 無
+    description: 經歷了一次爆炸後，巧克力球表面的杏仁碎和黑巧散髮出更加醇厚的香氣。
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得好感度
+  }
+  {
+    id: 100017
+    name: 白巧脆殼
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_Whitechocolate
+    bonus_description: 無
+    description: 經歷了一次爆炸後，巧克力球表面的杏仁碎和白巧散髮出更加濃郁的香氣。
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得好感度
+  }
+  {
+    id: 100018
+    name: 可可脆殼
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_chocolatechips
+    bonus_description: 無
+    description: 經歷了一次爆炸後，巧克力球內部的甘納許融化了，馥郁的香氣仍縈繞在外殼之上。
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得好感度
+  }
+  {
+    id: 100019
+    name: 吠叫點心
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_dessert
+    bonus_description: 無
+    description: 在巧克力前會汪汪叫的可疑點心……真的要聽夢想家的話吃掉它嗎？
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得好感度
+  }
+  {
+    id: 100020
+    name: 綠條紋氣球
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_watermelonballoon
+    bonus_description: 無
+    description: 從碧海孤島帶回來的氣球，應該是個西瓜。等等，這臉怎麼有點像……誰幹的！別跑！！
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得好感度
   }
   {
     id: 100021
@@ -8433,10 +9371,12 @@
     rank: 5
     favor: 30000
     code: gift_item_glowstick
-    description: 在宿舍內在宿舍內贈送給對應人形，可以獲得3點好感度。
+    bonus_description: 無
+    description: 在宿舍內贈送給對應人形，可以獲得3點好感度。
     item_access: "2"
-    detail_introduction: 所謂應援，無需言語無需表情，僅憑手中的螢光棒和整齊的應援舞就足以讓台上的偶像明白，你們之間存在著無法斬斷的連結。
+    detail_introduction: 所謂應援，無需言語無需表情，僅憑手中的熒光棒和整齊的應援舞就足以讓台上的偶像明白，你們之間存在著無法斬斷的鏈接。
     sort: -1015
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 200001
@@ -8445,10 +9385,11 @@
     rank: 6
     code: battle_report
     bonus_description: 無
-    description: “外表看起來令人懷念的磁片，當年只能容納1.4Mb資料，幸好內部容量經過改進，不然一份報告書的量要用鏟車來裝了。”
+    description: 「外表看起來令人懷念的磁盤，當年只能容納1.4Mb數據，幸好內部容量經過改進，不然一份報告書的量要用鏟車來裝了。」
     exp: 3000
     item_access: "24,16,6,2"
     sort: 1004
+    normal_description: 人形和妖精可獲得經驗值
   }
   {
     id: 200002
@@ -8461,6 +9402,7 @@
     exp: 10000
     item_access: "2"
     sort: -1006
+    normal_description: 人形和妖精可獲得經驗值
   }
   {
     id: 200003
@@ -8473,6 +9415,7 @@
     exp: 10000
     item_access: "2"
     sort: -1008
+    normal_description: 人形和妖精可獲得經驗值
   }
   {
     id: 200004
@@ -8485,6 +9428,7 @@
     exp: 10000
     item_access: "2"
     sort: -1010
+    normal_description: 人形和妖精可獲得經驗值
   }
   {
     id: 200005
@@ -8497,6 +9441,7 @@
     exp: 10000
     item_access: "2"
     sort: -1012
+    normal_description: 人形和妖精可獲得經驗值
   }
   {
     id: 200006
@@ -8509,6 +9454,189 @@
     item_access: "2"
     detail_introduction: 據說是撒旦大人進行魔導研究時產生的副產物，喝下去能夠讓惡魔變強。但因為使用體驗過於糟糕，所以銷量不佳淪為了強塞的贈品。
     sort: -1013
+    normal_description: 人形和妖精可獲得經驗值
+  }
+  {
+    id: 200007
+    name: 蟹炮
+    type: 3
+    rank: 6
+    code: gift_item_crabcannon
+    bonus_description: 無
+    description: 已經不能使用了，但拿在手裡還是挺酷的。
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200008
+    name: 暗棘海星
+    type: 3
+    rank: 6
+    code: gift_item_starfish
+    bonus_description: 無
+    description: 看起來沒什麼危害的海星，捏起來手感甚至不錯，應該不會爆炸吧？……啪！！！
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200009
+    name: 飄蕩鬼火
+    type: 3
+    rank: 6
+    code: gift_item_ghost
+    bonus_description: 無
+    description: 不要問它是如何形成的，因為鬼火自己也不知道。
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200010
+    name: 古典掃帚
+    type: 3
+    rank: 6
+    code: gift_item_broom
+    bonus_description: 無
+    description: 飛行模式協議失效，起碼還能用來掃地。
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200011
+    name: 黑騎之冠
+    type: 3
+    rank: 6
+    code: gift_item_blackknighthelmet
+    bonus_description: 無
+    description: 堅硬的頭盔，彰顯著主人不屈的鬥志……等等，羊角好像是軟的，可以凹造型嗎？
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200012
+    name: 炙熱光球
+    type: 3
+    rank: 6
+    code: gift_item_desire
+    bonus_description: 無
+    description: 積蓄了大量熱能的球狀物，冬天抱著暖手剛剛好。
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200013
+    name: 譎藍捧花
+    type: 3
+    rank: 6
+    code: gift_item_bluebouquet
+    bonus_description: 無
+    description: 現已被格里芬人形廣泛用於練習閃避。
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200014
+    name: 白骨之心
+    type: 3
+    rank: 6
+    code: gift_item_bonesheart
+    bonus_description: 無
+    description: 森森白骨雕刻的心形吊墜，散髮著揮之不去的幽怨氣息。
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200015
+    name: 幽白簾布
+    type: 3
+    rank: 6
+    code: gift_item_whiterag
+    bonus_description: 無
+    description: 十分眼熟的白布，雖然破了幾個洞，但仍能製作成醫療包、消聲器、燃燒瓶等緊急戰備物資。
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200016
+    name: 夏日殺手
+    type: 3
+    rank: 6
+    code: gift_item_watergun
+    bonus_description: 無
+    description: 經過簡單改造，這把高壓水槍各方面參數表現都很優秀，泛用性極強，適應各種模式的水仗。
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200017
+    name: 無糖魔蟻
+    type: 3
+    rank: 6
+    code: gift_item_ants
+    bonus_description: 無
+    description: 外層的奶油、巧克力、蛋糕全被某不知名人形吃光了，希望她沒磕到牙齒。
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200018
+    name: 漁獵救生圈
+    type: 3
+    rank: 6
+    code: gift_item_lifebuoy
+    bonus_description: 無
+    description: 重、重達100公斤的救生圈？！實際使用場合似乎是臥推、深蹲、日常負重……
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200019
+    name: 漁獵蓄力4K
+    type: 3
+    rank: 6
+    code: gift_item_watergun2
+    bonus_description: 無
+    description: 這把高壓水槍射程表現優異，穩定性極強，並擁有貫穿噴射的特殊攻擊方式，可對一條直線的多個對手噴出大量水花，是多種模式水仗的最佳後排選擇。
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
+  }
+  {
+    id: 200020
+    name: 漁獵衝浪板
+    type: 3
+    rank: 6
+    code: gift_item_surfboard
+    bonus_description: 無
+    description: 衝浪板中的狂暴大白鯊！想在下一屆格里芬衝浪大賽中奪冠嗎？那就一定不能錯過它！
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 獲得經驗值
   }
   {
     id: 200021
@@ -8522,17 +9650,19 @@
     item_access: "2"
     detail_introduction: 成為偶像沒有捷徑，唯有通過一次次的練習才有可能登上舞台，讓觀眾為你轉身。
     sort: -1016
+    normal_description: 人形和妖精可獲得經驗值
   }
   {
     id: 400001
-    name: 突擊成長儲存碟
+    name: 突擊成長存儲碟
     type: 4
     rank: 6
     code: SangvisExp_RapidGrowthDisk
     bonus_description: 無
-    description: 僅供融合勢力人形使用的學習磁碟，內部記載了格里芬的戰鬥課程和思想品德課程。
+    description: 僅供融合勢力人形使用的學習磁盤，內部記載了格里芬的戰鬥課程和思想品德課程。
     exp: 3000
     item_access: "19,20,22"
     sort: 1005
+    normal_description: 融合勢力單位可獲得經驗值
   }
 ]

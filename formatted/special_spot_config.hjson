@@ -23,8 +23,8 @@
     code: "2"
     priority: 10
     duration_type: "1"
-    detect_target_type: "1"
-    effect_target_type: "1"
+    detect_target_type: "1,301"
+    effect_target_type: "1,301"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
     conflict_type: 2
@@ -41,8 +41,8 @@
     code: "3"
     priority: 11
     duration_type: "1"
-    detect_target_type: "1"
-    effect_target_type: "1"
+    detect_target_type: "1,301"
+    effect_target_type: "1,301"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
     conflict_type: 3
@@ -60,8 +60,8 @@
     priority: 14
     duration_type: "1"
     duration_time: "1"
-    detect_target_type: "1"
-    effect_target_type: "1"
+    detect_target_type: "1,301"
+    effect_target_type: "1,301"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
     conflict_type: 4
@@ -79,8 +79,8 @@
     priority: 16
     duration_type: "1"
     duration_time: "1"
-    detect_target_type: "1"
-    effect_target_type: "1"
+    detect_target_type: "1,301"
+    effect_target_type: "1,301"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
     conflict_type: 8
@@ -123,7 +123,7 @@
     duration_time: "3"
     mission_buff_config_id: 6
     detect_target_type: "-1"
-    effect_target_type: "1,8"
+    effect_target_type: "1,8,301"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
     side_type: 2
@@ -200,8 +200,8 @@
     priority: 98
     duration_type: "1"
     duration_time: "1"
-    detect_target_type: "1"
-    effect_target_type: "1"
+    detect_target_type: "1,301"
+    effect_target_type: "1,301"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
     side_type: 2
@@ -1039,8 +1039,8 @@
     priority: 1701
     duration_type: "1"
     duration_time: "1"
-    detect_target_type: "1"
-    effect_target_type: "1"
+    detect_target_type: "1,301"
+    effect_target_type: "1,301"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
     conflict_type: 1701
@@ -1059,8 +1059,8 @@
     priority: 1702
     duration_type: "1"
     duration_time: "1"
-    detect_target_type: "1"
-    effect_target_type: "1"
+    detect_target_type: "1,301"
+    effect_target_type: "1,301"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
     conflict_type: 1702
@@ -1279,7 +1279,7 @@
     mission_buff_config_id: 2300
     detect_target_type: "-1"
     detect_range: 2
-    effect_target_type: "1,8"
+    effect_target_type: "1,8,301"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 2
     conflict_type: 2301
@@ -1298,7 +1298,7 @@
     mission_buff_config_id: 2300
     detect_target_type: "-1"
     detect_range: 2
-    effect_target_type: "1,8"
+    effect_target_type: "1,8,301"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 2
     conflict_type: 2301
@@ -1317,7 +1317,7 @@
     mission_buff_config_id: 2300
     detect_target_type: "-1"
     detect_range: 2
-    effect_target_type: "1,8"
+    effect_target_type: "1,8,301"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 2
     conflict_type: 2301
@@ -1409,6 +1409,224 @@
     conditions_type: 0;0
     conditions_time: 0-0;0-0
     skill_config_id_on_birth: "20302,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+  }
+  {
+    id: 70001
+    name: 阻擋buff
+    code: "70001"
+    priority: 70001
+    duration_type: "1"
+    duration_time: "99"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 70001
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    conditions_count: 1
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+    effect_duration: 900002
+    spot_buff_config_id: 3
+  }
+  {
+    id: 70012
+    name: 扣殘血-出生發動
+    code: "70012"
+    priority: 70012
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "1,3,5,7,8,201,301"
+    effect_target_type: "1,3,5,7,8,201,301"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 70012
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    conditions_count: 1
+    skill_config_id_on_birth: "0,70012,0"
+    skill_config_id_on_death: "0,70012,0"
+    death_effect_target_type: "-1"
+    effect_process_star: 3
+  }
+  {
+    id: 70014
+    name: 扣掉編-出生發動
+    code: "70014"
+    priority: 70014
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "1,3,5,7,8,201,301"
+    effect_target_type: "1,3,5,7,8,201,301"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 70014
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    conditions_count: 1
+    skill_config_id_on_birth: "0,70014,0"
+    skill_config_id_on_death: "0,70014,0"
+    death_effect_target_type: "-1"
+    effect_process_star: 3
+  }
+  {
+    id: 72001
+    name: 炸建築得分
+    description: 炸建築得分
+    priority: -1
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "1,3,5,7,8,201,301"
+    effect_target_type: "1,3,5,7,8,201,301"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 72001
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,72002"
+    death_effect_target_type: "-1"
+  }
+  {
+    id: 72002
+    name: 獎勵關計分
+    description: 獎勵關計分
+    priority: -1
+    duration_type: "1"
+    duration_time: "99"
+    detect_target_type: "1,3,5,7,8,201,301"
+    effect_target_type: "1,3,5,7,8,201,301"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 72002
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+  }
+  {
+    id: 78001
+    name: 不亮
+    priority: 1
+    duration_type: "3"
+    duration_time: "1"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 78001
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,78002"
+    death_effect_target_type: "-1"
+  }
+  {
+    id: 78002
+    name: 亮
+    priority: 1
+    duration_type: "3"
+    duration_time: "1"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 78002
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,78001"
+    death_effect_target_type: "-1"
+    effect_duration: 1000141
+  }
+  {
+    id: 78003
+    name: 結算
+    code: M4A1_Boss
+    priority: 1
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 78003
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+  }
+  {
+    id: 78024
+    name: "[avg]daily_bonus_tips1"
+    priority: 1
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 78024
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+  }
+  {
+    id: 78025
+    name: "[avg]daily_bonus_tips2"
+    priority: 1
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 78025
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+  }
+  {
+    id: 78026
+    name: "[avg]daily_bonus_tips3"
+    priority: 1
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 78026
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+  }
+  {
+    id: 78027
+    name: "60"
+    priority: 1
+    duration_type: "1"
+    duration_time: "99"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 78027
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
     skill_config_id_on_death: "0,0,0"
     death_effect_target_type: "-1"
   }
@@ -11224,8 +11442,7 @@
   }
   {
     id: 572021
-    name: special_spot_config-10572021
-    description: special_spot_config-20572021
+    name: "[avg]-57-EXT-7-11"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -11243,8 +11460,7 @@
   }
   {
     id: 572022
-    name: special_spot_config-10572022
-    description: special_spot_config-20572022
+    name: "[avg]-57-EXT-7-12"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -11262,8 +11478,7 @@
   }
   {
     id: 572023
-    name: special_spot_config-10572023
-    description: special_spot_config-20572023
+    name: "[avg]-57-EXT-7-13"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -11281,8 +11496,7 @@
   }
   {
     id: 572024
-    name: special_spot_config-10572024
-    description: special_spot_config-20572024
+    name: "[avg]-57-EXT-7-14"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -11300,8 +11514,7 @@
   }
   {
     id: 572025
-    name: special_spot_config-10572025
-    description: special_spot_config-20572025
+    name: "[avg]-57-EXT-7-24"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -11319,8 +11532,7 @@
   }
   {
     id: 572026
-    name: special_spot_config-10572026
-    description: special_spot_config-20572026
+    name: "[avg]-57-EXT-7-15"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -11338,8 +11550,7 @@
   }
   {
     id: 572027
-    name: special_spot_config-10572027
-    description: special_spot_config-20572027
+    name: "[avg]-57-EXT-7-16"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -11357,8 +11568,7 @@
   }
   {
     id: 572028
-    name: special_spot_config-10572028
-    description: special_spot_config-20572028
+    name: "[avg]-57-EXT-7-26"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -11376,8 +11586,7 @@
   }
   {
     id: 572029
-    name: special_spot_config-10572029
-    description: special_spot_config-20572029
+    name: "[avg]-57-EXT-7-36"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -11395,8 +11604,7 @@
   }
   {
     id: 572030
-    name: special_spot_config-10572030
-    description: special_spot_config-20572030
+    name: "[avg]-57-EXT-7-17"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -11414,8 +11622,7 @@
   }
   {
     id: 572031
-    name: special_spot_config-10572031
-    description: special_spot_config-20572031
+    name: "[avg]-57-EXT-7-27"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -12878,6 +13085,44 @@
     conflict_type: 599920
     conditions_type: 0;0
     conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+  }
+  {
+    id: 700121
+    name: 扣殘血ss
+    code: "700121"
+    priority: 700121
+    duration_type: "3"
+    duration_time: "1"
+    mission_hurt_config_id: 70012
+    detect_target_type: "1,3,5,7,8,201,301"
+    effect_target_type: "1,3,5,7,8,201,301"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 700121
+    conditions_type: 3;0
+    conditions_time: 0-1;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+  }
+  {
+    id: 700141
+    name: 扣掉編
+    code: "700141"
+    priority: 700141
+    duration_type: "3"
+    duration_time: "1"
+    mission_hurt_config_id: 70014
+    detect_target_type: "1,3,5,7,8,201,301"
+    effect_target_type: "1,3,5,7,8,201,301"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 700141
+    conditions_type: 3;0
+    conditions_time: 0-1;0-0
     skill_config_id_on_birth: "0,0,0"
     skill_config_id_on_death: "0,0,0"
     death_effect_target_type: "-1"
@@ -33283,6 +33528,25 @@
     conflict_type: 6560049
     conditions_type: 0;0
     conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+  }
+  {
+    id: 7000001
+    name: AI目標識別-非空檢測
+    code: "7000001"
+    priority: 7000001
+    duration_type: "3"
+    duration_time: "1"
+    mission_buff_config_id: 7000001
+    detect_target_type: "1,3,5,7,8,201,301"
+    effect_target_type: "1,3,5,7,8,201,301"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 7000001
+    conditions_type: 3;0
+    conditions_time: 0-1;0-0
     skill_config_id_on_birth: "0,0,0"
     skill_config_id_on_death: "0,0,0"
     death_effect_target_type: "-1"

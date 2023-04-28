@@ -999,7 +999,7 @@
     speed_rank: 1
     range_rank: 3
     counter: 擁有較高的護甲和力場值，具有較高的減傷能力，會使用多枚榴彈進行轟炸。請注意使用具有穿甲能力的人形在接戰前盡可能進行打擊，或使用護盾技能抵御榴彈的轟炸。重裝部隊的支援將使戰鬥更加有利。
-    character: "302,1003,309,312,319"
+    character: "1003,302,309,312,319"
     enemy_skill: "28,29"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "60,60,1"
@@ -1019,7 +1019,7 @@
     speed_rank: 3
     range_rank: 4
     counter: 擁有高額的力場值和較高的護甲，具有優異的減傷能力，會使用突進碾壓的手段衝擊我方陣型。請注意及時指揮人形躲避。重裝部隊的支援將使戰鬥更加有利。
-    character: "302,1001,309,312"
+    character: "1001,302,309,312"
     enemy_skill: "31,32"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "50,50,1"
@@ -1122,7 +1122,7 @@
     speed_rank: 3
     range_rank: 5
     counter: 該單位能力均衡，同時會持續給我方造成小額傷害，不適合長時間交戰，請注意提高梯隊的整體作戰能力應對。
-    character: "1001,301,302"
+    character: "1001,302,301"
     enemy_skill: "57,58"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "70,70,1"
@@ -1309,7 +1309,7 @@
     speed_rank: 2
     range_rank: 2
     counter: 擁有一定的力場值和護甲，起初的減傷能力一般，但是後續會不斷恢復和增加力場值，在破防能力不足的情況下不適合長時間與之交戰。建議在有重裝部隊支援的前提下進行戰鬥。
-    character: "302,309,312,316"
+    character: "309,302,312,316"
     enemy_skill: "34,35,140"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "80,80,1"
@@ -1617,7 +1617,7 @@
     speed_rank: 5
     range_rank: 3
     counter: 具有一般程度的護甲，請注意梯隊的穿甲能力、提升前排人形的防禦能力,以及面對該單位強力的炮擊時注意移動被鎖定的單位,不讓其後排的單位受到波及。
-    character: "1001,302,1003,309,317,316"
+    character: "1001,1003,302,309,317,316"
     enemy_skill: "52,53"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "40,40,1"
@@ -3384,7 +3384,7 @@
     speed_rank: 5
     range_rank: 5
     counter: 該單位火力十足的同時還擁有強大的防護能力，注意合適的集火時機。
-    character: "1001,302,320"
+    character: "1001,320,302"
     enemy_skill: "174,175,176"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "50,50,1"
@@ -3811,6 +3811,107 @@
     counter: 情報不明,謹慎應對!
     character: "1001"
     enemy_skill: "179,116,180,181,182,183"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 195
+    name: 稻草人
+    type: 1
+    code: Scarecrow
+    introduce: 擅長收集和分析情報，並不擅長正面作戰，在鐵血人形中地位較低。理性派，無口毒舌，忠於職守，鄙夷感性，面對感情豐富卻只懂得服從的格里芬人形充滿優越感。
+    forces: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    speed_rank: 4
+    range_rank: 3
+    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    character: "1001,306,307"
+    enemy_skill: "184,185,186"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 196
+    name: 建築師
+    type: 1
+    code: BossArchitect
+    introduce: 擅長遠程破壞和火力支援，作戰能力很強，通常獨來獨往。活潑開朗的沒頭腦元氣少女，什麼時候都興高采烈，對格里芬也沒有敵對意識，對於鐵血只能最低限度地服從命令，但是對轟炸和破壞十分熱心，所以作為敵人仍然十分危險。
+    forces: 1
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 5
+    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    character: "1001,319"
+    enemy_skill: "187,188,189"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    id: 197
+    name: 干擾者
+    type: 1
+    code: Intruder
+    introduce: 負責提供作戰策略，也擅長破解和干擾工作，可以直接指揮作戰人形，是稍高級的人形，直接對計量官負責。優雅溫和的言行背後，令人感到的是巨大的空洞，喜歡人類的戲劇，可能是希望從中找到自己的個性。
+    forces: 1
+    pow_rank: 4
+    life_rank: 4
+    hit_rank: 3
+    dodge_rank: 4
+    rate_rank: 5
+    speed_rank: 3
+    range_rank: 3
+    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    character: "1001,306"
+    enemy_skill: "190,191,192"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    id: 198
+    name: 破壞者
+    type: 1
+    code: Destroyer
+    introduce: 擅長爆破任務，解除炸彈也是專家級的，作戰能力也不錯，和煉金術士有時會搭檔。平時高傲，毒舌，實際上是個傲嬌，有點小孩子脾氣，逼急了會哭鼻子，十分在意自己的身高。
+    forces: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    character: "1001,319"
+    enemy_skill: "193,194,195"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    id: 199
+    name: 法官
+    type: 1
+    code: Justice
+    introduce: 偏向指揮能力，負責鐵血總部的防禦和安全系統，相當於伊萊莎的侍衛，只會聽從伊萊莎個人的命令，是蝴蝶事件之後才製造的人形，整天面對夢想家很頭疼。嚴肅古板，充滿軍人的威嚴和風範，對伊萊莎絕對忠誠，但個子比較矮小，讓人覺得缺乏氣勢，提出這一點的人無論敵我都會倒大霉。
+    forces: 1
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    character: "1001,309,307"
+    enemy_skill: "196,197,198"
     launch_time: 2035-5-20 00:00:00
     spine_scale: "70,70,1"
   }

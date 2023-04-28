@@ -1,0 +1,746 @@
+[
+  {
+    id: 101
+    fight_environment_skill_id: 12020101
+    description: 意外啟動了火力模塊。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 102
+    fight_environment_skill_id: 12020201
+    description: 意外啟動了超頻火力模塊。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 103
+    fight_environment_skill_id: 12020101
+    description: 收穫了火力模塊。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 104
+    fight_environment_skill_id: 12020201
+    description: 收穫了超頻火力模塊。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 105
+    fight_environment_skill_id: 12020101
+    description: 啤酒——再找更多敵人來。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 106
+    fight_environment_skill_id: 12020201
+    description: 雙份啤酒——再找更多敵人來。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 107
+    fight_environment_skill_id: 12020101
+    description: 蝴蝶翻飛，火力模塊被啟動。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 108
+    fight_environment_skill_id: 12020201
+    description: 蝴蝶翻飛，超頻火力模塊被啟動。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 201
+    fight_environment_skill_id: 12020301
+    description: 向機槍組學習了連發技巧。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 202
+    fight_environment_skill_id: 12020401
+    description: 向機槍組學習了高級的連發技巧。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 203
+    fight_environment_skill_id: 12020301
+    description: 發現連發技能模組，嘗試啟動。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 204
+    fight_environment_skill_id: 12020401
+    description: 發現超連發技能模組，嘗試啟動。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 205
+    fight_environment_skill_id: 12020301
+    description: 意外啟動了連發模塊。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 206
+    fight_environment_skill_id: 12020401
+    description: 意外啟動了超頻連發模塊。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 207
+    fight_environment_skill_id: 12020301
+    description: 教父——開槍，不準停火。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 208
+    fight_environment_skill_id: 12020401
+    description: 雙份教父——開槍，不準停火。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 209
+    fight_environment_skill_id: 12020301
+    description: 一串代碼啟動了連發模塊。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 210
+    fight_environment_skill_id: 12020401
+    description: 一串代碼啟動了超頻連發模塊。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 301
+    fight_environment_skill_id: 12020501
+    description: 常見材料製作的穿甲子彈。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 302
+    fight_environment_skill_id: 12020601
+    description: 特殊材料製作的穿甲子彈。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 303
+    fight_environment_skill_id: 12020501
+    description: 散落了一地的穿甲子彈。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 304
+    fight_environment_skill_id: 12020601
+    description: 散落了一地的高級穿甲子彈。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 305
+    fight_environment_skill_id: 12020501
+    description: 墨西哥日出——灼燒一切。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 306
+    fight_environment_skill_id: 12020601
+    description: 雙份墨西哥日出——灼燒一切。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 307
+    fight_environment_skill_id: 12020501
+    description: 機密文件，揭示超前的武器知識。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 308
+    fight_environment_skill_id: 12020601
+    description: 絕密文件，揭示超前的武器知識。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 401
+    fight_environment_skill_id: 12021501
+    description: 拾獲了導軌整合系統。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 402
+    fight_environment_skill_id: 12021601
+    description: 拾獲了最新的導軌整合系統。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 403
+    fight_environment_skill_id: 12021501
+    description: 藍鳥——今天的運氣不錯！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 404
+    fight_environment_skill_id: 12021601
+    description: 雙份藍鳥——今天的運氣不錯！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 405
+    fight_environment_skill_id: 12021501
+    description: 啟動了瞄準精度芯片。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 406
+    fight_environment_skill_id: 12021601
+    description: 啟動了高級瞄準精度芯片。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 501
+    fight_environment_skill_id: 12020901
+    description: 泛黃的冊子，記述著戰鬥往事。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 502
+    fight_environment_skill_id: 12021001
+    description: 帶血跡的冊子，記述著戰鬥往事。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 503
+    fight_environment_skill_id: 12020901
+    description: 哈維撞牆——一往無前！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 504
+    fight_environment_skill_id: 12021001
+    description: 雙份哈維撞墻——一往無前！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 505
+    fight_environment_skill_id: 12020901
+    description: 一本技術手冊，從中得到了啟示。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 506
+    fight_environment_skill_id: 12021001
+    description: 一本開發手冊，從中得到了啟示。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 601
+    fight_environment_skill_id: 12022101
+    description: 噴霧凝膠彈——休想逃走！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 602
+    fight_environment_skill_id: 12022201
+    description: 噴霧凝膠發射裝置——休想逃走！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 603
+    fight_environment_skill_id: 12022101
+    description: 出現奇怪的對敵信號干擾。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 604
+    fight_environment_skill_id: 12022201
+    description: 出現強烈的對敵信號干擾。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 605
+    fight_environment_skill_id: 12022101
+    description: 血腥瑪麗——腿已經嚇軟了？
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 606
+    fight_environment_skill_id: 12022201
+    description: 雙份血腥瑪麗——腿已經嚇軟了？
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 701
+    fight_environment_skill_id: 12021901
+    description: 煙幕彈，上書「七彩」字樣。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 702
+    fight_environment_skill_id: 12022001
+    description: 自動煙幕彈，上書「七彩」字樣
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 703
+    fight_environment_skill_id: 12021901
+    description: 總覺得，戰鬥的聲音遠去了。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 704
+    fight_environment_skill_id: 12022001
+    description: 總覺得，世上已不再有硝煙了。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 705
+    fight_environment_skill_id: 12021901
+    description: 黃金夢——致最珍視的你。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 706
+    fight_environment_skill_id: 12022001
+    description: 雙份黃金夢——致最珍視的你。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 801
+    fight_environment_skill_id: 12022301
+    description: 導軌干擾器——往哪兒看呢？
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 802
+    fight_environment_skill_id: 12022401
+    description: 異化導軌干擾器——往哪兒看呢？
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 803
+    fight_environment_skill_id: 12022301
+    description: 內心似乎重燃了些什麼！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 804
+    fight_environment_skill_id: 12022401
+    description: 內心突然充滿鬥志！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 805
+    fight_environment_skill_id: 12022301
+    description: 瑪格麗特——樂觀點，寶貝。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 806
+    fight_environment_skill_id: 12022401
+    description: 雙份瑪格麗特——樂觀點，寶貝。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 901
+    fight_environment_skill_id: 12020701
+    description: 便攜盾牌——來挑戰我的防禦吧！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 902
+    fight_environment_skill_id: 12020801
+    description: 戰術盾牌——來挑戰我的防禦吧！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 903
+    fight_environment_skill_id: 12020701
+    description: 未知元素力量為全隊強化了護盾。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 904
+    fight_environment_skill_id: 12020801
+    description: 特殊元素力量為全隊強化了護盾。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 905
+    fight_environment_skill_id: 12020701
+    description: 天使之吻——這比祈禱有用。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 906
+    fight_environment_skill_id: 12020801
+    description: 雙份天使之吻——這比祈禱有用。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1001
+    fight_environment_skill_id: 12021101
+    description: 享受了一番機油護理。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1002
+    fight_environment_skill_id: 12021201
+    description: 享受了一番高級機油護理。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1003
+    fight_environment_skill_id: 12021101
+    description: 機油護理液，試用後靈活度增加。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1004
+    fight_environment_skill_id: 12021201
+    description: 機油滋養液，試用後靈活度大增。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1005
+    fight_environment_skill_id: 12021101
+    description: 卡薩布蘭卡——危險已消失。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1006
+    fight_environment_skill_id: 12021201
+    description: 雙份卡薩布蘭卡——危險已消失。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1101
+    fight_environment_skill_id: 12021701
+    description: 優秀的推進器，小身材，大功率。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1102
+    fight_environment_skill_id: 12021801
+    description: 精良的推進器，小身材，大功率。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1103
+    fight_environment_skill_id: 12021701
+    description: 未知元素力量為全隊強化了速度。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1104
+    fight_environment_skill_id: 12021801
+    description: 特殊元素力量為全隊強化了速度。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1105
+    fight_environment_skill_id: 12021701
+    description: 奧林匹克——更高！更快！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1106
+    fight_environment_skill_id: 12021801
+    description: 雙份奧林匹克——更高！更快！
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1201
+    fight_environment_skill_id: 12021301
+    description: 夜視模組——我已看破黑夜。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1202
+    fight_environment_skill_id: 12021401
+    description: 高級夜視模組——我已看破黑夜。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1203
+    fight_environment_skill_id: 12021301
+    description: 傑克玫瑰——綻放鮮紅。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1204
+    fight_environment_skill_id: 12021401
+    description: 雙份傑克玫瑰——綻放鮮紅。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1205
+    fight_environment_skill_id: 12021301
+    description: 神秘實驗室內的紅外偵查儀。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1206
+    fight_environment_skill_id: 12021401
+    description: 神秘實驗室內的高精紅外偵查儀。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1301
+    fight_environment_skill_id: 12022501
+    description: 功能特殊的芯片，能干擾敵人。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1302
+    fight_environment_skill_id: 12022501
+    description: 功能特殊的核心，能干擾敵人。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1401
+    fight_environment_skill_id: 12022601
+    description: 一根撬棍，可以給敵人造成痛感。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1402
+    fight_environment_skill_id: 12022601
+    description: 一根燒紅的撬棍，能讓敵人慘叫。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1501
+    fight_environment_skill_id: 12022701
+    description: 機械殘骸，似乎被某種力量干擾。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1502
+    fight_environment_skill_id: 12022701
+    description: 短棍，隱約寫著「T……」字樣。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1601
+    fight_environment_skill_id: 12022801
+    description: 這些標靶好眼熟，怎麼會在這裡？
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1701
+    fight_environment_skill_id: 12022901
+    description: 巨型ELID植物，花已凋零。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1702
+    fight_environment_skill_id: 12022901
+    description: 造型奇特的假花，凋零得很詭譎。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1801
+    fight_environment_skill_id: 12023001
+    description: 一枚陀螺——搜索大腦中的秘密。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1901
+    fight_environment_skill_id: 12023301
+    description: 紙折的獨角獸——願你得到守護。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 2001
+    fight_environment_skill_id: 12023201
+    description: 看起來像拆遷通知，似曾相識。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 2002
+    fight_environment_skill_id: 12023201
+    description: 運算中的設備，螢幕閃爍著數字。
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    id: 1
+    name: 基礎綜合編隊
+    auto_formation_id: 1
+    auto_formation_sangvis_id: 1
+  }
+  {
+    id: 2
+    name: 基礎狙擊編隊
+    auto_formation_id: 2
+  }
+  {
+    id: 3
+    name: 基礎爆發編隊
+    auto_formation_id: 3
+  }
+  {
+    id: 4
+    name: 穿甲特化編隊
+    auto_formation_id: 4
+    auto_formation_sangvis_id: 4
+  }
+  {
+    id: 5
+    name: 開場爆發編隊
+    auto_formation_id: 5
+    auto_formation_sangvis_id: 6
+  }
+  {
+    id: 6
+    name: 廣域攻擊編隊
+    auto_formation_id: 6
+    auto_formation_sangvis_id: 2
+  }
+  {
+    id: 7
+    name: 夜戰特化編隊
+    auto_formation_id: 7
+  }
+  {
+    id: 8
+    name: 單體爆發編隊
+    auto_formation_id: 8
+    auto_formation_sangvis_id: 3
+  }
+  {
+    id: 9
+    name: 長線作戰編隊
+    auto_formation_id: 9
+    auto_formation_sangvis_id: 5
+  }
+  {
+    id: 10
+    name: 近戰衝鋒梯隊
+    auto_formation_sangvis_id: 7
+  }
+]

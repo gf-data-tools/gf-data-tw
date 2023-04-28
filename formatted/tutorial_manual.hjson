@@ -120,7 +120,7 @@
     type: 2
     title: 人形修復
     sub_title: 請及時修復受創人形。
-    content: 246b53c98e77d613_draw_2008204171.jpg,5d8db42489b628e7_draw_2008204170.jpg,8b8a7666dbeb3a3d_draw_2008204169.jpg,b52cc57d8b2a7661_draw_2008204168.jpg
+    content: 424ab0c1378fe2ce_draw_230425038.jpg,55c72c109d005f59_draw_230425037.jpg,51f344df5883ab44_draw_230425036.jpg,b52cc57d8b2a7661_draw_2008204168.jpg,a46feae8ed2b0ae6_draw_230425035.jpg
   }
   {
     id: 206
@@ -133,8 +133,8 @@
   {
     id: 207
     type: 2
-    title: 人形拆解
-    sub_title: 拆解人形可獲得物資，稀有度高的人形拆解可額外得到核心。
+    title: 人形回收
+    sub_title: 回收人形的武裝可獲得物資，高稀有度人形還可額外獲得替代核心。
     content: ffe84a5cb6357e19_draw_2008204143.jpg
     goto_page: 63
   }
@@ -250,7 +250,7 @@
     id: 402
     type: 2
     title: 妖精製造
-    sub_title: 在裝備重型建造中獲取妖精。
+    sub_title: 在妖精重型建造中獲取妖精。
     content: dca4ab6b8498c0cb_draw_220908015.jpg,23f117ee98ed81cb_draw_220908016.jpg
     function_control_id: 1
     goto_page: 21
@@ -560,7 +560,7 @@
   {
     id: 800
     type: 1
-    child_ids: "801,802,803,804,805,806,807,808"
+    child_ids: "801,802,803,804,805,806,807,808,809,810,811,812"
     title: 戰場設施
     sub_title: 合理利用戰場設施也是指揮官的必修課。
     code: manual_building
@@ -955,7 +955,7 @@
   {
     id: 1209
     type: 2
-    title: 拆解與兌換
+    title: 回收與兌換
     sub_title: 多餘的融合勢力單位可以進行分解，並在內核商店兌換道具。
     content: 077c29c5ee1c4a2e_draw_2008204210.jpg
     function_control_id: 21
@@ -1022,8 +1022,8 @@
   {
     id: 1306
     type: 2
-    title: 回收拆解
-    sub_title: 拆解多餘的人形和裝備來回收資源。
+    title: 資源回收
+    sub_title: 回收多餘的人形的火控核心和裝備來獲取資源。
     content: ffe84a5cb6357e19_draw_2008204143.jpg
     goto_page: 63
   }
@@ -1200,8 +1200,8 @@
   {
     id: 1703
     type: 2
-    title: 黑市商店
-    sub_title: 收集到的物資可以在黑市商店兌換獎勵。
+    title: 機密商店
+    sub_title: 收集到的物資可以在機密商店兌換獎勵。
     content: 8de2f32d15e7b903_draw_2008204134.jpg
     function_control_id: 17
   }
@@ -1234,7 +1234,7 @@
   {
     id: 1900
     type: 1
-    child_ids: "1901,1902,1903,1904,1905,1906,1907,1908,1909"
+    child_ids: "1901,1902,1903,1904,1905,1906,1907,1908,1909,1910"
     title: 拉弗伯雷兵棋
     sub_title: 兼具策略性和娛樂性的棋類遊戲。
     code: manual_chess
@@ -1313,12 +1313,19 @@
     function_control_id: 26
   }
   {
+    id: 1910
+    type: 2
+    title: 扭蛋機
+    sub_title: 進行拉弗伯雷兵棋遊戲可獲取扭蛋券以抽取獎勵。
+    function_control_id: 26
+  }
+  {
     id: 2000
     type: 1
     child_ids: "2001,2002,2003,2004,2005,2006,2007,2008,2009,2010"
     title: 戰區攻略
     sub_title: 全面考驗指揮官作戰能力的大規模演習。
-    code: manual_chess
+    code: manual_theater
     function_control_id: 16
   }
   {
@@ -1400,5 +1407,78 @@
     sub_title: 擊殺指定目標即可通關。
     content: 8496c666240e33a6_draw_211008618.jpg
     function_control_id: 16
+  }
+  {
+    id: 2100
+    type: 1
+    child_ids: "2101,2102,2103,2104,2105,2106,2107,2108"
+    title: 灰域探查
+    sub_title: 在一次常規探查中，邊境調查團第六支隊意外發現了一片從未踏足的神秘區域。
+    code: manual_daily
+    function_control_id: 29
+  }
+  {
+    id: 2101
+    type: 2
+    title: 探查出擊
+    sub_title: 學會如何進行一次探查。
+    content: 8905c7abc66827aa_draw_230425029.jpg,ec4c96244659ba9b_draw_230425033.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2102
+    type: 2
+    title: 地圖規則
+    sub_title: 灰域地形變幻莫測，掌握規則尤為重要。
+    content: 49cdaeb29f967a44_draw_230425032.jpg,92328682e8717b7b_draw_230425031.jpg,57f617b443b38094_draw_230425030.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2103
+    type: 2
+    title: 妖精點位
+    sub_title: 妖精點位的規則和注意事項。
+    content: 85c3094c5828811c_draw_230425025.jpg,7760acabc898eac1_draw_230425024.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2104
+    type: 2
+    title: 火力小隊點位
+    sub_title: 火力小隊點位的規則和注意事項。
+    content: c1ee9dd11287d2d0_draw_230425022.jpg,8858f84c61635ed2_draw_230425021.jpg,04e934c3042b6f23_draw_230425020.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2105
+    type: 2
+    title: 事件點位
+    sub_title: 事件點位的規則和注意事項。
+    content: fd7567a0cbb00cf9_draw_230425027.jpg,179fa82c69177832_draw_230425026.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2106
+    type: 2
+    title: 積分獎勵
+    sub_title: 通過探查累積積分獲取豐富獎勵。
+    content: daa2b29f751a03d1_draw_230425028.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2107
+    type: 2
+    title: 重置探查
+    sub_title: 探查進度可以隨時重置。
+    content: 39f56aca7e32af3b_draw_230425023.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2108
+    type: 2
+    title: 代理作戰
+    sub_title: 格里芬AI代理作戰系統試運行中。
+    content: 4891fd3634eedd47_draw_230425034.jpg
+    function_control_id: 29
   }
 ]

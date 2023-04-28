@@ -84,6 +84,18 @@
     due_prize_id: 140016
   }
   {
+    item_id: 1500021
+    type: 1
+    prize_id: 30044
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1500022
+    type: 1
+    prize_id: 30045
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
     item_id: 1500023
     type: 1
     poster: PackageImage_rank4
@@ -309,6 +321,7 @@
     prize_id: 140001
     due_time: 2023/05/22  00:00:00
     due_prize_id: 140016
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
   }
   {
     item_id: 1500053
@@ -316,6 +329,7 @@
     prize_id: 140002
     due_time: 2023/05/22  00:00:00
     due_prize_id: 140016
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
   }
   {
     item_id: 1500054
@@ -323,6 +337,7 @@
     drop_package_id: 1120
     due_time: 2023/05/22  00:00:00
     due_prize_id: 140016
+    present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
   }
   {
     item_id: 1500055
@@ -330,5 +345,32 @@
     drop_package_id: 945
     due_time: 2023/05/22  00:00:00
     due_prize_id: 140016
+    present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
+  }
+  {
+    item_id: 1500059
+    type: 1
+    prize_id: 30058
+  }
+  {
+    item_id: 1500060
+    type: 1
+    prize_id: 150074
+    due_time: 2023/06/25  00:00:00
+    due_prize_id: 140073
+  }
+  {
+    item_id: 1500061
+    type: 1
+    prize_id: 150075
+    due_time: 2023/06/25  00:00:00
+    due_prize_id: 140074
+  }
+  {
+    item_id: 1500062
+    type: 1
+    prize_id: 150076
+    due_time: 2023/06/25  00:00:00
+    due_prize_id: 140075
   }
 ]

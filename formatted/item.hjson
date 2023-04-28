@@ -355,7 +355,7 @@
   }
   {
     id: 52
-    type: 5
+    type: 1
     arg: "1"
     code: 签到枪容错
     item_name: 專屬裝備:神秘裝備
@@ -581,6 +581,26 @@
     item_name: 第十戰區征服者勛章
     introduction: 表彰該指揮官及其麾下戰術人形在第十期戰區立下的卓越戰功，「縱使黑暗吞沒一切，您依然能夠帶回黎明。」
     rank: 1
+  }
+  {
+    id: 121
+    type: 3
+    arg: "22"
+    code: Medal_SlowShock
+    item_name: item-10000121
+    introduction: item-20000121
+    rank: 1
+    detail_introduction: item-30000121
+  }
+  {
+    id: 122
+    type: 3
+    arg: "23"
+    code: Medal_SlowShock_rank
+    item_name: item-10000122
+    introduction: item-20000122
+    rank: 1
+    detail_introduction: item-30000122
   }
   {
     id: 301
@@ -942,6 +962,50 @@
     rank: 1
     sort: -40
     detail_introduction: 可在工廠-裝備製造中執行重型建造I.O.P特殊訂單。Testtest
+  }
+  {
+    id: 527
+    type: 1
+    arg: "527"
+    code: Grenade
+    item_name: item-10000527
+    introduction: item-20000527
+    sort: -191
+    detail_introduction: item-30000527
+    is_hide_info: 1
+  }
+  {
+    id: 528
+    type: 1
+    arg: "528"
+    code: Grenade
+    item_name: item-10000528
+    introduction: item-20000528
+    sort: -191
+    detail_introduction: item-30000528
+    is_hide_info: 1
+  }
+  {
+    id: 529
+    type: 1
+    arg: "529"
+    code: Flashbang
+    item_name: item-10000529
+    introduction: item-20000529
+    sort: -192
+    detail_introduction: item-30000529
+    is_hide_info: 1
+  }
+  {
+    id: 530
+    type: 1
+    arg: "530"
+    code: Flashbang
+    item_name: item-10000530
+    introduction: item-20000530
+    sort: -192
+    detail_introduction: item-30000530
+    is_hide_info: 1
   }
   {
     id: 601
@@ -12482,6 +12546,145 @@
     rank: 1
   }
   {
+    id: 2286
+    type: 5
+    arg: "1"
+    code: card_Dating2021_us
+    item_name: 名片：美服約會池名片
+    introduction: 名片：美服約會池名片
+    rank: 1
+  }
+  {
+    id: 2287
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_01
+    item_name: item-10002287
+    introduction: item-20002287
+    rank: 1
+    detail_introduction: item-30002287
+  }
+  {
+    id: 2288
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_02
+    item_name: item-10002288
+    introduction: item-20002288
+    rank: 1
+    detail_introduction: item-30002288
+  }
+  {
+    id: 2289
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_03
+    item_name: item-10002289
+    introduction: item-20002289
+    rank: 1
+    detail_introduction: item-30002289
+  }
+  {
+    id: 2290
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_04
+    item_name: item-10002290
+    introduction: item-20002290
+    rank: 1
+    detail_introduction: item-30002290
+  }
+  {
+    id: 2291
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_05
+    item_name: item-10002291
+    introduction: item-20002291
+    rank: 1
+    detail_introduction: item-30002291
+  }
+  {
+    id: 2292
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_06
+    item_name: item-10002292
+    introduction: item-20002292
+    rank: 1
+    detail_introduction: item-30002292
+  }
+  {
+    id: 2293
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_07
+    item_name: item-10002293
+    introduction: item-20002293
+    rank: 1
+    detail_introduction: item-30002293
+  }
+  {
+    id: 2294
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_08
+    item_name: item-10002294
+    introduction: item-20002294
+    rank: 1
+    detail_introduction: item-30002294
+  }
+  {
+    id: 2295
+    type: 5
+    arg: "1"
+    code: card_SlowShockActivity2023_01
+    item_name: item-10002295
+    introduction: item-20002295
+    rank: 1
+    detail_introduction: item-30002295
+  }
+  {
+    id: 2296
+    type: 5
+    arg: "1"
+    code: card_SlowShockActivity2023_02
+    item_name: item-10002296
+    introduction: item-20002296
+    rank: 1
+    detail_introduction: item-30002296
+  }
+  {
+    id: 2297
+    type: 5
+    arg: "1"
+    code: card_SlowShockActivity2023_03
+    item_name: item-10002297
+    introduction: item-20002297
+    rank: 1
+    detail_introduction: item-30002297
+  }
+  {
+    id: 2298
+    type: 5
+    arg: "1"
+    code: card_SlowShockActivity2023_04
+    item_name: item-10002298
+    introduction: item-20002298
+    rank: 1
+    detail_introduction: item-30002298
+  }
+  {
+    id: 2299
+    type: 5
+    arg: "1"
+    code: cg_SlowShockActivity2023_01
+    item_name: item-10002299
+    introduction: item-20002299
+    rank: 1
+    detail_introduction: item-30002299
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -13376,6 +13579,66 @@
     is_hide_info: 1
   }
   {
+    id: 9033
+    type: 1
+    arg: "9033"
+    code: props_Component1
+    item_name: 塵封的設計圖
+    introduction: 破舊紙片，可能是前遺跡開發時代的紙質工業藍圖，似乎描繪著大型裝甲單位，內容已無法辨識。
+    rank: 1
+    sort: -999
+  }
+  {
+    id: 9034
+    type: 1
+    arg: "9034"
+    code: props_Component2
+    item_name: 錐形零件
+    introduction: 使用未知金屬材質製造，特性與用途尚不明確，請勿直接接觸。
+    rank: 1
+    sort: -999
+  }
+  {
+    id: 9035
+    type: 1
+    arg: "9035"
+    code: props_core
+    item_name: 環形零件
+    introduction: 造型特異的零件，有強烈信號發出，當前無法完整解析信號參數。
+    rank: 1
+    sort: -999
+  }
+  {
+    id: 9036
+    type: 1
+    arg: "9036"
+    code: props_chipset
+    item_name: 精密機械核心
+    introduction: 以當前技術無法拆分其結構，唯一能確定的是內部蓄有極大能量，危險係數高。
+    rank: 1
+    sort: -999
+  }
+  {
+    id: 9037
+    type: 1
+    arg: "9037"
+    code: props_dataimage
+    item_name: 複合晶片組
+    introduction: 從應用的光電技術來看，難以想象是多年前的產物。遺憾的是，無法從破損的晶片中讀取完整數據。
+    rank: 1
+    sort: -999
+  }
+  {
+    id: 9038
+    type: 1
+    arg: "9038"
+    code: props_paper
+    item_name: 殘存數據影像
+    introduction: 通過小型全息設備輸出的未知地形影像，位置數據缺失，目前仍在更進一步解析中。
+    rank: 1
+    sort: -999
+  }
+  {
     id: 10603
     type: 1
     arg: "1"
@@ -13426,6 +13689,34 @@
     introduction: item-20010607
     rank: 1
     detail_introduction: item-30010607
+  }
+  {
+    id: 10701
+    type: 18
+    arg: "10701"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10702
+    type: 17
+    arg: "10702"
+    code: daily_ticket
+    item_name: 探查許可證
+    introduction: 允許進入灰域完成一次探查的許可證明，出示這張證明將不再需要消耗額外的資源
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 10703
+    type: 18
+    arg: "10703"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
   }
   {
     id: 100001
@@ -15066,6 +15357,66 @@
     daily_limit: "60"
   }
   {
+    id: 100180
+    type: 9
+    arg: "100180"
+    code: Bumdle_2023SlowShock
+    item_name: item-10100180
+    introduction: item-20100180
+    rank: 1
+    daily_limit: "60"
+    detail_introduction: item-30100180
+  }
+  {
+    id: 100181
+    type: 4
+    arg: "100181"
+    code: Nova_medal
+    item_name: item-10100181
+    introduction: item-20100181
+    rank: 1
+    detail_introduction: item-30100181
+  }
+  {
+    id: 100182
+    type: 4
+    arg: "100182"
+    code: Platinum_medal
+    item_name: item-10100182
+    introduction: item-20100182
+    rank: 1
+    detail_introduction: item-30100182
+  }
+  {
+    id: 100183
+    type: 4
+    arg: "100183"
+    code: coremask_2023SlowShock
+    item_name: item-10100183
+    introduction: item-20100183
+    rank: 1
+    detail_introduction: item-30100183
+  }
+  {
+    id: 100184
+    type: 4
+    arg: "100184"
+    code: coremask2_2023SlowShock
+    item_name: item-10100184
+    introduction: item-20100184
+    rank: 1
+    detail_introduction: item-30100184
+  }
+  {
+    id: 100185
+    type: 4
+    arg: "100185"
+    code: Platinum_medal_black
+    item_name: 白金勳章
+    introduction: 白金勳章
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -15606,6 +15957,26 @@
     rank: 1
   }
   {
+    id: 110061
+    type: 4
+    arg: "110061"
+    code: EventPT6
+    item_name: item-10110061
+    introduction: item-20110061
+    rank: 1
+    detail_introduction: item-30110061
+  }
+  {
+    id: 110062
+    type: 4
+    arg: "110062"
+    code: PT
+    item_name: item-10110062
+    introduction: item-20110062
+    rank: 1
+    detail_introduction: item-30110062
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -15979,10 +16350,10 @@
     type: 1
     arg: "1"
     code: PT
-    item_name: 功能物品占位
-    introduction: 功能物品占位
+    item_name: *功能物品占位
+    introduction: *功能物品占位
     rank: 1
-    detail_introduction: 功能物品占位
+    detail_introduction: *功能物品占位
   }
   {
     id: 200001
@@ -16106,8 +16477,8 @@
     type: 5
     arg: "1"
     code: profileFrame_BattlePass_Lewis
-    item_name: 頭像框·躍馬■鳴
-    introduction: 頭像框·躍馬■鳴
+    item_name: 頭像框·躍馬咴鳴
+    introduction: 頭像框·躍馬咴鳴
     rank: 1
   }
   {
@@ -16134,7 +16505,7 @@
     arg: "1"
     code: profileFrame_BattlePass_scarL
     item_name: 頭像框·嗷嗷快樂的一天
-    introduction: 頭像框·嗷嗷快樂的一天浮囂羅網
+    introduction: 頭像框·嗷嗷快樂的一天
     rank: 1
   }
   {
@@ -16172,6 +16543,7 @@
     item_name: 極速狂花
     introduction: 火力號令對自身和PzB39效果額外增加10%。
     rank: 1
+    item_access: "26"
   }
   {
     id: 1100002
@@ -16181,6 +16553,7 @@
     item_name: 極速狂花
     introduction: 與灰熊MkⅤ在同一梯隊時,瞄準時間減少至1秒,每秒蓄力層數增加至2層。
     rank: 1
+    item_access: "26"
   }
   {
     id: 1100003
@@ -16190,6 +16563,7 @@
     item_name: 星河成約
     introduction: 與M82在同一梯隊時,M82普攻對自身正前方單位也能造成10%額外傷害。
     rank: 1
+    item_access: "26"
   }
   {
     id: 1100004
@@ -16199,6 +16573,7 @@
     item_name: 星河成約
     introduction: 將自身正前方視作AK-Alfa的正前方。
     rank: 1
+    item_access: "26"
   }
   {
     id: 1100005
@@ -16208,6 +16583,7 @@
     item_name: 我開動了！
     introduction: 「持之以恆是比任何事都要更重要的才能」當春田和G36處於同一梯隊時，G36會為隨行的隊友呈上甜點，振奮士氣的同時，火力專注的效果也變得可以作用於友方單位（效果下降至15%）——小心會變胖哦。
     rank: 1
+    item_access: "27"
   }
   {
     id: 1100006
@@ -16217,6 +16593,7 @@
     item_name: 我開動了！
     introduction: 「我對混合咖啡還是蠻有自信的」當G36和春田處於同一梯隊時，春田會為隨行的隊友端上咖啡，振奮士氣的同時，每疊加1層蓄力，提升我方全體射速5%（持續5秒，最多疊加5層）——要小心變胖哦。
     rank: 1
+    item_access: "27"
   }
   {
     id: 1100007
@@ -16230,6 +16607,7 @@
       MPK與MPL左右相鄰時,開啟技能後,效果範圍擴大至2格。
       '''
     rank: 1
+    item_access: "28"
   }
   {
     id: 1100008
@@ -16243,6 +16621,7 @@
       MPK與MPL左右相鄰時,開啟技能後,效果範圍擴大至2格。
       '''
     rank: 1
+    item_access: "29"
   }
   {
     id: 1100009
@@ -16252,6 +16631,7 @@
     item_name: 同輝禁線
     introduction: SCAR-L和SCAR-H同時在場時，自身每秒增加5點太陽能量。
     rank: 1
+    item_access: "30"
   }
   {
     id: 1100010
@@ -16261,6 +16641,7 @@
     item_name: 同輝禁線
     introduction: SCAR-L和SCAR-H同時在場時，自身每秒增加5點月亮能量。
     rank: 1
+    item_access: "31"
   }
   {
     id: 1500009
@@ -16383,10 +16764,30 @@
     sort: -1
   }
   {
+    id: 1500021
+    type: 15
+    arg: "1500021"
+    code: Bumdle_sennku
+    item_name: 四星人形調用函
+    introduction: 来自于重返基地，在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500022
+    type: 15
+    arg: "1500022"
+    code: package_choose
+    item_name: 五星裝備自選序標
+    introduction: 来自于重返基地，打開時，可自選獲得指定範圍內的一個五星裝備
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1500023
     type: 15
     arg: "1500023"
-    code: Bumdle_double12_2022_5
+    code: Bumdle_sennku
     item_name: 四星人形調用函
     introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
     rank: 1
@@ -16480,7 +16881,7 @@
     id: 1500030
     type: 15
     arg: "1500030"
-    code: Bumdle_double12_2022_1
+    code: Bumdle_sennku
     item_name: 五星人形調用函
     introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位五星戰術人形。
     rank: 1
@@ -16759,5 +17160,83 @@
     introduction: 來自於前線協議-假日情調，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+  }
+  {
+    id: 1500059
+    type: 15
+    arg: "1500059"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 来自于重返基地，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500060
+    type: 15
+    arg: "1500060"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查第一期，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500061
+    type: 15
+    arg: "1500061"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查第一期，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500062
+    type: 15
+    arg: "1500062"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查第一期，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500063
+    type: 15
+    arg: "1500063"
+    code: package_choose
+    item_name: item-11500063
+    introduction: item-21500063
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500063
+  }
+  {
+    id: 1600001
+    type: 1
+    arg: "1600001"
+    code: anchor_contract
+    item_name: 回歸心願錨定
+    introduction: 獲取後，可以解鎖一次回歸玩家專屬的心願錨定
+    rank: 1
+  }
+  {
+    id: 1600002
+    type: 1
+    arg: "1600002"
+    code: ReturnPlayer_activity
+    item_name: 回歸活躍度
+    introduction: 參與回歸活動的證據，持有越多越活躍
+    rank: 1
+  }
+  {
+    id: 1600050
+    type: 1
+    arg: "1600050"
+    code: package_choose
+    item_name: 抽獎券
+    introduction: 嘉年華抽獎券測試數據
+    rank: 1
   }
 ]

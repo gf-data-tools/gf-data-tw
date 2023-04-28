@@ -436,7 +436,7 @@
     code: 配件_红外夜视仪_N
     develop_duration: 2940
     company: IOP
-    equip_introduction: IOP公司人形列裝的定制型ATPIAL紅外指示器，滿足了人形們的夜間作戰的作戰需求。除步槍和機槍外均可裝配。
+    equip_introduction: IOP公司人形列裝的訂製型ATPIAL紅外指示器，滿足了人形們的夜間作戰的作戰需求。除步槍和機槍外均可裝配。
     exclusive_rate: 1.0
     auto_select_id: 4001
     is_show: 1
@@ -1426,8 +1426,10 @@
     powerup_part: 0.23
     exclusive_rate: 3.0
     bonus_type: pow:400
+    passive_skill: "759090"
     max_level: 10
     auto_select_id: 19002
+    equip_group_id: 4
     is_show: 1
     obtain_ids: "3"
   }
@@ -2219,8 +2221,10 @@
     powerup_part: 0.16
     exclusive_rate: 3.0
     bonus_type: pow:200,dodge:300,critical_harm_rate:500
+    passive_skill: "759098"
     max_level: 10
     auto_select_id: 20003
+    equip_group_id: 3
     is_show: 1
     obtain_ids: "3"
   }
@@ -2652,8 +2656,10 @@
     powerup_part: 0.15
     exclusive_rate: 3.0
     bonus_type: pow:500,hit:700,critical_harm_rate:1000
+    passive_skill: "759089"
     max_level: 10
     auto_select_id: 18005
+    equip_group_id: 4
     is_show: 1
     obtain_ids: "3016"
   }
@@ -3007,8 +3013,10 @@
     powerup_part: 0.15
     exclusive_rate: 3.0
     bonus_type: critical_percent:1000,hit:1000
+    passive_skill: "759096"
     max_level: 10
     auto_select_id: 18010
+    equip_group_id: 3
     is_show: 1
     obtain_ids: "3016"
   }
@@ -6228,7 +6236,7 @@
     max_level: 10
     auto_select_id: 19024
     is_show: 1
-    obtain_ids: "3004"
+    obtain_ids: "3004,3096"
   }
   {
     id: 212
@@ -7022,7 +7030,7 @@
     max_level: 10
     auto_select_id: 20036
     is_show: 1
-    obtain_ids: "3007"
+    obtain_ids: "3007,3096"
   }
   {
     id: 237
@@ -7386,7 +7394,7 @@
     max_level: 10
     auto_select_id: 18074
     is_show: 1
-    obtain_ids: "3061"
+    obtain_ids: "3061,3096"
   }
   {
     id: 248
@@ -8402,7 +8410,7 @@
     max_level: 10
     auto_select_id: 18089
     is_show: 1
-    obtain_ids: "3077"
+    obtain_ids: "3077,3096"
   }
   {
     id: 279
@@ -10319,6 +10327,75 @@
     is_show: 1
     obtain_ids: "3016"
     sp_description: 受到的傷害-1
+  }
+  {
+    id: 337
+    name: 7BT1
+    description:
+      '''
+      穿甲+<armor_piercing>
+      射速+<rate>$莫辛-納甘改型專用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    rate: "1,3"
+    armor_piercing: "155,160"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: 弹匣_特殊_莫辛纳甘Mod
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "20039"
+    equip_introduction: 帶有IOP改良設計後的BT穿甲曳光彈頭的特製狙擊彈，即使對於有裝甲防護能力的目標也能造成可觀的殺傷能力。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3.0
+    bonus_type: armor_piercing:500,rate:700
+    passive_skill: "759097"
+    max_level: 10
+    auto_select_id: 19053
+    equip_group_id: 3
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 338
+    name: SBR專用護木
+    description:
+      '''
+      射速+<rate>
+      暴擊機率+<critical_percent><%>$ST AR-15改型專用
+      '''
+    rank: 5
+    category: 1
+    type: 16
+    rate: "1,3"
+    critical_percent: "25,30"
+    retire_mp: 4
+    retire_ammo: 1
+    retire_mre: 4
+    retire_part: 1
+    code: 配件_特殊_AR15Mod
+    develop_duration: 3600
+    company: 16Lab
+    fit_guns: "20057"
+    equip_introduction: 16Lab特製的SBR輕量護木，能夠提升ST AR-15副武器的掛載能力
+    powerup_mp: 0.5
+    powerup_ammo: 0.25
+    powerup_mre: 0.55
+    powerup_part: 0.15
+    exclusive_rate: 3.0
+    bonus_type: rate:700,critical_percent:850
+    passive_skill: "759091"
+    max_level: 10
+    auto_select_id: 18114
+    equip_group_id: 4
+    is_show: 1
+    obtain_ids: "3096"
   }
   {
     id: 339

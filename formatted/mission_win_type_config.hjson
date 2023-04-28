@@ -6086,6 +6086,52 @@
     extra_language: 擊殺最終頭目
   }
   {
+    id: 58000101
+    type: 1407
+    arguments: 78003:1
+    extra_language:
+      '''
+      完成1個回合的探索
+      <color=#CF8000>移動可以改變出生機場以外路徑點的顏色，結算時藍色的路徑點越多獲得的獎勵越多</color>
+      '''
+  }
+  {
+    id: 58000501
+    type: 1407
+    arguments: 78005:1
+    extra_language: 打開任意一個箱子
+  }
+  {
+    id: 58000502
+    type: 1402
+    arguments: "1"
+  }
+  {
+    id: 58000601
+    type: 1303
+    arguments: 6520101:1
+  }
+  {
+    id: 58000602
+    type: 1303
+    arguments: 6520102:1
+  }
+  {
+    id: 58000603
+    type: 1303
+    arguments: 6520103:1
+  }
+  {
+    id: 58000604
+    type: 1303
+    arguments: 6520104:1
+  }
+  {
+    id: 58000605
+    type: 1303
+    arguments: 6520105:1
+  }
+  {
     id: 64101011
     type: 1305
     extra_language: 【離席之時 I】全殲滅敵軍

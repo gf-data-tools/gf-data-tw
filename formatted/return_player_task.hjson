@@ -1,0 +1,200 @@
+[
+  {
+    id: 1
+    type: gun_level_up_count
+    count: 10
+    title: 人形升級
+    describe: 完成10次人形升級
+    prize_id: 30011
+    activity_bonus: 20
+  }
+  {
+    id: 2
+    type: develop_gun
+    count: 10
+    title: 人形建造
+    describe: 完成10次人形建造
+    prize_id: 30012
+    activity_bonus: 20
+  }
+  {
+    id: 3
+    type: eat_gun
+    count: 10
+    title: 人形強化
+    describe: 完成10次人形強化
+    prize_id: 30013
+    activity_bonus: 20
+  }
+  {
+    id: 4
+    type: s_win
+    count: 15
+    title: 作戰行動
+    describe: 以S評價完成15場戰鬥
+    prize_id: 30014
+    activity_bonus: 20
+  }
+  {
+    id: 5
+    type: mission
+    count: 10
+    title: 作戰行動
+    describe: 通關任意關卡10次
+    prize_id: 30015
+    activity_bonus: 20
+  }
+  {
+    id: 6
+    type: upgrade
+    count: 3
+    title: 技能升級
+    describe: 完成3次技能訓練
+    prize_id: 30016
+    activity_bonus: 20
+  }
+  {
+    id: 7
+    type: heart_collect
+    count: 20
+    title: 人形交流
+    describe: 收集20顆愛心
+    prize_id: 30017
+    activity_bonus: 20
+  }
+  {
+    id: 8
+    type: consume_build_coin
+    count: 100
+    title: 電池消耗
+    describe: 累計消耗100個電池
+    prize_id: 30018
+    activity_bonus: 20
+  }
+  {
+    id: 9
+    type: adopt_pet
+    count: 1
+    title: 寵物收養
+    describe: 收養任意寵物
+    prize_id: 30019
+    activity_bonus: 20
+  }
+  {
+    id: 10
+    type: adjust_equip
+    count: 10
+    title: 校準整備
+    describe: 進行10次裝備或妖精校準
+    function_control_id: 6
+    prize_id: 30020
+    activity_bonus: 20
+  }
+  {
+    id: 11
+    type: coin_mission
+    count: 10
+    title: 模擬演練
+    describe: 進行10次模擬作戰（不包括融合演習）
+    prize_id: 30021
+    activity_bonus: 20
+  }
+  {
+    id: 12
+    type: develop_equip
+    count: 10
+    title: 軍備擴建
+    describe: 完成10次裝備建造
+    function_control_id: 2
+    prize_id: 30022
+    activity_bonus: 20
+  }
+  {
+    id: 13
+    type: sangvis_exercise_analysis
+    count: 5
+    title: 解密練習
+    describe: 完成5次解密算法練習
+    function_control_id: 21
+    prize_id: 30023
+    activity_bonus: 20
+  }
+  {
+    id: 14
+    type: sangvis_exercise
+    count: 10
+    title: 模擬演練
+    describe: 完成10次融合演習
+    function_control_id: 21
+    prize_id: 30024
+    activity_bonus: 20
+  }
+  {
+    id: 15
+    type: sangvis_daily_retrieval
+    count: 8
+    title: 協議同歸
+    describe: 完成8次收歸行動
+    function_control_id: 21
+    prize_id: 30025
+    activity_bonus: 20
+  }
+  {
+    id: 16
+    type: squad_eat_chip_num
+    count: 10
+    title: 芯片強化
+    describe: 將10個晶片用於日常強化
+    function_control_id: 15
+    prize_id: 30026
+    activity_bonus: 20
+  }
+  {
+    id: 17
+    type: complete_squad_daily
+    count: 3
+    title: 情報搜集
+    describe: 完成3個情報任務
+    function_control_id: 15
+    prize_id: 30027
+    activity_bonus: 20
+  }
+  {
+    id: 18
+    type: squad_data_analyse
+    count: 10
+    title: 情報解析
+    describe: 進行10次情報解析
+    function_control_id: 15
+    prize_id: 30028
+    activity_bonus: 20
+  }
+  {
+    id: 19
+    type: consume_furniture_coin
+    count: 50
+    title: 宿舍採購
+    describe: 消耗50枚採購幣
+    prize_id: 30029
+    activity_bonus: 30
+  }
+  {
+    id: 20
+    type: operation
+    count: 20
+    title: 支援派遣
+    describe: 完成20次後勤支援
+    prize_id: 30030
+    activity_bonus: 30
+  }
+  {
+    id: 21
+    type: explore
+    count: 5
+    title: 區域探索
+    describe: 進行5次前進營地的探索
+    function_control_id: 17
+    prize_id: 30031
+    activity_bonus: 30
+  }
+]

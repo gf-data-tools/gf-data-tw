@@ -2238,3 +2238,7 @@ story_util-10001158,
 story_util-20001158,閃耀之愛
 story_util-10001159,
 story_util-20001159,直至太陽下山
+story_util-10001160,
+story_util-20001160,guide1
+story_util-10001161,
+story_util-20001161,guide1
