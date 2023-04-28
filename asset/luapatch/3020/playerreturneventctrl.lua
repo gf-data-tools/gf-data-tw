@@ -12,16 +12,29 @@ local Awake = function(self)
 		end
 	end
 end
-local _RefreshPriceLabel = function(self)
-	self:RefreshPriceLabel();
+local _OnIAPValidateComplete = function(self)
+	self:OnIAPValidateComplete();
+
+	local Tex_Money = self.transform:Find("ActivateCard/Img_Bg/Tex_Money");
+	local Tex_Count = self.transform:Find("ActivateCard/Img_Bg/Tex_Count");
 	if self.fundGood ~= nil then
-		--local Tex_Money = self.transform:Find("ActivateCard/Img_Bg/Tex_Money");
-		local Tex_Count = self.transform:Find("ActivateCard/Img_Bg/Tex_Count");
-		--Tex_Money:GetComponent(typeof(CS.ExText)).text = self.fundGood.currency;
-		Tex_Count:GetComponent(typeof(CS.ExText)).text = ""..self.fundGood.pointPrice;
+		Tex_Money:GetComponent(typeof(CS.ExText)).text = "";
+
+
+		local normalPrice = "";
+		if (CS.System.String.IsNullOrEmpty(self.fundGood.displayPrice)) then
+			normalPrice = CS.Data.GetLang(71011) .. self.fundGood.pointPrice;
+		else
+			normalPrice = self.fundGood.displayPrice;
+		end
+		Tex_Count:GetComponent(typeof(CS.ExText)).text = normalPrice;
+		self.buyPrice_Tex.text = normalPrice;
+	else
+		Tex_Money:GetComponent(typeof(CS.ExText)).text = "";
+		Tex_Count:GetComponent(typeof(CS.ExText)).text = "";
 	end
 end
 if CS.HotUpdateController.instance.mUsePlatform == CS.HotUpdateController.EUsePlatform.ePlatform_Tw or CS.HotUpdateController.instance.mUsePlatform == CS.HotUpdateController.EUsePlatform.ePlatform_Korea then
- util.hotfix_ex(CS.PlayerReturnFundCtrl,'RefreshPriceLabel',_RefreshPriceLabel)
+ util.hotfix_ex(CS.PlayerReturnFundCtrl,'OnIAPValidateComplete',_OnIAPValidateComplete)
 end
 --util.hotfix_ex(CS.PlayerReturnEventCtrl,'Awake',Awake)
