@@ -587,20 +587,18 @@
     type: 3
     arg: "22"
     code: Medal_SlowShock
-    item_name: item-10000121
-    introduction: item-20000121
+    item_name: 深湖領航員
+    introduction: 表彰該指揮官及其麾下的戰術人形在「慢休克」活動中的卓越戰績，「比起征服人跡罕至的冰山，探索內心的神秘湖底更需要卓絕的勇氣。」
     rank: 1
-    detail_introduction: item-30000121
   }
   {
     id: 122
     type: 3
     arg: "23"
     code: Medal_SlowShock_rank
-    item_name: item-10000122
-    introduction: item-20000122
+    item_name: 雪線入海勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在「慢休克」積分模式中的耀眼表現，「當熾熱的火光點亮黑夜，我也將於純白中迎來旭日般的新生。」
     rank: 1
-    detail_introduction: item-30000122
   }
   {
     id: 301
@@ -968,10 +966,9 @@
     type: 1
     arg: "527"
     code: Grenade
-    item_name: item-10000527
-    introduction: item-20000527
-    sort: -191
-    detail_introduction: item-30000527
+    item_name: 心率道具
+    introduction: 「你的心臟要炸了，用鐵條箍一下吧」（外用）
+    rank: 1
     is_hide_info: 1
   }
   {
@@ -979,10 +976,9 @@
     type: 1
     arg: "528"
     code: Grenade
-    item_name: item-10000528
-    introduction: item-20000528
-    sort: -191
-    detail_introduction: item-30000528
+    item_name: 心率道具
+    introduction: 「你的心臟要炸了，用鐵條箍一下吧」
+    rank: 1
     is_hide_info: 1
   }
   {
@@ -990,10 +986,9 @@
     type: 1
     arg: "529"
     code: Flashbang
-    item_name: item-10000529
-    introduction: item-20000529
-    sort: -192
-    detail_introduction: item-30000529
+    item_name: 信號道具
+    introduction: 「信號相差十六分四十二秒」（外用）
+    rank: 1
     is_hide_info: 1
   }
   {
@@ -1001,10 +996,9 @@
     type: 1
     arg: "530"
     code: Flashbang
-    item_name: item-10000530
-    introduction: item-20000530
-    sort: -192
-    detail_introduction: item-30000530
+    item_name: 信號道具
+    introduction: 「信號相差十六分四十二秒」
+    rank: 1
     is_hide_info: 1
   }
   {
@@ -12559,130 +12553,144 @@
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_01
-    item_name: item-10002287
-    introduction: item-20002287
+    item_name: 頭像：鏡中人
+    introduction: 頭像：鏡中人
     rank: 1
-    detail_introduction: item-30002287
   }
   {
     id: 2288
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_02
-    item_name: item-10002288
-    introduction: item-20002288
+    item_name: 頭像：歸來的巴德爾
+    introduction: 頭像：歸來的巴德爾
     rank: 1
-    detail_introduction: item-30002288
   }
   {
     id: 2289
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_03
-    item_name: item-10002289
-    introduction: item-20002289
+    item_name: 頭像：走向黑暗的人
+    introduction: 頭像：走向黑暗的人
     rank: 1
-    detail_introduction: item-30002289
   }
   {
     id: 2290
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_04
-    item_name: item-10002290
-    introduction: item-20002290
+    item_name: 頭像：開普勒78b的隕落
+    introduction: 頭像：開普勒78b的隕落
     rank: 1
-    detail_introduction: item-30002290
   }
   {
     id: 2291
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_05
-    item_name: item-10002291
-    introduction: item-20002291
+    item_name: 頭像：偷故事的人
+    introduction: 頭像：偷故事的人
     rank: 1
-    detail_introduction: item-30002291
   }
   {
     id: 2292
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_06
-    item_name: item-10002292
-    introduction: item-20002292
+    item_name: 頭像：故事中的人
+    introduction: 頭像：故事中的人
     rank: 1
-    detail_introduction: item-30002292
   }
   {
     id: 2293
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_07
-    item_name: item-10002293
-    introduction: item-20002293
+    item_name: 頭像：歸來的霍德爾
+    introduction: 頭像：歸來的霍德爾
     rank: 1
-    detail_introduction: item-30002293
   }
   {
     id: 2294
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_08
-    item_name: item-10002294
-    introduction: item-20002294
+    item_name: 頭像：逆光而行的人
+    introduction: 頭像：逆光而行的人
     rank: 1
-    detail_introduction: item-30002294
   }
   {
     id: 2295
     type: 5
     arg: "1"
     code: card_SlowShockActivity2023_01
-    item_name: item-10002295
-    introduction: item-20002295
+    item_name: 名片：榮耀宣誓地
+    introduction: 名片：榮耀宣誓地
     rank: 1
-    detail_introduction: item-30002295
   }
   {
     id: 2296
     type: 5
     arg: "1"
     code: card_SlowShockActivity2023_02
-    item_name: item-10002296
-    introduction: item-20002296
+    item_name: 名片：歌聲不息
+    introduction: 名片：歌聲不息
     rank: 1
-    detail_introduction: item-30002296
   }
   {
     id: 2297
     type: 5
     arg: "1"
     code: card_SlowShockActivity2023_03
-    item_name: item-10002297
-    introduction: item-20002297
+    item_name: 名片：靈魂靜寂港
+    introduction: 名片：靈魂靜寂港
     rank: 1
-    detail_introduction: item-30002297
   }
   {
     id: 2298
     type: 5
     arg: "1"
     code: card_SlowShockActivity2023_04
-    item_name: item-10002298
-    introduction: item-20002298
+    item_name: 名片：黎明將至
+    introduction: 名片：黎明將至
     rank: 1
-    detail_introduction: item-30002298
   }
   {
     id: 2299
     type: 5
     arg: "1"
     code: cg_SlowShockActivity2023_01
-    item_name: item-10002299
-    introduction: item-20002299
+    item_name: 背景：留聲博物館
+    introduction: 背景：留聲博物館
     rank: 1
-    detail_introduction: item-30002299
+  }
+  {
+    id: 2300
+    type: 5
+    arg: "1"
+    code: profilePic_Winter2023_coremask
+    item_name: 真核面具紀念頭像·慢休克
+    introduction: 真核面具紀念頭像·慢休克
+    rank: 1
+  }
+  {
+    id: 2301
+    type: 5
+    arg: "1"
+    code: card_BattlePass_MK3A1
+    item_name: 名片：甜甜圈復原計劃
+    introduction: 名片：甜甜圈復原計劃
+    rank: 1
+  }
+  {
+    id: 2302
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_MK3A1
+    item_name: MK3A1-MK3A1的維修藝術
+    introduction: MK3A1-MK3A1的維修藝術
+    rank: 1
   }
   {
     id: 4001
@@ -15361,51 +15369,46 @@
     type: 9
     arg: "100180"
     code: Bumdle_2023SlowShock
-    item_name: item-10100180
-    introduction: item-20100180
+    item_name: 物資箱·慢休克
+    introduction: 物資箱·慢休克
     rank: 1
     daily_limit: "60"
-    detail_introduction: item-30100180
   }
   {
     id: 100181
     type: 4
     arg: "100181"
     code: Nova_medal
-    item_name: item-10100181
-    introduction: item-20100181
+    item_name: 新星勳章·慢休克
+    introduction: 新星勳章·慢休克
     rank: 1
-    detail_introduction: item-30100181
   }
   {
     id: 100182
     type: 4
     arg: "100182"
     code: Platinum_medal
-    item_name: item-10100182
-    introduction: item-20100182
+    item_name: 白金勳章·慢休克
+    introduction: 白金勳章·慢休克
     rank: 1
-    detail_introduction: item-30100182
   }
   {
     id: 100183
     type: 4
     arg: "100183"
     code: coremask_2023SlowShock
-    item_name: item-10100183
-    introduction: item-20100183
+    item_name: 真核面具·慢休克
+    introduction: 真核面具·慢休克
     rank: 1
-    detail_introduction: item-30100183
   }
   {
     id: 100184
     type: 4
     arg: "100184"
     code: coremask2_2023SlowShock
-    item_name: item-10100184
-    introduction: item-20100184
+    item_name: 蝕心面具·慢休克
+    introduction: 散髮著詭譎氣息的面具，只有通過極為艱險的考驗才能獲得。留在手中似乎沒有什麼用，但能夠在商店換取到一個期望已久的相遇。
     rank: 1
-    detail_introduction: item-30100184
   }
   {
     id: 100185
@@ -15414,6 +15417,15 @@
     code: Platinum_medal_black
     item_name: 白金勳章
     introduction: 白金勳章
+    rank: 1
+  }
+  {
+    id: 100186
+    type: 4
+    arg: "100186"
+    code: core_mask_7year
+    item_name: 真核面具·七周年
+    introduction: 真核面具·七周年
     rank: 1
   }
   {
@@ -15745,8 +15757,8 @@
     type: 4
     arg: "110037"
     code: PT
-    item_name: 活动点数
-    introduction: 活动点数
+    item_name: 活動點數
+    introduction: 活動點數
     rank: 1
   }
   {
@@ -15961,20 +15973,18 @@
     type: 4
     arg: "110061"
     code: EventPT6
-    item_name: item-10110061
-    introduction: item-20110061
+    item_name: 活動點數
+    introduction: 活動點數
     rank: 1
-    detail_introduction: item-30110061
   }
   {
     id: 110062
     type: 4
     arg: "110062"
     code: PT
-    item_name: item-10110062
-    introduction: item-20110062
+    item_name: 活動點數
+    introduction: 活動點數
     rank: 1
-    detail_introduction: item-30110062
   }
   {
     id: 120001
@@ -16346,6 +16356,22 @@
     rank: 1
   }
   {
+    id: 140015
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    rank: 1
+  }
+  {
+    id: 140016
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -16515,6 +16541,15 @@
     code: profileFrame_BattlePass_C93
     item_name: 頭像框·蝶翼翩然
     introduction: 頭像框·蝶翼翩然
+    rank: 1
+  }
+  {
+    id: 200021
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_MK3A1
+    item_name: 頭像框·拆解狂潮
+    introduction: 頭像框·拆解狂潮
     rank: 1
   }
   {
@@ -17162,6 +17197,36 @@
     sort: -1
   }
   {
+    id: 1500056
+    type: 15
+    arg: "1500056"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-夜闌燈下，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500057
+    type: 15
+    arg: "1500057"
+    code: package_choose
+    item_name: 人形裝備自選序標
+    introduction: 來自於前線協議-夜闌燈下，可從該指定投遞配給序標內選擇獲取一件人形類裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500058
+    type: 15
+    arg: "1500058"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-夜闌燈下，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1500059
     type: 15
     arg: "1500059"
@@ -17206,11 +17271,20 @@
     type: 15
     arg: "1500063"
     code: package_choose
-    item_name: item-11500063
-    introduction: item-21500063
+    item_name: 特殊活動人形調用函
+    introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位戰術人形。
     rank: 1
     sort: -1
-    detail_introduction: item-31500063
+  }
+  {
+    id: 1500064
+    type: 15
+    arg: "1500059"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-夜闌燈下，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
   }
   {
     id: 1600001

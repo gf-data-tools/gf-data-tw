@@ -416,6 +416,18 @@
     description: 限時活動【雪浪映花顏】商店兌換
   }
   {
+    obtain_id: "257"
+    description: 限時活動【慢休克】中救援獲得
+  }
+  {
+    obtain_id: "258"
+    description: 限時活動【慢休克】通關獎勵
+  }
+  {
+    obtain_id: "259"
+    description: 限時活動【慢休克】中打開物資箱獲得
+  }
+  {
     obtain_id: "301"
     description: 作戰綱領【金色月夕】獎勵
   }
@@ -558,6 +570,10 @@
   {
     obtain_id: "514"
     description: 限時活動【縱向應變】積分模式獎勵
+  }
+  {
+    obtain_id: "515"
+    description: 限時活動【慢休克】積分模式獎勵
   }
   {
     obtain_id: "1701"
@@ -1191,5 +1207,9 @@
     obtain_id: "3096"
     description: 灰域探查獲取
     goto_page_id: "384"
+  }
+  {
+    obtain_id: "3097"
+    description: <慢休克>積分榜1200000積分獎勵
   }
 ]

@@ -295,6 +295,36 @@
     character_des: 該單位會大幅度降低我方單位命中
   }
   {
+    id: 336
+    name: 無甲
+    character_des: 該單位沒有護甲
+  }
+  {
+    id: 337
+    name: 遠程
+    character_des: 遠距離攻擊方式
+  }
+  {
+    id: 338
+    name: 機械
+    character_des: 由工業生產的無人類特徵的機體
+  }
+  {
+    id: 339
+    name: 嘲諷
+    character_des: 該單位可以吸引火力
+  }
+  {
+    id: 340
+    name: 瞄準
+    character_des: 鎖定一個目標，對該目標造成大量傷害
+  }
+  {
+    id: 341
+    name: 清除
+    character_des: 清空目標梯隊增益效果
+  }
+  {
     id: 401
     name: 持盾前進
     character_des: 該單位在移動時將使用盾牌降低受到的傷害,傷害降低的數量與當前該單位可造成的傷害相同。
@@ -607,5 +637,10 @@
   {
     id: 1004
     name: ？？？
+  }
+  {
+    id: 1005
+    name: 韌性
+    character_des: 該單位對於暴擊傷害有著抵抗能力
   }
 ]

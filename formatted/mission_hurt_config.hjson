@@ -212,6 +212,23 @@
     value: "50"
   }
   {
+    id: 580001
+    name: 【標記】心率傷害30%
+    target_type: 2
+    type: 2
+    life_type: 1
+    value: "30"
+  }
+  {
+    id: 580903
+    name: 【標記】炮塔傷害50%
+    target_type: 2
+    type: 2
+    life_type: 1
+    value: "50"
+    effect_birth: 1000153
+  }
+  {
     id: 900003
     name: 【標記】污染源傷害
     target_type: 2
@@ -557,6 +574,16 @@
     type: 2
     life_type: 2
     value: "95"
+  }
+  {
+    id: 6580001
+    name: 【標記】陷阱100%傷害
+    target_type: 2
+    type: 2
+    is_number: 1
+    life_type: 2
+    value: "100"
+    defender_value: "99999"
   }
   {
     id: 8120701

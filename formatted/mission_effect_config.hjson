@@ -1241,6 +1241,7 @@
     relative_position: "0,0;0,0;0,0;1,1"
     offset: "-5500,-5500;6500,6500"
     rotation_offset: "0,0,45;0,0,45"
+    is_focus: 2|0.5,1
   }
   {
     id: 1000110
@@ -1579,6 +1580,213 @@
     description: 星星
     duration: 1
     size: 0.5
+    offset: "0,0"
+  }
+  {
+    id: 1000142
+    name: 輻射點
+    code: sheshi_dian
+    description: 癱瘓特效
+    size: 1
+    offset: "0,0"
+  }
+  {
+    id: 1000143
+    name: 癱瘓特效
+    code: sheshi_dian_sj
+    description: 輻射點
+    delay: 0.8
+    size: 1.3
+    offset: "0,0"
+  }
+  {
+    id: 1000144
+    name: 空聚焦
+    code: Empty
+    description: 空聚焦
+    duration: 0.01
+    size: 1
+    offset: "0,0"
+    is_focus: "1"
+  }
+  {
+    id: 1000145
+    name: 粘性炸藥倒數計時
+    code: Viscosity_Bomb
+    description: 粘性炸藥倒數計時
+    priority: 1
+    delay: 0.86
+    size: 0.5
+    spine: 2
+    offset: "0,0"
+  }
+  {
+    id: 1000146
+    name: 傳送門橙光圈
+    code: chuansong_02xh
+    description: 橙光圈常駐
+    size: 0.02
+    offset: "100,150;0,0"
+  }
+  {
+    id: 1000147
+    name: 亂石堆
+    code: Rock_effect
+    description: 亂石堆
+    duration: 1
+    size: 1
+    offset: "0,0"
+  }
+  {
+    id: 1000148
+    name: TY-160
+    code: Fly_tu160
+    description: TY-160
+    priority: 1
+    duration: 4
+    size: 2
+    sound: Blackjack_flying
+    if_starting: 4
+    relative_position: "0,0;0,0;0,0;1,1"
+    offset: "-5500,-5500;6500,6500"
+    rotation_offset: "0,0,45;0,0,45"
+    is_focus: 2|0.5,1
+  }
+  {
+    id: 1000149
+    name: 轟炸效果1
+    code: XDZY_TY2
+    description: 轟炸效果1
+    priority: 1
+    duration: 2
+    delay: -0.5
+    size: 4
+    offset: "0,0"
+  }
+  {
+    id: 1000150
+    name: 轟炸效果2
+    code: LLS_hongzha02
+    description: 轟炸效果2
+    priority: 1
+    duration: 2
+    delay: -1.5
+    size: 2
+    sound: Blackjack_attack1
+    offset: "0,0"
+  }
+  {
+    id: 1000151
+    name: 攻擊點沉默
+    code: Serenity
+    description: 攻擊點沉默
+    priority: 10
+    duration: 1.5
+    size: 1
+    sound: SFX_20_Winter_Radar_Scan
+    if_starting: 4
+    relative_position: "0,0;0,0;0,0;1,1"
+    offset: "0,60;0,220"
+    rotation_offset: "0,0,0;0,0,0"
+  }
+  {
+    id: 1000152
+    name: 癱瘓特效
+    code: sheshi_dian_sj
+    description: 輻射點
+    duration: 0.2
+    size: 1.3
+    offset: "0,0"
+  }
+  {
+    id: 1000153
+    name: 受擊特效給hurt用,帶音效
+    code: MGT_shouji
+    description: 受擊特效給hurt用,帶音效
+    duration: 1
+    size: 0.02
+    sound: BT_The_Division_Machine_Gun_Tower_Shooting
+    offset: "0,0"
+  }
+  {
+    id: 1000154
+    name: 攻擊點重啟音效
+    code: Empty
+    description: 莫比烏斯特效
+    priority: 99
+    duration: 0.5
+    size: 1
+    sound: BT_Skill_missilelock
+    offset: "0,0"
+  }
+  {
+    id: 1000155
+    name: 倒數計時0
+    code: bomb_shuzi00
+    description: 倒數計時0
+    priority: 5
+    duration: 1
+    size: 1.6
+    offset: "0,0"
+  }
+  {
+    id: 1000156
+    name: 倒數計時1
+    code: bomb_shuzi01
+    description: 倒數計時1
+    priority: 5
+    duration: 1
+    size: 1.6
+    offset: "0,0"
+  }
+  {
+    id: 1000157
+    name: 倒數計時2
+    code: bomb_shuzi02
+    description: 倒數計時2
+    priority: 5
+    duration: 1
+    size: 1.6
+    offset: "0,0"
+  }
+  {
+    id: 1000158
+    name: 倒數計時3
+    code: bomb_shuzi03
+    description: 倒數計時3
+    priority: 5
+    duration: 1
+    size: 1.6
+    offset: "0,0"
+  }
+  {
+    id: 1000159
+    name: 倒數計時4
+    code: bomb_shuzi04
+    description: 倒數計時4
+    priority: 5
+    duration: 1
+    size: 1.6
+    offset: "0,0"
+  }
+  {
+    id: 1000160
+    name: 倒數計時5
+    code: bomb_shuzi05
+    description: 倒數計時5
+    priority: 5
+    duration: 1
+    size: 1.6
+    offset: "0,0"
+  }
+  {
+    id: 1000161
+    name: 倒數計時6
+    code: bomb_shuzi06
+    description: 倒數計時6
+    priority: 5
+    duration: 1
+    size: 1.6
     offset: "0,0"
   }
   {

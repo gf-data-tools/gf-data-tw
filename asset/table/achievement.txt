@@ -3130,3 +3130,12 @@ achievement-30001069,
 achievement-10001070,徘徊永夜
 achievement-20001070,在灰域探查中累計觸發1000個奇遇之地。
 achievement-30001070,
+achievement-10001071,無處落腳
+achievement-20001071,慢休克-SUM 生活是一場鬥爭-UX：炸毀4個廢棄建築後通關
+achievement-30001071,
+achievement-10001072,與死神擊掌
+achievement-20001072,慢休克-AUT 死島：普通難度救走2名特工人質或噩夢難度救走3名特工人質
+achievement-30001072,
+achievement-10001073,谷底回聲
+achievement-20001073,完整瀏覽慢休克製作人員名單
+achievement-30001073,

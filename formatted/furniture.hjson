@@ -28563,6 +28563,155 @@
     bonus_id: 3104
   }
   {
+    id: 20092
+    name: 冬夜造訪
+    classes: 19
+    type: 201
+    space: "7,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 愚蠢的人類啊，這裡是通向未來的通道，此中誕生之物，將會徹底改變你們那個糟糕透頂的世界。在啟動之前，先把放在第三層上的煙灰缸給我拿走。
+    code: 2023WinterActivity_Library_deco
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20093
+    name: 百萬玫瑰
+    classes: 19
+    type: 201
+    space: "5,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 一首優美的曲子，會成為生命的裝飾，而非生存的條件，它寄託了人們對於美好的嚮往，而那些不凡的品格正是誕生於這些嚮往之中……越是經久不衰，越是歷久彌香。
+    code: 2023WinterActivity_cdplayer_deco
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20094
+    name: 灰燼穹頂
+    classes: 19
+    type: 101
+    space: "10,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 來來往往的人群從不會留神他們走過的地面，但地面卻記得那些自己曾承載的種種回憶。一片土地的價值，不在於它擁有什麼，而在於它曾見證了什麼……悲傷，離別，還有超多的灰塵。
+    code: 2023WinterActivity_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 20095
+    name: 自由枷鎖
+    classes: 19
+    type: 201
+    space: "2,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 過去它們象徵束縛與控制，當它失去原本的功能，變成純粹的模型後，便不再有人懼怕它們，因此反倒成為了自由的象徵——而且，它的設計確實很好看。
+    code: 2023WinterActivity_Gospelaxis_deco
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    touch_area: "3,3,3"
+  }
+  {
+    id: 20096
+    name: 聖杯號
+    classes: 19
+    type: 302
+    space: "5,8,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 「聖杯號」遺跡署工作服，這是我們投射到科研的服裝，一次次挑戰極限之餘，工作服的設計，和在它影響下的設計潮流，也在一定程度上反映著我們對遺跡生活與時裝的無限想象。
+    code: 2023WinterActivity_uniform_deco
+    texture_type: "1"
+    offset: "0.000,0.365,0.000"
+    rotate: "3"
+  }
+  {
+    id: 20097
+    name: 往昔之影
+    classes: 19
+    type: 302
+    space: "4,9,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 人們之所以發明相機，就是為了將某一刻珍貴的記憶定格在最美好的瞬間，而被定格的記憶最為珍貴的理由，就是往昔不可追憶。
+    code: 2023WinterActivity_Laplace,2023WinterActivity_Laplace_deco_A,2023WinterActivity_Laplace_deco_B
+    texture_type: "1,2,2"
+    sorting: "0,10,20"
+    offset: "0.000,0.198,0.000|0.052,-0.038,0.000|0.000,-1.092,0.000"
+    rotate: "3,3,3"
+    interact_point: "106"
+    interact_point_offset: *-0.399,4.265,-0.523
+  }
+  {
+    id: 20098
+    name: 群狼環伺
+    classes: 19
+    type: 201
+    space: "9,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 狼的天性與人相似，作為群居生物，它們往往懂得各司其職，並彼此愛護，任何一匹狼都無法脫離它的友伴獨自生存……除非它們意識到自己成為了狼群的拖累。
+    code: 2023WinterActivity_Defy,2023WinterActivity_Defy_deco
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "0.000,0.000,0.000|0.177,0.031,0.010"
+    rotate: "2,2"
+  }
+  {
+    id: 20099
+    name: 天際晨暉
+    classes: 19
+    type: 301
+    space: "3,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 希望是個危險的東西，它能讓人發瘋，在這破敗的土地上，它沒有任何用處，一次次地懷抱希望，只會換來更多的傷痕……即便如此，希望也不會就此消失，就像不論世界有多糟糕，太陽都照常升起。
+    code: 2023WinterActivity_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20100
+    name: 無名之輩
+    classes: 19
+    type: 201
+    space: "2,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 她不需要英雄的偽名，亦不渴求他人為她樹立豐碑。在這張無人問津的面孔之下，燃燒的是一位無名之輩熾熱的靈魂……如果讓本人看見，或許會被砸成碎片。
+    code: 2023WinterActivity_Ange_deco,2023WinterActivity_Ange_decoA
+    texture_type: "2,1"
+    sorting: "10,0"
+    offset: "0.001,1.140,0.264|0.081,-0.035,-0.008"
+    rotate: "2,2"
+    interact_point: "64"
+    interact_point_offset: *2.771,0.000,0.000
+    touch_area: "3,3,3"
+  }
+  {
+    id: 20101
+    name: 深湖領航員
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 表彰該指揮官及其麾下的戰術人形在「慢休克」活動中的卓越戰績，「比起征服人跡罕至的冰山，探索內心的神秘湖底更需要卓絕的勇氣。」
+    code: 2023WinterActivity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 30001
     name: 馬卡洛夫-南瓜熊熊
     classes: 300
@@ -42388,6 +42537,21 @@
     decompose_gift: 100003
     description: C-93的海報。
     code: poster_BattlePass_C93
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330007
+    name: MK3A1-MK3A1的維修藝術
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MK3A1的海報。
+    code: poster_BattlePass_MK3A1
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

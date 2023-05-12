@@ -213,4 +213,13 @@
     pic: ai_guard
     color: ffffff
   }
+  {
+    id: 25
+    force_id: 3
+    ai_type: 106
+    name: 鎖定
+    description: 沿「可行的」、「最短」的路徑向指定NPC移動
+    pic: ai_guard
+    color: ffffff
+  }
 ]

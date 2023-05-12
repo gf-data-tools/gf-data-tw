@@ -504,11 +504,15 @@
   }
   {
     id: 1107
-    name: 越戰越勇
-    desc: 我方每次使用技能後下次技能冷卻減少30%
+    name: 突擊慣性
+    desc:
+      '''
+      該場戰鬥中提升我方全體傷害和迴避每4秒提升3%，最多疊加10層
+      <color=#CF8000>效果持續1回合</color>
+      '''
     if_display: 1
-    code: fight_skill_buff105
-    skill_group: "759124"
+    code: fight_skill_buff102
+    skill_group: "756082"
   }
   {
     id: 1108

@@ -13,7 +13,7 @@
     type: procurement
     count: 1
     title: 每周要務：時裝採購
-    content: 進行1次采購。
+    content: 進行1次採購。
     prize_id: 8309
     exchange_prize_id: 8316
   }

@@ -505,6 +505,28 @@
     source: 1
   }
   {
+    id: 52
+    name: 硫火巫師帽
+    description: 蠟燭燃著硫火的帽子，據說可以驅走邪惡靈魂的侵擾。「罪人死後歸去何地？他們不去天使飛翔的天堂，而是踏入硫火燃燒的地獄。」
+    group_id: "94"
+    code: commander_5210_icon
+    path: CLASS52
+    des_year: "2023"
+    source: 2
+    source_description: 慢休克活動排名獎勵
+  }
+  {
+    id: 53
+    name: 慶典巡遊
+    description: 在華燈與幻夢中沉醉，在聲樂與歌舞中流連，與這永生難忘的夜，與每一個珍視你的人。
+    group_id: "95"
+    code: commander_5320_icon
+    path: CLASS53
+    des_year: "2023"
+    source: 2
+    source_description: 七周年簽到活動獎勵
+  }
+  {
     id: 99
     name: 謊言面具
     description: 埋藏我所思，塑化我所願

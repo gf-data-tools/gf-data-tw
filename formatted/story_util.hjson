@@ -9730,7 +9730,7 @@
   {
     id: 918
     mission_id: "10988"
-    description: 劇情關1
+    description: 「在指揮官的驚聲尖叫和奪命狂奔中，今年的聖誕節熱鬧開場了。」
     scripts: -49-0-0
     campaign: -49
     bgm: BGM_Frontline
@@ -9740,7 +9740,7 @@
   {
     id: 919
     mission_id: "10989"
-    description: 劇情關2
+    description: 「黑暗的樹林中，一場聖誕幣的爭奪戰悄無聲息地展開。」
     scripts: -49-1-1
     campaign: -49
     bgm: BGM_Frontline
@@ -9750,7 +9750,7 @@
   {
     id: 920
     mission_id: "10990"
-    description: 戰鬥關A - 劇情3
+    description: 「被捨棄的心意，難以傳達的心意。」
     scripts: -49-1-2
     campaign: -49
     bgm: BGM_Frontline
@@ -9761,7 +9761,7 @@
   {
     id: 921
     mission_id: "10991"
-    description: 劇情關4
+    description: 「首先，喝光這些，把你的理智統統關掉。」
     scripts: -49-2-1
     campaign: -49
     bgm: BGM_Frontline
@@ -9771,7 +9771,7 @@
   {
     id: 922
     mission_id: "10992"
-    description: 戰鬥關B - 劇情5
+    description: 「她們的新仇舊恨，都將在此刻清算。」
     scripts: -49-2-2
     campaign: -49
     bgm: BGM_Frontline
@@ -9782,7 +9782,7 @@
   {
     id: 923
     mission_id: "10993"
-    description: 劇情關6
+    description: 「我會成為勝者，並從你嘴裡挖出過去的真相。」
     scripts: -49-3-1
     campaign: -49
     bgm: BGM_Frontline
@@ -9792,7 +9792,7 @@
   {
     id: 924
     mission_id: "10994"
-    description: 戰鬥關C - 劇情7
+    description: 「這就是獲得快樂需要付出的代價。」
     scripts: -49-3-2
     campaign: -49
     bgm: BGM_Frontline
@@ -9803,7 +9803,7 @@
   {
     id: 925
     mission_id: "10995"
-    description: 劇情關8
+    description: 「聖誕節的魔法真的能生效嗎？」
     scripts: -49-4-1
     campaign: -49
     bgm: BGM_Frontline
@@ -9813,7 +9813,7 @@
   {
     id: 926
     mission_id: "10996"
-    description: 戰鬥關D - 劇情9
+    description: 「……在回去之前，我要告訴你一個秘密。」
     scripts: -49-4-2
     campaign: -49
     bgm: BGM_Frontline
@@ -9824,7 +9824,7 @@
   {
     id: 927
     mission_id: "10997"
-    description: 劇情關10
+    description: 「一聲慘烈的吶喊後，指揮官衝向了寒冷的雪夜……」
     scripts: -49-5-1
     campaign: -49
     bgm: BGM_Frontline
@@ -9834,344 +9834,357 @@
   {
     id: 928
     mission_id: "11011"
+    description: 「蜂針系統的含義，就是無孔不入。」
+    scripts: -51-1-1
     campaign: -51
-    title: "101"
+    title: 螫針
     start: -51-1-1
   }
   {
     id: 929
     mission_id: "11013"
+    description: 「M16A1追捕過很多對手，而這隻飛蛾剛剛榮升為她最棘手的目標。」
     campaign: -51
     bgm: BGM_Frontline
-    title: 1-2
+    title: 尼刻II
     point: 75620:-51-EXT-1-2
   }
   {
     id: 930
     mission_id: "11014"
+    description: 「我必須立刻離開蘇聯，請『傳道者』為我提供援助和政治避難申請。」
     campaign: -51
     bgm: BGM_Frontline
-    title: 2-1
+    title: 破梏
     point: 75680:-51-EXT-2-1
   }
   {
     id: 931
     mission_id: "11015"
+    description: 「這絕對是我執行過的最討厭的任務，沒有之一！」
     campaign: -51
     bgm: BGM_Frontline
-    title: 2-2
+    title: 匿伏I
     round: 2:-51-EXT-2-2-2
   }
   {
     id: 932
-    mission_id: "11028"
+    mission_id: "11028,11038"
+    description: 「她們阻攔地越是激烈，就越是證明我們方向的正確。」
     campaign: -51
     bgm: BGM_Frontline
-    title: 3-1N
-    point: 75866:-51-EXT-3-1
-  }
-  {
-    id: 933
-    mission_id: "11038"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-1H
-    point: 76094:-51-EXT-3-1
+    title: 橫斷
+    point: 75866:-51-EXT-3-1,76094:-51-EXT-3-1
   }
   {
     id: 934
-    mission_id: "11018"
+    mission_id: "11018,11029,11039"
+    description: 「她的劍鋒已不如初見那般鋒利，一點一滴，我們切實地傷害著這頭白色的巨獸。」
     campaign: -51
     bgm: BGM_Frontline
-    title: 3-2
-    point: 76372:-51-EXT-3-2
-  }
-  {
-    id: 935
-    mission_id: "11029"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-2N
-    point: 75916:-51-EXT-3-2
-  }
-  {
-    id: 936
-    mission_id: "11039"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-2H
-    point: 76144:-51-EXT-3-2
+    title: 逆光II
+    point: 76372:-51-EXT-3-2,75916:-51-EXT-3-2,76144:-51-EXT-3-2
   }
   {
     id: 937
-    mission_id: "11019"
+    mission_id: "11019,11030,11040"
+    description: 「這一步棋，可以將軍。」
     campaign: -51
     bgm: BGM_Frontline
-    title: 3-3
-    point: 76421:-51-EXT-3-3
-  }
-  {
-    id: 938
-    mission_id: "11030"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-3N
-    point: 75965:-51-EXT-3-3
-  }
-  {
-    id: 939
-    mission_id: "11040"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-3H
-    point: 76193:-51-EXT-3-3
+    title: 交錯點II
+    point: 76421:-51-EXT-3-3,75965:-51-EXT-3-3,76193:-51-EXT-3-3
   }
   {
     id: 940
-    mission_id: "11020"
+    mission_id: "11020,11031,11041"
+    description: 「在這樣詭譎的世界裡，她就像是一彎明月——而月亮，終會迎來墜落的時刻。」
     campaign: -51
     bgm: BGM_Frontline
-    title: 3-4
-    point: 76455:-51-EXT-3-4
-  }
-  {
-    id: 941
-    mission_id: "11031"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-4N
-    point: 76009:-51-EXT-3-4
-  }
-  {
-    id: 942
-    mission_id: "11041"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-4H
-    point: 76237:-51-EXT-3-4
+    title: 血月I
+    point: 76455:-51-EXT-3-4,76009:-51-EXT-3-4,76237:-51-EXT-3-4
   }
   {
     id: 943
     mission_id: "11052"
     campaign: -51
-    title: 困難獎勵關
+    title: 疊合映射
     start: -51-5-1
   }
   {
     id: 944
     mission_id: "11053"
     campaign: -51
-    title: 噩夢獎勵關
+    title: 同胚映像
     start: -51-5-2
   }
   {
     id: 945
     mission_id: "11057"
+    description: 「我的到來，不是為了驗證你們的忠誠，而是授予你們忠誠。」
+    scripts: -51-1-2
     campaign: -51
-    title: "102"
+    title: 黑箱
     start: -51-1-2
   }
   {
     id: 946
     mission_id: "11058"
+    description: 「要繪畫山巒和高地的人，需要來到平原；反過來，為了考察平原，應當登上高山。」
+    scripts: -51-1-3
     campaign: -51
-    title: "103"
+    title: 暗哨
     start: -51-1-3
   }
   {
     id: 947
     mission_id: "11059"
+    description: 「來自世界各地的英雄乘上他們的阿爾戈號，朝著柏林齊聚，只為了追尋罪惡的金羊毛。」
+    scripts: -51-1-4
     campaign: -51
-    title: "104"
+    title: 追獵I
     start: -51-1-4
   }
   {
     id: 948
     mission_id: "11060"
+    description: 「在統一日之後，一切都發生著變化，跟不上的人，註定被浪潮淹沒。」
+    scripts: -51-1-6
     campaign: -51
-    title: "106"
+    title: 尼刻I
     start: -51-1-6
   }
   {
     id: 949
     mission_id: "11061"
+    description: 「那裡是連飛鳥都無法穿越的死亡之地，我們稱它為『阿佛那斯』」
+    scripts: -51-1-8
     campaign: -51
-    title: "108"
+    title: 「死海」
     start: -51-1-8
   }
   {
     id: 950
     mission_id: "11062"
+    description: 「在對抗外敵之前，我們首先要清理內部的投機分子。」
+    scripts: -51-2-1
     campaign: -51
-    title: "201"
+    title: 搖旌
     start: -51-2-1
   }
   {
     id: 951
     mission_id: "11063"
+    description: 「我們現在需要一把能迅速刺向對方心臟的尖刀……但最好是別人的刀。」
+    scripts: -51-2-3
     campaign: -51
-    title: "203"
+    title: 轅轍
     start: -51-2-3
   }
   {
     id: 952
     mission_id: "11064"
+    description: 「我的身份完成這項任務，那麼意味著格裡芬基地已經得到了將軍的庇護。」
+    scripts: -51-2-5
     campaign: -51
-    title: "205"
+    title: 匿伏II
     start: -51-2-5
   }
   {
     id: 953
     mission_id: "11065"
+    description: 「如果死海是通往地獄的入口，那麼我們就是墜入冥府的埃涅阿斯。」
+    scripts: -51-2-7
     campaign: -51
-    title: "207"
+    title: 渦旋
     start: -51-2-7
   }
   {
     id: 954
     mission_id: "11066"
+    description: 「敬友誼。」
+    scripts: -51-2-8
     campaign: -51
-    title: "208"
+    title: 園丁
     start: -51-2-8
   }
   {
     id: 955
     mission_id: "11067"
+    description: 「我們現在就是出其不意插向敵方心臟的一把匕首。」
+    scripts: -51-3-1
     campaign: -51
-    title: "301"
+    title: 開首
     start: -51-3-1
   }
   {
     id: 956
     mission_id: "11068"
+    description: 「我不需要被理解，亦不需要被原諒。」
+    scripts: -51-3-3
     campaign: -51
-    title: "303"
+    title: 逆光I
     start: -51-3-3
   }
   {
     id: 957
     mission_id: "11069"
+    description: 「所有的線，所有的點，都是為了這裡而存在的。」
+    scripts: -51-3-5
     campaign: -51
-    title: "305"
+    title: 交錯點I
     start: -51-3-5
   }
   {
     id: 958
     mission_id: "11070"
+    description: 「我為你們送來了兩個王牌，第一個是我，第二個就是它。」
+    scripts: -51-3-7
     campaign: -51
-    title: "307"
+    title: 鐵腕
     start: -51-3-7
   }
   {
     id: 959
     mission_id: "11071"
+    description: 「我不會放棄任何人，至少在我認為我可以不放棄的時候，我不會。」
+    scripts: -51-3-8
     campaign: -51
-    title: "308"
+    title: 裂隙
     start: -51-3-8
   }
   {
     id: 960
     mission_id: "11072"
+    description: 「這世上的久別重逢，大多令人感動，但也偶有例外。」
+    scripts: -51-3-10
     campaign: -51
-    title: "310"
+    title: 血月II
     start: -51-3-10
   }
   {
     id: 961
     mission_id: "11073"
+    description: 「月色的微光自兩座塔的間隙朝外透出，逆著這光，連飛鳥的影子都不見其色。」
+    scripts: -51-3-12
     campaign: -51
-    title: "312"
+    title: 倒影
     start: -51-3-12
   }
   {
     id: 962
     mission_id: "11074"
+    description: 「她一直在拯救這個世界，現在，到了我們拯救她的時候了。」
+    scripts: -51-4-1
     campaign: -51
-    title: "401"
+    title: 開道
     start: -51-4-1
   }
   {
     id: 963
     mission_id: "11075"
+    description: 「朋友未必永遠是朋友，敵人也未必永遠是敵人。」
+    scripts: -51-4-2
     campaign: -51
-    title: "402"
+    title: 升變
     start: -51-4-2
   }
   {
     id: 964
     mission_id: "11076"
+    description: 「由我進入愁苦之城，由我進入極樂之塔，由我進入萬劫不復的人群中。」
+    scripts: -51-4-3
     campaign: -51
-    title: "403"
+    title: 登塔
     start: -51-4-3
   }
   {
     id: 965
     mission_id: "11077"
+    description: 「在地獄的門前，飛鳥被折斷了翅膀。」
+    scripts: -51-4-5
     campaign: -51
-    title: "405"
+    title: 侵襲
     start: -51-4-5
   }
   {
     id: 966
     mission_id: "11078"
+    description: 「這一刻，她仿佛回到了那個古舊的洋房，這一次，她雙臂俱全，手中的長槍裝滿了子彈。」
+    scripts: -51-4-7
     campaign: -51
-    title: "407"
+    title: 舊雨II
     start: -51-4-7
   }
   {
     id: 967
     mission_id: "11079"
+    description: 「凡事都有可能，永遠別說永遠。」
+    scripts: -51-4-9
     campaign: -51
-    title: "409"
+    title: 孤島II
     start: -51-4-9
   }
   {
     id: 968
     mission_id: "11080"
+    description: 「我們都曾見過比這更殘酷的地獄，而你們只是註定被跨越的障礙。」
+    scripts: -51-4-11
     campaign: -51
-    title: "411"
+    title: 背叛者II
     start: -51-4-11
   }
   {
     id: 969
     mission_id: "11081"
+    description: 「我早就知道，到最後，我們都是真正的戰友，指揮官。」
+    scripts: -51-4-13
     campaign: -51
-    title: "413"
+    title: 謎底
     start: -51-4-13
   }
   {
     id: 970
     mission_id: "11082"
+    description: 「在我之前，已有同路人，在我之後，必有後繼者。」
+    scripts: -51-4-14
     campaign: -51
-    title: "414"
+    title: 終點
     start: -51-4-14
   }
   {
     id: 971
     mission_id: "11047"
+    description: 「是時候讓精英小隊以外的人形嘗試獨自與帕拉蒂斯戰鬥了。」
+    scripts: -51-slg-mission-1
     campaign: -51
-    title: 彩蛋1
+    title: 推演I
     start: -51-slg-mission-1
   }
   {
     id: 972
     mission_id: "11054"
+    description: 「看樣子還為時過早，我們還是應該給她一些援助。」
+    scripts: -51-slg-mission-2
     campaign: -51
-    title: 彩蛋2
+    title: 推演II
     start: -51-slg-mission-2
   }
   {
     id: 973
     mission_id: "11055"
+    description: 「你們已經學會如何應付帕拉蒂斯了，現在開始殲滅他們！」
+    scripts: -51-slg-mission-3
     campaign: -51
-    title: 彩蛋3
+    title: 推演III
     start: -51-slg-mission-3
   }
   {
     id: 974
     mission_id: "11056"
+    description: 「叫她們看看我們格里芬人形的能力吧！」
+    scripts: -51-slg-mission-4
     campaign: -51
-    title: 彩蛋4
+    title: 推演Ⅳ
     start: -51-slg-mission-4
   }
   {
@@ -10331,547 +10344,694 @@
   {
     id: 997
     mission_id: "11166"
+    description: 「這是一座奇跡，而您，就是這座奇跡上最偉大的見證者！」
+    scripts: -54-O-1
     campaign: -54
-    title: O1
+    title: 1 列車時刻表
     start: -54-O-1
   }
   {
     id: 998
     mission_id: "11164"
+    scripts: -54-0-1
     campaign: -54
-    title: EX難度通關獎勵關
+    title: 超技練習曲
     start: -54-0-1
   }
   {
     id: 999
     mission_id: "11165"
+    scripts: -54-0-2
     campaign: -54
-    title: UX難度通關獎勵關
+    title: 音畫練習曲
     start: -54-0-2
   }
   {
     id: 1000
     mission_id: "11167"
+    description: 「教官永遠有辦法解決問題——即便我們不知道是什麼辦法。」
+    scripts: -54-A-1
     campaign: -54
-    title: A1
+    title: 3-α1 A小調圓舞曲
     start: -54-A-1
   }
   {
     id: 1001
     mission_id: "11168"
+    description: 「只有這樣，才算得上真正的『萬無一失』。」
+    scripts: -54-A-3
     campaign: -54
-    title: A3
+    title: 3-α3 雨滴
     start: -54-A-3
   }
   {
     id: 1002
     mission_id: "11169"
+    description: 「不愧是『Я』教官，連第一層任務都做得細緻萬分。」
+    scripts: -54-A-4
     campaign: -54
-    title: A4
+    title: 3-α4 G小調小前奏曲
     start: -54-A-4
   }
   {
     id: 1003
     mission_id: "11170"
+    description: 「這是『Я』分隊的一次特別行動。」
+    scripts: -54-A-5
     campaign: -54
-    title: A5
+    title: 5-α5 月光奏鳴
     start: -54-A-5
   }
   {
     id: 1004
     mission_id: "11120,11123,11126"
+    description: 「你已經失職了，『Я』教官。」
+    scripts: -54-A-6Point1
     campaign: -54
-    title: A6
+    title: 5-α6 恰空舞曲
     start: -54-A-6Point1
   }
   {
     id: 1005
     mission_id: "11171"
+    description: 「真正的『指揮官』無一不是從前線磨礪而來。」
+    scripts: -54-A-7
     campaign: -54
-    title: A7
+    title: 5-α7 冬
     start: -54-A-7
   }
   {
     id: 1006
     mission_id: "11121,11124,11127"
+    description: 「你應該聽他的。」
     campaign: -54
-    title: A8
+    title: 5-α8 斯特拉迪瓦裡魔法
     round: 1:-54-EXT-A3-3
   }
   {
     id: 1007
     mission_id: "11172"
+    description: 「現在就是執行第二方案的最佳時機。」
+    scripts: -54-A-9
     campaign: -54
-    title: A9
+    title: 16 A大調大協奏曲
     start: -54-A-9
   }
   {
     id: 1008
     mission_id: "11173"
+    description: 「……偽裝已經結束了。」
+    scripts: -54-A-10
     campaign: -54
-    title: A10
+    title: 17 勃拉姆斯間奏曲
     start: -54-A-10
   }
   {
     id: 1009
     mission_id: "11174"
+    description: 「這世上大多數人都無法選擇出身，你不能，我也不能。」
+    scripts: -54-A-11
     campaign: -54
-    title: A11
+    title: 18 天鵝
     start: -54-A-11
   }
   {
     id: 1010
     mission_id: "11175"
+    description: 「她如同一隻蓄勢待發的雄鷹，正無情的審視著自己的獵物。」
+    scripts: -54-A-12
     campaign: -54
-    title: A12
+    title: 25 魯斯蘭與柳德米拉
     start: -54-A-12
   }
   {
     id: 1011
     mission_id: "11122,11125,11128"
+    description: 「她化作了照亮夜空的星星。」
     campaign: -54
-    title: A13
+    title: 26 查拉圖斯特拉如是說
     round: 1:-54-EXT-A4
   }
   {
     id: 1012
     mission_id: "11176"
+    description: 「此夜，此地，此時，終於真正地安靜了下來。」
+    scripts: -54-A-14
     campaign: -54
-    title: A14
+    title: 27 女武神的騎行
     start: -54-A-14
   }
   {
     id: 1013
     mission_id: "11177"
+    description: 「瑪姬小姐，柳芭老媽讓我向你問好。」
+    scripts: -54-B-1
     campaign: -54
-    title: B1
+    title: 3-β1 吉恩喝了一杯
     start: -54-B-1
   }
   {
     id: 1014
     mission_id: "11129"
+    description: 「對於律賊，欺騙通常只有一種結果。」
     campaign: -54
-    title: B2
+    title: 3-β2 C大調第二交響曲
     round: 1:-54-EXT-B1
   }
   {
     id: 1015
     mission_id: "11178"
+    description: 「人形哪來的退休？只有無盡的輪迴罷了。」
+    scripts: -54-B-3
     campaign: -54
-    title: B3
+    title: 3-β3 第三交響曲
     start: -54-B-3
   }
   {
     id: 1016
     mission_id: "11179"
+    description: 「坐在冰冷的地板上，凱瑟琳和瑪姬靠在了彼此的身上。」
+    scripts: -54-B-4
     campaign: -54
-    title: B4
+    title: 5-β4 引子與迴旋隨想曲
     start: -54-B-4
   }
   {
     id: 1017
     mission_id: "11180"
+    description: 「一杯乾馬丁尼，搖勻，不要攪拌。」
+    scripts: -54-B-5
     campaign: -54
-    title: B5
+    title: 5-β5 骷髏之舞
     start: -54-B-5
   }
   {
     id: 1018
     mission_id: "11181"
+    description: 「如果你的戰鬥力只有5，那她就是530000。」
+    scripts: -54-B-7
     campaign: -54
-    title: B7
+    title: 5-β7 鄉村騎士間奏曲
     start: -54-B-7
   }
   {
     id: 1019
     mission_id: "11182"
+    description: 「人類從來不吸取任何教訓。」
+    scripts: -54-B-9
     campaign: -54
-    title: B9
+    title: 12 玄秘曲一號
     start: -54-B-9
   }
   {
     id: 1020
     mission_id: "11183"
+    description: 「禍害遺千年，幸好你不是好人，我也不是。」
+    scripts: -54-B-11
     campaign: -54
-    title: B11
+    title: 14 G小調敘事曲
     start: -54-B-11
   }
   {
     id: 1021
     mission_id: "11184"
+    description: 「我怎麼可能讓戰力只有5的人扛到最後。」
+    scripts: -54-B-12
     campaign: -54
-    title: B12
+    title: 21 鐘
     start: -54-B-12
   }
   {
     id: 1022
     mission_id: "11185"
+    description: 「她變作一隻電子貓咪，跑了進去。」
+    scripts: -54-B-14
     campaign: -54
-    title: B14
+    title: 23 表達
     start: -54-B-14
   }
   {
     id: 1023
     mission_id: "11186"
+    description: 「『夏園』已解鎖，是否前往？」
+    scripts: -54-C-1
     campaign: -54
-    title: C1
+    title: 3-γ1 泰綺絲冥想曲
     start: -54-C-1
   }
   {
     id: 1024
     mission_id: "11187"
+    description: 「眼前的花園與艾爾瑪的記憶已經截然不同，這令她鮮明地知曉，她無家可歸。」
+    scripts: -54-C-3
     campaign: -54
-    title: C3
+    title: 3-γ3 弗拉基米爾的藍調
     start: -54-C-3
   }
   {
     id: 1025
     mission_id: "11188"
+    description: 「我必須告訴你，柯爾特快車的票僅此一家。」
+    scripts: -54-C-4
     campaign: -54
-    title: C4
+    title: 3-γ4 十二平均律前奏曲
     start: -54-C-4
   }
   {
     id: 1026
     mission_id: "11189"
+    description: 「想作為完整的自己活下去，必須解決記憶的問題。」
+    scripts: -54-C-5
     campaign: -54
-    title: C5
+    title: 5-γ5 金絲雀
     start: -54-C-5
   }
   {
     id: 1027
     mission_id: "11190"
+    description: 「你和我一樣，是『媽媽』的孩子！」
+    scripts: -54-C-7
     campaign: -54
-    title: C7
+    title: 5-γ7 合唱幻想曲
     start: -54-C-7
   }
   {
     id: 1028
     mission_id: "11144,11149,11154"
+    description: 「我是第一個，而你……是第63個。」
+    scripts: -54-C-8Point1
     campaign: -54
-    title: C8
+    title: 5-γ8 重歸蘇蓮托
     start: -54-C-8Point1
   }
   {
     id: 1029
     mission_id: "11191"
+    description: 「教官小姐，你是否願意和我做個交易呢？」
+    scripts: -54-C-9
     campaign: -54
-    title: C9
+    title: 8 帕格尼尼主題狂想曲
     start: -54-C-9
   }
   {
     id: 1030
     mission_id: "11145,11150,11155"
+    description: 「柳德米拉就像變了個人……這或許就是她的專業面孔。」
+    scripts: -54-C-10Point1
     campaign: -54
-    title: C10
+    title: 9 幽靈
     start: -54-C-10Point1
   }
   {
     id: 1031
     mission_id: "11192"
+    description: 「……暮星隕落。」
+    scripts: -54-C-11
     campaign: -54
-    title: C11
+    title: 10 和諧的靈感
     start: -54-C-11
   }
   {
     id: 1032
     mission_id: "11193"
+    description: 「就算再怎麼被你們改造，我還是熱愛自己本身啊。」
+    scripts: -54-C-12
     campaign: -54
-    title: C12
+    title: 29 夏協奏曲
     start: -54-C-12
   }
   {
     id: 1033
     mission_id: "11146,11151,11156"
+    description: 「我會連你的份一起討回來，凱瑟琳。」
     campaign: -54
-    title: C13
+    title: 30 第六交響曲
     round: 1:-54-EXT-C5
   }
   {
     id: 1034
     mission_id: "11194"
+    description: 「在逐漸崩塌潰滅的柯爾特快車上，艾爾瑪緊緊抱住了瑪姬。」
+    scripts: -54-C-14
     campaign: -54
-    title: C14
+    title: 31 流浪者之歌
     start: -54-C-14
   }
   {
     id: 1035
     mission_id: "11147,11152,11157"
+    description: 「星星升起來了。」
+    scripts: -54-C-15Point1
     campaign: -54
-    title: C15
+    title: 32 1812序曲
     round: 3:-54-C-15Point1
   }
   {
     id: 1036
     mission_id: "11195"
+    description: 「你自由了，艾爾瑪。」
+    scripts: -54-C-16
     campaign: -54
-    title: C16
+    title: 33 G弦上的詠嘆調
     start: -54-C-16
   }
   {
     id: 1037
     mission_id: "11196"
+    description: 「你的身上缺少了一種味道，有錢人的『錢』味。」
+    scripts: -54-O-2
     campaign: -54
-    title: O2
+    title: 2 輻射濃度警報器
     start: -54-O-2
   }
   {
     id: 1038
     mission_id: "11197"
+    description: 「歡迎來到『柯爾特快車』。」
+    scripts: -54-O-3
     campaign: -54
-    title: O3
+    title: 3 酒吧吧檯
     start: -54-O-3
   }
   {
     id: 1039
     mission_id: "11198"
+    description: 「律賊，即將展開他們的『狩獵』。」
+    scripts: -54-O-4
     campaign: -54
-    title: O4
+    title: 4 復古留聲機
     start: -54-O-4
   }
   {
     id: 1040
     mission_id: "11199"
+    description: 「你要叫我……柳芭老媽！」
+    scripts: -54-O-5
     campaign: -54
-    title: O5
+    title: 5 洗手間
     start: -54-O-5
   }
   {
     id: 1041
     mission_id: "11200"
+    description: 「一個月才幾百塊，你以為他們會玩命嗎？」
+    scripts: -54-O-6
     campaign: -54
-    title: O6
+    title: 6 世界時區鐘
     start: -54-O-6
   }
   {
     id: 1042
     mission_id: "11201"
+    description: 「我需要人形的力量，哪怕不是戰術人形。」
+    scripts: -54-O-7
     campaign: -54
-    title: O7
+    title: 7 通向特等車廂的門
     start: -54-O-7
   }
   {
     id: 1043
     mission_id: "11202"
+    description: 「一切都是為了新蘇聯的未來。」
+    scripts: -54-O-8
     campaign: -54
-    title: O8
+    title: 11 大型行李架
     start: -54-O-8
   }
   {
     id: 1044
     mission_id: "11203"
+    description: 「擁有弱點，真是一件可怕的事情。」
+    scripts: -54-O-9
     campaign: -54
-    title: O9
+    title: 15 觀景窗口
     start: -54-O-9
   }
   {
     id: 1045
     mission_id: "11204"
+    description: 「你應該去往人類的世界，你屬於那邊。」
+    scripts: -54-O-10
     campaign: -54
-    title: O10
+    title: 19 桌上的淡雅花束
     start: -54-O-10
   }
   {
     id: 1046
     mission_id: "11205"
+    description: 「人類就是這樣，缺什麼才求什麼。」
+    scripts: -54-O-11
     campaign: -54
-    title: O11
+    title: 20 售賣物品的小推車
     start: -54-O-11
   }
   {
     id: 1047
     mission_id: "11206"
+    description: 「我是醫生，救人是我的本職。」
+    scripts: -54-O-12
     campaign: -54
-    title: O12
+    title: 24 車廂內的惡搞塗鴉
     start: -54-O-12
   }
   {
     id: 1048
     mission_id: "11207"
+    description: 「今夜最後一班‘柯爾特快車’，開始行駛了。」
+    scripts: -54-O-13
     campaign: -54
-    title: O13
+    title: 28 維修工作間
     start: -54-O-13
   }
   {
     id: 1049
     mission_id: "11208"
+    description: 「帕拉蒂斯，你們該下地獄了。」
+    scripts: -54-O-14
     campaign: -54
-    title: O14
+    title: 34 通向車頂的出口
     start: -54-O-14
   }
   {
     id: 1050
     mission_id: "11209"
+    description: 「痛苦如此持久，像蝸牛充滿耐心地移動；快樂如此短暫，像兔子的尾巴掠過秋天的草原。」
+    scripts: -54-O-15
     campaign: -54
-    title: O15
+    title: 35 懸掛屏幕
     start: -54-O-15
   }
   {
     id: 1051
     mission_id: "11211"
+    description: 「放學了！該回家了。」
+    scripts: -54-T-1
     campaign: -54
-    title: T1
+    title: 35-T1 練習曲第二號
     start: -54-T-1
   }
   {
     id: 1052
     mission_id: "11212"
+    description: 「很好，又去掉了一個選項。」
+    scripts: -54-T-2
     campaign: -54
-    title: T2
+    title: 35-T2 第五前奏曲
     start: -54-T-2
   }
   {
     id: 1053
     mission_id: "11213"
+    description: 「塔亞柔斯抬腳跨過了藍色的小書包，消失在了二等車廂中。」
+    scripts: -54-T-3
     campaign: -54
-    title: T3
+    title: 35-T3 浪漫曲
     start: -54-T-3
   }
   {
     id: 1054
     mission_id: "11214"
+    description: 「塔亞柔斯用這個詞語給她的機甲命了名——『伊芙小姐』」
+    scripts: -54-T-4
     campaign: -54
-    title: T4
+    title: 35-T4 音樂瞬間
     start: -54-T-4
   }
   {
     id: 1055
     mission_id: "11215"
+    description: 「我們絕不遵守法律，我們以監獄為家。」
+    scripts: -54-W-1
     campaign: -54
-    title: W1
+    title: 35-W1索爾維格之歌
     start: -54-W-1
   }
   {
     id: 1056
     mission_id: "11216"
+    description: 「那些衣食無憂的『食肉糜者』，不會把他們這群小人物的死活放在眼裡。」
+    scripts: -54-W-2
     campaign: -54
-    title: W2
+    title: 35-W2 A大調單簧管協奏曲
     start: -54-W-2
   }
   {
     id: 1057
     mission_id: "11217"
+    description: 「忠誠，從來都不是靠花言巧語。」
+    scripts: -54-W-3
     campaign: -54
-    title: W3
+    title: 35-W3 曼圖亞之旅
     start: -54-W-3
   }
   {
     id: 1058
     mission_id: "11218"
+    description: 「他不是上帝的恩賜，而是詛咒……」
+    scripts: -54-W-4
     campaign: -54
-    title: W4
+    title: 35-W4 離別曲
     start: -54-W-4
   }
   {
     id: 1059
     mission_id: "11219"
+    description: 「不是我沒有才能，是老子時運不濟！」
+    scripts: -54-N-1
     campaign: -54
-    title: N1
+    title: 35-N1 幻想即興曲
     start: -54-N-1
   }
   {
     id: 1060
     mission_id: "11220"
+    description: 「竭澤而漁只能富裕一時，可持續性發展才是長久的道路。」
+    scripts: -54-N-2
     campaign: -54
-    title: N2
+    title: 35-N2 春天奏鳴曲
     start: -54-N-2
   }
   {
     id: 1061
     mission_id: "11221"
+    description: 「從來，從來沒有人能這樣欺騙我！」
+    scripts: -54-N-3
     campaign: -54
-    title: N3
+    title: 35-N3 小步舞曲
     start: -54-N-3
   }
   {
     id: 1062
     mission_id: "11222"
+    description: 「反正你也只會撲克，就叫撲克小姐吧。」
+    scripts: -54-K-1
     campaign: -54
-    title: K1
+    title: 35-C1 裸者之舞
     start: -54-K-1
   }
   {
     id: 1063
     mission_id: "11223"
+    description: 「為了不被淘汰而苦苦掙扎的人形，總會看穿那些醜陋扭曲的現實。」
+    scripts: -54-K-2
     campaign: -54
-    title: K2
+    title: 35-C2 月亮河
     start: -54-K-2
   }
   {
     id: 1064
     mission_id: "11224"
+    description: 「自由……我們自由了！」
+    scripts: -54-K-3
     campaign: -54
-    title: K3
+    title: 35-C3 星降之夜
     start: -54-K-3
   }
   {
     id: 1065
     mission_id: "11225"
+    description: 「以後，我叫瑪姬·龐茲，你就是凱瑟琳·龐茲了。」
+    scripts: -54-K-4
     campaign: -54
-    title: K4
+    title: 35-C4 我的太陽
     start: -54-K-4
   }
   {
     id: 1066
     mission_id: "11226"
+    description: 「人生的分岔口，有時候通向的總是同一個終點。」
+    scripts: -54-D-1
     campaign: -54
-    title: D1
+    title: 35-R1 茨岡狂想曲
     start: -54-D-1
   }
   {
     id: 1067
     mission_id: "11227"
+    description: 「一切從未改變，也不可能改變。」
+    scripts: -54-D-2
     campaign: -54
-    title: D2
+    title: 35-R2 夏日黃昏
     start: -54-D-2
   }
   {
     id: 1068
     mission_id: "11228"
+    description: 「最初的美好與幸福已是無法追回的遺憾。」
+    scripts: -54-D-3
     campaign: -54
-    title: D3
+    title: 35-R3 B小調鋼琴五重奏
     start: -54-D-3
   }
   {
     id: 1069
     mission_id: "11229"
+    description: 「原來我一開始，只是喜歡拯救生命的感覺啊」
+    scripts: -54-D-4
     campaign: -54
-    title: D4
+    title: 35-R4 F小調鋼琴協奏曲
     start: -54-D-4
   }
   {
     id: 1070
     mission_id: "11230"
+    description: 「我能夠去到的地方，都沒有玫瑰存在。」
+    scripts: -54-P-1
     campaign: -54
-    title: P1
+    title: 35-P1小星星變奏曲
     start: -54-P-1
   }
   {
     id: 1071
     mission_id: "11231"
+    description: 「她知道美夢箱什麼也實現不了，即便如此，她義無反顧。」
+    scripts: -54-P-2
     campaign: -54
-    title: P2
+    title: 35-P2 死神與少女
     start: -54-P-2
   }
   {
     id: 1072
     mission_id: "11232"
+    description: 「他的身後，是他永恆的天使，無可替代的玫瑰。」
+    scripts: -54-P-3
     campaign: -54
-    title: P3
+    title: 35-P3 愛的贊禮
     start: -54-P-3
   }
   {
     id: 1073
     mission_id: "11210"
+    description: 「我不會辜負你的犧牲。」
+    scripts: -54-A-15
     campaign: -54
-    title: A15
+    title: 36 光之聲
     start: -54-A-15
   }
   {
     id: 1074
     mission_id: "11320"
     description: 【標記】禿洞點提示說明
-    scripts: 95391:-55-EXT
     campaign: -55
     bgm: BGM_Frontline
     point: 95391:-55-EXT
@@ -10879,30 +11039,36 @@
   {
     id: 1075
     mission_id: "11233,11237"
+    description: 「命運引導她們重逢，即便已經過去了如此之久。」
     campaign: -56
     title: 初虧
   }
   {
     id: 1076
     mission_id: "11234,11238"
+    description: 「當信條不能幫助你渡過難關時，你最好有兩手準備。」
     campaign: -56
     title: 食既
   }
   {
     id: 1077
     mission_id: "11235,11239"
+    description: 「這份勇氣，我也想要傳遞給其他需要的人。」
     campaign: -56
     title: 食甚
   }
   {
     id: 1078
     mission_id: "11236,11240"
+    description: 「我是吞沒太陽的月亮，如月蝕一般，吞噬日光的全影。」
     campaign: -56
     title: 生光
   }
   {
     id: 1079
     mission_id: "11243"
+    description: 「十三年的沉睡就像一場錯覺，但曙光從未湮滅。」
+    scripts: -56-1-A
     campaign: -56
     title: 長週期攝動
     start: -56-1-A
@@ -10910,6 +11076,8 @@
   {
     id: 1080
     mission_id: "11244"
+    description: 「恭喜你，邁出了新的一步，這是一個不錯的開始。」
+    scripts: -56-1-B
     campaign: -56
     title: 短週期攝動
     start: -56-1-B
@@ -10917,6 +11085,8 @@
   {
     id: 1081
     mission_id: "11245"
+    description: 「只有當過去追上你的時候，你才能明白逃避解決不了任何問題。」
+    scripts: -56-2-0
     campaign: -56
     title: 黃白交角
     start: -56-2-0
@@ -10924,6 +11094,8 @@
   {
     id: 1082
     mission_id: "11246"
+    description: 「晝與夜，朝與夕，日與月。」
+    scripts: -56-4-0
     campaign: -56
     title: 災變
     start: -56-4-0
@@ -10931,6 +11103,8 @@
   {
     id: 1083
     mission_id: "11247"
+    description: 「當你用槍指著某人時，你應當預想到所有可能。」
+    scripts: -56-5-A
     campaign: -56
     title: 入凌
     start: -56-5-A
@@ -10938,6 +11112,8 @@
   {
     id: 1084
     mission_id: "11248"
+    description: 「月亮用借來的光照亮前路，依然足以為旅人驅散迷霧。」
+    scripts: -56-5-B
     campaign: -56
     title: 出凌
     start: -56-5-B
@@ -10945,6 +11121,8 @@
   {
     id: 1085
     mission_id: "11249"
+    description: 「他的名字是拉普拉斯，代號『死罪』。」
+    scripts: -56-6-0
     campaign: -56
     title: 同源
     start: -56-6-0
@@ -10952,6 +11130,8 @@
   {
     id: 1086
     mission_id: "11250"
+    description: 「我懷念昨日之人，與明日之城。」
+    scripts: -56-8-0
     campaign: -56
     title: 俘獲
     start: -56-8-0
@@ -10959,6 +11139,8 @@
   {
     id: 1087
     mission_id: "11251"
+    description: 「人形之間的交流，不是只有任務，還有彼此的情緒。」
+    scripts: -56-9-A
     campaign: -56
     title: 偽本影
     start: -56-9-A
@@ -10966,6 +11148,8 @@
   {
     id: 1088
     mission_id: "11252"
+    description: 「你是我的私人財產，沒有我的許可任何人都不準動你一根汗毛。」
+    scripts: -56-9-B
     campaign: -56
     title: 本影
     start: -56-9-B
@@ -10973,6 +11157,8 @@
   {
     id: 1089
     mission_id: "11253"
+    description: 「我已經把你定為我這部作品的女主角，女主角怎麼會輕易失敗。」
+    scripts: -56-10-0
     campaign: -56
     title: 金邊
     start: -56-10-0
@@ -10980,6 +11166,8 @@
   {
     id: 1090
     mission_id: "11254"
+    description: 「照片上一共有九個人，而優拉就站在薩摩的身邊。」
+    scripts: -56-12-0
     campaign: -56
     title: 星環
     start: -56-12-0
@@ -10987,6 +11175,8 @@
   {
     id: 1091
     mission_id: "11255"
+    description: 「如果未來也只有一個人，那沒有隊員的隊長，算什麼隊長？」
+    scripts: -56-13-A
     campaign: -56
     title: 危海
     start: -56-13-A
@@ -10994,6 +11184,8 @@
   {
     id: 1092
     mission_id: "11256"
+    description: 「我的名字，是阿瑪瑞絲。」
+    scripts: -56-13-B
     campaign: -56
     title: 靜海
     start: -56-13-B
@@ -11001,6 +11193,8 @@
   {
     id: 1093
     mission_id: "11257"
+    description: 「軍牌，是每一個特種兵死後的墓碑。這含義艾莉安娜明白，阿瑪瑞絲更加明白。」
+    scripts: -56-14-0
     campaign: -56
     title: 交點月
     start: -56-14-0
@@ -11008,6 +11202,8 @@
   {
     id: 1094
     mission_id: "11258"
+    description: 「……夜晚，又安靜了。」
+    scripts: -56-16-0
     campaign: -56
     title: 復圓
     start: -56-16-0
@@ -11015,6 +11211,8 @@
   {
     id: 1095
     mission_id: "11259"
+    description: 「新的一天總會到來，而太陽照常升起。」
+    scripts: -56-17-A
     campaign: -56
     title: 外拉格朗日點
     start: -56-17-A
@@ -11022,6 +11220,8 @@
   {
     id: 1096
     mission_id: "11260"
+    description: 「月光一如既往，溫柔的照亮前行的路。」
+    scripts: -56-17-B
     campaign: -56
     title: 內拉格朗日點
     start: -56-17-B
@@ -11487,16 +11687,636 @@
   }
   {
     id: 1160
-    mission_id: "580005"
-    campaign: -404
-    title: guide1
-    start: 1:dailybonusguide-01
+    mission_id: "11333"
+    description: 「屬於你的一生，才剛剛開始。」
+    scripts: -58-start
+    campaign: -58
+    title: 黑色鳶尾花
+    start: -58-start
   }
   {
     id: 1161
-    mission_id: "580006"
-    campaign: -404
-    title: guide1
-    start: 1:dailybonusguide-02
+    mission_id: "11334"
+    description: 「老師，你會為了祖國而戰嗎？」
+    scripts: -58-1-A1
+    campaign: -58
+    title: WTR 在荒野的北方
+    start: -58-1-A1
+  }
+  {
+    id: 1162
+    mission_id: "11336"
+    description: 「定理之外總有特殊。」
+    scripts: -58-1-A2
+    campaign: -58
+    title: WTR 山毛櫸林Ⅰ
+    start: -58-1-A2
+  }
+  {
+    id: 1163
+    mission_id: "11335,11377"
+    description: 「槍口的指向劃分了我們的陣營。」
+    campaign: -58
+    title: WTR 冬獵
+  }
+  {
+    id: 1164
+    mission_id: "11338"
+    description: 「立場就是，我們的屁股坐在不同的椅子上。」
+    scripts: -58-1-A4
+    campaign: -58
+    title: WTR 鍬甲
+    start: -58-1-A4
+  }
+  {
+    id: 1165
+    mission_id: "11337,11378"
+    description: 「去你的立場，那是我哥！」
+    campaign: -58
+    title: WTR 構圖第Ⅱ號
+  }
+  {
+    id: 1166
+    mission_id: "11339"
+    description: 「世上的關係，能用錢衡量的總是最簡單和穩定的。」
+    scripts: -58-1-A6
+    campaign: -58
+    title: WTR 雪地上的晨光
+    start: -58-1-A6
+  }
+  {
+    id: 1167
+    mission_id: "11406"
+    description: 「那是因為此時此刻的你，世界太小了。」
+    scripts: -58-1-A7
+    campaign: -58
+    title: WTR 日落時的蓬廷沼澤
+    start: -58-1-A7
+  }
+  {
+    id: 1168
+    mission_id: "11340"
+    description: 「一兩片雪花遇火即融，如果是一場西伯利亞暴風雪呢？」
+    scripts: -58-1-B1
+    campaign: -58
+    title: SPR 夜晚：紅樹
+    start: -58-1-B1
+  }
+  {
+    id: 1169
+    mission_id: "11341,11379"
+    description: 「作戰不難，我會一點點教你們。」
+    campaign: -58
+    title: SPR 構圖第6號
+  }
+  {
+    id: 1170
+    mission_id: "11342"
+    description: 「從那一天起，我已經無路可退了。」
+    scripts: -58-1-B3
+    campaign: -58
+    title: SPR 灰色的樹
+    start: -58-1-B3
+  }
+  {
+    id: 1171
+    mission_id: "11343,11380"
+    description: 「雪花落在戰火裡，一點痕跡都留不下。」
+    campaign: -58
+    title: SPR 帶紅色的構圖B
+  }
+  {
+    id: 1172
+    mission_id: "11344"
+    description: 「各國如鬣狗撕咬，你拼上性命拔掉一根狗毛，然後呢？」
+    scripts: -58-1-B5
+    campaign: -58
+    title: SPR 場景 no.1
+    start: -58-1-B5
+  }
+  {
+    id: 1173
+    mission_id: "11345"
+    description: 「原來我們不一樣。」
+    scripts: -58-1-B6
+    campaign: -58
+    title: SPR 藍胸佛法僧的翅膀
+    start: -58-1-B6
+  }
+  {
+    id: 1174
+    mission_id: "11346"
+    description: 「她們是為殺戮而生，但她們能做的遠不止殺戮。」
+    scripts: -58-1-C1
+    campaign: -58
+    title: SUM 天鵝，第九組第一號
+    start: -58-1-C1
+  }
+  {
+    id: 1175
+    mission_id: "11348"
+    description: 「我的指揮方式只有一種，那就是聽我的。」
+    scripts: -58-1-C2
+    campaign: -58
+    title: SUM 藍色房間裡的陽光
+    start: -58-1-C2
+  }
+  {
+    id: 1176
+    mission_id: "11350"
+    description: 「安潔指揮官，請你配合我們的工作。」
+    scripts: -58-1-C3
+    campaign: -58
+    title: SUM 晚禱
+    start: -58-1-C3
+  }
+  {
+    id: 1177
+    mission_id: "11351"
+    description: 「LAMG，欠你的酒，下輩子還你。」
+    scripts: -58-1-C4
+    campaign: -58
+    title: SUM 被風吹散
+    start: -58-1-C4
+  }
+  {
+    id: 1178
+    mission_id: "11347,11381"
+    description: 「箭擊中了目標，離了弦。」
+    campaign: -58
+    title: SUM 森林中的小徑
+  }
+  {
+    id: 1179
+    mission_id: "11407"
+    description: 「我將用我殘缺的生命，來向你復仇。」
+    scripts: -58-1-C6
+    campaign: -58
+    title: SUM 金翅雀
+    start: -58-1-C6
+  }
+  {
+    id: 1180
+    mission_id: "11349,11382"
+    description: 「留一顆子彈給我，如果我們失敗了，或者……」
+    campaign: -58
+    title: SUM 生活是一場鬥爭
+  }
+  {
+    id: 1181
+    mission_id: "11408"
+    description: 「那隻小鳥墜落的時候，我沒有哭。」
+    scripts: -58-1-C8
+    campaign: -58
+    title: SUM 天鵝，第九組第六號
+    start: -58-1-C8
+  }
+  {
+    id: 1182
+    mission_id: "11352"
+    description: 「想必你活在更美好、更團結的世界之中了吧？」
+    scripts: -58-1-D1
+    campaign: -58
+    title: AUT 藍色與銀色的和諧
+    start: -58-1-D1
+  }
+  {
+    id: 1183
+    mission_id: "11354"
+    description: 「你知道我最討厭哪三種人嗎？」
+    scripts: -58-1-D2
+    campaign: -58
+    title: AUT 屋頂上的提琴手
+    start: -58-1-D2
+  }
+  {
+    id: 1184
+    mission_id: "11355,11384"
+    description: 「垂釣的樂趣在於，你永遠猜不到下一個咬餌的是什麼魚。」
+    scripts: -58-1-D3-point1
+    campaign: -58
+    title: AUT 死島
+  }
+  {
+    id: 1185
+    mission_id: "11356"
+    description: 「當雙人舞變成三重奏。」
+    scripts: -58-1-D4
+    campaign: -58
+    title: AUT 浪潮
+    start: -58-1-D4
+  }
+  {
+    id: 1186
+    mission_id: "11357"
+    description: 「我們新世界再見吧。」
+    scripts: -58-1-D5
+    campaign: -58
+    title: AUT 藍翅膀的鐘
+    start: -58-1-D5
+  }
+  {
+    id: 1187
+    mission_id: "11353,11383"
+    description: 「誰都沒想到這個可能性，即便是我。」
+    scripts: -58-1-D6-point1,-58-1-D6-point2,-58-1-D6-point3,-58-1-D6-point4
+    campaign: -58
+    title: AUT 死亡與生命
+  }
+  {
+    id: 1188
+    mission_id: "11434"
+    description: 「你明明知道這是一條不歸路，卻一意孤行。」
+    scripts: -58-1-D7
+    campaign: -58
+    title: AUT 頓河之夜
+    start: -58-1-D7
+  }
+  {
+    id: 1189
+    mission_id: "11358"
+    description: 「她站在地獄門口，我們會陪她跳下去。」
+    scripts: -58-2-R1
+    campaign: -58
+    title: L1 生命之樹
+    start: -58-2-R1
+  }
+  {
+    id: 1190
+    mission_id: "11360"
+    description: 「『海拉』計劃受試者NO.10373：安潔莉婭。」
+    scripts: -58-2-T1
+    campaign: -58
+    title: L2 中控室顯示器
+    start: -58-2-T1
+  }
+  {
+    id: 1191
+    mission_id: "11361"
+    description: 「這一刻，我甚至產生了一點希望。」
+    scripts: -58-2-T2
+    campaign: -58
+    title: L3 手術台
+    start: -58-2-T2
+  }
+  {
+    id: 1192
+    mission_id: "11359,11385"
+    description: 「安潔，我會救你的。」
+    campaign: -58
+    title: L4 圓圈中的圓圈
+  }
+  {
+    id: 1193
+    mission_id: "11409"
+    description: 「人類……模擬不出真正的造物主。」
+    scripts: -58-2-R3
+    campaign: -58
+    title: L5 向右轉-向左轉
+    start: -58-2-R3
+  }
+  {
+    id: 1194
+    mission_id: "11410"
+    description: 「這是輻射污染超標的警報。」
+    scripts: -58-2-T3
+    campaign: -58
+    title: L6 傳遞窗
+    start: -58-2-T3
+  }
+  {
+    id: 1195
+    mission_id: "11411"
+    description: 「她醒了……」
+    scripts: -58-2-T4
+    campaign: -58
+    title: L7 淨化裝置
+    start: -58-2-T4
+  }
+  {
+    id: 1196
+    mission_id: "11412"
+    description: 「請讓我，像一位人類那樣尊嚴死去……」
+    scripts: -58-2-R4
+    campaign: -58
+    title: L8 鏡前的少女
+    start: -58-2-R4
+  }
+  {
+    id: 1197
+    mission_id: "11362"
+    description: 「伊利亞·穆羅梅茨計劃正式啟動。」
+    scripts: -58-3-F1
+    campaign: -58
+    title: F1 紅色騎士
+    start: -58-3-F1
+  }
+  {
+    id: 1198
+    mission_id: "11363"
+    description: 「血債血償。」
+    scripts: -58-3-F2
+    campaign: -58
+    title: F2 霧海中的漫游者
+    start: -58-3-F2
+  }
+  {
+    id: 1199
+    mission_id: "11364,11386,11392"
+    description: 「鐵與血，光與火，雨與淚。」
+    campaign: -58
+    title: F3 黑色正方形
+  }
+  {
+    id: 1200
+    mission_id: "11365"
+    description: 「地獄的守門人。」
+    scripts: -58-3-F4
+    campaign: -58
+    title: F4 灰與黑的排列
+    start: -58-3-F4
+  }
+  {
+    id: 1201
+    mission_id: "11367"
+    description: 「不知道你動搖起來，會是何等美麗的景象。」
+    scripts: -58-3-F5
+    campaign: -58
+    title: F5 雕像的寓意
+    start: -58-3-F5
+  }
+  {
+    id: 1202
+    mission_id: "11366,11387,11393"
+    description: 「擊碎夜色的曙光。」
+    campaign: -58
+    title: F6 遲鈍的紅色
+  }
+  {
+    id: 1203
+    mission_id: "11369"
+    description: 「歡迎回來，紗那。」
+    scripts: -58-3-F7
+    campaign: -58
+    title: F7 人類之子
+    start: -58-3-F7
+  }
+  {
+    id: 1204
+    mission_id: "11371"
+    description: 「蒲公英已降落指定地點。」
+    scripts: -58-3-F8
+    campaign: -58
+    title: F8 記憶的永恆
+    start: -58-3-F8
+  }
+  {
+    id: 1205
+    mission_id: "11368,11388,11394"
+    description: 「在裁決之橋上。」
+    campaign: -58
+    title: F9 炮聲
+  }
+  {
+    id: 1206
+    mission_id: "11373"
+    description: 「蜂針的威懾，永遠在蜜蜂蟄刺之前。」
+    scripts: -58-3-F10
+    campaign: -58
+    title: F10 白色之上的白色
+    start: -58-3-F10
+  }
+  {
+    id: 1207
+    mission_id: "11375"
+    description: 「給我三分鐘。」
+    scripts: -58-3-F11
+    campaign: -58
+    title: F11 穿越紅海
+    start: -58-3-F11
+  }
+  {
+    id: 1208
+    mission_id: "11370,11389,11395"
+    description: 「直撲咽喉的獠牙。」
+    campaign: -58
+    title: F12 晚鐘
+  }
+  {
+    id: 1209
+    mission_id: "11413"
+    description: 「別害怕，我陪你一起。」
+    scripts: -58-3-F13
+    campaign: -58
+    title: F13 大洪水
+    start: -58-3-F13
+  }
+  {
+    id: 1210
+    mission_id: "11414"
+    description: 「平地見冰山。」
+    scripts: -58-3-F14
+    campaign: -58
+    title: F14 騎士、死神與魔鬼
+    start: -58-3-F14
+  }
+  {
+    id: 1211
+    mission_id: "11372,11390,11396"
+    description: 「不惜一切代價，誰是代價？」
+    campaign: -58
+    title: F15 格爾尼卡
+  }
+  {
+    id: 1212
+    mission_id: "11415"
+    description: 「如果人生註定是一場徒勞，那麼掙扎的意義究竟是什麼？」
+    scripts: -58-3-F16
+    campaign: -58
+    title: F16 死與火
+    start: -58-3-F16
+  }
+  {
+    id: 1213
+    mission_id: "11416"
+    description: 「一小會，一小會自由也行。」
+    scripts: -58-3-F17
+    campaign: -58
+    title: F17 黑色十字
+    start: -58-3-F17
+  }
+  {
+    id: 1214
+    mission_id: "11374,11391,11397"
+    description: 「我會守衛這裡，直到最後，因為……」
+    campaign: -58
+    title: F18 最後的審判
+  }
+  {
+    id: 1215
+    mission_id: "11417"
+    description: 「爬出去，就有光了嗎？」
+    scripts: -58-3-F19
+    campaign: -58
+    title: F19 第十組第一號祭壇畫
+    start: -58-3-F19
+  }
+  {
+    id: 1216
+    mission_id: "11418"
+    description: 「RO！SOP2！」
+    scripts: -58-3-F20
+    campaign: -58
+    title: F20 日落
+    start: -58-3-F20
+  }
+  {
+    id: 1217
+    mission_id: "11419"
+    description: 「你看到了什麼。」
+    scripts: -58-S1-1
+    campaign: -58
+    title: SSE01 平台
+    start: -58-S1-1
+  }
+  {
+    id: 1218
+    mission_id: "11420"
+    description: 「時代的遺產。」
+    scripts: -58-S1-2
+    campaign: -58
+    title: SSE01-1 平台下方通道
+    start: -58-S1-2
+  }
+  {
+    id: 1219
+    mission_id: "11421"
+    description: 「除了這個沒頭的破雕像，什麼都沒有。」
+    scripts: -58-S2-1
+    campaign: -58
+    title: SSE02 東塔大廳
+    start: -58-S2-1
+  }
+  {
+    id: 1220
+    mission_id: "11422"
+    description: 「帕拉蒂斯的訓練場。」
+    scripts: -58-S2-2
+    campaign: -58
+    title: SSE02-1 東塔2層（東）
+    start: -58-S2-2
+  }
+  {
+    id: 1221
+    mission_id: "11423"
+    description: 「她們留下的痕跡。」
+    scripts: -58-S2-3
+    campaign: -58
+    title: SSE02-2 東塔3層（西）
+    start: -58-S2-3
+  }
+  {
+    id: 1222
+    mission_id: "11424"
+    description: 「完成清場，同時注意保存數據。」
+    scripts: -58-S3-1
+    campaign: -58
+    title: SSE03 蜂針系統
+    start: -58-S3-1
+  }
+  {
+    id: 1223
+    mission_id: "11425"
+    description: 「修復的是謊言，還是真相？」
+    scripts: -58-S3-2
+    campaign: -58
+    title: SSE03-1 東塔32層
+    start: -58-S3-2
+  }
+  {
+    id: 1224
+    mission_id: "11426"
+    description: 「一些碎片……」
+    scripts: -58-S3-3
+    campaign: -58
+    title: SSE03-2 東塔37層
+    start: -58-S3-3
+  }
+  {
+    id: 1225
+    mission_id: "11427"
+    description: 「這個房間本身就是個陷阱。」
+    scripts: -58-S3-4
+    campaign: -58
+    title: SSE03-3 東塔40層
+    start: -58-S3-4
+  }
+  {
+    id: 1226
+    mission_id: "11428"
+    description: 「抵達東塔第56層。」
+    scripts: -58-S4-1
+    campaign: -58
+    title: SSE04 遺跡試驗區
+    start: -58-S4-1
+  }
+  {
+    id: 1227
+    mission_id: "11429"
+    description: 「在一片狼藉裡幹活吧。」
+    scripts: -58-S4-2
+    campaign: -58
+    title: SSE04-1 控制中心
+    start: -58-S4-2
+  }
+  {
+    id: 1228
+    mission_id: "11430"
+    description: 「閱後即焚。」
+    scripts: -58-S4-3
+    campaign: -58
+    title: SSE04-2 模擬影像區
+    start: -58-S4-3
+  }
+  {
+    id: 1229
+    mission_id: "11431"
+    description: 「真是個糟糕的地方。」
+    scripts: -58-S4-4
+    campaign: -58
+    title: SSE04-3 投射實驗區
+    start: -58-S4-4
+  }
+  {
+    id: 1230
+    mission_id: "11432"
+    description: 「在潔淨中尋找漏網的灰塵。」
+    scripts: -58-S5
+    campaign: -58
+    title: SSE05 手術層
+    start: -58-S5
+  }
+  {
+    id: 1231
+    mission_id: "11433"
+    description: 「請您務必注意保暖。」
+    scripts: -58-S6
+    campaign: -58
+    title: SSE06 秘密走廊
+    start: -58-S6
+  }
+  {
+    id: 1232
+    mission_id: "11404"
+    campaign: -58
+    title: 鹿角棕
+    start: -58-EX-Final
+  }
+  {
+    id: 1233
+    mission_id: "11405"
+    campaign: -58
+    title: 牛骨黑
+    start: -58-UX-Final
   }
 ]
