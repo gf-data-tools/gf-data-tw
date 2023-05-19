@@ -12693,6 +12693,105 @@
     rank: 1
   }
   {
+    id: 2303
+    type: 5
+    arg: "1"
+    code: profilePic_7years_A
+    item_name: 頭像：薄醉的溫柔
+    introduction: 頭像：薄醉的溫柔
+    rank: 1
+  }
+  {
+    id: 2304
+    type: 5
+    arg: "1"
+    code: card_7years_A
+    item_name: 名片：時光古堡的見證
+    introduction: 名片：時光古堡的見證
+    rank: 1
+  }
+  {
+    id: 2305
+    type: 5
+    arg: "1"
+    code: profilePic_mask_6years
+    item_name: 真核面具紀念頭像·七周年
+    introduction: 真核面具紀念頭像·七周年
+    rank: 1
+  }
+  {
+    id: 2306
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_98K
+    item_name: Kar98K-轉角狐步舞
+    introduction: Kar98K-轉角狐步舞
+    rank: 1
+  }
+  {
+    id: 2307
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_DesertEagle
+    item_name: 沙漠之鷹-玫瑰鶯語
+    introduction: 沙漠之鷹-玫瑰鶯語
+    rank: 1
+  }
+  {
+    id: 2308
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_HS50
+    item_name: HS.50-沉醉雪晶
+    introduction: HS.50-沉醉雪晶
+    rank: 1
+  }
+  {
+    id: 2309
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_9A91
+    item_name: 9A-91-追藏的秘密
+    introduction: 9A-91-追藏的秘密
+    rank: 1
+  }
+  {
+    id: 2310
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_MG36
+    item_name: MG36-葛根姜騎士
+    introduction: MG36-葛根姜騎士
+    rank: 1
+  }
+  {
+    id: 2311
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_Mk48
+    item_name: Mk48-夜宴捕手
+    introduction: Mk48-夜宴捕手
+    rank: 1
+  }
+  {
+    id: 2312
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_SR2
+    item_name: SR-2-浮沫終結者
+    introduction: SR-2-浮沫終結者
+    rank: 1
+  }
+  {
+    id: 2313
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2023_M1
+    item_name: M1加蘭德-耽溺星光
+    introduction: M1加蘭德-耽溺星光
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -13721,6 +13820,15 @@
     id: 10703
     type: 18
     arg: "10703"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10704
+    type: 18
+    arg: "10704"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
@@ -15429,6 +15537,24 @@
     rank: 1
   }
   {
+    id: 100187
+    type: 4
+    arg: "100187"
+    code: Bumdle_20237year
+    item_name: 未來圖景箱
+    introduction: 未來圖景箱
+    rank: 1
+  }
+  {
+    id: 100188
+    type: 4
+    arg: "100188"
+    code: Bumdle_7year
+    item_name: 7周年裝扮券
+    introduction: 7周年裝扮券
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -15981,6 +16107,15 @@
     id: 110062
     type: 4
     arg: "110062"
+    code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
+    id: 110063
+    type: 4
+    arg: "110063"
     code: PT
     item_name: 活動點數
     introduction: 活動點數
@@ -17211,8 +17346,8 @@
     type: 15
     arg: "1500057"
     code: package_choose
-    item_name: 人形裝備自選序標
-    introduction: 來自於前線協議-夜闌燈下，可從該指定投遞配給序標內選擇獲取一件人形類裝備
+    item_name: 彈匣裝備自選序標
+    introduction: 來自於前線協議-夜闌燈下，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
     rank: 1
     sort: -1
   }
@@ -17287,6 +17422,126 @@
     sort: -1
   }
   {
+    id: 1500065
+    type: 15
+    arg: "1500065"
+    code: Bumdle_1year_Coupons
+    item_name: 一周年至臻裝扮券
+    introduction:
+      '''
+      使用「一周年至臻裝扮券」後，可從下列裝扮中隨機獲得一件未擁有的裝扮。如已擁有所有裝扮，則從中隨機獲得一件。
+      裝扮包含：WA2000-古堡歷險、索米-耳朵山的雪妖精、95式-玉玲瓏、李-恩菲爾德-畢生守護、HK416-星之繭
+      *裝扮券有效時間截止至2023年7月19日23:59，請指揮官注意把握時間。
+      '''
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500066
+    type: 15
+    arg: "1500066"
+    code: Bumdle_2year_Coupons
+    item_name: 二周年至臻裝扮券
+    introduction:
+      '''
+      使用「二周年至臻裝扮券」後，可從下列裝扮中隨機獲得一件未擁有的裝扮。如已擁有所有裝扮，則從中隨機獲得一件。
+      裝扮包含：索米-仲夏夜的精靈、G36C-夏天·煙火·向陽之詩、維爾德MkII-暗影之王、湯姆森-惡魔獵人、RFB-RFB偷走聖誕節、DSR-50-紅牡丹 、Vector-盲信者、DSR-50-最高出價、灰熊MkⅤ-星夜舞會
+      *裝扮券有效時間截止至2023年7月19日23:59，請指揮官注意把握時間。
+      '''
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500067
+    type: 15
+    arg: "1500067"
+    code: Bumdle_3year_Coupons
+    item_name: 三周年至臻裝扮券
+    introduction:
+      '''
+      使用「三周年至臻裝扮券」後，可從下列裝扮中隨機獲得一件未擁有的裝扮。如已擁有所有裝扮，則從中隨機獲得一件。
+      裝扮包含：Five-seveN-芬芬歷險記、NTW-20-貴族體驗館、G41-沙灘朋克2064、S.A.T.8-南瓜串串、P×4風暴-聖誕晨間女王、64式自-新年祈願 、OTs-14-紫雨心、索米-幸福使命、K2-黎明之前
+      *裝扮券有效時間截止至2023年7月19日23:59，請指揮官注意把握時間。
+      '''
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500068
+    type: 15
+    arg: "1500068"
+    code: Bumdle_4year_Coupons
+    item_name: 四周年至臻裝扮券
+    introduction:
+      '''
+      使用「四周年至臻裝扮券」後，可從下列裝扮中隨機獲得一件未擁有的裝扮。如已擁有所有裝扮，則從中隨機獲得一件。
+      裝扮包含：HK416-黑貓的贈禮、R93-長假幸運星、PA-15-高校心跳物語、QBU-88-攔路劫糖！、G36C-灼眼的G36C、Saiga-12-茜紅領航 、路易士-聖夜約定、DP-12-花月夜行燈、PA-15-翠雀媚、SR-3MP-神子上上籤、Kar98k-手心的硃砂痣、M950A-柳鶯與薔薇、OTs-14-晚宴的統治者、Saiga-12-晨昏的裁定者
+      *裝扮券有效時間截止至2023年7月19日23:59，請指揮官注意把握時間。
+      '''
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500069
+    type: 15
+    arg: "1500069"
+    code: Bumdle_5year_Coupons
+    item_name: 五周年至臻裝扮券
+    introduction:
+      '''
+      使用「五周年至臻裝扮券」後，可從下列裝扮中隨機獲得一件未擁有的裝扮。如已擁有所有裝扮，則從中隨機獲得一件。
+      裝扮包含：AK-Alfa-星夜捕貓人、ZB-26-旖夢之隅、AUG-葬儀陣列、R93-藤蘿歌仙、劉氏步槍-垂枝夢狐影、G36C-紅色貝雷帽 、R5-終幕雙人舞、Saiga-12-繁花訪客、路易士-迎寒客、OTs-14-天意佳人、ZB-26-第1000隻紙鶴、64式自-一份不適合她的工作、97式霰-花下踟躇醉、PA-15-香檳怪盜、劉氏步槍-悠思之晨、M4 SOPMODII-深林鳴音
+      *裝扮券有效時間截止至2023年7月19日23:59，請指揮官注意把握時間。
+      '''
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500070
+    type: 15
+    arg: "1500070"
+    code: Bumdle_6year_Coupons
+    item_name: 六周年至臻裝扮券
+    introduction:
+      '''
+      使用「六周年至臻裝扮券」後，可從下列裝扮中隨機獲得一件未擁有的裝扮。如已擁有所有裝扮，則從中隨機獲得一件。
+      裝扮包含：RPK-203-小小志願者、DP-12-熙光寓言、UMP9-波萊羅舞雀、德利爾-郊狼藍調、SL8-在世界的一角等你、95式-素白濯清漣 、漢陽造88式-純白流星負願而行、89式自-麋鹿宣言、Vector-攜枝踏玉塵、SP9-寒蘭傲、路易士-紫鳶醉蝶、ZB-26-暗薔搖曳、漢陽造88式-愛神降臨夜
+      *裝扮券有效時間截止至2023年7月19日23:59，請指揮官注意把握時間。
+      '''
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500071
+    type: 15
+    arg: "1500071"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500072
+    type: 15
+    arg: "1500072"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500073
+    type: 15
+    arg: "1500073"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -17308,9 +17563,9 @@
     id: 1600050
     type: 1
     arg: "1600050"
-    code: package_choose
-    item_name: 抽獎券
-    introduction: 嘉年華抽獎券測試數據
+    code: lucky_ticket
+    item_name: 幸運信箋
+    introduction: 將幸運信箋投入許願信箱，即有機會獲得對應的周邊大獎！
     rank: 1
   }
 ]

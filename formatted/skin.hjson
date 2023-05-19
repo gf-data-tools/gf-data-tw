@@ -7146,6 +7146,84 @@
     class_id: 87
   }
   {
+    id: 8301
+    name: Kar98K-轉角狐步舞
+    fit_gun: 46
+    voice: 4
+    dialog: 我並非厭惡此地，只是覺得比起歡笑笙歌，適可而止才是上策……但若您想邀請我跳一支舞的話，我不介意再為您逗留片刻。
+    illustrator_cv: RIRE,中惠光城,
+    order: 108
+    class_id: 88
+  }
+  {
+    id: 8302
+    name: 沙漠之鷹-玫瑰鶯語
+    fit_gun: 272
+    voice: 4
+    dialog: 沒想到居然能在如此重要的場合圓夢舞台……謝謝您，指揮官。現在您只要扮演好觀眾的角色，靜靜地聆聽我的歌聲就好……
+    gift_position: "-131.5,93.7"
+    order: 108
+    class_id: 88
+  }
+  {
+    id: 8303
+    name: HS.50-沉醉雪晶
+    fit_gun: 348
+    voice: 4
+    dialog: 怎麼回事，剛剛喝了某種特調飲料，腦袋就暈暈的了……咦？請問您是新入職的同僚嗎？和指揮官一樣溫柔呢……我們可以交個朋友嗎？
+    gift_position: "-123.5,-25.6"
+    order: 108
+    class_id: 88
+  }
+  {
+    id: 8304
+    name: 9A-91-追藏的秘密
+    fit_gun: 118
+    voice: 4
+    dialog: 如果不是時刻留意我，您又怎麼知道我在一直注視著您呢？總之，我們扯平了……要不要為我們的默契乾一杯？
+    order: 108
+    class_id: 88
+  }
+  {
+    id: 8305
+    name: MG36-葛根薑騎士
+    fit_gun: 263
+    voice: 4
+    dialog: 據說熱鬧的宴會很容易吸引外星智慧生物……不過請不用擔心，這杯特調的醒酒茶能讓我時刻專注長官您的安危。
+    order: 108
+    class_id: 88
+  }
+  {
+    id: 8306
+    name: Mk48-夜宴捕手
+    fit_gun: 121
+    voice: 4
+    dialog: 唷，迷路的指揮官，是什麼引誘你來到這裡？是貓頭鷹的瞭望、留聲機的旋律，還是我無可阻擋的魅力呢？哼哼……
+    illustrator_cv: yoyo,立花理香,
+    order: 108
+    class_id: 88
+  }
+  {
+    id: 8307
+    name: SR-2-浮沫終結者
+    fit_gun: 347
+    voice: 4
+    dialog: 瘋起來，指揮官！我們連槍林彈雨都見識過了，區區香檳泡沫算得了什麼？！
+    order: 108
+    class_id: 88
+  }
+  {
+    id: 8309
+    name: M1加蘭德-耽溺星光
+    fit_gun: 34
+    voice: 4
+    dialog: 指揮官，喜歡我的特別布置嗎？在格里芬最隆重的節日裡，您的指揮室怎麼能被遺漏呢？好啦，先把工作放在一邊，是時候稍稍放鬆一下了~
+    note: skin-30008309
+    illustrator_cv: skin-40008309
+    order: 108
+    class_id: 88
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57

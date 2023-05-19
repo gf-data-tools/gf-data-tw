@@ -37,4 +37,22 @@
     group_skill: 2:778217,3:759094
     fit_gun: "20057"
   }
+  {
+    id: 5
+    name: APS狂歡
+    des: 使用了全套IOP特殊裝備的斯捷奇金將獲得強大的隊伍輔助能力，提升隊伍整體戰鬥實力。
+    code: EgroupAPS
+    equip_unit: "133,171,342"
+    group_skill: 2:778217,3:759134
+    fit_gun: "20007"
+  }
+  {
+    id: 6
+    name: 雨林冒險
+    des: 裝備了全套迷彩裝備的64式可以更好地融入密林叢生的作戰環境，對敵人進行出其不意的攻擊。
+    code: Egroup64type
+    equip_unit: "103,218,343"
+    group_skill: 2:778217,3:759143
+    fit_gun: "20094"
+  }
 ]
