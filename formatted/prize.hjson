@@ -22499,15 +22499,13 @@
   }
   {
     id: 7585
-    name: prize-10007585
+    name: 1630鑽石
     gem: 1630
-    content: prize-20007585
   }
   {
     id: 7586
-    name: prize-10007586
+    name: 1700鑽石
     gem: 1700
-    content: prize-20007586
   }
   {
     id: 8001
@@ -23265,146 +23263,147 @@
     id: 10086
     name: 嘉年華獎勵
     mp: 100
-    item_ids: 110063-10
+    item_ids: 110062-10
   }
   {
     id: 10087
     name: 嘉年華獎勵
     mp: 100
-    item_ids: 110063-20
+    item_ids: 110062-20
   }
   {
     id: 10088
     name: 嘉年華獎勵
     ammo: 200
-    item_ids: 110063-20
+    item_ids: 110062-20
   }
   {
     id: 10089
     name: 嘉年華獎勵
     ammo: 200
-    item_ids: 110063-30
+    item_ids: 110062-30
   }
   {
     id: 10090
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110063-20
+    item_ids: 110062-20
   }
   {
     id: 10091
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110063-30
+    item_ids: 110062-30
   }
   {
     id: 10092
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110063-50
+    item_ids: 110062-50
   }
   {
     id: 10093
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110063-30
+    item_ids: 110062-30
   }
   {
     id: 10094
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110063-50
+    item_ids: 110062-50
   }
   {
     id: 10095
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110063-100
+    item_ids: 110062-100
   }
   {
     id: 10096
     name: 嘉年華獎勵
     part: 200
-    item_ids: 110063-50
+    item_ids: 110062-50
   }
   {
     id: 10097
     name: 嘉年華獎勵
     part: 200
-    item_ids: 110063-100
+    item_ids: 110062-100
   }
   {
     id: 10098
     name: 嘉年華獎勵
     part: 300
-    item_ids: 110063-150
+    item_ids: 110062-150
   }
   {
     id: 10099
     name: 嘉年華獎勵
-    item_ids: 110063-200,45-200
+    item_ids: 110062-200,45-200
   }
   {
     id: 10100
     name: 活躍獎勵
-    ammo: 1000
-    mre: 1000
-    item_ids: 1600050-3
-    icon: Bumdle_red
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    icon: Bumdle_muromets02
   }
   {
     id: 10101
     name: 活躍獎勵
-    item_ids: 9-20,4-5,6003-2,525-5,1600050-3
-    icon: Bumdle_brown
+    item_ids: 9-20,4-5,6003-2,525-5,2291-1
+    icon: profilePic_SlowShockActivity2023_05
   }
   {
     id: 10102
     name: 活躍獎勵
-    item_ids: 3-5,525-5,1600050-3,2303-1
-    coins: 2-200
-    icon: Bumdle_indigo
+    item_ids: 3-5,525-5
+    coins: 2-300
+    icon: Bumdle_muromets02
   }
   {
     id: 10103
     name: 活躍獎勵
-    item_ids: 1-5,45-100,506-200,601-2,525-5,1600050-3,2304-1
-    icon: Bumdle_guoqing
+    item_ids: 1-5,45-100,506-200,601-2,525-5,2288-1
+    icon: profilePic_SlowShockActivity2023_02
   }
   {
     id: 10104
     name: 活躍獎勵
     core: 10
-    item_ids: 41-20,8-1,1600050-3
-    furniture: "20102"
-    icon: Bumdle_yellow
+    item_ids: 41-30,8-1
+    icon: Bumdle_muromets02
   }
   {
     id: 10105
     name: 活躍獎勵
-    item_ids: 1600050-6
-    gift: 100003-10,8309-1
-    icon: Bumdle_bline
+    furniture: "20093"
+    gift: 100003-10
+    icon: 2023WinterActivity_cdplayer_deco_icon
   }
   {
     id: 10106
     name: 活躍獎勵
-    item_ids: 45-100,6009-2,1600050-3
+    item_ids: 45-200,6009-2
     coins: 3-200
-    icon: Bumdle_navy
+    icon: Bumdle_muromets02
     bp_pay: 10
   }
   {
     id: 10107
     name: 活躍獎勵
-    item_ids: 45-200,41-50,1-10,103-1,10604-3,1600050-3
-    icon: Bumdle_blue
+    item_ids: 45-200,41-60,1-10,103-1,10604-3
+    furniture: "20099"
+    icon: 2023WinterActivity_wall_icon
   }
   {
     id: 10108
     name: 活躍獎勵
-    item_ids: 103-1,1600050-3
-    icon: Bumdle_may
+    item_ids: 103-1
+    icon: Bumdle_muromets02
   }
   {
     id: 10109
@@ -45123,7 +45122,7 @@
   {
     id: 150040
     name: 日常玩法-常規獎勵10
-    item_ids: 1500071-1
+    item_ids: 1500060-1
   }
   {
     id: 150041
@@ -45173,7 +45172,7 @@
   {
     id: 150050
     name: 日常玩法-常規獎勵20
-    item_ids: 1500072-1
+    item_ids: 1500061-1
   }
   {
     id: 150051
@@ -45223,7 +45222,7 @@
   {
     id: 150060
     name: 日常玩法-常規獎勵30
-    item_ids: 1500073-1
+    item_ids: 1500062-1
   }
   {
     id: 150074
