@@ -3450,6 +3450,7 @@
     enemy_skill: "174,175,176"
     launch_time: 2035-5-20 00:00:00
     spine_scale: "50,50,1"
+    org_id: 10603
   }
   {
     id: 177
@@ -4191,6 +4192,28 @@
     enemy_skill: "130"
     launch_time: 2035-5-20 00:00:00
     spine_scale: "100,100,1"
+  }
+  {
+    id: 214
+    name: 紗那
+    type: 1
+    code: Nyto_mecha2
+    introduce: 紗那，機甲駕駛特化人形。經過特殊的培養和訂製，駕駛機甲對她而言幾乎沒有負擔，可以長時間操縱機甲戰鬥。因此，即便防禦再厚，也很難長時間抵擋擁有極強的火力輸出和持久的戰鬥力的她。不同於其他帕拉蒂斯，紗那的記憶全部來自於名為「紗那」的人類女孩，被期望成「紗那」的她卻對這份記憶感到陌生和撕裂，她或許也在期待著某天能夠摘下面具，成為自己……
+    forces: 3
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 6
+    rate_rank: 4
+    speed_rank: 6
+    range_rank: 7
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    character: "1001,216"
+    enemy_skill: "211,212,213,214,215,216"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "70,70,1"
+    org_id: 10604
   }
   {
     id: 100001
