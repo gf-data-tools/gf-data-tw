@@ -527,6 +527,20 @@
     source_description: 七周年簽到活動獎勵
   }
   {
+    id: 54
+    name: commander_class-10000054
+    description: commander_class-20000054
+    group_id: "96"
+    code: commander_5431_icon
+    bonus_plastic: "130021"
+    skill_id: 111
+    path: CLASS54
+    is_class: 1
+    des_year: commander_class-30000054
+    source: 2
+    source_description: commander_class-40000054
+  }
+  {
     id: 99
     name: 謊言面具
     description: 埋藏我所思，塑化我所願

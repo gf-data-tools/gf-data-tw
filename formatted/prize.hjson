@@ -23018,6 +23018,21 @@
     item_ids: 140016-1,10606-300,200021-1,2301-1
   }
   {
+    id: 8527
+    name: 通行證68
+    item_ids: 140017-1
+  }
+  {
+    id: 8528
+    name: 通行證98
+    item_ids: 140018-1,10606-300,200023-1,2316-1
+  }
+  {
+    id: 8529
+    name: 通行證30
+    item_ids: 140018-1,10606-300,200023-1,2316-1
+  }
+  {
     id: 9101
     name: 來自2016年耶誕節的照片
     item_ids: 1212-1
@@ -23269,147 +23284,146 @@
     id: 10086
     name: 嘉年華獎勵
     mp: 100
-    item_ids: 110062-10
+    item_ids: 110063-10
   }
   {
     id: 10087
     name: 嘉年華獎勵
     mp: 100
-    item_ids: 110062-20
+    item_ids: 110063-20
   }
   {
     id: 10088
     name: 嘉年華獎勵
     ammo: 200
-    item_ids: 110062-20
+    item_ids: 110063-20
   }
   {
     id: 10089
     name: 嘉年華獎勵
     ammo: 200
-    item_ids: 110062-30
+    item_ids: 110063-30
   }
   {
     id: 10090
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110062-20
+    item_ids: 110063-20
   }
   {
     id: 10091
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110062-30
+    item_ids: 110063-30
   }
   {
     id: 10092
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110062-50
+    item_ids: 110063-50
   }
   {
     id: 10093
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110062-30
+    item_ids: 110063-30
   }
   {
     id: 10094
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110062-50
+    item_ids: 110063-50
   }
   {
     id: 10095
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110062-100
+    item_ids: 110063-100
   }
   {
     id: 10096
     name: 嘉年華獎勵
     part: 200
-    item_ids: 110062-50
+    item_ids: 110063-50
   }
   {
     id: 10097
     name: 嘉年華獎勵
     part: 200
-    item_ids: 110062-100
+    item_ids: 110063-100
   }
   {
     id: 10098
     name: 嘉年華獎勵
     part: 300
-    item_ids: 110062-150
+    item_ids: 110063-150
   }
   {
     id: 10099
     name: 嘉年華獎勵
-    item_ids: 110062-200,45-200
+    item_ids: 110063-200,45-200
   }
   {
     id: 10100
     name: 活躍獎勵
-    mp: 2000
-    ammo: 2000
-    mre: 2000
-    part: 2000
-    icon: Bumdle_muromets02
+    ammo: 1000
+    mre: 1000
+    item_ids: 1600050-3
+    icon: Bumdle_red
   }
   {
     id: 10101
     name: 活躍獎勵
-    item_ids: 9-20,4-5,6003-2,525-5,2291-1
-    icon: profilePic_SlowShockActivity2023_05
+    item_ids: 9-20,4-5,6003-2,525-5,1600050-3
+    icon: Bumdle_brown
   }
   {
     id: 10102
     name: 活躍獎勵
-    item_ids: 3-5,525-5
-    coins: 2-300
-    icon: Bumdle_muromets02
+    item_ids: 3-5,525-5,1600050-3,2303-1
+    coins: 2-200
+    icon: Bumdle_indigo
   }
   {
     id: 10103
     name: 活躍獎勵
-    item_ids: 1-5,45-100,506-200,601-2,525-5,2288-1
-    icon: profilePic_SlowShockActivity2023_02
+    item_ids: 1-5,45-100,506-200,601-2,525-5,1600050-3,2304-1
+    icon: Bumdle_guoqing
   }
   {
     id: 10104
     name: 活躍獎勵
     core: 10
-    item_ids: 41-30,8-1
-    icon: Bumdle_muromets02
+    item_ids: 41-20,8-1,1600050-3
+    furniture: "20102"
+    icon: Bumdle_yellow
   }
   {
     id: 10105
     name: 活躍獎勵
-    furniture: "20093"
-    gift: 100003-10
-    icon: 2023WinterActivity_cdplayer_deco_icon
+    item_ids: 1600050-6
+    gift: 100003-10,8309-1
+    icon: Bumdle_bline
   }
   {
     id: 10106
     name: 活躍獎勵
-    item_ids: 45-200,6009-2
+    item_ids: 45-100,6009-2,1600050-3
     coins: 3-200
-    icon: Bumdle_muromets02
+    icon: Bumdle_navy
     bp_pay: 10
   }
   {
     id: 10107
     name: 活躍獎勵
-    item_ids: 45-200,41-60,1-10,103-1,10604-3
-    furniture: "20099"
-    icon: 2023WinterActivity_wall_icon
+    item_ids: 45-200,41-50,1-10,103-1,10604-3,1600050-3
+    icon: Bumdle_blue
   }
   {
     id: 10108
     name: 活躍獎勵
-    item_ids: 103-1
-    icon: Bumdle_muromets02
+    item_ids: 103-1,1600050-3
+    icon: Bumdle_may
   }
   {
     id: 10109
@@ -24046,6 +24060,62 @@
     user_exp: 2000
     item_ids: 106-60,2272-1,200006-1
     content: 恭喜你在「代號捌：極線」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勳章*60，指揮官經驗*2000，頭像「欺詐師 」
+    icon: Medal_Chess
+  }
+  {
+    id: 10771
+    name: prize-10010771
+    user_exp: 30
+    item_ids: 106-5,2318-1,200008-1
+    content: prize-20010771
+    icon: Medal_Chess
+  }
+  {
+    id: 10772
+    name: prize-10010772
+    user_exp: 60
+    item_ids: 106-10
+    content: prize-20010772
+    icon: Medal_Chess
+  }
+  {
+    id: 10773
+    name: prize-10010773
+    user_exp: 100
+    item_ids: 106-20
+    content: prize-20010773
+    icon: Medal_Chess
+  }
+  {
+    id: 10774
+    name: prize-10010774
+    user_exp: 200
+    item_ids: 106-30,2319-1,200007-1
+    content: prize-20010774
+    icon: Medal_Chess
+  }
+  {
+    id: 10775
+    name: prize-10010775
+    user_exp: 500
+    item_ids: 106-40
+    content: prize-20010775
+    icon: Medal_Chess
+  }
+  {
+    id: 10776
+    name: prize-10010776
+    user_exp: 1000
+    item_ids: 106-50
+    content: prize-20010776
+    icon: Medal_Chess
+  }
+  {
+    id: 10777
+    name: prize-10010777
+    user_exp: 2000
+    item_ids: 106-60,2320-1,200006-1
+    content: prize-20010777
     icon: Medal_Chess
   }
   {
@@ -43431,6 +43501,34 @@
     commander_uniform: "5152"
   }
   {
+    id: 95411
+    name: prize-10095411
+    content: prize-20095411
+    icon: chessgahsa_95411
+    commander_uniform: "5411,5431,5451"
+  }
+  {
+    id: 95412
+    name: prize-10095412
+    content: prize-20095412
+    icon: chessgahsa_95412
+    commander_uniform: "5412,5432,5452"
+  }
+  {
+    id: 95420
+    name: prize-10095420
+    content: prize-20095420
+    icon: chessgahsa_95420
+    commander_uniform: "5420,5440"
+  }
+  {
+    id: 95451
+    name: prize-10095451
+    item_ids: 130021-1
+    content: prize-20095451
+    icon: chessgahsa_95451
+  }
+  {
     id: 99999
     name: 新人首儲獎勵
     mp: 1000
@@ -44429,6 +44527,28 @@
     item_ids: 1500058-1
   }
   {
+    id: 120074
+    name: 增量補給-15級
+    item_ids: 41-30,1500074-1
+  }
+  {
+    id: 120075
+    name: 增量補給-25級
+    item_ids: 41-30
+    gift: 30008-1
+  }
+  {
+    id: 120076
+    name: 增量補給-35級
+    item_ids: 41-30,1500075-1
+  }
+  {
+    id: 120077
+    name: 增量補給-45級
+    gem: 680
+    item_ids: 1500076-1
+  }
+  {
     id: 121001
     name: 喧鬧之石
     furniture: "7240"
@@ -44557,6 +44677,21 @@
     id: 130024
     name: 進階付費展示獎勵-8
     item_ids: 10606-300,200021-1,2301-1
+  }
+  {
+    id: 130025
+    name: 前線協議額外獎勵-9
+    item_ids: 1500077-1
+  }
+  {
+    id: 130026
+    name: 基礎付費展示獎勵-9
+    item_ids: 602-1,1500074-1,1500075-1,505-680
+  }
+  {
+    id: 130027
+    name: 進階付費展示獎勵-9
+    item_ids: 10606-300,200023-1,2316-1
   }
   {
     id: 140001
@@ -44995,6 +45130,46 @@
     gun_id: "114"
   }
   {
+    id: 140085
+    name: 必得未解鎖人形序標-C-93
+    gun_id: "285"
+  }
+  {
+    id: 140086
+    name: 必得未解鎖人形序標-P90
+    gun_id: "245"
+  }
+  {
+    id: 140087
+    name: 必得未解鎖人形序標-VSK-94
+    gun_id: "312"
+  }
+  {
+    id: 140088
+    name: 必得未解鎖人形序標-PKP
+    gun_id: "173"
+  }
+  {
+    id: 140089
+    name: 必得未解鎖人形序標-MG36
+    gun_id: "263"
+  }
+  {
+    id: 140090
+    name: 必得未解鎖人形序標-李-恩菲爾德
+    gun_id: "50"
+  }
+  {
+    id: 140091
+    name: 必得未解鎖人形序標-索米
+    gun_id: "115"
+  }
+  {
+    id: 140092
+    name: 必得未解鎖人形序標-IWS 2000
+    gun_id: "148"
+  }
+  {
     id: 150001
     name: 日常玩法-首通bonus獎勵1
     gift: 200001-300
@@ -45192,7 +45367,7 @@
   {
     id: 150040
     name: 日常玩法-常規獎勵10
-    item_ids: 1500060-1
+    item_ids: 1500071-1
   }
   {
     id: 150041
@@ -45242,7 +45417,7 @@
   {
     id: 150050
     name: 日常玩法-常規獎勵20
-    item_ids: 1500061-1
+    item_ids: 1500072-1
   }
   {
     id: 150051
@@ -45292,7 +45467,7 @@
   {
     id: 150060
     name: 日常玩法-常規獎勵30
-    item_ids: 1500062-1
+    item_ids: 1500073-1
   }
   {
     id: 150074
