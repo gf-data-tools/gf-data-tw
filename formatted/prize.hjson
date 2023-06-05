@@ -23368,47 +23368,45 @@
     name: 活躍獎勵
     ammo: 1000
     mre: 1000
-    item_ids: 1600050-3
     icon: Bumdle_red
   }
   {
     id: 10101
     name: 活躍獎勵
-    item_ids: 9-20,4-5,6003-2,525-5,1600050-3
+    item_ids: 9-20,4-5,6003-2,525-5
     icon: Bumdle_brown
   }
   {
     id: 10102
     name: 活躍獎勵
-    item_ids: 3-5,525-5,1600050-3,2303-1
+    item_ids: 3-5,525-5,2303-1
     coins: 2-200
     icon: Bumdle_indigo
   }
   {
     id: 10103
     name: 活躍獎勵
-    item_ids: 1-5,45-100,506-200,601-2,525-5,1600050-3,2304-1
+    item_ids: 1-5,45-100,506-200,601-2,525-5,2304-1
     icon: Bumdle_guoqing
   }
   {
     id: 10104
     name: 活躍獎勵
     core: 10
-    item_ids: 41-20,8-1,1600050-3
+    item_ids: 41-20,8-1
     furniture: "20102"
     icon: Bumdle_yellow
   }
   {
     id: 10105
     name: 活躍獎勵
-    item_ids: 1600050-6
     gift: 100003-10,8309-1
     icon: Bumdle_bline
   }
   {
     id: 10106
     name: 活躍獎勵
-    item_ids: 45-100,6009-2,1600050-3
+    item_ids: 45-100,6009-2
     coins: 3-200
     icon: Bumdle_navy
     bp_pay: 10
@@ -23416,13 +23414,13 @@
   {
     id: 10107
     name: 活躍獎勵
-    item_ids: 45-200,41-50,1-10,103-1,10604-3,1600050-3
+    item_ids: 45-200,41-50,1-10,103-1,10604-3
     icon: Bumdle_blue
   }
   {
     id: 10108
     name: 活躍獎勵
-    item_ids: 103-1,1600050-3
+    item_ids: 103-1
     icon: Bumdle_may
   }
   {
