@@ -12832,30 +12832,45 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season11_1
-    item_name: item-10002318
-    introduction: item-20002318
+    item_name: 同態感應 · 代號玖：閉弦
+    introduction: 同態感應 · 代號玖：閉弦
     rank: 1
-    detail_introduction: item-30002318
   }
   {
     id: 2319
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season11_2
-    item_name: item-10002319
-    introduction: item-20002319
+    item_name: 義體互聯 · 代號玖：閉弦
+    introduction: 義體互聯 · 代號玖：閉弦
     rank: 1
-    detail_introduction: item-30002319
   }
   {
     id: 2320
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season11_3
-    item_name: item-10002320
-    introduction: item-20002320
+    item_name: 鐫刻印記 · 代號玖：閉弦
+    introduction: 鐫刻印記 · 代號玖：閉弦
     rank: 1
-    detail_introduction: item-30002320
+  }
+  {
+    id: 2321
+    type: 5
+    arg: "1"
+    code: card_Children2022_us
+    item_name: 名片：美服兒童節名片
+    introduction: 名片：美服兒童節名片
+    rank: 1
+  }
+  {
+    id: 2322
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Nyto_mecha2
+    item_name: 紗那頭像
+    introduction: 紗那頭像
+    rank: 1
   }
   {
     id: 4001
@@ -16476,10 +16491,9 @@
     type: 12
     arg: "130021"
     code: Y_Z_zhihuiguan_zidan
-    item_name: item-10130021
-    introduction: item-20130021
+    item_name: 逆行火線
+    introduction: 目光投向前方，彈孔留在身後——「放輕鬆點，那些嘍囉的槍法還不如我浴室裡的花灑。」
     rank: 1
-    detail_introduction: item-30130021
   }
   {
     id: 140001

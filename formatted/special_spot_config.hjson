@@ -34767,7 +34767,7 @@
     duration_type: "2"
     duration_time: "1"
     detect_target_type: "-1"
-    detect_range: 4
+    detect_range: 5
     effect_target_type: "-1"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
@@ -34788,7 +34788,7 @@
     duration_type: "2"
     duration_time: "1"
     detect_target_type: "-1"
-    detect_range: 4
+    detect_range: 5
     effect_target_type: "-1"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
@@ -34809,7 +34809,7 @@
     duration_type: "2"
     duration_time: "1"
     detect_target_type: "-1"
-    detect_range: 4
+    detect_range: 5
     effect_target_type: "-1"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
@@ -34830,7 +34830,7 @@
     duration_type: "2"
     duration_time: "1"
     detect_target_type: "-1"
-    detect_range: 4
+    detect_range: 5
     effect_target_type: "-1"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
@@ -34851,7 +34851,7 @@
     duration_type: "2"
     duration_time: "1"
     detect_target_type: "-1"
-    detect_range: 4
+    detect_range: 5
     effect_target_type: "-1"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
@@ -34872,7 +34872,7 @@
     duration_type: "2"
     duration_time: "1"
     detect_target_type: "-1"
-    detect_range: 4
+    detect_range: 5
     effect_target_type: "-1"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1

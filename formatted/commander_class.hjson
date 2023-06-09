@@ -528,17 +528,17 @@
   }
   {
     id: 54
-    name: commander_class-10000054
-    description: commander_class-20000054
+    name: 奇域探險隊
+    description: 穿越險山惡水，深入不毛之地，在佈滿蛛網與爬蟲的海島密林裡尋找失落的文明——聽著，這是勇者才能參加的冒險遊戲，準備好加入了嗎？很好，讓我們出發！
     group_id: "96"
     code: commander_5431_icon
     bonus_plastic: "130021"
     skill_id: 111
     path: CLASS54
     is_class: 1
-    des_year: commander_class-30000054
+    des_year: "2023"
     source: 2
-    source_description: commander_class-40000054
+    source_description: 拉弗伯雷兵棋扭蛋機獎勵
   }
   {
     id: 99

@@ -3193,8 +3193,8 @@
   }
   {
     id: 5411
-    name: commander_uniform-10005411
-    description: commander_uniform-20005411
+    name: 極地游俠
+    description: 在彰顯帥氣的同時，還能保證你的頭髮不會落滿蝙蝠糞，千萬要戴好！
     code: Head1
     icon: commander_5411_icon
     type: 1
@@ -3205,8 +3205,8 @@
   }
   {
     id: 5412
-    name: commander_uniform-10005412
-    description: commander_uniform-20005412
+    name: 完美旅人
+    description: 沒人知道意外和明天誰先到來，但精明的頭腦會全力推平前路的障礙。
     code: Head2
     icon: commander_5412_icon
     type: 1
@@ -3217,8 +3217,8 @@
   }
   {
     id: 5420
-    name: commander_uniform-10005420
-    description: commander_uniform-20005420
+    name: 太陽庇護者
+    description: 請搭配防曬噴霧使用——否則眼鏡的曬痕將使你變成一隻可憐的浣熊。
     code: HeadAcco
     icon: commander_5420_icon
     type: 2
@@ -3231,8 +3231,8 @@
   }
   {
     id: 5431
-    name: commander_uniform-10005431
-    description: commander_uniform-20005431
+    name: 幽谷覓影
+    description: 工具完備的戶外生存套裝——不管前方有多少機關暗道，致命陷阱，只要闖過去，就一定能找到我們想要的一切！
     code: Body1
     icon: commander_5431_icon
     type: 3
@@ -3243,8 +3243,8 @@
   }
   {
     id: 5432
-    name: commander_uniform-10005432
-    description: commander_uniform-20005432
+    name: 遺跡尋蹤
+    description: 考古學者必備的探秘裝具——「念出銘文之人，會被降下詛咒！」「你已經念得很大聲了！」
     code: Body2
     icon: commander_5432_icon
     type: 3
@@ -3255,8 +3255,8 @@
   }
   {
     id: 5440
-    name: commander_uniform-10005440
-    description: commander_uniform-20005440
+    name: 時間引航員
+    description: 「根據這些古代地圖的指引，前面就是埋藏寶藏的遺跡！」「……你是說這座熱鬧的兒童樂園？」
     code: BodyAcco
     icon: commander_5440_icon
     type: 4
@@ -3269,8 +3269,8 @@
   }
   {
     id: 5451
-    name: commander_uniform-10005451
-    description: commander_uniform-20005451
+    name: 沙海塵暴
+    description: 穿上它，可以抵禦任何惡劣環境，但……沙暴不在其中！不想被埋葬的話，就邁開步伐跑起來！
     code: Foot1
     icon: commander_5451_icon
     type: 5
@@ -3281,8 +3281,8 @@
   }
   {
     id: 5452
-    name: commander_uniform-10005452
-    description: commander_uniform-20005452
+    name: 樹原風息
+    description: 這套敏捷的穿搭可以方便你爬到樹上安全過夜——嘖，只是這些滑溜溜的「藤蔓」有點噁心……等等，它們在吐舌頭！？
     code: Foot2
     icon: commander_5452_icon
     type: 5
