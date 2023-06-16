@@ -3793,6 +3793,7 @@
     name: M1895 CB-杓蘭雅
     fit_gun: 275
     voice: 15
+    is_hidden: 1
     dialog: 鞭炮已經放完了嗎？還好放在車裡的炸雞沒被發現……指揮官，要來和我一起享用嗎？
     order: 49
     class_id: 42
@@ -7221,6 +7222,75 @@
     illustrator_cv: skin-40008309
     order: 108
     class_id: 88
+  }
+  {
+    id: 8401
+    name: G11-絨絨購物車
+    fit_gun: 122
+    ai: 48401
+    voice: 4
+    substitute_voice: G11_0
+    dialog: 軟呼呼、毛絨絨……呼……比剛才夢見的髒亂地下室舒服多了……
+    order: 110
+    class_id: 89
+  }
+  {
+    id: 8402
+    name: M240L-家有聖騎士
+    fit_gun: 374
+    ai: 48402
+    voice: 4
+    substitute_voice: M240L_0
+    dialog: 石中劍、鐵盔、神獸坐騎……糟糕，忘記製作護甲了！惡龍你等著！待本騎士裝備好，馬上和你決一勝負！
+    gift_position: "-98.9,207.9"
+    order: 110
+    class_id: 89
+  }
+  {
+    id: 8403
+    name: AA-12-糖紙總動員
+    fit_gun: 163
+    ai: 48403
+    voice: 4
+    substitute_voice: AA12_0
+    dialog: 98……99……唔，等一下！把你的糖紙交出來！我還差一張就能湊滿100、兌換新的棒棒糖了。
+    order: 110
+    class_id: 89
+  }
+  {
+    id: 8404
+    name: PSG-1-喝啤酒的小犬星
+    fit_gun: 117
+    ai: 48404
+    voice: 4
+    substitute_voice: PSG1_0
+    dialog: 指揮官，請問您認識這隻機械狗狗的主人嗎？剛才去廚房拿飲品，它一直跟在我身後不肯離開呢……
+    order: 110
+    class_id: 89
+  }
+  {
+    id: 8405
+    name: C96-偷心魔術師
+    fit_gun: 12
+    ai: 48405
+    voice: 4
+    substitute_voice: C96_0
+    dialog: 台下的小朋友們，看到這頂無所不能的魔術帽了嗎？只要誠心誠意地向我祈求，我什麼願望都能滿足你哦~
+    illustrator_cv: 星迴,板谷彩香,
+    order: 110
+    class_id: 89
+  }
+  {
+    id: 8406
+    name: M1911-錫兵奇妙日
+    fit_gun: 2
+    ai: 48406
+    voice: 4
+    substitute_voice: M1911_0
+    dialog: 巡邏犬和錫兵二號，出列！……指揮官，別小看我們哦？萬一敵人學會了魔法，我們可就是格里芬唯三的王牌了！
+    illustrator_cv: 小星,松井惠理子,
+    order: 110
+    class_id: 89
   }
   {
     id: 30001

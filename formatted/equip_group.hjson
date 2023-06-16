@@ -55,4 +55,22 @@
     group_skill: 2:778217,3:759143
     fit_gun: "20094"
   }
+  {
+    id: 7
+    name: 小小郵差
+    des: 擁有完整套裝的MP5大幅提升了作戰行動時的靈活性，幫助隊伍之間更快地傳遞訊息與物資。
+    code: EgroupMP5
+    equip_unit: "62,157,348"
+    group_skill: 2:778217,3:759187
+    fit_gun: "20026"
+  }
+  {
+    id: 8
+    name: 沉默者
+    des: 使用了全套特製裝備的MG4即使在紛擾的戰場上也可以精確地找到擊殺目標。
+    code: EgroupMG4
+    equip_unit: "132,239,349"
+    group_skill: 2:778217,3:759192
+    fit_gun: "20125"
+  }
 ]
