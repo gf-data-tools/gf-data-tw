@@ -12730,6 +12730,18 @@
     gun_id: "163,282,46,348,347"
   }
   {
+    id: 1953
+    name: 每日特惠禮包
+    item_ids: 506-100,605-1
+    coins: 3-200
+  }
+  {
+    id: 1954
+    name: 2023年7月簽到
+    gem: 90
+    equip_ids: "350"
+  }
+  {
     id: 2001
     name: WA2000-古堡歷險
     gift: 6-1
@@ -23474,45 +23486,47 @@
     name: 活躍獎勵
     ammo: 1000
     mre: 1000
+    item_ids: 1600050-3
     icon: Bumdle_red
   }
   {
     id: 10101
     name: 活躍獎勵
-    item_ids: 9-20,4-5,6003-2,525-5
+    item_ids: 9-20,4-5,6003-2,525-5,1600050-3
     icon: Bumdle_brown
   }
   {
     id: 10102
     name: 活躍獎勵
-    item_ids: 3-5,525-5,2303-1
+    item_ids: 3-5,525-5,1600050-3,2303-1
     coins: 2-200
     icon: Bumdle_indigo
   }
   {
     id: 10103
     name: 活躍獎勵
-    item_ids: 1-5,45-100,506-200,601-2,525-5,2304-1
+    item_ids: 1-5,45-100,506-200,601-2,525-5,1600050-3,2304-1
     icon: Bumdle_guoqing
   }
   {
     id: 10104
     name: 活躍獎勵
     core: 10
-    item_ids: 41-20,8-1
+    item_ids: 41-20,8-1,1600050-3
     furniture: "20102"
     icon: Bumdle_yellow
   }
   {
     id: 10105
     name: 活躍獎勵
+    item_ids: 1600050-6
     gift: 100003-10,8309-1
     icon: Bumdle_bline
   }
   {
     id: 10106
     name: 活躍獎勵
-    item_ids: 45-100,6009-2
+    item_ids: 45-100,6009-2,1600050-3
     coins: 3-200
     icon: Bumdle_navy
     bp_pay: 10
@@ -23520,13 +23534,13 @@
   {
     id: 10107
     name: 活躍獎勵
-    item_ids: 45-200,41-50,1-10,103-1,10604-3
+    item_ids: 45-200,41-50,1-10,103-1,10604-3,1600050-3
     icon: Bumdle_blue
   }
   {
     id: 10108
     name: 活躍獎勵
-    item_ids: 103-1
+    item_ids: 103-1,1600050-3
     icon: Bumdle_may
   }
   {
@@ -34892,10 +34906,10 @@
   {
     id: 30099
     name: 嘉年華抽獎活動補償郵件
-    mp: 400
-    ammo: 400
-    mre: 400
-    part: 400
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
     bp_pay: 3
   }
   {
@@ -45791,7 +45805,7 @@
   {
     id: 150040
     name: 日常玩法-常規獎勵10
-    item_ids: 1500071-1
+    item_ids: 1500078-1
   }
   {
     id: 150041
@@ -45841,7 +45855,7 @@
   {
     id: 150050
     name: 日常玩法-常規獎勵20
-    item_ids: 1500072-1
+    item_ids: 1500079-1
   }
   {
     id: 150051
@@ -45891,7 +45905,7 @@
   {
     id: 150060
     name: 日常玩法-常規獎勵30
-    item_ids: 1500073-1
+    item_ids: 1500080-1
   }
   {
     id: 150074
