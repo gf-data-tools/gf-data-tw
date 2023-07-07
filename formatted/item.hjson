@@ -12954,6 +12954,33 @@
     rank: 1
   }
   {
+    id: 2331
+    type: 5
+    arg: "1"
+    code: card_BattlePass_Saiga12
+    item_name: 名片：緋紅邊際
+    introduction: 名片：緋紅邊際
+    rank: 1
+  }
+  {
+    id: 2332
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_Saiga12
+    item_name: Saiga-12-淺池濯浪
+    introduction: Saiga-12-淺池濯浪
+    rank: 1
+  }
+  {
+    id: 2333
+    type: 5
+    arg: "1"
+    code: profilePic_Carnival2023_RO635
+    item_name: RO635-黑白叢林鳥
+    introduction: RO635-黑白叢林鳥
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -13933,6 +13960,24 @@
     introduction: 通過小型全息設備輸出的未知地形影像，位置數據缺失，目前仍在更進一步解析中。
     rank: 1
     sort: -999
+  }
+  {
+    id: 9039
+    type: 4
+    arg: "9039"
+    code: 2022Bikini_Goody
+    item_name: 守善之證
+    introduction: 願上天賜善良的人們以智慧和運氣，戰勝傳說中殘暴的萊肯吧！
+    rank: 1
+  }
+  {
+    id: 9040
+    type: 4
+    arg: "9040"
+    code: 2022Bikini_Baddy
+    item_name: 群狼之牌
+    introduction: 滿月是萊肯的圖騰，弒戮是狼人的天性……我們在黑夜中盡情狂歡，直至黎明。
+    rank: 1
   }
   {
     id: 10603
@@ -15753,6 +15798,25 @@
     rank: 1
   }
   {
+    id: 100189
+    type: 4
+    arg: "100189"
+    code: Platinum_medal
+    item_name: 白金勳章·萊肯禁獵區
+    introduction: 白金勳章·萊肯禁獵區
+    rank: 1
+  }
+  {
+    id: 100190
+    type: 9
+    arg: "100190"
+    code: Handcuffs
+    item_name: 禁區銬鎖
+    introduction: 禁區銬鎖
+    rank: 1
+    daily_limit: "120"
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -16739,6 +16803,22 @@
     rank: 1
   }
   {
+    id: 140019
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    rank: 1
+  }
+  {
+    id: 140020
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -16930,7 +17010,7 @@
   }
   {
     id: 200023
-    type: 5
+    type: 1
     arg: "1"
     code: profileFrame_BattlePass_QBZ191
     item_name: 頭像框·與夏為鄰
@@ -16953,6 +17033,15 @@
     code: profileFrame_friendmall_MK3A1
     item_name: 頭像框·機巧百工
     introduction: 頭像框·機巧百工
+    rank: 1
+  }
+  {
+    id: 200026
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_Saiga12
+    item_name: 頭像框·泡沫密語
+    introduction: 頭像框·泡沫密語
     rank: 1
   }
   {
@@ -17846,6 +17935,46 @@
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500081
+    type: 15
+    arg: "1500081"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-氤氳時光，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500082
+    type: 15
+    arg: "1500082"
+    code: package_choose
+    item_name: 配件類裝備自選序標
+    introduction: 來自於前線協議-氤氳時光，可從該指定投遞配給序標內選擇獲取一件配件類裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500083
+    type: 15
+    arg: "1500083"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-氤氳時光，可必定獲得該序標內圖鑒未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500084
+    type: 15
+    arg: "1500084"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-氤氳時光，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
   }

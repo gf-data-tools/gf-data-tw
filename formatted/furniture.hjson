@@ -30872,6 +30872,21 @@
     rotate: "3"
   }
   {
+    id: 30596
+    name: RO635-黑白叢林鳥
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: RO635的海報
+    code: poster_Carnival2023_RO635
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 30601
     name: 托卡列夫-兩人的旅程
     classes: 300
@@ -43060,7 +43075,7 @@
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
-    description: Scar-L的海報。
+    description: Scar-L的海報
     code: poster_BattlePass_scarL
     texture_type: "1"
     sorting: "5"
@@ -43107,6 +43122,21 @@
     decompose_gift: 100003
     description: QBZ-191的海報。
     code: poster_BattlePass_QBZ191
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330009
+    name: Saiga-12-淺池濯浪
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Saiga-12的海報
+    code: poster_BattlePass_Saiga12
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
