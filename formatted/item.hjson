@@ -12981,6 +12981,69 @@
     rank: 1
   }
   {
+    id: 2334
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_64type
+    item_name: 64式-背鰭麗影
+    introduction: 64式-背鰭麗影
+    rank: 1
+  }
+  {
+    id: 2335
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_Lusa
+    item_name: Lusa-濱海前鋒
+    introduction: Lusa-濱海前鋒
+    rank: 1
+  }
+  {
+    id: 2336
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_HK433
+    item_name: HK433-青潭綺遇
+    introduction: HK433-青潭綺遇
+    rank: 1
+  }
+  {
+    id: 2337
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_VP1915
+    item_name: VP1915-弦歌晴空塔
+    introduction: VP1915-弦歌晴空塔
+    rank: 1
+  }
+  {
+    id: 2338
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_AR18
+    item_name: AR-18-路亞之餌
+    introduction: AR-18-路亞之餌
+    rank: 1
+  }
+  {
+    id: 2339
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_LAMG
+    item_name: LAMG-棕影輕搖
+    introduction: LAMG-棕影輕搖
+    rank: 1
+  }
+  {
+    id: 2340
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_SuperShorty
+    item_name: Super-Shorty-踏浪小墨燕
+    introduction: Super-Shorty-踏浪小墨燕
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -13978,6 +14041,38 @@
     item_name: 群狼之牌
     introduction: 滿月是萊肯的圖騰，弒戮是狼人的天性……我們在黑夜中盡情狂歡，直至黎明。
     rank: 1
+  }
+  {
+    id: 9041
+    type: 1
+    arg: "9041"
+    code: 2307RG001
+    item_name: 液化干擾噴霧
+    introduction: 含有大量小型干擾物質的噴霧器，可替換的內膽中裝有液體溶液，經由噴霧口對敵使用，可對電子儀器造成一定的損害。
+    rank: 1
+    sort: -999
+    is_hide_info: 1
+  }
+  {
+    id: 9042
+    type: 1
+    arg: "9042"
+    code: 2307RG002
+    item_name: 人形潤滑機油
+    introduction: 為戰術人形特供的軍用級戰術物資，可以在短時間內提高人形的素體性能，尤其是在跳躍力的功能方面，能夠提供極大的幫助。
+    rank: 1
+    sort: -999
+    is_hide_info: 1
+  }
+  {
+    id: 9043
+    type: 1
+    arg: "9043"
+    code: mind_PT
+    item_name: 思域迷航PT
+    introduction: 思域迷航PT
+    rank: 1
+    sort: -999
   }
   {
     id: 10603
@@ -15825,6 +15920,34 @@
     introduction: 禁區銬鎖
     rank: 1
     daily_limit: "120"
+  }
+  {
+    id: 100191
+    type: 4
+    arg: "100191"
+    code: Nova_medal_black
+    item_name: 新星勳章·思域迷航
+    introduction: 新星勳章·思域迷航
+    rank: 1
+  }
+  {
+    id: 100192
+    type: 4
+    arg: "100192"
+    code: Platinum_medal_black
+    item_name: 白金勳章·思域迷航
+    introduction: 白金勳章·思域迷航
+    rank: 1
+  }
+  {
+    id: 100193
+    type: 9
+    arg: "100193"
+    code: Mind_Coin
+    item_name: 思維幣
+    introduction: 思維幣
+    rank: 1
+    daily_limit: "60"
   }
   {
     id: 110001

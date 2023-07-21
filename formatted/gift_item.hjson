@@ -9230,6 +9230,104 @@
     normal_description: 贈送獲得相應好感度
   }
   {
+    id: 8501
+    name: Lusa-濱海前鋒
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 311
+    skin: 8501
+    poster: 38501
+    code: gift_bundle_Swimsuit2023_Lusa
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8502
+    name: HK433-青潭綺遇
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 390
+    skin: 8502
+    poster: 38502
+    code: gift_bundle_Swimsuit2023_HK433
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8503
+    name: VP1915-弦歌晴空塔
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 333
+    skin: 8503
+    poster: 38503
+    code: gift_bundle_Swimsuit2023_VP1915
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8504
+    name: AR-18-路亞之餌
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 372
+    skin: 8504
+    poster: 38504
+    code: gift_bundle_Swimsuit2023_AR18
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8505
+    name: LAMG-棕影輕搖
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 386
+    skin: 8505
+    poster: 38505
+    code: gift_bundle_Swimsuit2023_LAMG
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8506
+    name: Super-Shorty-踏浪小墨燕
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 156
+    skin: 8506
+    poster: 38506
+    code: gift_bundle_Swimsuit2023_SuperShorty
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8507
+    name: 64式-背鰭麗影
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 94
+    skin: 8507
+    poster: 38507
+    code: gift_bundle_Swimsuit2023_64type
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     type: 2

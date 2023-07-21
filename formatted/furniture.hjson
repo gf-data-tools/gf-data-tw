@@ -27426,6 +27426,197 @@
     touch_area: "8,4,0"
   }
   {
+    id: 11101
+    name: 花火如你-街道回響
+    classes: 111
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 最美的不是煙火，而是被照亮的你的笑顏。
+    code: SummerFes2023_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11102
+    name: 花火如你-盛夏煙火
+    classes: 111
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 多希望，長街沒有盡頭。
+    code: SummerFes2023_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11103
+    name: 花火如你-百華千彩
+    classes: 111
+    type: 201
+    position: "26,0"
+    space: "6,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 傘檐抬起，漸漸，你的眼眸如月，皎皎。
+    code: SummerFes2023_deco_01,SummerFes2023_deco_02
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,0.000|0.000,2.240,0.514"
+    rotate: "2,2"
+  }
+  {
+    id: 11104
+    name: 花火如你-微光亦明
+    classes: 111
+    type: 201
+    position: "3,0"
+    space: "6,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 光要照亮塵世的路，你即是光。
+    code: SummerFes2023_deco_03,SummerFes2023_deco_04
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,0.000|0.000,2.246,0.511"
+    rotate: "2,2"
+  }
+  {
+    id: 11105
+    name: 花火如你-繽紛花車
+    classes: 111
+    type: 201
+    position: "11,0"
+    space: "10,6,1,1,1,0"
+    deco_rate: 1400
+    decompose_gift: 100003
+    description: 俯瞰人間色，卻也，高處不勝寒，你想。
+    code: SummerFes2023_deco_05,SummerFes2023_deco_06,SummerFes2023_deco_07,SummerFes2023_deco_08,SummerFes2023_deco_09,SummerSwim2023_lights
+    texture_type: "1,1,1,1,1,2"
+    sorting: "10,10,10,10,0,20"
+    offset: "0.000,0.000,0.000|4.609,0.000,0.000|0.000,4.489,1.037|0.000,0.023,0.000|0.000,0.000,0.000|0.238,1.925,0.143"
+    rotate: "2,2,2,2,2,2"
+    interact_point: "27"
+    interact_point_offset: *0.088,5.805,1.081
+  }
+  {
+    id: 11106
+    name: 花火如你-咚咚
+    classes: 111
+    type: 201
+    position: "7,5"
+    space: "3,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 鼓聲如雷，咚咚，咚咚，似是祭典的心跳。
+    code: SummerFes2023_deco_10
+    texture_type: "1"
+    offset: "-0.097,0.000,-0.131"
+    rotate: "2"
+  }
+  {
+    id: 11107
+    name: 花火如你-鏘鏘
+    classes: 111
+    type: 201
+    position: "23,4"
+    space: "3,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 鼓聲停息後，世界陷入了短暫的安靜。
+    code: SummerFes2023_deco_11
+    texture_type: "1"
+    offset: "-0.115,0.000,-0.160"
+    rotate: "2"
+  }
+  {
+    id: 11108
+    name: 花火如你-街邊風味
+    classes: 111
+    type: 201
+    position: "27,6"
+    space: "6,4,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 快樂、滿足有時候很簡單，比如你餵她吃一顆章魚燒。
+    code: SummerFes2023_deco_12,SummerFes2023_deco_13
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "-0.344,0.000,0.000|-0.344,0.000,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 11109
+    name: 花火如你-獨特技巧
+    classes: 111
+    type: 201
+    position: "10,10"
+    space: "6,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 某些時候，恰如紙網撈魚，你舉起網兜，探入水中，對，只有一次機會。
+    code: SummerFes2023_deco_14
+    texture_type: "1"
+    offset: "-0.209,0.000,-0.834"
+    rotate: "2"
+  }
+  {
+    id: 11110
+    name: 花火如你-甜蜜涼意
+    classes: 111
+    type: 201
+    position: "1,10"
+    space: "6,4,1,1,0,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 刨冰在嘴裡融化，甜甜的，又涼涼的。
+    code: SummerFes2023_deco_15,SummerFes2023_deco_16
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "0.152,0.000,0.000|0.152,0.000,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 11111
+    name: 花火如你-雙重考驗
+    classes: 111
+    type: 201
+    position: "16,9"
+    space: "7,4,1,1,0,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 這是考驗格里芬人形的射擊精度，還是考驗攤主的錢包厚度？站在攤前，你很疑惑。
+    code: SummerFes2023_deco_17,SummerFes2023_deco_18
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.147,0.000,-0.314|2.157,0.000,-0.314"
+    rotate: "2,2"
+  }
+  {
+    id: 11112
+    name: 花火如你-片刻安閒
+    classes: 111
+    type: 201
+    position: "25,11"
+    space: "7,3,1,1,1,1"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 你坐在這兒，手撐著下巴。煙火明滅，夜風微醺，送來笑鬧歡聲。這是屬於你的慶典，這是你為之戰鬥的世界。
+    code: SummerFes2023_deco_19,SummerFes2023_deco_20
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,-0.803|2.304,0.000,-0.803"
+    rotate: "2,2"
+    interact_point: "12,14"
+    interact_point_offset: *-2.538,2.106,-1.679|*2.975,1.252,-1.821
+  }
+  {
     id: 20000
     name: 名湯·拉王
     classes: 81
@@ -29040,6 +29231,37 @@
     sorting: "20"
     offset: "0.008,0.000,-0.120"
     rotate: "2"
+  }
+  {
+    id: 20104
+    name: 貓咪信條
+    classes: 81
+    type: 201
+    space: "4,3,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: PA-15幻想宇宙的核心。不僅裝載了格里芬最受歡迎的恐怖遊戲全集，特製貓耳耳機更會讓它的主人在深夜發出沉重的呼嚕聲——也許這就是這台主機被打包送到指揮室的原因。
+    code: 2023PA15_deco_A
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20105
+    name: 「全都要」攪拌機
+    classes: 81
+    type: 201
+    space: "3,3,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 人生中總有無數的選擇題等待著我們，本設施專為選擇困難症患者提供援助，不論陷入怎樣的二擇難題，我們都會為您消除煩惱——但請謹記，取捨的過程，是每個人的必經之路。
+    code: 2023RougeSummer_Mixer_deco
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "64"
+    interact_point_offset: *3.996,0.000,0.000
+    touch_area: "3,3,0"
   }
   {
     id: 30001
@@ -38786,6 +39008,111 @@
     decompose_gift: 100003
     description: M1911的海報。
     code: poster_Children2023_M1911
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38501
+    name: Lusa-濱海前鋒
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Lusa的海報。
+    code: poster_Swimsuit2023_Lusa
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38502
+    name: HK433-青潭綺遇
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HK433的海報。
+    code: poster_Swimsuit2023_HK433
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38503
+    name: VP1915-弦歌晴空塔
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: VP1915的海報。
+    code: poster_Swimsuit2023_VP1915
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38504
+    name: AR-18-路亞之餌
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AR-18的海報。
+    code: poster_Swimsuit2023_AR18
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38505
+    name: LAMG-棕影輕搖
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LAMG的海報。
+    code: poster_Swimsuit2023_LAMG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38506
+    name: Super-Shorty-踏浪小墨燕
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Super-Shorty的海報。
+    code: poster_Swimsuit2023_SuperShorty
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38507
+    name: 64式-背鰭麗影
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 64式的海報。
+    code: poster_Swimsuit2023_64type
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

@@ -10824,8 +10824,12 @@
   }
   {
     id: 351
-    name: equip-10000351
-    description: equip-20000351
+    name: PM高性能骨骼
+    description:
+      '''
+      傷害<pow>
+      迴避+<dodge>$馬卡洛夫改型專用
+      '''
     rank: 5
     category: 3
     type: 20
@@ -10838,7 +10842,7 @@
     develop_duration: 3120
     company: IOP
     fit_guns: "20008"
-    equip_introduction: equip-30000351
+    equip_introduction: 為馬卡洛夫量身訂做的高性能外骨骼，附帶了小型抗彈裝甲，進一步提升了外骨骼的堅韌性。
     powerup_mp: 0.3
     powerup_ammo: 0.25
     powerup_mre: 0.12
@@ -10851,6 +10855,71 @@
     equip_group_id: 9
     is_show: 1
     obtain_ids: "3096"
-    sp_description: equip-40000351
+  }
+  {
+    id: 352
+    name: 榮譽勳章
+    description:
+      '''
+      暴擊機率+<critical_percent><%>
+      傷害+<pow>$PPSh-41改型專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "1,2"
+    critical_percent: "20,26"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: 人形_特殊_PPSh41Mod
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "20021"
+    equip_introduction: PPSh-41珍藏已久的兩枚勳章，蘊藏著過去榮耀的回憶，才不是因為伺服器癱瘓背鍋的獎勵呢！
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: critical_percent:1500,pow:500
+    passive_skill: "759223"
+    max_level: 10
+    auto_select_id: 20062
+    equip_group_id: 10
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 353
+    name: C96運動骨骼
+    description:
+      '''
+      移速+<speed>
+      迴避+<dodge>$C96專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "13,18"
+    speed: "1,2"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: 人形_特殊_C96
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "12,20012"
+    equip_introduction: 為C96量身訂做的新型運動骨骼，對於長時間行進的作戰要求有很大的幫助，是C96最喜歡的裝備。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    max_level: 10
+    auto_select_id: 20063
+    is_show: 1
+    obtain_ids: "3098"
   }
 ]

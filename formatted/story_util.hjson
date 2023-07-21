@@ -6366,7 +6366,7 @@
   {
     id: 546
     mission_id: "10504"
-    description: 孤島假日
+    description: 「少女們秘密啟程，去尋找轉變命運的寶藏！」
     scripts: -40-1-1First,-40-1-2End
     campaign: -40
     bgm: BGM_Frontline
@@ -6378,7 +6378,7 @@
   {
     id: 547
     mission_id: "10505"
-    description: 時來運轉
+    description: 「神秘生物現身海灘，難道好運即將來臨！？」
     scripts: -40-2-1First,-40-2-2End
     campaign: -40
     bgm: BGM_Frontline
@@ -6390,7 +6390,7 @@
   {
     id: 548
     mission_id: "10506"
-    description: 秘域險境
+    description: 「命運成功轉向——可惜不是好的那頭。」
     scripts: -40-3-1First,-40-3-2End
     campaign: -40
     bgm: BGM_Frontline
@@ -6402,7 +6402,7 @@
   {
     id: 549
     mission_id: "10507"
-    description: 夏日餘光
+    description: 「海灘上的樂趣就是你追我趕，只是這次有點危險。」
     scripts: -40-4-1First,-40-4-2End
     campaign: -40
     bgm: BGM_Frontline
@@ -8723,7 +8723,7 @@
     id: 799
     mission_id: "10781"
     description: 2021泳裝2
-    scripts: -47-2-WS-1,-47-2-1,-47-2-2
+    scripts: -47-2-1,-47-2-2
     campaign: -47
     bgm: BGM_Frontline
     start: -47-2-1
@@ -12325,5 +12325,58 @@
     campaign: -60
     title: 謎境守衛+
     start: -60-tips
+  }
+  {
+    id: 1235
+    mission_id: "11436"
+    description: story_util-10001235
+    scripts: -61-1-1
+    campaign: -61
+    title: story_util-20001235
+    start: -61-1-1
+  }
+  {
+    id: 1236
+    mission_id: "11437"
+    description: story_util-10001236
+    scripts: -61-2-1
+    campaign: -61
+    title: story_util-20001236
+    start: -61-2-1
+  }
+  {
+    id: 1237
+    mission_id: "11445,11458"
+    description: story_util-10001237
+    campaign: -61
+    title: story_util-20001237
+    start: -61-EXT-1
+  }
+  {
+    id: 1238
+    mission_id: "11448"
+    description: story_util-10001238
+    scripts: -61-3-1
+    campaign: -61
+    title: story_util-20001238
+    start: -61-3-1
+  }
+  {
+    id: 1239
+    mission_id: "11449"
+    description: story_util-10001239
+    scripts: -61-3-2
+    campaign: -61
+    title: story_util-20001239
+    start: -61-3-2
+  }
+  {
+    id: 1240
+    mission_id: "11450"
+    description: story_util-10001240
+    scripts: -61-3-3
+    campaign: -61
+    title: story_util-20001240
+    start: -61-3-3
   }
 ]

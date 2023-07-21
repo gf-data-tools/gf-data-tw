@@ -26921,6 +26921,642 @@
     special_spot_add: 599920:1
   }
   {
+    id: 610000
+    name: 攪拌機初始化
+    skill_group_id: 610000
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    special_spot_add: 610009:1
+    subsidiary_mission_skill: "610099"
+  }
+  {
+    id: 610001
+    name: 調和系統
+    description: 能夠有效將干擾噴霧和潤滑機油進行調和，並產生新的物質的系統，極大地提高了兩者的利用率和性能。
+    skill_group_id: 610001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    is_manual: 610001
+  }
+  {
+    id: 610002
+    name: 液化干擾噴霧
+    description: 含有大量小型干擾物質的噴霧器，可替換的內膽中裝有液體溶液，經由噴霧口對敵使用，可對電子儀器造成一定的損害。
+    skill_group_id: 610002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "100007201"
+    target_id: "1"
+    special_spot_add: 610002:1
+    subsidiary_mission_skill: "1000073,610010"
+    is_manual: 610002
+    drop_item: 9041:1
+  }
+  {
+    id: 610003
+    name: 人形潤滑機油
+    description: 為戰術人形特供的軍用級戰術物資，可以在短時間內提高人形的素體性能，尤其是在跳躍力的功能方面，能夠提供極大的幫助。
+    skill_group_id: 610003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "100007201"
+    target_id: "1"
+    special_spot_add: 610003:1
+    subsidiary_mission_skill: "1000073,610010"
+    is_manual: 610003
+    drop_item: 9042:1
+  }
+  {
+    id: 610004
+    name: 干擾-1
+    skill_group_id: 610004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 9041:-1
+  }
+  {
+    id: 610005
+    name: 跳躍-1
+    skill_group_id: 610005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 9042:-1
+  }
+  {
+    id: 610006
+    name: 干擾-100
+    skill_group_id: 610006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 9041:-100
+  }
+  {
+    id: 610007
+    name: 跳躍-100
+    skill_group_id: 610007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 9042:-100
+  }
+  {
+    id: 610008
+    name: 干擾+1
+    skill_group_id: 610008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 9041:1
+  }
+  {
+    id: 610009
+    name: 跳躍+1
+    skill_group_id: 610009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 9042:1
+  }
+  {
+    id: 610010
+    name: 拾取計數
+    skill_group_id: 610010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "61100101"
+    special_spot_add: 610001:1
+  }
+  {
+    id: 610011
+    name: 液化削弱噴霧
+    code: 2307RG01
+    description: 小幅削弱目標並令其癱瘓，持續1回合
+    skill_group_id: 610011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 610011:1
+    subsidiary_mission_skill: "610004"
+  }
+  {
+    id: 610012
+    name: 人形動力機油
+    code: 2307RG02
+    description: 可使梯隊進行短距離跳躍並小幅提升戰鬥力，持續1場戰鬥
+    skill_group_id: 610012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 610012:1
+    subsidiary_mission_skill: "610005"
+  }
+  {
+    id: 610013
+    name: 強效削弱噴霧
+    code: 2307RG03
+    description: 大幅削弱目標並令其癱瘓，持續2回合
+    skill_group_id: 610013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 610013:1
+    subsidiary_mission_skill: "610004,610004"
+  }
+  {
+    id: 610014
+    name: 強效動力機油
+    code: 2307RG04
+    description: 可使梯隊進行長距離跳躍並大幅提升戰鬥力，持續1場戰鬥
+    skill_group_id: 610014
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 610014:1
+    subsidiary_mission_skill: "610005,610005"
+  }
+  {
+    id: 610015
+    name: 不穩定化合物
+    code: 2307RG05
+    description: 混合了兩種制劑，同時具有雙方效果的神奇道具(大概)
+    skill_group_id: 610015
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 610015:1
+    subsidiary_mission_skill: "610004,610005"
+  }
+  {
+    id: 610021
+    name: 液化削弱噴霧
+    description: 可對1格內的敵人使用，小幅削弱目標並令其癱瘓，持續1回合
+    skill_group_id: 610021
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 1
+    mission_buff_add: 610021:1
+    subsidiary_mission_skill: "610031"
+    is_manual: 610021
+  }
+  {
+    id: 610022
+    name: 人形動力機油
+    description: 可向1格內的無人點跳躍並小幅提升自身戰鬥力，持續1場戰鬥
+    skill_group_id: 610022
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 1
+    is_airborne: 2
+    special_spot_add: 610022:1
+    subsidiary_mission_skill: "610032"
+    is_manual: 610022
+  }
+  {
+    id: 610023
+    name: 強效削弱噴霧
+    description: 可對2格內的敵人使用，大幅削弱目標並令其癱瘓，持續2回合
+    skill_group_id: 610023
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 2
+    mission_buff_add: 610023:1
+    subsidiary_mission_skill: "610033"
+    is_manual: 610023
+  }
+  {
+    id: 610024
+    name: 強效動力機油
+    description: 可向3格內的無人點跳躍並大幅提升自身戰鬥力，持續1場戰鬥
+    skill_group_id: 610024
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 3
+    is_airborne: 2
+    special_spot_add: 610024:1
+    subsidiary_mission_skill: "610034"
+    is_manual: 610024
+  }
+  {
+    id: 610025
+    name: 不穩定化合物
+    description: 可向2格內的敵人跳躍並直接進入戰鬥，戰鬥時削弱敵方並增強自身
+    skill_group_id: 610025
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 2
+    is_airborne: 2
+    special_spot_add: 610025:1
+    mission_buff_add: 610025:1
+    subsidiary_mission_skill: "610035"
+    is_manual: 610025
+  }
+  {
+    id: 610031
+    name: 小干擾清除
+    skill_group_id: 610031
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_minus: 610011:1
+  }
+  {
+    id: 610032
+    name: 小跳躍清除
+    skill_group_id: 610032
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: 1||61002201
+    special_spot_minus: 610022:1
+    mission_buff_add: 610022:1
+    mission_buff_minus: 610012:1
+  }
+  {
+    id: 610033
+    name: 大干擾清除
+    skill_group_id: 610033
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_minus: 610013:1
+  }
+  {
+    id: 610034
+    name: 大跳躍清除
+    skill_group_id: 610034
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 3
+    target_id: 1||61002401
+    special_spot_minus: 610024:1
+    mission_buff_add: 610024:1
+    mission_buff_minus: 610014:1
+  }
+  {
+    id: 610035
+    name: 干擾跳躍清除
+    skill_group_id: 610035
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    target_id: 1||61002501
+    special_spot_minus: 610025:1
+    mission_buff_minus: 610015:1
+  }
+  {
+    id: 610091
+    name: 調和系統
+    description: 能夠有效將干擾噴霧和潤滑機油進行調和，並產生新的物質的系統，極大地提高了兩者的利用率和性能
+    skill_group_id: 610091
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+  }
+  {
+    id: 610099
+    name: 攪拌機初始化
+    skill_group_id: 610099
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    special_spot_add: 610000:1
+  }
+  {
+    id: 610101
+    name: 強敵多動
+    skill_group_id: 610101
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 20402:1
+  }
+  {
+    id: 610201
+    name: 教學關初始化
+    skill_group_id: 610201
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 610201:1
+    subsidiary_mission_skill: "611001"
+  }
+  {
+    id: 610301
+    name: A1初始化-干擾+3
+    skill_group_id: 610301
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 610301:1
+    subsidiary_mission_skill: "610006,610007,610008,610008,610008"
+  }
+  {
+    id: 610401
+    name: A2初始化-干擾+8
+    skill_group_id: 610401
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 610401:1
+    subsidiary_mission_skill: "610006,610007,610008,610008,610008,610008,610008,610008,610008,610008"
+  }
+  {
+    id: 610601
+    name: B1初始化-跳躍+4
+    skill_group_id: 610601
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 610601:1
+    subsidiary_mission_skill: "610006,610007,610009,610009,610009,610009"
+  }
+  {
+    id: 610701
+    name: B2初始化-跳躍+6
+    skill_group_id: 610701
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 610701:1
+    subsidiary_mission_skill: "610006,610007,610009,610009,610009,610009,610009,610009"
+  }
+  {
+    id: 611001
+    name: 積分關初始化
+    skill_group_id: 611001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 611001:1
+    subsidiary_mission_skill: "610006,610007"
+  }
+  {
+    id: 611002
+    name: 強敵標記點
+    skill_group_id: 611002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 611002:1
+    mission_buff_add: 20401:1
+  }
+  {
+    id: 611003
+    name: 召喚第二波強敵
+    skill_group_id: 611003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: "61100303"
+    target_id: "61100201"
+    subsidiary_mission_skill: "611005"
+    allyteam_summoner: "611011"
+  }
+  {
+    id: 611004
+    name: 召喚第三波強敵
+    skill_group_id: 611004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: "61100403"
+    target_id: "61100201"
+    subsidiary_mission_skill: "611006"
+    allyteam_summoner: "611012"
+  }
+  {
+    id: 611005
+    name: 強敵2初始化
+    skill_group_id: 611005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "61100201"
+    mission_buff_add: 20402:1
+  }
+  {
+    id: 611006
+    name: 強敵3初始化
+    skill_group_id: 611006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "61100201"
+    mission_buff_add: 20403:1
+  }
+  {
+    id: 611007
+    name: 強敵1計數
+    skill_group_id: 611007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 611003:1
+  }
+  {
+    id: 611008
+    name: 強敵2計數
+    skill_group_id: 611008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 611004:1
+  }
+  {
+    id: 611009
+    name: 結算
+    description: 結算關卡獲得勝利
+    skill_group_id: 611009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "61000101"
+    target_id: "1"
+    special_spot_add: 611005:1
+    is_manual: 611009
+  }
+  {
+    id: 611701
+    name: A2噩夢初始化-干擾+6
+    skill_group_id: 611701
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 611701:1
+    subsidiary_mission_skill: "610006,610007,610008,610008,610008,610008,610008,610008"
+  }
+  {
+    id: 611901
+    name: B1噩夢初始化-跳躍+1
+    skill_group_id: 611901
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 611901:1
+    subsidiary_mission_skill: "610006,610007,610009"
+  }
+  {
+    id: 612303
+    name: 噩夢召喚第二波強敵
+    skill_group_id: 612303
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: "61100303"
+    target_id: "61100201"
+    subsidiary_mission_skill: "611005"
+    allyteam_summoner: "612311"
+  }
+  {
+    id: 612304
+    name: 噩夢召喚第三波強敵
+    skill_group_id: 612304
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: "61100403"
+    target_id: "61100201"
+    subsidiary_mission_skill: "611006"
+    allyteam_summoner: "612312"
+  }
+  {
     id: 700111
     name: AI識別-連攜檢測空
     skill_group_id: 700111
@@ -35505,6 +36141,357 @@
     spot_belong: "-1"
     spot_echelon: "-1"
     special_spot_minus: 1000060:1
+  }
+  {
+    id: 1144001
+    name: A3初始化-干擾+3,跳躍+2
+    skill_group_id: 1144001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 1144004:1
+    subsidiary_mission_skill: "610006,610007,610008,610008,610008,610009,610009"
+  }
+  {
+    id: 1144302
+    name: B3初始化-跳躍+2,干擾+1
+    skill_group_id: 1144302
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 1144304:1
+    subsidiary_mission_skill: "610006,610007,610008,610009,610009"
+  }
+  {
+    id: 1144303
+    name: Building傳送自傷
+    skill_group_id: 1144303
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    target_id: "1"
+    special_spot_add: 1144303:1
+  }
+  {
+    id: 1144400
+    name: 任意分身存活
+    skill_group_id: 1144400
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144401||1144402||1144403
+    target_id: "1"
+    subsidiary_mission_skill: "1144401,1144402,1144403"
+  }
+  {
+    id: 1144401
+    name: 分身1刷新
+    skill_group_id: 1144401
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    data_pool: "1"
+    trigger_id: 1144409&&1
+    target_id: "1"
+    special_spot_add: 1144411:1
+    allyteam_summoner: "1144401"
+  }
+  {
+    id: 1144402
+    name: 分身2刷新
+    skill_group_id: 1144402
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144408&&1144404
+    target_id: "1144404"
+    special_spot_add: 1144411:1
+    allyteam_summoner: "1144402"
+  }
+  {
+    id: 1144403
+    name: 分身3刷新
+    skill_group_id: 1144403
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144407&&1144405
+    target_id: "1144405"
+    special_spot_add: 1144411:1
+    allyteam_summoner: "1144403"
+  }
+  {
+    id: 1144404
+    name: 分身2刷新點記錄
+    skill_group_id: 1144404
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: "1144412"
+    target_id: "1144412"
+    special_spot_add: 1144402:1,1144411:1
+  }
+  {
+    id: 1144405
+    name: 分身3刷新點記錄
+    skill_group_id: 1144405
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: "1144413"
+    target_id: "1144413"
+    special_spot_add: 1144403:1,1144411:1
+  }
+  {
+    id: 1144406
+    name: 分身1刷新點記錄
+    skill_group_id: 1144406
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    data_pool: "1"
+    trigger_id: "1"
+    target_id: "1"
+    special_spot_add: 1144401:1,1144411:1
+    subsidiary_mission_skill: "1144404,1144405"
+  }
+  {
+    id: 1144411
+    name: 分身1死亡回調
+    skill_group_id: 1144411
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144401&&1
+    target_id: 1144401&&1
+    special_spot_minus: 1144411:1
+  }
+  {
+    id: 1144412
+    name: 分身2死亡回調
+    skill_group_id: 1144412
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144402&&1144404
+    target_id: 1144402&&1144404
+    special_spot_minus: 1144411:1
+  }
+  {
+    id: 1144413
+    name: 分身3死亡回調
+    skill_group_id: 1144413
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144403&&1144405
+    target_id: 1144403&&1144405
+    special_spot_minus: 1144411:1
+  }
+  {
+    id: 1144414
+    name: C1初始化-跳躍+2,干擾+2
+    skill_group_id: 1144414
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 1144404:1
+    subsidiary_mission_skill: "610006,610007,610008,610008,610009,610009"
+  }
+  {
+    id: 1145700
+    name: 任意分身存活
+    skill_group_id: 1145700
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144401||1144402||1144403
+    target_id: "1"
+    subsidiary_mission_skill: "1145701,1145702,1145703"
+  }
+  {
+    id: 1145701
+    name: 分身1刷新
+    skill_group_id: 1145701
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    data_pool: "1"
+    trigger_id: 1144409&&1
+    target_id: "1"
+    special_spot_add: 1144411:1
+    allyteam_summoner: "1145701"
+  }
+  {
+    id: 1145702
+    name: 分身2刷新
+    skill_group_id: 1145702
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144408&&1144404
+    target_id: "1144404"
+    special_spot_add: 1144411:1
+    allyteam_summoner: "1145702"
+  }
+  {
+    id: 1145703
+    name: 分身3刷新
+    skill_group_id: 1145703
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144407&&1144405
+    target_id: "1144405"
+    special_spot_add: 1144411:1
+    allyteam_summoner: "1145703"
+  }
+  {
+    id: 1145704
+    name: 分身2刷新點記錄
+    skill_group_id: 1145704
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: "1145712"
+    target_id: "1145712"
+    special_spot_add: 1144402:1,1144411:1
+  }
+  {
+    id: 1145705
+    name: 分身3刷新點記錄
+    skill_group_id: 1145705
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: "1145713"
+    target_id: "1145713"
+    special_spot_add: 1144403:1,1144411:1
+  }
+  {
+    id: 1145706
+    name: 分身1刷新點記錄
+    skill_group_id: 1145706
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    data_pool: "1"
+    trigger_id: "1"
+    target_id: "1"
+    special_spot_add: 1144401:1,1144411:1
+    subsidiary_mission_skill: "1145704,1145705"
+  }
+  {
+    id: 1145711
+    name: 分身1死亡回調
+    skill_group_id: 1145711
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144401&&1
+    target_id: 1144401&&1
+    special_spot_minus: 1144411:1
+  }
+  {
+    id: 1145712
+    name: 分身2死亡回調
+    skill_group_id: 1145712
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144402&&1144404
+    target_id: 1144402&&1144404
+    special_spot_minus: 1144411:1
+  }
+  {
+    id: 1145713
+    name: 分身3死亡回調
+    skill_group_id: 1145713
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144403&&1144405
+    target_id: 1144403&&1144405
+    special_spot_minus: 1144411:1
   }
   {
     id: 1150100
