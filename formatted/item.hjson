@@ -13044,6 +13044,24 @@
     rank: 1
   }
   {
+    id: 2341
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_HK416
+    item_name: HK416頭像
+    introduction: HK416頭像
+    rank: 1
+  }
+  {
+    id: 2342
+    type: 5
+    arg: "1"
+    code: card_friendmall_HK416
+    item_name: 名片：塞克特之謎
+    introduction: 名片：塞克特之謎
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -17175,6 +17193,15 @@
     code: profileFrame_BattlePass_Saiga12
     item_name: 頭像框·泡沫密語
     introduction: 頭像框·泡沫密語
+    rank: 1
+  }
+  {
+    id: 200027
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_HK416
+    item_name: 頭像框·藍色咆哮
+    introduction: 頭像框·藍色咆哮
     rank: 1
   }
   {
