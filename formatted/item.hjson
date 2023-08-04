@@ -17190,7 +17190,7 @@
     id: 200026
     type: 1
     arg: "1"
-    code: profileFrame_BattlePass_Saiga12
+    code: profileFrame_BattlePass_Saiga121
     item_name: 頭像框·泡沫密語
     introduction: 頭像框·泡沫密語
     rank: 1
@@ -18143,33 +18143,30 @@
     type: 15
     arg: "1500085"
     code: package_choose
-    item_name: item-11500085
-    introduction: item-21500085
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31500085
   }
   {
     id: 1500086
     type: 15
     arg: "1500086"
     code: package_choose
-    item_name: item-11500086
-    introduction: item-21500086
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31500086
   }
   {
     id: 1500087
     type: 15
     arg: "1500087"
     code: package_choose
-    item_name: item-11500087
-    introduction: item-21500087
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31500087
   }
   {
     id: 1600001
