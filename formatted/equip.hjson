@@ -2858,8 +2858,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: pow:400,hit:400,critical_percent:700
+    passive_skill: "759233"
     max_level: 10
     auto_select_id: 18009
+    equip_group_id: 12
     is_show: 1
     obtain_ids: "3,3049"
   }
@@ -4382,8 +4384,10 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: dodge:400,critical_percent:500
+    passive_skill: "759239"
     max_level: 10
     auto_select_id: 18036
+    equip_group_id: 11
     is_show: 1
     obtain_ids: "3003"
   }
@@ -4515,8 +4519,10 @@
     powerup_part: 0.38
     exclusive_rate: 3
     bonus_type: pow:1500,dodge:700,critical_harm_rate:250
+    passive_skill: "759234"
     max_level: 10
     auto_select_id: 20020
+    equip_group_id: 12
     is_show: 1
     obtain_ids: "3016"
   }
@@ -7247,7 +7253,7 @@
     max_level: 10
     auto_select_id: 19032
     is_show: 1
-    obtain_ids: "3009"
+    obtain_ids: "3009,3096"
   }
   {
     id: 243
@@ -8397,7 +8403,7 @@
     max_level: 10
     auto_select_id: 18088
     is_show: 1
-    obtain_ids: "3066"
+    obtain_ids: "3066,3096"
   }
   {
     id: 278
@@ -8622,9 +8628,10 @@
     powerup_part: 0.25
     exclusive_rate: 3
     bonus_type: hit:1000
-    passive_skill: "300903"
+    passive_skill: "300903,759240"
     max_level: 10
     auto_select_id: 19041
+    equip_group_id: 11
     is_show: 1
     obtain_ids: "3016"
   }

@@ -7440,4 +7440,14 @@
     illustrator_cv: yoyo,金元壽子,
     order: 111
   }
+  {
+    id: 30010
+    name: skin-10030010
+    fit_gun: 5
+    voice: 4
+    dialog: skin-20030010
+    note: skin-30030010
+    illustrator_cv: skin-40030010
+    order: 111
+  }
 ]
