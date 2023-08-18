@@ -450,6 +450,11 @@
     name: 流連盛夏
   }
   {
+    id: 91
+    theme_type: 9
+    name: 見習報到日
+  }
+  {
     id: 99
     theme_type: 9
     name: 其他

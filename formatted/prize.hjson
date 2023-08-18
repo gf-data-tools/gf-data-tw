@@ -23616,21 +23616,18 @@
   }
   {
     id: 8533
-    name: prize-10008533
+    name: 通行證68
     item_ids: 140021-1
-    content: prize-20008533
   }
   {
     id: 8534
-    name: prize-10008534
+    name: 通行證98
     item_ids: 140022-1,10606-300,200028-1,2343-1
-    content: prize-20008534
   }
   {
     id: 8535
-    name: prize-10008535
+    name: 通行證30
     item_ids: 140022-1,10606-300,200028-1,2343-1
-    content: prize-20008535
   }
   {
     id: 9101
@@ -24774,6 +24771,74 @@
     content:
       '''
       恭喜你在「代號玖：閉弦」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勛章*60，指揮官經驗*2000，頭像「鐫刻印記」
+      初次領取元帥榮譽郵件將解鎖頭像框·將星閃耀
+      '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10778
+    name: 少校榮譽
+    user_exp: 30
+    item_ids: 106-5,2357-1,200008-1
+    content:
+      '''
+      恭喜你在「代號拾：冕環」賽季中，獲得少校榮譽，獎勵：拉弗伯雷勳章*5，指揮官經驗*30，頭像「錨定思緒」
+      初次領取少校榮譽郵件將解鎖頭像框·決勝火線
+      '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10779
+    name: 中校榮譽
+    user_exp: 60
+    item_ids: 106-10
+    content: 恭喜你在「代號拾：冕環」賽季中，獲得中校榮譽，獎勵：拉弗伯雷勳章*10，指揮官經驗*60
+    icon: Medal_Chess
+  }
+  {
+    id: 10780
+    name: 上校榮譽
+    user_exp: 100
+    item_ids: 106-20
+    content: 恭喜你在「代號拾：冕環」賽季中，獲得上校榮譽，獎勵：拉弗伯雷勳章*20，指揮官經驗*100
+    icon: Medal_Chess
+  }
+  {
+    id: 10781
+    name: 少將榮譽
+    user_exp: 200
+    item_ids: 106-30,2358-1,200007-1
+    content:
+      '''
+      恭喜你在「代號拾：冕環」賽季中，獲得少將榮譽，獎勵：拉弗伯雷勳章*30，指揮官經驗*200，頭像「橋接願景」
+      初次領取少將榮譽郵件將解鎖頭像框·運籌帷幄
+      '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10782
+    name: 中將榮譽
+    user_exp: 500
+    item_ids: 106-40
+    content: 恭喜你在「代號拾：冕環」賽季中，獲得中將榮譽，獎勵：拉弗伯雷勳章*40，指揮官經驗*500
+    icon: Medal_Chess
+  }
+  {
+    id: 10783
+    name: 上將榮譽
+    user_exp: 1000
+    item_ids: 106-50
+    content: 恭喜你在「代號拾：冕環」賽季中，獲得上將榮譽，獎勵：拉弗伯雷勳章*50，指揮官經驗*1000
+    icon: Medal_Chess
+  }
+  {
+    id: 10784
+    name: 元帥榮譽
+    user_exp: 2000
+    item_ids: 106-60,2359-1,200006-1
+    content:
+      '''
+      恭喜你在「代號拾：冕環」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勳章*60，指揮官經驗*2000，頭像「共感誓約」
       初次領取元帥榮譽郵件將解鎖頭像框·將星閃耀
       '''
     icon: Medal_Chess
@@ -35635,7 +35700,7 @@
   {
     id: 30203
     name: 8條線獎勵
-    gift: 7606-1
+    gift: 8612-1
     icon: Bumdle_blue
   }
   {
@@ -45644,29 +45709,25 @@
   }
   {
     id: 120082
-    name: prize-10120082
+    name: 增量補給-15級
     item_ids: 41-30,1500091-1
-    content: prize-20120082
   }
   {
     id: 120083
-    name: prize-10120083
+    name: 增量補給-25級
     item_ids: 41-30
     gift: 30010-1
-    content: prize-20120083
   }
   {
     id: 120084
-    name: prize-10120084
+    name: 增量補給-35級
     item_ids: 41-30,1500092-1
-    content: prize-20120084
   }
   {
     id: 120085
-    name: prize-10120085
+    name: 增量補給-45級
     gem: 680
     item_ids: 1500093-1
-    content: prize-20120085
   }
   {
     id: 121001
@@ -45845,21 +45906,18 @@
   }
   {
     id: 130031
-    name: prize-10130031
+    name: 前線協議額外獎勵-11
     item_ids: 1500094-1
-    content: prize-20130031
   }
   {
     id: 130032
-    name: prize-10130032
+    name: 基礎付費展示獎勵-11
     item_ids: 602-1,1500091-1,1500092-1,505-680
-    content: prize-20130032
   }
   {
     id: 130033
-    name: prize-10130033
+    name: 進階付費展示獎勵-11
     item_ids: 10606-300,200028-1,2343-1
-    content: prize-20130033
   }
   {
     id: 140001
@@ -46379,51 +46437,43 @@
   }
   {
     id: 140101
-    name: prize-10140101
+    name: 必得未解鎖人形序標-Kar98k
     gun_id: "46"
-    content: prize-20140101
   }
   {
     id: 140102
-    name: prize-10140102
+    name: 必得未解鎖人形序標-卡爾卡諾M91/38
     gun_id: "198"
-    content: prize-20140102
   }
   {
     id: 140103
-    name: prize-10140103
+    name: 必得未解鎖人形序標-內蓋夫
     gun_id: "112"
-    content: prize-20140103
   }
   {
     id: 140104
-    name: prize-10140104
+    name: 必得未解鎖人形序標-89式自
     gun_id: "290"
-    content: prize-20140104
   }
   {
     id: 140105
-    name: prize-10140105
+    name: 必得未解鎖人形序標-SR-3MP
     gun_id: "135"
-    content: prize-20140105
   }
   {
     id: 140106
-    name: prize-10140106
+    name: 必得未解鎖人形序標-HS.50
     gun_id: "348"
-    content: prize-20140106
   }
   {
     id: 140107
-    name: prize-10140107
+    name: 必得未解鎖人形序標-A-545
     gun_id: "356"
-    content: prize-20140107
   }
   {
     id: 140108
-    name: prize-10140108
+    name: 必得未解鎖人形序標-MG4
     gun_id: "125"
-    content: prize-20140108
   }
   {
     id: 150001

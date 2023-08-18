@@ -9328,6 +9328,160 @@
     normal_description: 贈送獲得相應好感度
   }
   {
+    id: 8601
+    name: DP-12-危情使命
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 282
+    skin: 8601
+    poster: 38601
+    code: gift_bundle_OfficeLady2023_DP12
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8602
+    name: LTLX7000-忙線小姐
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 323
+    skin: 8602
+    poster: 38602
+    code: gift_bundle_OfficeLady2023_LTLX7000
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8603
+    name: 灰熊MkⅤ-轄區菁英
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 96
+    skin: 8603
+    poster: 38603
+    code: gift_bundle_OfficeLady2023_Grizzly
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8604
+    name: Savage 99-繪夢日常
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 334
+    skin: 8604
+    poster: 38604
+    code: gift_bundle_OfficeLady2023_Savage99
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8605
+    name: AK-12-露契婭
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 206
+    skin: 8605
+    poster: 38605
+    code: gift_bundle_OfficeLady2023_AK12
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8606
+    name: AN-94-安提婭
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 205
+    skin: 8606
+    poster: 38606
+    code: gift_bundle_OfficeLady2023_AN94
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8607
+    name: AK-15-艾爾文
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 293
+    skin: 8607
+    poster: 38607
+    code: gift_bundle_OfficeLady2023_AK15
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8608
+    name: RPK-16-蕾娜特
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 292
+    skin: 8608
+    poster: 38608
+    code: gift_bundle_OfficeLady2023_RPK16
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8609
+    name: G36-摩卡合夥人
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 64
+    skin: 8609
+    poster: 38609
+    code: gift_bundle_OfficeLady2023_G36
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8610
+    name: 6P62-6P62的Offer
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 138
+    skin: 8610
+    poster: 38610
+    code: gift_bundle_OfficeLady2023_6P62
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8612
+    name: StG44-神探特助
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 61
+    skin: 8612
+    poster: 38612
+    code: gift_bundle_OfficeLady2023_STG44
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     type: 2
@@ -9455,7 +9609,7 @@
   }
   {
     id: 30010
-    name: gift_item-10030010
+    name: 納甘左輪-碧波號手
     type: 2
     rank: 6
     favor: 50000
@@ -9463,10 +9617,9 @@
     skin: 30010
     poster: 330010
     code: gift_bundle_BattlePass_M1895
-    bonus_description: gift_item-30030010
-    description: gift_item-50030010
-    detail_introduction: gift_item-40030010
-    normal_description: gift_item-20030010
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
   }
   {
     id: 100001

@@ -13066,20 +13066,180 @@
     type: 5
     arg: "1"
     code: card_BattlePass_M1895
-    item_name: item-10002343
-    introduction: item-20002343
+    item_name: 名片：沉船的秘密
+    introduction: 名片：沉船的秘密
     rank: 1
-    detail_introduction: item-30002343
   }
   {
     id: 2344
     type: 5
     arg: "1"
     code: profilePic_BattlePass_M1895
-    item_name: item-10002344
-    introduction: item-20002344
+    item_name: 納甘左輪-碧波號手
+    introduction: 納甘左輪-碧波號手
     rank: 1
-    detail_introduction: item-30002344
+  }
+  {
+    id: 2345
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_DP12
+    item_name: DP-12-危情使命
+    introduction: DP-12-危情使命
+    rank: 1
+  }
+  {
+    id: 2346
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_LTLX7000
+    item_name: LTLX7000-忙線小姐
+    introduction: LTLX7000-忙線小姐
+    rank: 1
+  }
+  {
+    id: 2347
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_Grizzly
+    item_name: 灰熊MkⅤ-轄區菁英
+    introduction: 灰熊MkⅤ-轄區菁英
+    rank: 1
+  }
+  {
+    id: 2348
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_Savage99
+    item_name: Savage 99-繪夢日常
+    introduction: Savage 99-繪夢日常
+    rank: 1
+  }
+  {
+    id: 2349
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_AK12
+    item_name: AK-12-露契婭
+    introduction: AK-12-露契婭
+    rank: 1
+  }
+  {
+    id: 2350
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_AN94
+    item_name: AN-94-安提婭
+    introduction: AN-94-安提婭
+    rank: 1
+  }
+  {
+    id: 2351
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_AK15
+    item_name: AK-15-艾爾文
+    introduction: AK-15-艾爾文
+    rank: 1
+  }
+  {
+    id: 2352
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_RPK16
+    item_name: RPK-16-蕾娜特
+    introduction: RPK-16-蕾娜特
+    rank: 1
+  }
+  {
+    id: 2353
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_G36
+    item_name: G36-摩卡合夥人
+    introduction: G36-摩卡合夥人
+    rank: 1
+  }
+  {
+    id: 2354
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_6P62
+    item_name: 6P62-6P62的Offer
+    introduction: 6P62-6P62的Offer
+    rank: 1
+  }
+  {
+    id: 2356
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_STG44
+    item_name: StG44-神探特助
+    introduction: StG44-神探特助
+    rank: 1
+  }
+  {
+    id: 2357
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season12_1
+    item_name: 錨定思緒 · 代號拾：冕環
+    introduction: 錨定思緒 · 代號拾：冕環
+    rank: 1
+  }
+  {
+    id: 2358
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season12_2
+    item_name: 橋接願景 · 代號拾：冕環
+    introduction: 橋接願景 · 代號拾：冕環
+    rank: 1
+  }
+  {
+    id: 2359
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season12_3
+    item_name: 共感誓約 · 代號拾：冕環
+    introduction: 共感誓約 · 代號拾：冕環
+    rank: 1
+  }
+  {
+    id: 2360
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_STG44
+    item_name: id占用
+    introduction: id占用
+    rank: 1
+  }
+  {
+    id: 2361
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_STG44
+    item_name: id占用
+    introduction: id占用
+    rank: 1
+  }
+  {
+    id: 2362
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_STG44
+    item_name: id占用
+    introduction: id占用
+    rank: 1
+  }
+  {
+    id: 2363
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_STG44
+    item_name: id占用
+    introduction: id占用
+    rank: 1
   }
   {
     id: 4001
@@ -14110,7 +14270,6 @@
     item_name: 思域迷航PT
     introduction: 思域迷航PT
     rank: 1
-    sort: -999
   }
   {
     id: 10603
@@ -14215,20 +14374,18 @@
     type: 18
     arg: "10706"
     code: daily_points
-    item_name: item-10010706
-    introduction: item-20010706
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
     rank: 1
-    detail_introduction: item-30010706
   }
   {
     id: 10707
     type: 18
     arg: "10707"
     code: daily_points
-    item_name: item-10010707
-    introduction: item-20010707
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
     rank: 1
-    detail_introduction: item-30010707
   }
   {
     id: 100001
@@ -17004,20 +17161,16 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: item-10140021
-    introduction: item-20140021
+    item_name: *榴彈捕手
     rank: 1
-    detail_introduction: item-30140021
   }
   {
     id: 140022
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: item-10140022
-    introduction: item-20140022
+    item_name: *榴彈捕手
     rank: 1
-    detail_introduction: item-30140022
   }
   {
     id: 160001
@@ -17259,10 +17412,9 @@
     type: 1
     arg: "1"
     code: profileFrame_BattlePass_M1895
-    item_name: item-10200028
-    introduction: item-20200028
+    item_name: 頭像框·濱海航跡
+    introduction: 頭像框·濱海航跡
     rank: 1
-    detail_introduction: item-30200028
   }
   {
     id: 900030
@@ -18233,77 +18385,70 @@
     type: 15
     arg: "1500088"
     code: package_choose
-    item_name: item-11500088
-    introduction: item-21500088
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31500088
   }
   {
     id: 1500089
     type: 15
     arg: "1500089"
     code: package_choose
-    item_name: item-11500089
-    introduction: item-21500089
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31500089
   }
   {
     id: 1500090
     type: 15
     arg: "1500090"
     code: package_choose
-    item_name: item-11500090
-    introduction: item-21500090
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31500090
   }
   {
     id: 1500091
     type: 15
     arg: "1500091"
     code: package_choose
-    item_name: item-11500091
-    introduction: item-21500091
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-寶藏灣的夏日，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31500091
   }
   {
     id: 1500092
     type: 15
     arg: "1500092"
     code: package_choose
-    item_name: item-11500092
-    introduction: item-21500092
+    item_name: 彈匣類裝備自選序標
+    introduction: 來自於前線協議-寶藏灣的夏日，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31500092
   }
   {
     id: 1500093
     type: 15
     arg: "1500093"
     code: package_random
-    item_name: item-11500093
-    introduction: item-21500093
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-寶藏灣的夏日，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
-    detail_introduction: item-31500093
   }
   {
     id: 1500094
     type: 15
     arg: "1500094"
     code: package_random
-    item_name: item-11500094
-    introduction: item-21500094
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-寶藏灣的夏日，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
-    detail_introduction: item-31500094
   }
   {
     id: 1600001

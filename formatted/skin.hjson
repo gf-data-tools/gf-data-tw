@@ -7367,6 +7367,113 @@
     class_id: 90
   }
   {
+    id: 8601
+    name: DP-12-危情使命
+    fit_gun: 282
+    voice: 4
+    dialog: 「提前一小時出發」的確是我的指令，這是基於您的人氣和潛在的劫匪數量所做的專業決策……嗯？您的臉怎麼白了？只是個小玩笑而已。
+    order: 114
+    class_id: 91
+  }
+  {
+    id: 8602
+    name: LTLX7000-忙線小姐
+    fit_gun: 323
+    voice: 4
+    dialog: 請給我配一套軟呼呼的辦公傢具和抱枕！打電話確認外勤訂單已經夠折磨了，辦公條件再這麼陰暗的話，我就要崩潰當機了！
+    gift_position: "-131.5,93.7"
+    order: 114
+    class_id: 91
+  }
+  {
+    id: 8603
+    name: 灰熊MkⅤ-轄區菁英
+    fit_gun: 96
+    voice: 4
+    dialog: 六次碰瓷、三次搶劫、兩次襲警……這點工作量連格里芬日常的零頭都不到！喝完這一杯，再想想去哪兒找點刺激吧……
+    gift_position: "-123.5,-25.6"
+    order: 114
+    class_id: 91
+  }
+  {
+    id: 8604
+    name: Savage 99-繪夢日常
+    fit_gun: 334
+    voice: 4
+    dialog: 別催別催，本繪師正在努力趕稿！……桌面上那些奇奇怪怪的視窗？當然是收集靈感用的！
+    order: 114
+    class_id: 91
+  }
+  {
+    id: 8605
+    name: AK-12-露契婭
+    fit_gun: 206
+    voice: 4
+    dialog: 「天賦卓絕者？」安潔真有眼光，我的確是這裡最棒的那個，你也這麼覺得，對吧，指揮官？安啦，別擔心，我們會保護好你的，但如果想要我幫你賺錢，下次就雇我來當CEO吧~
+    gift_position: "-125.62,-161.2"
+    order: 114
+    class_id: 91
+  }
+  {
+    id: 8606
+    name: AN-94-安提婭
+    fit_gun: 205
+    voice: 4
+    dialog: 您好，我是AN94，從今天開始擔當您的護衛工……不，抱歉，我忘了現在是偽裝狀態，請放心，我預習過秘書工作的要領……另外，請不用在意12的話，她只是有些興奮。
+    gift_position: "-113.7,-150"
+    order: 114
+    class_id: 91
+  }
+  {
+    id: 8607
+    name: AK-15-艾爾文
+    fit_gun: 293
+    voice: 4
+    dialog: 安潔為我取名為「利刃」，因為我的潛入身份就是保鏢。很抱歉，我無法作為一般職員融入，但我會保證您的安全，不論面對任何人……或任何事。
+    gift_position: "-13,-150"
+    order: 114
+    class_id: 91
+  }
+  {
+    id: 8608
+    name: RPK-16-蕾娜特
+    fit_gun: 292
+    voice: 4
+    dialog: 即便是在如此和平的世界，就在這狹小的空間內，明明應該有著同一目標的夥伴，也彼此有著不同的心思，人類就是因此才讓人覺得有趣……安心吧，指揮官，至少，我站在你這邊喔。
+    gift_position: "-29.8,-150"
+    order: 114
+    class_id: 91
+  }
+  {
+    id: 8609
+    name: G36-摩卡合夥人
+    fit_gun: 64
+    voice: 4
+    dialog: 鑑於過去一年的愉快合作，我已在續約合同中添加特別條款：之後每次見面，我都會親自為您製作特調咖啡……沒有異議的話，請在這裡簽字。
+    order: 114
+    class_id: 91
+  }
+  {
+    id: 8610
+    name: 6P62-6P62的Offer
+    fit_gun: 138
+    voice: 4
+    dialog: 「簽約吧，這是一個你絕對無法拒絕的未來……」怎麼樣，指揮官？有志青年們一定會被我新擬的招募標語深深打動！壯大格里芬指日可待啦！
+    illustrator_cv: --,井上麻里奈,
+    order: 114
+    class_id: 91
+  }
+  {
+    id: 8612
+    name: StG44-神探特助
+    fit_gun: 61
+    voice: 4
+    dialog: 如您所料，事務所周圍果然出現了可疑訊號。「裡應外合」抓捕計劃現在啟動……好的，請您也注意安全。一會兒見。
+    illustrator_cv: ditto,白砂沙帆,
+    order: 114
+    class_id: 91
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57
@@ -7442,12 +7549,11 @@
   }
   {
     id: 30010
-    name: skin-10030010
+    name: 納甘左輪-碧波號手
     fit_gun: 5
     voice: 4
-    dialog: skin-20030010
-    note: skin-30030010
-    illustrator_cv: skin-40030010
+    dialog: 只要像這樣吹奏小號，忠誠的海鷗朋友們就會聚到沉船周圍，替我們搜尋寶藏！嘿嘿，現在您終於相信帶上我是個正確的選擇了吧？
+    illustrator_cv: yoyo,篠原成美,
     order: 111
   }
 ]
