@@ -3,7 +3,7 @@
     id: 1
     integration_switch: 1-1
     sub: 1
-    name: mission-10000001
+    name: 熱身運動
     difficulty: 10000
     exp_parameter: 48
     type: "2"
@@ -19,7 +19,6 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     support_available: 2
-    mission_describe: mission-20000001
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: "10000,99;0,0;0,0;0,0"

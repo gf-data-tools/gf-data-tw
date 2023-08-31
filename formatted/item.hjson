@@ -13206,6 +13206,24 @@
     rank: 1
   }
   {
+    id: 2360
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_AUG
+    item_name: AUG頭像
+    introduction: AUG頭像
+    rank: 1
+  }
+  {
+    id: 2361
+    type: 5
+    arg: "1"
+    code: card_friendmall_AUG
+    item_name: 名片：潔白的勇氣
+    introduction: 名片：潔白的勇氣
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -17379,6 +17397,16 @@
     item_name: 頭像框·濱海航跡
     introduction: 頭像框·濱海航跡
     rank: 1
+  }
+  {
+    id: 200029
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_AUG
+    item_name: item-10200029
+    introduction: item-20200029
+    rank: 1
+    detail_introduction: item-30200029
   }
   {
     id: 900030
