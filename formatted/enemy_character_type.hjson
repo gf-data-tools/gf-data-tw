@@ -20585,6 +20585,31 @@
     enemy_illustration_id: 185
   }
   {
+    id: 900547
+    type: 1
+    name: 娜希斯
+    enemy_info: 捕获Boss
+    code: BossNarciss
+    maxlife: 115000
+    pow: 32
+    hit: 60
+    dodge: 120
+    range: 5
+    speed: 30
+    number: 1
+    angle: 180
+    rate: 40
+    boss_hp: 115000
+    def: 2000
+    level: 100
+    character: 精英,必殺,義體
+    normal_attack: 750881
+    effect_ratio: 1
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 215
+  }
+  {
     id: 910101
     type: 1
     name: K2

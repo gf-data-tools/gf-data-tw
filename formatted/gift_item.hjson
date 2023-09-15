@@ -9622,6 +9622,20 @@
     normal_description: 贈送獲得相應好感度
   }
   {
+    id: 30011
+    name: SPAS-15-匹茲堡小姐
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 366
+    skin: 30011
+    poster: 330011
+    code: gift_bundle_BattlePass_SPAS15
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
     id: 100001
     name: 波板糖
     type: 1
