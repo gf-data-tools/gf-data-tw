@@ -495,9 +495,9 @@
     name: AK-47-戰爭之王
     fit_gun: 58
     voice: 4
-    is_hidden: 1
     dialog: BOSS！如果你想在戰場上活下來，就跟我一起留下一個很酷的疤痕吧！
     order: 5
+    class_id: 99
   }
   {
     id: 502
@@ -7472,6 +7472,61 @@
     illustrator_cv: ditto,白砂沙帆,
     order: 114
     class_id: 91
+  }
+  {
+    id: 8701
+    name: PA-15-踏光而來的夜
+    fit_gun: 260
+    voice: 4
+    dialog: 此刻，夜只為我閃耀。準備好了嗎？3、2、1——
+    order: 116
+    class_id: 92
+  }
+  {
+    id: 8702
+    name: QBU-191-為你而作的歌
+    fit_gun: 388
+    voice: 4
+    dialog: 白鳥飛過湖泊，金色的陽光再次灑滿大地，新的一天，新的一切……指揮官，謝謝你，讓我想再次為這個世界歌唱。
+    gift_position: "-96.4,14.32"
+    order: 116
+    class_id: 92
+  }
+  {
+    id: 8703
+    name: 劉氏步槍-東方有佳人
+    fit_gun: 316
+    voice: 4
+    dialog: 「有位佳人，在水一方。」欸，指揮官，看到我的歌舞，你怎麼很吃驚的樣子？哦，那個啊……為了演出效果，舞台上多撒了一點點純金打造的金箔，很漂亮吧。
+    order: 116
+    class_id: 92
+  }
+  {
+    id: 8704
+    name: G28-花與風的詩
+    fit_gun: 146
+    voice: 4
+    dialog: 今天天氣真好，我還采了這麼多漂亮的花。指揮官，見面分一半，希望花香能讓你擁有好心情！
+    order: 116
+    class_id: 92
+  }
+  {
+    id: 8705
+    name: M14-曳雲霞旋舞時
+    fit_gun: 37
+    voice: 4
+    dialog: 我還是第一次嘗試這種樣式的裙子呢，真好看！就是跳舞的時候總擔心裙擺，嘿嘿……謝謝指揮官，M14感激不盡！
+    order: 116
+    class_id: 92
+  }
+  {
+    id: 8706
+    name: RMB-93-杯酒繾綣的吻
+    fit_gun: 159
+    voice: 4
+    dialog: 今天為您提供特別的調酒服務，要來一杯嗎，指揮官？……不，這是工作之外的服務內容，噓，用舌尖感受它。
+    order: 116
+    class_id: 92
   }
   {
     id: 30001

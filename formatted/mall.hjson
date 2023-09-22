@@ -13466,6 +13466,110 @@
     classification_id: 4000
   }
   {
+    id: 5511
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 名士守則
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 95511
+    on_sale_days: 28
+    classification_id: 4000
+  }
+  {
+    id: 5512
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 俏麗風度
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 95512
+    on_sale_days: 28
+    classification_id: 4000
+  }
+  {
+    id: 5520
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 閃耀的資本
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 95520
+    on_sale_days: 28
+    classification_id: 4000
+  }
+  {
+    id: 5531
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 金色年華
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 95531
+    on_sale_days: 28
+    classification_id: 4000
+  }
+  {
+    id: 5532
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 奇卉芬芳
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 95532
+    on_sale_days: 28
+    classification_id: 4000
+  }
+  {
+    id: 5540
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 傍身絕技
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 95540
+    on_sale_days: 28
+    classification_id: 4000
+  }
+  {
+    id: 5551
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 迂迴步
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 95551
+    on_sale_days: 28
+    classification_id: 4000
+  }
+  {
+    id: 5552
+    type: 66
+    gemprice: 400
+    original_price: 500
+    quota: 2001
+    giftbag_name: 側行並步
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 95552
+    on_sale_days: 28
+    classification_id: 4000
+  }
+  {
     id: 10000
     type: 8
     sort: 46
@@ -33281,6 +33385,20 @@
     icon: Bumdle_yuugo01
     discount: 1
     classification_id: 3002
+  }
+  {
+    id: 11572
+    type: 8
+    item_ids: 7-1,41-100
+    gift: 8702-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: QBU-191-為你而作的歌
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin04
+    discount: 1
+    classification_id: 3003
   }
   {
     id: 99001

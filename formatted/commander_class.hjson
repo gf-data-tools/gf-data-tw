@@ -541,6 +541,19 @@
     source_description: 拉弗伯雷兵棋扭蛋機獎勵
   }
   {
+    id: 55
+    name: 華燈初上時
+    description: 燈火輝煌，杯盞相接。交誼、沉醉，亦或精明的狩獵，都將悄然融進翩躚的裙擺，交織出一曲流動的盛宴。
+    group_id: "97"
+    code: commander_5531_icon
+    bonus_plastic: "130022"
+    skill_id: 110
+    path: CLASS55
+    is_class: 1
+    des_year: "2023"
+    source: 1
+  }
+  {
     id: 99
     name: 謊言面具
     description: 埋藏我所思，塑化我所願

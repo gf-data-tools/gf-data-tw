@@ -9482,6 +9482,90 @@
     normal_description: 贈送獲得相應好感度
   }
   {
+    id: 8701
+    name: PA-15-踏光而來的夜
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 260
+    skin: 8701
+    poster: 38701
+    code: gift_bundle_Dancer2023_PA15
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8702
+    name: QBU-191-為你而作的歌
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 388
+    skin: 8702
+    poster: 38702
+    code: gift_bundle_Dancer2023_QBU191
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8703
+    name: 劉氏步槍-東方有佳人
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 316
+    skin: 8703
+    poster: 38703
+    code: gift_bundle_Dancer2023_GeneralLiu
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8704
+    name: G28-花與風的詩
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 146
+    skin: 8704
+    poster: 38704
+    code: gift_bundle_Dancer2023_G28
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8705
+    name: M14-曳雲霞旋舞時
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 37
+    skin: 8705
+    poster: 38705
+    code: gift_bundle_Dancer2023_M14
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8706
+    name: RMB-93-杯酒繾綣的吻
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 159
+    skin: 8706
+    poster: 38706
+    code: gift_bundle_Dancer2023_RMB93
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     type: 2

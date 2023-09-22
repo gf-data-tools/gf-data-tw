@@ -23744,17 +23744,17 @@
   {
     id: 8536
     name: 通行證68
-    item_ids: 140021-1
+    item_ids: 140023-1
   }
   {
     id: 8537
     name: 通行證98
-    item_ids: 140022-1,10606-300,200030-1,2362-1
+    item_ids: 140024-1,10606-300,200030-1,2362-1
   }
   {
     id: 8538
     name: 通行證30
-    item_ids: 140022-1,10606-300,200030-1,2362-1
+    item_ids: 140024-1,10606-300,200030-1,2362-1
   }
   {
     id: 8539
@@ -28586,6 +28586,42 @@
       '''
   }
   {
+    id: 12348
+    name: 12.7mm改良彈
+    equip_ids: "361"
+    content:
+      '''
+      <color=#ffb400>滿校準滿強化屬性</color>
+      傷害+20
+      穿甲+200
+      6P62專用
+      '''
+  }
+  {
+    id: 12349
+    name: Beretta特製晶片
+    equip_ids: "363"
+    content:
+      '''
+      <color=#ffb400>滿校準滿強化屬性</color>
+      傷害+18 射速+25
+      暴擊傷害-50%
+      AR70專用
+      '''
+  }
+  {
+    id: 12350
+    name: MAS特殊彈
+    equip_ids: "362"
+    content:
+      '''
+      <color=#ffb400>滿校準滿強化屬性</color>
+      傷害+5
+      穿甲+500
+      AAT-52專用
+      '''
+  }
+  {
     id: 12401
     name: 糖果口袋
     item_ids: 7001-1
@@ -28866,6 +28902,24 @@
     name: 池魚故夢
     item_ids: 7047-1
     content: 只有倔強的少女才會贊同紅蝶尾金魚的宣言——天空不過是湖泊的倒影。
+  }
+  {
+    id: 12448
+    name: 傾心戀慕
+    item_ids: 7048-1
+    content: 如果看到對方的第0.03秒，視野中突然充滿美妙的光芒，那就是名為一見鍾情的時刻。
+  }
+  {
+    id: 12449
+    name: 律動次元
+    item_ids: 7049-1
+    content: 最簡單的數字化情感隱藏著最純粹的心意，8位元像素便是它所能為你帶來的全部——愛來自心智底層。
+  }
+  {
+    id: 12450
+    name: 漂浮夢境
+    item_ids: 7050-1
+    content: 並非只有幻想中才有一眼望不到邊的花海，也並非只有幻想中才能走進這樣的多彩世界，它也在夢境之外，在你的身邊。
   }
   {
     id: 12501
@@ -44798,6 +44852,54 @@
     icon: chessgahsa_95451
   }
   {
+    id: 95511
+    name: 名士守則
+    send_limit: 1
+    commander_uniform: "5511"
+  }
+  {
+    id: 95512
+    name: 俏麗風度
+    send_limit: 1
+    commander_uniform: "5512"
+  }
+  {
+    id: 95520
+    name: 閃耀的資本
+    send_limit: 1
+    commander_uniform: "5520"
+  }
+  {
+    id: 95531
+    name: 金色年華
+    send_limit: 1
+    commander_uniform: "5531"
+  }
+  {
+    id: 95532
+    name: 奇卉芬芳
+    send_limit: 1
+    commander_uniform: "5532"
+  }
+  {
+    id: 95540
+    name: 傍身絕技
+    send_limit: 1
+    commander_uniform: "5540"
+  }
+  {
+    id: 95551
+    name: 迂迴步
+    send_limit: 1
+    commander_uniform: "5551"
+  }
+  {
+    id: 95552
+    name: 側行併步
+    send_limit: 1
+    commander_uniform: "5552"
+  }
+  {
     id: 99999
     name: 新人首儲獎勵
     mp: 1000
@@ -45907,6 +46009,16 @@
     id: 121005
     name: 第五次光耀舞台
     furniture: "20004"
+  }
+  {
+    id: 121006
+    name: 搖晃的天空
+    furniture: "7242"
+  }
+  {
+    id: 121007
+    name: 嗜睡深淵
+    furniture: "7243"
   }
   {
     id: 130001

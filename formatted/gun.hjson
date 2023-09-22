@@ -10246,7 +10246,7 @@
     effect_guntype: "6"
     effect_grid_pos: "21"
     effect_grid_effect: "2,20"
-    type_equip1: 2;5,17
+    type_equip1: 2;5,17,19
     type_equip2: 1;1,2,3,16
     type_equip3: 3;14,21
     ai: 111
@@ -12384,7 +12384,7 @@
     effect_grid_effect: "2,16;3,75"
     type_equip1: 1;1,2,3,4,13
     type_equip2: 2;8
-    type_equip3: 3;9,10
+    type_equip3: 3;9,10,20
     ai: 134
     launch_time: 2016-12-21 00:00:00
     obtain_ids: "101"
@@ -12771,7 +12771,7 @@
     effect_grid_pos: "18"
     effect_grid_effect: "1,35"
     type_equip1: 1;1,2,3,4,13
-    type_equip2: 2;5,8
+    type_equip2: 2;5,8,19
     type_equip3: 3;9,10
     ai: 138
     launch_time: 2017-01-21 00:00:00

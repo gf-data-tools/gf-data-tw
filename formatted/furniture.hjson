@@ -19481,6 +19481,42 @@
     interact_point_offset: *0,0.06,0
   }
   {
+    id: 7242
+    name: 搖晃的天空
+    classes: 72
+    type: 201
+    space: "7,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 名為「蹺蹺板」的遊樂設施，曾因安全隱患而被人類拆除。不過對於基地裡喜歡尋找刺激的小個子人形而言，卻是消耗精力的絕佳玩具——什麼？建築師正準備用它彈射火藥？！快逃啊！！！
+    code: qjyd_20230901_deco_1,qjyd_20230901_deco_2,qjyd_20230901_deco_3
+    texture_type: "2,2,2"
+    sorting: "20,10,0"
+    offset: "0,0,0|0.010427,0.062562,0|0,0.062562,0"
+    rotate: "2,2,2"
+    interact_point: "872421,872422"
+    interact_point_offset: "0,0,0|0,0,0"
+    touch_area: "4,4,0"
+  }
+  {
+    id: 7243
+    name: 嗜睡深淵
+    classes: 72
+    type: 201
+    space: "6,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 外表凶惡的巨型鯊鯊，卻意外收穫了基地人形爭先恐後的偏愛。據說只要把腦袋伸進去，便會瞬間墜入如深海般寧靜悠長的神奇休眠，連指揮官這樣的人類也不能免俗。
+    code: qjyd_20230902_deco
+    texture_type: "2"
+    sorting: "20"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "87243"
+    interact_point_offset: *-2.567,0.911,0.000
+    touch_area: "4,4,0"
+  }
+  {
     id: 7301
     name: 水族館-地板
     classes: 73
@@ -39292,6 +39328,96 @@
     decompose_gift: 100003
     description: StG44的海報
     code: poster_OfficeLady2023_STG44
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38701
+    name: PA-15-踏光而來的夜
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PA-15的海報。
+    code: poster_Dancer2023_PA15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38702
+    name: QBU-191-為你而作的歌
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: QBU-191的海報。
+    code: poster_Dancer2023_QBU191
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38703
+    name: 劉氏步槍-東方有佳人
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 劉氏步槍的海報。
+    code: poster_Dancer2023_GeneralLiu
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38704
+    name: G28-花與風的詩
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G28的海報。
+    code: poster_Dancer2023_G28
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38705
+    name: M14-曳雲霞旋舞時
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M14的海報。
+    code: poster_Dancer2023_M14
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38706
+    name: RMB-93-杯酒繾綣的吻
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: RMB-93的海報。
+    code: poster_Dancer2023_RMB93
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

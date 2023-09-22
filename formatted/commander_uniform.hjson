@@ -3292,6 +3292,146 @@
     color_icon_id: "957"
   }
   {
+    id: 5511
+    name: 名士守則
+    description: 精心梳理、髮蠟定型、纖絲一束……得體的髮型是邀請舞伴的必要前提。
+    code: Head1
+    icon: commander_5511_icon
+    type: 1
+    gender: 1
+    uniform_class: "55"
+    color_normal: Commander_5511_N
+    color_0: Commander_5511_0
+    color_1: Commander_5511_1
+    color_2: Commander_5511_2
+    color_3: Commander_5511_3
+    color_4: Commander_5511_4
+    color_icon_id: "900,901,902,903,904,905"
+  }
+  {
+    id: 5512
+    name: 俏麗風度
+    description: 輕羽飛揚，純白花束吐露芬芳……不俗的禮帽是淑女最好的名片。
+    code: Head2
+    icon: commander_5512_icon
+    type: 1
+    gender: 2
+    uniform_class: "55"
+    color_normal: Commander_5512_N
+    color_0: Commander_5512_0
+    color_1: Commander_5512_1
+    color_2: Commander_5512_2
+    color_3: Commander_5512_3
+    color_4: Commander_5512_4
+    color_icon_id: "906,907,908,909,910,911"
+  }
+  {
+    id: 5520
+    name: 閃耀的資本
+    description: 華美的舞會自有其標榜的「格調」。而能在此處固守古怪的品位，不僅需要眼光，更需要豁出一切的氣勢。
+    code: HeadAcco
+    icon: commander_5520_icon
+    type: 2
+    uniform_class: "55"
+    color_normal: Commander_5520_N
+    color_0: Commander_5520_0
+    color_1: Commander_5520_1
+    color_2: Commander_5520_2
+    color_3: Commander_5520_3
+    color_4: Commander_5520_4
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "0.297,0.353"
+    color_icon_id: "912,913,914,915,916,917"
+  }
+  {
+    id: 5531
+    name: 金色年華
+    description: 華麗繁複的剪裁下，醞釀著生機勃勃的野心。「將手交給我，世界將因我們而轉動。」
+    code: Body1
+    icon: commander_5531_icon
+    type: 3
+    gender: 1
+    uniform_class: "55"
+    color_normal: Commander_5531_N
+    color_0: Commander_5531_0
+    color_1: Commander_5531_1
+    color_2: Commander_5531_2
+    color_3: Commander_5531_3
+    color_4: Commander_5531_4
+    color_icon_id: "918,919,920,921,922,923"
+  }
+  {
+    id: 5532
+    name: 奇卉芬芳
+    description: 柔美的錦緞不過是慣常的偽裝。令人難以抗拒，才是她行動的宗旨。「這一刻，我將親手挑選命運。」
+    code: Body2
+    icon: commander_5532_icon
+    type: 3
+    gender: 2
+    uniform_class: "55"
+    color_normal: Commander_5532_N
+    color_0: Commander_5532_0
+    color_1: Commander_5532_1
+    color_2: Commander_5532_2
+    color_3: Commander_5532_3
+    color_4: Commander_5532_4
+    color_icon_id: "924,925,926,927,928,929"
+  }
+  {
+    id: 5540
+    name: 傍身絕技
+    description: 起舞不過是社交的手段。隱藏在舞步後的那些不為人知的吹拉彈唱的本事，或許才是此人立足的關鍵。
+    code: BodyAcco
+    icon: commander_5540_icon
+    type: 4
+    uniform_class: "55"
+    color_normal: Commander_5540_N
+    color_0: Commander_5540_0
+    color_1: Commander_5540_1
+    color_2: Commander_5540_2
+    color_3: Commander_5540_3
+    color_4: Commander_5540_4
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.123,0.007"
+    color_icon_id: "930,931,932,933,934,935"
+  }
+  {
+    id: 5551
+    name: 迂迴步
+    description: 以引領者之姿邁出堅定的步伐。迴旋、環繞、曲折前行……
+    code: Foot1
+    icon: commander_5551_icon
+    type: 5
+    gender: 1
+    uniform_class: "55"
+    color_normal: Commander_5551_N
+    color_0: Commander_5551_0
+    color_1: Commander_5551_1
+    color_2: Commander_5551_2
+    color_3: Commander_5551_3
+    color_4: Commander_5551_4
+    color_icon_id: "936,937,938,939,940,941"
+  }
+  {
+    id: 5552
+    name: 側行併步
+    description: 腳尖如利刃般劃開波浪，朝著目之所及的方向，疾轉、追行……
+    code: Foot2
+    icon: commander_5552_icon
+    type: 5
+    gender: 2
+    uniform_class: "55"
+    color_normal: Commander_5552_N
+    color_0: Commander_5552_0
+    color_1: Commander_5552_1
+    color_2: Commander_5552_2
+    color_3: Commander_5552_3
+    color_4: Commander_5552_4
+    color_icon_id: "942,943,944,945,946,947"
+  }
+  {
     id: 9920
     name: 活力偽裝
     description: 永遠展現最好的我。
