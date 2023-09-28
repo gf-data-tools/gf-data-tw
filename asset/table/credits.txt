@@ -1,5 +1,5 @@
 credits-10000001,少女前線
-credits-10000002,主要聲優//nCHARACTER VOICE//n//n
+credits-10000002,主要聲優
 credits-10000003,ST AR-15//nM4 SOPMODII//nRO635//nAN-94//nAK-12//nRPK-16//nAK-15//nUMP45//nUMP9//nHK416//nG11//nM4A1//nM16A1
 credits-10000004,加藤英美里//n田村ゆかり//n福原綾香//n沼倉愛美//n和氣あず未//n渕上舞//n甲斐田裕子//n嶺內ともみ//n能登麻美子//n野中藍//n福原綾香//n戶松遙//n山根希美
 credits-10000005,特別鳴謝
@@ -9,15 +9,15 @@ credits-10000008,製作  GAME DESIGN//nMica-team雲母組//n上海散爆網絡�
 credits-20210001,Schicksal
 credits-20210002,Composer & Arranger: Moto//c D.Yi//nVocalist: Kinoko蘑菇//nLyricist: Mira.Z//nProduce: Vanguard Sound
 credits-20210003,The previous definition has been blurred//nAll the past is like a long river//nWith you we silently stood on the bank//nWho would have thought it?//nBeing caught in the whirlpool of tragedy
-credits-20210004,Shading into numbness my fear//nI'm on the verge of losing my mind//nThe flame of war lit up the lifeless sky//nIt's so beautiful//nHave I seen the light before?
+credits-20210004,Shading into numbness my fear//nI'm on the verge of losing my mind//nThe flame of war lit up the lifeless sky//nIt’s so beautiful//nHave I seen the light before?
 credits-20210005,Look back on history//nCountries set up and split//nPeople gather and leave//nThe tree leaves fall//nThen claims new green//nSo//c I believe in someday
 credits-20210006,Tenderly twilight will come//nThe shining stars tell the end//nNo matter I'm in heaven or hell//nAlways I hear the voice hidden in the wind//nNever bend your knees or lower your head//nIs this my destiny?
-credits-20210007,Still holding bravery? My friend//nOr crouching in the dark without a cry//nCome//c look up the sky//nDo you see the lemon moon?//nI can see meanwhile//nWe will meet again soon//c it's true
+credits-20210007,Still holding bravery? My friend//nOr crouching in the dark without a cry//nCome//c look up the sky//nDo you see the lemon moon?//nI can see meanwhile//nWe will meet again soon//c it’s true
 credits-20210008,Tenderly twilight will come//nThe shining stars tell//nThe end//nNo matter I'm in heaven or hell//nAlways I hear the voice hidden in the wind//nNever bend your knees or lower your head
 credits-20210009,Beneath the birch//nRustling sigh//nFuzzy memory is polished
 credits-20210010,Tenderly twilight will come//nThe shining stars tell the end//nNo matter I'm in heaven or hell//nAlways I hear the voice hidden in the wind//nNever bend your knees or lower your head//nThis is my destiny
 credits-20220001,Solar Sea
-credits-20220002,歌手Vocalist：Kinoko_蘑菇//n作曲Composer：GhostFinal//n作詞Lyricist：大九_LN//n聲樂指導Vocal Director：D.Yi//n錄音Recording Engineer：Mason//n製作Produce：Vanguard Sound
+credits-20220002,歌手Vocalist：Kinoko_蘑菇//n作曲Composer：GhostFinal//n作词Lyricist：大九_LN//n声乐指导Vocal Director：D.Yi//n录音Recording Engineer：Mason//n制作Produce：Vanguard Sound
 credits-20220003,I climb over and over mountains//nI cross over and over visions//nThat is gonna make it all the way //nTo the last intrusion
 credits-20220004,It's a Bill you really have to pay//nUntil the day you go down on knees//nMy old friend//c what else do you wanna say
 credits-20220005,A sweet song spellbound//nA lullaby of wounds//nThe only thing I did wrong was I've waited so long
@@ -32,87 +32,3 @@ credits-20220013,Awake from long dream//nSieged by solar sea//nNo way under endl
 credits-20220014,Let the shadow retrieve//nThe ending comes to where it should be//nBe aware//nWhat you see is not what you achieve
 credits-20220015,Awake from long dream//nSieged by solar sea//nNo way under endless ray to run free
 credits-20220016,Let the shadow retrieve//nThe ending comes to where it should be//nBe aware//nWhat you see is not what you achieve
-credits-20220101,Twilight
-credits-20220102,歌手 Vocalist: Kinoko_蘑菇//n作曲 Composer: GhostFinal//n作詞 Lyricist：大九_LN//n錄音 Recording Engineer: Mason//n製作 Produce: Vanguard-Sound
-credits-20220103,-  Earliest flowers of future bloom through twilight  -//n-  The train leaves away from a long tunnel of death  -
-credits-20220104,-  Who's paid the freight ，Who else knows wrong or right  -//n-  We are gonna be alright alright  -
-credits-20220105,-  A bell's ringing to cast a chill   -//n-  A whistle blows in a trill  -
-credits-20220106,-  The iron snake glides upon a cold rail  -//n-  Beyond the veil， ending the tale  -
-credits-20220107,-  Can we fire our guns to pen the sonnet?  -//n-  Cartridges would be ejected and reloaded  -
-credits-20220108,-  Just like our fate， would be refreshed in codes  -//n-  Live a good mode  -
-credits-20220109,-  Earliest flowers of future bloom through twilight  -//n-  The train leaves away from a long tunnel of death  -
-credits-20220110,-  Who's paid the freight ，Who else knows wrong or right  -//n-  We are gonna be alright alright  -
-credits-20220111,-  Wheels rotate like gears in chains  -//n-  Free hearts from dormant pain   -
-credits-20220112,-  Towards unknown cities chronologically  -//n-  We're gorging ourselves on the bane   -
-credits-20220113,-  Can a bomb spark the night as a firework?  -//n-  Blood on the walls are going stale  -
-credits-20220114,-  Grapple with echoes of ghost addicts most  -//n-  Go back the silent world  -
-credits-20220115,-  Earliest flowers of future bloom through twilight  -//n-  The train leaves away from a long tunnel of death  -
-credits-20220116,-  Who's paid the freight ，Who else knows wrong or right  -//n-  We are gonna be alright alright  -
-credits-20220117,-  Transcontinental stories never end  -//n-  Rains from the sky descend like the pikes  -
-credits-20220118,-  We trust neither forethought nor hindsight  -//n-  When the train stops we just say goodbye  -
-credits-20220119,-  Heading straight to the world of bright  -
-credits-20220120,柳德米拉·帕夫利琴科
-credits-20220121,Lyudmila·Pavlichenko
-credits-20220122,蘇聯國家安全局第七總局/改進作戰訓練隊「Я」教官
-credits-20220123,瑪姬·龐茲
-credits-20220124,Maggie·Ponzi
-credits-20220125,福克斯姐妹會/欺詐師 紅桃皇后
-credits-20220126,艾爾瑪·休謨
-credits-20220127,Erma·Hume
-credits-20220128,人形工程師休謨博士/獨立作品
-credits-20220129,凱瑟琳·龐茲
-credits-20220130,Catherine·Ponzi
-credits-20220131,福克斯姐妹會/欺詐師 撲克小姐
-credits-20220132,瓦列里婭·薩卡洛夫
-credits-20220133,Ms. Valeriya
-credits-20220134,律賊首領/柳芭老媽
-credits-20220135,尤金·魯戈薩
-credits-20220136,Dr. Rugosa
-credits-20220137,迦拉提亞集團外聘/輻射症專家
-credits-20220138,盧卡斯·魯戈薩
-credits-20220139,Lucas·Rugosa
-credits-20220140,魯戈薩診所/人形助理
-credits-20220141,尼古拉·瓦西里耶維奇
-credits-20220142,Nicholas·Vasilyevich
-credits-20220143,律賊成員/「走私大王尼古拉」
-credits-20220144,保爾·馬蒙托夫
-credits-20220145,Pavel·Mamontov
-credits-20220146,西伯利亞生命線工程/通用工業機器人
-credits-20220147,蘿希塔
-credits-20220148,「Rosita」
-credits-20220149,孤兒/廣域性低輻射感染者
-credits-20220150,蘇珊娜
-credits-20220151,Syuzanna
-credits-20220152,洲際列車未來號/乘務員
-credits-20220153,薇拉內爾·杜卡斯
-credits-20220154,Veranell·Dukas
-credits-20220155,帕拉蒂斯/涅托 塔亞柔斯
-credits-20230001,Anna
-credits-20230002,歌手 Vocalist: Soprano: 王柏齡 季韻翬//n Alto: 朱曉雲 李亦驍//nTenor: 鄭瑤 李新宇//nBass: 楊晶晶 欒超傑//n作曲&編曲Composer:GhostFinal//n作詞 Lyricist：大九_LN//n錄音 Recording Engineer: 金宵@NOVASPAXE//n製作 Produce: Vanguard-Sound
-credits-20230003,- Through love and hate With joy and pain -
-credits-20230004,- We never say goodbye Until we have no choice -
-credits-20230005,- For places we’ve been For times we’ve shared -
-credits-20230006,- We raise a glass of smiles and tears Cheer for friendship -
-credits-20230007,- Born in black and white Hopes hide out of sight God of fortune is miserly, right?
-credits-20230008,- When rain batters from sky Piercing eyes with sighs -
-credits-20230009,- The oath was drained by Death sufficed -
-credits-20230010,- Wine on me, let’s drink the taste of fate Loneliness, best flavour for warriors -
-credits-20230011,- Be nameless, be weightless Survived on the only aim -
-credits-20230012,- The sparks in my heart Burnt all paths I found Growing to an old wound -
-credits-20230013,- I heard what howling wolves are proud of Iron and blood -
-credits-20230014,- Dyed dreams by mud Betrayed, invaded For a world more than light and shade -
-credits-20230015,- When the definition fails No more fairy tales -
-credits-20230016,- A princess is a holy knight Heads are tails -
-credits-20230017,- Wine on me, let’s drink the taste of souls Mourning for the kids never play offshore -
-credits-20230018,- Be faceless, be painless Survived without fire cannons -
-credits-20230019,- Wine on me, let’s drink the taste of fist What’s gonna be left in adversity -
-credits-20230020,- Be brave, be wise To witness the last eve -
-credits-20230021,- The sparks in my heart Burnt all paths I found Growing to an old wound -
-credits-20230022,- I heard what howling wolves are proud of Iron and blood -
-credits-20230023,- Dyed dreams by mud Betrayed, invaded For a world more than light and shade -
-credits-20230024,- Through love and hate With joy and pain -
-credits-20230025,- We never say goodbye Until we have no choice -
-credits-20230026,- For stars we’ve watched For nights we’ve stayed -
-credits-20230027,- We raise a glass of smiles and tears Cheer for friendship -
-
-

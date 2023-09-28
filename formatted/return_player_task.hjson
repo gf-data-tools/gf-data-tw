@@ -114,7 +114,7 @@
     type: sangvis_exercise_analysis
     count: 5
     title: 解密練習
-    describe: 完成5次解密演算法練習
+    describe: 完成5次解密算法練習
     function_control_id: 21
     prize_id: 30023
     activity_bonus: 20
@@ -143,8 +143,8 @@
     id: 16
     type: squad_eat_chip_num
     count: 10
-    title: 支援派遣
-    describe: 完成10次自律作戰
+    title: 芯片強化
+    describe: 將10個晶片用於日常強化
     function_control_id: 15
     prize_id: 30026
     activity_bonus: 20
@@ -153,8 +153,8 @@
     id: 17
     type: complete_squad_daily
     count: 3
-    title: 人形交流
-    describe: 向人形或融合勢力贈送10次禮物
+    title: 情報搜集
+    describe: 完成3個情報任務
     function_control_id: 15
     prize_id: 30027
     activity_bonus: 20
@@ -163,8 +163,8 @@
     id: 18
     type: squad_data_analyse
     count: 10
-    title: 作戰行動
-    describe: 戰役中使用10次火力小隊
+    title: 情報解析
+    describe: 進行10次情報解析
     function_control_id: 15
     prize_id: 30028
     activity_bonus: 20

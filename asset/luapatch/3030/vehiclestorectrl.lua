@@ -13,6 +13,11 @@ local _SpineChangeOneComponent = function(self,slot_id,skin)
 		self.fakeComponents[slot_id - 1] = comTmp;
 	end
 	self:SpineChangeOneComponent(slot_id,skin);
+	if self.vehicleSpineBuilder ~=nil and self.vehicleSpineBuilder.transform.childCount == 2 then
+		if self.vehicleSpineBuilder.transform:GetChild(0) ~=nil then
+			CS.Utility.Destroy(self.vehicleSpineBuilder.transform:GetChild(0).gameObject);		
+		end
+	end
 end
 
 local _SpineTakeOffOneSkin = function(self,slot_id)

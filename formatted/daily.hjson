@@ -54,8 +54,8 @@
     mission_type: 2
     type: squad_data_analyse
     count: 4
-    title: 建設：組件獲取
-    content: 獲取6個機動裝甲組件。
+    title: 建設：情報解析
+    content: 進行4次情報解析。
     function_control_id: 15
     prize_id: 8308
     exchange_prize_id: 8315
@@ -148,8 +148,8 @@
     mission_type: 4
     type: complete_squad_daily
     count: 1
-    title: 後勤：模擬演練
-    content: 完成3次融合演習。
+    title: 後勤：情報搜集
+    content: 完成1個情報任務。
     function_control_id: 15
     prize_id: 8308
     exchange_prize_id: 8315
@@ -159,8 +159,8 @@
     mission_type: 4
     type: sangvis_exercise
     count: 3
-    title: 後勤：支援派遣
-    content: 完成1次自律作戰。
+    title: 後勤：模擬演練
+    content: 完成3次融合演習。
     function_control_id: 21
     prize_id: 8308
     exchange_prize_id: 8315
@@ -170,8 +170,8 @@
     mission_type: 4
     type: auto_battle
     count: 1
-    title: 協力：聯合行動
-    content: 從好友處獲得5次共享電池。
+    title: 後勤：支援派遣
+    content: 完成1次自律作戰。
     function_control_id: 15
     prize_id: 8308
     exchange_prize_id: 8315
@@ -182,7 +182,7 @@
     type: from_friend_build_coin
     count: 5
     title: 協力：聯合行動
-    content: 點讚5個其他玩家的宿舍。
+    content: 從好友處獲得5次共享電池。
     prize_id: 8308
     exchange_prize_id: 8315
   }
@@ -192,7 +192,7 @@
     type: like
     count: 5
     title: 協力：聯合行動
-    content: 使用2次好友的支援梯隊。
+    content: 點贊5個好友的宿舍。
     prize_id: 8308
     exchange_prize_id: 8315
   }
@@ -201,8 +201,8 @@
     mission_type: 5
     type: borrow_friend_team
     count: 2
-    title: 其他：區域探索
-    content: 進行1次前進營地的探索。
+    title: 協力：聯合行動
+    content: 使用2次好友的支援梯隊。
     prize_id: 8308
     exchange_prize_id: 8315
   }
@@ -211,8 +211,8 @@
     mission_type: 6
     type: explore
     count: 1
-    title: 其他：協議同歸
-    content: 進行1次收歸行動（包括常規回收和協力回收）。
+    title: 其他：區域探索
+    content: 進行1次前進營地的探索。
     function_control_id: 17
     prize_id: 8308
     exchange_prize_id: 8315
@@ -222,8 +222,8 @@
     mission_type: 6
     type: sangvis_daily_retrieval
     count: 1
-    title: 其他：人形交流
-    content: 收集5顆愛心。
+    title: 其他：協議同歸
+    content: 進行1次收歸行動（包括常規回收和協力回收）。
     function_control_id: 21
     prize_id: 8308
     exchange_prize_id: 8315
@@ -234,7 +234,7 @@
     type: heart_collect
     count: 5
     title: 其他：人形交流
-    content: 向人形或融合勢力贈送1次禮物。
+    content: 收集5顆愛心。
     prize_id: 8308
     exchange_prize_id: 8315
   }
@@ -243,8 +243,8 @@
     mission_type: 6
     type: gift
     count: 1
-    title: daily-10000024
-    content: daily-20000024
+    title: 其他：人形交流
+    content: 向人形或融合勢力贈送1次禮物。
     prize_id: 8308
     exchange_prize_id: 8315
   }
