@@ -12787,6 +12787,74 @@
     content: prize-20001961
   }
   {
+    id: 1962
+    name: 戰術人形:KLIN
+    gun_id: "177"
+    item_ids: 100197-1
+  }
+  {
+    id: 1963
+    name: 戰術人形:芭莉斯塔
+    gun_id: "204"
+    item_ids: 100197-1
+  }
+  {
+    id: 1964
+    name: 戰術人形:蟒蛇
+    gun_id: "4"
+    item_ids: 100198-1
+  }
+  {
+    id: 1965
+    name: 戰術人形:SRS
+    gun_id: "211"
+    item_ids: 100198-1
+  }
+  {
+    id: 1966
+    name: 戰術人形:PM-06
+    gun_id: "224"
+    item_ids: 100198-1
+  }
+  {
+    id: 1967
+    name: 戰術人形:R5
+    gun_id: "289"
+    item_ids: 100198-1
+  }
+  {
+    id: 1968
+    name: 新星勳章
+    item_ids: 100197-1
+  }
+  {
+    id: 1969
+    name: 白金勳章
+    item_ids: 100198-1
+  }
+  {
+    id: 1970
+    name: 傢具：狂野追風
+    furniture: "20110"
+  }
+  {
+    id: 1971
+    name: 2023十月簽到
+    gem: 90
+    equip_ids: "364"
+  }
+  {
+    id: 1972
+    name: 指揮官裝扮-獵風英姿
+    item_ids: 100199-20
+    commander_uniform: "5640,5643"
+  }
+  {
+    id: 1973
+    name: 戰術人形:QBU-191
+    gun_id: "388"
+  }
+  {
     id: 2001
     name: WA2000-古堡歷險
     gift: 6-1
@@ -14919,6 +14987,16 @@
     id: 4320
     name: 頭像：紗那頭像
     item_ids: 2322-1
+  }
+  {
+    id: 4321
+    name: 融合勢力：娜希斯
+    sangvis: "1025"
+  }
+  {
+    id: 4322
+    name: 頭像：娜希斯頭像
+    item_ids: 2372-1
   }
   {
     id: 5001

@@ -122,8 +122,8 @@
   {
     id: 402
     type: 2
-    title: 重裝部隊
-    sub_title: 重裝部隊準備就緒，請前往研發。
+    title: 火力小隊
+    sub_title: 火力小隊準備就緒，請前往研發。
     tutorial_manual_id: 501
     rank: 5
   }
@@ -131,7 +131,7 @@
     id: 403
     type: 2
     title: 戰場支援
-    sub_title: 戰鬥太艱難了？重裝小隊的戰場支援或許能扭轉戰局。
+    sub_title: 戰鬥太艱難了？火力小隊的戰場支援或許能扭轉戰局。
     tutorial_manual_id: 503
     rank: 4
   }

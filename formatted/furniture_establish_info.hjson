@@ -2949,9 +2949,9 @@
   }
   {
     establish_id: "50005"
-    establish_name: 情報中心電線中
+    establish_name: 情報中心裝飾桌
     room_id: "5"
-    description: 情報中心電線中
+    description: 情報中心裝飾桌
     furniture_id: "40051"
     update_furniture_id: "40051"
     furniture_postion: "2,1"
@@ -3596,9 +3596,9 @@
   }
   {
     establish_id: "60001"
-    establish_name: 格納庫地板
+    establish_name: 情報中心牆飾
     room_id: "6"
-    description: 格納庫地板
+    description: 情報中心牆飾
     furniture_id: "40052"
     update_furniture_id: "40052"
     furniture_postion: "2,2"
@@ -3606,9 +3606,9 @@
   }
   {
     establish_id: "60002"
-    establish_name: 格納庫牆紙
+    establish_name: 情報中心燈
     room_id: "6"
-    description: 格納庫牆紙
+    description: 情報中心燈
     furniture_id: "40053"
     update_furniture_id: "40053"
     furniture_postion: "2,2"
@@ -3616,9 +3616,9 @@
   }
   {
     establish_id: "60003"
-    establish_name: 格納庫燈左
+    establish_name: 情報中心植物
     room_id: "6"
-    description: 格納庫燈左
+    description: 情報中心植物
     furniture_id: "40054"
     update_furniture_id: "40054"
     furniture_postion: "16,2"

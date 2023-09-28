@@ -29314,6 +29314,20 @@
     rotate: "2"
   }
   {
+    id: 20110
+    name: 狂野追風
+    classes: 81
+    type: 201
+    space: "9,5,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 還在為買不起炫酷的摩托而遺憾嗎？還在為付不起飆車事故的維修費而懊惱嗎？格琳娜特供電玩摩托車，一比一復刻NTW-20專屬坐騎——體驗1分鐘僅需代寫10張作戰報告書！你值得擁有！
+    code: 2023NationalDay_deco
+    texture_type: "1"
+    offset: "0.000,-0.219,-0.052"
+    rotate: "2"
+  }
+  {
     id: 30001
     name: 馬卡洛夫-南瓜熊熊
     classes: 300

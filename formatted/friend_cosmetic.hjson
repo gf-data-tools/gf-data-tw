@@ -17128,6 +17128,38 @@
     skin: 8706
   }
   {
+    id: 1370
+    item_id: 2370
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    code: profilePic_friendmall_WA2000
+    order: 1
+    rarity: 5
+    event_id: 2888
+  }
+  {
+    id: 1371
+    item_id: 2371
+    sub_type: 2
+    gem: 320
+    item_ids: 508-8000
+    code: card_friendmall_WA2000
+    order: 1
+    rarity: 5
+    event_id: 2891
+  }
+  {
+    id: 1372
+    item_id: 2372
+    sub_type: 1
+    code: profilePic_sangvis_BossNarciss
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    frame_id: 200002
+  }
+  {
     id: 100001
     item_id: 200001
     sub_type: 4
@@ -17394,5 +17426,17 @@
     order: 1
     rarity: 5
     filter_type: "5"
+  }
+  {
+    id: 100031
+    item_id: 200031
+    sub_type: 4
+    gem: 200
+    item_ids: 508-5000
+    code: profileFrame_friendmall_WA2000
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    event_id: 2894
   }
 ]

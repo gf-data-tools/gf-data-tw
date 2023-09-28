@@ -13296,6 +13296,33 @@
     rank: 1
   }
   {
+    id: 2370
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_WA2000
+    item_name: WA2000頭像
+    introduction: WA2000頭像
+    rank: 1
+  }
+  {
+    id: 2371
+    type: 5
+    arg: "1"
+    code: card_friendmall_WA2000
+    item_name: 名片：代號47
+    introduction: 名片：代號47
+    rank: 1
+  }
+  {
+    id: 2372
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_BossNarciss
+    item_name: 娜希斯頭像
+    introduction: 娜希斯頭像
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -16236,6 +16263,33 @@
     daily_limit: "60"
   }
   {
+    id: 100197
+    type: 4
+    arg: "100197"
+    code: Nova_medal_black
+    item_name: 新星勳章
+    introduction: 新星勳章
+    rank: 1
+  }
+  {
+    id: 100198
+    type: 4
+    arg: "100198"
+    code: Platinum_medal_black
+    item_name: 白金勳章
+    introduction: 白金勳章
+    rank: 1
+  }
+  {
+    id: 100199
+    type: 4
+    arg: "100199"
+    code: Bumdle_October2
+    item_name: 霜天悠遊箱
+    introduction: 霜天悠遊箱
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -17559,6 +17613,24 @@
     code: profileFrame_BattlePass_SPAS15
     item_name: 頭像框·聞香識堡
     introduction: 頭像框·聞香識堡
+    rank: 1
+  }
+  {
+    id: 200031
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_WA2000
+    item_name: 頭像框·絳紫色的贈禮
+    introduction: 頭像框·絳紫色的贈禮
+    rank: 1
+  }
+  {
+    id: 900030
+    type: 4
+    arg: "100030"
+    code: Nova_medal
+    item_name: 新星勳章
+    introduction: 新星勳章（日服djmax用）
     rank: 1
   }
   {

@@ -2303,7 +2303,7 @@
     part: 10
     item_ids: 8-1
     title: 訓練開始
-    content: 累計進行1次技能訓練。
+    content: 累計提升人形技能等級1級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2320,7 +2320,7 @@
     part: 20
     item_ids: 8-1
     title: 起步上手
-    content: 累計進行10次技能訓練。
+    content: 累計提升人形技能等級10級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2337,7 +2337,7 @@
     part: 30
     item_ids: 8-2
     title: 熟能生巧
-    content: 累計進行50次技能訓練。
+    content: 累計提升人形技能等級50級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2354,7 +2354,7 @@
     part: 60
     item_ids: 8-2
     title: 千錘百煉
-    content: 累計進行100次技能訓練。
+    content: 累計提升人形技能等級100級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2371,7 +2371,7 @@
     part: 200
     item_ids: 8-3
     title: 輕車熟路
-    content: 累計進行500次技能訓練。
+    content: 累計提升人形技能等級500級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2388,7 +2388,7 @@
     part: 300
     item_ids: 8-3
     title: 最後一課
-    content: 累計進行1000次技能訓練。
+    content: 累計提升人形技能等級1000級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2405,7 +2405,7 @@
     part: 600
     item_ids: 8-5
     title: 鋼鐵是這樣煉成的
-    content: 累計進行2000次技能訓練。
+    content: 累計提升人形技能等級2000級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -4620,7 +4620,7 @@
     part: 1000
     item_ids: 8-6
     title: 第5000條軍規
-    content: 累計進行5000次技能訓練。
+    content: 累計提升人形技能等級5000級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -4636,7 +4636,7 @@
     part: 1300
     item_ids: 8-8
     title: 魔鬼司令
-    content: 累計進行10000次技能訓練。
+    content: 累計提升人形技能等級10000級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -4652,7 +4652,7 @@
     part: 1600
     item_ids: 8-10
     title: 和平經由暴政
-    content: 累計進行20000次技能訓練。
+    content: 累計提升人形技能等級20000級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -8895,7 +8895,7 @@
     part: 10
     item_ids: 8-1
     title: 林間花仙
-    content: 累計進行1次妖精技能升級。
+    content: 累計提升妖精技能等級1級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8912,7 +8912,7 @@
     part: 20
     item_ids: 8-2
     title: 山谷妖精
-    content: 累計進行10次妖精技能升級。
+    content: 累計提升妖精技能等級10級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8929,7 +8929,7 @@
     part: 30
     item_ids: 8-3
     title: 洞穴哥布林
-    content: 累計進行20次妖精技能升級。
+    content: 累計提升妖精技能等級20級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8946,7 +8946,7 @@
     part: 60
     item_ids: 8-4
     title: 溫蒂妮之泉
-    content: 累計進行50次妖精技能升級。
+    content: 累計提升妖精技能等級50級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8962,8 +8962,8 @@
     mre: 500
     part: 200
     item_ids: 8-5
-    title: 礁上塞壬
-    content: 累計進行100次妖精技能升級。
+    title: 礁上賽蓮
+    content: 累計提升妖精技能等級100級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8980,7 +8980,7 @@
     part: 300
     item_ids: 8-6
     title: 報喪女妖
-    content: 累計進行200次妖精技能升級。
+    content: 累計提升妖精技能等級200級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8996,8 +8996,8 @@
     mre: 2000
     part: 600
     item_ids: 8-7
-    title: 戈爾工姐妹
-    content: 累計進行500次妖精技能升級。
+    title: 戈爾貢姐妹
+    content: 累計提升妖精技能等級500級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -9395,11 +9395,12 @@
     count: 1
     user_exp: 30
     item_ids: 15-10
-    title: 殺人許可證
-    content: 首次獲得中樞數據。
+    title: achievement-10000611
+    content: achievement-20000611
     type_sort: 13
     sort: 241
     icon_code: 机密资料
+    commander_title: achievement-30000611
   }
   {
     identity: 612
@@ -9407,11 +9408,12 @@
     count: 10
     user_exp: 60
     item_ids: 15-20
-    title: 鬼牌遊戲
-    content: 累計獲得10個中樞數據。
+    title: achievement-10000612
+    content: achievement-20000612
     type_sort: 13
     sort: 241
     icon_code: 机密资料
+    commander_title: achievement-30000612
     unlock_function: 15
   }
   {
@@ -9420,11 +9422,12 @@
     count: 20
     user_exp: 100
     item_ids: 15-40
-    title: 鍋匠、裁縫、士兵、間諜
-    content: 累計獲得20個中樞數據。
+    title: achievement-10000613
+    content: achievement-20000613
     type_sort: 13
     sort: 241
     icon_code: 机密资料
+    commander_title: achievement-30000613
     unlock_function: 15
   }
   {
@@ -9433,11 +9436,12 @@
     count: 50
     user_exp: 200
     item_ids: 15-60
-    title: 劍橋五人幫
-    content: 累計獲得50個中樞數據。
+    title: achievement-10000614
+    content: achievement-20000614
     type_sort: 13
     sort: 241
     icon_code: 机密资料
+    commander_title: achievement-30000614
     unlock_function: 15
   }
   {
@@ -9446,11 +9450,12 @@
     count: 100
     user_exp: 500
     item_ids: 15-80
-    title: 潘多拉計劃
-    content: 累計獲得100個中樞數據。
+    title: achievement-10000615
+    content: achievement-20000615
     type_sort: 13
     sort: 241
     icon_code: 机密资料
+    commander_title: achievement-30000615
     unlock_function: 15
   }
   {
@@ -9459,11 +9464,12 @@
     count: 200
     user_exp: 1000
     item_ids: 15-100
-    title: 混沌法則
-    content: 累計獲得200個中樞數據。
+    title: achievement-10000616
+    content: achievement-20000616
     type_sort: 13
     sort: 241
     icon_code: 机密资料
+    commander_title: achievement-30000616
     unlock_function: 15
   }
   {
@@ -9472,11 +9478,12 @@
     count: 500
     user_exp: 2000
     item_ids: 15-150
-    title: 愛國者之槍
-    content: 累計獲得500個中樞數據。
+    title: achievement-10000617
+    content: achievement-20000617
     type_sort: 13
     sort: 241
     icon_code: 机密资料
+    commander_title: achievement-30000617
     unlock_function: 15
   }
   {
@@ -9485,11 +9492,12 @@
     count: 1000
     user_exp: 3000
     item_ids: 15-200
-    title: 食蛇者行動
-    content: 累計獲得1000個中樞數據。
+    title: achievement-10000618
+    content: achievement-20000618
     type_sort: 13
     sort: 241
     icon_code: 机密资料
+    commander_title: achievement-30000618
     unlock_function: 15
   }
   {
@@ -9498,11 +9506,12 @@
     count: 2000
     user_exp: 4000
     item_ids: 15-250
-    title: 自由之子
-    content: 累計獲得2000個中樞數據。
+    title: achievement-10000619
+    content: achievement-20000619
     type_sort: 13
     sort: 241
     icon_code: 机密资料
+    commander_title: achievement-30000619
     unlock_function: 15
   }
   {
@@ -9511,11 +9520,12 @@
     count: 5000
     user_exp: 5000
     item_ids: 15-300
-    title: 黑途
-    content: 累計獲得5000個中樞數據。
+    title: achievement-10000620
+    content: achievement-20000620
     type_sort: 13
     sort: 241
     icon_code: 机密资料
+    commander_title: achievement-30000620
     unlock_function: 15
   }
   {
@@ -9580,11 +9590,12 @@
     count: 1
     user_exp: 30
     item_ids: 14-10
-    title: 黑色石碑
-    content: 首次獲得晶片。
+    title: achievement-10000625
+    content: achievement-20000625
     type_sort: 13
     sort: 245
     icon_code: 芯片
+    commander_title: achievement-30000625
     unlock_function: 15
   }
   {
@@ -9593,11 +9604,12 @@
     count: 10
     user_exp: 60
     item_ids: 14-20
-    title: 帕斯卡計算器
-    content: 累計獲得10個晶片。
+    title: achievement-10000626
+    content: achievement-20000626
     type_sort: 13
     sort: 245
     icon_code: 芯片
+    commander_title: achievement-30000626
     unlock_function: 15
   }
   {
@@ -9606,11 +9618,12 @@
     count: 100
     user_exp: 100
     item_ids: 14-40
-    title: 巴貝奇差分機
-    content: 累計獲得100個晶片。
+    title: achievement-10000627
+    content: achievement-20000627
     type_sort: 13
     sort: 245
     icon_code: 芯片
+    commander_title: achievement-30000627
     unlock_function: 15
   }
   {
@@ -9619,11 +9632,12 @@
     count: 500
     user_exp: 200
     item_ids: 14-60
-    title: 亞卡爾織布機
-    content: 累計獲得500個晶片。
+    title: achievement-10000628
+    content: achievement-20000628
     type_sort: 13
     sort: 245
     icon_code: 芯片
+    commander_title: achievement-30000628
     unlock_function: 15
   }
   {
@@ -9632,11 +9646,12 @@
     count: 1000
     user_exp: 500
     item_ids: 14-80
-    title: 何樂禮打孔機
-    content: 累計獲得1000個晶片。
+    title: achievement-10000629
+    content: achievement-20000629
     type_sort: 13
     sort: 245
     icon_code: 芯片
+    commander_title: achievement-30000629
     unlock_function: 15
   }
   {
@@ -9645,11 +9660,12 @@
     count: 2000
     user_exp: 1000
     item_ids: 14-100
-    title: 諾頓瞄准器
-    content: 累計獲得2000個晶片。
+    title: achievement-10000630
+    content: achievement-20000630
     type_sort: 13
     sort: 245
     icon_code: 芯片
+    commander_title: achievement-30000630
     unlock_function: 15
   }
   {
@@ -9658,11 +9674,12 @@
     count: 5000
     user_exp: 2000
     item_ids: 14-150
-    title: 楚澤導引裝置
-    content: 累計獲得5000個晶片。
+    title: achievement-10000631
+    content: achievement-20000631
     type_sort: 13
     sort: 245
     icon_code: 芯片
+    commander_title: achievement-30000631
     unlock_function: 15
   }
   {
@@ -9671,11 +9688,12 @@
     count: 10000
     user_exp: 3000
     item_ids: 14-200
-    title: 費曼的鉛筆
-    content: 累計獲得10000個晶片。
+    title: achievement-10000632
+    content: achievement-20000632
     type_sort: 13
     sort: 245
     icon_code: 芯片
+    commander_title: achievement-30000632
     unlock_function: 15
   }
   {
@@ -9684,11 +9702,12 @@
     count: 20000
     user_exp: 4000
     item_ids: 14-250
-    title: 費米的計算尺
-    content: 累計獲得20000個晶片。
+    title: achievement-10000633
+    content: achievement-20000633
     type_sort: 13
     sort: 245
     icon_code: 芯片
+    commander_title: achievement-30000633
     unlock_function: 15
   }
   {
@@ -9697,11 +9716,12 @@
     count: 30000
     user_exp: 5000
     item_ids: 14-300
-    title: 諾伊曼的大腦
-    content: 累計獲得30000個晶片。
+    title: achievement-10000634
+    content: achievement-20000634
     type_sort: 13
     sort: 245
     icon_code: 芯片
+    commander_title: achievement-30000634
     unlock_function: 15
   }
   {
@@ -9710,11 +9730,12 @@
     count: 1
     user_exp: 30
     item_ids: 15-10
-    title: 結繩記事
-    content: 首次進行數據重構。
+    title: achievement-10000635
+    content: achievement-20000635
     type_sort: 13
     sort: 246
     icon_code: 机密资料
+    commander_title: achievement-30000635
     unlock_function: 15
   }
   {
@@ -9723,11 +9744,12 @@
     count: 10
     user_exp: 60
     item_ids: 15-20
-    title: 罰抄作業
-    content: 累計通過數據重構獲得10個數據補丁。
+    title: achievement-10000636
+    content: achievement-20000636
     type_sort: 13
     sort: 246
     icon_code: 机密资料
+    commander_title: achievement-30000636
     unlock_function: 15
   }
   {
@@ -9736,11 +9758,12 @@
     count: 20
     user_exp: 100
     item_ids: 15-40
-    title: 代書寫手
-    content: 累計通過數據重構獲得20個數據補丁。
+    title: achievement-10000637
+    content: achievement-20000637
     type_sort: 13
     sort: 246
     icon_code: 机密资料
+    commander_title: achievement-30000637
     unlock_function: 15
   }
   {
@@ -9749,11 +9772,12 @@
     count: 50
     user_exp: 200
     item_ids: 15-60
-    title: 抄書修士
-    content: 累計通過數據重構獲得50個數據補丁。
+    title: achievement-10000638
+    content: achievement-20000638
     type_sort: 13
     sort: 246
     icon_code: 机密资料
+    commander_title: achievement-30000638
     unlock_function: 15
   }
   {
@@ -9762,11 +9786,12 @@
     count: 100
     user_exp: 500
     item_ids: 15-80
-    title: 傳經聖僧
-    content: 累計通過數據重構獲得100個數據補丁。
+    title: achievement-10000639
+    content: achievement-20000639
     type_sort: 13
     sort: 246
     icon_code: 机密资料
+    commander_title: achievement-30000639
     unlock_function: 15
   }
   {
@@ -9775,11 +9800,12 @@
     count: 200
     user_exp: 1000
     item_ids: 15-100
-    title: 紙帶打孔
-    content: 累計通過數據重構獲得200個數據補丁。
+    title: achievement-10000640
+    content: achievement-20000640
     type_sort: 13
     sort: 246
     icon_code: 机密资料
+    commander_title: achievement-30000640
     unlock_function: 15
   }
   {
@@ -9788,11 +9814,12 @@
     count: 500
     user_exp: 2000
     item_ids: 15-150
-    title: 磁帶錄音
-    content: 累計通過數據重構獲得500個數據補丁。
+    title: achievement-10000641
+    content: achievement-20000641
     type_sort: 13
     sort: 246
     icon_code: 机密资料
+    commander_title: achievement-30000641
     unlock_function: 15
   }
   {
@@ -9801,11 +9828,12 @@
     count: 1000
     user_exp: 3000
     item_ids: 15-200
-    title: 軟盤寫入
-    content: 累計通過數據重構獲得1000個數據補丁。
+    title: achievement-10000642
+    content: achievement-20000642
     type_sort: 13
     sort: 246
     icon_code: 机密资料
+    commander_title: achievement-30000642
     unlock_function: 15
   }
   {
@@ -9814,11 +9842,12 @@
     count: 2000
     user_exp: 4000
     item_ids: 15-250
-    title: 光盤拷貝
-    content: 累計通過數據重構獲得2000個數據補丁。
+    title: achievement-10000643
+    content: achievement-20000643
     type_sort: 13
     sort: 246
     icon_code: 机密资料
+    commander_title: achievement-30000643
     unlock_function: 15
   }
   {
@@ -9827,11 +9856,12 @@
     count: 5000
     user_exp: 5000
     item_ids: 15-300
-    title: 雲圖備份
-    content: 累計通過數據重構獲得5000個數據補丁。
+    title: achievement-10000644
+    content: achievement-20000644
     type_sort: 13
     sort: 246
     icon_code: 机密资料
+    commander_title: achievement-30000644
     unlock_function: 15
   }
   {
@@ -9840,7 +9870,7 @@
     count: 1
     item_ids: 301-5
     title: 普羅米修斯之火
-    content: 首次使用原始樣本進行情報解析。
+    content: 首次消耗原始樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9854,7 +9884,7 @@
     gem: 10
     item_ids: 14-20
     title: 阿基米德之池
-    content: 累計使用原始數據樣本進行10次情報解析。
+    content: 累計消耗200點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9868,7 +9898,7 @@
     gem: 20
     item_ids: 14-40
     title: 畢達哥拉斯學派
-    content: 累計使用原始數據樣本進行100次情報解析。
+    content: 累計消耗2000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9881,8 +9911,8 @@
     user_exp: 200
     gem: 30
     item_ids: 14-60
-    title: 歐幾里德幾何
-    content: 累計使用原始數據樣本進行200次情報解析。
+    title: 歐幾里得幾何
+    content: 累計消耗4000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9896,7 +9926,7 @@
     gem: 50
     item_ids: 14-80
     title: 托勒密觀天
-    content: 累計使用原始數據樣本進行500次情報解析。
+    content: 累計消耗10000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9909,8 +9939,8 @@
     user_exp: 1000
     gem: 70
     item_ids: 14-100
-    title: 笛卡爾坐標
-    content: 累計使用原始數據樣本進行1000次情報解析。
+    title: 笛卡兒坐標
+    content: 累計消耗20000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9924,7 +9954,7 @@
     gem: 90
     item_ids: 14-150
     title: 萊布尼茲符號
-    content: 累計使用原始數據樣本進行2000次情報解析。
+    content: 累計消耗40000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9938,7 +9968,7 @@
     gem: 120
     item_ids: 14-200
     title: 牛頓的蘋果
-    content: 累計使用原始數據樣本進行5000次情報解析。
+    content: 累計消耗100000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9952,7 +9982,7 @@
     gem: 160
     item_ids: 14-250
     title: 拉格朗日之月
-    content: 累計使用原始數據樣本進行10000次情報解析。
+    content: 累計消耗200000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9966,7 +9996,7 @@
     gem: 200
     item_ids: 14-300
     title: 拉普拉斯的惡魔
-    content: 累計使用原始數據樣本進行20000次情報解析。
+    content: 累計消耗400000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9979,7 +10009,7 @@
     user_exp: 30
     gem: 5
     title: 高斯曲線
-    content: 首次使用純淨數據樣本進行情報解析。
+    content: 首次消耗純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -9992,8 +10022,8 @@
     user_exp: 60
     gem: 10
     item_ids: 15-20
-    title: 祖衝之密率
-    content: 累計使用純淨數據樣本進行10次情報解析。
+    title: 祖沖之密率
+    content: 累計消耗200點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10007,7 +10037,7 @@
     gem: 20
     item_ids: 15-40
     title: 柏拉圖最優
-    content: 累計使用純淨數據樣本進行50次情報解析。
+    content: 累計消耗1000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10021,7 +10051,7 @@
     gem: 30
     item_ids: 15-60
     title: 黎曼函數
-    content: 累計使用純淨數據樣本進行100次情報解析。
+    content: 累計消耗2000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10034,8 +10064,8 @@
     user_exp: 500
     gem: 50
     item_ids: 15-80
-    title: 開普勒猜想
-    content: 累計使用純淨數據樣本進行200次情報解析。
+    title: 克卜勒猜想
+    content: 累計消耗4000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10049,7 +10079,7 @@
     gem: 70
     item_ids: 15-100
     title: 布爾代數
-    content: 累計使用純淨數據樣本進行500次情報解析。
+    content: 累計消耗10000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10063,7 +10093,7 @@
     gem: 90
     item_ids: 15-150
     title: 阿貝爾方程式
-    content: 累計使用純淨數據樣本進行1000次情報解析。
+    content: 累計消耗20000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10076,8 +10106,8 @@
     user_exp: 3000
     gem: 120
     item_ids: 15-200
-    title: 香農信號
-    content: 累計使用純淨數據樣本進行2000次情報解析。
+    title: 向農信號
+    content: 累計消耗40000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10091,7 +10121,7 @@
     gem: 160
     item_ids: 15-250
     title: 圖靈邏輯
-    content: 累計使用純淨數據樣本進行5000次情報解析。
+    content: 累計消耗100000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10104,8 +10134,8 @@
     user_exp: 5000
     gem: 200
     item_ids: 15-300
-    title: 納什均衡
-    content: 累計使用純淨數據樣本進行10000次情報解析。
+    title: 納許均衡
+    content: 累計消耗200000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10118,7 +10148,7 @@
     user_exp: 30
     item_ids: 14-20,15-20
     title: 星星是友情的魔法
-    content: 首次進行重裝部隊晉升。
+    content: 首次進行火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10131,7 +10161,7 @@
     user_exp: 60
     item_ids: 14-40,15-40
     title: 星星是美好的祝福
-    content: 累計進行5次重裝部隊晉升。
+    content: 累計進行5次火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10144,7 +10174,7 @@
     user_exp: 100
     item_ids: 14-60,15-60
     title: 星星是無盡的冒險
-    content: 累計進行10次重裝部隊晉升。
+    content: 累計進行10次火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10157,7 +10187,7 @@
     user_exp: 200
     item_ids: 14-80,15-80
     title: 星星是神秘的世界
-    content: 累計進行20次重裝部隊晉升。
+    content: 累計進行20次火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10170,7 +10200,7 @@
     user_exp: 500
     item_ids: 14-100,15-100
     title: 星星是純愛的詩篇
-    content: 累計進行50次重裝部隊晉升。
+    content: 累計進行50次火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10183,7 +10213,7 @@
     user_exp: 1000
     item_ids: 14-150,15-150
     title: 星星是進擊的人形
-    content: 累計進行100次重裝部隊晉升。
+    content: 累計進行100次火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10195,8 +10225,8 @@
     count: 150
     user_exp: 2000
     item_ids: 14-200,15-200
-    title: 星星是地獄的贊歌
-    content: 累計進行150次重裝部隊晉升。
+    title: 星星是地獄的讚歌
+    content: 累計進行150次火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10209,7 +10239,7 @@
     user_exp: 30
     item_ids: 17-2
     title: 格里芬之心勳章
-    content: 首次將重裝部隊升至滿星。
+    content: 首次將火力小隊升至滿星。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10222,7 +10252,7 @@
     user_exp: 60
     item_ids: 17-4
     title: 格里芬榮譽授帶
-    content: 累計將3個重裝部隊升至滿星。
+    content: 累計將3個火力小隊升至滿星。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10235,7 +10265,7 @@
     user_exp: 100
     item_ids: 17-6
     title: 格里芬十字徽
-    content: 累計將5個重裝部隊升至滿星。
+    content: 累計將5個火力小隊升至滿星。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10248,7 +10278,7 @@
     user_exp: 200
     item_ids: 17-8
     title: 格里芬英雄獎
-    content: 累計將10個重裝部隊升至滿星。
+    content: 累計將10個火力小隊升至滿星。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10261,7 +10291,7 @@
     user_exp: 500
     item_ids: 17-10
     title: 格里芬名人堂
-    content: 累計將20個重裝部隊升至滿星。
+    content: 累計將20個火力小隊升至滿星。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10274,7 +10304,7 @@
     user_exp: 1000
     item_ids: 17-20
     title: 格里芬英靈殿
-    content: 累計將30個重裝部隊升至滿星。
+    content: 累計將30個火力小隊升至滿星。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10287,7 +10317,7 @@
     user_exp: 30
     item_ids: 17-2
     title: 坦克獵手
-    content: 首次將重裝部隊升至滿級。
+    content: 首次將火力小隊升至滿級。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10299,8 +10329,8 @@
     count: 3
     user_exp: 60
     item_ids: 17-4
-    title: 裝甲克星
-    content: 累計將3個重裝部隊升至滿級。
+    title: 裝甲剋星
+    content: 累計將3個火力小隊升至滿級。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10312,8 +10342,8 @@
     count: 5
     user_exp: 100
     item_ids: 17-6
-    title: 鐵血清道夫
-    content: 累計將5個重裝部隊升至滿級。
+    title: 敵軍清道夫
+    content: 累計將5個火力小隊升至滿級。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10326,7 +10356,7 @@
     user_exp: 200
     item_ids: 17-8
     title: 戰地割草機
-    content: 累計將10個重裝部隊升至滿級。
+    content: 累計將10個火力小隊升至滿級。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10339,7 +10369,7 @@
     user_exp: 500
     item_ids: 17-10
     title: 自走式天災
-    content: 累計將20個重裝部隊升至滿級。
+    content: 累計將20個火力小隊升至滿級。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10352,7 +10382,7 @@
     user_exp: 1000
     item_ids: 17-20
     title: 大規模毀滅性武器
-    content: 累計將30個重裝部隊升至滿級。
+    content: 累計將30個火力小隊升至滿級。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10364,11 +10394,12 @@
     count: 1
     user_exp: 30
     item_ids: 46-10
-    title: 練習從不嫌多
-    content: 首次完成重裝部隊經驗訓練。
+    title: achievement-10000684
+    content: achievement-20000684
     type_sort: 14
     sort: 266
     icon_code: 支援小队经验训练
+    commander_title: achievement-30000684
     unlock_function: 15
   }
   {
@@ -10377,11 +10408,12 @@
     count: 10
     user_exp: 60
     item_ids: 46-20
-    title: 好好學習，天天向上
-    content: 累計完成10小時重裝部隊經驗訓練。
+    title: achievement-10000685
+    content: achievement-20000685
     type_sort: 14
     sort: 266
     icon_code: 支援小队经验训练
+    commander_title: achievement-30000685
     unlock_function: 15
   }
   {
@@ -10390,11 +10422,12 @@
     count: 100
     user_exp: 100
     item_ids: 46-30
-    title: 恭喜，你們剛從蛆蟲畢業了
-    content: 累計完成100小時重裝部隊經驗訓練。
+    title: achievement-10000686
+    content: achievement-20000686
     type_sort: 14
     sort: 266
     icon_code: 支援小队经验训练
+    commander_title: achievement-30000686
     unlock_function: 15
   }
   {
@@ -10403,11 +10436,12 @@
     count: 200
     user_exp: 200
     item_ids: 46-50
-    title: 流一桶汗好過灑一桶血
-    content: 累計完成200小時重裝部隊經驗訓練。
+    title: achievement-10000687
+    content: achievement-20000687
     type_sort: 14
     sort: 266
     icon_code: 支援小队经验训练
+    commander_title: achievement-30000687
     unlock_function: 15
   }
   {
@@ -10416,11 +10450,12 @@
     count: 500
     user_exp: 500
     item_ids: 46-80
-    title: 合理的要求是訓練
-    content: 累計完成500小時重裝部隊經驗訓練。
+    title: achievement-10000688
+    content: achievement-20000688
     type_sort: 14
     sort: 266
     icon_code: 支援小队经验训练
+    commander_title: achievement-30000688
     unlock_function: 15
   }
   {
@@ -10429,11 +10464,12 @@
     count: 1000
     user_exp: 1000
     item_ids: 46-100
-    title: 不合理的要求是磨練
-    content: 累計完成1000小時重裝部隊經驗訓練。
+    title: achievement-10000689
+    content: achievement-20000689
     type_sort: 14
     sort: 266
     icon_code: 支援小队经验训练
+    commander_title: achievement-30000689
     unlock_function: 15
   }
   {
@@ -10442,11 +10478,12 @@
     count: 2000
     user_exp: 2000
     item_ids: 46-150
-    title: 輕鬆的日子只限昨天
-    content: 累計完成2000小時重裝部隊經驗訓練。
+    title: achievement-10000690
+    content: achievement-20000690
     type_sort: 14
     sort: 266
     icon_code: 支援小队经验训练
+    commander_title: achievement-30000690
     unlock_function: 15
   }
   {
@@ -10455,11 +10492,12 @@
     count: 5000
     user_exp: 3000
     item_ids: 46-200
-    title: 是故勝兵先勝而後求戰
-    content: 累計完成5000小時重裝部隊經驗訓練。
+    title: achievement-10000691
+    content: achievement-20000691
     type_sort: 14
     sort: 266
     icon_code: 支援小队经验训练
+    commander_title: achievement-30000691
     unlock_function: 15
   }
   {
@@ -10468,11 +10506,12 @@
     count: 10000
     user_exp: 4000
     item_ids: 46-250
-    title: 和平只是中場休息
-    content: 累計完成10000小時重裝部隊經驗訓練。
+    title: achievement-10000692
+    content: achievement-20000692
     type_sort: 14
     sort: 266
     icon_code: 支援小队经验训练
+    commander_title: achievement-30000692
     unlock_function: 15
   }
   {
@@ -10481,11 +10520,12 @@
     count: 20000
     user_exp: 5000
     item_ids: 46-300
-    title: 我變強了
-    content: 累計完成20000小時重裝部隊經驗訓練。
+    title: achievement-10000693
+    content: achievement-20000693
     type_sort: 14
     sort: 266
     icon_code: 支援小队经验训练
+    commander_title: achievement-30000693
     unlock_function: 15
   }
   {
@@ -10494,7 +10534,7 @@
     count: 1
     user_exp: 30
     title: 精密射擊訓練
-    content: 首次完成重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級1級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10507,7 +10547,7 @@
     count: 10
     user_exp: 60
     title: 壓制火力訓練
-    content: 累計完成10次重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級10級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10520,7 +10560,7 @@
     count: 20
     user_exp: 100
     title: 陣地轉移訓練
-    content: 累計完成20次重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級20級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10533,7 +10573,7 @@
     count: 50
     user_exp: 200
     title: 快速開火訓練
-    content: 累計完成50次重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級50級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10546,7 +10586,7 @@
     count: 100
     user_exp: 500
     title: 偽裝隱蔽訓練
-    content: 累計完成100次重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級100級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10559,7 +10599,7 @@
     count: 200
     user_exp: 1000
     title: 目標選定訓練
-    content: 累計完成200次重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級200級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10572,7 +10612,7 @@
     count: 500
     user_exp: 2000
     title: 地圖改寫訓練
-    content: 累計完成500次重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級500級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10586,7 +10626,7 @@
     user_exp: 30
     item_ids: 17-2
     title: 初試啼聲
-    content: 首次進行重裝部隊迭代。
+    content: 首次進行火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10599,7 +10639,7 @@
     user_exp: 60
     item_ids: 17-4
     title: 戰地轟鳴
-    content: 累計進行5次重裝部隊迭代。
+    content: 累計進行5次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10612,7 +10652,7 @@
     user_exp: 100
     item_ids: 17-6
     title: 報時鐘響
-    content: 累計進行10次重裝部隊迭代。
+    content: 累計進行10次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10625,7 +10665,7 @@
     user_exp: 200
     item_ids: 17-8
     title: 滾進彈幕
-    content: 累計進行20次重裝部隊迭代。
+    content: 累計進行20次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10638,7 +10678,7 @@
     user_exp: 500
     item_ids: 17-10
     title: 交叉火網
-    content: 累計進行50次重裝部隊迭代。
+    content: 累計進行50次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10650,8 +10690,8 @@
     count: 100
     user_exp: 1000
     item_ids: 17-15
-    title: 殺戮區域
-    content: 累計進行100次重裝部隊迭代。
+    title: 戰鬥區域
+    content: 累計進行100次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10664,7 +10704,7 @@
     user_exp: 2000
     item_ids: 17-20
     title: 導彈管弦樂
-    content: 累計進行200次重裝部隊迭代。
+    content: 累計進行200次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10677,7 +10717,7 @@
     user_exp: 3000
     item_ids: 17-30
     title: 炮火華爾茲
-    content: 累計進行300次重裝部隊迭代。
+    content: 累計進行300次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10689,11 +10729,12 @@
     count: 1
     user_exp: 30
     item_ids: 14-10
-    title: 晶片拆解
-    content: 首次進行晶片拆解。
+    title: achievement-10000709
+    content: achievement-20000709
     type_sort: 14
     sort: 269
     icon_code: 芯片
+    commander_title: achievement-30000709
     unlock_function: 15
   }
   {
@@ -10702,11 +10743,12 @@
     count: 10
     user_exp: 60
     item_ids: 14-20
-    title: 怒砸鍵盤
-    content: 累計拆解10個晶片。
+    title: achievement-10000710
+    content: achievement-20000710
     type_sort: 14
     sort: 269
     icon_code: 芯片
+    commander_title: achievement-30000710
     unlock_function: 15
   }
   {
@@ -10715,11 +10757,12 @@
     count: 100
     user_exp: 100
     item_ids: 14-40
-    title: 憤拆顯卡
-    content: 累計拆解100個晶片。
+    title: achievement-10000711
+    content: achievement-20000711
     type_sort: 14
     sort: 269
     icon_code: 芯片
+    commander_title: achievement-30000711
     unlock_function: 15
   }
   {
@@ -10728,11 +10771,12 @@
     count: 200
     user_exp: 200
     item_ids: 14-60
-    title: 手撕主機板
-    content: 累計拆解200個晶片。
+    title: achievement-10000712
+    content: achievement-20000712
     type_sort: 14
     sort: 269
     icon_code: 芯片
+    commander_title: achievement-30000712
     unlock_function: 15
   }
   {
@@ -10741,11 +10785,12 @@
     count: 500
     user_exp: 500
     item_ids: 14-80
-    title: 腳踢處理器
-    content: 累計拆解500個晶片。
+    title: achievement-10000713
+    content: achievement-20000713
     type_sort: 14
     sort: 269
     icon_code: 芯片
+    commander_title: achievement-30000713
     unlock_function: 15
   }
   {
@@ -10754,11 +10799,12 @@
     count: 1000
     user_exp: 1000
     item_ids: 14-100
-    title: 火烤主電源
-    content: 累計拆解1000個晶片。
+    title: achievement-10000714
+    content: achievement-20000714
     type_sort: 14
     sort: 269
     icon_code: 芯片
+    commander_title: achievement-30000714
     unlock_function: 15
   }
   {
@@ -10767,11 +10813,12 @@
     count: 2000
     user_exp: 2000
     item_ids: 14-150
-    title: 水洗硬碟
-    content: 累計拆解2000個晶片。
+    title: achievement-10000715
+    content: achievement-20000715
     type_sort: 14
     sort: 269
     icon_code: 芯片
+    commander_title: achievement-30000715
     unlock_function: 15
   }
   {
@@ -10780,11 +10827,12 @@
     count: 5000
     user_exp: 3000
     item_ids: 14-200
-    title: 淚濺內存
-    content: 累計拆解5000個晶片。
+    title: achievement-10000716
+    content: achievement-20000716
     type_sort: 14
     sort: 269
     icon_code: 芯片
+    commander_title: achievement-30000716
     unlock_function: 15
   }
   {
@@ -10793,11 +10841,12 @@
     count: 10000
     user_exp: 4000
     item_ids: 14-250
-    title: 魂斷顯示器
-    content: 累計拆解10000個晶片。
+    title: achievement-10000717
+    content: achievement-20000717
     type_sort: 14
     sort: 269
     icon_code: 芯片
+    commander_title: achievement-30000717
     unlock_function: 15
   }
   {
@@ -10806,11 +10855,12 @@
     count: 1
     user_exp: 30
     item_ids: 14-10
-    title: 晶片強化
-    content: 首次進行晶片強化。
+    title: achievement-10000718
+    content: achievement-20000718
     type_sort: 14
     sort: 270
     icon_code: 芯片
+    commander_title: achievement-30000718
     unlock_function: 15
   }
   {
@@ -10819,11 +10869,12 @@
     count: 10
     user_exp: 60
     item_ids: 14-20
-    title: 超頻入門者
-    content: 累計通過強化消耗10個晶片。
+    title: achievement-10000719
+    content: achievement-20000719
     type_sort: 14
     sort: 270
     icon_code: 芯片
+    commander_title: achievement-30000719
     unlock_function: 15
   }
   {
@@ -10832,11 +10883,12 @@
     count: 100
     user_exp: 100
     item_ids: 14-40
-    title: 超頻練習者
-    content: 累計通過強化消耗100個晶片。
+    title: achievement-10000720
+    content: achievement-20000720
     type_sort: 14
     sort: 270
     icon_code: 芯片
+    commander_title: achievement-30000720
     unlock_function: 15
   }
   {
@@ -10845,11 +10897,12 @@
     count: 200
     user_exp: 200
     item_ids: 14-60
-    title: 超頻修行者
-    content: 累計通過強化消耗200個晶片。
+    title: achievement-10000721
+    content: achievement-20000721
     type_sort: 14
     sort: 270
     icon_code: 芯片
+    commander_title: achievement-30000721
     unlock_function: 15
   }
   {
@@ -10858,11 +10911,12 @@
     count: 500
     user_exp: 500
     item_ids: 14-80
-    title: 超頻挑戰者
-    content: 累計通過強化消耗500個晶片。
+    title: achievement-10000722
+    content: achievement-20000722
     type_sort: 14
     sort: 270
     icon_code: 芯片
+    commander_title: achievement-30000722
     unlock_function: 15
   }
   {
@@ -10871,11 +10925,12 @@
     count: 1000
     user_exp: 1000
     item_ids: 14-100
-    title: 超頻幻想者
-    content: 累計通過強化消耗1000個晶片。
+    title: achievement-10000723
+    content: achievement-20000723
     type_sort: 14
     sort: 270
     icon_code: 芯片
+    commander_title: achievement-30000723
     unlock_function: 15
   }
   {
@@ -10884,11 +10939,12 @@
     count: 2000
     user_exp: 2000
     item_ids: 14-150
-    title: 超頻悟道者
-    content: 累計通過強化消耗2000個晶片。
+    title: achievement-10000724
+    content: achievement-20000724
     type_sort: 14
     sort: 270
     icon_code: 芯片
+    commander_title: achievement-30000724
     unlock_function: 15
   }
   {
@@ -10897,11 +10953,12 @@
     count: 5000
     user_exp: 3000
     item_ids: 14-200
-    title: 超頻飛升者
-    content: 累計通過強化消耗5000個晶片。
+    title: achievement-10000725
+    content: achievement-20000725
     type_sort: 14
     sort: 270
     icon_code: 芯片
+    commander_title: achievement-30000725
     unlock_function: 15
   }
   {
@@ -10910,11 +10967,12 @@
     count: 10000
     user_exp: 4000
     item_ids: 14-250
-    title: 超頻君臨者
-    content: 累計通過強化消耗10000個晶片。
+    title: achievement-10000726
+    content: achievement-20000726
     type_sort: 14
     sort: 270
     icon_code: 芯片
+    commander_title: achievement-30000726
     unlock_function: 15
   }
   {
@@ -10923,11 +10981,12 @@
     count: 20000
     user_exp: 5000
     item_ids: 14-300
-    title: 超頻天外客
-    content: 累計通過強化消耗20000個晶片。
+    title: achievement-10000727
+    content: achievement-20000727
     type_sort: 14
     sort: 270
     icon_code: 芯片
+    commander_title: achievement-30000727
     unlock_function: 15
   }
   {
@@ -13508,7 +13567,7 @@
     user_exp: 30
     item_ids: 515-100,516-80
     title: 初窺門道
-    content: 首次完成融合勢力單位技能訓練。
+    content: 累計提升融合勢力單位技能等級1級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13521,7 +13580,7 @@
     user_exp: 60
     item_ids: 515-150,516-100
     title: 勤加磨煉
-    content: 累積完成融合勢力單位技能訓練10次。
+    content: 累計提升融合勢力單位技能等級10級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13534,7 +13593,7 @@
     user_exp: 100
     item_ids: 515-200,516-150
     title: 小有所成
-    content: 累積完成融合勢力單位技能訓練50次。
+    content: 累計提升融合勢力單位技能等級50級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13547,7 +13606,7 @@
     user_exp: 200
     item_ids: 515-220,516-180
     title: 百煉成鋼
-    content: 累積完成融合勢力單位技能訓練100次。
+    content: 累計提升融合勢力單位技能等級100級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13560,7 +13619,7 @@
     user_exp: 500
     item_ids: 515-260,516-220
     title: 撰寫論文
-    content: 累積完成融合勢力單位技能訓練500次。
+    content: 累計提升融合勢力單位技能等級500級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13573,7 +13632,7 @@
     user_exp: 1000
     item_ids: 515-300,516-250
     title: 技巧的指針
-    content: 累積完成融合勢力單位技能訓練1000次。
+    content: 累計提升融合勢力單位技能等級1000級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13586,7 +13645,7 @@
     user_exp: 2000
     item_ids: 515-350,516-300
     title: 規律的天平
-    content: 累積完成融合勢力單位技能訓練2000次。
+    content: 累計提升融合勢力單位技能等級2000級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13599,7 +13658,7 @@
     user_exp: 3000
     item_ids: 515-400,516-350
     title: 汗水的成果
-    content: 累積完成融合勢力單位技能訓練5000次。
+    content: 累計提升融合勢力單位技能等級5000級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13612,7 +13671,7 @@
     user_exp: 4000
     item_ids: 515-450,516-400
     title: 以戰證道
-    content: 累積完成融合勢力單位技能訓練10000次。
+    content: 累計提升融合勢力單位技能等級10000級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13625,7 +13684,7 @@
     user_exp: 5000
     item_ids: 515-500,516-450
     title: 返璞歸真
-    content: 累積完成融合勢力單位技能訓練20000次。
+    content: 累計提升融合勢力單位技能等級20000級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练

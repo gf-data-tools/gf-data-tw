@@ -554,6 +554,18 @@
     source: 1
   }
   {
+    id: 56
+    name: 沙場點兵
+    description: 那是弓刀上黏滯的白雪，城牆邊壓境的黑雲……臨陣之前，記得將恐懼深埋心間，將使命背負於身後。
+    group_id: "98"
+    code: commander_5640_icon
+    path: CLASS56
+    is_class: 1
+    des_year: "2023"
+    source: 2
+    source_description: 節慶簽到
+  }
+  {
     id: 99
     name: 謊言面具
     description: 埋藏我所思，塑化我所願

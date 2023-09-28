@@ -11,7 +11,7 @@
   }
   {
     id: 2
-    name: 資料採樣低級排行
+    name: 資料採樣初級排行
     type: 2
     sub_type: "1"
     refresh: week:7:0

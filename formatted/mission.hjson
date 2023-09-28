@@ -317,7 +317,7 @@
     map_information: "3000,2625|-3490,-3097|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "769"
+    draw_event_s_id: "944"
     support_available: 2
     reinforce_ally_team: "10"
     round_config: 1:1,2:2,3:3
@@ -460,7 +460,7 @@
     map_information: "3000,2625|-3485,-3106|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "769"
+    draw_event_s_id: "944"
     support_available: 2
     reinforce_ally_team: "14"
     round_config: 1:1,2:2,3:3
@@ -666,7 +666,7 @@
     map_information: "4096,3584|4096,3595|243,-182"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "770"
+    draw_event_s_id: "945"
     support_available: 2
     reinforce_ally_team: "20"
     round_config: 1:1,2:2,3:3
@@ -809,7 +809,7 @@
     map_information: "4096,3584|4096,3595|243,-182"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "770"
+    draw_event_s_id: "945"
     support_available: 2
     reinforce_ally_team: "24"
     round_config: 1:1,2:2,3:3
@@ -1015,7 +1015,7 @@
     map_information: "3724,3265|4214,3617|-5,-70"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "771"
+    draw_event_s_id: "946"
     support_available: 2
     reinforce_ally_team: "30"
     round_config: 1:1,2:2,3:3
@@ -1158,7 +1158,7 @@
     map_information: "3724,3265|4214,3617|-5,-70"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "771"
+    draw_event_s_id: "946"
     support_available: 2
     reinforce_ally_team: "34"
     round_config: 1:1,2:2,3:3
@@ -1364,7 +1364,7 @@
     map_information: "3770,3299|4257,3799|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "772"
+    draw_event_s_id: "947"
     support_available: 2
     reinforce_ally_team: "40"
     round_config: 1:1,2:2,3:3
@@ -1507,7 +1507,7 @@
     map_information: "3770,3299|4257,3799|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "772"
+    draw_event_s_id: "947"
     support_available: 2
     reinforce_ally_team: "44"
     round_config: 1:1,2:2,3:3
@@ -1708,7 +1708,7 @@
     map_information: "4656,3951|4001,3647|-575,393"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "773"
+    draw_event_s_id: "948"
     support_available: 2
     reinforce_ally_team: "50"
     round_config: 1:1,2:2,3:3
@@ -1847,7 +1847,7 @@
     map_information: "4656,3951|4001,3647|-575,393"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "773"
+    draw_event_s_id: "948"
     support_available: 2
     reinforce_ally_team: "54"
     round_config: 1:1,2:2,3:3
@@ -2047,7 +2047,7 @@
     map_information: "4000,3751|4500,3667|17,283"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "774"
+    draw_event_s_id: "949"
     support_available: 2
     reinforce_ally_team: "60"
     round_config: 1:1,2:2,3:3
@@ -2186,7 +2186,7 @@
     map_information: "4000,3751|4500,4251|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "774"
+    draw_event_s_id: "949"
     support_available: 2
     reinforce_ally_team: "64"
     round_config: 1:1,2:2,3:3
