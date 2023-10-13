@@ -25,7 +25,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -44,7 +43,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -63,7 +61,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -82,7 +79,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -101,7 +97,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -120,7 +116,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -139,7 +135,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -158,7 +154,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -177,7 +173,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -212,7 +208,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -231,7 +226,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -250,7 +244,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -269,7 +262,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -288,7 +280,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -307,7 +299,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -326,7 +318,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -345,7 +337,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -364,7 +356,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -399,7 +391,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -418,7 +409,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -437,7 +427,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -456,7 +445,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -475,7 +463,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -494,7 +482,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -513,7 +501,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -532,7 +520,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -551,7 +539,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -586,7 +574,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -605,7 +592,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -624,7 +610,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -643,7 +628,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -662,7 +646,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -681,7 +665,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -700,7 +684,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -719,7 +703,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -738,7 +722,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -773,7 +757,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -792,7 +775,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -811,7 +793,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -830,7 +811,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -849,7 +829,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -868,7 +848,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -887,7 +867,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -906,7 +886,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -925,7 +905,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -960,7 +940,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -979,7 +958,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -998,7 +976,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1017,7 +994,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1036,7 +1012,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1055,7 +1031,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1074,7 +1050,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1093,7 +1069,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1112,7 +1088,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1147,7 +1123,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1166,7 +1141,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1185,7 +1159,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1204,7 +1177,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1223,7 +1195,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1242,7 +1214,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1261,7 +1233,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1280,7 +1252,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1299,7 +1271,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -1318,7 +1290,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time: 1
     consumption: 2
     data_pool: "3"
@@ -1334,10 +1306,9 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time: 1
     consumption: 2
     data_pool: "3.5"
@@ -1353,10 +1324,9 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time: 1
     consumption: 2
     data_pool: "4"
@@ -1372,10 +1342,9 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time: 1
     consumption: 2
     data_pool: "4.5"
@@ -1391,10 +1360,9 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time: 1
     consumption: 2
     data_pool: "5"
@@ -1410,10 +1378,10 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time: 1
     consumption: 2
     data_pool: "6"
@@ -1429,10 +1397,10 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time: 1
     consumption: 2
     data_pool: "7"
@@ -1448,10 +1416,10 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time: 1
     consumption: 2
     data_pool: "8"
@@ -1467,10 +1435,10 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time: 1
     consumption: 2
     data_pool: "9"
@@ -1486,10 +1454,10 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time: 1
     consumption: 2
     data_pool: "10"
@@ -1524,7 +1492,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -1546,7 +1513,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -1568,7 +1534,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -1590,7 +1555,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -1612,7 +1576,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -1634,7 +1598,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -1656,7 +1620,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -1678,7 +1642,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -1700,7 +1664,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -1740,7 +1704,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -1761,7 +1724,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -1782,7 +1744,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -1803,7 +1764,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -1824,7 +1784,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -1845,7 +1805,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -1866,7 +1826,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -1887,7 +1847,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -1908,7 +1868,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -1947,7 +1907,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -1968,7 +1927,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -1989,7 +1947,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -2010,7 +1967,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -2031,7 +1987,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -2052,7 +2008,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -2073,7 +2029,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -2094,7 +2050,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -2115,7 +2071,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -2151,7 +2107,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2169,7 +2124,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2187,7 +2141,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2205,7 +2158,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2223,7 +2175,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2241,7 +2193,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2259,7 +2211,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2277,7 +2229,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2295,7 +2247,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2329,7 +2281,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2348,7 +2299,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2367,7 +2317,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2386,7 +2335,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2405,7 +2353,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2424,7 +2372,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2443,7 +2391,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2462,7 +2410,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2481,7 +2429,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2516,7 +2464,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2535,7 +2482,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2554,7 +2500,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2573,7 +2518,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2592,7 +2536,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2611,7 +2555,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2630,7 +2574,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2649,7 +2593,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2668,7 +2612,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2703,7 +2647,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2722,7 +2665,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2742,7 +2684,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2762,7 +2703,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2782,7 +2722,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2802,7 +2742,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2822,7 +2762,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2842,7 +2782,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2862,7 +2802,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2894,7 +2834,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2909,7 +2848,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2924,7 +2862,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2939,7 +2876,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2954,7 +2890,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2969,7 +2905,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2984,7 +2920,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -2999,7 +2935,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -3014,7 +2950,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -3044,7 +2980,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -3062,7 +2997,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -3080,7 +3014,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -3098,7 +3031,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -3116,7 +3048,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -3134,7 +3066,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -3152,7 +3084,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -3170,7 +3102,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -3188,7 +3120,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -3222,7 +3154,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -3241,7 +3172,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -3260,7 +3190,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -3279,7 +3208,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -3298,7 +3226,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -3317,7 +3245,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -3336,7 +3264,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -3355,7 +3283,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -3374,7 +3302,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -3410,7 +3338,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "-1"
@@ -3430,7 +3357,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "-1"
@@ -3450,7 +3376,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "-1"
@@ -3470,7 +3395,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "-1"
@@ -3490,7 +3414,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "-1"
@@ -3510,7 +3434,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "-1"
@@ -3530,7 +3454,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "-1"
@@ -3550,7 +3474,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "-1"
@@ -3570,7 +3494,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "-1"
@@ -3727,7 +3651,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 4
@@ -3747,7 +3670,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 4
@@ -3767,7 +3689,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 3
@@ -3787,7 +3708,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 3
@@ -3807,7 +3727,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 3
@@ -3827,7 +3747,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 3
@@ -3847,7 +3767,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -3867,7 +3787,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -3887,7 +3807,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -3907,7 +3827,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "0,1,2,3"
-    spot_echelon: "1,8,301"
+    spot_echelon: "1,8,301,10,305,304"
     cd_time: 1
     cd_time_type: 1
     consumption: 4
@@ -3925,10 +3845,9 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "0,1,2,3"
-    spot_echelon: "1,8,301"
+    spot_echelon: "1,8,301,10,305,304"
     cd_time: 1
     cd_time_type: 1
     consumption: 4
@@ -3946,10 +3865,9 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "0,1,2,3"
-    spot_echelon: "1,8,301"
+    spot_echelon: "1,8,301,10,305,304"
     cd_time: 1
     cd_time_type: 1
     consumption: 4
@@ -3967,10 +3885,9 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
-    spot_echelon: "1,8,301"
+    spot_echelon: "1,8,301,10,305,304"
     cd_time: 1
     cd_time_type: 1
     consumption: 4
@@ -3988,10 +3905,9 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "0,1,2,3"
-    spot_echelon: "1,8,301"
+    spot_echelon: "1,8,301,10,305,304"
     cd_time: 1
     cd_time_type: 1
     consumption: 4
@@ -4009,10 +3925,10 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
-    spot_echelon: "1,8,301"
+    spot_echelon: "1,8,301,10,305,304"
     cd_time: 1
     cd_time_type: 1
     consumption: 4
@@ -4030,10 +3946,10 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
-    spot_echelon: "1,8,301"
+    spot_echelon: "1,8,301,10,305,304"
     cd_time: 1
     cd_time_type: 1
     consumption: 4
@@ -4051,10 +3967,10 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
-    spot_echelon: "1,8,301"
+    spot_echelon: "1,8,301,10,305,304"
     cd_time: 1
     cd_time_type: 1
     consumption: 4
@@ -4072,10 +3988,10 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
-    spot_echelon: "1,8,301"
+    spot_echelon: "1,8,301,10,305,304"
     cd_time: 1
     cd_time_type: 1
     consumption: 4
@@ -4093,10 +4009,10 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
-    spot_echelon: "1,8,301"
+    spot_echelon: "1,8,301,10,305,304"
     cd_time: 1
     cd_time_type: 1
     consumption: 4
@@ -4130,7 +4046,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 4
@@ -4149,7 +4064,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 4
@@ -4168,7 +4082,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 3
@@ -4187,7 +4100,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 3
@@ -4206,7 +4118,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 3
@@ -4225,7 +4137,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 3
@@ -4244,7 +4156,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -4263,7 +4175,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -4282,7 +4194,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -4587,7 +4499,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,3,7,8,301"
+    spot_echelon: "1,3,7,8,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 78001:1
@@ -4645,7 +4557,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -4664,7 +4575,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -4683,7 +4593,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -4702,7 +4611,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -4721,7 +4629,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -4740,7 +4648,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -4759,7 +4667,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -4778,7 +4686,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -4797,7 +4705,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
@@ -4832,7 +4740,6 @@
     level: 2
     train_coin_type: 1
     train_coin_number: 200
-    skill_up_time: 7200
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -4851,7 +4758,6 @@
     level: 3
     train_coin_type: 1
     train_coin_number: 400
-    skill_up_time: 21600
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -4870,7 +4776,6 @@
     level: 4
     train_coin_type: 1
     train_coin_number: 600
-    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -4889,7 +4794,6 @@
     level: 5
     train_coin_type: 2
     train_coin_number: 240
-    skill_up_time: 50400
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -4908,7 +4812,7 @@
     level: 6
     train_coin_type: 2
     train_coin_number: 400
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -4927,7 +4831,7 @@
     level: 7
     train_coin_type: 2
     train_coin_number: 600
-    skill_up_time: 93600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -4946,7 +4850,7 @@
     level: 8
     train_coin_type: 2
     train_coin_number: 800
-    skill_up_time: 115200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -4965,7 +4869,7 @@
     level: 9
     train_coin_type: 3
     train_coin_number: 400
-    skill_up_time: 144000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -4984,7 +4888,7 @@
     level: 10
     train_coin_type: 3
     train_coin_number: 600
-    skill_up_time: 172800
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "101,102,103,0"
@@ -5080,7 +4984,7 @@
   }
   {
     id: 363022
-    name: 【标记】EMP手雷初始化
+    name: 【标记】EMP手榴彈初始化
     code: "1"
     skill_group_id: 363022
     level: 1
@@ -8413,7 +8317,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "0,1,2,3"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     start_range: 3
     trigger_id: "44000300"
     mission_buff_add: 440001:1
@@ -11612,7 +11516,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,7,8,301,303,4,5,6"
+    spot_echelon: "1,7,8,301,10,305,304,303,4,5,6"
     cd_time_type: 1
     start_range: 99
     data_pool: "35"
@@ -11628,7 +11532,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,7,8,301,303,4,5,6"
+    spot_echelon: "1,7,8,301,10,305,304,303,4,5,6"
     cd_time_type: 1
     start_range: 99
     data_pool: "35"
@@ -11644,7 +11548,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,7,8,301,303,4,5,6"
+    spot_echelon: "1,7,8,301,10,305,304,303,4,5,6"
     cd_time_type: 1
     start_range: 99
     data_pool: "35"
@@ -11660,7 +11564,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,7,8,301,303,4,5,6"
+    spot_echelon: "1,7,8,301,10,305,304,303,4,5,6"
     cd_time_type: 1
     start_range: 99
     data_pool: "35"
@@ -13334,7 +13238,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 1
     trigger_id: "50010001"
@@ -13351,7 +13255,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 1
     trigger_id: "50010001"
@@ -13368,7 +13272,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 1
     trigger_id: "50010001"
@@ -13385,7 +13289,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 1
     trigger_id: "50010001"
@@ -13402,7 +13306,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 1
     trigger_id: "50010001"
@@ -13419,7 +13323,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 1
     trigger_id: "50010001"
@@ -13436,7 +13340,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 1
     trigger_id: "50010001"
@@ -13453,7 +13357,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 1
     trigger_id: "50010001"
@@ -13470,7 +13374,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 1
     trigger_id: "50010001"
@@ -13487,7 +13391,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 1
     trigger_id: "50010001"
@@ -13504,7 +13408,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 99
     trigger_id: "50010001"
@@ -13521,7 +13425,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 99
     trigger_id: "50010001"
@@ -13538,7 +13442,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 99
     trigger_id: "50010001"
@@ -13555,7 +13459,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 99
     trigger_id: "50010001"
@@ -13572,7 +13476,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 99
     trigger_id: "50010001"
@@ -13589,7 +13493,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 99
     trigger_id: "50010001"
@@ -13606,7 +13510,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 99
     trigger_id: "50010001"
@@ -13623,7 +13527,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 99
     trigger_id: "50010001"
@@ -13640,7 +13544,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 99
     trigger_id: "50010001"
@@ -13657,7 +13561,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 99
     trigger_id: "50010001"
@@ -15100,7 +15004,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,7,8"
+    spot_echelon: "1,7,8,10"
     cd_time_type: 1
     start_range: 3
     mission_buff_add: 510705:1
@@ -15143,7 +15047,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,7,8"
+    spot_echelon: "1,7,8,10"
     cd_time_type: 1
     start_range: 99
     mission_buff_minus: 510703:1
@@ -15156,7 +15060,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,7,8"
+    spot_echelon: "1,7,8,10"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 510703:1
@@ -15365,7 +15269,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,3,7,8,301"
+    spot_echelon: "1,3,7,8,301,10,305,304"
     cd_time_type: 1
     start_range: 2
     data_pool: "10"
@@ -15486,7 +15390,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,3,7,8,301"
+    spot_echelon: "1,3,7,8,301,10,305,304"
     cd_time_type: 1
     start_range: 3
     trigger_id: 51100101&&51101101
@@ -15502,7 +15406,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,3,7,8,301"
+    spot_echelon: "1,3,7,8,301,10,305,304"
     cd_time_type: 1
     start_range: 3
     trigger_id: 51100101&&51101101
@@ -17782,7 +17686,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 9
     trigger_id: 57000300&&57000000&&57000100&&57000200&&1
@@ -17800,7 +17704,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 9
     trigger_id: 57000300&&57000000&&57000101&&1
@@ -17818,7 +17722,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 9
     trigger_id: 57000300&&57000000&&57000201&&1
@@ -17971,7 +17875,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 9
     trigger_id: 57000300&&57000000&&57000100&&57000200&&1
@@ -17989,7 +17893,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 9
     trigger_id: 57000300&&57000000&&57000101&&1
@@ -18007,7 +17911,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 9
     trigger_id: 57000300&&57000000&&57000201&&1
@@ -18304,7 +18208,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 9
     trigger_id: 57000300&&57000001&&57000100&&57000200&&1
@@ -18322,7 +18226,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 9
     trigger_id: 57000300&&57000001&&57000101&&1
@@ -18340,7 +18244,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 9
     trigger_id: 57000300&&57000001&&57000201&&1
@@ -18457,7 +18361,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 9
     trigger_id: 57000300&&57000001&&57000100&&57000200&&1
@@ -18475,7 +18379,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 9
     trigger_id: 57000300&&57000001&&57000101&&1
@@ -18493,7 +18397,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 9
     trigger_id: 57000300&&57000001&&57000201&&1
@@ -19621,7 +19525,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 3
     target_id: "57000101"
@@ -19797,7 +19701,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 2
     mission_buff_add: 570002:1
@@ -21166,7 +21070,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "0,1,7,8,301,303"
+    spot_echelon: "0,1,7,8,301,10,305,304,303"
     cd_time_type: 1
     start_range: 100
     trigger_id: 58010001&&58010101
@@ -21181,7 +21085,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "0,1,7,8,301,303"
+    spot_echelon: "0,1,7,8,301,10,305,304,303"
     cd_time_type: 1
     start_range: 100
     trigger_id: 58010001&&58010102
@@ -21196,7 +21100,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "0,1,7,8,301,303"
+    spot_echelon: "0,1,7,8,301,10,305,304,303"
     cd_time_type: 1
     start_range: 100
     trigger_id: 58010001&&58010103
@@ -21210,7 +21114,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "0,1,7,8,301,303"
+    spot_echelon: "0,1,7,8,301,10,305,304,303"
     cd_time_type: 1
     start_range: 100
     trigger_id: 58010001&&58010104
@@ -21225,7 +21129,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "0,1,7,8,301,303"
+    spot_echelon: "0,1,7,8,301,10,305,304,303"
     cd_time_type: 1
     start_range: 100
     trigger_id: 58010001&&58020000&&58010105
@@ -21450,7 +21354,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,7,8,301,303"
+    spot_echelon: "1,7,8,301,10,305,304,303"
     cd_time_type: 1
     start_range: 1
     trigger_id: 58012500&&1
@@ -21468,7 +21372,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "0,1,7,8,301,303"
+    spot_echelon: "0,1,7,8,301,10,305,304,303"
     cd_time_type: 1
     start_range: 2
     mission_buff_add: 580123:1
@@ -21492,7 +21396,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "0,1,7,8,301,303"
+    spot_echelon: "0,1,7,8,301,10,305,304,303"
     cd_time_type: 1
     start_range: 100
     trigger_id: 58010001&&58020001&&58010105
@@ -22604,7 +22508,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59000100"
     target_id: "1"
@@ -22622,7 +22526,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59000200"
     target_id: "1"
@@ -22640,7 +22544,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59000300"
     target_id: "1"
@@ -22657,7 +22561,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59000400"
     target_id: "1"
@@ -22679,7 +22583,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59000500"
     target_id: "1"
@@ -22701,7 +22605,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59000600"
     target_id: "1"
@@ -22718,7 +22622,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590001:1
@@ -22730,7 +22634,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590002:1
@@ -22742,7 +22646,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590003:1
@@ -22754,7 +22658,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590004:1
@@ -22766,7 +22670,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590005:1
@@ -22778,7 +22682,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590006:1
@@ -22795,7 +22699,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59010100"
     target_id: "1"
@@ -22813,7 +22717,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59010200"
     target_id: "1"
@@ -22831,7 +22735,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59010300"
     target_id: "1"
@@ -22848,7 +22752,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59010400"
     target_id: "1"
@@ -22870,7 +22774,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59010500"
     target_id: "1"
@@ -22892,7 +22796,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59010600"
     target_id: "1"
@@ -22909,7 +22813,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590101:1
@@ -22921,7 +22825,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590102:1
@@ -22933,7 +22837,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590103:1
@@ -22945,7 +22849,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590104:1
@@ -22957,7 +22861,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590105:1
@@ -22969,7 +22873,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590106:1
@@ -22986,7 +22890,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59020100"
     target_id: "1"
@@ -23004,7 +22908,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59020200"
     target_id: "1"
@@ -23022,7 +22926,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59020300"
     target_id: "1"
@@ -23039,7 +22943,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59020400"
     target_id: "1"
@@ -23061,7 +22965,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59020500"
     target_id: "1"
@@ -23083,7 +22987,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59020600"
     target_id: "1"
@@ -23100,7 +23004,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590201:1
@@ -23112,7 +23016,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590202:1
@@ -23124,7 +23028,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590203:1
@@ -23136,7 +23040,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590204:1
@@ -23148,7 +23052,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590205:1
@@ -23160,7 +23064,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590206:1
@@ -23177,7 +23081,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59030100"
     target_id: "1"
@@ -23195,7 +23099,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59030200"
     target_id: "1"
@@ -23213,7 +23117,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59030300"
     target_id: "1"
@@ -23230,7 +23134,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590301:1
@@ -23242,7 +23146,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590302:1
@@ -23254,7 +23158,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590303:1
@@ -23271,7 +23175,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59040100"
     target_id: "1"
@@ -23289,7 +23193,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59040200"
     target_id: "1"
@@ -23307,7 +23211,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59040300"
     target_id: "1"
@@ -23324,7 +23228,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590401:1
@@ -23336,7 +23240,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590402:1
@@ -23348,7 +23252,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590403:1
@@ -23365,7 +23269,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59050100"
     target_id: "1"
@@ -23383,7 +23287,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59050200"
     target_id: "1"
@@ -23401,7 +23305,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59050300"
     target_id: "1"
@@ -23418,7 +23322,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590501:1
@@ -23430,7 +23334,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590502:1
@@ -23442,7 +23346,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590503:1
@@ -23459,7 +23363,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59060100"
     target_id: "1"
@@ -23477,7 +23381,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59060200"
     target_id: "1"
@@ -23495,7 +23399,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59060300"
     target_id: "1"
@@ -23517,7 +23421,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59060400"
     target_id: "1"
@@ -23535,7 +23439,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59060500"
     target_id: "1"
@@ -23557,7 +23461,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59060600"
     target_id: "1"
@@ -23574,7 +23478,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590601:1
@@ -23586,7 +23490,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590602:1
@@ -23598,7 +23502,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590603:1
@@ -23610,7 +23514,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590604:1
@@ -23622,7 +23526,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590605:1
@@ -23634,7 +23538,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590606:1
@@ -23651,7 +23555,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59070100"
     target_id: "1"
@@ -23669,7 +23573,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59070200"
     target_id: "1"
@@ -23691,7 +23595,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59070300"
     target_id: "1"
@@ -23713,7 +23617,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59070400"
     target_id: "1"
@@ -23731,7 +23635,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59070500"
     target_id: "1"
@@ -23753,7 +23657,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59070600"
     target_id: "1"
@@ -23770,7 +23674,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590701:1
@@ -23782,7 +23686,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590702:1
@@ -23794,7 +23698,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590703:1
@@ -23806,7 +23710,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590704:1
@@ -23818,7 +23722,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590705:1
@@ -23830,7 +23734,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590706:1
@@ -23847,7 +23751,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59080100"
     target_id: "1"
@@ -23865,7 +23769,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59080200"
     target_id: "1"
@@ -23882,7 +23786,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590801:1
@@ -23894,7 +23798,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590802:1
@@ -23911,7 +23815,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59090100"
     target_id: "1"
@@ -23929,7 +23833,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59090200"
     target_id: "1"
@@ -23946,7 +23850,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590901:1
@@ -23958,7 +23862,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 590902:1
@@ -23975,7 +23879,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59100100&&59600210&&59600310
     target_id: "1"
@@ -23997,7 +23901,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59100200&&59600210&&59600310
     target_id: "1"
@@ -24019,7 +23923,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59100300&&59600210&&59600310
     target_id: "1"
@@ -24041,7 +23945,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59100400&&59600210&&59600310
     target_id: "1"
@@ -24058,7 +23962,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591001:1
@@ -24070,7 +23974,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591002:1
@@ -24082,7 +23986,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591003:1
@@ -24094,7 +23998,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591004:1
@@ -24111,7 +24015,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59110100&&59600210&&59600310
     target_id: "1"
@@ -24133,7 +24037,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59110200&&59600210&&59600310
     target_id: "1"
@@ -24155,7 +24059,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59110300&&59600210&&59600310
     target_id: "1"
@@ -24167,7 +24071,7 @@
   }
   {
     id: 591104
-    name: 燃燒手雷
+    name: 燃燒手榴彈
     description:
       '''
       若場上SMG人形數量>=1，第3秒起每6秒為3個隨機敵人賦予1層[點燃]
@@ -24177,7 +24081,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59110400&&59600210&&59600310
     target_id: "1"
@@ -24194,7 +24098,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591101:1
@@ -24206,7 +24110,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591102:1
@@ -24218,19 +24122,19 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591103:1
   }
   {
     id: 591114
-    name: 【標記】燃燒手雷CD
+    name: 【標記】燃燒手榴彈CD
     skill_group_id: 591114
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591104:1
@@ -24247,7 +24151,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59120100&&59600110&&59600310
     target_id: "1"
@@ -24269,7 +24173,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59120200&&59600110&&59600310
     target_id: "1"
@@ -24291,7 +24195,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59120300&&59600110&&59600310
     target_id: "1"
@@ -24313,7 +24217,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59120400&&59600110&&59600310
     target_id: "1"
@@ -24330,7 +24234,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591201:1
@@ -24342,7 +24246,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591202:1
@@ -24354,7 +24258,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591203:1
@@ -24366,7 +24270,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591204:1
@@ -24383,7 +24287,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59130100&&59600110&&59600310
     target_id: "1"
@@ -24405,7 +24309,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59130200&&59600110&&59600310
     target_id: "1"
@@ -24427,7 +24331,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59130300&&59600110&&59600310
     target_id: "1"
@@ -24449,7 +24353,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59130400&&59600110&&59600310
     target_id: "1"
@@ -24466,7 +24370,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591301:1
@@ -24478,7 +24382,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591302:1
@@ -24490,7 +24394,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591303:1
@@ -24502,7 +24406,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591304:1
@@ -24519,7 +24423,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59140100&&59600110&&59600210
     target_id: "1"
@@ -24541,7 +24445,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59140200&&59600110&&59600210
     target_id: "1"
@@ -24563,7 +24467,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59140300&&59600110&&59600210
     target_id: "1"
@@ -24585,7 +24489,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59140400&&59600110&&59600210
     target_id: "1"
@@ -24602,7 +24506,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591401:1
@@ -24614,7 +24518,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591402:1
@@ -24626,7 +24530,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591403:1
@@ -24638,7 +24542,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591404:1
@@ -24655,7 +24559,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59150100&&59600110&&59600210
     target_id: "1"
@@ -24677,7 +24581,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59150200&&59600110&&59600210
     target_id: "1"
@@ -24699,7 +24603,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59150300&&59600110&&59600210
     target_id: "1"
@@ -24721,7 +24625,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59150400&&59600110&&59600210
     target_id: "1"
@@ -24738,7 +24642,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591501:1
@@ -24750,7 +24654,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591502:1
@@ -24762,7 +24666,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591503:1
@@ -24774,7 +24678,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 591504:1
@@ -24787,7 +24691,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59200100"
     target_id: "1"
@@ -24809,7 +24713,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59200200"
     target_id: "1"
@@ -24827,7 +24731,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59200300"
     target_id: "1"
@@ -24849,7 +24753,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59200400"
     target_id: "1"
@@ -24866,7 +24770,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592001:1
@@ -24878,7 +24782,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592002:1
@@ -24890,7 +24794,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592003:1
@@ -24902,7 +24806,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592004:1
@@ -24915,7 +24819,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59210100"
     target_id: "1"
@@ -24937,7 +24841,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59210200"
     target_id: "1"
@@ -24955,7 +24859,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59210300"
     target_id: "1"
@@ -24973,7 +24877,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59210400"
     target_id: "1"
@@ -24991,7 +24895,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59210500"
     target_id: "1"
@@ -25009,7 +24913,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59210600"
     target_id: "1"
@@ -25027,7 +24931,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59210700"
     target_id: "1"
@@ -25045,7 +24949,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59210800"
     target_id: "1"
@@ -25062,7 +24966,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592101:1
@@ -25074,7 +24978,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592102:1
@@ -25086,7 +24990,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592103:1
@@ -25098,7 +25002,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592104:1
@@ -25110,7 +25014,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592105:1
@@ -25122,7 +25026,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592106:1
@@ -25134,7 +25038,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592107:1
@@ -25146,7 +25050,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592108:1
@@ -25159,7 +25063,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59220100"
     target_id: "1"
@@ -25177,7 +25081,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59220200"
     target_id: "1"
@@ -25195,7 +25099,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59220300"
     target_id: "1"
@@ -25213,7 +25117,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59220400"
     target_id: "1"
@@ -25231,7 +25135,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59220500"
     target_id: "1"
@@ -25249,7 +25153,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59220600"
     target_id: "1"
@@ -25266,7 +25170,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592201:1
@@ -25278,7 +25182,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592202:1
@@ -25290,7 +25194,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592203:1
@@ -25302,7 +25206,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592204:1
@@ -25314,7 +25218,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592205:1
@@ -25326,7 +25230,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 592206:1
@@ -26609,7 +26513,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: 59000100||59010100||59020100
     target_id: "1"
@@ -26626,7 +26530,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59060100"
     target_id: "1"
@@ -26643,7 +26547,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     trigger_id: "59080100"
     target_id: "1"
@@ -26684,7 +26588,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,301"
+    spot_echelon: "1,301,10,305,304"
     cd_time_type: 1
     start_range: 99
     trigger_id: "59900101"
@@ -27744,6 +27648,42 @@
     special_spot_add: 900001:1
   }
   {
+    id: 998101
+    name: 蹤跡鎖定
+    code: ComponentSkill25
+    description:
+      '''
+      地圖技能:打開視野偵查,選取2範圍內的一個指定點,獲得指定點為中心的3格範圍的視野,持續2回合。
+      被動:戰鬥內機動裝甲的命中提升50%,持續99秒。
+      '''
+    lvup_description: 地圖技能
+    skill_group_id: 9981
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time: 3
+    cd_time_type: 1
+    start_range: 2
+    special_spot_add: 998001:1
+  }
+  {
+    id: 998201
+    name: 光學迷彩
+    code: ComponentSkill26
+    description: 地圖技能：自身3回合不會被索敵
+    lvup_description: 地圖技能
+    skill_group_id: 9982
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 998002:1
+    mission_buff_add: 998002:1
+  }
+  {
     id: 1000000
     name: (通用型I)(記錄用)(距離0)清除一層炸彈持有buff
     code: "1"
@@ -28478,7 +28418,7 @@
   }
   {
     id: 1000060
-    name: 【標記】EMP手雷存儲_數量1
+    name: 【標記】EMP手榴彈存儲_數量1
     skill_group_id: 1000060
     level: 1
     spot_type: "-1"
@@ -28488,7 +28428,7 @@
   }
   {
     id: 1000061
-    name: 【標記】EMP手雷特效
+    name: 【標記】EMP手榴彈特效
     skill_group_id: 1000061
     level: 1
     spot_type: "-1"
@@ -28508,7 +28448,7 @@
   }
   {
     id: 1000063
-    name: 【標記】EMP手雷每回合恢復1
+    name: 【標記】EMP手榴彈每回合恢復1
     skill_group_id: 1000063
     level: 1
     spot_type: "-1"
@@ -35978,7 +35918,7 @@
   }
   {
     id: 1140100
-    name: 【標記】EMP手雷1
+    name: 【標記】EMP手榴彈1
     skill_group_id: 1140100
     level: 1
     spot_type: "-1"
@@ -35989,7 +35929,7 @@
   {
     id: 1140101
     name: 攜帶
-    description: 讓梯隊或小組攜帶1個EMP手雷。※每個梯隊或小組最多只能攜帶1個EMP手雷。
+    description: 讓梯隊或小組攜帶1個EMP手榴彈。※每個梯隊或小組最多只能攜帶1個EMP手榴彈。
     skill_group_id: 1140101
     level: 1
     spot_type: "-1"
@@ -36029,7 +35969,7 @@
   }
   {
     id: 1140104
-    name: 【標記】消除攜帶EMP手雷buff
+    name: 【標記】消除攜帶EMP手榴彈buff
     skill_group_id: 1140104
     level: 1
     spot_type: "-1"
@@ -36039,7 +35979,7 @@
   }
   {
     id: 1140200
-    name: 【標記】EMP手雷1
+    name: 【標記】EMP手榴彈1
     skill_group_id: 1140200
     level: 1
     spot_type: "-1"
@@ -36050,7 +35990,7 @@
   {
     id: 1140201
     name: 攜帶
-    description: 讓梯隊或小組攜帶1個EMP手雷。※每個梯隊或小組最多只能攜帶1個EMP手雷。
+    description: 讓梯隊或小組攜帶1個EMP手榴彈。※每個梯隊或小組最多只能攜帶1個EMP手榴彈。
     skill_group_id: 1140201
     level: 1
     spot_type: "-1"
@@ -36074,7 +36014,7 @@
   }
   {
     id: 1140300
-    name: 【標記】EMP手雷1
+    name: 【標記】EMP手榴彈1
     skill_group_id: 1140300
     level: 1
     spot_type: "-1"
@@ -36085,7 +36025,7 @@
   {
     id: 1140301
     name: 攜帶
-    description: 讓梯隊或小組攜帶1個EMP手雷。※每個梯隊或小組最多只能攜帶1個EMP手雷。
+    description: 讓梯隊或小組攜帶1個EMP手榴彈。※每個梯隊或小組最多只能攜帶1個EMP手榴彈。
     skill_group_id: 1140301
     level: 1
     spot_type: "-1"
@@ -36109,7 +36049,7 @@
   }
   {
     id: 1140400
-    name: 【標記】EMP手雷1
+    name: 【標記】EMP手榴彈1
     skill_group_id: 1140400
     level: 1
     spot_type: "-1"
@@ -36120,7 +36060,7 @@
   {
     id: 1140401
     name: 攜帶
-    description: 讓梯隊或小組攜帶1個EMP手雷。※每個梯隊或小組最多只能攜帶1個EMP手雷。
+    description: 讓梯隊或小組攜帶1個EMP手榴彈。※每個梯隊或小組最多只能攜帶1個EMP手榴彈。
     skill_group_id: 1140401
     level: 1
     spot_type: "-1"
@@ -37109,7 +37049,7 @@
   }
   {
     id: 2000017
-    name: 【標記】EMP手雷描述
+    name: 【標記】EMP手榴彈描述
     description:
       '''
       丟出去之前，先喊一聲「Light out！」怎麼樣？
@@ -37343,7 +37283,6 @@
     level: 2
     train_coin_type: 4
     train_coin_number: 300
-    skill_up_time: 3600
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -37362,7 +37301,6 @@
     level: 3
     train_coin_type: 4
     train_coin_number: 400
-    skill_up_time: 10800
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -37381,7 +37319,6 @@
     level: 4
     train_coin_type: 4
     train_coin_number: 500
-    skill_up_time: 18000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -37400,7 +37337,6 @@
     level: 5
     train_coin_type: 4
     train_coin_number: 600
-    skill_up_time: 28800
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -37419,7 +37355,7 @@
     level: 6
     train_coin_type: 4
     train_coin_number: 800
-    skill_up_time: 43200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -37438,7 +37374,7 @@
     level: 7
     train_coin_type: 5
     train_coin_number: 200
-    skill_up_time: 57600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -37457,7 +37393,7 @@
     level: 8
     train_coin_type: 5
     train_coin_number: 300
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -37476,7 +37412,7 @@
     level: 9
     train_coin_type: 5
     train_coin_number: 400
-    skill_up_time: 97200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -37495,7 +37431,7 @@
     level: 10
     train_coin_type: 5
     train_coin_number: 600
-    skill_up_time: 129600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
@@ -37515,7 +37451,7 @@
     train_coin_type: 4
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 3
     mission_buff_add: 50005:1
@@ -37530,10 +37466,9 @@
     level: 2
     train_coin_type: 4
     train_coin_number: 300
-    skill_up_time: 3600
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 3
     mission_buff_add: 50005:1
@@ -37548,10 +37483,9 @@
     level: 3
     train_coin_type: 4
     train_coin_number: 400
-    skill_up_time: 10800
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 3
     mission_buff_add: 50005:1
@@ -37566,10 +37500,9 @@
     level: 4
     train_coin_type: 4
     train_coin_number: 500
-    skill_up_time: 18000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 3
     mission_buff_add: 50005:1
@@ -37584,10 +37517,9 @@
     level: 5
     train_coin_type: 4
     train_coin_number: 600
-    skill_up_time: 28800
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 3
     mission_buff_add: 50005:1
@@ -37602,10 +37534,10 @@
     level: 6
     train_coin_type: 4
     train_coin_number: 800
-    skill_up_time: 43200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 3
     mission_buff_add: 50005:1
@@ -37620,10 +37552,10 @@
     level: 7
     train_coin_type: 5
     train_coin_number: 200
-    skill_up_time: 57600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 3
     mission_buff_add: 50005:1
@@ -37638,10 +37570,10 @@
     level: 8
     train_coin_type: 5
     train_coin_number: 300
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 3
     mission_buff_add: 50005:1
@@ -37656,10 +37588,10 @@
     level: 9
     train_coin_type: 5
     train_coin_number: 400
-    skill_up_time: 97200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 3
     mission_buff_add: 50005:1
@@ -37674,10 +37606,10 @@
     level: 10
     train_coin_type: 5
     train_coin_number: 600
-    skill_up_time: 129600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 3
     mission_buff_add: 50005:1
@@ -37716,7 +37648,6 @@
     level: 2
     train_coin_type: 4
     train_coin_number: 300
-    skill_up_time: 3600
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
@@ -37738,7 +37669,6 @@
     level: 3
     train_coin_type: 4
     train_coin_number: 400
-    skill_up_time: 10800
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
@@ -37760,7 +37690,6 @@
     level: 4
     train_coin_type: 4
     train_coin_number: 500
-    skill_up_time: 18000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
@@ -37782,7 +37711,6 @@
     level: 5
     train_coin_type: 4
     train_coin_number: 600
-    skill_up_time: 28800
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
@@ -37804,7 +37732,7 @@
     level: 6
     train_coin_type: 4
     train_coin_number: 800
-    skill_up_time: 43200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
@@ -37826,7 +37754,7 @@
     level: 7
     train_coin_type: 5
     train_coin_number: 200
-    skill_up_time: 57600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
@@ -37848,7 +37776,7 @@
     level: 8
     train_coin_type: 5
     train_coin_number: 300
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
@@ -37870,7 +37798,7 @@
     level: 9
     train_coin_type: 5
     train_coin_number: 400
-    skill_up_time: 97200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
@@ -37892,7 +37820,7 @@
     level: 10
     train_coin_type: 5
     train_coin_number: 600
-    skill_up_time: 129600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
@@ -37911,7 +37839,7 @@
     train_coin_type: 4
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 1
     mission_buff_add: 50007:1
@@ -37926,10 +37854,9 @@
     level: 2
     train_coin_type: 4
     train_coin_number: 300
-    skill_up_time: 3600
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 1
     mission_buff_add: 50007:1
@@ -37944,10 +37871,9 @@
     level: 3
     train_coin_type: 4
     train_coin_number: 400
-    skill_up_time: 10800
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 1
     mission_buff_add: 50007:1
@@ -37962,10 +37888,9 @@
     level: 4
     train_coin_type: 4
     train_coin_number: 500
-    skill_up_time: 18000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 1
     mission_buff_add: 50007:1
@@ -37980,10 +37905,9 @@
     level: 5
     train_coin_type: 4
     train_coin_number: 600
-    skill_up_time: 28800
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 1
     mission_buff_add: 50007:1
@@ -37998,10 +37922,10 @@
     level: 6
     train_coin_type: 4
     train_coin_number: 800
-    skill_up_time: 43200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 1
     mission_buff_add: 50007:1
@@ -38016,10 +37940,10 @@
     level: 7
     train_coin_type: 5
     train_coin_number: 200
-    skill_up_time: 57600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 1
     mission_buff_add: 50007:1
@@ -38034,10 +37958,10 @@
     level: 8
     train_coin_type: 5
     train_coin_number: 300
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 1
     mission_buff_add: 50007:1
@@ -38052,10 +37976,10 @@
     level: 9
     train_coin_type: 5
     train_coin_number: 400
-    skill_up_time: 97200
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 1
     mission_buff_add: 50007:1
@@ -38070,10 +37994,10 @@
     level: 10
     train_coin_type: 5
     train_coin_number: 600
-    skill_up_time: 129600
+    skill_up_time: 36000
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time: 2
     start_range: 1
     mission_buff_add: 50007:1
@@ -38115,7 +38039,6 @@
     level: 2
     train_coin_type: 4
     train_coin_number: 300
-    skill_up_time: 3600
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -38140,7 +38063,6 @@
     level: 3
     train_coin_type: 4
     train_coin_number: 400
-    skill_up_time: 10800
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -38165,7 +38087,6 @@
     level: 4
     train_coin_type: 4
     train_coin_number: 500
-    skill_up_time: 18000
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -38190,7 +38111,6 @@
     level: 5
     train_coin_type: 4
     train_coin_number: 600
-    skill_up_time: 28800
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -38215,7 +38135,7 @@
     level: 6
     train_coin_type: 4
     train_coin_number: 800
-    skill_up_time: 43200
+    skill_up_time: 36000
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -38240,7 +38160,7 @@
     level: 7
     train_coin_type: 5
     train_coin_number: 200
-    skill_up_time: 57600
+    skill_up_time: 36000
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -38265,7 +38185,7 @@
     level: 8
     train_coin_type: 5
     train_coin_number: 300
-    skill_up_time: 72000
+    skill_up_time: 36000
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -38290,7 +38210,7 @@
     level: 9
     train_coin_type: 5
     train_coin_number: 400
-    skill_up_time: 97200
+    skill_up_time: 36000
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -38315,7 +38235,7 @@
     level: 10
     train_coin_type: 5
     train_coin_number: 600
-    skill_up_time: 129600
+    skill_up_time: 36000
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
@@ -38926,6 +38846,241 @@
     effect_target: "1010"
     target_id: "600031701"
     is_manual: 6000010
+  }
+  {
+    id: 6005001
+    name: 【標記】道路
+    code: "1"
+    skill_group_id: 6005001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6005001:1
+  }
+  {
+    id: 6005002
+    name: 【標記】道路
+    code: "1"
+    skill_group_id: 6005002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6005002:1
+  }
+  {
+    id: 6005003
+    name: 【標記】亂石堆
+    code: "1"
+    skill_group_id: 6005003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6005003:1
+  }
+  {
+    id: 6005004
+    name: 【標記】亂石堆
+    code: "1"
+    skill_group_id: 6005004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6005004:1
+  }
+  {
+    id: 6005005
+    name: 【標記】油桶
+    code: "1"
+    skill_group_id: 6005005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6005005:1
+  }
+  {
+    id: 6005006
+    name: 【標記】大型水閥
+    code: "1"
+    skill_group_id: 6005006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6005006:1
+  }
+  {
+    id: 6005007
+    name: 【標記】防禦門
+    code: "1"
+    skill_group_id: 6005007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6005007:1
+  }
+  {
+    id: 6005008
+    name: 【標記】防禦門
+    code: "1"
+    skill_group_id: 6005008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6005008:1
+  }
+  {
+    id: 6005009
+    name: 【標記】防禦門
+    code: "1"
+    skill_group_id: 6005009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6005009:1
+  }
+  {
+    id: 6005010
+    name: 【標記】防禦門
+    code: "1"
+    skill_group_id: 6005010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6005010:1
+  }
+  {
+    id: 6005011
+    name: 【標記】防禦門
+    code: "1"
+    skill_group_id: 6005011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6005011:1
+  }
+  {
+    id: 6005012
+    name: 【標記】防禦門
+    code: "1"
+    skill_group_id: 6005012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6005012:1
+  }
+  {
+    id: 6005013
+    name: 打開水閥
+    code: "1"
+    skill_group_id: 6005013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "600500631"
+    special_spot_add: 6005013:1,6005014:1,6005015:1
+    special_spot_minus: 6005006:1
+  }
+  {
+    id: 6005014
+    name: 關閉水閥
+    code: "1"
+    skill_group_id: 6005014
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "600501331"
+    special_spot_add: 6005006:1
+    special_spot_minus: 6005013:1,6005014:1,6005015:1
+  }
+  {
+    id: 6005015
+    name: 【標記】靶場管理員
+    code: "1"
+    skill_group_id: 6005015
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 6000004:1
+  }
+  {
+    id: 6005016
+    name: 【標記】鋼彈提示
+    code: "1"
+    skill_group_id: 6005016
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    mission_buff_add: 6000005:1
+  }
+  {
+    id: 6005017
+    name: 【標記】坦克提示
+    code: "1"
+    skill_group_id: 6005017
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    mission_buff_add: 6000006:1
+  }
+  {
+    id: 6005018
+    name: 【標記】坦克提示2
+    code: "1"
+    skill_group_id: 6005018
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    mission_buff_add: 6000007:1
   }
   {
     id: 6030105
@@ -41986,7 +42141,7 @@
   }
   {
     id: 6440050
-    name: 拾取EMP手雷
+    name: 拾取EMP手榴彈
     skill_group_id: 6440050
     level: 1
     spot_type: "-1"
@@ -42001,7 +42156,7 @@
   }
   {
     id: 6440051
-    name: 投擲EMP手雷
+    name: 投擲EMP手榴彈
     skill_group_id: 6440051
     level: 1
     spot_type: "-1"
@@ -44567,7 +44722,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,3,7,8,201,301"
+    spot_echelon: "1,3,7,8,201,301,10,305,304"
     cd_time_type: 1
     start_range: 1
     trigger_id: "648002001"
@@ -47148,7 +47303,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,301,302,303,8"
+    spot_echelon: "1,2,3,301,10,305,304,302,303,8"
     cd_time_type: 1
     start_range: 3
     trigger_id: "651003601"
@@ -47165,7 +47320,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,301,302,303,8"
+    spot_echelon: "1,2,3,301,10,305,304,302,303,8"
     cd_time_type: 1
     start_range: 4
     trigger_id: "651003701"
@@ -47182,7 +47337,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,301,302,303,8"
+    spot_echelon: "1,2,3,301,10,305,304,302,303,8"
     cd_time_type: 1
     start_range: 4
     trigger_id: "651003801"
@@ -47199,7 +47354,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,301,302,303,8"
+    spot_echelon: "1,2,3,301,10,305,304,302,303,8"
     cd_time_type: 1
     start_range: 5
     trigger_id: "651003901"
@@ -47216,7 +47371,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,301,302,303,8"
+    spot_echelon: "1,2,3,301,10,305,304,302,303,8"
     cd_time_type: 1
     start_range: 5
     trigger_id: "651004001"
@@ -47754,7 +47909,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,301,302,303,7,8"
+    spot_echelon: "1,2,3,301,10,305,304,302,303,7,8"
     cd_time_type: 1
     start_range: 5
     trigger_id: "651007301"
@@ -47772,7 +47927,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,301,302,303,7,8"
+    spot_echelon: "1,2,3,301,10,305,304,302,303,7,8"
     cd_time_type: 1
     start_range: 5
     trigger_id: "651007401"
@@ -47861,7 +48016,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,301,302,303,7,8"
+    spot_echelon: "1,2,3,301,10,305,304,302,303,7,8"
     cd_time_type: 1
     start_range: 5
     trigger_id: "651007601"
@@ -47892,7 +48047,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,301,302,303,7,8"
+    spot_echelon: "1,2,3,301,10,305,304,302,303,7,8"
     cd_time_type: 1
     start_range: 5
     trigger_id: "651007801"
@@ -48375,7 +48530,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,301,302,303,7,8"
+    spot_echelon: "1,2,3,301,10,305,304,302,303,7,8"
     cd_time_type: 1
     start_range: 3
     trigger_id: "651010901"
@@ -48890,7 +49045,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,3,7,8,301"
+    spot_echelon: "1,3,7,8,301,10,305,304"
     cd_time_type: 1
     start_range: 2
     data_pool: "10"
@@ -49542,7 +49697,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,3,7,8,301"
+    spot_echelon: "1,3,7,8,301,10,305,304"
     cd_time_type: 1
     target_id: "1"
     special_spot_add: 6520022:1
@@ -52408,7 +52563,7 @@
   }
   {
     id: 6560011
-    name: 【標記】EMP手雷初始化
+    name: 【標記】EMP手榴彈初始化
     code: "1"
     skill_group_id: 6560011
     level: 1
@@ -52854,9 +53009,9 @@
   }
   {
     id: 6560041
-    name: 拾取EMP手雷
+    name: 拾取EMP手榴彈
     code: "1"
-    description: 獲得一枚EMP手雷
+    description: 獲得一枚EMP手榴彈
     skill_group_id: 6560041
     level: 1
     spot_type: "-1"
@@ -52888,7 +53043,7 @@
   }
   {
     id: 6560043
-    name: 扔出EMP手雷
+    name: 扔出EMP手榴彈
     code: "1"
     description: "1,2,3,木頭人。"
     skill_group_id: 6560043
@@ -52918,7 +53073,7 @@
   }
   {
     id: 6560045
-    name: 【標記】扔出EMP手雷連攜
+    name: 【標記】扔出EMP手榴彈連攜
     code: "1"
     skill_group_id: 6560045
     level: 1
@@ -53123,7 +53278,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,3,301,7,8"
+    spot_echelon: "1,3,301,10,305,304,7,8"
     cd_time_type: 1
     start_range: 1
     special_spot_add: 6560045:1
@@ -54129,7 +54284,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time_type: 1
     target_id: "1"
     mission_buff_add: 6580000:1
@@ -54155,7 +54310,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 6580000:1
@@ -54597,7 +54752,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 1
     mission_buff_add: 6580108:1
@@ -54659,7 +54814,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 6580109:1
@@ -55201,7 +55356,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "301"
+    spot_echelon: "301,10,305,304"
     cd_time_type: 1
     start_range: 99
     mission_buff_add: 6580111:1,20202:1,20201:1
@@ -56606,6 +56761,1054 @@
     mission_buff_minus: 6580015:1
   }
   {
+    id: 6620001
+    name: 【標記】emp初始化
+    skill_group_id: 6620001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_add: 6620001:1
+  }
+  {
+    id: 6620002
+    name: 【標記】傳送初始化
+    skill_group_id: 6620002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_add: 6620002:1
+  }
+  {
+    id: 6620003
+    name: 【標記】控制台初始化
+    skill_group_id: 6620003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_add: 6620003:1
+  }
+  {
+    id: 6620004
+    name: 【標記】防禦門初始化
+    skill_group_id: 6620004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_add: 6620004:1
+  }
+  {
+    id: 6620005
+    name: 拾取EMP
+    description: 獲得一枚EMP手榴彈。
+    skill_group_id: 6620005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 1
+    trigger_id: "662000131"
+    target_id: "1"
+    special_spot_minus: 6620001:1
+    mission_buff_add: 6620001:1
+    is_manual: 6620007
+  }
+  {
+    id: 6620006
+    name: 投擲EMP
+    description: "1,2,3,木頭人。"
+    skill_group_id: 6620006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    start_range: 1
+    special_spot_add: 6629952:1
+    subsidiary_mission_skill: "6620007"
+    is_manual: 6620002
+  }
+  {
+    id: 6620007
+    name: 【標記】投擲EMP連攜
+    skill_group_id: 6620007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    mission_buff_minus: 6620001:1
+  }
+  {
+    id: 6620008
+    name: 發動傳送
+    description: 對巡邏強敵點位開啟傳送，會讓敵人像移動方向後退一格，持續一回合。（每回合可以使用1次）
+    skill_group_id: 6620008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "5,6"
+    start_range: 99
+    trigger_id: "662000231"
+    special_spot_add: 6620005:1
+    subsidiary_mission_skill: "6620009"
+    is_manual: 6620003
+  }
+  {
+    id: 6620009
+    name: 【標記】扣除傳送
+    skill_group_id: 6620009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_minus: 6620002:1
+  }
+  {
+    id: 6620010
+    name: 開啟防禦門
+    description: 開啟防禦門。
+    skill_group_id: 6620010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662000431"
+    special_spot_minus: 6620004:1
+    subsidiary_mission_skill: "6620011"
+    is_manual: 6620008
+  }
+  {
+    id: 6620011
+    name: 【標記】開啟後連攜
+    skill_group_id: 6620011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "1"
+    special_spot_minus: 6620003:1
+  }
+  {
+    id: 6620012
+    name: 【標記】傳送節點描述
+    description:
+      '''
+      “Energize”
+      可將巡邏強敵的點位開啟傳送，使其倒退一格。
+      '''
+    skill_group_id: 6620012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6620002:1
+  }
+  {
+    id: 6620013
+    name: 【標記】BOSS霸體
+    skill_group_id: 6620013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    mission_buff_add: 6629009:1
+  }
+  {
+    id: 6629000
+    name: 【標記】殺敵計數初始化
+    skill_group_id: 6629000
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    special_spot_add: 6629000:1,6629001:1,6629002:1,6629003:1,6629941:1,6629942:1,6629943:1,6629004:1,6629005:1,6629006:1
+    subsidiary_mission_skill: "6629001"
+  }
+  {
+    id: 6629001
+    name: 【標記】殺敵計數初始化扣除item
+    skill_group_id: 6629001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    drop_item: 531:-999;532:-999;533:-999;534:-999
+  }
+  {
+    id: 6629002
+    name: 【標記】機場專用殺敵計數初始化3種屬性初始特殊點
+    skill_group_id: 6629002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    special_spot_add: 6629910:1,6629920:1,6629930:1,6629905:1
+    mission_buff_add: 6629100:1,6629200:1,6629300:1
+  }
+  {
+    id: 6629100
+    name: 【標記】鐵血擊殺數+1item
+    skill_group_id: 6629100
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "662900031"
+    subsidiary_mission_skill: "6629400,6629101"
+    drop_item: 531:1
+  }
+  {
+    id: 6629101
+    name: 【標記】鐵血擊殺數+1特殊點
+    skill_group_id: 6629101
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    trigger_id: "622910139"
+    target_id: "662900031"
+    special_spot_add: 6629101:1
+    subsidiary_mission_skill: "6629107,6629106,6629105,6629104,6629103,6629102"
+  }
+  {
+    id: 6629102
+    name: 【標記】鐵血屬性技能1-1
+    skill_group_id: 6629102
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662910131&&662900131
+    target_id: "662910041"
+    mission_buff_add: 6629101:1
+    mission_buff_minus: 6629100:1
+    subsidiary_mission_skill: "6629109"
+  }
+  {
+    id: 6629103
+    name: 【標記】鐵血屬性技能1-2
+    skill_group_id: 6629103
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662910132&&662900131
+    target_id: "662910141"
+    mission_buff_add: 6629102:1
+    mission_buff_minus: 6629101:1
+    subsidiary_mission_skill: "6629110"
+  }
+  {
+    id: 6629104
+    name: 【標記】鐵血屬性技能1-3
+    skill_group_id: 6629104
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662910133&&662900131
+    target_id: "662910241"
+    mission_buff_add: 6629103:1
+    mission_buff_minus: 6629102:1
+    subsidiary_mission_skill: "6629111"
+  }
+  {
+    id: 6629105
+    name: 【標記】鐵血屬性技能1-4
+    skill_group_id: 6629105
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662910134&&662900131
+    target_id: "662910341"
+    mission_buff_add: 6629104:1
+    mission_buff_minus: 6629103:1
+    subsidiary_mission_skill: "6629112"
+  }
+  {
+    id: 6629106
+    name: 【標記】鐵血被動技能
+    skill_group_id: 6629106
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,7,10"
+    start_range: 99
+    trigger_id: 662910135&&662900131&&662900431
+    mission_buff_add: 20102:1,20101:1
+    subsidiary_mission_skill: "6629114"
+  }
+  {
+    id: 6629107
+    name: 【標記】鐵血主動技能
+    skill_group_id: 6629107
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662910136&&662900131
+    mission_buff_add: 6629000:1
+    subsidiary_mission_skill: "6629113"
+  }
+  {
+    id: 6629108
+    name: 【標記】鐵血被動技能連攜機場
+    skill_group_id: 6629108
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    target_id: "662990531"
+    special_spot_add: 6629915:1
+  }
+  {
+    id: 6629109
+    name: 【標記】鐵血屬性技能1-1特殊點替換
+    skill_group_id: 6629109
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662991031"
+    special_spot_add: 6629911:1
+    special_spot_minus: 6629910:1
+  }
+  {
+    id: 6629110
+    name: 【標記】鐵血屬性技能1-2特殊點替換
+    skill_group_id: 6629110
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662991131"
+    special_spot_add: 6629912:1
+    special_spot_minus: 6629911:1
+  }
+  {
+    id: 6629111
+    name: 【標記】鐵血屬性技能1-3特殊點替換
+    skill_group_id: 6629111
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662991231"
+    special_spot_add: 6629913:1
+    special_spot_minus: 6629912:1
+  }
+  {
+    id: 6629112
+    name: 【標記】鐵血屬性技能1-4特殊點替換
+    skill_group_id: 6629112
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662991331"
+    special_spot_add: 6629914:1
+    special_spot_minus: 6629913:1
+  }
+  {
+    id: 6629113
+    name: 【標記】鐵血技能滿8不再計數
+    skill_group_id: 6629113
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    special_spot_minus: 6629001:1
+  }
+  {
+    id: 6629114
+    name: 【標記】鐵血被動唯一
+    skill_group_id: 6629114
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_minus: 6629004:1
+  }
+  {
+    id: 6629200
+    name: 【標記】軍方擊殺數+1item
+    skill_group_id: 6629200
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "662900031"
+    subsidiary_mission_skill: "6629400,6629201"
+    drop_item: 532:1
+  }
+  {
+    id: 6629201
+    name: 【標記】軍方擊殺數+1特殊點
+    skill_group_id: 6629201
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    trigger_id: "622920139"
+    target_id: "662900031"
+    special_spot_add: 6629201:1
+    subsidiary_mission_skill: "6629207,6629206,6629205,6629204,6629203,6629202"
+  }
+  {
+    id: 6629202
+    name: 【標記】軍方屬性技能1-1
+    skill_group_id: 6629202
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662920131&&662900231
+    target_id: "662920041"
+    mission_buff_add: 6629201:1
+    mission_buff_minus: 6629200:1
+    subsidiary_mission_skill: "6629209"
+  }
+  {
+    id: 6629203
+    name: 【標記】軍方屬性技能1-2
+    skill_group_id: 6629203
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662920132&&662900231
+    target_id: "662920141"
+    mission_buff_add: 6629202:1
+    mission_buff_minus: 6629201:1
+    subsidiary_mission_skill: "6629210"
+  }
+  {
+    id: 6629204
+    name: 【標記】軍方屬性技能1-3
+    skill_group_id: 6629204
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662920133&&662900231
+    target_id: "662920241"
+    mission_buff_add: 6629203:1
+    mission_buff_minus: 6629202:1
+    subsidiary_mission_skill: "6629211"
+  }
+  {
+    id: 6629205
+    name: 【標記】軍方屬性技能1-4
+    skill_group_id: 6629205
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662920134&&662900231
+    target_id: "662920341"
+    mission_buff_add: 6629204:1
+    mission_buff_minus: 6629203:1
+    subsidiary_mission_skill: "6629212"
+  }
+  {
+    id: 6629206
+    name: 【標記】軍方被動技能
+    skill_group_id: 6629206
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662920135&&662900231&&662900531
+    mission_buff_add: 6629004:1
+    subsidiary_mission_skill: "6629214"
+  }
+  {
+    id: 6629207
+    name: 【標記】軍方主動技能
+    skill_group_id: 6629207
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662920136&&662900231
+    mission_buff_add: 6629001:1
+    subsidiary_mission_skill: "6629213"
+  }
+  {
+    id: 6629208
+    name: 【標記】軍方被動技能連攜機場
+    skill_group_id: 6629208
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    target_id: "662990531"
+    special_spot_add: 6629925:1
+  }
+  {
+    id: 6629209
+    name: 【標記】軍方屬性技能1-1特殊點替換
+    skill_group_id: 6629209
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662992031"
+    special_spot_add: 6629921:1
+    special_spot_minus: 6629920:1
+  }
+  {
+    id: 6629210
+    name: 【標記】軍方屬性技能1-2特殊點替換
+    skill_group_id: 6629210
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662992131"
+    special_spot_add: 6629922:1
+    special_spot_minus: 6629921:1
+  }
+  {
+    id: 6629211
+    name: 【標記】軍方屬性技能1-3特殊點替換
+    skill_group_id: 6629211
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662992231"
+    special_spot_add: 6629923:1
+    special_spot_minus: 6629922:1
+  }
+  {
+    id: 6629212
+    name: 【標記】軍方屬性技能1-4特殊點替換
+    skill_group_id: 6629212
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662992331"
+    special_spot_add: 6629924:1
+    special_spot_minus: 6629923:1
+  }
+  {
+    id: 6629213
+    name: 【標記】軍方技能滿8不在計數
+    skill_group_id: 6629213
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    special_spot_minus: 6629002:1
+  }
+  {
+    id: 6629214
+    name: 【標記】軍方技能被動唯一
+    skill_group_id: 6629214
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_minus: 6629005:1
+  }
+  {
+    id: 6629300
+    name: 【標記】帕拉迪斯擊殺數+1item
+    skill_group_id: 6629300
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "662900031"
+    subsidiary_mission_skill: "6629400,6629301"
+    drop_item: 533:1
+  }
+  {
+    id: 6629301
+    name: 【標記】帕拉迪斯擊殺數+1特殊點
+    skill_group_id: 6629301
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    trigger_id: "622930139"
+    target_id: "662900031"
+    special_spot_add: 6629301:1
+    subsidiary_mission_skill: "6629307,6629306,6629305,6629304,6629303,6629302"
+  }
+  {
+    id: 6629302
+    name: 【標記】帕拉迪斯屬性技能1-1
+    skill_group_id: 6629302
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662930131&&662900331
+    target_id: "662930041"
+    mission_buff_add: 6629301:1
+    mission_buff_minus: 6629300:1
+    subsidiary_mission_skill: "6629309"
+  }
+  {
+    id: 6629303
+    name: 【標記】帕拉迪斯屬性技能1-2
+    skill_group_id: 6629303
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662930132&&662900331
+    target_id: "662930141"
+    mission_buff_add: 6629302:1
+    mission_buff_minus: 6629301:1
+    subsidiary_mission_skill: "6629310"
+  }
+  {
+    id: 6629304
+    name: 【標記】帕拉迪斯屬性技能1-3
+    skill_group_id: 6629304
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662930133&&662900331
+    target_id: "662930241"
+    mission_buff_add: 6629303:1
+    mission_buff_minus: 6629302:1
+    subsidiary_mission_skill: "6629311"
+  }
+  {
+    id: 6629305
+    name: 【標記】帕拉迪斯屬性技能1-4
+    skill_group_id: 6629305
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662930134&&662900331
+    target_id: "662930341"
+    mission_buff_add: 6629304:1
+    mission_buff_minus: 6629303:1
+    subsidiary_mission_skill: "6629312"
+  }
+  {
+    id: 6629306
+    name: 【標記】帕拉迪斯被動技能
+    skill_group_id: 6629306
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662930135&&662900331&&662900631
+    mission_buff_add: 6629005:1
+    subsidiary_mission_skill: "6629314"
+  }
+  {
+    id: 6629307
+    name: 【標記】帕拉迪斯主動技能
+    skill_group_id: 6629307
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662930136&&662900331
+    mission_buff_add: 6629002:1
+    subsidiary_mission_skill: "6629313"
+  }
+  {
+    id: 6629308
+    name: 【標記】帕拉迪斯被動技能連攜機場
+    skill_group_id: 6629308
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    target_id: "662990531"
+    special_spot_add: 6629935:1
+  }
+  {
+    id: 6629309
+    name: 【標記】帕拉迪斯屬性技能1-1特殊點替換
+    skill_group_id: 6629309
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662993031"
+    special_spot_add: 6629931:1
+    special_spot_minus: 6629930:1
+  }
+  {
+    id: 6629310
+    name: 【標記】帕拉迪斯屬性技能1-2特殊點替換
+    skill_group_id: 6629310
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662993131"
+    special_spot_add: 6629932:1
+    special_spot_minus: 6629931:1
+  }
+  {
+    id: 6629311
+    name: 【標記】帕拉迪斯屬性技能1-3特殊點替換
+    skill_group_id: 6629311
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662993231"
+    special_spot_add: 6629933:1
+    special_spot_minus: 6629932:1
+  }
+  {
+    id: 6629312
+    name: 【標記】帕拉迪斯屬性技能1-4特殊點替換
+    skill_group_id: 6629312
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662993331"
+    special_spot_add: 6629934:1
+    special_spot_minus: 6629933:1
+  }
+  {
+    id: 6629313
+    name: 【標記】帕拉迪斯技能滿8不在計數
+    skill_group_id: 6629313
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    special_spot_minus: 6629003:1
+  }
+  {
+    id: 6629314
+    name: 【標記】帕拉迪斯被動唯一
+    skill_group_id: 6629314
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_minus: 6629006:1
+  }
+  {
+    id: 6629400
+    name: 【標記】總殺數+1item
+    skill_group_id: 6629400
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "662900031"
+    subsidiary_mission_skill: "6629401"
+    drop_item: 534:1
+  }
+  {
+    id: 6629401
+    name: 【標記】總殺數+1特殊點
+    skill_group_id: 6629401
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    trigger_id: "622940139"
+    target_id: "662900031"
+    special_spot_add: 6629401:1
+    subsidiary_mission_skill: "6629404,6629403,6629402"
+  }
+  {
+    id: 6629402
+    name: 【標記】全局技能1
+    skill_group_id: 6629402
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662940131&&662994131
+    mission_buff_add: 6629006:1
+    subsidiary_mission_skill: "6629405"
+  }
+  {
+    id: 6629403
+    name: 【標記】全局技能2
+    skill_group_id: 6629403
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662940132&&662994231
+    mission_buff_add: 6629007:1
+    subsidiary_mission_skill: "6629406"
+  }
+  {
+    id: 6629404
+    name: 【標記】全局技能3
+    skill_group_id: 6629404
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    trigger_id: 662940133&&662994331
+    mission_buff_add: 6629008:1
+    subsidiary_mission_skill: "6629407"
+  }
+  {
+    id: 6629405
+    name: 【標記】全局技能1扣除特殊點
+    skill_group_id: 6629405
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_minus: 6629941:1
+  }
+  {
+    id: 6629406
+    name: 【標記】全局技能2扣除特殊點
+    skill_group_id: 6629406
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_minus: 6629942:1
+  }
+  {
+    id: 6629407
+    name: 【標記】全局技能3扣除特殊點
+    skill_group_id: 6629407
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_minus: 6629943:1
+  }
+  {
+    id: 6629408
+    name: 投擲歌利亞
+    description: 炸它個稀巴爛。
+    skill_group_id: 6629408
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    start_range: 1
+    target_id: "662900940"
+    special_spot_add: 6629951:1
+    subsidiary_mission_skill: "6629411"
+    is_manual: 6620001
+  }
+  {
+    id: 6629409
+    name: 投擲EMP
+    description: "1,2,3,木頭人。"
+    skill_group_id: 6629409
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    start_range: 1
+    target_id: "662900940"
+    special_spot_add: 6629952:1
+    subsidiary_mission_skill: "6629412"
+    is_manual: 6620002
+  }
+  {
+    id: 6629410
+    name: 啟動傳送
+    description: 向範圍3以內的無人點發動傳送。
+    skill_group_id: 6629410
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    start_range: 3
+    is_airborne: 2
+    effect_cast: "1009"
+    effect_target: "1010"
+    special_spot_add: 6620006:1
+    subsidiary_mission_skill: "6629413"
+    is_manual: 6620003
+  }
+  {
+    id: 6629411
+    name: 【標記】投擲歌利亞扣除
+    skill_group_id: 6629411
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    mission_buff_minus: 6629000:1
+  }
+  {
+    id: 6629412
+    name: 【標記】投擲EMP扣除
+    skill_group_id: 6629412
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    mission_buff_minus: 6629001:1
+  }
+  {
+    id: 6629413
+    name: 【標記】發動傳送扣除
+    skill_group_id: 6629413
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 99
+    target_id: "662000631"
+    special_spot_minus: 6620006:1
+    mission_buff_minus: 6629002:1
+  }
+  {
+    id: 6629414
+    name: 開戰凍結
+    description:
+      '''
+      開始戰鬥時,眩暈全體敵人5秒。
+      <color=#CF8000>效果持續1回合</color>
+      '''
+    skill_group_id: 6629414
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    subsidiary_mission_skill: "6629417"
+    is_manual: 6620004
+  }
+  {
+    id: 6629415
+    name: 強襲之地
+    description:
+      '''
+      開始戰鬥時,賦予全體敵人20%易傷。
+      <color=#CF8000>效果持續1回合</color>
+      '''
+    skill_group_id: 6629415
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    subsidiary_mission_skill: "6629418"
+    is_manual: 6620005
+  }
+  {
+    id: 6629416
+    name: 覆蓋支援
+    description:
+      '''
+      戰鬥中每間隔5秒對全體敵方單位造成3000點傷害和1000點破防。
+      <color=#CF8000>效果持續1回合</color>
+      '''
+    skill_group_id: 6629416
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    subsidiary_mission_skill: "6629419"
+    is_manual: 6620006
+  }
+  {
+    id: 6629417
+    name: 【標記】效果連攜扣除1
+    skill_group_id: 6629417
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    target_id: "662900641"
+    mission_buff_minus: 6629006:1
+  }
+  {
+    id: 6629418
+    name: 【標記】效果連攜扣除2
+    skill_group_id: 6629418
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    target_id: "662900741"
+    mission_buff_minus: 6629007:1
+  }
+  {
+    id: 6629419
+    name: 【標記】效果連攜扣除3
+    skill_group_id: 6629419
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,10"
+    start_range: 99
+    target_id: "662900841"
+    mission_buff_minus: 6629008:1
+  }
+  {
     id: 8120101
     name: 開啟指令(對防禦門I型①)
     code: "1"
@@ -56721,7 +57924,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,301,302,303,7,8"
+    spot_echelon: "1,2,3,301,10,305,304,302,303,7,8"
     special_spot_add: 1010201:1,1010200:1
     subsidiary_mission_skill: "8120204"
   }
@@ -56767,7 +57970,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,301,302,303,7,8"
+    spot_echelon: "1,2,3,301,10,305,304,302,303,7,8"
     special_spot_add: 1010201:1,1010200:1
     special_spot_minus: 1010101:1,1010100:1
   }
@@ -56864,7 +58067,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,7,8"
+    spot_echelon: "1,2,3,7,8,10"
     special_spot_add: 1010401:1
     subsidiary_mission_skill: "8120502"
   }
@@ -56876,7 +58079,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,2,3,7,8"
+    spot_echelon: "1,2,3,7,8,10"
     special_spot_minus: 1010301:1
   }
   {
@@ -66228,7 +67431,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     start_range: 1
     mission_buff_add: 1000011:1
   }
@@ -66639,7 +67842,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "1,8"
+    spot_echelon: "1,8,10"
     start_range: 1
     mission_buff_add: 1000011:1
   }
@@ -71297,7 +72500,7 @@
   }
   {
     id: 93630101
-    name: 【標記】清除一層EMP手雷持有buff
+    name: 【標記】清除一層EMP手榴彈持有buff
     skill_group_id: 93630101
     level: 1
     spot_type: "-1"
@@ -71308,7 +72511,7 @@
   }
   {
     id: 93630102
-    name: 【標記】清除一層EMP手雷持有buff
+    name: 【標記】清除一層EMP手榴彈持有buff
     skill_group_id: 93630102
     level: 1
     spot_type: "-1"
@@ -71319,7 +72522,7 @@
   }
   {
     id: 93630103
-    name: 【標記】清除一層EMP手雷持有buff
+    name: 【標記】清除一層EMP手榴彈持有buff
     skill_group_id: 93630103
     level: 1
     spot_type: "-1"
@@ -71330,7 +72533,7 @@
   }
   {
     id: 93630104
-    name: 【標記】清除一層EMP手雷持有buff
+    name: 【標記】清除一層EMP手榴彈持有buff
     skill_group_id: 93630104
     level: 1
     spot_type: "-1"
@@ -71341,7 +72544,7 @@
   }
   {
     id: 93630105
-    name: 【標記】清除一層EMP手雷持有buff
+    name: 【標記】清除一層EMP手榴彈持有buff
     skill_group_id: 93630105
     level: 1
     spot_type: "-1"
@@ -71352,7 +72555,7 @@
   }
   {
     id: 93630106
-    name: 【標記】清除一層EMP手雷持有buff
+    name: 【標記】清除一層EMP手榴彈持有buff
     skill_group_id: 93630106
     level: 1
     spot_type: "-1"
@@ -71363,7 +72566,7 @@
   }
   {
     id: 93630107
-    name: 【標記】清除一層EMP手雷持有buff
+    name: 【標記】清除一層EMP手榴彈持有buff
     skill_group_id: 93630107
     level: 1
     spot_type: "-1"
@@ -71375,7 +72578,7 @@
   }
   {
     id: 93630108
-    name: 【標記】清除一層EMP手雷持有buff
+    name: 【標記】清除一層EMP手榴彈持有buff
     skill_group_id: 93630108
     level: 1
     spot_type: "-1"

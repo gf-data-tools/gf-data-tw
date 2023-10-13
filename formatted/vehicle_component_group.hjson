@@ -1,0 +1,199 @@
+[
+  {
+    id: 129
+    name: 裝填晶片
+  }
+  {
+    id: 130
+    name: 攻速晶片
+  }
+  {
+    id: 131
+    name: 精度晶片
+  }
+  {
+    id: 132
+    name: 命中晶片
+  }
+  {
+    id: 133
+    name: 護甲晶片
+  }
+  {
+    id: 134
+    name: 迴避晶片
+  }
+  {
+    id: 135
+    name: 火力晶片
+  }
+  {
+    id: 136
+    name: 全速晶片
+  }
+  {
+    id: 137
+    name: 鷹眼晶片
+  }
+  {
+    id: 138
+    name: 暴擊晶片
+  }
+  {
+    id: 139
+    name: 防禦晶片
+  }
+  {
+    id: 127
+    name: 重武晶片
+  }
+  {
+    id: 128
+    name: 輕武晶片
+  }
+  {
+    id: 101
+    name: 通用機槍MK-I
+    component_type: 2
+  }
+  {
+    id: 102
+    name: 反裝甲狙擊槍
+    component_type: 2
+  }
+  {
+    id: 103
+    name: 機槍組
+    component_type: 2
+  }
+  {
+    id: 104
+    name: 重機槍
+    component_type: 2
+  }
+  {
+    id: 105
+    name: 車載夜視儀
+    component_type: 3
+  }
+  {
+    id: 106
+    name: 烈焰噴射器
+    component_type: 2
+  }
+  {
+    id: 107
+    name: 機槍炮
+    component_type: 2
+  }
+  {
+    id: 108
+    name: 榴彈發射器
+    component_type: 1
+  }
+  {
+    id: 109
+    name: 雷射武器
+    component_type: 1
+  }
+  {
+    id: 110
+    name: 加農炮
+    component_type: 1
+  }
+  {
+    id: 111
+    name: 高射加農炮
+    component_type: 1
+  }
+  {
+    id: 112
+    name: 脈衝加農炮
+    component_type: 1
+  }
+  {
+    id: 113
+    name: 裝甲加農炮
+    component_type: 1
+  }
+  {
+    id: 114
+    name: 干擾槍
+    component_type: 3
+  }
+  {
+    id: 115
+    name: 干擾器
+    component_type: 3
+  }
+  {
+    id: 116
+    name: 訊號塔
+    component_type: 3
+  }
+  {
+    id: 117
+    name: 煙霧發射器
+    component_type: 3
+  }
+  {
+    id: 118
+    name: 導彈發射器MK1
+    component_type: 1
+  }
+  {
+    id: 119
+    name: 導彈發射器MK2
+    component_type: 1
+  }
+  {
+    id: 120
+    name: 電磁炮
+    component_type: 1
+  }
+  {
+    id: 121
+    name: 爆炸反應裝甲
+    component_type: 4
+  }
+  {
+    id: 122
+    name: 旋轉炮台
+    component_type: 2
+  }
+  {
+    id: 123
+    name: 無人機倉
+    component_type: 3
+  }
+  {
+    id: 124
+    name: 防護產生器
+    component_type: 4
+  }
+  {
+    id: 125
+    name: 相控陣雷達
+    component_type: 3
+  }
+  {
+    id: 140
+    name: 輕機槍
+    component_type: 2
+  }
+  {
+    id: 141
+    name: 自動防衛系統
+    component_type: 4
+  }
+  {
+    id: 142
+    name: 輕型速射電磁槍
+    component_type: 2
+  }
+  {
+    id: 143
+    name: 雷射壓制裝置
+    component_type: 3
+  }
+]

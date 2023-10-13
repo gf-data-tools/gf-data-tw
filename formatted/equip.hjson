@@ -1429,7 +1429,7 @@
     passive_skill: "759090"
     max_level: 10
     auto_select_id: 19002
-    equip_group_id: 4
+    group_id: "4"
     is_show: 1
     obtain_ids: "3"
   }
@@ -1496,7 +1496,7 @@
     passive_skill: "759184"
     max_level: 10
     auto_select_id: 20002
-    equip_group_id: 7
+    group_id: "7"
     is_show: 1
     obtain_ids: "3"
   }
@@ -2226,7 +2226,7 @@
     passive_skill: "759098"
     max_level: 10
     auto_select_id: 20003
-    equip_group_id: 3
+    group_id: "3"
     is_show: 1
     obtain_ids: "3"
   }
@@ -2406,8 +2406,10 @@
     powerup_part: 0.38
     exclusive_rate: 3
     bonus_type: dodge:400,critical_harm_rate:700
+    passive_skill: "759085,759088"
     max_level: 10
     auto_select_id: 20005
+    group_id: "13,14"
     is_show: 1
     obtain_ids: "3,3048"
   }
@@ -2661,7 +2663,7 @@
     passive_skill: "759089"
     max_level: 10
     auto_select_id: 18005
-    equip_group_id: 4
+    group_id: "4"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -2761,7 +2763,7 @@
     passive_skill: "759140"
     max_level: 10
     auto_select_id: 18006
-    equip_group_id: 6
+    group_id: "6"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -2861,7 +2863,7 @@
     passive_skill: "759233"
     max_level: 10
     auto_select_id: 18009
-    equip_group_id: 12
+    group_id: "12"
     is_show: 1
     obtain_ids: "3,3049"
   }
@@ -3022,7 +3024,7 @@
     passive_skill: "759096"
     max_level: 10
     auto_select_id: 18010
-    equip_group_id: 3
+    group_id: "3"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -3436,8 +3438,10 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: dodge:500,critical_percent:400
+    passive_skill: "759083"
     max_level: 10
     auto_select_id: 18020
+    group_id: "13"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -3668,7 +3672,7 @@
     passive_skill: "759189"
     max_level: 10
     auto_select_id: 18026
-    equip_group_id: 8
+    group_id: "8"
     is_show: 1
     obtain_ids: "3027"
   }
@@ -3705,7 +3709,7 @@
     passive_skill: "300120,759147"
     max_level: 10
     auto_select_id: 18027
-    equip_group_id: 5
+    group_id: "5"
     is_show: 1
     obtain_ids: "3"
   }
@@ -4387,7 +4391,7 @@
     passive_skill: "759239"
     max_level: 10
     auto_select_id: 18036
-    equip_group_id: 11
+    group_id: "11"
     is_show: 1
     obtain_ids: "3003"
   }
@@ -4419,8 +4423,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: pow:450,hit:500,dodge:500
+    passive_skill: "759086"
     max_level: 10
     auto_select_id: 18037
+    group_id: "14"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -4455,7 +4461,7 @@
     passive_skill: "759185"
     max_level: 10
     auto_select_id: 18038
-    equip_group_id: 7
+    group_id: "7"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -4522,7 +4528,7 @@
     passive_skill: "759234"
     max_level: 10
     auto_select_id: 20020
-    equip_group_id: 12
+    group_id: "12"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -4918,7 +4924,7 @@
     passive_skill: "759132"
     max_level: 10
     auto_select_id: 20023
-    equip_group_id: 5
+    group_id: "5"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -5216,7 +5222,7 @@
     passive_skill: "759216"
     max_level: 10
     auto_select_id: 18052
-    equip_group_id: 9
+    group_id: "9"
     is_show: 1
     obtain_ids: "3003"
   }
@@ -5849,7 +5855,7 @@
     passive_skill: "900992"
     max_level: 10
     auto_select_id: 18061
-    equip_group_id: 1
+    group_id: "1"
     is_addition: 1
     is_show: 1
     obtain_ids: "3059"
@@ -5884,7 +5890,7 @@
     passive_skill: "900993"
     max_level: 10
     auto_select_id: 19021
-    equip_group_id: 1
+    group_id: "1"
     is_addition: 1
     is_show: 1
     obtain_ids: "3060"
@@ -5919,7 +5925,7 @@
     passive_skill: "900994"
     max_level: 10
     auto_select_id: 20030
-    equip_group_id: 1
+    group_id: "1"
     is_addition: 1
     is_show: 1
     obtain_ids: "3032"
@@ -5953,7 +5959,7 @@
     passive_skill: "901014"
     max_level: 10
     auto_select_id: 18062
-    equip_group_id: 2
+    group_id: "2"
     is_addition: 1
     is_show: 1
     obtain_ids: "3059"
@@ -5987,7 +5993,7 @@
     passive_skill: "901015"
     max_level: 10
     auto_select_id: 19022
-    equip_group_id: 2
+    group_id: "2"
     is_addition: 1
     is_show: 1
     obtain_ids: "3060"
@@ -6021,7 +6027,7 @@
     passive_skill: "901016"
     max_level: 10
     auto_select_id: 20031
-    equip_group_id: 2
+    group_id: "2"
     is_addition: 1
     is_show: 1
     obtain_ids: "3033"
@@ -6482,7 +6488,7 @@
     passive_skill: "902391,759141"
     max_level: 10
     auto_select_id: 20035
-    equip_group_id: 6
+    group_id: "6"
     is_show: 1
     obtain_ids: "3006"
   }
@@ -6517,7 +6523,7 @@
     passive_skill: "759221"
     max_level: 10
     auto_select_id: 18068
-    equip_group_id: 10
+    group_id: "10"
     is_show: 1
     obtain_ids: "3003"
   }
@@ -7117,7 +7123,7 @@
     passive_skill: "300903,759217"
     max_level: 10
     auto_select_id: 19029
-    equip_group_id: 9
+    group_id: "9"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -7151,7 +7157,7 @@
     passive_skill: "803906,759190"
     max_level: 10
     auto_select_id: 19030
-    equip_group_id: 8
+    group_id: "8"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -8170,7 +8176,7 @@
     max_level: 10
     auto_select_id: 18084
     is_show: 1
-    obtain_ids: "3064"
+    obtain_ids: "3064,3096"
   }
   {
     id: 271
@@ -8234,7 +8240,7 @@
     passive_skill: "759222"
     max_level: 10
     auto_select_id: 19038
-    equip_group_id: 10
+    group_id: "10"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -8599,7 +8605,7 @@
     max_level: 10
     auto_select_id: 18092
     is_show: 1
-    obtain_ids: "3068"
+    obtain_ids: "3068,3096"
   }
   {
     id: 284
@@ -8631,7 +8637,7 @@
     passive_skill: "300903,759240"
     max_level: 10
     auto_select_id: 19041
-    equip_group_id: 11
+    group_id: "11"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -10385,7 +10391,7 @@
     passive_skill: "759097"
     max_level: 10
     auto_select_id: 19053
-    equip_group_id: 3
+    group_id: "3"
     is_show: 1
     obtain_ids: "3096"
   }
@@ -10420,7 +10426,7 @@
     passive_skill: "759091"
     max_level: 10
     auto_select_id: 18114
-    equip_group_id: 4
+    group_id: "4"
     is_show: 1
     obtain_ids: "3096"
   }
@@ -10553,7 +10559,7 @@
     passive_skill: "759133,759034"
     max_level: 10
     auto_select_id: 19057
-    equip_group_id: 5
+    group_id: "5"
     is_show: 1
     obtain_ids: "3096"
     sp_description: 梯隊命中+20%
@@ -10588,7 +10594,7 @@
     passive_skill: "759142,759034"
     max_level: 10
     auto_select_id: 19058
-    equip_group_id: 6
+    group_id: "6"
     is_show: 1
     obtain_ids: "3096"
     sp_description: 梯隊命中+20%
@@ -10755,7 +10761,7 @@
     passive_skill: "759186"
     max_level: 10
     auto_select_id: 19060
-    equip_group_id: 7
+    group_id: "7"
     is_show: 1
     obtain_ids: "3096"
   }
@@ -10791,7 +10797,7 @@
     passive_skill: "759062,759191"
     max_level: 10
     auto_select_id: 20059
-    equip_group_id: 8
+    group_id: "8"
     is_show: 1
     obtain_ids: "3096"
     sp_description: 換彈時間-2秒
@@ -10859,7 +10865,7 @@
     passive_skill: "759218"
     max_level: 10
     auto_select_id: 20061
-    equip_group_id: 9
+    group_id: "9"
     is_show: 1
     obtain_ids: "3096"
   }
@@ -10893,7 +10899,7 @@
     passive_skill: "759223"
     max_level: 10
     auto_select_id: 20062
-    equip_group_id: 10
+    group_id: "10"
     is_show: 1
     obtain_ids: "3096"
   }
@@ -10990,7 +10996,7 @@
     passive_skill: "759241"
     max_level: 10
     auto_select_id: 20065
-    equip_group_id: 11
+    group_id: "11"
     is_show: 1
     obtain_ids: "3096"
   }
@@ -11024,7 +11030,7 @@
     passive_skill: "759235"
     max_level: 10
     auto_select_id: 19061
-    equip_group_id: 12
+    group_id: "12"
     is_show: 1
     obtain_ids: "3096"
     sp_description: 梯隊傷害+5%
@@ -11060,6 +11066,107 @@
     auto_select_id: 20066
     is_show: 1
     obtain_ids: "3089"
+  }
+  {
+    id: 358
+    name: .45UMP空尖彈
+    description:
+      '''
+      傷害+<pow>
+      命中+<hit>$UMP45改型專用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "6,10"
+    hit: "8,10"
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: 弹匣_特殊_UMP45Mod
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "20103"
+    equip_introduction: 為UMP45定制的新型空尖彈，在原有的基礎上大幅降低了音爆的影響。
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: pow:1000,hit:500
+    passive_skill: "759084"
+    max_level: 10
+    auto_select_id: 19062
+    group_id: "13"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 359
+    name: 9mmUMP空尖彈
+    description:
+      '''
+      傷害+<pow>
+      暴擊概率+<critical_percent><%>$UMP9改型專用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "5,8"
+    critical_percent: "6,10"
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: 弹匣_特殊_UMP9Mod
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "20101"
+    equip_introduction: 為UMP9定制的新型空尖彈，在原有的基礎上提升了一定的殺傷力。
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: critical_percent:1000,pow:1000
+    passive_skill: "759087"
+    max_level: 10
+    auto_select_id: 19063
+    group_id: "14"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 360
+    name: 小熊輔助處理器
+    description:
+      '''
+      傷害+<pow> 射速<rate>
+      暴擊傷害+<critical_harm_rate><%>$AS Val專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "8,10"
+    rate: "-5,-1"
+    critical_harm_rate: "15,25"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: 人形_特殊_ASVal
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "60,20060"
+    equip_introduction: 按AS Val特別要求設計的處理器，加裝了不少特別功能，但願不會影響作戰任務的執行。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:500,critical_harm_rate:1000
+    max_level: 10
+    auto_select_id: 20067
+    is_show: 1
+    obtain_ids: "3099"
   }
   {
     id: 361
@@ -11164,7 +11271,7 @@
     description:
       '''
       移速+<speed>
-      護甲+<armor>$M870專用
+      護甲+<armor>技能增強$M870專用
       '''
     rank: 5
     category: 3

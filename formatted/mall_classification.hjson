@@ -124,14 +124,20 @@
     name: 協議復刻
   }
   {
+    id: 3007
+    parent_id: 3000
+    sort: 6
+    name: 裝扮盲盒
+  }
+  {
     id: 4000
-    sort: 5
+    sort: 6
     name: 服裝
     description: 指挥官服装
   }
   {
     id: 5000
-    sort: 6
+    sort: 5
     name: 物品
     description: 消耗品
   }
@@ -178,7 +184,12 @@
   }
   {
     id: 7000
-    sort: 7
+    sort: 8
     name: 友情商店
+  }
+  {
+    id: 8000
+    sort: 7
+    name: 裝甲風格
   }
 ]

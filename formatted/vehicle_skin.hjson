@@ -1,0 +1,1238 @@
+[
+  {
+    id: 10001
+    name: 通用型-沙漠黃圖紙
+    type: 1
+    vehicle_id: "1"
+    class_id: 1
+    code: TankM1_1001
+    item_id: 133007
+    obtain: "7"
+    introduction: 黃褐黑的精心搭配，讓你隱遁在茫茫荒漠。
+    is_show: 1
+  }
+  {
+    id: 10002
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 101
+    class_id: 1
+    code: MG_Single_1001
+    item_id: 133008
+    obtain: "7"
+    introduction: 基礎機槍，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10003
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 102
+    class_id: 1
+    code: RF_AntiTank_1001
+    item_id: 133009
+    obtain: "7"
+    introduction: 反裝甲狙擊槍，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10005
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 103
+    class_id: 1
+    code: MG_Multi_Barrel_1001
+    item_id: 133011
+    obtain: "7"
+    introduction: 提供密集的掃射支援，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10006
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 105
+    class_id: 1
+    code: Searchlight_1001
+    item_id: 133012
+    obtain: "7"
+    introduction: 提供夜間視野，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10007
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 106
+    class_id: 1
+    code: Flame_Ejector_1001
+    item_id: 133013
+    obtain: "7"
+    introduction: 近距離噴射火焰，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10008
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 107
+    class_id: 1
+    code: MG_Cannon_1001
+    item_id: 133014
+    obtain: "7"
+    introduction: 小口徑炮彈發射器，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10009
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 108
+    class_id: 1
+    code: GrenadeComponent_1001
+    item_id: 133015
+    obtain: "7"
+    introduction: 靈活多變的多功能發射器，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10010
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 109
+    class_id: 1
+    code: Laser_Weapon_1001
+    item_id: 133016
+    obtain: "7"
+    introduction: 多目標持續傷害利器，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10011
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 110
+    class_id: 1
+    code: Cannon_1001
+    item_id: 133017
+    obtain: "7"
+    introduction: 大範圍傷害的火炮，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10012
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 111
+    class_id: 1
+    code: Flak_Cannon_1001
+    item_id: 133018
+    obtain: "7"
+    introduction: 遠距離特化的加農炮，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10013
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 112
+    class_id: 1
+    code: Pulse_Cannon_1001
+    item_id: 133019
+    obtain: "7"
+    introduction: 近距離持續傷害的加農炮，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10014
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 113
+    class_id: 1
+    code: Armor_Cannon_1001
+    item_id: 133020
+    obtain: "7"
+    introduction: 提供了更多裝甲防護的加農炮，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10015
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 114
+    class_id: 1
+    code: Interference_Gun_1001
+    item_id: 133021
+    obtain: "7"
+    introduction: 發射影響機械單位的干擾彈，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10016
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 115
+    class_id: 1
+    code: Jammer_1001
+    item_id: 133022
+    obtain: "7"
+    introduction: 提供範圍干擾的支援設備，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10017
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 116
+    class_id: 1
+    code: Signal_Tower_1001
+    item_id: 133023
+    obtain: "7"
+    introduction: 為我方提供強化的支援設備，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10018
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 117
+    class_id: 1
+    code: Smoke_Emitter_1001
+    item_id: 133024
+    obtain: "7"
+    introduction: 製造定點的煙霧干擾，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10019
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 118
+    class_id: 1
+    code: Small_Missile_Launcher_1001
+    item_id: 133025
+    obtain: "7"
+    introduction: 為戰鬥提供精準打擊，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10020
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 119
+    class_id: 1
+    code: Medium_Missile_Launcher_1001
+    item_id: 133026
+    obtain: "7"
+    introduction: 為友軍提供強大的火力支援，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10021
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 120
+    class_id: 1
+    code: Electromagnetic_Artillery_1001
+    item_id: 133027
+    obtain: "7"
+    introduction: 威力巨大的主力武器，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10022
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 141
+    class_id: 1
+    code: Protective_Generator_1001
+    item_id: 133028
+    obtain: "7"
+    introduction: 可進行多種武器的切換，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10023
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 122
+    class_id: 1
+    code: Rotating_Turret_1001
+    item_id: 133029
+    obtain: "7"
+    introduction: 釋放可戰鬥的無人機，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10024
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 123
+    class_id: 1
+    code: UAV_Compartment_1001
+    item_id: 133030
+    obtain: "7"
+    introduction: 為機動裝甲產生防護，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10025
+    name: 通用型-城市迷彩圖紙
+    type: 1
+    vehicle_id: "1"
+    class_id: 2
+    code: TankM1_1002
+    item_id: 133031
+    obtain: "7"
+    introduction: 鋼筋混凝土的叢林，我是獵人，你是獵物。
+    is_show: 1
+  }
+  {
+    id: 10026
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 101
+    class_id: 2
+    code: MG_Single_1002
+    item_id: 133032
+    obtain: "7"
+    introduction: 基礎機槍，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10027
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 102
+    class_id: 2
+    code: RF_AntiTank_1002
+    item_id: 133033
+    obtain: "7"
+    introduction: 反裝甲狙擊槍，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10029
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 103
+    class_id: 2
+    code: MG_Multi_Barrel_1002
+    item_id: 133035
+    obtain: "7"
+    introduction: 多槍管的掛載機槍，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10030
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 105
+    class_id: 2
+    code: Searchlight_1002
+    item_id: 133036
+    obtain: "7"
+    introduction: 提供夜間視野，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10031
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 106
+    class_id: 2
+    code: Flame_Ejector_1002
+    item_id: 133037
+    obtain: "7"
+    introduction: 近距離噴射火焰，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10032
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 107
+    class_id: 2
+    code: MG_Cannon_1002
+    item_id: 133038
+    obtain: "7"
+    introduction: 小口徑炮彈發射器，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10033
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 108
+    class_id: 2
+    code: GrenadeComponent_1002
+    item_id: 133039
+    obtain: "7"
+    introduction: 靈活多變的多功能發射器，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10034
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 109
+    class_id: 2
+    code: Laser_Weapon_1002
+    item_id: 133040
+    obtain: "7"
+    introduction: 多目標持續傷害利器，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10035
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 110
+    class_id: 2
+    code: Cannon_1002
+    item_id: 133041
+    obtain: "7"
+    introduction: 大範圍傷害的火炮，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10036
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 111
+    class_id: 2
+    code: Flak_Cannon_1002
+    item_id: 133042
+    obtain: "7"
+    introduction: 遠距離特化的加農炮，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10037
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 112
+    class_id: 2
+    code: Pulse_Cannon_1002
+    item_id: 133043
+    obtain: "7"
+    introduction: 近距離持續傷害的加農炮，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10038
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 113
+    class_id: 2
+    code: Armor_Cannon_1002
+    item_id: 133044
+    obtain: "7"
+    introduction: 提供了更多裝甲防護的加農炮，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10039
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 114
+    class_id: 2
+    code: Interference_Gun_1002
+    item_id: 133045
+    obtain: "7"
+    introduction: 發射影響機械單位的干擾彈，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10040
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 115
+    class_id: 2
+    code: Jammer_1002
+    item_id: 133046
+    obtain: "7"
+    introduction: 提供範圍干擾的支援設備，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10041
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 116
+    class_id: 2
+    code: Signal_Tower_1002
+    item_id: 133047
+    obtain: "7"
+    introduction: 為我方提供強化的支援設備，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10042
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 117
+    class_id: 2
+    code: Smoke_Emitter_1002
+    item_id: 133048
+    obtain: "7"
+    introduction: 製造頂點的煙霧，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10043
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 118
+    class_id: 2
+    code: Small_Missile_Launcher_1002
+    item_id: 133049
+    obtain: "7"
+    introduction: 為戰鬥提供精準打擊，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10044
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 119
+    class_id: 2
+    code: Medium_Missile_Launcher_1002
+    item_id: 133050
+    obtain: "7"
+    introduction: 為友軍提供火力支援，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10045
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 120
+    class_id: 2
+    code: Electromagnetic_Artillery_1002
+    item_id: 133051
+    obtain: "7"
+    introduction: 威力巨大的主力武器，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10046
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 141
+    class_id: 2
+    code: Protective_Generator_1002
+    item_id: 133052
+    obtain: "7"
+    introduction: 可進行多種武器的切換，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10047
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 122
+    class_id: 2
+    code: Rotating_Turret_1002
+    item_id: 133053
+    obtain: "7"
+    introduction: 釋放可戰鬥的無人機，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10048
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 123
+    class_id: 2
+    code: UAV_Compartment_1002
+    item_id: 133054
+    obtain: "7"
+    introduction: 為機動裝甲產生防護，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10049
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 140
+    class_id: 1
+    code: LMGCom_1001
+    item_id: 133057
+    obtain: "7"
+    introduction: 多目標弱單位用機槍，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10050
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 142
+    class_id: 1
+    code: ElecGun_1001
+    item_id: 133058
+    obtain: "7"
+    introduction: 犧牲火力換取射速的電磁槍，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10051
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 124
+    class_id: 1
+    code: AutoDef_1001
+    item_id: 133059
+    obtain: "7"
+    introduction: 為機動裝甲產生防護，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10052
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 143
+    class_id: 1
+    code: LaserSup_1001
+    item_id: 133060
+    obtain: "7"
+    introduction: 干擾敵方的火力瞄準，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10053
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 104
+    class_id: 1
+    code: HMGCom_1001
+    item_id: 133061
+    obtain: "7"
+    introduction: 擁有更猛火力的機槍，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10054
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 125
+    class_id: 1
+    code: PAR_1001
+    item_id: 133062
+    obtain: "7"
+    introduction: 提供範圍的偵測，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10055
+    name: 通用型-沙漠黃
+    type: 2
+    group_id: 121
+    class_id: 1
+    code: ERA_1001
+    item_id: 133063
+    obtain: "7"
+    introduction: 有效應對穿甲彈的襲擊，塗裝了和圖紙配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10056
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 140
+    class_id: 2
+    code: LMGCom_1002
+    item_id: 133064
+    obtain: "7"
+    introduction: 多目標弱單位用機槍，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10057
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 142
+    class_id: 2
+    code: ElecGun_1002
+    item_id: 133065
+    obtain: "7"
+    introduction: 犧牲火力換取射速的電磁槍，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10058
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 124
+    class_id: 2
+    code: AutoDef_1002
+    item_id: 133066
+    obtain: "7"
+    introduction: 為機動裝甲產生防護，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10059
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 143
+    class_id: 2
+    code: LaserSup_1002
+    item_id: 133067
+    obtain: "7"
+    introduction: 干擾敵方的瞄準設備，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10060
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 104
+    class_id: 2
+    code: HMGCom_1002
+    item_id: 133068
+    obtain: "7"
+    introduction: 擁有更猛火力的機槍，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10061
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 125
+    class_id: 2
+    code: PAR_1002
+    item_id: 133069
+    obtain: "7"
+    introduction: 提供範圍的偵測，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10062
+    name: 通用型-城市迷彩
+    type: 2
+    group_id: 121
+    class_id: 2
+    code: ERA_1002
+    item_id: 133070
+    obtain: "7"
+    introduction: 有效應對穿甲彈的襲擊，塗裝了和圖紙配套的城市迷彩。
+    is_show: 1
+  }
+  {
+    id: 10063
+    name: 通用型-沙漠黃圖紙
+    type: 1
+    vehicle_id: "2"
+    class_id: 1
+    code: Warjack_1001
+    item_id: 133055
+    obtain: "7"
+    introduction: 黃褐黑的精心搭配，讓你隱遁在茫茫荒漠。
+    is_show: 1
+  }
+  {
+    id: 10064
+    name: 通用型-城市迷彩圖紙
+    type: 1
+    vehicle_id: "2"
+    class_id: 2
+    code: Warjack_1002
+    item_id: 133056
+    obtain: "7"
+    introduction: 鋼筋混凝土的叢林，我是獵人，你是獵物。
+    is_show: 1
+  }
+  {
+    id: 10065
+    name: KV-2-巨齒鯊圖紙
+    type: 1
+    vehicle_id: "1"
+    class_id: 3
+    code: TankM1_1003
+    item_id: 133071
+    obtain: "40"
+    introduction: 張著大嘴的鯊魚和這個鋼鐵怪獸可是絕配！
+    is_show: 1
+  }
+  {
+    id: 10066
+    name: KV-2-雪地迷彩圖紙
+    type: 1
+    vehicle_id: "1"
+    class_id: 4
+    code: TankM1_1004
+    item_id: 133072
+    obtain: "40"
+    introduction: 和這個傢伙比，雪崩的威力也不過如此。
+    is_show: 1
+  }
+  {
+    id: 10067
+    name: 裁決-原野灰圖紙
+    type: 1
+    vehicle_id: "1"
+    class_id: 5
+    code: TankM1_1005
+    item_id: 133073
+    obtain: "40"
+    introduction: 看這嶄新的油漆漂亮的膛線，會是哪位幸運的兵蟻聽到它第一次怒吼呢？
+    is_show: 1
+  }
+  {
+    id: 10068
+    name: 裁決-雪地迷彩圖紙
+    type: 1
+    vehicle_id: "1"
+    class_id: 6
+    code: TankM1_1006
+    item_id: 133074
+    obtain: "40"
+    introduction: 再冰冷的履帶，也休想抑制它熱情的火舌。
+    is_show: 1
+  }
+  {
+    id: 10069
+    name: 裁決-沙漠黃圖紙
+    type: 1
+    vehicle_id: "1"
+    class_id: 7
+    code: TankM1_1007
+    item_id: 133075
+    obtain: "40"
+    introduction: 讓引擎的怒吼把沙漠揚上天吧！
+    is_show: 1
+  }
+  {
+    id: 10070
+    name: 裁決-叢林迷彩圖紙
+    type: 1
+    vehicle_id: "1"
+    class_id: 8
+    code: TankM1_1008
+    item_id: 133076
+    obtain: "40"
+    introduction: 逢山開路，遇水疊橋，泥濘濺起，枝杈飛揚。
+    is_show: 1
+  }
+  {
+    id: 10071
+    name: TCW48-A3鋼爪圖紙
+    type: 1
+    vehicle_id: "2"
+    class_id: 9
+    code: Warjack_1009
+    item_id: 133077
+    obtain: "40"
+    introduction: 學會駕馭，冷靜是你最強大的武器。
+    is_show: 1
+  }
+  {
+    id: 10072
+    name: TCW48-A3鋼爪
+    type: 2
+    group_id: 106
+    class_id: 9
+    code: Flame_Ejector_1009
+    item_id: 133078
+    obtain: "40"
+    introduction: 鋼爪的配套烈焰噴射器，能近距離噴射火焰。
+    is_show: 1
+  }
+  {
+    id: 10073
+    name: TCW48-A3鋼爪
+    type: 2
+    group_id: 103
+    class_id: 9
+    code: MG_Multi_Barrel_1009
+    item_id: 133079
+    obtain: "40"
+    introduction: 鋼爪的配套多管機槍，能提供密集的掃射支援。
+    is_show: 1
+  }
+  {
+    id: 10074
+    name: TCW48-A3鋼爪
+    type: 2
+    group_id: 107
+    class_id: 9
+    code: MG_Cannon_1009
+    item_id: 133080
+    obtain: "40"
+    introduction: 鋼爪的配套機槍炮，小口徑炮彈發射器。
+    is_show: 1
+  }
+  {
+    id: 10075
+    name: TCW48-A3鋼爪
+    type: 2
+    group_id: 124
+    class_id: 9
+    code: AutoDef_1009
+    item_id: 133081
+    obtain: "40"
+    introduction: 鋼爪的配套防護發生器，為鋼爪提供防護。
+    is_show: 1
+  }
+  {
+    id: 10076
+    name: TCW48-A3鋼爪
+    type: 2
+    group_id: 115
+    class_id: 9
+    code: Jammer_1009
+    item_id: 133082
+    obtain: "40"
+    introduction: 鋼爪的配套干擾器，能夠提供範圍干擾
+    is_show: 1
+  }
+  {
+    id: 10083
+    name: KV-2-通用
+    type: 2
+    group_id: 101
+    class_id: 3
+    code: MG_Single_1003
+    item_id: 133089
+    obtain: "40"
+    introduction: 基礎機槍，塗裝可適配KV-2的所有風格。
+    is_show: 1
+  }
+  {
+    id: 10084
+    name: KV-2-巨齒鯊
+    type: 2
+    group_id: 105
+    class_id: 3
+    code: Searchlight_1003
+    item_id: 133090
+    obtain: "40"
+    introduction: 提供夜間視野，塗裝了和KV-2配套的巨齒鯊風格。
+    is_show: 1
+  }
+  {
+    id: 10085
+    name: KV-2-巨齒鯊
+    type: 2
+    group_id: 141
+    class_id: 3
+    code: Protective_Generator_1003
+    item_id: 133091
+    obtain: "40"
+    introduction: 為機動裝甲產生防護，塗裝了和KV-2配套的巨齒鯊風格。
+    is_show: 1
+  }
+  {
+    id: 10086
+    name: KV-2-巨齒鯊
+    type: 2
+    group_id: 118
+    class_id: 3
+    code: Small_Missile_Launcher_1003
+    item_id: 133092
+    obtain: "40"
+    introduction: 為戰鬥提供精準打擊，塗裝了和KV-2配套的巨齒鯊風格。
+    is_show: 1
+  }
+  {
+    id: 10087
+    name: KV-2-巨齒鯊
+    type: 2
+    group_id: 106
+    class_id: 3
+    code: Flame_Ejector_1003
+    item_id: 133093
+    obtain: "40"
+    introduction: 近距離噴射火焰，塗裝了和KV-2配套的巨齒鯊風格。
+    is_show: 1
+  }
+  {
+    id: 10088
+    name: KV-2 -雪地迷彩
+    type: 2
+    group_id: 105
+    class_id: 4
+    code: Searchlight_1004
+    item_id: 133094
+    obtain: "40"
+    introduction: 提供夜間視野，塗裝了和KV-2配套的雪地迷彩。
+    is_show: 1
+  }
+  {
+    id: 10089
+    name: KV-2 -雪地迷彩
+    type: 2
+    group_id: 141
+    class_id: 4
+    code: Protective_Generator_1004
+    item_id: 133095
+    obtain: "40"
+    introduction: 為機動裝甲產生防護，塗裝了和KV-2配套的雪地迷彩。
+    is_show: 1
+  }
+  {
+    id: 10090
+    name: KV-2 -雪地迷彩
+    type: 2
+    group_id: 118
+    class_id: 4
+    code: Small_Missile_Launcher_1004
+    item_id: 133096
+    obtain: "40"
+    introduction: 為戰鬥提供精準打擊，塗裝了和KV-2配套的雪地迷彩。
+    is_show: 1
+  }
+  {
+    id: 10091
+    name: KV-2 -雪地迷彩
+    type: 2
+    group_id: 106
+    class_id: 4
+    code: Flame_Ejector_1004
+    item_id: 133097
+    obtain: "40"
+    introduction: 近距離噴射火焰，塗裝了和KV-2配套的雪地迷彩。
+    is_show: 1
+  }
+  {
+    id: 10092
+    name: 裁決-原野灰
+    type: 2
+    group_id: 111
+    class_id: 5
+    code: Flak_Cannon_1005
+    item_id: 133098
+    obtain: "40"
+    introduction: 遠距離特化的加農炮，塗裝了和裁決配套的原野灰風格。
+    is_show: 1
+  }
+  {
+    id: 10093
+    name: 裁決-原野灰
+    type: 2
+    group_id: 117
+    class_id: 5
+    code: Smoke_Emitter_1005
+    item_id: 133099
+    obtain: "40"
+    introduction: 製造定點的煙霧干擾，塗裝了和裁決配套的原野灰風格。
+    is_show: 1
+  }
+  {
+    id: 10094
+    name: 裁決-通用
+    type: 2
+    group_id: 116
+    class_id: 5
+    code: Signal_Tower_1005
+    item_id: 133100
+    obtain: "40"
+    introduction: 為我方提供強化的支援設備，塗裝了配套裁決全系的風格。
+    is_show: 1
+  }
+  {
+    id: 10095
+    name: 裁決-原野灰
+    type: 2
+    group_id: 107
+    class_id: 5
+    code: MG_Cannon_1005
+    item_id: 133101
+    obtain: "40"
+    introduction: 小口徑炮彈發射器，塗裝了和裁決配套的原野灰風格。
+    is_show: 1
+  }
+  {
+    id: 10096
+    name: 裁決-原野灰
+    type: 2
+    group_id: 118
+    class_id: 5
+    code: Small_Missile_Launcher_1005
+    item_id: 133102
+    obtain: "40"
+    introduction: 為戰鬥提供精準打擊，塗裝了和裁決配套的原野灰風格。
+    is_show: 1
+  }
+  {
+    id: 10097
+    name: 裁決-通用
+    type: 2
+    group_id: 111
+    class_id: 6
+    code: Flak_Cannon_1006
+    item_id: 133103
+    obtain: "40"
+    introduction: 遠距離特化的加農炮，塗裝了和裁決配套的迷彩及沙漠風格。
+    is_show: 1
+  }
+  {
+    id: 10098
+    name: 裁決-雪地迷彩
+    type: 2
+    group_id: 117
+    class_id: 6
+    code: Smoke_Emitter_1006
+    item_id: 133104
+    obtain: "40"
+    introduction: 製造定點的煙霧干擾，塗裝了和裁決配套的雪地迷彩。
+    is_show: 1
+  }
+  {
+    id: 10099
+    name: 裁決-雪地迷彩
+    type: 2
+    group_id: 107
+    class_id: 6
+    code: MG_Cannon_1006
+    item_id: 133105
+    obtain: "40"
+    introduction: 小口徑炮彈發射器，塗裝了和裁決配套的雪地迷彩。
+    is_show: 1
+  }
+  {
+    id: 10100
+    name: 裁決-雪地迷彩
+    type: 2
+    group_id: 118
+    class_id: 6
+    code: Small_Missile_Launcher_1006
+    item_id: 133106
+    obtain: "40"
+    introduction: 為戰鬥提供精準打擊，塗裝了和裁決配套的雪地迷彩。
+    is_show: 1
+  }
+  {
+    id: 10101
+    name: 裁決-通用
+    type: 2
+    group_id: 117
+    class_id: 7
+    code: Smoke_Emitter_1007
+    item_id: 133107
+    obtain: "40"
+    introduction: 製造定點的煙霧干擾，塗裝了和裁決配套的沙漠及叢林風格。
+    is_show: 1
+  }
+  {
+    id: 10102
+    name: 裁決-沙漠黃
+    type: 2
+    group_id: 107
+    class_id: 7
+    code: MG_Cannon_1007
+    item_id: 133108
+    obtain: "40"
+    introduction: 小口徑炮彈發射器，塗裝了和裁決配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10103
+    name: 裁決-沙漠黃
+    type: 2
+    group_id: 118
+    class_id: 7
+    code: Small_Missile_Launcher_1007
+    item_id: 133109
+    obtain: "40"
+    introduction: 為戰鬥提供精準打擊，塗裝了和裁決配套的沙漠黃風格。
+    is_show: 1
+  }
+  {
+    id: 10104
+    name: 裁決-叢林迷彩
+    type: 2
+    group_id: 107
+    class_id: 8
+    code: MG_Cannon_1008
+    item_id: 133110
+    obtain: "40"
+    introduction: 小口徑炮彈發射器，塗裝了和裁決配套的叢林迷彩。
+    is_show: 1
+  }
+  {
+    id: 10105
+    name: 裁決-叢林迷彩
+    type: 2
+    group_id: 118
+    class_id: 8
+    code: Small_Missile_Launcher_1008
+    item_id: 133111
+    obtain: "40"
+    introduction: 為戰鬥提供精準打擊，塗裝了和裁決配套的叢林迷彩。
+    is_show: 1
+  }
+  {
+    id: 11100
+    name: 麒麟圖紙
+    type: 1
+    vehicle_id: "1"
+    class_id: 11
+    code: TankM1_1011
+    item_id: 133112
+    obtain: "40"
+    introduction: 我們是讓人顫抖的雄獅，我們是帶來勝利的麒麟。
+    is_show: 1
+  }
+  {
+    id: 11101
+    name: 麒麟
+    type: 2
+    group_id: 108
+    class_id: 11
+    code: GrenadeComponent_1011
+    item_id: 133113
+    obtain: "40"
+    introduction: 麒麟的配套榴彈發射器，能靈活多變的發射各式彈藥。
+    is_show: 1
+  }
+  {
+    id: 11102
+    name: 麒麟
+    type: 2
+    group_id: 117
+    class_id: 11
+    code: Smoke_Emitter_1011
+    item_id: 133114
+    obtain: "40"
+    introduction: 麒麟的配套煙霧發射器，能製造定點的煙霧干擾。
+    is_show: 1
+  }
+  {
+    id: 11103
+    name: 麒麟
+    type: 2
+    group_id: 143
+    class_id: 11
+    code: LaserSup_1011
+    item_id: 133115
+    obtain: "40"
+    introduction: 麒麟的配套雷射壓制裝置，能幹擾敵方的瞄準設備。
+    is_show: 1
+  }
+  {
+    id: 11104
+    name: 麒麟
+    type: 2
+    group_id: 118
+    class_id: 11
+    code: Small_Missile_Launcher_1011
+    item_id: 133116
+    obtain: "40"
+    introduction: 麒麟的配套小型導彈發射器，為戰鬥提供精準打擊。
+    is_show: 1
+  }
+  {
+    id: 11105
+    name: 麒麟
+    type: 2
+    group_id: 107
+    class_id: 11
+    code: MG_Cannon_1011
+    item_id: 133117
+    obtain: "40"
+    introduction: 麒麟的配套機槍炮，能造成小範圍傷害。
+    is_show: 1
+  }
+]

@@ -9,10 +9,12 @@
     visable_count: "100"
     ranking_onlist_number: "20000"
     every_table_num: "20000"
+    sub_rank: "1"
+    sub_rank_name: 總積分
   }
   {
     id: "2"
-    name: 資料採樣低級排行
+    name: 資料採樣初級排行
     type: "2"
     sub_type: "1"
     refresh: week:7:0
@@ -21,6 +23,8 @@
     visable_count: "100"
     ranking_onlist_number: "20000"
     every_table_num: "20000"
+    sub_rank: "2"
+    sub_rank_name: 總積分
   }
   {
     id: "3"
@@ -33,6 +37,8 @@
     visable_count: "100"
     ranking_onlist_number: "20000"
     every_table_num: "20000"
+    sub_rank: "3"
+    sub_rank_name: 總積分
   }
   {
     id: "4"
@@ -45,6 +51,8 @@
     visable_count: "100"
     ranking_onlist_number: "20000"
     every_table_num: "20000"
+    sub_rank: "1"
+    sub_rank_name: 總積分
   }
   {
     id: "5"
@@ -1167,6 +1175,21 @@
     visable_count: "100"
     ranking_onlist_number: "160000"
     every_table_num: "40000"
+  }
+  {
+    id: "301"
+    name: 墜入兔洞PLUS常駐
+    type: "10"
+    sub_type: "10105"
+    refresh: test
+    title: <墜入兔洞+>常駐積分榜
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: 積分
   }
   {
     id: "1001"

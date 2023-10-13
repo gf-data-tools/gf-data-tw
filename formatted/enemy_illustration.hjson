@@ -3879,8 +3879,8 @@
     id: 198
     name: 破壞者
     type: 1
-    code: Destroyer
-    introduce: 擅長爆破任務，解除炸彈也是專家級的，作戰能力也不錯，和煉金術士有時會搭檔。平時高傲，毒舌，實際上是個傲嬌，有點小孩子脾氣，逼急了會哭鼻子，十分在意自己的身高。
+    code: DestroyerPlus
+    introduce: 原本的破壞者被夢想家改造素體之後的全新姿態，火力得到大幅增強，威力較之原本更上了一層樓，但性格與心智並沒有太大的改變。
     forces: 1
     pow_rank: 5
     life_rank: 5

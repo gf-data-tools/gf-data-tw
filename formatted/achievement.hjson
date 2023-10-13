@@ -11,7 +11,7 @@
     core: 1
     item_ids: 1-1
     title: 小小興趣
-    content: 圖鑒解鎖10位不同的戰術少女。
+    content: 圖鑑解鎖10位不同的戰術少女。
     type_sort: 2
     sort: 22
     icon_code: 获得N把不同枪支
@@ -29,7 +29,7 @@
     gem: 10
     item_ids: 1-1
     title: 業餘愛好
-    content: 圖鑒解鎖20位不同的戰術少女。
+    content: 圖鑑解鎖20位不同的戰術少女。
     type_sort: 2
     sort: 22
     icon_code: 获得N把不同枪支
@@ -46,8 +46,8 @@
     core: 5
     gem: 30
     item_ids: 1-2
-    title: 專業鑒賞
-    content: 圖鑒解鎖40位不同的戰術少女。
+    title: 專業鑑賞
+    content: 圖鑑解鎖40位不同的戰術少女。
     type_sort: 2
     sort: 22
     icon_code: 获得N把不同枪支
@@ -65,7 +65,7 @@
     gem: 50
     item_ids: 1-2
     title: 狂熱獵手
-    content: 圖鑒解鎖60位不同的戰術少女。
+    content: 圖鑑解鎖60位不同的戰術少女。
     type_sort: 2
     sort: 22
     icon_code: 获得N把不同枪支
@@ -83,7 +83,7 @@
     gem: 100
     item_ids: 1-3
     title: 收藏大亨
-    content: 圖鑒解鎖80位不同的戰術少女。
+    content: 圖鑑解鎖80位不同的戰術少女。
     type_sort: 2
     sort: 22
     icon_code: 获得N把不同枪支
@@ -101,7 +101,7 @@
     gem: 200
     item_ids: 1-3
     title: 博物館主
-    content: 圖鑒解鎖120位不同的戰術少女。
+    content: 圖鑑解鎖120位不同的戰術少女。
     type_sort: 2
     sort: 22
     icon_code: 获得N把不同枪支
@@ -116,7 +116,7 @@
     mre: 30
     part: 30
     title: 入門級收藏:手槍
-    content: 圖鑒解鎖5位不同的手槍型戰術少女。
+    content: 圖鑑解鎖5位不同的手槍型戰術少女。
     type_sort: 2
     sort: 23
     icon_code: 获得N把不同手枪
@@ -134,7 +134,7 @@
     gem: 10
     item_ids: 1-1
     title: 見習級收藏:手槍
-    content: 圖鑒解鎖10位不同的手槍型戰術少女。
+    content: 圖鑑解鎖10位不同的手槍型戰術少女。
     type_sort: 2
     sort: 23
     icon_code: 获得N把不同手枪
@@ -152,7 +152,7 @@
     gem: 30
     item_ids: 1-2
     title: 進階級收藏:手槍
-    content: 圖鑒解鎖20位不同的手槍型戰術少女。
+    content: 圖鑑解鎖20位不同的手槍型戰術少女。
     type_sort: 2
     sort: 23
     icon_code: 获得N把不同手枪
@@ -170,7 +170,7 @@
     gem: 50
     item_ids: 1-3
     title: 專家級收藏:手槍
-    content: 圖鑒解鎖30位不同的手槍型戰術少女。
+    content: 圖鑑解鎖30位不同的手槍型戰術少女。
     type_sort: 2
     sort: 23
     icon_code: 获得N把不同手枪
@@ -185,7 +185,7 @@
     mre: 30
     part: 30
     title: 入門級收藏:衝鋒槍
-    content: 圖鑒解鎖3位不同的衝鋒槍型戰術少女。
+    content: 圖鑑解鎖3位不同的衝鋒槍型戰術少女。
     type_sort: 2
     sort: 24
     icon_code: 获得N把不同冲锋枪
@@ -203,7 +203,7 @@
     gem: 10
     item_ids: 1-1
     title: 見習級收藏:衝鋒槍
-    content: 圖鑒解鎖10位不同的衝鋒槍型戰術少女。
+    content: 圖鑑解鎖10位不同的衝鋒槍型戰術少女。
     type_sort: 2
     sort: 24
     icon_code: 获得N把不同冲锋枪
@@ -221,7 +221,7 @@
     gem: 30
     item_ids: 1-2
     title: 進階級收藏:衝鋒槍
-    content: 圖鑒解鎖20位不同的衝鋒槍型戰術少女。
+    content: 圖鑑解鎖20位不同的衝鋒槍型戰術少女。
     type_sort: 2
     sort: 24
     icon_code: 获得N把不同冲锋枪
@@ -239,7 +239,7 @@
     gem: 50
     item_ids: 1-3
     title: 專家級收藏:衝鋒槍
-    content: 圖鑒解鎖30位不同的衝鋒槍型戰術少女。
+    content: 圖鑑解鎖30位不同的衝鋒槍型戰術少女。
     type_sort: 2
     sort: 24
     icon_code: 获得N把不同冲锋枪
@@ -254,7 +254,7 @@
     mre: 30
     part: 30
     title: 入門級收藏:步槍
-    content: 圖鑒解鎖3位不同的步槍型戰術少女。
+    content: 圖鑑解鎖3位不同的步槍型戰術少女。
     type_sort: 2
     sort: 25
     icon_code: 获得N把不同步枪
@@ -272,7 +272,7 @@
     gem: 10
     item_ids: 1-1
     title: 見習級收藏:步槍
-    content: 圖鑒解鎖10位不同的步槍型戰術少女。
+    content: 圖鑑解鎖10位不同的步槍型戰術少女。
     type_sort: 2
     sort: 25
     icon_code: 获得N把不同步枪
@@ -290,7 +290,7 @@
     gem: 30
     item_ids: 1-2
     title: 進階級收藏:步槍
-    content: 圖鑒解鎖20位不同的步槍型戰術少女。
+    content: 圖鑑解鎖20位不同的步槍型戰術少女。
     type_sort: 2
     sort: 25
     icon_code: 获得N把不同步枪
@@ -308,7 +308,7 @@
     gem: 50
     item_ids: 1-3
     title: 專家級收藏:步槍
-    content: 圖鑒解鎖30位不同的步槍型戰術少女。
+    content: 圖鑑解鎖30位不同的步槍型戰術少女。
     type_sort: 2
     sort: 25
     icon_code: 获得N把不同步枪
@@ -323,7 +323,7 @@
     mre: 30
     part: 30
     title: 入門級收藏:突擊步槍
-    content: 圖鑒解鎖3位不同的突擊步槍型戰術少女。
+    content: 圖鑑解鎖3位不同的突擊步槍型戰術少女。
     type_sort: 2
     sort: 26
     icon_code: 获得N把不同突击步枪
@@ -341,7 +341,7 @@
     gem: 10
     item_ids: 1-1
     title: 見習級收藏:突擊步槍
-    content: 圖鑒解鎖10位不同的突擊步槍型戰術少女。
+    content: 圖鑑解鎖10位不同的突擊步槍型戰術少女。
     type_sort: 2
     sort: 26
     icon_code: 获得N把不同突击步枪
@@ -359,7 +359,7 @@
     gem: 30
     item_ids: 1-2
     title: 進階級收藏:突擊步槍
-    content: 圖鑒解鎖20位不同的突擊步槍型戰術少女。
+    content: 圖鑑解鎖20位不同的突擊步槍型戰術少女。
     type_sort: 2
     sort: 26
     icon_code: 获得N把不同突击步枪
@@ -377,7 +377,7 @@
     gem: 50
     item_ids: 1-3
     title: 專家級收藏:突擊步槍
-    content: 圖鑒解鎖30位不同的突擊步槍型戰術少女。
+    content: 圖鑑解鎖30位不同的突擊步槍型戰術少女。
     type_sort: 2
     sort: 26
     icon_code: 获得N把不同突击步枪
@@ -392,7 +392,7 @@
     mre: 30
     part: 30
     title: 入門級收藏:機槍
-    content: 圖鑒解鎖3位不同的機槍型戰術少女。
+    content: 圖鑑解鎖3位不同的機槍型戰術少女。
     type_sort: 2
     sort: 27
     icon_code: 获得N把不同机枪
@@ -410,7 +410,7 @@
     gem: 10
     item_ids: 1-1
     title: 見習級收藏:機槍
-    content: 圖鑒解鎖10位不同的機槍型戰術少女。
+    content: 圖鑑解鎖10位不同的機槍型戰術少女。
     type_sort: 2
     sort: 27
     icon_code: 获得N把不同机枪
@@ -428,7 +428,7 @@
     gem: 30
     item_ids: 1-2
     title: 進階級收藏:機槍
-    content: 圖鑒解鎖20位不同的機槍型戰術少女。
+    content: 圖鑑解鎖20位不同的機槍型戰術少女。
     type_sort: 2
     sort: 27
     icon_code: 获得N把不同机枪
@@ -446,7 +446,7 @@
     gem: 50
     item_ids: 1-3
     title: 專家級收藏:機槍
-    content: 圖鑒解鎖30位不同的機槍型戰術少女。
+    content: 圖鑑解鎖30位不同的機槍型戰術少女。
     type_sort: 2
     sort: 27
     icon_code: 获得N把不同机枪
@@ -2303,7 +2303,7 @@
     part: 10
     item_ids: 8-1
     title: 訓練開始
-    content: 累計進行1次技能訓練。
+    content: 累計提升人形技能等級1級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2320,7 +2320,7 @@
     part: 20
     item_ids: 8-1
     title: 起步上手
-    content: 累計進行10次技能訓練。
+    content: 累計提升人形技能等級10級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2337,7 +2337,7 @@
     part: 30
     item_ids: 8-2
     title: 熟能生巧
-    content: 累計進行50次技能訓練。
+    content: 累計提升人形技能等級50級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2354,7 +2354,7 @@
     part: 60
     item_ids: 8-2
     title: 千錘百煉
-    content: 累計進行100次技能訓練。
+    content: 累計提升人形技能等級100級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2371,7 +2371,7 @@
     part: 200
     item_ids: 8-3
     title: 輕車熟路
-    content: 累計進行500次技能訓練。
+    content: 累計提升人形技能等級500級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2388,7 +2388,7 @@
     part: 300
     item_ids: 8-3
     title: 最後一課
-    content: 累計進行1000次技能訓練。
+    content: 累計提升人形技能等級1000級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2405,7 +2405,7 @@
     part: 600
     item_ids: 8-5
     title: 鋼鐵是這樣煉成的
-    content: 累計進行2000次技能訓練。
+    content: 累計提升人形技能等級2000級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -3239,7 +3239,7 @@
     gem: 250
     item_ids: 1-4
     title: 十三工房
-    content: 圖鑒解鎖160位不同的戰術少女。
+    content: 圖鑑解鎖160位不同的戰術少女。
     type_sort: 2
     sort: 22
     icon_code: 获得N把不同枪支
@@ -3257,7 +3257,7 @@
     gem: 300
     item_ids: 1-5
     title: 木偶牧場
-    content: 圖鑒解鎖200位不同的戰術少女。
+    content: 圖鑑解鎖200位不同的戰術少女。
     type_sort: 2
     sort: 22
     icon_code: 获得N把不同枪支
@@ -3275,7 +3275,7 @@
     gem: 350
     item_ids: 1-8
     title: 人形小鎮
-    content: 圖鑒解鎖250位不同的戰術少女。
+    content: 圖鑑解鎖250位不同的戰術少女。
     type_sort: 2
     sort: 22
     icon_code: 获得N把不同枪支
@@ -3293,7 +3293,7 @@
     gem: 400
     item_ids: 1-10
     title: 少女樂園
-    content: 圖鑒解鎖300位不同的戰術少女。
+    content: 圖鑑解鎖300位不同的戰術少女。
     type_sort: 2
     sort: 22
     icon_code: 获得N把不同枪支
@@ -3311,7 +3311,7 @@
     gem: 70
     item_ids: 1-4
     title: 學者級收藏：手槍
-    content: 圖鑒解鎖40位不同的手槍型戰術少女。
+    content: 圖鑑解鎖40位不同的手槍型戰術少女。
     type_sort: 2
     sort: 23
     icon_code: 获得N把不同手枪
@@ -3329,7 +3329,7 @@
     gem: 100
     item_ids: 1-5
     title: 精英級收藏：手槍
-    content: 圖鑒解鎖50位不同的手槍型戰術少女。
+    content: 圖鑑解鎖50位不同的手槍型戰術少女。
     type_sort: 2
     sort: 23
     icon_code: 获得N把不同手枪
@@ -3347,7 +3347,7 @@
     gem: 150
     item_ids: 1-6
     title: 大師級收藏：手槍
-    content: 圖鑒解鎖60位不同的手槍型戰術少女。
+    content: 圖鑑解鎖60位不同的手槍型戰術少女。
     type_sort: 2
     sort: 23
     icon_code: 获得N把不同手枪
@@ -3365,7 +3365,7 @@
     gem: 70
     item_ids: 1-4
     title: 學者級收藏：衝鋒槍
-    content: 圖鑒解鎖40位不同的衝鋒槍型戰術少女。
+    content: 圖鑑解鎖40位不同的衝鋒槍型戰術少女。
     type_sort: 2
     sort: 24
     icon_code: 获得N把不同冲锋枪
@@ -3383,7 +3383,7 @@
     gem: 100
     item_ids: 1-5
     title: 精英級收藏：衝鋒槍
-    content: 圖鑒解鎖50位不同的衝鋒槍型戰術少女。
+    content: 圖鑑解鎖50位不同的衝鋒槍型戰術少女。
     type_sort: 2
     sort: 24
     icon_code: 获得N把不同冲锋枪
@@ -3401,7 +3401,7 @@
     gem: 150
     item_ids: 1-6
     title: 大師級收藏：衝鋒槍
-    content: 圖鑒解鎖60位不同的衝鋒槍型戰術少女。
+    content: 圖鑑解鎖60位不同的衝鋒槍型戰術少女。
     type_sort: 2
     sort: 24
     icon_code: 获得N把不同冲锋枪
@@ -3419,7 +3419,7 @@
     gem: 70
     item_ids: 1-4
     title: 學者級收藏：步槍
-    content: 圖鑒解鎖40位不同的步槍型戰術少女。
+    content: 圖鑑解鎖40位不同的步槍型戰術少女。
     type_sort: 2
     sort: 25
     icon_code: 获得N把不同步枪
@@ -3437,7 +3437,7 @@
     gem: 100
     item_ids: 1-5
     title: 精英級收藏：步槍
-    content: 圖鑒解鎖50位不同的步槍型戰術少女。
+    content: 圖鑑解鎖50位不同的步槍型戰術少女。
     type_sort: 2
     sort: 25
     icon_code: 获得N把不同步枪
@@ -3455,7 +3455,7 @@
     gem: 150
     item_ids: 1-6
     title: 大師級收藏：步槍
-    content: 圖鑒解鎖60位不同的步槍型戰術少女。
+    content: 圖鑑解鎖60位不同的步槍型戰術少女。
     type_sort: 2
     sort: 25
     icon_code: 获得N把不同步枪
@@ -3473,7 +3473,7 @@
     gem: 70
     item_ids: 1-4
     title: 學者級收藏：突擊步槍
-    content: 圖鑒解鎖40位不同的突擊步槍型戰術少女。
+    content: 圖鑑解鎖40位不同的突擊步槍型戰術少女。
     type_sort: 2
     sort: 26
     icon_code: 获得N把不同突击步枪
@@ -3491,7 +3491,7 @@
     gem: 100
     item_ids: 1-5
     title: 精英級收藏：突擊步槍
-    content: 圖鑒解鎖50位不同的突擊步槍型戰術少女。
+    content: 圖鑑解鎖50位不同的突擊步槍型戰術少女。
     type_sort: 2
     sort: 26
     icon_code: 获得N把不同突击步枪
@@ -3509,7 +3509,7 @@
     gem: 150
     item_ids: 1-6
     title: 大師級收藏：突擊步槍
-    content: 圖鑒解鎖60位不同的突擊步槍型戰術少女。
+    content: 圖鑑解鎖60位不同的突擊步槍型戰術少女。
     type_sort: 2
     sort: 26
     icon_code: 获得N把不同突击步枪
@@ -3527,7 +3527,7 @@
     gem: 70
     item_ids: 1-4
     title: 學者級收藏：機槍
-    content: 圖鑒解鎖40位不同的機槍型戰術少女。
+    content: 圖鑑解鎖40位不同的機槍型戰術少女。
     type_sort: 2
     sort: 27
     icon_code: 获得N把不同机枪
@@ -3545,7 +3545,7 @@
     gem: 100
     item_ids: 1-5
     title: 精英級收藏：機槍
-    content: 圖鑒解鎖50位不同的機槍型戰術少女。
+    content: 圖鑑解鎖50位不同的機槍型戰術少女。
     type_sort: 2
     sort: 27
     icon_code: 获得N把不同机枪
@@ -3563,7 +3563,7 @@
     gem: 150
     item_ids: 1-6
     title: 大師級收藏：機槍
-    content: 圖鑒解鎖60位不同的機槍型戰術少女。
+    content: 圖鑑解鎖60位不同的機槍型戰術少女。
     type_sort: 2
     sort: 27
     icon_code: 获得N把不同机枪
@@ -4620,7 +4620,7 @@
     part: 1000
     item_ids: 8-6
     title: 第5000條軍規
-    content: 累計進行5000次技能訓練。
+    content: 累計提升人形技能等級5000級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -4636,7 +4636,7 @@
     part: 1300
     item_ids: 8-8
     title: 魔鬼司令
-    content: 累計進行10000次技能訓練。
+    content: 累計提升人形技能等級10000級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -4652,7 +4652,7 @@
     part: 1600
     item_ids: 8-10
     title: 和平經由暴政
-    content: 累計進行20000次技能訓練。
+    content: 累計提升人形技能等級20000級。
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -6449,7 +6449,7 @@
     mre: 30
     part: 30
     title: 入門級收藏：霰彈槍
-    content: 圖鑒解鎖1位霰彈槍型戰術少女。
+    content: 圖鑑解鎖1位霰彈槍型戰術少女。
     type_sort: 2
     sort: 28
     icon_code: 获得N把不同霰弹枪
@@ -6468,7 +6468,7 @@
     gem: 10
     item_ids: 1-1
     title: 見習級收藏：霰彈槍
-    content: 圖鑒解鎖5位不同的霰彈槍型戰術少女。
+    content: 圖鑑解鎖5位不同的霰彈槍型戰術少女。
     type_sort: 2
     sort: 28
     icon_code: 获得N把不同霰弹枪
@@ -6487,7 +6487,7 @@
     gem: 30
     item_ids: 1-2
     title: 進階級收藏：霰彈槍
-    content: 圖鑒解鎖10位不同的霰彈槍型戰術少女。
+    content: 圖鑑解鎖10位不同的霰彈槍型戰術少女。
     type_sort: 2
     sort: 28
     icon_code: 获得N把不同霰弹枪
@@ -6506,7 +6506,7 @@
     gem: 50
     item_ids: 1-3
     title: 專家級收藏：霰彈槍
-    content: 圖鑒解鎖15位不同的霰彈槍型戰術少女。
+    content: 圖鑑解鎖15位不同的霰彈槍型戰術少女。
     type_sort: 2
     sort: 28
     icon_code: 获得N把不同霰弹枪
@@ -6525,7 +6525,7 @@
     gem: 70
     item_ids: 1-4
     title: 學者級收藏：霰彈槍
-    content: 圖鑒解鎖20位不同的霰彈槍型戰術少女。
+    content: 圖鑑解鎖20位不同的霰彈槍型戰術少女。
     type_sort: 2
     sort: 28
     icon_code: 获得N把不同霰弹枪
@@ -6544,7 +6544,7 @@
     gem: 100
     item_ids: 1-5
     title: 精英級收藏：霰彈槍
-    content: 圖鑒解鎖25位不同的霰彈槍型戰術少女。
+    content: 圖鑑解鎖25位不同的霰彈槍型戰術少女。
     type_sort: 2
     sort: 28
     icon_code: 获得N把不同霰弹枪
@@ -6563,7 +6563,7 @@
     gem: 150
     item_ids: 1-6
     title: 大師級收藏：霰彈槍
-    content: 圖鑒解鎖30位不同的霰彈槍型戰術少女。
+    content: 圖鑑解鎖30位不同的霰彈槍型戰術少女。
     type_sort: 2
     sort: 28
     icon_code: 获得N把不同霰弹枪
@@ -8895,7 +8895,7 @@
     part: 10
     item_ids: 8-1
     title: 林間花仙
-    content: 累計進行1次妖精技能升級。
+    content: 累計提升妖精技能等級1級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8912,7 +8912,7 @@
     part: 20
     item_ids: 8-2
     title: 山谷妖精
-    content: 累計進行10次妖精技能升級。
+    content: 累計提升妖精技能等級10級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8929,7 +8929,7 @@
     part: 30
     item_ids: 8-3
     title: 洞穴哥布林
-    content: 累計進行20次妖精技能升級。
+    content: 累計提升妖精技能等級20級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8946,7 +8946,7 @@
     part: 60
     item_ids: 8-4
     title: 溫蒂妮之泉
-    content: 累計進行50次妖精技能升級。
+    content: 累計提升妖精技能等級50級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8962,8 +8962,8 @@
     mre: 500
     part: 200
     item_ids: 8-5
-    title: 礁上塞壬
-    content: 累計進行100次妖精技能升級。
+    title: 礁上賽蓮
+    content: 累計提升妖精技能等級100級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8980,7 +8980,7 @@
     part: 300
     item_ids: 8-6
     title: 報喪女妖
-    content: 累計進行200次妖精技能升級。
+    content: 累計提升妖精技能等級200級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8996,8 +8996,8 @@
     mre: 2000
     part: 600
     item_ids: 8-7
-    title: 戈爾工姐妹
-    content: 累計進行500次妖精技能升級。
+    title: 戈爾貢姐妹
+    content: 累計提升妖精技能等級500級。
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -9390,135 +9390,6 @@
     icon_code: 漫画
   }
   {
-    identity: 611
-    type: squad_get_secret_data
-    count: 1
-    user_exp: 30
-    item_ids: 15-10
-    title: 殺人許可證
-    content: 首次獲得中樞數據。
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-  }
-  {
-    identity: 612
-    type: squad_get_secret_data
-    count: 10
-    user_exp: 60
-    item_ids: 15-20
-    title: 鬼牌遊戲
-    content: 累計獲得10個中樞數據。
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 613
-    type: squad_get_secret_data
-    count: 20
-    user_exp: 100
-    item_ids: 15-40
-    title: 鍋匠、裁縫、士兵、間諜
-    content: 累計獲得20個中樞數據。
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 614
-    type: squad_get_secret_data
-    count: 50
-    user_exp: 200
-    item_ids: 15-60
-    title: 劍橋五人幫
-    content: 累計獲得50個中樞數據。
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 615
-    type: squad_get_secret_data
-    count: 100
-    user_exp: 500
-    item_ids: 15-80
-    title: 潘多拉計劃
-    content: 累計獲得100個中樞數據。
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 616
-    type: squad_get_secret_data
-    count: 200
-    user_exp: 1000
-    item_ids: 15-100
-    title: 混沌法則
-    content: 累計獲得200個中樞數據。
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 617
-    type: squad_get_secret_data
-    count: 500
-    user_exp: 2000
-    item_ids: 15-150
-    title: 愛國者之槍
-    content: 累計獲得500個中樞數據。
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 618
-    type: squad_get_secret_data
-    count: 1000
-    user_exp: 3000
-    item_ids: 15-200
-    title: 食蛇者行動
-    content: 累計獲得1000個中樞數據。
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 619
-    type: squad_get_secret_data
-    count: 2000
-    user_exp: 4000
-    item_ids: 15-250
-    title: 自由之子
-    content: 累計獲得2000個中樞數據。
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 620
-    type: squad_get_secret_data
-    count: 5000
-    user_exp: 5000
-    item_ids: 15-300
-    title: 黑途
-    content: 累計獲得5000個中樞數據。
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
     identity: 621
     type: squad_get_type1_unit
     count: 1
@@ -9575,272 +9446,12 @@
     unlock_function: 15
   }
   {
-    identity: 625
-    type: squad_get_chip
-    count: 1
-    user_exp: 30
-    item_ids: 14-10
-    title: 黑色石碑
-    content: 首次獲得晶片。
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 626
-    type: squad_get_chip
-    count: 10
-    user_exp: 60
-    item_ids: 14-20
-    title: 帕斯卡計算器
-    content: 累計獲得10個晶片。
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 627
-    type: squad_get_chip
-    count: 100
-    user_exp: 100
-    item_ids: 14-40
-    title: 巴貝奇差分機
-    content: 累計獲得100個晶片。
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 628
-    type: squad_get_chip
-    count: 500
-    user_exp: 200
-    item_ids: 14-60
-    title: 亞卡爾織布機
-    content: 累計獲得500個晶片。
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 629
-    type: squad_get_chip
-    count: 1000
-    user_exp: 500
-    item_ids: 14-80
-    title: 何樂禮打孔機
-    content: 累計獲得1000個晶片。
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 630
-    type: squad_get_chip
-    count: 2000
-    user_exp: 1000
-    item_ids: 14-100
-    title: 諾頓瞄准器
-    content: 累計獲得2000個晶片。
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 631
-    type: squad_get_chip
-    count: 5000
-    user_exp: 2000
-    item_ids: 14-150
-    title: 楚澤導引裝置
-    content: 累計獲得5000個晶片。
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 632
-    type: squad_get_chip
-    count: 10000
-    user_exp: 3000
-    item_ids: 14-200
-    title: 費曼的鉛筆
-    content: 累計獲得10000個晶片。
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 633
-    type: squad_get_chip
-    count: 20000
-    user_exp: 4000
-    item_ids: 14-250
-    title: 費米的計算尺
-    content: 累計獲得20000個晶片。
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 634
-    type: squad_get_chip
-    count: 30000
-    user_exp: 5000
-    item_ids: 14-300
-    title: 諾伊曼的大腦
-    content: 累計獲得30000個晶片。
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 635
-    type: squad_change_data_times
-    count: 1
-    user_exp: 30
-    item_ids: 15-10
-    title: 結繩記事
-    content: 首次進行數據重構。
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 636
-    type: squad_change_data_times
-    count: 10
-    user_exp: 60
-    item_ids: 15-20
-    title: 罰抄作業
-    content: 累計通過數據重構獲得10個數據補丁。
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 637
-    type: squad_change_data_times
-    count: 20
-    user_exp: 100
-    item_ids: 15-40
-    title: 代書寫手
-    content: 累計通過數據重構獲得20個數據補丁。
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 638
-    type: squad_change_data_times
-    count: 50
-    user_exp: 200
-    item_ids: 15-60
-    title: 抄書修士
-    content: 累計通過數據重構獲得50個數據補丁。
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 639
-    type: squad_change_data_times
-    count: 100
-    user_exp: 500
-    item_ids: 15-80
-    title: 傳經聖僧
-    content: 累計通過數據重構獲得100個數據補丁。
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 640
-    type: squad_change_data_times
-    count: 200
-    user_exp: 1000
-    item_ids: 15-100
-    title: 紙帶打孔
-    content: 累計通過數據重構獲得200個數據補丁。
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 641
-    type: squad_change_data_times
-    count: 500
-    user_exp: 2000
-    item_ids: 15-150
-    title: 磁帶錄音
-    content: 累計通過數據重構獲得500個數據補丁。
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 642
-    type: squad_change_data_times
-    count: 1000
-    user_exp: 3000
-    item_ids: 15-200
-    title: 軟盤寫入
-    content: 累計通過數據重構獲得1000個數據補丁。
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 643
-    type: squad_change_data_times
-    count: 2000
-    user_exp: 4000
-    item_ids: 15-250
-    title: 光盤拷貝
-    content: 累計通過數據重構獲得2000個數據補丁。
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 644
-    type: squad_change_data_times
-    count: 5000
-    user_exp: 5000
-    item_ids: 15-300
-    title: 雲圖備份
-    content: 累計通過數據重構獲得5000個數據補丁。
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
     identity: 645
     type: squad_base_data_analyse
     count: 1
-    item_ids: 301-5
+    item_ids: 14-10
     title: 普羅米修斯之火
-    content: 首次使用原始樣本進行情報解析。
+    content: 首次消耗原始樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9849,12 +9460,12 @@
   {
     identity: 646
     type: squad_base_data_analyse
-    count: 10
+    count: 200
     user_exp: 60
     gem: 10
     item_ids: 14-20
     title: 阿基米德之池
-    content: 累計使用原始數據樣本進行10次情報解析。
+    content: 累計消耗200點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9863,12 +9474,12 @@
   {
     identity: 647
     type: squad_base_data_analyse
-    count: 100
+    count: 2000
     user_exp: 100
     gem: 20
     item_ids: 14-40
     title: 畢達哥拉斯學派
-    content: 累計使用原始數據樣本進行100次情報解析。
+    content: 累計消耗2000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9877,12 +9488,12 @@
   {
     identity: 648
     type: squad_base_data_analyse
-    count: 200
+    count: 4000
     user_exp: 200
     gem: 30
     item_ids: 14-60
-    title: 歐幾里德幾何
-    content: 累計使用原始數據樣本進行200次情報解析。
+    title: 歐幾里得幾何
+    content: 累計消耗4000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9891,12 +9502,12 @@
   {
     identity: 649
     type: squad_base_data_analyse
-    count: 500
+    count: 10000
     user_exp: 500
     gem: 50
     item_ids: 14-80
     title: 托勒密觀天
-    content: 累計使用原始數據樣本進行500次情報解析。
+    content: 累計消耗10000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9905,12 +9516,12 @@
   {
     identity: 650
     type: squad_base_data_analyse
-    count: 1000
+    count: 20000
     user_exp: 1000
     gem: 70
     item_ids: 14-100
-    title: 笛卡爾坐標
-    content: 累計使用原始數據樣本進行1000次情報解析。
+    title: 笛卡兒坐標
+    content: 累計消耗20000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9919,12 +9530,12 @@
   {
     identity: 651
     type: squad_base_data_analyse
-    count: 2000
+    count: 40000
     user_exp: 2000
     gem: 90
     item_ids: 14-150
     title: 萊布尼茲符號
-    content: 累計使用原始數據樣本進行2000次情報解析。
+    content: 累計消耗40000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9933,12 +9544,12 @@
   {
     identity: 652
     type: squad_base_data_analyse
-    count: 5000
+    count: 100000
     user_exp: 3000
     gem: 120
     item_ids: 14-200
     title: 牛頓的蘋果
-    content: 累計使用原始數據樣本進行5000次情報解析。
+    content: 累計消耗100000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9947,12 +9558,12 @@
   {
     identity: 653
     type: squad_base_data_analyse
-    count: 10000
+    count: 200000
     user_exp: 4000
     gem: 160
     item_ids: 14-250
     title: 拉格朗日之月
-    content: 累計使用原始數據樣本進行10000次情報解析。
+    content: 累計消耗200000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9961,12 +9572,12 @@
   {
     identity: 654
     type: squad_base_data_analyse
-    count: 20000
+    count: 400000
     user_exp: 5000
     gem: 200
     item_ids: 14-300
     title: 拉普拉斯的惡魔
-    content: 累計使用原始數據樣本進行20000次情報解析。
+    content: 累計消耗400000點原始數據樣本。
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9979,7 +9590,7 @@
     user_exp: 30
     gem: 5
     title: 高斯曲線
-    content: 首次使用純淨數據樣本進行情報解析。
+    content: 首次消耗純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -9988,12 +9599,12 @@
   {
     identity: 656
     type: squad_senior_data_analyse
-    count: 10
+    count: 200
     user_exp: 60
     gem: 10
     item_ids: 15-20
-    title: 祖衝之密率
-    content: 累計使用純淨數據樣本進行10次情報解析。
+    title: 祖沖之密率
+    content: 累計消耗200點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10002,12 +9613,12 @@
   {
     identity: 657
     type: squad_senior_data_analyse
-    count: 50
+    count: 1000
     user_exp: 100
     gem: 20
     item_ids: 15-40
     title: 柏拉圖最優
-    content: 累計使用純淨數據樣本進行50次情報解析。
+    content: 累計消耗1000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10016,12 +9627,12 @@
   {
     identity: 658
     type: squad_senior_data_analyse
-    count: 100
+    count: 2000
     user_exp: 200
     gem: 30
     item_ids: 15-60
     title: 黎曼函數
-    content: 累計使用純淨數據樣本進行100次情報解析。
+    content: 累計消耗2000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10030,12 +9641,12 @@
   {
     identity: 659
     type: squad_senior_data_analyse
-    count: 200
+    count: 4000
     user_exp: 500
     gem: 50
     item_ids: 15-80
-    title: 開普勒猜想
-    content: 累計使用純淨數據樣本進行200次情報解析。
+    title: 克卜勒猜想
+    content: 累計消耗4000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10044,12 +9655,12 @@
   {
     identity: 660
     type: squad_senior_data_analyse
-    count: 500
+    count: 10000
     user_exp: 1000
     gem: 70
     item_ids: 15-100
     title: 布爾代數
-    content: 累計使用純淨數據樣本進行500次情報解析。
+    content: 累計消耗10000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10058,12 +9669,12 @@
   {
     identity: 661
     type: squad_senior_data_analyse
-    count: 1000
+    count: 20000
     user_exp: 2000
     gem: 90
     item_ids: 15-150
     title: 阿貝爾方程式
-    content: 累計使用純淨數據樣本進行1000次情報解析。
+    content: 累計消耗20000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10072,12 +9683,12 @@
   {
     identity: 662
     type: squad_senior_data_analyse
-    count: 2000
+    count: 40000
     user_exp: 3000
     gem: 120
     item_ids: 15-200
-    title: 香農信號
-    content: 累計使用純淨數據樣本進行2000次情報解析。
+    title: 向農信號
+    content: 累計消耗40000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10086,12 +9697,12 @@
   {
     identity: 663
     type: squad_senior_data_analyse
-    count: 5000
+    count: 100000
     user_exp: 4000
     gem: 160
     item_ids: 15-250
     title: 圖靈邏輯
-    content: 累計使用純淨數據樣本進行5000次情報解析。
+    content: 累計消耗100000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10100,12 +9711,12 @@
   {
     identity: 664
     type: squad_senior_data_analyse
-    count: 10000
+    count: 200000
     user_exp: 5000
     gem: 200
     item_ids: 15-300
-    title: 納什均衡
-    content: 累計使用純淨數據樣本進行10000次情報解析。
+    title: 納許均衡
+    content: 累計消耗200000點純淨數據樣本。
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10118,7 +9729,7 @@
     user_exp: 30
     item_ids: 14-20,15-20
     title: 星星是友情的魔法
-    content: 首次進行重裝部隊晉升。
+    content: 首次進行火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10131,7 +9742,7 @@
     user_exp: 60
     item_ids: 14-40,15-40
     title: 星星是美好的祝福
-    content: 累計進行5次重裝部隊晉升。
+    content: 累計進行5次火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10144,7 +9755,7 @@
     user_exp: 100
     item_ids: 14-60,15-60
     title: 星星是無盡的冒險
-    content: 累計進行10次重裝部隊晉升。
+    content: 累計進行10次火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10157,7 +9768,7 @@
     user_exp: 200
     item_ids: 14-80,15-80
     title: 星星是神秘的世界
-    content: 累計進行20次重裝部隊晉升。
+    content: 累計進行20次火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10170,7 +9781,7 @@
     user_exp: 500
     item_ids: 14-100,15-100
     title: 星星是純愛的詩篇
-    content: 累計進行50次重裝部隊晉升。
+    content: 累計進行50次火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10183,7 +9794,7 @@
     user_exp: 1000
     item_ids: 14-150,15-150
     title: 星星是進擊的人形
-    content: 累計進行100次重裝部隊晉升。
+    content: 累計進行100次火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10195,8 +9806,8 @@
     count: 150
     user_exp: 2000
     item_ids: 14-200,15-200
-    title: 星星是地獄的贊歌
-    content: 累計進行150次重裝部隊晉升。
+    title: 星星是地獄的讚歌
+    content: 累計進行150次火力小隊晉升。
     type_sort: 14
     sort: 263
     icon_code: 支援小队升星
@@ -10207,9 +9818,9 @@
     type: squad_rank_max
     count: 1
     user_exp: 30
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     title: 格里芬之心勳章
-    content: 首次將重裝部隊升至滿星。
+    content: 首次將火力小隊升至滿星。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10220,9 +9831,9 @@
     type: squad_rank_max
     count: 3
     user_exp: 60
-    item_ids: 17-4
+    item_ids: 14-480,15-200
     title: 格里芬榮譽授帶
-    content: 累計將3個重裝部隊升至滿星。
+    content: 累計將3個火力小隊升至滿星。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10233,9 +9844,9 @@
     type: squad_rank_max
     count: 5
     user_exp: 100
-    item_ids: 17-6
+    item_ids: 14-720,15-300
     title: 格里芬十字徽
-    content: 累計將5個重裝部隊升至滿星。
+    content: 累計將5個火力小隊升至滿星。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10246,9 +9857,9 @@
     type: squad_rank_max
     count: 10
     user_exp: 200
-    item_ids: 17-8
+    item_ids: 14-960,15-400
     title: 格里芬英雄獎
-    content: 累計將10個重裝部隊升至滿星。
+    content: 累計將10個火力小隊升至滿星。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10259,9 +9870,9 @@
     type: squad_rank_max
     count: 20
     user_exp: 500
-    item_ids: 17-10
+    item_ids: 14-1200,15-500
     title: 格里芬名人堂
-    content: 累計將20個重裝部隊升至滿星。
+    content: 累計將20個火力小隊升至滿星。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10272,9 +9883,9 @@
     type: squad_rank_max
     count: 30
     user_exp: 1000
-    item_ids: 17-20
+    item_ids: 14-2400,15-1000
     title: 格里芬英靈殿
-    content: 累計將30個重裝部隊升至滿星。
+    content: 累計將30個火力小隊升至滿星。
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10285,9 +9896,9 @@
     type: squad_level_max
     count: 1
     user_exp: 30
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     title: 坦克獵手
-    content: 首次將重裝部隊升至滿級。
+    content: 首次將火力小隊升至滿級。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10298,9 +9909,9 @@
     type: squad_level_max
     count: 3
     user_exp: 60
-    item_ids: 17-4
-    title: 裝甲克星
-    content: 累計將3個重裝部隊升至滿級。
+    item_ids: 14-480,15-200
+    title: 裝甲剋星
+    content: 累計將3個火力小隊升至滿級。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10311,9 +9922,9 @@
     type: squad_level_max
     count: 5
     user_exp: 100
-    item_ids: 17-6
-    title: 鐵血清道夫
-    content: 累計將5個重裝部隊升至滿級。
+    item_ids: 14-720,15-300
+    title: 敵軍清道夫
+    content: 累計將5個火力小隊升至滿級。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10324,9 +9935,9 @@
     type: squad_level_max
     count: 10
     user_exp: 200
-    item_ids: 17-8
+    item_ids: 14-960,15-400
     title: 戰地割草機
-    content: 累計將10個重裝部隊升至滿級。
+    content: 累計將10個火力小隊升至滿級。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10337,9 +9948,9 @@
     type: squad_level_max
     count: 20
     user_exp: 500
-    item_ids: 17-10
+    item_ids: 14-1200,15-500
     title: 自走式天災
-    content: 累計將20個重裝部隊升至滿級。
+    content: 累計將20個火力小隊升至滿級。
     type_sort: 14
     sort: 265
     icon_code: 升级
@@ -10350,142 +9961,12 @@
     type: squad_level_max
     count: 30
     user_exp: 1000
-    item_ids: 17-20
+    item_ids: 14-2400,15-1000
     title: 大規模毀滅性武器
-    content: 累計將30個重裝部隊升至滿級。
+    content: 累計將30個火力小隊升至滿級。
     type_sort: 14
     sort: 265
     icon_code: 升级
-    unlock_function: 15
-  }
-  {
-    identity: 684
-    type: squad_train_time
-    count: 1
-    user_exp: 30
-    item_ids: 46-10
-    title: 練習從不嫌多
-    content: 首次完成重裝部隊經驗訓練。
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 685
-    type: squad_train_time
-    count: 10
-    user_exp: 60
-    item_ids: 46-20
-    title: 好好學習，天天向上
-    content: 累計完成10小時重裝部隊經驗訓練。
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 686
-    type: squad_train_time
-    count: 100
-    user_exp: 100
-    item_ids: 46-30
-    title: 恭喜，你們剛從蛆蟲畢業了
-    content: 累計完成100小時重裝部隊經驗訓練。
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 687
-    type: squad_train_time
-    count: 200
-    user_exp: 200
-    item_ids: 46-50
-    title: 流一桶汗好過灑一桶血
-    content: 累計完成200小時重裝部隊經驗訓練。
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 688
-    type: squad_train_time
-    count: 500
-    user_exp: 500
-    item_ids: 46-80
-    title: 合理的要求是訓練
-    content: 累計完成500小時重裝部隊經驗訓練。
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 689
-    type: squad_train_time
-    count: 1000
-    user_exp: 1000
-    item_ids: 46-100
-    title: 不合理的要求是磨練
-    content: 累計完成1000小時重裝部隊經驗訓練。
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 690
-    type: squad_train_time
-    count: 2000
-    user_exp: 2000
-    item_ids: 46-150
-    title: 輕鬆的日子只限昨天
-    content: 累計完成2000小時重裝部隊經驗訓練。
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 691
-    type: squad_train_time
-    count: 5000
-    user_exp: 3000
-    item_ids: 46-200
-    title: 是故勝兵先勝而後求戰
-    content: 累計完成5000小時重裝部隊經驗訓練。
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 692
-    type: squad_train_time
-    count: 10000
-    user_exp: 4000
-    item_ids: 46-250
-    title: 和平只是中場休息
-    content: 累計完成10000小時重裝部隊經驗訓練。
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 693
-    type: squad_train_time
-    count: 20000
-    user_exp: 5000
-    item_ids: 46-300
-    title: 我變強了
-    content: 累計完成20000小時重裝部隊經驗訓練。
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
     unlock_function: 15
   }
   {
@@ -10494,7 +9975,7 @@
     count: 1
     user_exp: 30
     title: 精密射擊訓練
-    content: 首次完成重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級1級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10507,7 +9988,7 @@
     count: 10
     user_exp: 60
     title: 壓制火力訓練
-    content: 累計完成10次重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級10級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10520,7 +10001,7 @@
     count: 20
     user_exp: 100
     title: 陣地轉移訓練
-    content: 累計完成20次重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級20級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10533,7 +10014,7 @@
     count: 50
     user_exp: 200
     title: 快速開火訓練
-    content: 累計完成50次重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級50級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10546,7 +10027,7 @@
     count: 100
     user_exp: 500
     title: 偽裝隱蔽訓練
-    content: 累計完成100次重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級100級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10559,7 +10040,7 @@
     count: 200
     user_exp: 1000
     title: 目標選定訓練
-    content: 累計完成200次重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級200級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10572,7 +10053,7 @@
     count: 500
     user_exp: 2000
     title: 地圖改寫訓練
-    content: 累計完成500次重裝部隊技能訓練。
+    content: 累計提升火力小隊技能等級500級。
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10584,9 +10065,9 @@
     type: squad_up_advanced_times
     count: 1
     user_exp: 30
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     title: 初試啼聲
-    content: 首次進行重裝部隊迭代。
+    content: 首次進行火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10597,9 +10078,9 @@
     type: squad_up_advanced_times
     count: 5
     user_exp: 60
-    item_ids: 17-4
+    item_ids: 14-480,15-200
     title: 戰地轟鳴
-    content: 累計進行5次重裝部隊迭代。
+    content: 累計進行5次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10610,9 +10091,9 @@
     type: squad_up_advanced_times
     count: 10
     user_exp: 100
-    item_ids: 17-6
+    item_ids: 14-720,15-300
     title: 報時鐘響
-    content: 累計進行10次重裝部隊迭代。
+    content: 累計進行10次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10623,9 +10104,9 @@
     type: squad_up_advanced_times
     count: 20
     user_exp: 200
-    item_ids: 17-8
+    item_ids: 14-960,15-400
     title: 滾進彈幕
-    content: 累計進行20次重裝部隊迭代。
+    content: 累計進行20次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10636,9 +10117,9 @@
     type: squad_up_advanced_times
     count: 50
     user_exp: 500
-    item_ids: 17-10
+    item_ids: 14-1200,15-500
     title: 交叉火網
-    content: 累計進行50次重裝部隊迭代。
+    content: 累計進行50次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10649,9 +10130,9 @@
     type: squad_up_advanced_times
     count: 100
     user_exp: 1000
-    item_ids: 17-15
-    title: 殺戮區域
-    content: 累計進行100次重裝部隊迭代。
+    item_ids: 14-1800,15-750
+    title: 戰鬥區域
+    content: 累計進行100次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10662,9 +10143,9 @@
     type: squad_up_advanced_times
     count: 200
     user_exp: 2000
-    item_ids: 17-20
+    item_ids: 14-2400,15-1000
     title: 導彈管弦樂
-    content: 累計進行200次重裝部隊迭代。
+    content: 累計進行200次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
@@ -10675,259 +10156,12 @@
     type: squad_up_advanced_times
     count: 300
     user_exp: 3000
-    item_ids: 17-30
+    item_ids: 14-3600,15-1500
     title: 炮火華爾茲
-    content: 累計進行300次重裝部隊迭代。
+    content: 累計進行300次火力小隊迭代。
     type_sort: 14
     sort: 268
     icon_code: 强化
-    unlock_function: 15
-  }
-  {
-    identity: 709
-    type: squad_chip_retire_times
-    count: 1
-    user_exp: 30
-    item_ids: 14-10
-    title: 晶片拆解
-    content: 首次進行晶片拆解。
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 710
-    type: squad_chip_retire_times
-    count: 10
-    user_exp: 60
-    item_ids: 14-20
-    title: 怒砸鍵盤
-    content: 累計拆解10個晶片。
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 711
-    type: squad_chip_retire_times
-    count: 100
-    user_exp: 100
-    item_ids: 14-40
-    title: 憤拆顯卡
-    content: 累計拆解100個晶片。
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 712
-    type: squad_chip_retire_times
-    count: 200
-    user_exp: 200
-    item_ids: 14-60
-    title: 手撕主機板
-    content: 累計拆解200個晶片。
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 713
-    type: squad_chip_retire_times
-    count: 500
-    user_exp: 500
-    item_ids: 14-80
-    title: 腳踢處理器
-    content: 累計拆解500個晶片。
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 714
-    type: squad_chip_retire_times
-    count: 1000
-    user_exp: 1000
-    item_ids: 14-100
-    title: 火烤主電源
-    content: 累計拆解1000個晶片。
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 715
-    type: squad_chip_retire_times
-    count: 2000
-    user_exp: 2000
-    item_ids: 14-150
-    title: 水洗硬碟
-    content: 累計拆解2000個晶片。
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 716
-    type: squad_chip_retire_times
-    count: 5000
-    user_exp: 3000
-    item_ids: 14-200
-    title: 淚濺內存
-    content: 累計拆解5000個晶片。
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 717
-    type: squad_chip_retire_times
-    count: 10000
-    user_exp: 4000
-    item_ids: 14-250
-    title: 魂斷顯示器
-    content: 累計拆解10000個晶片。
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 718
-    type: squad_eat_chip_num
-    count: 1
-    user_exp: 30
-    item_ids: 14-10
-    title: 晶片強化
-    content: 首次進行晶片強化。
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 719
-    type: squad_eat_chip_num
-    count: 10
-    user_exp: 60
-    item_ids: 14-20
-    title: 超頻入門者
-    content: 累計通過強化消耗10個晶片。
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 720
-    type: squad_eat_chip_num
-    count: 100
-    user_exp: 100
-    item_ids: 14-40
-    title: 超頻練習者
-    content: 累計通過強化消耗100個晶片。
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 721
-    type: squad_eat_chip_num
-    count: 200
-    user_exp: 200
-    item_ids: 14-60
-    title: 超頻修行者
-    content: 累計通過強化消耗200個晶片。
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 722
-    type: squad_eat_chip_num
-    count: 500
-    user_exp: 500
-    item_ids: 14-80
-    title: 超頻挑戰者
-    content: 累計通過強化消耗500個晶片。
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 723
-    type: squad_eat_chip_num
-    count: 1000
-    user_exp: 1000
-    item_ids: 14-100
-    title: 超頻幻想者
-    content: 累計通過強化消耗1000個晶片。
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 724
-    type: squad_eat_chip_num
-    count: 2000
-    user_exp: 2000
-    item_ids: 14-150
-    title: 超頻悟道者
-    content: 累計通過強化消耗2000個晶片。
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 725
-    type: squad_eat_chip_num
-    count: 5000
-    user_exp: 3000
-    item_ids: 14-200
-    title: 超頻飛升者
-    content: 累計通過強化消耗5000個晶片。
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 726
-    type: squad_eat_chip_num
-    count: 10000
-    user_exp: 4000
-    item_ids: 14-250
-    title: 超頻君臨者
-    content: 累計通過強化消耗10000個晶片。
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 727
-    type: squad_eat_chip_num
-    count: 20000
-    user_exp: 5000
-    item_ids: 14-300
-    title: 超頻天外客
-    content: 累計通過強化消耗20000個晶片。
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
     unlock_function: 15
   }
   {
@@ -12292,7 +11526,7 @@
     mre: 30
     part: 30
     title: 收集菜鳥
-    content: 圖鑒解鎖不同敵人10個。
+    content: 圖鑑解鎖不同敵人10個。
     type_sort: 15
     sort: 273
     icon_code: 图鉴解锁敌人
@@ -12308,7 +11542,7 @@
     part: 50
     gem: 10
     title: 收集新手
-    content: 圖鑒解鎖不同敵人20個。
+    content: 圖鑑解鎖不同敵人20個。
     type_sort: 15
     sort: 273
     icon_code: 图鉴解锁敌人
@@ -12324,7 +11558,7 @@
     part: 100
     gem: 30
     title: 收集門徒
-    content: 圖鑒解鎖不同敵人30個。
+    content: 圖鑑解鎖不同敵人30個。
     type_sort: 15
     sort: 273
     icon_code: 图鉴解锁敌人
@@ -12340,7 +11574,7 @@
     part: 200
     gem: 50
     title: 收集精英
-    content: 圖鑒解鎖不同敵人40個。
+    content: 圖鑑解鎖不同敵人40個。
     type_sort: 15
     sort: 273
     icon_code: 图鉴解锁敌人
@@ -12356,7 +11590,7 @@
     part: 500
     gem: 100
     title: 收集老手
-    content: 圖鑒解鎖不同敵人50個。
+    content: 圖鑑解鎖不同敵人50個。
     type_sort: 15
     sort: 273
     icon_code: 图鉴解锁敌人
@@ -12372,7 +11606,7 @@
     part: 1000
     gem: 200
     title: 收集大師
-    content: 圖鑒解鎖不同敵人60個。
+    content: 圖鑑解鎖不同敵人60個。
     type_sort: 15
     sort: 273
     icon_code: 图鉴解锁敌人
@@ -12388,7 +11622,7 @@
     part: 1500
     gem: 250
     title: 收集宗師
-    content: 圖鑒解鎖不同敵人70個。
+    content: 圖鑑解鎖不同敵人70個。
     type_sort: 15
     sort: 273
     icon_code: 图鉴解锁敌人
@@ -12403,7 +11637,7 @@
     mre: 30
     part: 30
     title: 友人帳：工筆
-    content: 圖鑒解鎖可捕獲融合勢力單位10個。
+    content: 圖鑑解鎖可捕獲融合勢力單位10個。
     type_sort: 15
     sort: 274
     icon_code: 图鉴解锁捕获
@@ -12420,7 +11654,7 @@
     part: 50
     gem: 10
     title: 友人帳：肖形
-    content: 圖鑒解鎖可捕獲融合勢力單位20個。
+    content: 圖鑑解鎖可捕獲融合勢力單位20個。
     type_sort: 15
     sort: 274
     icon_code: 图鉴解锁捕获
@@ -12437,7 +11671,7 @@
     part: 100
     gem: 30
     title: 友人帳：拙醜
-    content: 圖鑒解鎖可捕獲融合勢力單位30個。
+    content: 圖鑑解鎖可捕獲融合勢力單位30個。
     type_sort: 15
     sort: 274
     icon_code: 图鉴解锁捕获
@@ -12454,7 +11688,7 @@
     part: 200
     gem: 50
     title: 友人帳：通意
-    content: 圖鑒解鎖可捕獲融合勢力單位40個。
+    content: 圖鑑解鎖可捕獲融合勢力單位40個。
     type_sort: 15
     sort: 274
     icon_code: 图鉴解锁捕获
@@ -12471,7 +11705,7 @@
     part: 500
     gem: 100
     title: 友人帳：畫龍
-    content: 圖鑒解鎖可捕獲融合勢力單位50個。
+    content: 圖鑑解鎖可捕獲融合勢力單位50個。
     type_sort: 15
     sort: 274
     icon_code: 图鉴解锁捕获
@@ -12488,7 +11722,7 @@
     part: 1000
     gem: 200
     title: 友人帳：留白
-    content: 圖鑒解鎖可捕獲融合勢力單位60個。
+    content: 圖鑑解鎖可捕獲融合勢力單位60個。
     type_sort: 15
     sort: 274
     icon_code: 图鉴解锁捕获
@@ -12505,7 +11739,7 @@
     part: 1500
     gem: 250
     title: 友人帳：點睛
-    content: 圖鑒解鎖可捕獲融合勢力單位70個。
+    content: 圖鑑解鎖可捕獲融合勢力單位70個。
     type_sort: 15
     sort: 274
     icon_code: 图鉴解锁捕获
@@ -13508,7 +12742,7 @@
     user_exp: 30
     item_ids: 515-100,516-80
     title: 初窺門道
-    content: 首次完成融合勢力單位技能訓練。
+    content: 累計提升融合勢力單位技能等級1級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13521,7 +12755,7 @@
     user_exp: 60
     item_ids: 515-150,516-100
     title: 勤加磨煉
-    content: 累積完成融合勢力單位技能訓練10次。
+    content: 累計提升融合勢力單位技能等級10級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13534,7 +12768,7 @@
     user_exp: 100
     item_ids: 515-200,516-150
     title: 小有所成
-    content: 累積完成融合勢力單位技能訓練50次。
+    content: 累計提升融合勢力單位技能等級50級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13547,7 +12781,7 @@
     user_exp: 200
     item_ids: 515-220,516-180
     title: 百煉成鋼
-    content: 累積完成融合勢力單位技能訓練100次。
+    content: 累計提升融合勢力單位技能等級100級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13560,7 +12794,7 @@
     user_exp: 500
     item_ids: 515-260,516-220
     title: 撰寫論文
-    content: 累積完成融合勢力單位技能訓練500次。
+    content: 累計提升融合勢力單位技能等級500級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13573,7 +12807,7 @@
     user_exp: 1000
     item_ids: 515-300,516-250
     title: 技巧的指針
-    content: 累積完成融合勢力單位技能訓練1000次。
+    content: 累計提升融合勢力單位技能等級1000級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13586,7 +12820,7 @@
     user_exp: 2000
     item_ids: 515-350,516-300
     title: 規律的天平
-    content: 累積完成融合勢力單位技能訓練2000次。
+    content: 累計提升融合勢力單位技能等級2000級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13599,7 +12833,7 @@
     user_exp: 3000
     item_ids: 515-400,516-350
     title: 汗水的成果
-    content: 累積完成融合勢力單位技能訓練5000次。
+    content: 累計提升融合勢力單位技能等級5000級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13612,7 +12846,7 @@
     user_exp: 4000
     item_ids: 515-450,516-400
     title: 以戰證道
-    content: 累積完成融合勢力單位技能訓練10000次。
+    content: 累計提升融合勢力單位技能等級10000級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13625,7 +12859,7 @@
     user_exp: 5000
     item_ids: 515-500,516-450
     title: 返璞歸真
-    content: 累積完成融合勢力單位技能訓練20000次。
+    content: 累計提升融合勢力單位技能等級20000級。
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -15882,5 +15116,2275 @@
     sort: 308
     icon_code: 谷底回声
     condition: "11418"
+  }
+  {
+    identity: 1074
+    type: squad_get_chip
+    count: 1
+    user_exp: 30
+    item_ids: 14-10
+    title: 黑色石碑
+    content: 首次解鎖晶片。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1075
+    type: squad_get_chip
+    count: 10
+    user_exp: 60
+    item_ids: 14-20
+    title: 帕斯卡計算器
+    content: 累計解鎖10個晶片。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1076
+    type: squad_get_chip
+    count: 20
+    user_exp: 100
+    item_ids: 14-40
+    title: 巴貝奇差分機
+    content: 累計解鎖20個晶片。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1077
+    type: squad_get_chip
+    count: 30
+    user_exp: 200
+    item_ids: 14-60
+    title: 雅卡爾織布機
+    content: 累計解鎖30個晶片。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1078
+    type: squad_get_chip
+    count: 50
+    user_exp: 500
+    item_ids: 14-80
+    title: 何樂禮打孔機
+    content: 累計解鎖50個晶片。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1079
+    type: squad_get_chip
+    count: 70
+    user_exp: 1000
+    item_ids: 14-100
+    title: 諾頓瞄準器
+    content: 累計解鎖70個晶片。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1080
+    type: squad_get_chip
+    count: 100
+    user_exp: 2000
+    item_ids: 14-150
+    title: 楚澤導引裝置
+    content: 累計解鎖100個晶片。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1081
+    type: squad_get_chip
+    count: 150
+    user_exp: 3000
+    item_ids: 14-200
+    title: 費曼的鉛筆
+    content: 累計解鎖150個晶片。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1082
+    type: squad_get_chip
+    count: 200
+    user_exp: 4000
+    item_ids: 14-250
+    title: 費米的計算尺
+    content: 累計解鎖200個晶片。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1083
+    type: squad_get_chip
+    count: 300
+    user_exp: 5000
+    item_ids: 14-300
+    title: 諾伊曼的大腦
+    content: 累計解鎖300個晶片。
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1084
+    type: squad_eat_chip_num
+    count: 1
+    user_exp: 30
+    item_ids: 14-10
+    title: 晶片強化
+    content: 首次將晶片強化至滿級。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1085
+    type: squad_eat_chip_num
+    count: 10
+    user_exp: 60
+    item_ids: 14-20
+    title: 超頻入門者
+    content: 累計將10個晶片強化至滿級。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1086
+    type: squad_eat_chip_num
+    count: 20
+    user_exp: 100
+    item_ids: 14-40
+    title: 超頻練習者
+    content: 累計將20個晶片強化至滿級。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1087
+    type: squad_eat_chip_num
+    count: 30
+    user_exp: 200
+    item_ids: 14-60
+    title: 超頻修行者
+    content: 累計將30個晶片強化至滿級。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1088
+    type: squad_eat_chip_num
+    count: 50
+    user_exp: 500
+    item_ids: 14-80
+    title: 超頻挑戰者
+    content: 累計將50個晶片強化至滿級。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1089
+    type: squad_eat_chip_num
+    count: 70
+    user_exp: 1000
+    item_ids: 14-100
+    title: 超頻幻想者
+    content: 累計將70個晶片強化至滿級。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1090
+    type: squad_eat_chip_num
+    count: 100
+    user_exp: 2000
+    item_ids: 14-150
+    title: 超頻悟道者
+    content: 累計將100個晶片強化至滿級。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1091
+    type: squad_eat_chip_num
+    count: 150
+    user_exp: 3000
+    item_ids: 14-200
+    title: 超頻飛升者
+    content: 累計將150個晶片強化至滿級。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1092
+    type: squad_eat_chip_num
+    count: 200
+    user_exp: 4000
+    item_ids: 14-250
+    title: 超頻君臨者
+    content: 累計將200個晶片強化至滿級。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1093
+    type: squad_eat_chip_num
+    count: 300
+    user_exp: 5000
+    item_ids: 14-300
+    title: 超頻天外客
+    content: 累計將300個晶片強化至滿級。
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1094
+    type: different_vehicle
+    count: 1
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    item_ids: 57-1000,1800005-1
+    title: 特里頓
+    content: 解鎖1個機動裝甲圖鑑。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1095
+    type: different_vehicle
+    count: 2
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 奧斯汀
+    content: 解鎖2個不同的機動裝甲圖鑑。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1096
+    type: different_vehicle
+    count: 3
+    user_exp: 1500
+    mp: 1500
+    ammo: 1500
+    mre: 1500
+    part: 1500
+    title: 克里斯蒂
+    content: 解鎖3個不同的機動裝甲圖鑑。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1097
+    type: different_vehicle
+    count: 4
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 金茲伯格
+    content: 解鎖4個不同的機動裝甲圖鑑。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1098
+    type: different_vehicle
+    count: 5
+    user_exp: 2500
+    mp: 2500
+    ammo: 2500
+    mre: 2500
+    part: 2500
+    title: 科什金
+    content: 解鎖5個不同的機動裝甲圖鑑。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1099
+    type: different_vehicle
+    count: 6
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 瓦倫丁
+    content: 解鎖6個不同的機動裝甲圖鑑。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1100
+    type: different_vehicle
+    count: 7
+    user_exp: 3500
+    mp: 3500
+    ammo: 3500
+    mre: 3500
+    part: 3500
+    title: 謝爾曼
+    content: 解鎖7個不同的機動裝甲圖鑑。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1101
+    type: different_vehicle
+    count: 8
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 「布齊」
+    content: 解鎖8個不同的機動裝甲圖鑑。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1102
+    type: different_vehicle
+    count: 9
+    user_exp: 4500
+    mp: 4500
+    ammo: 4500
+    mre: 4500
+    part: 4500
+    title: 科京
+    content: 解鎖9個不同的機動裝甲圖鑑。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1103
+    type: different_vehicle
+    count: 10
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 卡爾采夫
+    content: 解鎖10個不同的機動裝甲圖鑑。
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1104
+    type: get_vehicle_component_rank5
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 稀有組件入門
+    content: 獲取1個五星機動裝甲組件。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1105
+    type: get_vehicle_component_rank5
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 稀有組件學徒
+    content: 累計獲取5個五星機動裝甲組件。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1106
+    type: get_vehicle_component_rank5
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 稀有組件工匠
+    content: 累計獲取10個五星機動裝甲組件。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1107
+    type: get_vehicle_component_rank5
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 稀有組件精英
+    content: 累計獲取50個五星機動裝甲組件。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1108
+    type: get_vehicle_component_rank5
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 稀有組件專家
+    content: 累計獲取100個五星機動裝甲組件。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1109
+    type: get_vehicle_component_rank5
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 133032-1,133033-1,133035-1,133036-1,133064-1,133065-1
+    title: 稀有組件大師
+    content: 累計獲取500個五星機動裝甲組件。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1110
+    type: get_vehicle_component_rank5
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 稀有組件達人
+    content: 累計獲取1000個五星機動裝甲組件。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1111
+    type: get_vehicle_component_rank5
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 稀有組件廠長
+    content: 累計獲取2000個五星機動裝甲組件。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1112
+    type: get_vehicle_component_rank5
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 稀有組件大亨
+    content: 累計獲取5000個五星機動裝甲組件。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1113
+    type: get_vehicle_component_rank5
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 稀有組件制霸
+    content: 累計獲取10000個五星機動裝甲組件。
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1114
+    type: get_vehicle_component_type0
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 通用組件入門
+    content: 獲取1個通用機動裝甲組件。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1115
+    type: get_vehicle_component_type0
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 通用組件學徒
+    content: 累計獲取5個機動裝甲通用組件。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1116
+    type: get_vehicle_component_type0
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 通用組件工匠
+    content: 累計獲取10個機動裝甲通用組件。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1117
+    type: get_vehicle_component_type0
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 通用組件精英
+    content: 累計獲取50個機動裝甲通用組件。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1118
+    type: get_vehicle_component_type0
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 通用組件專家
+    content: 累計獲取100個機動裝甲通用組件。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1119
+    type: get_vehicle_component_type0
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 通用組件大師
+    content: 累計獲取500個機動裝甲通用組件。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1120
+    type: get_vehicle_component_type0
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 通用組件達人
+    content: 累計獲取1000個機動裝甲通用組件。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1121
+    type: get_vehicle_component_type0
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 通用組件廠長
+    content: 累計獲取2000個機動裝甲通用組件。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1122
+    type: get_vehicle_component_type0
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 通用組件大亨
+    content: 累計獲取5000個機動裝甲通用組件。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1123
+    type: get_vehicle_component_type0
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 通用組件制霸
+    content: 累計獲取10000個機動裝甲通用組件。
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1124
+    type: get_vehicle_component_type1
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 重武器入門
+    content: 獲取1個重武器組件。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1125
+    type: get_vehicle_component_type1
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 重武器學徒
+    content: 累計獲取5個機動裝甲重武器組件。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1126
+    type: get_vehicle_component_type1
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 重武器工匠
+    content: 累計獲取10個機動裝甲重武器組件。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1127
+    type: get_vehicle_component_type1
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 重武器精英
+    content: 累計獲取50個機動裝甲重武器組件。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1128
+    type: get_vehicle_component_type1
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 重武器專家
+    content: 累計獲取100個機動裝甲重武器組件。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1129
+    type: get_vehicle_component_type1
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 重武器大師
+    content: 累計獲取500個機動裝甲重武器組件。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1130
+    type: get_vehicle_component_type1
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 重武器達人
+    content: 累計獲取1000個機動裝甲重武器組件。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1131
+    type: get_vehicle_component_type1
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 重武器廠長
+    content: 累計獲取2000個機動裝甲重武器組件。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1132
+    type: get_vehicle_component_type1
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 重武器大亨
+    content: 累計獲取5000個機動裝甲重武器組件。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1133
+    type: get_vehicle_component_type1
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 重武器制霸
+    content: 累計獲取10000個機動裝甲重武器組件。
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1134
+    type: get_vehicle_component_type2
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 輕武器入門
+    content: 獲取1個機動裝甲輕武器組件。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1135
+    type: get_vehicle_component_type2
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 輕武器學徒
+    content: 累計獲取5個機動裝甲輕武器組件。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1136
+    type: get_vehicle_component_type2
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 輕武器工匠
+    content: 累計獲取10個機動裝甲輕武器組件。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1137
+    type: get_vehicle_component_type2
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 輕武器精英
+    content: 累計獲取50個機動裝甲輕武器組件。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1138
+    type: get_vehicle_component_type2
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 輕武器專家
+    content: 累計獲取100個機動裝甲輕武器組件。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1139
+    type: get_vehicle_component_type2
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 輕武器大師
+    content: 累計獲取500個機動裝甲輕武器組件。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1140
+    type: get_vehicle_component_type2
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 輕武器達人
+    content: 累計獲取1000個機動裝甲輕武器組件。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1141
+    type: get_vehicle_component_type2
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 輕武器廠長
+    content: 累計獲取2000個機動裝甲輕武器組件。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1142
+    type: get_vehicle_component_type2
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 輕武器大亨
+    content: 累計獲取5000個機動裝甲輕武器組件。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1143
+    type: get_vehicle_component_type2
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 輕武器制霸
+    content: 累計獲取10000個機動裝甲輕武器組件。
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1144
+    type: get_vehicle_component_type3
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 功能組件入門
+    content: 獲取1個機動裝甲功能組件。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1145
+    type: get_vehicle_component_type3
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 功能組件學徒
+    content: 累計獲取5個機動裝甲功能組件。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1146
+    type: get_vehicle_component_type3
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 功能組件工匠
+    content: 累計獲取10個機動裝甲功能組件。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1147
+    type: get_vehicle_component_type3
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 功能組件精英
+    content: 累計獲取50個機動裝甲功能組件。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1148
+    type: get_vehicle_component_type3
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 功能組件專家
+    content: 累計獲取100個機動裝甲功能組件。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1149
+    type: get_vehicle_component_type3
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 功能組件大師
+    content: 累計獲取500個機動裝甲功能組件。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1150
+    type: get_vehicle_component_type3
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 功能組件達人
+    content: 累計獲取1000個機動裝甲功能組件。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1151
+    type: get_vehicle_component_type3
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 功能組件廠長
+    content: 累計獲取2000個機動裝甲功能組件。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1152
+    type: get_vehicle_component_type3
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 功能組件大亨
+    content: 累計獲取5000個機動裝甲功能組件。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1153
+    type: get_vehicle_component_type3
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 功能組件制霸
+    content: 累計獲取10000個機動裝甲功能組件。
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1154
+    type: get_vehicle_component_type4
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 防護組件入門
+    content: 獲取1個機動裝甲防護組件。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1155
+    type: get_vehicle_component_type4
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 防護組件學徒
+    content: 累計獲取5個機動裝甲防護組件。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1156
+    type: get_vehicle_component_type4
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 防護組件工匠
+    content: 累計獲取10個機動裝甲防護組件。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1157
+    type: get_vehicle_component_type4
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 防護組件精英
+    content: 累計獲取50個機動裝甲防護組件。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1158
+    type: get_vehicle_component_type4
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 防護組件專家
+    content: 累計獲取100個機動裝甲防護組件。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1159
+    type: get_vehicle_component_type4
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 防護組件大師
+    content: 累計獲取500個機動裝甲防護組件。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1160
+    type: get_vehicle_component_type4
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 防護組件達人
+    content: 累計獲取1000個機動裝甲防護組件。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1161
+    type: get_vehicle_component_type4
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 防護組件廠長
+    content: 累計獲取2000個機動裝甲防護組件。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1162
+    type: get_vehicle_component_type4
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 防護組件大亨
+    content: 累計獲取5000個機動裝甲防護組件。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1163
+    type: get_vehicle_component_type4
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 防護組件制霸
+    content: 累計獲取10000個機動裝甲防護組件。
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1164
+    type: vehicle_progress
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: "-0.53,53.20"
+    content: 解鎖1個機動裝甲科技樹節點。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1165
+    type: vehicle_progress
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: "30.30,59.90"
+    content: 累計解鎖5個機動裝甲科技樹節點。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1166
+    type: vehicle_progress
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: "7.00,51.50"
+    content: 累計解鎖10個機動裝甲科技樹節點。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1167
+    type: vehicle_progress
+    count: 15
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 133037-1,133038-1,133039-1,133040-1,133041-1,133066-1,133067-1
+    title: "9.20,48.8"
+    content: 累計解鎖15個機動裝甲科技樹節點。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1168
+    type: vehicle_progress
+    count: 30
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: "36.22,49.98"
+    content: 累計解鎖30個機動裝甲科技樹節點。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1169
+    type: vehicle_progress
+    count: 45
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: "60.00,57.98"
+    content: 累計解鎖45個機動裝甲科技樹節點。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1170
+    type: vehicle_progress
+    count: 60
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: "-83.03,42.34"
+    content: 累計解鎖60個機動裝甲科技樹節點。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1171
+    type: vehicle_progress
+    count: 90
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: "-0.13,51.50"
+    content: 累計解鎖90個機動裝甲科技樹節點。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1172
+    type: vehicle_progress
+    count: 120
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: "44.45,48.70"
+    content: 累計解鎖120個機動裝甲科技樹節點。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1173
+    type: vehicle_progress
+    count: 150
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: "116.40,39.91"
+    content: 累計解鎖150個機動裝甲科技樹節點。
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1174
+    type: vehicle_skin
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 1674 5R4.4/14
+    content: 獲取1個裝甲圖紙。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1175
+    type: vehicle_skin
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 1092 6.3YR7/9.6
+    content: 累計獲取5個裝甲圖紙。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1176
+    type: vehicle_skin
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: FS 13591
+    content: 累計獲取10個裝甲圖紙。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1177
+    type: vehicle_skin
+    count: 20
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: FS 14193
+    content: 累計獲取20個裝甲圖紙。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1178
+    type: vehicle_skin
+    count: 50
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: S 1560-R90B
+    content: 累計獲取50個裝甲圖紙。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1179
+    type: vehicle_skin
+    count: 100
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: S 3560-R90B
+    content: 累計獲取100個裝甲圖紙。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1180
+    type: vehicle_skin
+    count: 200
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: Ral 4007
+    content: 累計獲取200個裝甲圖紙。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1181
+    type: vehicle_skin
+    count: 500
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: Ral 9011
+    content: 累計獲取500個裝甲圖紙。
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1182
+    type: vehicle_kill
+    count: 50
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 奧德修斯
+    content: 戰鬥勝利情況下通過機動裝甲主動作戰累計消滅50個敵人。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1183
+    type: vehicle_kill
+    count: 100
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 兵蟻不能承受之重
+    content: 戰鬥勝利情況下通過機動裝甲主動作戰累計消滅100個敵人。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1184
+    type: vehicle_kill
+    count: 200
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 罪與罰
+    content: 戰鬥勝利情況下通過機動裝甲主動作戰累計消滅200個敵人。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1185
+    type: vehicle_kill
+    count: 500
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 133056-1
+    title: 喀秋莎
+    content: 戰鬥勝利情況下通過機動裝甲主動作戰累計消滅500個敵人。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1186
+    type: vehicle_kill
+    count: 1000
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    item_ids: 133042-1,133043-1,133044-1,133045-1,133046-1,133068-1
+    title: 草原啊草原
+    content: 戰鬥勝利情況下通過機動裝甲主動作戰累計消滅1000個敵人。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1187
+    type: vehicle_kill
+    count: 2000
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 啊，朋友再見
+    content: 戰鬥勝利情況下通過機動裝甲主動作戰累計消滅2000個敵人。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1188
+    type: vehicle_kill
+    count: 5000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 老兵不死
+    content: 戰鬥勝利情況下通過機動裝甲主動作戰累計消滅5000個敵人。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1189
+    type: vehicle_kill
+    count: 10000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 戰爭與和平
+    content: 戰鬥勝利情況下通過機動裝甲主動作戰累計消滅10000個敵人。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1190
+    type: vehicle_kill
+    count: 20000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 靜靜的頓河
+    content: 戰鬥勝利情況下通過機動裝甲主動作戰累計消滅20000個敵人。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1191
+    type: vehicle_kill
+    count: 50000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 這裡的黎明靜悄悄
+    content: 戰鬥勝利情況下通過機動裝甲主動作戰累計消滅50000個敵人。
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1192
+    type: vehicle_consume
+    count: 100
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 載具駕駛菜鳥
+    content: 累計消耗100點機動裝甲能源。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1193
+    type: vehicle_consume
+    count: 200
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 載具駕駛入門
+    content: 累計消耗200點機動裝甲能源。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1194
+    type: vehicle_consume
+    count: 500
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 載具駕駛修行
+    content: 累計消耗500點機動裝甲能源。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1195
+    type: vehicle_consume
+    count: 1000
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 載具駕駛挑戰
+    content: 累計消耗1000點機動裝甲能源。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1196
+    type: vehicle_consume
+    count: 2000
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 載具駕駛操控
+    content: 累計消耗2000點機動裝甲能源。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1197
+    type: vehicle_consume
+    count: 5000
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 載具駕駛悟道
+    content: 累計消耗5000點機動裝甲能源。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1198
+    type: vehicle_consume
+    count: 10000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 載具駕駛掌握
+    content: 累計消耗10000點機動裝甲能源。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1199
+    type: vehicle_consume
+    count: 20000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 載具駕駛熟練
+    content: 累計消耗20000點機動裝甲能源。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1200
+    type: vehicle_consume
+    count: 50000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 載具駕駛精通
+    content: 累計消耗50000點機動裝甲能源。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1201
+    type: vehicle_consume
+    count: 100000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 載具駕駛入化
+    content: 累計消耗100000點機動裝甲能源。
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1202
+    type: vehicle_defeat_challenge_1
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 戰鬥鄉村：Lv1
+    content: 突破裝甲突擊-主戰坦克1層。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1203
+    type: vehicle_defeat_challenge_1
+    count: 3
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    item_ids: 133031-1
+    title: 戰鬥鄉村：Lv3
+    content: 突破裝甲突擊-主戰坦克3層。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1204
+    type: vehicle_defeat_challenge_1
+    count: 5
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 戰鬥鄉村：Lv5
+    content: 突破裝甲突擊-主戰坦克5層。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1205
+    type: vehicle_defeat_challenge_1
+    count: 10
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 戰鬥鄉村：Lv10
+    content: 突破裝甲突擊-主戰坦克10層。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1206
+    type: vehicle_defeat_challenge_1
+    count: 15
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 戰鬥鄉村：Lv15
+    content: 突破裝甲突擊-主戰坦克15層。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1207
+    type: vehicle_defeat_challenge_1
+    count: 20
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 戰鬥鄉村：Lv20
+    content: 突破裝甲突擊-主戰坦克20層。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1208
+    type: vehicle_defeat_challenge_1
+    count: 25
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 戰鬥鄉村：Lv25
+    content: 突破裝甲突擊-主戰坦克25層。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1209
+    type: vehicle_defeat_challenge_1
+    count: 30
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 戰鬥鄉村：Lv30
+    content: 突破裝甲突擊-主戰坦克30層。
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1210
+    type: vehicle_defeat_challenge_2
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 灰域突擊：G
+    content: 突破裝甲突擊-戰術人型機甲1層。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1211
+    type: vehicle_defeat_challenge_2
+    count: 3
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 灰域突擊：S
+    content: 突破裝甲突擊-戰術人型機甲3層。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1212
+    type: vehicle_defeat_challenge_2
+    count: 5
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    item_ids: 133055-1
+    title: 新灰域突擊
+    content: 突破裝甲突擊-戰術人型機甲5層。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1213
+    type: vehicle_defeat_challenge_2
+    count: 10
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 133047-1,133048-1,133049-1,133050-1,133069-1
+    title: 灰域突擊：F
+    content: 突破裝甲突擊-戰術人型機甲10層。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1214
+    type: vehicle_defeat_challenge_2
+    count: 15
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 灰域突擊：64
+    content: 突破裝甲突擊-戰術人型機甲15層。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1215
+    type: vehicle_defeat_challenge_2
+    count: 20
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 133051-1,133052-1,133053-1,133054-1,133070-1
+    title: 灰域突擊：EX
+    content: 突破裝甲突擊-戰術人型機甲20層。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1216
+    type: vehicle_defeat_challenge_2
+    count: 25
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 灰域突擊：α
+    content: 突破裝甲突擊-戰術人型機甲25層。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1217
+    type: vehicle_defeat_challenge_2
+    count: 30
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 灰域突擊：OG
+    content: 突破裝甲突擊-戰術人型機甲30層。
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1218
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 滿分試卷！
+    content: 允許！重新載入-勝負的天平-EX：擊敗法官、AA-02 負罪者、涅托並完成關卡。
+    type_sort: 100
+    sort: 322
+    icon_code: 满分试卷
+    condition: 11474:1147405
   }
 ]

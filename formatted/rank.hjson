@@ -3,6 +3,8 @@
     id: 1
     name: 狩獵排行
     type: 1
+    sub_rank: 1
+    sub_rank_name: 總積分
     refresh: month:1:0
     title: 每日4點刷新
     visable_rank: 100
@@ -11,9 +13,11 @@
   }
   {
     id: 2
-    name: 資料採樣低級排行
+    name: 資料採樣初級排行
     type: 2
     sub_type: "1"
+    sub_rank: 2
+    sub_rank_name: 總積分
     refresh: week:7:0
     title: 每日4點刷新
     visable_rank: 100
@@ -25,6 +29,8 @@
     name: 資料採樣中級排行
     type: 2
     sub_type: "2"
+    sub_rank: 3
+    sub_rank_name: 總積分
     refresh: week:7:0
     title: 每日4點刷新
     visable_rank: 100
@@ -36,6 +42,8 @@
     name: 資料採樣高級排行
     type: 2
     sub_type: "3"
+    sub_rank: 1
+    sub_rank_name: 總積分
     refresh: week:7:0
     title: 每日4點刷新
     visable_rank: 100
@@ -1065,6 +1073,19 @@
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 301
+    name: 墜入兔洞PLUS常駐
+    type: 10
+    sub_type: "10105"
+    sub_rank: 1
+    sub_rank_name: 積分
+    refresh: test
+    title: <墜入兔洞+>常駐積分榜
+    visable_rank: 100
+    ranking_onlist_number: 80000
     visable_count: 100
   }
   {

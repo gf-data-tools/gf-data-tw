@@ -80,31 +80,31 @@
   {
     id: 501
     class_id: 5
-    title: 重裝部隊等級
+    title: 火力小隊等級
     weight: 0.3
   }
   {
     id: 502
     class_id: 5
-    title: 重裝部隊晉升
+    title: 火力小隊晉升
     weight: 1
   }
   {
     id: 503
     class_id: 5
-    title: 重裝部隊迭代
+    title: 火力小隊迭代
     weight: 2
   }
   {
     id: 504
     class_id: 5
-    title: 重裝部隊技能等級
+    title: 火力小隊技能等級
     weight: 0.9
   }
   {
     id: 505
     class_id: 5
-    title: 重裝部隊晶片
+    title: 火力小隊晶片
     weight: 0.6
   }
   {
@@ -147,7 +147,7 @@
     id: 802
     class_id: 8
     title: 大型活動戰役
-    weight: 0.8
+    weight: 1
   }
   {
     id: 803
@@ -158,7 +158,7 @@
   {
     id: 804
     class_id: 8
-    title: 圖鑒收集
+    title: 圖鑑收集
     weight: 1
   }
   {
@@ -261,6 +261,42 @@
     id: 1108
     class_id: 11
     title: 人形好感度
+    weight: 1
+  }
+  {
+    id: 1201
+    class_id: 12
+    title: 機動裝甲圖鑑
+    weight: 1
+  }
+  {
+    id: 1202
+    class_id: 12
+    title: 機動裝甲熟練度
+    weight: 0.1
+  }
+  {
+    id: 1203
+    class_id: 12
+    title: 累計解鎖機動裝甲科技樹節點
+    weight: 10
+  }
+  {
+    id: 1204
+    class_id: 12
+    title: 5星組件數量
+    weight: 1
+  }
+  {
+    id: 1205
+    class_id: 12
+    title: 5星組件等級
+    weight: 3
+  }
+  {
+    id: 1206
+    class_id: 12
+    title: 組件等級
     weight: 1
   }
 ]

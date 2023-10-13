@@ -397,9 +397,9 @@
   }
   {
     id: 1000020
-    name: EMP手雷爆炸效果
+    name: EMP手榴彈爆炸效果
     code: PortableEMP
-    description: EMP手雷爆炸
+    description: EMP手榴彈爆炸
     duration: 3
     size: 1
     sound: map_emp_explo

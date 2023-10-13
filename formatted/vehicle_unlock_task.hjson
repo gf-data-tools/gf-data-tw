@@ -1,0 +1,69 @@
+[
+  {
+    id: 1
+    description: 指揮官等級到達50級
+    task_type: commander_level
+    count: "50"
+    vehicle_id: 1
+    group_type: 1
+  }
+  {
+    id: 2
+    description: 總計獲得120個金、銀、銅勳章
+    task_type: mission_medal_all
+    count: "120"
+    vehicle_id: 1
+    group_type: 1
+  }
+  {
+    id: 3
+    description: 擁有10個100級的人形或鐵血
+    task_type: i_gun_level
+    count: "10"
+    condition: "100"
+    vehicle_id: 1
+    group_type: 1
+  }
+  {
+    id: 4
+    description: 完成主戰坦克的裝甲靶場教學
+    task_type: c_guide_complete
+    condition: "11487"
+    vehicle_id: 1
+    group_type: 1
+  }
+  {
+    id: 5
+    description: 擊殺1次AA-02 負罪者（推薦普通13-6）
+    task_type: i_kill_enemy_all
+    count: "1"
+    condition: "80"
+    vehicle_id: 2
+    group_type: 1
+  }
+  {
+    id: 6
+    description: 總計獲得50個金勳章
+    task_type: mission_bestrank5
+    count: "50"
+    vehicle_id: 2
+    group_type: 1
+  }
+  {
+    id: 7
+    description: 擁有2個100級的火力小隊
+    task_type: i_squad_level
+    count: "2"
+    condition: "100"
+    vehicle_id: 2
+    group_type: 1
+  }
+  {
+    id: 8
+    description: 完成戰術人型機甲的裝甲靶場教學
+    task_type: c_guide_complete
+    condition: "11486"
+    vehicle_id: 2
+    group_type: 1
+  }
+]

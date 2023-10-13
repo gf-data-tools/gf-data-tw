@@ -1725,7 +1725,7 @@
     id: 544114
     code_a: Build_PortableEMP
     description_a: 我方梯隊
-    description_b: 心智震盪彈
+    description_b: 心智震撼彈
     description_c: 拾取
     code_b: Console_Icon
   }
@@ -1733,7 +1733,7 @@
     id: 544124
     code_a: Build_PortableEMP
     description_a: 我方梯隊
-    description_b: 心智震盪彈
+    description_b: 心智震撼彈
     description_c: 投擲
     code_b: Console_Icon
     is_manual_target: 2
@@ -2441,7 +2441,7 @@
     id: 591104
     code_a: Rouge_591104
     description_a: 我方梯隊
-    description_b: 燃燒手雷
+    description_b: 燃燒手榴彈
     description_c: 升級
     code_b: Console_Icon
     is_manual_target: 3
@@ -4615,7 +4615,7 @@
     id: 1140101
     code_a: Build_PortableEMP
     description_a: 我方梯隊
-    description_b: EMP手雷
+    description_b: EMP手榴彈
     description_c: 攜帶
     code_b: Squad_Icon
   }
@@ -5058,7 +5058,7 @@
     id: 6440007
     code_a: Build_PortableEMP
     description_a: 我方梯隊
-    description_b: EMP手雷
+    description_b: EMP手榴彈
     description_c: 攜帶
     code_b: Squad_Icon
   }
@@ -5066,7 +5066,7 @@
     id: 6440008
     code_a: Build_PortableEMP
     description_a: 我方梯隊
-    description_b: EMP手雷
+    description_b: EMP手榴彈
     description_c: 扔出
     code_b: Squad_Icon
     is_manual_target: 2
@@ -6125,7 +6125,7 @@
     id: 6560006
     code_a: PortableEMP_Nobase
     description_a: 我方梯隊
-    description_b: EMP手雷
+    description_b: EMP手榴彈
     description_c: 拾取
     code_b: Console_Icon
   }
@@ -6142,7 +6142,7 @@
     id: 6560008
     code_a: PortableEMP_Nobase
     description_a: 我方梯隊
-    description_b: EMP手雷
+    description_b: EMP手榴彈
     description_c: 扔出
     code_b: Console_Icon
     is_manual_target: 2
@@ -6356,6 +6356,73 @@
     description_a: 我方梯隊
     description_b: 控制中樞台
     description_c: 關閉
+    code_b: Console_Icon
+  }
+  {
+    id: 6620001
+    code_a: Boomer
+    description_a: 我方梯隊
+    description_b: 歌利亞
+    description_c: 投擲
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6620002
+    code_a: Build_PortableEMP
+    description_a: 我方梯隊
+    description_b: EMP
+    description_c: 投擲
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6620003
+    code_a: portalskill
+    description_a: 我方梯隊
+    description_b: 無人點位
+    description_c: 傳送
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6620004
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 開戰凍結
+    description_c: 獲取
+    code_b: Console_Icon
+  }
+  {
+    id: 6620005
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 強襲之地
+    description_c: 獲取
+    code_b: Console_Icon
+  }
+  {
+    id: 6620006
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 覆蓋支援
+    description_c: 獲取
+    code_b: Console_Icon
+  }
+  {
+    id: 6620007
+    code_a: Build_PortableEMP
+    description_a: 我方梯隊
+    description_b: EMP
+    description_c: 拾取
+    code_b: Console_Icon
+  }
+  {
+    id: 6620008
+    code_a: Console
+    description_a: 我方梯隊
+    description_b: 防禦門
+    description_c: 開啟
     code_b: Console_Icon
   }
   {

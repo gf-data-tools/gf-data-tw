@@ -149,9 +149,9 @@ mission_win_type_config-10361604,
 mission_win_type_config-10363600,
 mission_win_type_config-10363601,堅持到第3回合
 mission_win_type_config-10363700,堅持到第3回合
-mission_win_type_config-10362500,將EMP手雷移動到雷達點（回合結束時結算）
-mission_win_type_config-10362600,將EMP手雷②移動到螢幕左側雷達點（回合結束時結算）
-mission_win_type_config-10362601,將EMP手雷①移動到螢幕右側雷達點（回合結束時結算）
+mission_win_type_config-10362500,將EMP手榴彈移動到雷達點（回合結束時結算）
+mission_win_type_config-10362600,將EMP手榴彈②移動到螢幕左側雷達點（回合結束時結算）
+mission_win_type_config-10362601,將EMP手榴彈①移動到螢幕右側雷達點（回合結束時結算）
 mission_win_type_config-10000009,
 mission_win_type_config-10001030,
 mission_win_type_config-10001040,
@@ -1015,3 +1015,27 @@ mission_win_type_config-11144401,在同一回合內擊殺所有代理人。//n�
 mission_win_type_config-11144001,占領所有非我方指揮部
 mission_win_type_config-11144301,堅守至第6回合
 mission_win_type_config-11144302,拆除所有炮擊陣地（注意只能通過踩點破壞敵方設施）
+mission_win_type_config-11148001,
+mission_win_type_config-11148101,
+mission_win_type_config-11148201,
+mission_win_type_config-11148301,
+mission_win_type_config-11148601,
+mission_win_type_config-11148701,
+mission_win_type_config-11148091,
+mission_win_type_config-10500001,第三方梯隊撤退
+mission_win_type_config-10500000,我方梯隊全滅
+mission_win_type_config-10550500,堅守至第6回合
+mission_win_type_config-11147101,
+mission_win_type_config-11146501,
+mission_win_type_config-11147201,
+mission_win_type_config-11146601,
+mission_win_type_config-11147401,
+mission_win_type_config-11147402,
+mission_win_type_config-11147403,
+mission_win_type_config-11147404,
+mission_win_type_config-11147405,
+mission_win_type_config-11147301,
+mission_win_type_config-11147302,
+mission_win_type_config-11147303,
+mission_win_type_config-11147304,
+mission_win_type_config-11147501,

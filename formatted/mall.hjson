@@ -227,25 +227,6 @@
     classification_id: 5004
   }
   {
-    id: 26
-    type: 1
-    sort: 13
-    item_ids: 16-1
-    gemprice: 50
-    discount: 1
-    classification_id: 5004
-  }
-  {
-    id: 27
-    type: 1
-    sort: 14
-    item_ids: 16-10
-    gemprice: 380
-    if_cheap: 1
-    discount: 1
-    classification_id: 5004
-  }
-  {
     id: 28
     type: 1
     sort: 3
@@ -901,7 +882,7 @@
     gemprice: 2888
     original_price: 6620
     quota: 2001
-    giftbag_name: PK-與您同在
+    giftbag_name: 一發入魂禮包
     event_code: dailyGiftbag
     icon: Bumdle_ruby
     daily_quota: 50
@@ -945,7 +926,7 @@
     gift: 605-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: PK純白誓約禮包
+    giftbag_name: PK-與您同在
     event_code: dailyGiftbag
     icon: Bumdle_whiteValentine
     discount: 1
@@ -1022,7 +1003,7 @@
     gemprice: 128
     original_price: 290
     quota: 2001
-    giftbag_name: SR-3MP-黑兔瑪奇朵
+    giftbag_name: 作戰補給禮包
     event_code: dailyGiftbag
     icon: Bumdle_indigo
     daily_quota: 10
@@ -1040,7 +1021,7 @@
     gemprice: 2888
     original_price: 6620
     quota: 2001
-    giftbag_name: 莫辛-納甘-月之海
+    giftbag_name: 一發入魂禮包
     event_code: dailyGiftbag
     icon: Bumdle_ruby
     daily_quota: 50
@@ -1053,7 +1034,7 @@
     item_ids: 2-5,9-20
     gemprice: 188
     quota: 2001
-    giftbag_name: 蝎式-深紅的星途
+    giftbag_name: 每日特惠禮包
     event_code: dailyGiftbag
     icon: Bumdle_indigo
     daily_quota: 5
@@ -1068,7 +1049,7 @@
     gift: 807-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: SR-3MP牧月之邀禮包
+    giftbag_name: SR-3MP-黑兔瑪奇朵
     event_code: dailyGiftbag
     icon: Bumdle_1yearpackage
     discount: 1
@@ -1082,7 +1063,7 @@
     gift: 803-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: 莫辛納甘牧月之邀禮包
+    giftbag_name: 莫辛-納甘-月之海
     event_code: dailyGiftbag
     icon: Bumdle_1yearpackage
     discount: 1
@@ -1096,7 +1077,7 @@
     gift: 801-1
     gemprice: 1288
     quota: 2001
-    giftbag_name: 蠍式牧月之邀禮包
+    giftbag_name: 蝎式-深紅的星途
     event_code: dailyGiftbag
     icon: Bumdle_1yearpackage
     discount: 1
@@ -1175,7 +1156,7 @@
     gemprice: 218
     original_price: 480
     quota: 2001
-    giftbag_name: 95式-夏鳴蟬
+    giftbag_name: 作戰補給禮包
     event_code: dailyGiftbag
     icon: Bumdle_indigo
     daily_quota: 10
@@ -1190,7 +1171,7 @@
     gift: 1102-1
     gemprice: 2468
     quota: 2001
-    giftbag_name: 95式盛夏禮包
+    giftbag_name: 95式-夏鳴蟬
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: 1
@@ -1204,7 +1185,7 @@
     gift: 1108-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: WA2000盛夏禮包
+    giftbag_name: WA2000-魔鬼魚行動
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: 1
@@ -1217,7 +1198,7 @@
     gift: 1101-1
     gemprice: 1388
     quota: 2001
-    giftbag_name: NTW-20盛夏禮包
+    giftbag_name: NTW-20-驕陽任務
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: 1
@@ -13562,7 +13543,7 @@
     gemprice: 400
     original_price: 500
     quota: 2001
-    giftbag_name: 側行並步
+    giftbag_name: 側行併步
     event_code: dailyGiftbag
     discount: 1
     prize_id: 95552
@@ -33385,6 +33366,461 @@
     icon: Bumdle_yuugo01
     discount: 1
     classification_id: 3002
+  }
+  {
+    id: 11537
+    type: 88
+    item_ids: 133071-1
+    gemprice: 320
+    original_price: 400
+    quota: 2001
+    giftbag_name: KV-2 巨齒鯊-主戰坦克裝甲圖紙
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11538
+    type: 88
+    item_ids: 133090-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: KV-2 巨齒鯊-車載夜視儀
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11539
+    type: 88
+    item_ids: 133091-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: KV-2 巨齒鯊-自動防衛系統
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11540
+    type: 88
+    item_ids: 133092-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: KV-2 巨齒鯊-導彈發射器MK1
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11541
+    type: 88
+    item_ids: 133093-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: KV-2 巨齒鯊-烈焰噴射器
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11542
+    type: 88
+    item_ids: 133072-1
+    gemprice: 320
+    original_price: 400
+    quota: 2001
+    giftbag_name: KV-2 雪地迷彩-主戰坦克裝甲圖紙
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11543
+    type: 88
+    item_ids: 133094-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: KV-2 雪地迷彩-車載夜視儀
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11544
+    type: 88
+    item_ids: 133095-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: KV-2 雪地迷彩-自動防衛系統
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11545
+    type: 88
+    item_ids: 133096-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: KV-2 雪地迷彩-導彈發射器MK1
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11546
+    type: 88
+    item_ids: 133097-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: KV-2 雪地迷彩-烈焰噴射器
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11547
+    type: 88
+    item_ids: 133089-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: KV-2 通用-通用機槍MK-I
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11548
+    type: 88
+    item_ids: 133073-1
+    gemprice: 320
+    original_price: 400
+    quota: 2001
+    giftbag_name: 裁決原野灰-主戰坦克裝甲圖紙
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11549
+    type: 88
+    item_ids: 133098-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決原野灰-高射加農炮
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11550
+    type: 88
+    item_ids: 133099-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決原野灰-煙霧發射器
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11551
+    type: 88
+    item_ids: 133101-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決原野灰-機槍炮
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11552
+    type: 88
+    item_ids: 133102-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決原野灰-導彈發射器MK1
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11553
+    type: 88
+    item_ids: 133074-1
+    gemprice: 320
+    original_price: 400
+    quota: 2001
+    giftbag_name: 裁決雪地迷彩-主戰坦克裝甲圖紙
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11554
+    type: 88
+    item_ids: 133104-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決雪地迷彩-煙霧發射器
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11555
+    type: 88
+    item_ids: 133105-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決雪地迷彩-機槍炮
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11556
+    type: 88
+    item_ids: 133106-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決雪地迷彩-導彈發射器MK1
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11557
+    type: 88
+    item_ids: 133075-1
+    gemprice: 320
+    original_price: 400
+    quota: 2001
+    giftbag_name: 裁決沙漠黃-主戰坦克裝甲圖紙
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11558
+    type: 88
+    item_ids: 133108-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決沙漠黃-機槍炮
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11559
+    type: 88
+    item_ids: 133109-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決沙漠黃-導彈發射器MK1
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11560
+    type: 88
+    item_ids: 133076-1
+    gemprice: 320
+    original_price: 400
+    quota: 2001
+    giftbag_name: 裁決叢林迷彩-主戰坦克裝甲圖紙
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11561
+    type: 88
+    item_ids: 133110-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決叢林迷彩-機槍炮
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11562
+    type: 88
+    item_ids: 133111-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決叢林迷彩-導彈發射器MK1
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11563
+    type: 88
+    item_ids: 133100-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決通用-訊號塔
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11564
+    type: 88
+    item_ids: 133103-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決通用-高射加農炮
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11565
+    type: 88
+    item_ids: 133107-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: 裁決通用-煙霧發射器
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11566
+    type: 88
+    item_ids: 133077-1
+    gemprice: 320
+    original_price: 400
+    quota: 2001
+    giftbag_name: TCW48-A3鋼爪-戰術人型機甲裝甲圖紙
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11567
+    type: 88
+    item_ids: 133078-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: TCW48-A3鋼爪-烈焰噴射器
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11568
+    type: 88
+    item_ids: 133079-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: TCW48-A3鋼爪-多管機槍
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11569
+    type: 88
+    item_ids: 133080-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: TCW48-A3鋼爪-機槍炮
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11570
+    type: 88
+    item_ids: 133081-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: TCW48-A3鋼爪-防護發生器
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11571
+    type: 88
+    item_ids: 133082-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: TCW48-A3鋼爪-干擾器
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
   }
   {
     id: 11572

@@ -693,10 +693,10 @@
   {
     id: 172
     type: squad_base_data_analyse
-    count: 1
+    count: 20
     prize_id: 780
-    title: 重裝部隊：原始樣本
-    content: 在「情報中心-記錄儀」使用原始樣本進行1次抽樣分析
+    title: 火力小隊：原始樣本
+    content: 累計消耗20點原始數據樣本
     new_type: 1
     grade_id: 29
     sort: 206
@@ -704,43 +704,21 @@
   {
     id: 173
     type: squad_senior_data_analyse
-    count: 1
+    count: 20
     prize_id: 781
-    title: 重裝部隊：純淨樣本
-    content: 在「情報中心-記錄儀」使用純淨樣本進行1次抽樣分析
+    title: 火力小隊：純淨樣本
+    content: 累計消耗20點純淨數據樣本
     new_type: 1
     grade_id: 29
     sort: 207
-  }
-  {
-    id: 174
-    type: squad_get_chip
-    count: 1
-    prize_id: 782
-    title: 重裝部隊：晶片
-    content: 首次獲得晶片
-    new_type: 1
-    grade_id: 29
-    sort: 208
-  }
-  {
-    id: 175
-    type: squad_get_secret_data
-    count: 1
-    prize_id: 783
-    title: 重裝部隊：中樞數據
-    content: 首次獲得中樞數據
-    new_type: 1
-    grade_id: 29
-    sort: 209
   }
   {
     id: 176
     type: squad_get_type1_unit
     count: 1
     prize_id: 784
-    title: 重裝部隊：解鎖
-    content: 首次解鎖重裝部隊火力單位
+    title: 火力小隊：解鎖
+    content: 首次解鎖重裝部隊-火力小隊
     new_type: 1
     grade_id: 29
     sort: 210
@@ -750,8 +728,8 @@
     type: squad_up_rank
     count: 1
     prize_id: 785
-    title: 重裝部隊：晉升
-    content: 首次對重裝部隊進行晉升
+    title: 火力小隊：晉升
+    content: 首次對火力小隊進行晉升
     new_type: 1
     grade_id: 30
     sort: 222
@@ -761,30 +739,19 @@
     type: squad_rank_max
     count: 1
     prize_id: 786
-    title: 重裝部隊：晉升
-    content: 首次將重裝部隊晉升至五星
+    title: 火力小隊：晉升
+    content: 首次將火力小隊晉升至五星
     new_type: 1
     grade_id: 33
     sort: 264
-  }
-  {
-    id: 179
-    type: squad_train_time
-    count: 1
-    prize_id: 787
-    title: 重裝部隊：經驗訓練
-    content: 透過「格納庫-訓練場」完成1次重裝部隊經驗訓練
-    new_type: 1
-    grade_id: 29
-    sort: 211
   }
   {
     id: 180
     type: squad_level_max
     count: 1
     prize_id: 788
-    title: 重裝部隊：等級訓練
-    content: 將1個重裝部隊等級升至100級
+    title: 火力小隊：等級訓練
+    content: 將1個火力小隊等級升至100級
     new_type: 1
     grade_id: 33
     sort: 265
@@ -794,8 +761,8 @@
     type: squad_up_skill_times
     count: 1
     prize_id: 789
-    title: 重裝部隊：技能訓練
-    content: 透過「格納庫-訓練場」完成1次重裝部隊技能訓練
+    title: 火力小隊：技能訓練
+    content: 透過「情報中心-訓練場」完成1次火力小隊技能訓練
     new_type: 1
     grade_id: 30
     sort: 223
@@ -805,33 +772,11 @@
     type: squad_up_advanced_times
     count: 1
     prize_id: 790
-    title: 重裝部隊：迭代
-    content: 首次對重裝部隊進行迭代
+    title: 火力小隊：迭代
+    content: 首次對火力小隊進行迭代
     new_type: 1
     grade_id: 33
     sort: 266
-  }
-  {
-    id: 184
-    type: squad_chip_retire_times
-    count: 1
-    prize_id: 792
-    title: 重裝部隊：晶片回收
-    content: 在「格納庫-晶片倉庫」進行1次晶片回收
-    new_type: 1
-    grade_id: 30
-    sort: 224
-  }
-  {
-    id: 185
-    type: squad_eat_chip_num
-    count: 1
-    prize_id: 793
-    title: 重裝部隊：晶片強化
-    content: 在「格納庫-晶片倉庫」進行1次晶片強化
-    new_type: 1
-    grade_id: 30
-    sort: 225
   }
   {
     id: 186
@@ -2716,10 +2661,10 @@
   {
     id: 355
     type: squad_base_data_analyse
-    count: 20
+    count: 400
     prize_id: 11163
-    title: 重裝部隊：原始樣本
-    content: 在「情報中心-記錄儀」使用原始樣本進行20次抽樣分析
+    title: 火力小隊：原始樣本
+    content: 累計消耗400點原始數據樣本
     new_type: 1
     grade_id: 30
     sort: 226
@@ -2727,10 +2672,10 @@
   {
     id: 356
     type: squad_senior_data_analyse
-    count: 5
+    count: 100
     prize_id: 11164
-    title: 重裝部隊：純淨樣本
-    content: 在「情報中心-記錄儀」使用純淨樣本進行5次抽樣分析
+    title: 火力小隊：純淨樣本
+    content: 累計消耗100點純淨數據樣本
     new_type: 1
     grade_id: 30
     sort: 227
@@ -2740,8 +2685,8 @@
     type: c_squad_rank
     count: 1
     prize_id: 11165
-    title: 重裝部隊：晉升
-    content: 將1個重裝晉升至3星
+    title: 火力小隊：晉升
+    content: 將1個火力小隊晉升至3星
     new_type: 1
     grade_id: 31
     sort: 241
@@ -2752,8 +2697,8 @@
     type: c_squad_rank
     count: 1
     prize_id: 11166
-    title: 重裝部隊：晉升
-    content: 將1個重裝晉升至4星
+    title: 火力小隊：晉升
+    content: 將1個火力小隊晉升至4星
     new_type: 1
     grade_id: 32
     sort: 253
@@ -2764,7 +2709,7 @@
     type: write_squad_report
     count: 1
     prize_id: 11167
-    title: 重裝部隊：特種作戰報告書
+    title: 火力小隊：特種作戰報告書
     content: 在「資料室-辦公桌」撰寫1次特種作戰報告書
     new_type: 1
     grade_id: 29
@@ -2775,7 +2720,7 @@
     type: exchange_squad_report
     count: 1
     prize_id: 11168
-    title: 重裝部隊：特種作戰報告書
+    title: 火力小隊：特種作戰報告書
     content: 在「前進營地-黑市商店」兌換1次特種作戰報告書
     new_type: 1
     grade_id: 30
@@ -2786,8 +2731,8 @@
     type: c_squad_level
     count: 1
     prize_id: 11169
-    title: 重裝部隊：等級訓練
-    content: 透過「格納庫-訓練場」將1個重裝部隊等級升至30級
+    title: 火力小隊：等級訓練
+    content: 將1個火力小隊等級升至30級
     new_type: 1
     grade_id: 30
     sort: 229
@@ -2798,8 +2743,8 @@
     type: c_squad_level
     count: 1
     prize_id: 11170
-    title: 重裝部隊：等級訓練
-    content: 透過「格納庫-訓練場」將1個重裝部隊等級升至50級
+    title: 火力小隊：等級訓練
+    content: 將1個火力小隊等級升至50級
     new_type: 1
     grade_id: 31
     sort: 242
@@ -2810,8 +2755,8 @@
     type: c_squad_level
     count: 1
     prize_id: 11171
-    title: 重裝部隊：等級訓練
-    content: 透過「格納庫-訓練場」將1個重裝部隊等級升至70級
+    title: 火力小隊：等級訓練
+    content: 將1個火力小隊等級升至70級
     new_type: 1
     grade_id: 32
     sort: 254
@@ -2822,8 +2767,8 @@
     type: c_squad_allskills_level
     count: 1
     prize_id: 11172
-    title: 重裝部隊：技能訓練
-    content: 透過「格納庫-訓練場」將1個重裝部隊的總技能等級升至6級
+    title: 火力小隊：技能訓練
+    content: 透過「情報中心-訓練場」將1個火力小隊的總技能等級升至6級
     new_type: 1
     grade_id: 30
     sort: 230
@@ -2834,8 +2779,8 @@
     type: c_squad_allskills_level
     count: 1
     prize_id: 11173
-    title: 重裝部隊：技能訓練
-    content: 透過「格納庫-訓練場」將1個重裝部隊的總技能等級升至15級
+    title: 火力小隊：技能訓練
+    content: 透過「情報中心-訓練場」將1個火力小隊的總技能等級升至15級
     new_type: 1
     grade_id: 31
     sort: 243
@@ -2846,8 +2791,8 @@
     type: c_squad_allskills_level
     count: 1
     prize_id: 11174
-    title: 重裝部隊：技能訓練
-    content: 透過「格納庫-訓練場」將1個重裝部隊的總技能等級升至24級
+    title: 火力小隊：技能訓練
+    content: 透過「情報中心-訓練場」將1個火力小隊的總技能等級升至24級
     new_type: 1
     grade_id: 32
     sort: 255
@@ -2858,151 +2803,20 @@
     type: c_squad_allskills_level
     count: 1
     prize_id: 11175
-    title: 重裝部隊：技能訓練
-    content: 透過「格納庫-訓練場」將1個重裝部隊的總技能等級升至30級
+    title: 火力小隊：技能訓練
+    content: 透過「情報中心-訓練場」將1個火力小隊的總技能等級升至30級
     new_type: 1
     grade_id: 33
     sort: 267
     condition: "30"
   }
   {
-    id: 368
-    type: c_squad_chip_level
-    count: 1
-    prize_id: 11176
-    title: 重裝部隊：晶片強化
-    content: 將1個重裝晶片升至5級
-    new_type: 1
-    grade_id: 30
-    sort: 231
-    condition: "5"
-  }
-  {
-    id: 369
-    type: c_squad_chip_level
-    count: 3
-    prize_id: 11177
-    title: 重裝部隊：晶片強化
-    content: 將3個重裝晶片升至5級
-    new_type: 1
-    grade_id: 31
-    sort: 244
-    condition: "5"
-  }
-  {
-    id: 370
-    type: c_squad_chip_level
-    count: 6
-    prize_id: 11178
-    title: 重裝部隊：晶片強化
-    content: 將6個重裝晶片升至10級
-    new_type: 1
-    grade_id: 32
-    sort: 256
-    condition: "10"
-  }
-  {
-    id: 371
-    type: c_squad_chip_level
-    count: 6
-    prize_id: 11179
-    title: 重裝部隊：晶片強化
-    content: 將6個重裝晶片升至20級
-    new_type: 1
-    grade_id: 33
-    sort: 268
-    condition: "20"
-  }
-  {
-    id: 372
-    type: squad_get_chip
-    count: 20
-    prize_id: 11180
-    title: 重裝部隊：晶片
-    content: 累計獲取20個晶片
-    new_type: 1
-    grade_id: 30
-    sort: 232
-  }
-  {
-    id: 373
-    type: c_establish_up
-    count: 1
-    prize_id: 11181
-    title: 重裝部隊：庫房
-    content: 在「格納庫」將庫房升至1級
-    new_type: 1
-    grade_id: 29
-    sort: 213
-    condition: "601"
-  }
-  {
-    id: 374
-    type: c_establish_up
-    count: 3
-    prize_id: 11182
-    title: 重裝部隊：庫房
-    content: 在「格納庫」將庫房升至3級
-    new_type: 1
-    grade_id: 30
-    sort: 233
-    condition: "601"
-  }
-  {
-    id: 375
-    type: c_establish_up
-    count: 6
-    prize_id: 11183
-    title: 重裝部隊：庫房
-    content: 在「格納庫」將庫房升至6級
-    new_type: 1
-    grade_id: 32
-    sort: 245
-    condition: "601"
-  }
-  {
-    id: 376
-    type: c_establish_up
-    count: 10
-    prize_id: 11184
-    title: 重裝部隊：庫房
-    content: 在「格納庫」將庫房升至10級
-    new_type: 1
-    grade_id: 33
-    sort: 257
-    condition: "601"
-  }
-  {
-    id: 377
-    type: c_establish_up
-    count: 1
-    prize_id: 11185
-    title: 重裝部隊：維修設備
-    content: 在「格納庫」將維修設施升至1級
-    new_type: 1
-    grade_id: 29
-    sort: 214
-    condition: "602"
-  }
-  {
-    id: 378
-    type: c_establish_up
-    count: 2
-    prize_id: 11186
-    title: 重裝部隊：維修設備
-    content: 在「格納庫」將維修設施升至2級
-    new_type: 1
-    grade_id: 30
-    sort: 234
-    condition: "602"
-  }
-  {
     id: 381
     type: c_establish_up
     count: 1
     prize_id: 11187
-    title: 重裝部隊：訓練場
-    content: 在「格納庫」將訓練場升至1級
+    title: 火力小隊：訓練場
+    content: 在「情報中心」將訓練場升至1級
     new_type: 1
     grade_id: 29
     sort: 215
@@ -3013,8 +2827,8 @@
     type: c_establish_up
     count: 3
     prize_id: 11188
-    title: 重裝部隊：訓練場
-    content: 在「格納庫」將訓練場升至3級
+    title: 火力小隊：訓練場
+    content: 在「情報中心」將訓練場升至3級
     new_type: 1
     grade_id: 30
     sort: 235
@@ -3025,8 +2839,8 @@
     type: c_establish_up
     count: 6
     prize_id: 11189
-    title: 重裝部隊：訓練場
-    content: 在「格納庫」將訓練場升至6級
+    title: 火力小隊：訓練場
+    content: 在「情報中心」將訓練場升至6級
     new_type: 1
     grade_id: 32
     sort: 247
@@ -3037,67 +2851,19 @@
     type: c_establish_up
     count: 10
     prize_id: 11190
-    title: 重裝部隊：訓練場
-    content: 在「格納庫」將訓練場升至10級
+    title: 火力小隊：訓練場
+    content: 在「情報中心」將訓練場升至10級
     new_type: 1
     grade_id: 33
     sort: 259
     condition: "603"
   }
   {
-    id: 385
-    type: c_establish_up
-    count: 1
-    prize_id: 11191
-    title: 重裝部隊：簡報台
-    content: 在「情報中心」將任務簡報台升至1級
-    new_type: 1
-    grade_id: 29
-    sort: 216
-    condition: "502"
-  }
-  {
-    id: 386
-    type: c_establish_up
-    count: 3
-    prize_id: 11192
-    title: 重裝部隊：簡報台
-    content: 在「情報中心」將任務簡報台升至3級
-    new_type: 1
-    grade_id: 30
-    sort: 236
-    condition: "502"
-  }
-  {
-    id: 387
-    type: c_establish_up
-    count: 6
-    prize_id: 11193
-    title: 重裝部隊：簡報台
-    content: 在「情報中心」將任務簡報台升至6級
-    new_type: 1
-    grade_id: 32
-    sort: 248
-    condition: "502"
-  }
-  {
-    id: 388
-    type: c_establish_up
-    count: 10
-    prize_id: 11194
-    title: 重裝部隊：簡報台
-    content: 在「情報中心」將任務簡報台升至10級
-    new_type: 1
-    grade_id: 33
-    sort: 260
-    condition: "502"
-  }
-  {
     id: 389
     type: c_establish_up
     count: 1
     prize_id: 11195
-    title: 重裝部隊：監聽站
+    title: 火力小隊：監聽站
     content: 在「情報中心」將監聽站升至1級
     new_type: 1
     grade_id: 29
@@ -3109,7 +2875,7 @@
     type: c_establish_up
     count: 3
     prize_id: 11196
-    title: 重裝部隊：監聽站
+    title: 火力小隊：監聽站
     content: 在「情報中心」將監聽站升至3級
     new_type: 1
     grade_id: 30
@@ -3121,7 +2887,7 @@
     type: c_establish_up
     count: 6
     prize_id: 11197
-    title: 重裝部隊：監聽站
+    title: 火力小隊：監聽站
     content: 在「情報中心」將監聽站升至6級
     new_type: 1
     grade_id: 32
@@ -3133,7 +2899,7 @@
     type: c_establish_up
     count: 10
     prize_id: 11198
-    title: 重裝部隊：監聽站
+    title: 火力小隊：監聽站
     content: 在「情報中心」將監聽站升至10級
     new_type: 1
     grade_id: 33
@@ -3145,7 +2911,7 @@
     type: c_establish_up
     count: 1
     prize_id: 11199
-    title: 重裝部隊：記錄儀
+    title: 火力小隊：記錄儀
     content: 在「情報中心」將記錄儀升至1級
     new_type: 1
     grade_id: 29
@@ -3157,7 +2923,7 @@
     type: c_establish_up
     count: 3
     prize_id: 11200
-    title: 重裝部隊：記錄儀
+    title: 火力小隊：記錄儀
     content: 在「情報中心」將記錄儀升至3級
     new_type: 1
     grade_id: 30
@@ -3169,7 +2935,7 @@
     type: c_establish_up
     count: 6
     prize_id: 11201
-    title: 重裝部隊：記錄儀
+    title: 火力小隊：記錄儀
     content: 在「情報中心」將記錄儀升至6級
     new_type: 1
     grade_id: 32
@@ -3181,60 +2947,12 @@
     type: c_establish_up
     count: 10
     prize_id: 11202
-    title: 重裝部隊：記錄儀
-    content: 在「情報中心」將記錄儀升至10級
+    title: 火力小隊：記錄儀
+    content: career_quest-20000396
     new_type: 1
     grade_id: 33
     sort: 262
     condition: "503"
-  }
-  {
-    id: 397
-    type: c_establish_up
-    count: 1
-    prize_id: 11203
-    title: 重裝部隊：解析儀
-    content: 在「情報中心」將解析儀升至1級
-    new_type: 1
-    grade_id: 29
-    sort: 219
-    condition: "504"
-  }
-  {
-    id: 398
-    type: c_establish_up
-    count: 3
-    prize_id: 11204
-    title: 重裝部隊：解析儀
-    content: 在「情報中心」將解析儀升至3級
-    new_type: 1
-    grade_id: 30
-    sort: 239
-    condition: "504"
-  }
-  {
-    id: 399
-    type: c_establish_up
-    count: 6
-    prize_id: 11205
-    title: 重裝部隊：解析儀
-    content: 在「情報中心」將解析儀升至6級
-    new_type: 1
-    grade_id: 32
-    sort: 251
-    condition: "504"
-  }
-  {
-    id: 400
-    type: c_establish_up
-    count: 10
-    prize_id: 11206
-    title: 重裝部隊：解析儀
-    content: 在「情報中心」將解析儀升至10級
-    new_type: 1
-    grade_id: 33
-    sort: 263
-    condition: "504"
   }
   {
     id: 401
@@ -4471,8 +4189,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11312
-    title: 重裝部隊：初級考核
-    content: 完成晉升關卡，運用重裝部隊破壞戰場設施改變戰場局勢。
+    title: 火力小隊：初級考核
+    content: 完成晉升關卡，運用火力小隊破壞戰場設施改變戰場局勢。
     new_type: 1
     grade_id: 29
     sort: 220
@@ -4484,8 +4202,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11313
-    title: 重裝部隊：中級考核
-    content: 完成晉升關卡，運用重裝部隊打敗擁有力場盾的敵人。
+    title: 火力小隊：中級考核
+    content: 完成晉升關卡，運用火力小隊打敗擁有力場盾的敵人。
     new_type: 1
     grade_id: 31
     sort: 252
@@ -4497,8 +4215,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11314
-    title: 重裝部隊：最終考核
-    content: 完成晉升關卡，需要高等級重裝部隊擊敗強敵才能透過的最終考核。
+    title: 火力小隊：最終考核
+    content: 完成晉升關卡，需要高等級火力小隊擊敗強敵才能通過的最終考核。
     new_type: 1
     grade_id: 33
     sort: 269
@@ -4510,8 +4228,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11315
-    title: 重裝部隊：破壞設施
-    content: 完成教學關卡，了解如何使用重裝部隊破壞戰場設施。
+    title: 火力小隊：破壞設施
+    content: 完成教學關卡，了解如何使用火力小隊破壞戰場設施。
     new_type: 1
     grade_id: 29
     sort: 221
@@ -4522,8 +4240,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11316
-    title: 重裝部隊：破壞力場盾
-    content: 完成教學關卡，了解如何使用重裝部隊擊敗帶有力場盾的敵人。
+    title: 火力小隊：破壞力場盾
+    content: 完成教學關卡，了解如何使用火力小隊擊敗帶有力場盾的敵人。
     new_type: 1
     grade_id: 30
     sort: 240
@@ -4742,8 +4460,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11334
-    title: 設施：變電站&EMP&EMP手雷
-    content: 完成教學關卡，了解變電站&EMP&EMP手雷的機制。
+    title: 設施：變電站&EMP&EMP手榴彈
+    content: 完成教學關卡，了解變電站&EMP&EMP手榴彈的機制。
     new_type: 1
     grade_id: 45
     sort: 357
@@ -4885,5 +4603,451 @@
     grade_id: 45
     sort: 360
     condition: "10921"
+  }
+  {
+    id: 564
+    type: different_vehicle_1
+    count: 1
+    prize_id: 220019
+    title: 機動裝甲：第一門炮
+    content: 解鎖主戰坦克的圖鑑
+    new_type: 1
+    grade_id: 65
+    sort: 361
+  }
+  {
+    id: 565
+    type: get_vehicle_component
+    count: 1
+    prize_id: 220007
+    title: 機動裝甲：組件獲取
+    content: 獲取任意1個機動裝甲組件
+    new_type: 1
+    grade_id: 65
+    sort: 362
+  }
+  {
+    id: 566
+    type: vehicle_shooting_range
+    count: 1
+    prize_id: 220002
+    title: 機動裝甲：實彈試射
+    content: 通關1次裝甲靶場的機動裝甲測試
+    new_type: 1
+    grade_id: 65
+    sort: 363
+  }
+  {
+    id: 567
+    type: vehicle_progress
+    count: 1
+    prize_id: 220008
+    title: 機動裝甲：科技攀升
+    content: 啟動1個機動裝甲科技樹節點
+    new_type: 1
+    grade_id: 65
+    sort: 364
+  }
+  {
+    id: 568
+    type: vehicle_kill
+    count: 1
+    prize_id: 220002
+    title: 機動裝甲：首次作戰
+    content: 在戰鬥勝利的情況下用機動裝甲主動戰鬥並擊殺1個單位
+    new_type: 1
+    grade_id: 65
+    sort: 365
+  }
+  {
+    id: 569
+    type: vehicle_component_level
+    count: 3
+    prize_id: 220002
+    title: 機動裝甲：組件強化
+    content: 提升任意組件3級
+    new_type: 1
+    grade_id: 65
+    sort: 366
+  }
+  {
+    id: 570
+    type: get_vehicle_component
+    count: 10
+    prize_id: 220009
+    title: 機動裝甲：組件獲取
+    content: 累計獲取10個機動裝甲組件
+    new_type: 1
+    grade_id: 66
+    sort: 367
+  }
+  {
+    id: 571
+    type: vehicle_progress
+    count: 3
+    prize_id: 220002
+    title: 機動裝甲：科技攀升
+    content: 解鎖3個機動裝甲科技樹節點
+    new_type: 1
+    grade_id: 66
+    sort: 368
+  }
+  {
+    id: 572
+    type: vehicle_kill
+    count: 5
+    prize_id: 220003
+    title: 機動裝甲：初露鋒芒
+    content: 在戰鬥勝利的情況下用機動裝甲主動戰鬥並擊殺5個單位
+    new_type: 1
+    grade_id: 66
+    sort: 369
+  }
+  {
+    id: 573
+    type: get_vehicle_component_rank5
+    count: 1
+    prize_id: 220010
+    title: 機動裝甲：稀有組件
+    content: 獲取1個5星機動裝甲組件
+    new_type: 1
+    grade_id: 66
+    sort: 370
+  }
+  {
+    id: 574
+    type: vehicle_skill_progress
+    count: 1
+    prize_id: 220002
+    title: 機動裝甲：技能升級
+    content: 啟動1個技能科技樹節點
+    new_type: 1
+    grade_id: 66
+    sort: 371
+  }
+  {
+    id: 575
+    type: vehicle_daily_game
+    count: 1
+    prize_id: 220003
+    title: 機動裝甲：灰域探查
+    content: 占領1個灰域探查「結晶帶-地獄」任意點位
+    new_type: 1
+    grade_id: 66
+    sort: 372
+  }
+  {
+    id: 576
+    type: get_vehicle_component_rank5
+    count: 5
+    prize_id: 220011
+    title: 機動裝甲：稀有組件
+    content: 累計獲取5個5星機動裝甲組件
+    new_type: 1
+    grade_id: 67
+    sort: 373
+  }
+  {
+    id: 577
+    type: vehicle_unlock_slot1
+    count: 2
+    prize_id: 220003
+    title: 機動裝甲：槽位解鎖
+    content: 解鎖主戰坦克的所有組件欄位
+    new_type: 1
+    grade_id: 68
+    sort: 374
+  }
+  {
+    id: 578
+    type: vehicle_defeat_challenge_1
+    count: 1
+    prize_id: 220016
+    title: 機動裝甲：精進突擊
+    content: 突破裝甲突擊-主戰坦克1層
+    new_type: 1
+    grade_id: 67
+    sort: 375
+  }
+  {
+    id: 579
+    type: vehicle_kill
+    count: 20
+    prize_id: 220015
+    title: 機動裝甲：久經沙場
+    content: 在戰鬥勝利的情況下用機動裝甲主動戰鬥並擊殺20個單位
+    new_type: 1
+    grade_id: 67
+    sort: 376
+  }
+  {
+    id: 580
+    type: vehicle_skill_progress
+    count: 2
+    prize_id: 220004
+    title: 機動裝甲：技能升級
+    content: 啟動2個技能科技樹節點
+    new_type: 1
+    grade_id: 67
+    sort: 377
+  }
+  {
+    id: 581
+    type: vehicle_daily_game_boss
+    count: 3
+    prize_id: 220017
+    title: 機動裝甲：灰域探查
+    content: 占領3個「結晶帶-地獄」boss點位
+    new_type: 1
+    grade_id: 68
+    sort: 378
+  }
+  {
+    id: 582
+    type: vehicle_daily_game
+    count: 60
+    prize_id: 220004
+    title: 機動裝甲：灰域探查
+    content: 占領60個「結晶帶-地獄」點位
+    new_type: 1
+    grade_id: 68
+    sort: 379
+  }
+  {
+    id: 583
+    type: vehicle_progress
+    count: 10
+    prize_id: 220018
+    title: 機動裝甲：科技攀升
+    content: 解鎖10個機動裝甲科技樹節點
+    new_type: 1
+    grade_id: 67
+    sort: 380
+  }
+  {
+    id: 584
+    type: c_tutorial_mission
+    count: 1
+    prize_id: 220003
+    title: 機動裝甲：最終考核
+    content: 使用主戰坦克進行作戰的考核關卡。
+    new_type: 1
+    grade_id: 69
+    sort: 381
+    condition: "11481"
+  }
+  {
+    id: 585
+    type: c_tutorial_mission
+    count: 1
+    prize_id: 220020
+    title: 機動裝甲：最終考核
+    content: 使用戰術人型機甲進行作戰的考核關卡。
+    new_type: 1
+    grade_id: 69
+    sort: 382
+    condition: "11480"
+  }
+  {
+    id: 586
+    type: vehicle_defeat_challenge_1
+    count: 10
+    prize_id: 220005
+    title: 機動裝甲：精進突擊
+    content: 突破裝甲突擊-主戰坦克10層
+    new_type: 1
+    grade_id: 68
+    sort: 383
+  }
+  {
+    id: 587
+    type: vehicle_skill_progress
+    count: 4
+    prize_id: 220006
+    title: 機動裝甲：技能升級
+    content: 啟動4個技能科技樹節點
+    new_type: 1
+    grade_id: 68
+    sort: 384
+  }
+  {
+    id: 588
+    type: get_vehicle_component_rank5
+    count: 30
+    prize_id: 220005
+    title: 機動裝甲：稀有組件
+    content: 累計獲取30個5星機動裝甲組件
+    new_type: 1
+    grade_id: 69
+    sort: 385
+  }
+  {
+    id: 589
+    type: vehicle_defeat_challenge_1
+    count: 30
+    prize_id: 220006
+    title: 機動裝甲：精進突擊
+    content: 突破裝甲突擊-主戰坦克30層
+    new_type: 1
+    grade_id: 69
+    sort: 386
+  }
+  {
+    id: 590
+    type: vehicle_component_level_type0
+    count: 10
+    prize_id: 220003
+    title: 機動裝甲：組件強化
+    content: 升級任意1個機動裝甲通用組件到10級
+    new_type: 1
+    grade_id: 69
+    sort: 387
+  }
+  {
+    id: 591
+    type: vehicle_component_level_type1
+    count: 10
+    prize_id: 220003
+    title: 機動裝甲：組件強化
+    content: 升級任意1個機動裝甲重武器組件到10級
+    new_type: 1
+    grade_id: 69
+    sort: 388
+  }
+  {
+    id: 592
+    type: vehicle_component_level_type2
+    count: 10
+    prize_id: 220003
+    title: 機動裝甲：組件強化
+    content: 升級任意1個機動裝甲輕武器組件到10級
+    new_type: 1
+    grade_id: 69
+    sort: 389
+  }
+  {
+    id: 593
+    type: vehicle_component_level_type3
+    count: 10
+    prize_id: 220003
+    title: 機動裝甲：組件強化
+    content: 升級任意1個機動裝甲功能組件到10級
+    new_type: 1
+    grade_id: 69
+    sort: 390
+  }
+  {
+    id: 594
+    type: vehicle_component_level_type4
+    count: 10
+    prize_id: 220003
+    title: 機動裝甲：組件強化
+    content: 升級任意1個機動裝甲防護組件到10級
+    new_type: 1
+    grade_id: 69
+    sort: 391
+  }
+  {
+    id: 595
+    type: vehicle_progress
+    count: 15
+    prize_id: 220006
+    title: 機動裝甲：科技攀升
+    content: 解鎖15個機動裝甲科技樹節點
+    new_type: 1
+    grade_id: 68
+    sort: 392
+  }
+  {
+    id: 600
+    type: vehicle_progress
+    count: 30
+    prize_id: 220005
+    title: 機動裝甲：科技攀升
+    content: 解鎖30個機動裝甲科技樹節點
+    new_type: 1
+    grade_id: 69
+    sort: 393
+  }
+  {
+    id: 1003
+    type: squad_get_chip
+    count: 1
+    prize_id: 782
+    title: 火力小隊：晶片
+    content: 首次裝載火力小隊晶片
+    new_type: 1
+    grade_id: 29
+    sort: 208
+  }
+  {
+    id: 1005
+    type: squad_eat_chip_num
+    count: 1
+    prize_id: 793
+    title: 火力小隊：晶片強化
+    content: 進行1次火力小隊晶片強化
+    new_type: 1
+    grade_id: 30
+    sort: 225
+  }
+  {
+    id: 1008
+    type: c_squad_chip_level
+    count: 1
+    prize_id: 11176
+    title: 火力小隊：晶片強化
+    content: 將1個火力小隊晶片升至5級
+    new_type: 1
+    grade_id: 30
+    sort: 231
+    condition: "5"
+  }
+  {
+    id: 1009
+    type: c_squad_chip_level
+    count: 3
+    prize_id: 11177
+    title: 火力小隊：晶片強化
+    content: 將3個火力小隊晶片升至5級
+    new_type: 1
+    grade_id: 31
+    sort: 244
+    condition: "5"
+  }
+  {
+    id: 1010
+    type: c_squad_chip_level
+    count: 6
+    prize_id: 11178
+    title: 火力小隊：晶片強化
+    content: 將6個火力小隊晶片升至10級
+    new_type: 1
+    grade_id: 32
+    sort: 256
+    condition: "10"
+  }
+  {
+    id: 1011
+    type: c_squad_chip_level
+    count: 6
+    prize_id: 11179
+    title: 火力小隊：晶片強化
+    content: 將6個火力小隊晶片升至20級
+    new_type: 1
+    grade_id: 33
+    sort: 268
+    condition: "20"
+  }
+  {
+    id: 1012
+    type: squad_get_chip
+    count: 20
+    prize_id: 11180
+    title: 火力小隊：晶片
+    content: 累計解鎖20個晶片
+    new_type: 1
+    grade_id: 30
+    sort: 232
   }
 ]

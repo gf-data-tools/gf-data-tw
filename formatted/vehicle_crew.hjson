@@ -1,0 +1,65 @@
+[
+  {
+    id: 1001
+    name: 車長
+    unit_type_description: 任意人形可用
+    description: 根據編入成員的等級和編制提升攻速和命中
+    available_unit_type: 1:1,2,3,4,5,6
+    if_show: 1
+    required_level: 100
+    required_number: 5
+    atk_speed: 5
+    hit: 10
+    basic_effect: 1250
+  }
+  {
+    id: 1002
+    name: 炮長
+    unit_type_description: 火力單位限定
+    description: 根據編入成員的等級和星級提升傷害
+    available_unit_type: 3:1,2,3
+    required_level: 100
+    required_rank: 5
+    h_weapon_damage: 5
+    l_weapon_damage: 5
+    basic_effect: 1250
+  }
+  {
+    id: 1003
+    name: 裝填手
+    unit_type_description: 火力單位限定
+    description: 根據編入成員的等級和星級提升精度和裝填
+    available_unit_type: 3:1,2,3
+    required_level: 100
+    required_rank: 5
+    reload: 5
+    precision: 10
+    basic_effect: 1250
+  }
+  {
+    id: 1004
+    name: 駕駛員
+    unit_type_description: 任意單位可用
+    description: 根據編入成員的等級提升護甲和迴避
+    available_unit_type: 1:1,2,3,4,5,6;2:1;3:1,2,3
+    required_level: 100
+    armor: 10
+    dodge: 5
+    basic_effect: 1250
+  }
+  {
+    id: 2001
+    name: 駕駛員
+    unit_type_description: 任意人形可用
+    description: 根據編入成員的等級和編制提升裝填、精度、攻速和命中
+    available_unit_type: 1:1,2,3,4,5,6
+    if_show: 1
+    required_level: 100
+    required_number: 5
+    reload: 10
+    precision: 10
+    atk_speed: 10
+    hit: 10
+    basic_effect: 5000
+  }
+]

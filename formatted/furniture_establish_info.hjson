@@ -2934,7 +2934,7 @@
     description: 情報中心電線左
     furniture_id: "40049"
     update_furniture_id: "40049"
-    furniture_postion: "3,5"
+    furniture_postion: "4,11"
     establish_lv: "1"
   }
   {
@@ -2944,7 +2944,7 @@
     description: 情報中心電線右
     furniture_id: "40050"
     update_furniture_id: "40050"
-    furniture_postion: "22,1"
+    furniture_postion: "9,0"
     establish_lv: "1"
   }
   {
@@ -2952,9 +2952,9 @@
     establish_name: 情報中心裝飾桌
     room_id: "5"
     description: 情報中心裝飾桌
-    furniture_id: "40051"
-    update_furniture_id: "40051"
-    furniture_postion: "2,1"
+    furniture_id: "45023"
+    update_furniture_id: "45023"
+    furniture_postion: "20,0"
     establish_lv: "1"
   }
   {
@@ -2964,7 +2964,7 @@
     description: 蒙塵的帆布下好像罩著什麼電子設備，看起來像是一座古老的無線電台，上面有模糊的「WAVE」銘文。
     furniture_id: "45010"
     update_furniture_id: "45010"
-    furniture_postion: "5,4"
+    furniture_postion: "5,9"
     establish_type: "501"
     parameter_1: "10,0"
     parameter_2: "90,0"
@@ -2976,7 +2976,7 @@
     description: 曾經在戰爭時期，情報人員靠著這樣古老的設備，破譯了無數機密電文，扭轉了戰局的走向，現在你也可以！
     furniture_id: "45011"
     update_furniture_id: "45011"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "1"
     upgrade_coin: "5"
@@ -2991,7 +2991,7 @@
     description: 曾經在戰爭時期，情報人員靠著這樣古老的設備，破譯了無數機密電文，扭轉了戰局的走向，現在你也可以！
     furniture_id: "45011"
     update_furniture_id: "45011"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "2"
     upgrade_coin: "50"
@@ -3006,7 +3006,7 @@
     description: 曾經在戰爭時期，情報人員靠著這樣古老的設備，破譯了無數機密電文，扭轉了戰局的走向，現在你也可以！
     furniture_id: "45011"
     update_furniture_id: "45011"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "3"
     upgrade_coin: "100"
@@ -3021,7 +3021,7 @@
     description: 曾經在戰爭時期，情報人員靠著這樣古老的設備，破譯了無數機密電文，扭轉了戰局的走向，現在你也可以！
     furniture_id: "45011"
     update_furniture_id: "45011"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "4"
     upgrade_coin: "150"
@@ -3036,7 +3036,7 @@
     description: 曾經在戰爭時期，情報人員靠著這樣古老的設備，破譯了無數機密電文，扭轉了戰局的走向，現在你也可以！
     furniture_id: "45011"
     update_furniture_id: "45011"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "5"
     upgrade_coin: "200"
@@ -3051,7 +3051,7 @@
     description: 好吧，在地下設施里架設無線電天線的確效果不佳，所以現在我們把天線架出基地外了，現在可以截獲更廣範圍的情報了。
     furniture_id: "45012"
     update_furniture_id: "45012"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "6"
     upgrade_coin: "250"
@@ -3066,7 +3066,7 @@
     description: 好吧，在地下設施里架設無線電天線的確效果不佳，所以現在我們把天線架出基地外了，現在可以截獲更廣範圍的情報了。
     furniture_id: "45012"
     update_furniture_id: "45012"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "7"
     upgrade_coin: "350"
@@ -3081,7 +3081,7 @@
     description: 好吧，在地下設施里架設無線電天線的確效果不佳，所以現在我們把天線架出基地外了，現在可以截獲更廣範圍的情報了。
     furniture_id: "45012"
     update_furniture_id: "45012"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "8"
     upgrade_coin: "450"
@@ -3096,7 +3096,7 @@
     description: 好吧，在地下設施里架設無線電天線的確效果不佳，所以現在我們把天線架出基地外了，現在可以截獲更廣範圍的情報了。
     furniture_id: "45012"
     update_furniture_id: "45012"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "9"
     upgrade_coin: "600"
@@ -3111,7 +3111,7 @@
     description: 信息時代的情報工作，需要WAVE提供的更先進的設備來應對爆炸的信息量，新增的強化學習系統可以過濾互聯網時代產生的大量垃圾廣告，有效情報比例提升了！
     furniture_id: "45013"
     update_furniture_id: "45013"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "10"
     upgrade_coin: "800"
@@ -3122,7 +3122,7 @@
   {
     establish_id: "50200"
     establish_name: 塵封的任務簡報台
-    room_id: "5"
+    room_id: "6"
     description: 在情報工作的長河中，有許多謎團就是在這樣樸素的情報板前被破解的，現在它就靜靜地立在這裡，等你掀開蒙布。
     furniture_id: "45020"
     update_furniture_id: "45020"
@@ -3134,7 +3134,7 @@
   {
     establish_id: "50201"
     establish_name: 臨時任務簡報台
-    room_id: "5"
+    room_id: "6"
     description: 每個情報人員（和扮演情報人員的）的必備道具，如果錯綜複雜的線索連線還不夠，這台古老的密碼機一定能把你繞暈，畢竟人們都說：想騙敵人要先騙過自己~
     furniture_id: "45021"
     update_furniture_id: "45021"
@@ -3149,7 +3149,7 @@
   {
     establish_id: "50202"
     establish_name: 臨時任務簡報台
-    room_id: "5"
+    room_id: "6"
     description: 每個情報人員（和扮演情報人員的）的必備道具，如果錯綜複雜的線索連線還不夠，這台古老的密碼機一定能把你繞暈，畢竟人們都說：想騙敵人要先騙過自己~
     furniture_id: "45021"
     update_furniture_id: "45021"
@@ -3164,7 +3164,7 @@
   {
     establish_id: "50203"
     establish_name: 臨時任務簡報台
-    room_id: "5"
+    room_id: "6"
     description: 每個情報人員（和扮演情報人員的）的必備道具，如果錯綜複雜的線索連線還不夠，這台古老的密碼機一定能把你繞暈，畢竟人們都說：想騙敵人要先騙過自己~
     furniture_id: "45021"
     update_furniture_id: "45021"
@@ -3179,7 +3179,7 @@
   {
     establish_id: "50204"
     establish_name: 臨時任務簡報台
-    room_id: "5"
+    room_id: "6"
     description: 每個情報人員（和扮演情報人員的）的必備道具，如果錯綜複雜的線索連線還不夠，這台古老的密碼機一定能把你繞暈，畢竟人們都說：想騙敵人要先騙過自己~
     furniture_id: "45021"
     update_furniture_id: "45021"
@@ -3194,7 +3194,7 @@
   {
     establish_id: "50205"
     establish_name: 臨時任務簡報台
-    room_id: "5"
+    room_id: "6"
     description: 每個情報人員（和扮演情報人員的）的必備道具，如果錯綜複雜的線索連線還不夠，這台古老的密碼機一定能把你繞暈，畢竟人們都說：想騙敵人要先騙過自己~
     furniture_id: "45021"
     update_furniture_id: "45021"
@@ -3209,7 +3209,7 @@
   {
     establish_id: "50206"
     establish_name: 冷戰任務簡報台
-    room_id: "5"
+    room_id: "6"
     description: 明亮燈箱發出冷光，穿透難以辨識的航拍膠片，照亮了台前面色凝重的指揮官，冷戰時期你的同行們可能也是這個表情吧。「這些人竟然瞞報了轟炸機數量！」
     furniture_id: "45022"
     update_furniture_id: "45022"
@@ -3224,7 +3224,7 @@
   {
     establish_id: "50207"
     establish_name: 冷戰任務簡報台
-    room_id: "5"
+    room_id: "6"
     description: 明亮燈箱發出冷光，穿透難以辨識的航拍膠片，照亮了台前面色凝重的指揮官，冷戰時期你的同行們可能也是這個表情吧。「這些人竟然瞞報了轟炸機數量！」
     furniture_id: "45022"
     update_furniture_id: "45022"
@@ -3239,7 +3239,7 @@
   {
     establish_id: "50208"
     establish_name: 冷戰任務簡報台
-    room_id: "5"
+    room_id: "6"
     description: 明亮燈箱發出冷光，穿透難以辨識的航拍膠片，照亮了台前面色凝重的指揮官，冷戰時期你的同行們可能也是這個表情吧。「這些人竟然瞞報了轟炸機數量！」
     furniture_id: "45022"
     update_furniture_id: "45022"
@@ -3254,7 +3254,7 @@
   {
     establish_id: "50209"
     establish_name: 冷戰任務簡報台
-    room_id: "5"
+    room_id: "6"
     description: 明亮燈箱發出冷光，穿透難以辨識的航拍膠片，照亮了台前面色凝重的指揮官，冷戰時期你的同行們可能也是這個表情吧。「這些人竟然瞞報了轟炸機數量！」
     furniture_id: "45022"
     update_furniture_id: "45022"
@@ -3269,11 +3269,11 @@
   {
     establish_id: "50210"
     establish_name: 全息任務中心
-    room_id: "5"
+    room_id: "6"
     description: 最先進技術加持的任務中心，全息屏幕上每個任務都配有多張詳實的彩圖，可一鍵下載到指揮官的移動設備上，更不用說還能以極高速度網上衝浪，太棒了。
     furniture_id: "45023"
     update_furniture_id: "45023"
-    furniture_postion: "4,1"
+    furniture_postion: "20,0"
     establish_type: "502"
     establish_lv: "10"
     upgrade_coin: "800"
@@ -3288,9 +3288,9 @@
     description: 帆布下面看上去是個巨大沈重的裝置，泛著重工業設備一樣的金屬光澤，很難和印象中的電子設備聯繫到一起，這個真能存儲數據嗎？
     furniture_id: "45030"
     update_furniture_id: "45030"
-    furniture_postion: "13,6"
+    furniture_postion: "11,8"
     establish_type: "503"
-    parameter_1: "600,20"
+    parameter_1: "1500,600"
   }
   {
     establish_id: "50301"
@@ -3299,12 +3299,12 @@
     description: 擁有50張比臉盆還大的雙面磁盤的大型存儲設備（總容量3.75MB），雖然讀取數據時候像織布機一樣轟鳴，但總比手寫文檔好多了，不是嗎？
     furniture_id: "45031"
     update_furniture_id: "45031"
-    furniture_postion: "13,6"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "1"
     upgrade_coin: "5"
     upgrade_time: "60"
-    parameter_1: "900,100"
+    parameter_1: "1750,700"
   }
   {
     establish_id: "50302"
@@ -3313,12 +3313,12 @@
     description: 擁有50張比臉盆還大的雙面磁盤的大型存儲設備（總容量3.75MB），雖然讀取數據時候像織布機一樣轟鳴，但總比手寫文檔好多了，不是嗎？
     furniture_id: "45031"
     update_furniture_id: "45031"
-    furniture_postion: "13,6"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "2"
     upgrade_coin: "50"
     upgrade_time: "300"
-    parameter_1: "1200,200"
+    parameter_1: "2000,800"
   }
   {
     establish_id: "50303"
@@ -3327,12 +3327,12 @@
     description: 擁有50張比臉盆還大的雙面磁盤的大型存儲設備（總容量3.75MB），雖然讀取數據時候像織布機一樣轟鳴，但總比手寫文檔好多了，不是嗎？
     furniture_id: "45031"
     update_furniture_id: "45031"
-    furniture_postion: "13,6"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "3"
     upgrade_coin: "100"
     upgrade_time: "1800"
-    parameter_1: "1500,300"
+    parameter_1: "2250,900"
   }
   {
     establish_id: "50304"
@@ -3341,12 +3341,12 @@
     description: 擁有50張比臉盆還大的雙面磁盤的大型存儲設備（總容量3.75MB），雖然讀取數據時候像織布機一樣轟鳴，但總比手寫文檔好多了，不是嗎？
     furniture_id: "45031"
     update_furniture_id: "45031"
-    furniture_postion: "13,6"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "4"
     upgrade_coin: "150"
     upgrade_time: "3600"
-    parameter_1: "1800,400"
+    parameter_1: "2500,1000"
   }
   {
     establish_id: "50305"
@@ -3355,12 +3355,12 @@
     description: 擁有50張比臉盆還大的雙面磁盤的大型存儲設備（總容量3.75MB），雖然讀取數據時候像織布機一樣轟鳴，但總比手寫文檔好多了，不是嗎？
     furniture_id: "45031"
     update_furniture_id: "45031"
-    furniture_postion: "13,6"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "5"
     upgrade_coin: "200"
     upgrade_time: "7200"
-    parameter_1: "2100,500"
+    parameter_1: "2750,1100"
   }
   {
     establish_id: "50306"
@@ -3369,12 +3369,12 @@
     description: 採用新技術的存儲設備可以容納多達2.52GB數據樣本，其他都不錯，只是說服戰術少女們相信「讀取數據時候的閃光是正常現象沒有輻射」頗費功夫，而且人形本來也不怕輻射啊！
     furniture_id: "45032"
     update_furniture_id: "45032"
-    furniture_postion: "12,7"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "6"
     upgrade_coin: "250"
     upgrade_time: "14400"
-    parameter_1: "2400,600"
+    parameter_1: "3000,1200"
   }
   {
     establish_id: "50307"
@@ -3383,12 +3383,12 @@
     description: 採用新技術的存儲設備可以容納多達2.52GB數據樣本，其他都不錯，只是說服戰術少女們相信「讀取數據時候的閃光是正常現象沒有輻射」頗費功夫，而且人形本來也不怕輻射啊！
     furniture_id: "45032"
     update_furniture_id: "45032"
-    furniture_postion: "12,7"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "7"
     upgrade_coin: "350"
     upgrade_time: "28800"
-    parameter_1: "2700,700"
+    parameter_1: "3250,1300"
   }
   {
     establish_id: "50308"
@@ -3397,12 +3397,12 @@
     description: 採用新技術的存儲設備可以容納多達2.52GB數據樣本，其他都不錯，只是說服戰術少女們相信「讀取數據時候的閃光是正常現象沒有輻射」頗費功夫，而且人形本來也不怕輻射啊！
     furniture_id: "45032"
     update_furniture_id: "45032"
-    furniture_postion: "12,7"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "8"
     upgrade_coin: "450"
     upgrade_time: "43200"
-    parameter_1: "3000,800"
+    parameter_1: "3500,1400"
   }
   {
     establish_id: "50309"
@@ -3411,12 +3411,12 @@
     description: 採用新技術的存儲設備可以容納多達2.52GB數據樣本，其他都不錯，只是說服戰術少女們相信「讀取數據時候的閃光是正常現象沒有輻射」頗費功夫，而且人形本來也不怕輻射啊！
     furniture_id: "45032"
     update_furniture_id: "45032"
-    furniture_postion: "12,7"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "9"
     upgrade_coin: "600"
     upgrade_time: "64800"
-    parameter_1: "3300,900"
+    parameter_1: "3750,1500"
   }
   {
     establish_id: "50310"
@@ -3425,21 +3425,21 @@
     description: 數據樣本存儲的終極形態，因為讀取和寫入速度太快，平時需要浸入特殊冷卻液中工作，真是太高科技了。
     furniture_id: "45033"
     update_furniture_id: "45033"
-    furniture_postion: "11,2"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "10"
     upgrade_coin: "800"
     upgrade_time: "86400"
-    parameter_1: "3600,1000"
+    parameter_1: "4000,1600"
   }
   {
     establish_id: "50400"
     establish_name: 塵封的解析儀
-    room_id: "5"
+    room_id: "6"
     description: 防雨布下是一個龐大的鐵皮箱子，和很多搞不懂作用的儀表和旋鈕，啓動這個機器應該就能開始對數據進行解析，產出強力武器的設計圖了，至少上面是這麼說的。
     furniture_id: "45040"
     update_furniture_id: "45040"
-    furniture_postion: "23,6"
+    furniture_postion: "3,1"
     establish_type: "504"
     parameter_1: "1"
     parameter_2: "100"
@@ -3447,11 +3447,11 @@
   {
     establish_id: "50401"
     establish_name: 通用圖靈解析儀
-    room_id: "5"
+    room_id: "6"
     description: 一次試圖將圖靈設想實現的嘗試，雖然設計中很理想，可使用起來問題山積，分析速度和線程都受到很大的限制，不過總算可以開始進行解析了。
     furniture_id: "45041"
     update_furniture_id: "45041"
-    furniture_postion: "23,6"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "1"
     upgrade_coin: "5"
@@ -3462,11 +3462,11 @@
   {
     establish_id: "50402"
     establish_name: 通用圖靈解析儀
-    room_id: "5"
+    room_id: "6"
     description: 一次試圖將圖靈設想實現的嘗試，雖然設計中很理想，可使用起來問題山積，分析速度和線程都受到很大的限制，不過總算可以開始進行解析了。
     furniture_id: "45041"
     update_furniture_id: "45041"
-    furniture_postion: "23,6"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "2"
     upgrade_coin: "50"
@@ -3477,11 +3477,11 @@
   {
     establish_id: "50403"
     establish_name: 通用圖靈解析儀
-    room_id: "5"
+    room_id: "6"
     description: 一次試圖將圖靈設想實現的嘗試，雖然設計中很理想，可使用起來問題山積，分析速度和線程都受到很大的限制，不過總算可以開始進行解析了。
     furniture_id: "45041"
     update_furniture_id: "45041"
-    furniture_postion: "23,6"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "3"
     upgrade_coin: "100"
@@ -3492,11 +3492,11 @@
   {
     establish_id: "50404"
     establish_name: 通用圖靈解析儀
-    room_id: "5"
+    room_id: "6"
     description: 一次試圖將圖靈設想實現的嘗試，雖然設計中很理想，可使用起來問題山積，分析速度和線程都受到很大的限制，不過總算可以開始進行解析了。
     furniture_id: "45041"
     update_furniture_id: "45041"
-    furniture_postion: "23,6"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "4"
     upgrade_coin: "150"
@@ -3507,11 +3507,11 @@
   {
     establish_id: "50405"
     establish_name: 通用圖靈解析儀
-    room_id: "5"
+    room_id: "6"
     description: 一次試圖將圖靈設想實現的嘗試，雖然設計中很理想，可使用起來問題山積，分析速度和線程都受到很大的限制，不過總算可以開始進行解析了。
     furniture_id: "45041"
     update_furniture_id: "45041"
-    furniture_postion: "23,6"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "5"
     upgrade_coin: "200"
@@ -3522,11 +3522,11 @@
   {
     establish_id: "50406"
     establish_name: 先進大型解析儀
-    room_id: "5"
+    room_id: "6"
     description: 新機器巨大的外殼內配備了高達96K的海量內存和高速處理器，解析速度和線程數都達到了新的境界，而且不斷變幻的燈光也非常酷炫，可以說是解析儀中的獨角獸了。
     furniture_id: "45042"
     update_furniture_id: "45042"
-    furniture_postion: "23,7"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "6"
     upgrade_coin: "250"
@@ -3537,11 +3537,11 @@
   {
     establish_id: "50407"
     establish_name: 先進大型解析儀
-    room_id: "5"
+    room_id: "6"
     description: 新機器巨大的外殼內配備了高達96K的海量內存和高速處理器，解析速度和線程數都達到了新的境界，而且不斷變幻的燈光也非常酷炫，可以說是解析儀中的獨角獸了。
     furniture_id: "45042"
     update_furniture_id: "45042"
-    furniture_postion: "23,7"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "7"
     upgrade_coin: "350"
@@ -3552,11 +3552,11 @@
   {
     establish_id: "50408"
     establish_name: 先進大型解析儀
-    room_id: "5"
+    room_id: "6"
     description: 新機器巨大的外殼內配備了高達96K的海量內存和高速處理器，解析速度和線程數都達到了新的境界，而且不斷變幻的燈光也非常酷炫，可以說是解析儀中的獨角獸了。
     furniture_id: "45042"
     update_furniture_id: "45042"
-    furniture_postion: "23,7"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "8"
     upgrade_coin: "450"
@@ -3567,11 +3567,11 @@
   {
     establish_id: "50409"
     establish_name: 先進大型解析儀
-    room_id: "5"
+    room_id: "6"
     description: 新機器巨大的外殼內配備了高達96K的海量內存和高速處理器，解析速度和線程數都達到了新的境界，而且不斷變幻的燈光也非常酷炫，可以說是解析儀中的獨角獸了。
     furniture_id: "45042"
     update_furniture_id: "45042"
-    furniture_postion: "23,7"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "9"
     upgrade_coin: "600"
@@ -3582,11 +3582,11 @@
   {
     establish_id: "50410"
     establish_name: 未來解析終端
-    room_id: "5"
+    room_id: "6"
     description: 運算速度再快的計算機，也比不上人類的精密大腦，將兩者的優勢相結合，解析速度就會快得嚇人，咦，怎麼解析卡住了... 快去看看是不是又睡著了！
     furniture_id: "45043"
     update_furniture_id: "45043"
-    furniture_postion: "23,2"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "10"
     upgrade_coin: "800"
@@ -3595,33 +3595,43 @@
     parameter_2: "25"
   }
   {
+    establish_id: "50500"
+    establish_name: 未來檢索終端
+    room_id: "5"
+    description: 運算速度再快的電腦，也比不上人類的精密大腦，將兩者的優勢相結合，解析速度就會快得嚇人，咦，怎麼解析卡住了... 快去看看是不是又睡著了！
+    furniture_id: "45043"
+    update_furniture_id: "45043"
+    furniture_postion: "3,1"
+    establish_type: "505"
+  }
+  {
     establish_id: "60001"
     establish_name: 情報中心牆飾
-    room_id: "6"
+    room_id: "5"
     description: 情報中心牆飾
     furniture_id: "40052"
     update_furniture_id: "40052"
-    furniture_postion: "2,2"
+    furniture_postion: "6,10"
     establish_lv: "1"
   }
   {
     establish_id: "60002"
     establish_name: 情報中心燈
-    room_id: "6"
+    room_id: "5"
     description: 情報中心燈
     furniture_id: "40053"
     update_furniture_id: "40053"
-    furniture_postion: "2,2"
+    furniture_postion: "5,0"
     establish_lv: "1"
   }
   {
     establish_id: "60003"
     establish_name: 情報中心植物
-    room_id: "6"
+    room_id: "5"
     description: 情報中心植物
     furniture_id: "40054"
     update_furniture_id: "40054"
-    furniture_postion: "16,2"
+    furniture_postion: "2,2"
     establish_lv: "1"
   }
   {
@@ -3841,11 +3851,11 @@
   {
     establish_id: "60300"
     establish_name: 綜合室內訓練場
-    room_id: "6"
+    room_id: "5"
     description: 多組人形訓練時的齊射會導致當地小規模地震並引起當地居民的警覺，為了掩蓋事實，現決定輪流進行射擊訓練，訓練效率並不會改變。
     furniture_id: "46020"
     update_furniture_id: "46020"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     parameter_1: "1"
     parameter_2: "1"
@@ -3853,11 +3863,11 @@
   {
     establish_id: "60301"
     establish_name: 綜合室內訓練場
-    room_id: "6"
+    room_id: "5"
     description: 多組人形訓練時的齊射會導致當地小規模地震並引起當地居民的警覺，為了掩蓋事實，現決定輪流進行射擊訓練，訓練效率並不會改變。
     furniture_id: "46020"
     update_furniture_id: "46020"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "1"
     upgrade_coin: "5"
@@ -3868,11 +3878,11 @@
   {
     establish_id: "60302"
     establish_name: 綜合室內訓練場
-    room_id: "6"
+    room_id: "5"
     description: 多組人形訓練時的齊射會導致當地小規模地震並引起當地居民的警覺，為了掩蓋事實，現決定輪流進行射擊訓練，訓練效率並不會改變。
     furniture_id: "46021"
     update_furniture_id: "46021"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "2"
     upgrade_coin: "50"
@@ -3883,11 +3893,11 @@
   {
     establish_id: "60303"
     establish_name: 綜合室內訓練場
-    room_id: "6"
+    room_id: "5"
     description: 多組人形訓練時的齊射會導致當地小規模地震並引起當地居民的警覺，為了掩蓋事實，現決定輪流進行射擊訓練，訓練效率並不會改變。
     furniture_id: "46021"
     update_furniture_id: "46021"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "3"
     upgrade_coin: "100"
@@ -3898,11 +3908,11 @@
   {
     establish_id: "60304"
     establish_name: 綜合室內訓練場
-    room_id: "6"
+    room_id: "5"
     description: 多組人形訓練時的齊射會導致當地小規模地震並引起當地居民的警覺，為了掩蓋事實，現決定輪流進行射擊訓練，訓練效率並不會改變。
     furniture_id: "46021"
     update_furniture_id: "46021"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "4"
     upgrade_coin: "150"
@@ -3913,11 +3923,11 @@
   {
     establish_id: "60305"
     establish_name: 綜合室內訓練場
-    room_id: "6"
+    room_id: "5"
     description: 多組人形訓練時的齊射會導致當地小規模地震並引起當地居民的警覺，為了掩蓋事實，現決定輪流進行射擊訓練，訓練效率並不會改變。
     furniture_id: "46022"
     update_furniture_id: "46022"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "5"
     upgrade_coin: "200"
@@ -3928,11 +3938,11 @@
   {
     establish_id: "60306"
     establish_name: 綜合室內訓練場
-    room_id: "6"
+    room_id: "5"
     description: 多組人形訓練時的齊射會導致當地小規模地震並引起當地居民的警覺，為了掩蓋事實，現決定輪流進行射擊訓練，訓練效率並不會改變。
     furniture_id: "46022"
     update_furniture_id: "46022"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "6"
     upgrade_coin: "250"
@@ -3943,11 +3953,11 @@
   {
     establish_id: "60307"
     establish_name: 綜合室內訓練場
-    room_id: "6"
+    room_id: "5"
     description: 多組人形訓練時的齊射會導致當地小規模地震並引起當地居民的警覺，為了掩蓋事實，現決定輪流進行射擊訓練，訓練效率並不會改變。
     furniture_id: "46022"
     update_furniture_id: "46022"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "7"
     upgrade_coin: "350"
@@ -3958,11 +3968,11 @@
   {
     establish_id: "60308"
     establish_name: 綜合室內訓練場
-    room_id: "6"
+    room_id: "5"
     description: 多組人形訓練時的齊射會導致當地小規模地震並引起當地居民的警覺，為了掩蓋事實，現決定輪流進行射擊訓練，訓練效率並不會改變。
     furniture_id: "46023"
     update_furniture_id: "46023"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "8"
     upgrade_coin: "450"
@@ -3973,11 +3983,11 @@
   {
     establish_id: "60309"
     establish_name: 綜合室內訓練場
-    room_id: "6"
+    room_id: "5"
     description: 多組人形訓練時的齊射會導致當地小規模地震並引起當地居民的警覺，為了掩蓋事實，現決定輪流進行射擊訓練，訓練效率並不會改變。
     furniture_id: "46023"
     update_furniture_id: "46023"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "9"
     upgrade_coin: "600"
@@ -3988,11 +3998,11 @@
   {
     establish_id: "60310"
     establish_name: 綜合室內訓練場
-    room_id: "6"
+    room_id: "5"
     description: 多組人形訓練時的齊射會導致當地小規模地震並引起當地居民的警覺，為了掩蓋事實，現決定輪流進行射擊訓練，訓練效率並不會改變。
     furniture_id: "46023"
     update_furniture_id: "46023"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "10"
     upgrade_coin: "800"
@@ -4800,5 +4810,123 @@
     update_furniture_id: "49041"
     furniture_postion: "19,0"
     establish_type: "904"
+  }
+  {
+    establish_id: "100001"
+    establish_name: 牆紙*
+    room_id: "10"
+    description: 牆紙*
+    furniture_id: "40085"
+    update_furniture_id: "40085"
+    furniture_postion: "0,0"
+  }
+  {
+    establish_id: "100002"
+    establish_name: 地板*
+    room_id: "10"
+    description: 地板*
+    furniture_id: "40086"
+    update_furniture_id: "40086"
+    furniture_postion: "0,0"
+  }
+  {
+    establish_id: "100003"
+    establish_name: 前景*
+    room_id: "10"
+    description: 前景*
+    furniture_id: "40090"
+    update_furniture_id: "40090"
+    furniture_postion: "17,13"
+  }
+  {
+    establish_id: "100004"
+    establish_name: 牆飾*
+    room_id: "10"
+    description: 牆飾*
+    furniture_id: "40087"
+    update_furniture_id: "40087"
+    furniture_postion: "6,10"
+  }
+  {
+    establish_id: "100005"
+    establish_name: 燈*
+    room_id: "10"
+    description: 燈*
+    furniture_id: "40089"
+    update_furniture_id: "40089"
+    furniture_postion: "18,0"
+  }
+  {
+    establish_id: "100100"
+    establish_name: 工作台
+    room_id: "10"
+    description: 可選擇格納庫內展示的機動裝甲。點擊後，可跳轉至機動裝甲圖紙或詳情介面。
+    furniture_id: "410030"
+    update_furniture_id: "410030"
+    furniture_postion: "25,10"
+    establish_type: "1006"
+  }
+  {
+    establish_id: "100200"
+    establish_name: 能源生產器
+    room_id: "10"
+    description: 生產機動裝甲運行所需的能源，並提供能源上限
+    furniture_id: "410020"
+    update_furniture_id: "410020"
+    furniture_postion: "3,6"
+    establish_type: "1002"
+    parameter_1: "4000"
+    parameter_2: "50"
+  }
+  {
+    establish_id: "100300"
+    establish_name: 研發台
+    room_id: "10"
+    description: 點擊後可進入機動裝甲科技樹面板。
+    furniture_id: "410060"
+    update_furniture_id: "410060"
+    furniture_postion: "25,1"
+    establish_type: "1003"
+  }
+  {
+    establish_id: "100400"
+    establish_name: 組件倉庫
+    room_id: "10"
+    description: 提供組件倉庫上限，點擊後可進入組件列表
+    furniture_id: "410050"
+    update_furniture_id: "410050"
+    furniture_postion: "30,5"
+    establish_type: "1004"
+    parameter_1: "1000"
+  }
+  {
+    establish_id: "100500"
+    establish_name: 裝甲靶場
+    room_id: "10"
+    description: 點擊後跳轉裝甲靶場
+    furniture_id: "410040"
+    update_furniture_id: "410040"
+    furniture_postion: "11,9"
+    establish_type: "1005"
+  }
+  {
+    establish_id: "100600"
+    establish_name: 機動裝甲地台
+    room_id: "10"
+    description: 機動裝甲地台
+    furniture_id: "410010"
+    update_furniture_id: "410010"
+    furniture_postion: "9,0"
+    establish_type: "1001"
+  }
+  {
+    establish_id: "100700"
+    establish_name: 機動裝甲
+    room_id: "10"
+    description: 當前機動裝甲
+    furniture_id: "410070"
+    update_furniture_id: "410070"
+    furniture_postion: "16,12"
+    establish_type: "1010"
   }
 ]
