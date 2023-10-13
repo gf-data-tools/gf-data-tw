@@ -2466,7 +2466,7 @@
   </item>
   <item des="Assets/_Scenes/DailyGame.unity/Top/Tex_Count">
     <xmlID>Assets/_Scenes/DailyGame.unity/Top/Tex_Count</xmlID>
-    <rect>(-250.01, -6.05),(1278.89, 56.21)</rect>
+    <rect>(-250.01, -6.05),(278.89, 56.21)</rect>
     <textfont>moh</textfont>
     <fontstyle>Normal</fontstyle>
     <fontsize>3</fontsize>
