@@ -1229,4 +1229,8 @@
     obtain_id: 3099
     description: 限時活動<允許！重新載入>代幣兌換
   }
+  {
+    obtain_id: 3100
+    description: 特別救援行動G
+  }
 ]

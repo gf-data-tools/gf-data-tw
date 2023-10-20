@@ -13393,6 +13393,24 @@
     rank: 1
   }
   {
+    id: 2373
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M327
+    item_name: 名片：春嶺追逐
+    introduction: 名片：春嶺追逐
+    rank: 1
+  }
+  {
+    id: 2374
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M327
+    item_name: M327-可愛特訓師
+    introduction: M327-可愛特訓師
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -18367,6 +18385,22 @@
     rank: 1
   }
   {
+    id: 140025
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    rank: 1
+  }
+  {
+    id: 140026
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -18659,6 +18693,15 @@
     rank: 1
   }
   {
+    id: 200032
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M327
+    item_name: 頭像框·微笑無牽絆！
+    introduction: 頭像框·微笑無牽絆！
+    rank: 1
+  }
+  {
     id: 900030
     type: 4
     arg: "100030"
@@ -18789,7 +18832,7 @@
     type: 15
     arg: "1500009"
     code: package_choose
-    item_name: 五星裝備自選序標
+    item_name: 基礎裝備自選序標
     introduction: 打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
@@ -18799,8 +18842,8 @@
     type: 15
     arg: "1500010"
     code: package_choose
-    item_name: 五星配件裝備自選序標
-    introduction: 打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    item_name: 配件裝備自選序標
+    introduction: 打開時，可從該指定投遞配給序標內選擇獲取一件配件類裝備
     rank: 1
     sort: -1
   }
@@ -19733,6 +19776,46 @@
     sort: -1
   }
   {
+    id: 1500099
+    type: 15
+    arg: "1500099"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-晨郊樂園，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500100
+    type: 15
+    arg: "1500100"
+    code: package_choose
+    item_name: 配件類裝備自選包
+    introduction: 來自於前線協議-晨郊樂園，可從該指定投遞配給序標內選擇獲取一件配件類裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500101
+    type: 15
+    arg: "1500101"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-晨郊樂園，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500102
+    type: 15
+    arg: "1500102"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-晨郊樂園，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -19783,6 +19866,36 @@
     id: 1700003
     type: 15
     arg: "1700003"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700004
+    type: 15
+    arg: "1700004"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700005
+    type: 15
+    arg: "1700005"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700006
+    type: 15
+    arg: "1700006"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

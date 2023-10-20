@@ -9734,6 +9734,20 @@
     normal_description: 贈送獲得相應好感度
   }
   {
+    id: 30012
+    name: M327-可愛特訓師
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 369
+    skin: 30012
+    poster: 330012
+    code: gift_bundle_BattlePass_M327
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
     id: 100001
     name: 波板糖
     type: 1
