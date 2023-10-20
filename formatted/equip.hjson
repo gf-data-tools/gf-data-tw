@@ -4492,10 +4492,8 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: pow:800,critical_percent:1000
-    passive_skill: "759273"
     max_level: 10
     auto_select_id: 18039
-    group_id: "15"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -6558,10 +6556,8 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: hit:1000,critical_harm_rate:1000,critical_percent:1000
-    passive_skill: "759268"
     max_level: 10
     auto_select_id: 18069
-    group_id: "16"
     is_show: 1
     obtain_ids: "3003"
   }
@@ -6592,10 +6588,8 @@
     powerup_part: 0.3
     exclusive_rate: 3
     bonus_type: armor_piercing:500,pow:700
-    passive_skill: "759274"
     max_level: 10
     auto_select_id: 19028
-    group_id: "15"
     is_show: 1
     obtain_ids: "3003"
   }
@@ -10259,10 +10253,9 @@
     powerup_part: 0.55
     exclusive_rate: 3
     bonus_type: pow:1000
-    passive_skill: "759062,759270"
+    passive_skill: "759062"
     max_level: 10
     auto_select_id: 20055
-    group_id: "16"
     is_show: 1
     obtain_ids: "3016"
     sp_description: 換彈時間-2秒
