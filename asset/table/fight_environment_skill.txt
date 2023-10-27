@@ -53,7 +53,7 @@ fight_environment_skill-20000718,每隔3秒提升我方前排人形迴避和護�
 fight_environment_skill-10000719,負隅頑抗
 fight_environment_skill-20000719,每隔15秒時間恢復敵方已損失血量10%的護盾持續6秒
 fight_environment_skill-10000720,鋼鐵靶機
-fight_environment_skill-20000720,每隔10秒召喚1組5編，每編1000血的靶機
+fight_environment_skill-20000720,每隔10秒召喚1組總血量1000的5編靶機
 fight_environment_skill-10000721,腹背受敵
 fight_environment_skill-20000721,每隔6秒在我方梯隊前方生成1組敵人
 fight_environment_skill-10000722,越戰越勇
@@ -355,7 +355,7 @@ fight_environment_skill-32022601,戰鬥中每隔8秒對敵方血量最低單位�
 fight_environment_skill-22022701,護盾破解
 fight_environment_skill-32022701,戰鬥中每隔10秒清空一次敵人身上護盾。
 fight_environment_skill-22022801,協同挑釁
-fight_environment_skill-32022801,戰鬥開始時召喚1組5編，每編1000血的靶機。
+fight_environment_skill-32022801,戰鬥開始時召喚1組總血量1000的5編靶機。
 fight_environment_skill-22022901,麻痺之花
 fight_environment_skill-32022901,戰鬥開始時麻痺敵人4秒。
 fight_environment_skill-22023001,穿甲之力
@@ -371,7 +371,7 @@ fight_environment_skill-32023401,我方擁有護盾的單位暴擊增加100%-1�
 fight_environment_skill-22023501,護盾暴擊-2
 fight_environment_skill-32023501,我方擁有護盾的單位暴擊增加100%-2。
 fight_environment_skill-10230901,開戰凍結
-fight_environment_skill-20230901,開始戰鬥時//c眩暈全體敵人5秒。//n<color=#CF8000>效果持續1回合</color>
+fight_environment_skill-20230901,開始戰鬥時//c暈眩全體敵人5秒。//n<color=#CF8000>效果持續1回合</color>
 fight_environment_skill-10230902,強襲之地
 fight_environment_skill-20230902,開始戰鬥時//c賦予全體敵人20%易傷。//n<color=#CF8000>效果持續1回合</color>
 fight_environment_skill-10230903,覆蓋支援

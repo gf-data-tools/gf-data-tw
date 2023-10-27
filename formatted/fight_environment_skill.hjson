@@ -217,7 +217,7 @@
   {
     id: 720
     name: 鋼鐵靶機
-    desc: 每隔10秒召喚1組5編，每編1000血的靶機
+    desc: 每隔10秒召喚1組總血量1000的5編靶機
     if_display: 1
     code: fight_skill_hurt103
     skill_group: "990017"
@@ -535,7 +535,7 @@
     name: 開戰凍結
     desc:
       '''
-      開始戰鬥時,眩暈全體敵人5秒。
+      開始戰鬥時,暈眩全體敵人5秒。
       <color=#CF8000>效果持續1回合</color>
       '''
     if_display: 1
@@ -1465,7 +1465,7 @@
   {
     id: 12022801
     name: 協同挑釁
-    desc: 戰鬥開始時召喚1組5編，每編1000血的靶機。
+    desc: 戰鬥開始時召喚1組總血量1000的5編靶機。
     if_display: 1
     code: daily_game_28
     skill_group: "120228"

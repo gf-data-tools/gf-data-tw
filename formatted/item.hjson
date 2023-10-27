@@ -3781,8 +3781,8 @@
     type: 5
     arg: "1"
     code: profilePic_M1873_znq
-    item_name: 柯爾特左輪-奇跡女王
-    introduction: 柯爾特左輪-奇跡女王
+    item_name: 柯爾特左輪-奇蹟女王
+    introduction: 柯爾特左輪-奇蹟女王
     rank: 1
   }
   {
@@ -18953,7 +18953,7 @@
     arg: "1500021"
     code: Bumdle_sennku
     item_name: 四星人形調用函
-    introduction: 来自于重返基地，在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
+    introduction: 来自於重返基地，在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
     rank: 1
     sort: -1
   }
@@ -18963,7 +18963,7 @@
     arg: "1500022"
     code: package_choose
     item_name: 五星裝備自選序標
-    introduction: 来自于重返基地，打開時，可自選獲得指定範圍內的一個五星裝備
+    introduction: 来自於重返基地，打開時，可自選獲得指定範圍內的一個五星裝備
     rank: 1
     sort: -1
   }
@@ -19381,7 +19381,7 @@
     arg: "1500059"
     code: package_choose
     item_name: 高階專屬裝備自選序標
-    introduction: 来自于重返基地，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    introduction: 来自於重返基地，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
   }
