@@ -21,5 +21,5 @@ local _InitBodySpineSlotData = function(self,clothObj,subClothObjs,vehicleNode)
 end
 
 
-util.hotfix_ex(CS.VehicleSpineBuilder,'InitBodySpineSlotData',_InitBodySpineSlotData)
+--util.hotfix_ex(CS.VehicleSpineBuilder,'InitBodySpineSlotData',_InitBodySpineSlotData)
 

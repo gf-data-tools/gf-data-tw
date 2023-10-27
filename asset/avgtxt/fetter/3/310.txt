@@ -35,7 +35,7 @@ PzB39(0)<Speaker>PzB39</Speaker>||:——！
 PzB39(0)<Speaker>PzB39</Speaker>||:——！！
 ()||:那是——+——流星！
 PzB39(0)<Speaker>PzB39</Speaker>||:————！！！
-()||:AK-Alfa的眼睛瞪得大大。+在咆哮的風中，AK-Alfa看見了一顆劃過天際的流星。+摩托車越過了山脊。+而在目睹這奇蹟一樣的畫面時，AK-Alfa立刻做出的反應是——
+()||:AK-Alfa的眼睛瞪得大大。+在咆哮的風中，AK-Alfa看見了一顆劃過天際的流星。+摩托車越過了山脊。+而在目睹這奇跡一樣的畫面時，AK-Alfa立刻做出的反應是——
 AKAlfa(0)<Speaker>AKAlfa</Speaker>||:——PzB！快看！快看！+流星！是流星啊！
 PzB39(0)<Speaker>PzB39</Speaker>||:我說————！！！+不是叫妳抓緊了嗎——！！！
 AKAlfa(0)<Speaker>AKAlfa</Speaker>||:欸？

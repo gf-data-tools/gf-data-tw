@@ -49,7 +49,7 @@ Medusa(2)<Speaker>梅杜莎</Speaker>||:請給我一張JR中央本線到八王�
 ()<Speaker></Speaker>||<黑点2><BIN>385</BIN><SE1>RunStep</SE1>:……神保町。+梅杜莎從新宿線走出，在神保町的街頭奔跑起來……
 Medusa(2)<Speaker>梅杜莎</Speaker>||:等我啊，小邪神……+我來了！不管發生什麼樣的危險，我都會跟你一起面對的！
 ()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>380</BIN><BGM>BGM_Empty</BGM>:……與此同時，扭蛋館。+小邪神瀟灑利落地掛斷電話，走到CZ75的面前。
+()<Speaker></Speaker>||<黑点2><BIN>380</BIN><BGM>BGM_Empty</BGM>:……與此同時，扭蛋館。+小邪神瀟灑俐落地掛斷電話，走到CZ75的面前。
 Jashinchan(7)<Speaker>小邪神</Speaker><Position>0,100</Position>||<BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:……好好考慮下吧，CZ，跟著我幹可比在扭蛋館玩什麼cosplay有前途多了。
 CZ75(4)<Speaker>CZ75</Speaker>;Jashinchan(7)<Position>0,100</Position>||<SE1>AVG_coin_put</SE1>:大！聲！點！我聽不清楚！+這邊的音響聲音開太大了，我把聽力模組的敏感度調低了。
 CZ75(4);Jashinchan(4)<Speaker>小邪神</Speaker><Position>0,100</Position>||:你吼那麼大聲幹嘛啊！我說——+別——玩——cosplay——了！跟——我——混——吧！
