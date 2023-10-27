@@ -9580,6 +9580,104 @@
     normal_description: 贈送獲得相應好感度
   }
   {
+    id: 8801
+    name: 蟒蛇-葬地麗影
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 4
+    skin: 8801
+    poster: 38801
+    code: gift_bundle_Halloween2023_Python
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8802
+    name: NZ75-紅月夜行者
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 126
+    skin: 8802
+    poster: 38802
+    code: gift_bundle_Halloween2023_NZ75
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8803
+    name: 斯特林-透視（自畫像）
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 359
+    skin: 8803
+    poster: 38803
+    code: gift_bundle_Halloween2023_Sterling
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8804
+    name: 櫻花-計劃是糖果大豐收！
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 228
+    skin: 8804
+    poster: 38804
+    code: gift_bundle_Halloween2023_Type100
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8805
+    name: 斯捷奇金-女巫藥水熱賣中
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 7
+    skin: 8805
+    poster: 38805
+    code: gift_bundle_Halloween2023_APS
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8806
+    name: 四式-魔法師的構想世界
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 270
+    skin: 8806
+    poster: 38806
+    code: gift_bundle_Halloween2023_4type
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 8807
+    name: 微型烏茲-寒鴉悲鳴時
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 32
+    skin: 8807
+    poster: 38807
+    code: gift_bundle_Halloween2023_MicroUZI
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     type: 2

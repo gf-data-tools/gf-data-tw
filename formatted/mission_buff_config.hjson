@@ -1341,7 +1341,7 @@
     id: 482001
     name: 加速
     description: 可以額外行動
-    code: speedup
+    code: SpeedUp
     type: 1
     duration_type: "1"
     duration_time: "99"
