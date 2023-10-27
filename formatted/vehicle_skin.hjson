@@ -1237,74 +1237,74 @@
   }
   {
     id: 11300
-    name: vehicle_skin-10011300
+    name: AA-02M 贖罪者圖紙
     type: 1
     vehicle_id: "2"
     class_id: 13
     code: Warjack_1013
     item_id: 133124
     obtain: "40"
-    introduction: vehicle_skin-20011300
+    introduction: 狼群，我們出擊！
     is_show: 1
   }
   {
     id: 11301
-    name: vehicle_skin-10011301
+    name: AA-02M 贖罪者
     type: 2
     group_id: 118
     class_id: 13
     code: Small_Missile_Launcher_1013
     item_id: 133125
     obtain: "40"
-    introduction: vehicle_skin-20011301
+    introduction: AA-02M的配套小型導彈發射器，為戰鬥提供精準打擊。
     is_show: 1
   }
   {
     id: 11302
-    name: vehicle_skin-10011302
+    name: AA-02M 贖罪者
     type: 2
     group_id: 101
     class_id: 13
     code: MG_Single_1013
     item_id: 133126
     obtain: "40"
-    introduction: vehicle_skin-20011302
+    introduction: AA-02M的配套通用機槍，基礎款。
     is_show: 1
   }
   {
     id: 11303
-    name: vehicle_skin-10011303
+    name: AA-02M 贖罪者
     type: 2
     group_id: 107
     class_id: 13
     code: MG_Cannon_1013
     item_id: 133127
     obtain: "40"
-    introduction: vehicle_skin-20011303
+    introduction: AA-02M的配套機槍炮，小口徑炮彈發射器。
     is_show: 1
   }
   {
     id: 11304
-    name: vehicle_skin-10011304
+    name: AA-02M 贖罪者
     type: 2
     group_id: 124
     class_id: 13
     code: AutoDef_1013
     item_id: 133128
     obtain: "40"
-    introduction: vehicle_skin-20011304
+    introduction: AA-02M的配套防護產生器，為AA-02提供防護。
     is_show: 1
   }
   {
     id: 11305
-    name: vehicle_skin-10011305
+    name: AA-02M 贖罪者
     type: 2
     group_id: 116
     class_id: 13
     code: Signal_Tower_1013
     item_id: 133129
     obtain: "40"
-    introduction: vehicle_skin-20011305
+    introduction: AA-02M的配套訊號塔，為我方提供強化。
     is_show: 1
   }
 ]

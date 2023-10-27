@@ -4120,7 +4120,7 @@
     space: "2,2,1,1,1,0"
     deco_rate: 400
     decompose_gift: 100002
-    description: 著名的人體工學座椅，能有效降低員工離開電腦前的概率。
+    description: 著名的人體工學座椅，能有效降低員工離開電腦前的機率。
     code: sb2017_chair_a
     texture_type: "1"
     offset: "0.05,0,0"
@@ -4137,7 +4137,7 @@
     space: "2,2,1,1,1,0"
     deco_rate: 400
     decompose_gift: 100002
-    description: 著名的人體工學座椅，能有效降低員工離開電腦前的概率。
+    description: 著名的人體工學座椅，能有效降低員工離開電腦前的機率。
     code: sb2017_chair_b
     texture_type: "1"
     offset: "0,0,0"
@@ -7624,7 +7624,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: 窗外的世界已經睡了，而很多夢想現在才剛剛蘇醒。
+    description: 窗外的世界已經睡了，而很多夢想現在才剛剛甦醒。
     code: dtz2017_wall
     texture_type: "1"
     offset: "0,0,0"
@@ -8522,7 +8522,7 @@
     space: "13,4,1,1,1,0"
     deco_rate: 1200
     decompose_gift: 100003
-    description: 瘦長的百奇們有著獨立而深沉的思想，它們會讓擅自闖進來的私家車統統打滑。
+    description: 瘦長的百奇們有著獨立而深沉的思想，它們會讓擅自闖進來的私家車通通打滑。
     code: tgw2017_carpet
     texture_type: "1"
     offset: "0,0,0"
@@ -9804,7 +9804,7 @@
     space: "5,2,0,0,0,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: 路邊的日式小吃移動攤，「天上圓圓的月亮裡有兔子在招手，把開心和悲傷統統揉成團吧！」
+    description: 路邊的日式小吃移動攤，「天上圓圓的月亮裡有兔子在招手，把開心和悲傷通通揉成團吧！」
     code: wq2017_deco_04
     texture_type: "1"
     offset: "0.05,0,0"
@@ -9857,7 +9857,7 @@
     space: "14,9,0,0,0,0"
     deco_rate: 1150
     decompose_gift: 100003
-    description: 手工的傳統溫泉，「今天就住在溫泉旅舍吧，被純白的水染上紅暈的肌膚，可愛的舞女穿梭于筵席。」
+    description: 手工的傳統溫泉，「今天就住在溫泉旅舍吧，被純白的水染上紅暈的肌膚，可愛的舞女穿梭於筵席。」
     code: wq2017_wq_01,wq2017_wq_02,wq2017_wq_03,wq2017_wq_04,Hotspring_1,rippling
     texture_type: "1,1,1,1,2,2"
     sorting: "10,0,20,15,5,17"
@@ -10590,7 +10590,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 500
     decompose_gift: 100002
-    description: 李恩菲爾德：請不要在廚房滑旱冰，尤其在我做黃油的時候……閉嘴，立正！IDW，請在我忙完後留下來打掃戰場。
+    description: 李恩菲爾德：請不要在廚房滑旱冰，尤其在我做奶油的時候……閉嘴，立正！IDW，請在我忙完後留下來打掃戰場。
     code: cf2017_floor
     texture_type: "1"
     offset: "0,0,0"
@@ -11330,7 +11330,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 500
     decompose_gift: 100002
-    description: 時刻記住那些古典的、傳統的東西，以便你可以隨時而精准地破壞它們。
+    description: 時刻記住那些古典的、傳統的東西，以便你可以隨時而精準地破壞它們。
     code: cfd2017_floor
     texture_type: "1"
     offset: "0,0,0"
@@ -16137,7 +16137,7 @@
     space: "2,2,0,0,0,0"
     deco_rate: 400
     decompose_gift: 100002
-    description: 你還記得自己至今吃掉多少個麵包嗎？我們會幫您記住，透過賬單。
+    description: 你還記得自己至今吃掉多少個麵包嗎？我們會幫您記住，透過帳單。
     code: noshery2018_deco_08
     texture_type: "1"
     offset: "0,0,0"
@@ -28412,7 +28412,7 @@
     space: "5,6,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: 97式喜歡收集那些非常漂亮的楓葉，將它們壓製成標本，並塗上好看的金色，貼在乾淨的畫布上裝裱起來，作為賞心悅目的裝飾品——你知道她有多喜歡楓葉，所以你理解這份回禮的貴重。
+    description: 97式喜歡收集那些非常漂亮的楓葉，將它們壓制成標本，並塗上好看的金色，貼在乾淨的畫布上裝裱起來，作為賞心悅目的裝飾品——你知道她有多喜歡楓葉，所以你理解這份回禮的貴重。
     code: 2022WhiteVActivity_deco_97type
     texture_type: "1"
     offset: "0,0,0"
@@ -31246,13 +31246,13 @@
   }
   {
     id: 30603
-    name: 司登MkⅡ-被回應的心意
+    name: 斯登MkⅡ-被回應的心意
     classes: 300
     type: 303
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
-    description: 司登MkII的海報。
+    description: 斯登MkII的海報。
     code: poster_stenmkii_wedding
     texture_type: "1"
     sorting: "5"
@@ -39541,13 +39541,13 @@
   }
   {
     id: 38804
-    name: 櫻花-計劃是糖果大豐收！
+    name: 一〇〇式-計劃是糖果大豐收！
     classes: 300
     type: 303
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
-    description: 櫻花的海報。
+    description: 一〇〇式的海報。
     code: poster_Halloween2023_Type100
     texture_type: "1"
     sorting: "5"
@@ -40686,11 +40686,11 @@
   }
   {
     id: 40086
-    name: 載具墻紙
+    name: 載具牆紙
     classes: 400
     type: 301
     space: "1,1,1,1,1,0"
-    description: 載具墻紙
+    description: 載具牆紙
     code: vehicleDorm_wall
     texture_type: "1"
     offset: "0,0,0"
@@ -43091,7 +43091,7 @@
     space: "3,3,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: 新型號的橘喵救生員，攜帶精良裝備前來報道！可在汪洋大海中，這只柔弱小貓咪又能救得了誰呢？它連自己都救不了。
+    description: 新型號的橘喵救生員，攜帶精良裝備前來報到！可在汪洋大海中，這只柔弱小貓咪又能救得了誰呢？它連自己都救不了。
     code: yz2019_pet,SP_CatHouseBase
     texture_type: "1,1"
     sorting: "2,0"

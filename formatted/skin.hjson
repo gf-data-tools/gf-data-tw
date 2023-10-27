@@ -1349,7 +1349,7 @@
     name: 水野愛-覺醒的夢想家
     fit_gun: 1038
     voice: 4
-    dialog: 我要懷抱著熾熱的心情，用最大的努力，創造直達靈魂深處的奇跡！
+    dialog: 我要懷抱著熾熱的心情，用最大的努力，創造直達靈魂深處的奇蹟！
     gift_position: "-117.7,6.9"
     order: 101
     skin_source: 1
@@ -1678,7 +1678,7 @@
   }
   {
     id: 904
-    name: 內格夫-小流浪家
+    name: 內蓋夫-小流浪家
     fit_gun: 112
     ai: 40904
     voice: 4
@@ -2944,7 +2944,7 @@
     fit_gun: 167
     ai: 42705
     voice: 4
-    dialog: 我就是可愛又迷人的奇跡偶像，HK45喲！大家~跟著我一起Dance吧~
+    dialog: 我就是可愛又迷人的奇蹟偶像，HK45喲！大家~跟著我一起Dance吧~
     order: 30
     class_id: 27
     skin_source: 3
@@ -6119,7 +6119,7 @@
     ai: 45902
     voice: 4
     substitute_voice: Lusa_0
-    dialog: 見習隊員盧薩，報到！最後的陣線就交給我吧！
+    dialog: 見習隊員Lusa，報到！最後的陣線就交給我吧！
     gift_position: "-122.55,-129.8"
     order: 70
     class_id: 62
@@ -6729,7 +6729,7 @@
     name: TKB-408-硃砂舞
     fit_gun: 340
     voice: 15
-    dialog: 哈哈！新年的創作氛圍就是自由啊！來，指揮官，讓我給你在辦公室墻上來一幅國畫風塗鴉！
+    dialog: 哈哈！新年的創作氛圍就是自由啊！來，指揮官，讓我給你在辦公室牆上來一幅國畫風塗鴉！
     gift_position: "-139.9,-71.1"
     order: 82
     class_id: 72
@@ -7338,7 +7338,7 @@
   }
   {
     id: 7605
-    name: 司登MkⅡ-誰動了我的糖果
+    name: 斯登MkⅡ-誰動了我的糖果
     fit_gun: 29
     voice: 18
     dialog: 不能獨占您，至少要獨占您的糖果！其他人討不到糖會惡作劇？嗯，追上我就還給您，怎麼樣？

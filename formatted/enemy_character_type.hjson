@@ -1782,7 +1782,7 @@
     rate: 35
     def: 99999
     level: 100
-    character: 精英,高威脅,巨型,裝甲,壓製,弱化
+    character: 精英,高威脅,巨型,裝甲,壓制,弱化
     normal_attack: 900107
     passive_skill: "900478,900479,900480,119019,755000,740089,770043"
     effect_ratio: 1.11
@@ -20241,7 +20241,7 @@
     boss_hp: 750000
     def: 99999
     level: 100
-    character: 精英,行裁者,裝甲
+    character: 精英,劊子手,裝甲
     special_attack: 4
     normal_attack: 300301
     passive_skill: "400201,200303,119029,770044"
@@ -20269,7 +20269,7 @@
     boss_hp: 1015000
     def: 99999
     level: 100
-    character: 精英,行裁者,裝甲
+    character: 精英,劊子手,裝甲
     special_attack: 4
     normal_attack: 300301
     passive_skill: "400201,200303,119029,770044"
@@ -20605,7 +20605,7 @@
     boss_hp: 2600000
     def: 99999
     level: 100
-    character: 精英,行裁者,裝甲
+    character: 精英,劊子手,裝甲
     special_attack: 4
     normal_attack: 300301
     passive_skill: "400201,200303,119029,770044"

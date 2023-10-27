@@ -6132,7 +6132,7 @@
     scripts: -37-2-1
     campaign: -37
     bgm: BGM_Frontline
-    title: 格裡芬的建築師
+    title: 格里芬的建築師
     start: -37-2-1
   }
   {
@@ -7011,7 +7011,7 @@
   {
     id: 611
     mission_id: "10566"
-    description: 「歡迎來到自由漢薩城市不萊梅，祝您旅途愉快！」
+    description: 「歡迎來到自由漢薩城市不來梅，祝您旅途愉快！」
     scripts: -41-4-7
     campaign: -41
     bgm: BGM_Frontline
@@ -9524,7 +9524,7 @@
   {
     id: 881
     mission_id: "10896"
-    description: 「格裡芬基地的未來又一次落到了我們的手裡。」
+    description: 「格里芬基地的未來又一次落到了我們的手裡。」
     scripts: -48-5-10
     campaign: -48
     bgm: BGM_Frontline
@@ -9761,7 +9761,7 @@
   {
     id: 921
     mission_id: "10991"
-    description: 「首先，喝光這些，把你的理智統統關掉。」
+    description: 「首先，喝光這些，把你的理智通通關掉。」
     scripts: -49-2-1
     campaign: -49
     bgm: BGM_Frontline
@@ -9983,7 +9983,7 @@
   {
     id: 952
     mission_id: "11064"
-    description: 「我的身份完成這項任務，那麼意味著格裡芬基地已經得到了將軍的庇護。」
+    description: 「我的身份完成這項任務，那麼意味著格里芬基地已經得到了將軍的庇護。」
     scripts: -51-2-5
     campaign: -51
     title: 匿伏II
@@ -10344,7 +10344,7 @@
   {
     id: 997
     mission_id: "11166"
-    description: 「這是一座奇跡，而您，就是這座奇跡上最偉大的見證者！」
+    description: 「這是一座奇蹟，而您，就是這座奇蹟上最偉大的見證者！」
     scripts: -54-O-1
     campaign: -54
     title: 1 列車時刻表

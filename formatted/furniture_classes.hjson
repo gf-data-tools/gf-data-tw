@@ -178,7 +178,7 @@
     name: 便利店
     rank: 3
     bonus_number: 15
-    description: 24小時營業的便利店是人類文明的基石，是戰火紛飛下最溫暖的慰藉，只要便利店還營業，一切就都不會太糟。所以意料之外情理之中的，便利店成了每個格裡芬支部中防守最森嚴的部分。
+    description: 24小時營業的便利店是人類文明的基石，是戰火紛飛下最溫暖的慰藉，只要便利店還營業，一切就都不會太糟。所以意料之外情理之中的，便利店成了每個格里芬支部中防守最森嚴的部分。
     code: bld2016_floordeco_06_icon
     is_showed: 1
     placement: 1
@@ -230,7 +230,7 @@
     rank: 5
     k_bonus: 6:2000,9:5000,12:8000
     bonus_number: 20
-    description: 格裡芬精英梯隊的徽記，僅授予那些在作戰中積極踴躍的指揮官。也許，會令您想起那些與她們並肩作戰的寶貴歲月。
+    description: 格里芬精英梯隊的徽記，僅授予那些在作戰中積極踴躍的指揮官。也許，會令您想起那些與她們並肩作戰的寶貴歲月。
     bonus_description: 收集更多戰利品，可獲得額外舒適度。
     code: sp2017_deco_09_icon
     is_showed: 1
@@ -306,7 +306,7 @@
     bonus_picture: "3007"
     k_bonus: 6:2000,9:5000,12:8000
     bonus_number: 13
-    description: 地下鐵主題的傢俱組合，在埋沒于昔日的文明樞紐中，體會那些擦肩而過的人生吧。
+    description: 地下鐵主題的傢俱組合，在埋沒於昔日的文明樞紐中，體會那些擦肩而過的人生吧。
     bonus_description: 集齊後宿舍內會出現意想不到的現象。
     code: dtz2017_walldeco_02_icon
     is_showed: 1
@@ -461,7 +461,7 @@
     bonus_picture: "3012"
     k_bonus: 6:2000,8:5000,12:8000
     bonus_number: 16
-    description: 圖書館為主題的傢俱組合，格裡芬的秘密書友會此刻為您敞開，這裡記錄著人形們對於人類讀書格言的寶貴感想！
+    description: 圖書館為主題的傢俱組合，格里芬的秘密書友會此刻為您敞開，這裡記錄著人形們對於人類讀書格言的寶貴感想！
     bonus_description: 集齊後宿舍內會出現意想不到的現象。
     code: tsg2017_deco_03_icon
     is_showed: 1

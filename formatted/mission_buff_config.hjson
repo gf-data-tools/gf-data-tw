@@ -85,7 +85,7 @@
   {
     id: 14
     name: 高效搜救
-    description: 增加掉落概率
+    description: 增加掉落機率
     code: buff
     type: 1
     duration_type: "2"
@@ -5738,7 +5738,7 @@
   }
   {
     id: 6540213
-    name: 【標記】格裡芬技能1 轟炸
+    name: 【標記】格里芬技能1 轟炸
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5748,7 +5748,7 @@
   }
   {
     id: 6540214
-    name: 【標記】格裡芬技能2 照明
+    name: 【標記】格里芬技能2 照明
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5758,7 +5758,7 @@
   }
   {
     id: 6540215
-    name: 【標記】格裡芬技能3 榴彈炮支援
+    name: 【標記】格里芬技能3 榴彈炮支援
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -5816,7 +5816,7 @@
   }
   {
     id: 6540221
-    name: 【標記】格裡芬技能1CD
+    name: 【標記】格里芬技能1CD
     type: 1
     duration_type: "1"
     duration_time: "2"
@@ -5828,7 +5828,7 @@
   }
   {
     id: 6540222
-    name: 【標記】格裡芬技能2CD
+    name: 【標記】格里芬技能2CD
     type: 1
     duration_type: "1"
     duration_time: "2"
@@ -5840,7 +5840,7 @@
   }
   {
     id: 6540223
-    name: 【標記】格裡芬技能4CD
+    name: 【標記】格里芬技能4CD
     type: 1
     duration_type: "1"
     duration_time: "2"

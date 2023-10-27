@@ -209,7 +209,7 @@ enemy_character_type-20010072,捍衛者
 enemy_character_type-10010072,精英//c裝甲//c護盾
 enemy_character_type-30010072,
 enemy_character_type-20010073,奎烏
-enemy_character_type-10010073,精英//c高威脅//c巨型//c裝甲//c壓製//c弱化
+enemy_character_type-10010073,精英//c高威脅//c巨型//c裝甲//c壓制//c弱化
 enemy_character_type-30010073,
 enemy_character_type-20010074,暴徒
 enemy_character_type-10010074,技巧·暴徒
@@ -2195,10 +2195,10 @@ enemy_character_type-20900506,正態指揮
 enemy_character_type-10900506,精英//c代理人
 enemy_character_type-30900506,
 enemy_character_type-20900507,離散測繪員
-enemy_character_type-10900507,精英//c行裁者//c裝甲
+enemy_character_type-10900507,精英//c劊子手//c裝甲
 enemy_character_type-30900507,
 enemy_character_type-20900508,離散測繪員
-enemy_character_type-10900508,精英//c行裁者//c裝甲
+enemy_character_type-10900508,精英//c劊子手//c裝甲
 enemy_character_type-30900508,
 enemy_character_type-20900509,方差牧童
 enemy_character_type-10900509,精英//c破壞者
@@ -2234,7 +2234,7 @@ enemy_character_type-20900519,後驗紡工
 enemy_character_type-10900519,精英//c獵手//c裝甲
 enemy_character_type-30900519,
 enemy_character_type-20900520,離散測繪員
-enemy_character_type-10900520,精英//c行裁者//c裝甲
+enemy_character_type-10900520,精英//c劊子手//c裝甲
 enemy_character_type-30900520,
 enemy_character_type-20900521,魘淵夕來
 enemy_character_type-10900521,精英

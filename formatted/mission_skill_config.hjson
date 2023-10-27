@@ -7804,7 +7804,7 @@
   {
     id: 420501
     name: 傳送
-    description: 將梯隊傳送至其他激活的傳送節點
+    description: 將梯隊傳送至其他啟動的傳送節點
     skill_group_id: 420501
     level: 1
     spot_type: "-1"
@@ -21733,7 +21733,7 @@
   }
   {
     id: 580903
-    name: 自動炮塔激活點
+    name: 自動炮塔啟動點
     skill_group_id: 580903
     level: 1
     spot_type: "-1"
@@ -21817,7 +21817,7 @@
   }
   {
     id: 580909
-    name: 【連攜】炮塔連攜攻擊點重新激活
+    name: 【連攜】炮塔連攜攻擊點重新啟動
     skill_group_id: 580909
     level: 1
     spot_type: "-1"
@@ -21831,7 +21831,7 @@
   }
   {
     id: 580910
-    name: 【連攜】炮塔連攜攻擊點全局重新激活
+    name: 【連攜】炮塔連攜攻擊點全局重新啟動
     skill_group_id: 580910
     level: 1
     spot_type: "-1"
@@ -38834,7 +38834,7 @@
     id: 6000402
     name: 傳送
     code: "1"
-    description: 將梯隊傳送至其他激活的傳送節點
+    description: 將梯隊傳送至其他啟動的傳送節點
     skill_group_id: 6000402
     level: 1
     spot_type: "-1"
@@ -57729,7 +57729,7 @@
     name: 開戰凍結
     description:
       '''
-      開始戰鬥時,眩暈全體敵人5秒。
+      開始戰鬥時,暈眩全體敵人5秒。
       <color=#CF8000>效果持續1回合</color>
       '''
     skill_group_id: 6629414

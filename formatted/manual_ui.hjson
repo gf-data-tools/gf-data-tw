@@ -475,7 +475,7 @@
     code_a: Console
     description_a: 我方梯隊
     description_b: 控制台
-    description_c: 激活
+    description_c: 啟動
     code_b: Squad_Icon
   }
   {
@@ -4288,7 +4288,7 @@
     code_a: MissileLauncher
     description_a: 控制台I
     description_b: 炮擊陣地I
-    description_c: 激活
+    description_c: 啟動
     code_b: Console_Icon
   }
   {
@@ -4320,7 +4320,7 @@
     code_a: MissileLauncher
     description_a: 控制台I
     description_b: 炮擊陣地I
-    description_c: 激活
+    description_c: 啟動
     code_b: Console_Icon
   }
   {
@@ -4352,7 +4352,7 @@
     code_a: MissileLauncher
     description_a: 控制台II
     description_b: 炮擊陣地II
-    description_c: 激活
+    description_c: 啟動
     code_b: Console_Icon
   }
   {
@@ -4384,7 +4384,7 @@
     code_a: MissileLauncher
     description_a: 控制台II
     description_b: 炮擊陣地II
-    description_c: 激活
+    description_c: 啟動
     code_b: Console_Icon
   }
   {
@@ -4408,7 +4408,7 @@
     code_a: MissileLauncher
     description_a: 控制台I
     description_b: 炮擊陣地II
-    description_c: 激活
+    description_c: 啟動
     code_b: Console_Icon
   }
   {
@@ -4432,7 +4432,7 @@
     code_a: MissileLauncher
     description_a: 控制台III
     description_b: 炮擊陣地III
-    description_c: 激活
+    description_c: 啟動
     code_b: Console_Icon
   }
   {
@@ -4456,7 +4456,7 @@
     code_a: MissileLauncher
     description_a: 控制台
     description_b: 炮擊陣地III
-    description_c: 激活
+    description_c: 啟動
     code_b: Console_Icon
   }
   {
@@ -4488,7 +4488,7 @@
     code_a: MissileLauncher
     description_a: 控制台
     description_b: 炮擊陣地III
-    description_c: 激活
+    description_c: 啟動
     code_b: Console_Icon
   }
   {
@@ -4520,7 +4520,7 @@
     code_a: MissileLauncher
     description_a: 控制台IV
     description_b: 炮擊陣地IV
-    description_c: 激活
+    description_c: 啟動
     code_b: Console_Icon
   }
   {
@@ -4544,7 +4544,7 @@
     code_a: MissileLauncher
     description_a: 控制台V
     description_b: 炮擊陣地V
-    description_c: 激活
+    description_c: 啟動
     code_b: Console_Icon
   }
   {
@@ -4568,7 +4568,7 @@
     code_a: MissileLauncher
     description_a: 控制台VI
     description_b: 炮擊陣地VI
-    description_c: 激活
+    description_c: 啟動
     code_b: Console_Icon
   }
   {

@@ -64,9 +64,9 @@
   }
   {
     id: "110"
-    tag: 眩暈
+    tag: 暈眩
     tag_type: "1"
-    description: 該人形的技能可以對敵方單位造成眩暈。
+    description: 該人形的技能可以對敵方單位造成暈眩。
     is_show: "1"
   }
   {
@@ -155,7 +155,7 @@
   }
   {
     id: "123"
-    tag: 單體壓製
+    tag: 單體壓制
     tag_type: "1"
     description: 該人形會對單體敵方單位造成較強減益效果。
     is_show: "1"
@@ -549,7 +549,7 @@
     id: "10113"
     tag: 高暴擊率
     tag_type: "1"
-    description: 該人形暴擊率數值優秀，有更高概率對敵方單位造成暴擊傷害。
+    description: 該人形暴擊率數值優秀，有更高機率對敵方單位造成暴擊傷害。
     is_show: "1"
   }
   {
@@ -624,9 +624,9 @@
   }
   {
     id: "10124"
-    tag: 眩暈
+    tag: 暈眩
     tag_type: "1"
-    description: 該人形的技能可以對敵方單位造成眩暈。
+    description: 該人形的技能可以對敵方單位造成暈眩。
     is_show: "1"
   }
   {

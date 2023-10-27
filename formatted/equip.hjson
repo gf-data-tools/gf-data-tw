@@ -841,7 +841,7 @@
     name: IOP T1外骨骼
     description:
       '''
-      回避+<dodge> 傷害<pow>
+      迴避+<dodge> 傷害<pow>
       $HG,SMG,AR可用
       '''
     rank: 2
@@ -865,7 +865,7 @@
     name: IOP T2外骨骼
     description:
       '''
-      回避+<dodge> 傷害<pow>
+      迴避+<dodge> 傷害<pow>
       $HG,SMG,AR可用
       '''
     rank: 3
@@ -896,7 +896,7 @@
     name: IOP T3外骨骼
     description:
       '''
-      回避+<dodge> 傷害<pow>
+      迴避+<dodge> 傷害<pow>
       $HG,SMG,AR可用
       '''
     rank: 4
@@ -927,7 +927,7 @@
     name: IOP T4外骨骼
     description:
       '''
-      回避+<dodge> 傷害<pow>
+      迴避+<dodge> 傷害<pow>
       $HG,SMG,AR可用
       '''
     rank: 5
@@ -958,7 +958,7 @@
     name: Type1防彈插板
     description:
       '''
-      護甲+<armor> 回避<dodge>
+      護甲+<armor> 迴避<dodge>
       $SG可用
       '''
     rank: 3
@@ -988,7 +988,7 @@
     name: Type2防彈插板
     description:
       '''
-      護甲+<armor> 回避<dodge>
+      護甲+<armor> 迴避<dodge>
       $SG可用
       '''
     rank: 4
@@ -1020,7 +1020,7 @@
     name: Type3防彈插板
     description:
       '''
-      護甲+<armor> 回避<dodge>
+      護甲+<armor> 迴避<dodge>
       $SG可用
       '''
     rank: 5
@@ -1259,7 +1259,7 @@
     name: IOP X1外骨骼
     description:
       '''
-      回避+<dodge>
+      迴避+<dodge>
       $HG,SMG,AR可用
       '''
     rank: 2
@@ -1282,7 +1282,7 @@
     name: IOP X2外骨骼
     description:
       '''
-      回避+<dodge>
+      迴避+<dodge>
       $HG,SMG,AR可用
       '''
     rank: 3
@@ -1312,7 +1312,7 @@
     name: IOP X3外骨骼
     description:
       '''
-      回避+<dodge>
+      迴避+<dodge>
       $HG,SMG,AR可用
       '''
     rank: 4
@@ -1342,7 +1342,7 @@
     name: IOP X4外骨骼
     description:
       '''
-      回避+<dodge>
+      迴避+<dodge>
       $HG,SMG,AR可用
       '''
     rank: 5
@@ -1471,7 +1471,7 @@
     name: GSG UX外骨骼
     description:
       '''
-      回避+<dodge> 傷害<pow>
+      迴避+<dodge> 傷害<pow>
       $MP5專用
       '''
     rank: 5
@@ -1486,7 +1486,7 @@
     develop_duration: 3120
     company: 16Lab
     fit_guns: "20026,26"
-    equip_introduction: 針對MP5特調的專用高性能外骨骼，提升其回避機動能力到極限，MP5專用。
+    equip_introduction: 針對MP5特調的專用高性能外骨骼，提升其迴避機動能力到極限，MP5專用。
     powerup_mp: 0.3
     powerup_ammo: 0.25
     powerup_mre: 0.12
@@ -1506,7 +1506,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      回避+<dodge>$MG,SG不可用
+      迴避+<dodge>$MG,SG不可用
       '''
     rank: 2
     category: 1
@@ -1529,7 +1529,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      回避+<dodge>$MG,SG不可用
+      迴避+<dodge>$MG,SG不可用
       '''
     rank: 3
     category: 1
@@ -1540,7 +1540,7 @@
     code: 配件_消音器_N
     develop_duration: 1320
     company: AC
-    equip_introduction: AC公司生產的改進型消音器，提高戰術人形隱蔽性，降低中彈幾率，機槍及霰彈槍外可以裝備。
+    equip_introduction: AC公司生產的改進型消音器，提高戰術人形隱蔽性，降低中彈機率，機槍及霰彈槍外可以裝備。
     powerup_mp: 0.55
     powerup_ammo: 0.23
     powerup_mre: 0.23
@@ -1558,7 +1558,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      回避+<dodge>$MG,SG不可用
+      迴避+<dodge>$MG,SG不可用
       '''
     rank: 4
     category: 1
@@ -1572,7 +1572,7 @@
     code: 配件_消音器_N
     develop_duration: 2220
     company: AC
-    equip_introduction: AC公司生產的高級通用消音器，有效提高戰術人形隱蔽性，降低中彈幾率，機槍及霰彈槍外可以裝備。
+    equip_introduction: AC公司生產的高級通用消音器，有效提高戰術人形隱蔽性，降低中彈機率，機槍及霰彈槍外可以裝備。
     powerup_mp: 0.55
     powerup_ammo: 0.23
     powerup_mre: 0.23
@@ -1590,7 +1590,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      回避+<dodge>$MG,SG不可用
+      迴避+<dodge>$MG,SG不可用
       '''
     rank: 5
     category: 1
@@ -1604,7 +1604,7 @@
     code: 配件_消音器_N
     develop_duration: 2820
     company: AC
-    equip_introduction: AC公司為特種作戰特別生產的消音器，極大提高戰術人形隱蔽性，降低中彈幾率，機槍及霰彈槍外可以裝備。
+    equip_introduction: AC公司為特種作戰特別生產的消音器，極大提高戰術人形隱蔽性，降低中彈機率，機槍及霰彈槍外可以裝備。
     powerup_mp: 0.55
     powerup_ammo: 0.23
     powerup_mre: 0.23
@@ -1621,7 +1621,7 @@
     name: IOP大容量彈鏈箱
     description:
       '''
-      彈量+<bullet_number_up> 回避<dodge>
+      彈量+<bullet_number_up> 迴避<dodge>
       $MG可用
       '''
     rank: 4
@@ -1650,7 +1650,7 @@
     name: IOP極限彈鏈箱
     description:
       '''
-      彈量+<bullet_number_up> 回避<dodge>
+      彈量+<bullet_number_up> 迴避<dodge>
       $MG可用
       '''
     rank: 5
@@ -2039,7 +2039,7 @@
     name: 16Lab防彈插板
     description:
       '''
-      護甲+<armor> 回避<dodge>
+      護甲+<armor> 迴避<dodge>
       $SG可用
       '''
     rank: 5
@@ -2118,7 +2118,7 @@
     develop_duration: 2700
     company: KST
     fit_guns: "58,66,20066"
-    equip_introduction: 戰前由KSTSP生產的光學瞄具，配備專為AK系武器設計的轉接支架，精准無比，直到今天仍是AK系武器最好的選擇。
+    equip_introduction: 戰前由KSTSP生產的光學瞄具，配備專為AK系武器設計的轉接支架，精準無比，直到今天仍是AK系武器最好的選擇。
     powerup_mp: 0.45
     powerup_ammo: 0.15
     powerup_mre: 0.3
@@ -2199,7 +2199,7 @@
     name: Hayha記憶晶片
     description:
       '''
-      傷害+<pow> 回避+<dodge>
+      傷害+<pow> 迴避+<dodge>
       暴擊傷害+<critical_harm_rate><%>$莫辛-納甘專用
       '''
     rank: 5
@@ -2349,7 +2349,7 @@
     name: 特殊戰機動護甲
     description:
       '''
-      護甲+<armor> 回避+<dodge>
+      護甲+<armor> 迴避+<dodge>
       射速<rate> 命中<hit>$M16A1專用
       '''
     rank: 5
@@ -2384,7 +2384,7 @@
     name: UMP UX外骨骼
     description:
       '''
-      回避+<dodge>
+      迴避+<dodge>
       暴擊傷害+<critical_harm_rate><%>$UMP9/40/45專用
       '''
     rank: 5
@@ -2399,7 +2399,7 @@
     develop_duration: 3120
     company: IOP
     fit_guns: "101,102,103,20103,20101"
-    equip_introduction: 曾經的裝備部為使用UMP武器平臺的人形特調的高機動外骨骼，不犧牲射擊精度的前提下極大的提高了回避能力。
+    equip_introduction: 曾經的裝備部為使用UMP武器平臺的人形特調的高機動外骨骼，不犧牲射擊精度的前提下極大的提高了迴避能力。
     powerup_mp: 0.3
     powerup_ammo: 0.23
     powerup_mre: 0.15
@@ -2704,7 +2704,7 @@
     name: 性能升級卡帶
     description:
       '''
-      回避+<dodge> 射速+<rate>
+      迴避+<dodge> 射速+<rate>
       傷害<pow>$IDW專用
       '''
     rank: 5
@@ -2738,7 +2738,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      回避+<dodge>$64式專用
+      迴避+<dodge>$64式專用
       '''
     rank: 5
     category: 1
@@ -2873,7 +2873,7 @@
     description:
       '''
       彈量+<bullet_number_up> 傷害<pow>
-      命中<hit> 回避<dodge>$MG3專用
+      命中<hit> 迴避<dodge>$MG3專用
       '''
     rank: 5
     category: 3
@@ -3014,7 +3014,7 @@
     develop_duration: 3600
     company: KSH
     fit_guns: "20039,39"
-    equip_introduction: 透過導軌加裝的現代光學瞄具，最大限度發揮出了莫辛納甘天生的精准素質，提升命中和暴擊機率，莫辛納甘專用。
+    equip_introduction: 透過導軌加裝的現代光學瞄具，最大限度發揮出了莫辛納甘天生的精準素質，提升命中和暴擊機率，莫辛納甘專用。
     powerup_mp: 0.45
     powerup_ammo: 0.15
     powerup_mre: 0.3
@@ -3067,7 +3067,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      回避+<dodge> 命中+<hit>$納甘左輪專用
+      迴避+<dodge> 命中+<hit>$納甘左輪專用
       '''
     rank: 5
     category: 1
@@ -3101,7 +3101,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      回避+<dodge> 命中+<hit>$MP-446專用
+      迴避+<dodge> 命中+<hit>$MP-446專用
       '''
     rank: 5
     category: 1
@@ -3286,7 +3286,7 @@
     name: 16LabT4外骨骼
     description:
       '''
-      回避+<dodge> 傷害<pow>
+      迴避+<dodge> 傷害<pow>
       $HG,SMG,AR可用
       '''
     rank: 5
@@ -3317,7 +3317,7 @@
     name: 柯爾特左輪長槍管
     description:
       '''
-      傷害+<pow> 回避+<dodge>
+      傷害+<pow> 迴避+<dodge>
       暴擊機率+<critical_percent><%>$柯爾特左輪專用
       '''
     rank: 5
@@ -3417,7 +3417,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      回避+<dodge>$UMP45專用
+      迴避+<dodge>$UMP45專用
       '''
     rank: 5
     category: 1
@@ -3484,7 +3484,7 @@
     description:
       '''
       傷害+<pow> 命中+<hit>
-      回避+<dodge>$G41專用
+      迴避+<dodge>$G41專用
       '''
     rank: 5
     category: 3
@@ -3517,7 +3517,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      回避+<dodge>$斯登MkⅡ專用
+      迴避+<dodge>$斯登MkⅡ專用
       '''
     rank: 5
     category: 1
@@ -3682,7 +3682,7 @@
     description:
       '''
       暴擊+<critical_percent><%> 命中+<hit>
-      回避+<dodge> 技能增強$斯捷奇金專用
+      迴避+<dodge> 技能增強$斯捷奇金專用
       '''
     rank: 5
     category: 1
@@ -4033,7 +4033,7 @@
     description:
       '''
       傷害+<pow> 護甲+<armor>
-      回避<dodge>$戴娜專用
+      迴避<dodge>$戴娜專用
       '''
     rank: 5
     category: 3
@@ -4331,7 +4331,7 @@
     name: OSS消音器
     description:
       '''
-      傷害+<pow> 回避+<dodge>
+      傷害+<pow> 迴避+<dodge>
       暴擊機率+<critical_percent><%>$M3專用
       '''
     rank: 5
@@ -4601,7 +4601,7 @@
     name: RPD單兵裝具
     description:
       '''
-      彈量+<bullet_number_up> 回避<dodge>
+      彈量+<bullet_number_up> 迴避<dodge>
       傷害+<pow>$RPD專用
       '''
     rank: 5
@@ -4636,7 +4636,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      回避+<dodge> 射速<rate>$MAC10專用
+      迴避+<dodge> 射速<rate>$MAC10專用
       '''
     rank: 5
     category: 1
@@ -4670,7 +4670,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      回避+<dodge> 命中+<hit>$M9專用
+      迴避+<dodge> 命中+<hit>$M9專用
       '''
     rank: 5
     category: 1
@@ -4835,7 +4835,7 @@
     name: RFB前導軌
     description:
       '''
-      暴擊概率+<critical_percent><%>
+      暴擊機率+<critical_percent><%>
       暴擊傷害+<critical_harm_rate><%>$RFB專用
       '''
     rank: 5
@@ -5164,7 +5164,7 @@
     description:
       '''
       暴擊機率+<critical_percent><%>
-      回避+<dodge>$M950A專用
+      迴避+<dodge>$M950A專用
       '''
     rank: 5
     category: 1
@@ -10717,7 +10717,7 @@
     develop_duration: 3060
     company: IOP
     fit_guns: "151"
-    equip_introduction: IOP在M1887原有的盾牌上進行了模塊化改造後的技術結晶，同時優化了製作工藝大大提升了防彈效能。
+    equip_introduction: IOP在M1887原有的盾牌上進行了模組化改造後的技術結晶，同時優化了製作工藝大大提升了防彈效能。
     powerup_mp: 0.23
     powerup_ammo: 0.23
     powerup_mre: 0.33
@@ -11107,7 +11107,7 @@
     description:
       '''
       傷害+<pow>
-      暴擊概率+<critical_percent><%>$UMP9改型專用
+      暴擊機率+<critical_percent><%>$UMP9改型專用
       '''
     rank: 5
     category: 2

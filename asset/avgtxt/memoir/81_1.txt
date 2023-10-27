@@ -27,7 +27,7 @@ M249SAW(0)<Speaker>M249SAW</Speaker>||:……Mk48，你要在那裡站多久哦�
 Mk48(0)<Speaker>Mk48</Speaker>||:哦？你居然會主動跟我說話？不會嫌累嗎？
 M249SAW(0)<Speaker>M249SAW</Speaker>||:……
 Mk48(0)<Speaker>Mk48</Speaker>||:話說你那些打掃的活兒，LWMMG都幫你搞定了，剛剛評選結果還不錯。+我呢，也就是來告訴你一聲這件事。+還有別太晚回去，宵禁之後又被抓到的話LWMMG可沒法兒再幫你收拾爛攤子了。
-M249SAW(0)<Speaker>M249SAW</Speaker>||:哼，明明是說過<color=#87CEFA>就算是同伴，也不是很熟悉</color>這種話的人……+幹嘛要擺出一副<color=#87CEFA>我什麼忙都可以幫</color>的樣子。+真是的，都做了這麼久的同伴了，怎麼感覺我們都還是外人一樣。
+M249SAW(0)<Speaker>M249SAW</Speaker>||:哼，明明是說過<color=#87CEFA>就算是同伴，也不是很熟悉</color>這種話的人，幹嘛要擺出一副<color=#87CEFA>我什麼忙都可以幫</color>的樣子。+真是的，都做了這麼久的同伴了，怎麼感覺我們都還是外人一樣。
 Mk48(0)<Speaker>Mk48</Speaker>||:那你倒是把自己的工作做完，別讓她幫呀？
 M249SAW(0)<Speaker>M249SAW</Speaker>||:……不要，好累。
 Mk48(0)<Speaker>Mk48</Speaker>||:行——吧。+那，我先回去了。

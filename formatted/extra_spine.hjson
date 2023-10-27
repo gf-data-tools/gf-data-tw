@@ -132,14 +132,14 @@
   }
   {
     id: 3005
-    name: 星夜幻夢格林娜
+    name: 星夜幻夢格琳娜
     spine_code: Kalina_angel
     scale: 100
     ai: 3005
   }
   {
     id: 3006
-    name: 博物之路格林娜
+    name: 博物之路格琳娜
     spine_code: Kalina_president
     scale: 100
     ai: 3006
@@ -153,7 +153,7 @@
   }
   {
     id: 3008
-    name: 月光舞會格林娜
+    name: 月光舞會格琳娜
     spine_code: Kalina_DLS
     scale: 100
     ai: 3001

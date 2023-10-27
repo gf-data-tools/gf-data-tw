@@ -301,7 +301,7 @@
   {
     id: 35
     name: 便捷旅行
-    description: 即使此刻閉上眼睛，也仍有奇跡正在某處發生……
+    description: 即使此刻閉上眼睛，也仍有奇蹟正在某處發生……
     group_id: "77"
     code: commander_3520_icon
     path: CLASS35

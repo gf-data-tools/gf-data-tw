@@ -1730,7 +1730,7 @@
     chip_group: 610
     level: 1
     name: 超頻校準
-    description: 增幅有機率獲得+2點的加成，但有較低機率會失敗並眩暈1回合。
+    description: 增幅有機率獲得+2點的加成，但有較低機率會失敗並暈眩1回合。
     rank: 3
     number: 7
     skill_target_first: "61001"
@@ -1749,7 +1749,7 @@
     chip_group: 610
     level: 2
     name: 超頻校準
-    description: 增幅必定獲得+2點的加成，但有較低機率會失敗並眩暈1回合。
+    description: 增幅必定獲得+2點的加成，但有較低機率會失敗並暈眩1回合。
     rank: 3
     skill_target_first: "61002"
     target_select_first: 5

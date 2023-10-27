@@ -542,7 +542,7 @@
     id: 68
     area_id: "3,2,4,1"
     weight: 10
-    content: 梯隊遇到了一個與自己隊伍失散的格裡芬人形，她婉拒了[gun1]入隊的邀約，她會在原地等待，直到她的指揮官找到她。
+    content: 梯隊遇到了一個與自己隊伍失散的格里芬人形，她婉拒了[gun1]入隊的邀約，她會在原地等待，直到她的指揮官找到她。
     necessary_num: "1,0"
     script_type: "2"
   }
@@ -928,7 +928,7 @@
     id: 119
     area_id: "3,2,4,1"
     tag_weight: 68:20
-    content: "[gun1:68]和其他人形交換了格裡芬基地內的八卦。"
+    content: "[gun1:68]和其他人形交換了格里芬基地內的八卦。"
     necessary_num: "3,0"
     script_type: "2"
   }

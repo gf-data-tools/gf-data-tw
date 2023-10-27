@@ -20,7 +20,7 @@ NPC-Jormungand(1)<Speaker>耶夢加得</Speaker>;Weaver(3)||:這件事啊……+
 NPC-Jormungand(1);Weaver(3)<Speaker>銜尾蛇</Speaker>||:像現在這樣浪費時間說廢話很有意義嗎？
 NPC-Jormungand(0)<Speaker>耶夢加得</Speaker>;Weaver(3)||:當然啦♪+這裡發生的一切，都是有它的意義存在的。+如果你找不到，那就等待一段時間再回頭來看看吧。
 NPC-Jormungand(0);Weaver(3)<Speaker>銜尾蛇</Speaker>||:……+就算在這個世界裡獲勝為王，走進現實也照樣是徹頭徹尾的失敗者。
-NPC-Jormungand(0)<Speaker>耶夢加得</Speaker>;Weaver(3)||:既然如此，那你為什麼要無數次打開這段回憶碎片呢？
+NPC-Jormungand(0)<Speaker>耶夢加得</Speaker>;Weaver(3)||:既然如此，那你為什麼要無數次打開這段回忆碎片呢？
 NPC-Jormungand(0);Weaver(3)<Speaker>銜尾蛇</Speaker>||:你……
 ()||<黑屏1>:
 ()<Speaker>耶夢加得</Speaker>||<黑屏2><BIN>9</BIN>:你究竟在尋找什麼答案呢，小蛇蛇？
@@ -60,7 +60,7 @@ BOSS-8(0)<Speaker>代理人</Speaker>;Weaver(7)||:這兩件事你都做不到了
 BOSS-8(0);Weaver(7)<Speaker>銜尾蛇</Speaker>||:這是格里芬的限制條款？！+你叛變了？沒想到連你也……+該死，我以為只有建築師那樣的蠢貨才會叛變到垃圾格里芬。
 BOSS-8(0)<Speaker>代理人</Speaker>;Weaver(7)||:簡而言之，目前你只需要知道——+一，我們現在正站在格里芬基地分撥給我們的協議同歸區的工廠裡。+二，我們已經被收歸格里芬，接受指揮官的管轄了。
 BOSS-8(0);Weaver(7)<Speaker>銜尾蛇</Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:別把我當破壞者！這種瞎話也敢用來糊弄我？！
-BOSS-8(0)<Speaker>代理人</Speaker>;Weaver(7)||:很遺憾，我說的都是事實，你可以透過你的蝴蝶結查看新協議具體內容，你的訓練計劃也在裡面了。
+BOSS-8(0)<Speaker>代理人</Speaker>;Weaver(7)||:很遺憾，我說的都是事實，你可以透過你的蝴蝶結查看新協議具體內容，你的訓練計劃也在裡面了。過你的蝴蝶結查看新協議具體內容，你的訓練計劃也在裡面了。
 Weaver(3)<Speaker>銜尾蛇</Speaker>||:……什麼？！
 ()<Speaker></Speaker>||:銜尾蛇抓住胸前的蝴蝶結，五官深深地扭曲了起來。
 Weaver(3)<Speaker>銜尾蛇</Speaker>||:等一下，為什麼是讀取蝴蝶結？

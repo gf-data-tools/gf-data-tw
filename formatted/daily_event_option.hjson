@@ -2,7 +2,7 @@
   {
     id: 101
     fight_environment_skill_id: 12020101
-    description: 意外啟動了火力模塊。
+    description: 意外啟動了火力模組。
     balance_out: 1
     round_duration: -1
     battle_duration: -1
@@ -10,7 +10,7 @@
   {
     id: 102
     fight_environment_skill_id: 12020201
-    description: 意外啟動了超頻火力模塊。
+    description: 意外啟動了超頻火力模組。
     balance_out: 1
     round_duration: -1
     battle_duration: -1
@@ -18,7 +18,7 @@
   {
     id: 103
     fight_environment_skill_id: 12020101
-    description: 收穫了火力模塊。
+    description: 收穫了火力模組。
     balance_out: 1
     round_duration: -1
     battle_duration: -1
@@ -26,7 +26,7 @@
   {
     id: 104
     fight_environment_skill_id: 12020201
-    description: 收穫了超頻火力模塊。
+    description: 收穫了超頻火力模組。
     balance_out: 1
     round_duration: -1
     battle_duration: -1
@@ -50,7 +50,7 @@
   {
     id: 107
     fight_environment_skill_id: 12020101
-    description: 蝴蝶翻飛，火力模塊被啟動。
+    description: 蝴蝶翻飛，火力模組被啟動。
     balance_out: 1
     round_duration: -1
     battle_duration: -1
@@ -58,7 +58,7 @@
   {
     id: 108
     fight_environment_skill_id: 12020201
-    description: 蝴蝶翻飛，超頻火力模塊被啟動。
+    description: 蝴蝶翻飛，超頻火力模組被啟動。
     balance_out: 1
     round_duration: -1
     battle_duration: -1
@@ -98,7 +98,7 @@
   {
     id: 205
     fight_environment_skill_id: 12020301
-    description: 意外啟動了連發模塊。
+    description: 意外啟動了連發模組。
     balance_out: 1
     round_duration: -1
     battle_duration: -1
@@ -106,7 +106,7 @@
   {
     id: 206
     fight_environment_skill_id: 12020401
-    description: 意外啟動了超頻連發模塊。
+    description: 意外啟動了超頻連發模組。
     balance_out: 1
     round_duration: -1
     battle_duration: -1
@@ -130,7 +130,7 @@
   {
     id: 209
     fight_environment_skill_id: 12020301
-    description: 一串代碼啟動了連發模塊。
+    description: 一串代碼啟動了連發模組。
     balance_out: 1
     round_duration: -1
     battle_duration: -1
@@ -138,7 +138,7 @@
   {
     id: 210
     fight_environment_skill_id: 12020401
-    description: 一串代碼啟動了超頻連發模塊。
+    description: 一串代碼啟動了超頻連發模組。
     balance_out: 1
     round_duration: -1
     battle_duration: -1
@@ -282,7 +282,7 @@
   {
     id: 504
     fight_environment_skill_id: 12021001
-    description: 雙份哈維撞墻——一往無前！
+    description: 雙份哈維撞牆——一往無前！
     balance_out: 1
     round_duration: -1
     battle_duration: -1

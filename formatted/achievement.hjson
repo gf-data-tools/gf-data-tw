@@ -480,7 +480,7 @@
     core: 9
     gem: 30
     item_ids: 3-2,4-2
-    title: 奇跡的獎券
+    title: 奇蹟的獎券
     content: 首次獲得四星戰術少女。
     type_sort: 2
     sort: 21
@@ -11036,7 +11036,7 @@
     count: 1
     user_exp: 30
     title: 服儀標準守則
-    content: 首次激活指揮官服裝套裝
+    content: 首次啟動指揮官服裝套裝
     type_sort: 13
     sort: 252
     icon_code: 解锁N件装扮
@@ -11049,7 +11049,7 @@
     user_exp: 60
     item_ids: 601-1
     title: 穿著基本對策
-    content: 累計激活3套指揮官套裝
+    content: 累計啟動3套指揮官套裝
     type_sort: 13
     sort: 252
     icon_code: 解锁N件装扮
@@ -11062,7 +11062,7 @@
     user_exp: 100
     item_ids: 601-2
     title: 理想搭配參考
-    content: 累計激活5套指揮官套裝
+    content: 累計啟動5套指揮官套裝
     type_sort: 13
     sort: 252
     icon_code: 解锁N件装扮
@@ -11075,7 +11075,7 @@
     user_exp: 200
     item_ids: 601-3
     title: 著衣進階教程
-    content: 累計激活8套指揮官套裝
+    content: 累計啟動8套指揮官套裝
     type_sort: 13
     sort: 252
     icon_code: 解锁N件装扮
@@ -11088,7 +11088,7 @@
     user_exp: 500
     item_ids: 602-1
     title: 專家形象指南
-    content: 累計激活12套指揮官套裝
+    content: 累計啟動12套指揮官套裝
     type_sort: 13
     sort: 252
     icon_code: 解锁N件装扮
@@ -11101,7 +11101,7 @@
     user_exp: 1000
     item_ids: 602-2
     title: 時尚達人手札
-    content: 累計激活20套指揮官套裝
+    content: 累計啟動20套指揮官套裝
     type_sort: 13
     sort: 252
     icon_code: 解锁N件装扮
@@ -11114,7 +11114,7 @@
     user_exp: 2000
     item_ids: 602-3
     title: 穿衣品位的自我修養
-    content: 累計激活30套指揮官套裝
+    content: 累計啟動30套指揮官套裝
     type_sort: 13
     sort: 252
     icon_code: 解锁N件装扮
@@ -14450,7 +14450,7 @@
     part: 60
     core: 5
     item_ids: 2-3
-    title: 構建妖精集成模塊
+    title: 構建妖精集成模組
     content: 累計進行50次妖精重型製造。
     type_sort: 9
     sort: 298

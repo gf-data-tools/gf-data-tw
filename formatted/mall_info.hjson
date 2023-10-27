@@ -1928,7 +1928,7 @@
     id: "253"
     type: "8"
     quota: "2001"
-    giftbag_name: 裝扮：格林娜-冬幕派對
+    giftbag_name: 裝扮：格琳娜-冬幕派對
     event_code: dailyGiftbag
     icon: profilePic_kalina_2017Christmas
     discount: "1.00"
@@ -3103,7 +3103,7 @@
     gift: 2105-1
     gemprice: "1588"
     quota: "2001"
-    giftbag_name: 柯爾特左輪-奇跡女王
+    giftbag_name: 柯爾特左輪-奇蹟女王
     event_code: dailyGiftbag
     icon: Bumdle_2yearpackage
     discount: "1.00"
@@ -34666,7 +34666,7 @@
     id: "30017"
     type: "8"
     quota: "2001"
-    giftbag_name: 戰術人形:盧薩
+    giftbag_name: 戰術人形:Lusa
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "1227"

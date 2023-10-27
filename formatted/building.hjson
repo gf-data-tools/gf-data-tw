@@ -28459,7 +28459,7 @@
     working_spot_activation: 1;0
     active_building_info: Console;控制台I;0,0;2000005
     initial_state: -1
-    des: 由於不明原因被棄置的歌利亞單位，拾取並重新激活後可用於爆破指定設施。
+    des: 由於不明原因被棄置的歌利亞單位，拾取並重新啟動後可用於爆破指定設施。
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -28486,7 +28486,7 @@
     working_spot_activation: 1;0
     active_building_info: Console;控制台II;0,0;2000005
     initial_state: -1
-    des: 由於不明原因被棄置的歌利亞單位，拾取並重新激活後可用於爆破指定設施。
+    des: 由於不明原因被棄置的歌利亞單位，拾取並重新啟動後可用於爆破指定設施。
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -28513,7 +28513,7 @@
     working_spot_activation: 1;0
     active_building_info: Console;控制台III;0,0;2000005
     initial_state: -1
-    des: 由於不明原因被棄置的歌利亞單位，拾取並重新激活後可用於爆破指定設施。
+    des: 由於不明原因被棄置的歌利亞單位，拾取並重新啟動後可用於爆破指定設施。
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -28615,7 +28615,7 @@
     working_spot_activation: 1;0
     active_building_info: Console;控制台I;0,0;2000005
     initial_state: -1
-    des: 由於不明原因被棄置的歌利亞單位，拾取並重新激活後可用於爆破指定設施。
+    des: 由於不明原因被棄置的歌利亞單位，拾取並重新啟動後可用於爆破指定設施。
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -31814,7 +31814,7 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 0;0
-    des: 激活並保持占領狀態該設施每回合提供分數
+    des: 啟動並保持占領狀態該設施每回合提供分數
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -49373,7 +49373,7 @@
     type: 8
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    des: 由於不明原因被棄置的歌利亞單位，拾取並重新激活後可用於爆破指定設施。
+    des: 由於不明原因被棄置的歌利亞單位，拾取並重新啟動後可用於爆破指定設施。
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -50008,7 +50008,7 @@
     type: 8
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    des: 由於不明原因被棄置的歌利亞單位，拾取並重新激活後可用於爆破指定設施。
+    des: 由於不明原因被棄置的歌利亞單位，拾取並重新啟動後可用於爆破指定設施。
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -50122,7 +50122,7 @@
     type: 8
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    des: 由於不明原因被棄置的歌利亞單位，拾取並重新激活後可用於爆破指定設施。
+    des: 由於不明原因被棄置的歌利亞單位，拾取並重新啟動後可用於爆破指定設施。
     confront_des: 本次戰役中無法破壞該設施
   }
   {

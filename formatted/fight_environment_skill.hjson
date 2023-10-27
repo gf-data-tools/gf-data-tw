@@ -113,7 +113,7 @@
   {
     id: 707
     name: 火力抑制
-    desc: 每10秒眩暈我方輸出最高的單位5秒
+    desc: 每10秒暈眩我方輸出最高的單位5秒
     if_display: 1
     code: fight_skill_buff201
     skill_group: "756079"
@@ -1440,8 +1440,8 @@
   }
   {
     id: 12022501
-    name: 失力眩暈
-    desc: 戰鬥中每隔10秒眩暈敵人2秒。
+    name: 失力暈眩
+    desc: 戰鬥中每隔10秒暈眩敵人2秒。
     if_display: 1
     code: P290
     skill_group: "120225"

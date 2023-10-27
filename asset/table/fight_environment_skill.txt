@@ -27,7 +27,7 @@ fight_environment_skill-20000705,我方血量最高單位開場獲得9999點偏�
 fight_environment_skill-10000706,裝甲缺失
 fight_environment_skill-20000706,本場戰鬥我方護甲降低90%
 fight_environment_skill-10000707,火力抑制
-fight_environment_skill-20000707,每10秒眩暈我方輸出最高的單位5秒
+fight_environment_skill-20000707,每10秒暈眩我方輸出最高的單位5秒
 fight_environment_skill-10000708,燃燒打擊
 fight_environment_skill-20000708,開場在我方第一排生成燃燒區域，每10幀50點編制傷害，持續10秒
 fight_environment_skill-10000709,中樞遲緩
@@ -348,8 +348,8 @@ fight_environment_skill-22022301,命中降低
 fight_environment_skill-32022301,降低敵方全體命中15%。
 fight_environment_skill-22022401,命中降低+
 fight_environment_skill-32022401,降低敵方全體命中30%。
-fight_environment_skill-22022501,失力眩暈
-fight_environment_skill-32022501,戰鬥中每隔10秒眩暈敵人2秒。
+fight_environment_skill-22022501,失力暈眩
+fight_environment_skill-32022501,戰鬥中每隔10秒暈眩敵人2秒。
 fight_environment_skill-22022601,火力點射
 fight_environment_skill-32022601,戰鬥中每隔8秒對敵方血量最低單位造成10000點傷害。
 fight_environment_skill-22022701,護盾破解
