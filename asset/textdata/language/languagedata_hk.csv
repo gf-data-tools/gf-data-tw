@@ -1759,6 +1759,7 @@ DEPLOYMENT,30554,梯隊調度,,0
 DEPLOYMENT,30555,場上存在無法部署的梯隊，已自動撤離。,,0
 DEPLOYMENT,30556,至少選擇一個出戰單位,,0
 DEPLOYMENT,30557,作戰中無法修改載具強化配置，僅支持長按查看詳情。,,0
+DEPLOYMENT,30558,可用能源(todo),,0
 DORM,31000,收納庫,,0
 DORM,31001,Warehouse,,0
 DORM,31002,採購,,0
@@ -3686,6 +3687,9 @@ MISSIONSELECTION,40486,是否要花費{0}點超導勢能，{1}點基礎勢能，
 MISSIONSELECTION,40487,是否要花費{0}點基礎勢能，來進行{1}次戰役,,0
 MISSIONSELECTION,40488,完成了{0}次掃蕩，獲取下列道具,,0
 MISSIONSELECTION,40489,已達到支援上限，無法添加,,0
+MISSIONSELECTION,40490,生命值(todo),,0
+MISSIONSELECTION,40491,升级还需{0}(todo),,0
+MISSIONSELECTION,40492,暂无技能(todo),,0
 REINFORCEMENT,50000,選擇角色,,0
 REINFORCEMENT,50001,未解鎖,,0
 REINFORCEMENT,50002,LOCKED,,0
@@ -3851,6 +3855,7 @@ RESEARCH,51111,當前進化經驗已滿，無需繼續訓練。,,0
 RESEARCH,51112,記憶碎片可透過首次觀看人形回憶及模擬作戰獲得,,0
 RESEARCH,51113,加成提升,,0
 RESEARCH,51114,當前提供的進化經驗已遠遠超出進化所需，即使如此也要訓練嗎？,,0
+RESEARCH,51115,组件强化规则(todo),,0
 SETTING,52000,聲音,,0
 SETTING,52001,Sound,,0
 SETTING,52002,遊戲,,0
@@ -6608,6 +6613,8 @@ SQUAD,190306,請選擇需要解鎖的晶片,,0
 SQUAD,190307,原始晶片,,0
 SQUAD,190308,请选择需要满级的芯片(todo),,0
 SQUAD,190309,批量满级(todo),,0
+SQUAD,190310,一键满级(todo),,0
+SQUAD,190311,请选择需要满级的芯片(todo),,0
 TOAST,200000,陣形預設完畢,,0
 TOAST,200001,暫無可用妖精,,0
 TOAST,200002,通關{0}個不同關卡後解鎖<color=#ffb400>妖精</color>    當前通關數{1}/{2},,0
@@ -8568,3 +8575,6 @@ VEHICLE,290154,是否將當前機動裝甲編成存入預設{0}？,,0
 VEHICLE,290155,當前能源不足，戰鬥無法繼續，//n代理作戰終止,,0
 VEHICLE,290156,當前快速修復契約不足，已終止代理作戰,,0
 VEHICLE,290157,当前装配无变更，无需保存(todo),,0
+VEHICLE,290158,词条冲突(todo),,0
+VEHICLE,290159,能源儲備,,0
+VEHICLE,290160,切换后会丢失当前预览外观，是否对当前预览项进行结算?(todo),,0

@@ -12861,6 +12861,12 @@
     equip_ids: "367"
   }
   {
+    id: 1975
+    name: prize-10001975
+    furniture: "20111"
+    content: prize-20001975
+  }
+  {
     id: 2001
     name: WA2000-古堡歷險
     gift: 6-1
