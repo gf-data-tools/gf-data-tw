@@ -685,6 +685,15 @@
     rank: 1
   }
   {
+    id: 130
+    type: 3
+    arg: "31"
+    code: Medal_2020summer_re_rank
+    item_name: 恆隱逐暗者勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在「雙聯亂數」積分模式「秘密渦點+」中的耀眼表現，「黑暗吞沒了所有星光，而能驅散這一切的，唯有隨您升起的朝陽。」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -13555,6 +13564,33 @@
     rank: 1
   }
   {
+    id: 2384
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season13_1
+    item_name: 决断机谋 · 代号拾壹：暗隙
+    introduction: 决断机谋 · 代号拾壹：暗隙
+    rank: 1
+  }
+  {
+    id: 2385
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season13_2
+    item_name: 诡术奇策 · 代号拾壹：暗隙
+    introduction: 诡术奇策 · 代号拾壹：暗隙
+    rank: 1
+  }
+  {
+    id: 2386
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season13_3
+    item_name: 方略纵横 · 代号拾壹：暗隙
+    introduction: 方略纵横 · 代号拾壹：暗隙
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -14731,6 +14767,15 @@
     id: 10708
     type: 18
     arg: "10708"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10709
+    type: 18
+    arg: "10709"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
@@ -17144,6 +17189,15 @@
     rank: 1
   }
   {
+    id: 110066
+    type: 4
+    arg: "110066"
+    code: EventPT8
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -17213,6 +17267,15 @@
     code: FlightChessMap5_small
     item_name: 異想虛景
     introduction: 堅壁築壘棋盤背景-異想虛景
+    rank: 1
+  }
+  {
+    id: 121003
+    type: 1
+    arg: "1"
+    code: FlightChessMap6_small
+    item_name: 秘宝港湾
+    introduction: 掎角攻势棋盘背景-秘宝港湾
     rank: 1
   }
   {

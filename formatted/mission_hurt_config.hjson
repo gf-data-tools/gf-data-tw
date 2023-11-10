@@ -596,6 +596,28 @@
     defender_value: "99999"
   }
   {
+    id: 6630001
+    name: 【標記】歌利亞對單位
+    target_type: 2
+    type: 2
+    is_number: 1
+    life_type: 2
+    value: "101"
+    effect_process_end: 1000069
+    defender_value: "999"
+  }
+  {
+    id: 6630002
+    name: 【標記】歌利亞對設施
+    target_type: 2
+    type: 2
+    is_number: 1
+    life_type: 2
+    value: "101"
+    effect_process_end: 1000069
+    defender_value: "99999"
+  }
+  {
     id: 8120701
     name: 【標記】大樓倒塌傷害(對大樓)
     type: 1

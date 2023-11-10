@@ -6426,6 +6426,41 @@
     code_b: Console_Icon
   }
   {
+    id: 6630001
+    code_a: Boomer
+    description_a: 我方梯隊
+    description_b: 歌利亞（設施）
+    description_c: 投擲
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6630002
+    code_a: Boomer
+    description_a: 我方梯隊
+    description_b: 歌利亞（敵人）
+    description_c: 投擲
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6630003
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 視野加成
+    description_c: 開啟
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6630004
+    code_a: Boomer
+    description_a: 我方梯隊
+    description_b: 歌利亞
+    description_c: 丟棄
+    code_b: Console_Icon
+  }
+  {
     id: 8120301
     code_a: Door_Left
     description_a: 控制台I

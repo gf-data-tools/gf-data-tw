@@ -127,4 +127,22 @@
     group_skill: 3:759093
     fit_gun: "20101"
   }
+  {
+    id: 15
+    name: 飛躍未來
+    des: 擁有完整套裝的漢陽造88式將會顛覆人們對於現代戰力學的認知。
+    code: Egroup88type
+    equip_unit: "221,158,365"
+    group_skill: 3:759276
+    fit_gun: "20095"
+  }
+  {
+    id: 16
+    name: 糖果罐頭
+    des: 擁有完整套裝的M1919A4將會展現強大的爆發力，再也不會被敵人小覷了。
+    code: EgroupM1919A4
+    equip_unit: "366,220,333"
+    group_skill: 3:759271
+    fit_gun: "20080"
+  }
 ]
