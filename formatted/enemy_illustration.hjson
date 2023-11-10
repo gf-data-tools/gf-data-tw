@@ -1992,7 +1992,7 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 1
-    counter: 危險！請注意評估隊伍輸出能力是否足夠殲滅該單位，輸出能力不足時建議規避。
+    counter: 該單位有著極高的護甲和韌性，並且請注意及時處理增援進場的歌利亞！
     character: "309,321"
     enemy_skill: "21"
     launch_time: 2016-5-20 00:00:00
