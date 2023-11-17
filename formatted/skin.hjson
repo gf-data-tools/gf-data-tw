@@ -8260,6 +8260,16 @@
     class_id: 93
   }
   {
+    id: 8908
+    name: 隼-撫翎女侍
+    fit_gun: 256
+    voice: 4
+    dialog: 當心路滑，小羊羔，甜點雖好，但也不要吃太多喲……嗯，等我打掃完畢，再去找您，在那之前，先讓這孩子陪您玩吧。
+    illustrator_cv: 星迴,大空直美,
+    order: 119
+    class_id: 94
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57

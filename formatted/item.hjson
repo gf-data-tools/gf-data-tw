@@ -13591,6 +13591,15 @@
     rank: 1
   }
   {
+    id: 2393
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_Falcon
+    item_name: 隼-撫翎女侍
+    introduction: 隼-撫翎女侍
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
