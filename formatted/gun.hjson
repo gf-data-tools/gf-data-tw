@@ -4919,7 +4919,7 @@
     gun_detail_bg: team_ar
     org_id: 106
     related_story_id: 100054
-    show_damage_skin: ",0,553,533,4506,"
+    show_damage_skin: ",0,553,533,4506,8904,"
     gun_tag_ids: "110,105,152"
     atk_speed_max: 120
     ratio_rec: 110
@@ -5021,7 +5021,7 @@
     gun_detail_bg: team_ar
     org_id: 10601
     related_story_id: 100055
-    show_damage_skin: ",0,550,4505,530,"
+    show_damage_skin: ",0,550,4505,530,8901,"
     gun_tag_ids: "108"
     atk_speed_max: 120
     ratio_rec: 100
@@ -5123,7 +5123,7 @@
     gun_detail_bg: team_ar
     org_id: 10601
     related_story_id: 100056
-    show_damage_skin: ",0,574,531,551,"
+    show_damage_skin: ",0,574,531,551,8902,"
     gun_tag_ids: "121,153"
     atk_speed_max: 120
     ratio_rec: 100
@@ -5228,7 +5228,7 @@
     gun_detail_bg: team_ar
     org_id: 10601
     related_story_id: 100057
-    show_damage_skin: ",552,4508,30001,"
+    show_damage_skin: ",552,4508,30001,8903,"
     gun_tag_ids: "108"
     atk_speed_max: 120
     ratio_rec: 95
@@ -6110,7 +6110,7 @@
     ratio_range: 110
     skill1: 102115
     normal_attack: 300103
-    passive_skill: "900156"
+    passive_skill: "900156,759284"
     effect_grid_center: 13
     effect_guntype: "2"
     effect_grid_pos: "18"
@@ -8100,7 +8100,7 @@
     ratio_range: 100
     skill1: 105104
     normal_attack: 300105
-    passive_skill: "300201,300202,740029"
+    passive_skill: "300201,300202,740029,759290"
     effect_grid_center: 18
     effect_guntype: "6"
     effect_grid_pos: "22,24"
@@ -13184,7 +13184,7 @@
     gun_detail_bg: team_ar
     org_id: 10601
     related_story_id: 100143
-    show_damage_skin: ",0,4504,534,554,596,"
+    show_damage_skin: ",0,4504,534,554,596,8905,"
     gun_tag_ids: "10102,108"
     atk_speed_max: 135
     ratio_rec: 125
@@ -22102,7 +22102,7 @@
     obtain_ids: "424"
     rank_display: 3
     org_id: 10703
-    show_damage_skin: ",0,6908,4107,"
+    show_damage_skin: ",0,6908,4107,8908,"
     gun_tag_ids: "117"
     atk_speed_max: 120
     ratio_rec: 100
@@ -28697,7 +28697,7 @@
     gun_detail_bg: nation_Russia
     org_id: 10202
     related_story_id: 100356
-    show_damage_skin: ",0,7902,"
+    show_damage_skin: ",0,7902,8906,"
     gun_tag_ids: "108,112,124"
     atk_speed_max: 135
     ratio_rec: 100
@@ -30877,7 +30877,7 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10301
-    show_damage_skin: ",0,8502,"
+    show_damage_skin: ",0,8502,30013,"
     gun_tag_ids: "108,121"
     atk_speed_max: 135
     ratio_rec: 112
@@ -40779,7 +40779,7 @@
     explore_tag: "69,84"
     gun_detail_bg: team_ar
     related_story_id: 100055
-    show_damage_skin: ",0,550,4505,530,5005,"
+    show_damage_skin: ",0,550,4505,530,5005,8901,"
     gun_tag_ids: "118,121,124"
     atk_speed_max: 135
     ratio_rec: 100
@@ -40882,7 +40882,7 @@
     explore_tag: "84"
     gun_detail_bg: team_ar
     related_story_id: 100056
-    show_damage_skin: ",0,574,531,551,5014,"
+    show_damage_skin: ",0,574,531,551,5014,8902,"
     gun_tag_ids: "121,153"
     atk_speed_max: 135
     ratio_rec: 100
@@ -40988,7 +40988,7 @@
     explore_tag: "20,84"
     gun_detail_bg: team_ar
     related_story_id: 100057
-    show_damage_skin: ",0,552,4508,30001,"
+    show_damage_skin: ",0,552,4508,30001,8903,"
     gun_tag_ids: "108,135"
     atk_speed_max: 150
     ratio_rec: 95
@@ -41588,14 +41588,14 @@
     skill1: 740039
     skill2: 740045
     normal_attack: 300103
-    passive_skill: "740046,900156"
+    passive_skill: "740046,900156,759284"
     dynamic_passive_skill: "740047"
     effect_grid_center: 13
     effect_guntype: "2"
     effect_grid_pos: "17,18,19"
     effect_grid_effect: "4,20;5,15"
     type_equip1: 1;1,2,3,4,13,18
-    type_equip2: 2;8
+    type_equip2: 2;8,19
     type_equip3: 3;9,10,20
     ai: 66
     launch_time: 2016-05-20 00:00:00
@@ -42148,13 +42148,13 @@
     skill1: 740025
     skill2: 740027
     normal_attack: 740030
-    passive_skill: "300201,300202,740029"
+    passive_skill: "300201,300202,740029,759290"
     dynamic_passive_skill: "740028,740031"
     effect_grid_center: 18
     effect_guntype: "6"
     effect_grid_pos: "22,23,24"
     effect_grid_effect: "1,15;3,15"
-    type_equip1: 2;5,17
+    type_equip1: 2;5,17,19
     type_equip2: 1;1,2,3,16,18
     type_equip3: 3;14,20,21
     ai: 88
@@ -43653,7 +43653,7 @@
     explore_tag: "40,48,82,84"
     gun_detail_bg: team_ar
     related_story_id: 100143
-    show_damage_skin: ",0,4504,534,554,5037,596,"
+    show_damage_skin: ",0,4504,534,554,5037,596,8905,"
     gun_tag_ids: "10102,108,116"
     atk_speed_max: 150
     ratio_rec: 115

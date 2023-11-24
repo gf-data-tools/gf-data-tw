@@ -3460,6 +3460,146 @@
     color_icon_id: "957"
   }
   {
+    id: 5711
+    name: 千食百味
+    description: 食物的色澤代表不同的風味，而一名好廚師的髮型也能體現出獨特的品味——這便是廚藝之美！
+    code: Head1
+    icon: commander_5711_icon
+    type: 1
+    gender: 1
+    uniform_class: "57"
+    color_normal: Commander_5711_N
+    color_0: Commander_5711_0
+    color_1: Commander_5711_1
+    color_2: Commander_5711_2
+    color_3: Commander_5711_3
+    color_4: Commander_5711_4
+    color_icon_id: "900,901,902,903,904,905"
+  }
+  {
+    id: 5712
+    name: 花語茶香
+    description: 由於這靈動可愛的秀髮過於耀眼，在第一道菜完成之前，咨詢洗髮精的觀眾已經擠爆了熱線！
+    code: Head2
+    icon: commander_5712_icon
+    type: 1
+    gender: 2
+    uniform_class: "57"
+    color_normal: Commander_5712_N
+    color_0: Commander_5712_0
+    color_1: Commander_5712_1
+    color_2: Commander_5712_2
+    color_3: Commander_5712_3
+    color_4: Commander_5712_4
+    color_icon_id: "906,907,908,909,910,911"
+  }
+  {
+    id: 5720
+    name: 視覺盛宴
+    description: 只需100信用點，就可以在節目中為廚師大人戴上非常可愛的裝飾特效，心動不如行動，快快購買吧！
+    code: HeadAcco
+    icon: commander_5720_icon
+    type: 2
+    uniform_class: "57"
+    color_normal: Commander_5720_N
+    color_0: Commander_5720_0
+    color_1: Commander_5720_1
+    color_2: Commander_5720_2
+    color_3: Commander_5720_3
+    color_4: Commander_5720_4
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "0.132,0.517"
+    color_icon_id: "912,913,914,915,916,917"
+  }
+  {
+    id: 5731
+    name: 烹調人生
+    description: 觀眾們票選出來的最佳廚師服，不僅帥氣修身，也能讓你看起來像一位真正的烹飪大師！
+    code: Body1
+    icon: commander_5731_icon
+    type: 3
+    gender: 1
+    uniform_class: "57"
+    color_normal: Commander_5731_N
+    color_0: Commander_5731_0
+    color_1: Commander_5731_1
+    color_2: Commander_5731_2
+    color_3: Commander_5731_3
+    color_4: Commander_5731_4
+    color_icon_id: "918,919,920,921,922,923"
+  }
+  {
+    id: 5732
+    name: 果園詩歌
+    description: 點綴著荷葉邊的漂亮圍裙，穿上它，就一定能將食材之美提升到更高層次！
+    code: Body2
+    icon: commander_5732_icon
+    type: 3
+    gender: 2
+    uniform_class: "57"
+    color_normal: Commander_5732_N
+    color_0: Commander_5732_0
+    color_1: Commander_5732_1
+    color_2: Commander_5732_2
+    color_3: Commander_5732_3
+    color_4: Commander_5732_4
+    color_icon_id: "924,925,926,927,928,929"
+  }
+  {
+    id: 5740
+    name: 廚具匠心
+    description: 好的廚師總有許多靈魂相通的廚具，只是，在面對自己完成的黑暗料理時，可不要把責任推卸給它們。
+    code: BodyAcco
+    icon: commander_5740_icon
+    type: 4
+    uniform_class: "57"
+    color_normal: Commander_5740_N
+    color_0: Commander_5740_0
+    color_1: Commander_5740_1
+    color_2: Commander_5740_2
+    color_3: Commander_5740_3
+    color_4: Commander_5740_4
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.123,0.007"
+    color_icon_id: "930,931,932,933,934,935"
+  }
+  {
+    id: 5751
+    name: 微醺舞步
+    description: 專為一邊烹飪一邊跳踢踏舞而設計的下著，雖然最終被否決，但它帥氣的款式仍然吸引了觀眾的目光！
+    code: Foot1
+    icon: commander_5751_icon
+    type: 5
+    gender: 1
+    uniform_class: "57"
+    color_normal: Commander_5751_N
+    color_0: Commander_5751_0
+    color_1: Commander_5751_1
+    color_2: Commander_5751_2
+    color_3: Commander_5751_3
+    color_4: Commander_5751_4
+    color_icon_id: "936,937,938,939,940,941"
+  }
+  {
+    id: 5752
+    name: 甜糯幻夢
+    description: 可愛的蝴蝶結就如蛋糕上的草莓一樣不可或缺，相信我，節目播出後，它將成為廚師之間的流行款式！
+    code: Foot2
+    icon: commander_5752_icon
+    type: 5
+    gender: 2
+    uniform_class: "57"
+    color_normal: Commander_5752_N
+    color_0: Commander_5752_0
+    color_1: Commander_5752_1
+    color_2: Commander_5752_2
+    color_3: Commander_5752_3
+    color_4: Commander_5752_4
+    color_icon_id: "942,943,944,945,946,947"
+  }
+  {
     id: 9920
     name: 活力偽裝
     description: 永遠展現最好的我。

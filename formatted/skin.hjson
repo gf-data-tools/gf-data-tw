@@ -8260,6 +8260,77 @@
     class_id: 93
   }
   {
+    id: 8901
+    name: M4A1-絲絨兔果茶
+    fit_gun: 55
+    voice: 4
+    is_hidden: 1
+    dialog: 這裡的茶都經過精心調配，用料和茶葉都與其他店面大不相同，您一定會喜歡的……具體用了什麼原料？請容我保密。
+    illustrator_cv: umo,戶松遙,
+    order: 119
+    class_id: 94
+    skin_source: 2
+  }
+  {
+    id: 8902
+    name: M4 SOPMODII-疾行者百匯
+    fit_gun: 56
+    voice: 4
+    is_hidden: 1
+    dialog: 喲！！來啦來啦！誰點的超大份水果百匯加檸檬茶？咻咻——哈哈哈！放心！絕對不會灑！我的手超穩——啊！
+    illustrator_cv: umo,田村ゆかり,
+    order: 119
+    class_id: 94
+    skin_source: 2
+  }
+  {
+    id: 8903
+    name: ST AR-15-貓頭鷹拿鐵
+    fit_gun: 57
+    voice: 4
+    is_hidden: 1
+    dialog: 想好要點什麼再叫我，我去給您沖杯咖啡……奶精和糖都是免費的，不過建議不要放得太多。
+    illustrator_cv: umo,加藤英美里,
+    order: 119
+    class_id: 94
+    skin_source: 2
+  }
+  {
+    id: 8904
+    name: M16A1-仙國精釀
+    fit_gun: 54
+    voice: 4
+    is_hidden: 1
+    dialog: 這一杯是附贈的，感謝您一直以來的支持……表情？抱歉，我只負責照顧您用餐的過程，微笑是另外的價錢。
+    illustrator_cv: umo,山根希美,
+    order: 119
+    class_id: 94
+    skin_source: 2
+  }
+  {
+    id: 8905
+    name: RO635-櫻花霜奶昔
+    fit_gun: 143
+    voice: 4
+    is_hidden: 1
+    dialog: 在美國上世紀末，有些女服務生會像這樣在托盤裡放上雪茄，四處徘徊請人購買，可惜我這裡沒有雪茄，您要來一杯奶昔嗎？
+    illustrator_cv: umo,福原綾香,
+    order: 119
+    class_id: 94
+    skin_source: 2
+  }
+  {
+    id: 8906
+    name: A-545-銀鈴花騎士
+    fit_gun: 356
+    voice: 4
+    dialog: 歡迎光臨，指揮官，我把酒精管理的工作交給了值得信賴的人，相信能讓您印象深刻……至於現在，要來一塊草莓蛋糕嗎？
+    gift_position: "73.1,-5.3"
+    order: 119
+    class_id: 94
+    skin_source: 1
+  }
+  {
     id: 8908
     name: 隼-撫翎女侍
     fit_gun: 256
@@ -8284,6 +8355,7 @@
     fit_gun: 179
     voice: 4
     dialog: 清晨陽光於酒杯中折射的剔透曚影，是比深夜狂歡更迷人的風景……指揮官，您願意陪我一起欣賞嗎？
+    gift_position: "-215.4,271.7"
     illustrator_cv: 小槍,斉藤佑圭,
     order: 95
   }
@@ -8367,5 +8439,13 @@
     voice: 4
     dialog: 呼、呼……老闆，沒想到可愛竟然交了這麼多朋友，我快遛不過來了……作為可愛的二號主人，你也來搭把手吧？
     order: 117
+  }
+  {
+    id: 30013
+    name: HK433-偷心私廚
+    fit_gun: 390
+    voice: 4
+    dialog: 小貓咪，不可以進廚房偷吃！——嗯？居然乖乖趴下了……你是想看著我做飯嗎？那，等下不許搗亂哦。
+    order: 120
   }
 ]

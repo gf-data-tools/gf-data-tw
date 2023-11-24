@@ -13591,12 +13591,93 @@
     rank: 1
   }
   {
+    id: 2387
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_M4A1
+    item_name: M4A1-絲絨兔果茶
+    introduction: M4A1-絲絨兔果茶
+    rank: 1
+  }
+  {
+    id: 2388
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_M4 SOPMOD II
+    item_name: M4 SOPMODII-疾行者百匯
+    introduction: M4 SOPMODII-疾行者百匯
+    rank: 1
+  }
+  {
+    id: 2389
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_AR15
+    item_name: ST AR-15-貓頭鷹拿鐵
+    introduction: ST AR-15-貓頭鷹拿鐵
+    rank: 1
+  }
+  {
+    id: 2390
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_M16A1
+    item_name: M16A1-仙國精釀
+    introduction: M16A1-仙國精釀
+    rank: 1
+  }
+  {
+    id: 2391
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_RO635
+    item_name: RO635-櫻花霜奶昔
+    introduction: RO635-櫻花霜奶昔
+    rank: 1
+  }
+  {
+    id: 2392
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_A545
+    item_name: A-545-銀鈴花騎士
+    introduction: A-545-銀鈴花騎士
+    rank: 1
+  }
+  {
     id: 2393
     type: 5
     arg: "1"
     code: profilePic_Dining2023_Falcon
     item_name: 隼-撫翎女侍
     introduction: 隼-撫翎女侍
+    rank: 1
+  }
+  {
+    id: 2394
+    type: 5
+    arg: "1"
+    code: card_BattlePass_HK433
+    item_name: 名片：警告！廚房重地
+    introduction: 名片：警告！廚房重地
+    rank: 1
+  }
+  {
+    id: 2395
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_HK433
+    item_name: HK433-偷心私廚
+    introduction: HK433-偷心私廚
+    rank: 1
+  }
+  {
+    id: 2396
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Dreamer_Halloween
+    item_name: 夢想家-霧月翼手頭像
+    introduction: 夢想家-霧月翼手頭像
     rank: 1
   }
   {
@@ -16613,6 +16694,43 @@
     rank: 1
   }
   {
+    id: 100200
+    type: 4
+    arg: "100200"
+    code: Bumdle_October2
+    item_name: 123占用
+    introduction: 123占用
+    rank: 1
+  }
+  {
+    id: 100201
+    type: 9
+    arg: "100201"
+    code: Christmas_Coin
+    item_name: 聖誕幣
+    introduction: 聖誕幣
+    rank: 1
+    daily_limit: "80"
+  }
+  {
+    id: 100202
+    type: 4
+    arg: "100202"
+    code: Nova_medal_black
+    item_name: 新星勳章·一幣之遙
+    introduction: 新星勳章·一幣之遙
+    rank: 1
+  }
+  {
+    id: 100203
+    type: 4
+    arg: "100203"
+    code: Platinum_medal_black
+    item_name: 白金勳章·一幣之遙
+    introduction: 白金勳章·一幣之遙
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -17488,6 +17606,15 @@
     code: Y_Z_zhihuiguan_Dancer
     item_name: 迷夢時代
     introduction: 燈球璀璨，平等地照耀著每一個舞者。此刻，舞蹈無關身份與利益計算，只是共享快樂的表達。
+    rank: 1
+  }
+  {
+    id: 130023
+    type: 12
+    arg: "130023"
+    code: Y_Z_zhihuiguan_Restaurant
+    item_name: 驚險把戲
+    introduction: 規則很簡單：如果餐刀命中蘋果，今天你負責洗碗；如果沒命中，那就不得不由我來洗碗了。
     rank: 1
   }
   {
@@ -18680,6 +18807,22 @@
     rank: 1
   }
   {
+    id: 140027
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    rank: 1
+  }
+  {
+    id: 140028
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -18987,6 +19130,15 @@
     code: profileFrame_friendmall_MLEMK1
     item_name: 頭像框·無畏榮勳
     introduction: 頭像框·無畏榮勳
+    rank: 1
+  }
+  {
+    id: 200034
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_HK433
+    item_name: 頭像框·煲煮札記
+    introduction: 頭像框·煲煮札記
     rank: 1
   }
   {
@@ -20100,6 +20252,46 @@
     code: package_random
     item_name: 前線協議-額外獎勵
     introduction: 來自於前線協議-晨郊樂園，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500103
+    type: 15
+    arg: "1500103"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-尋味初晨，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500104
+    type: 15
+    arg: "1500104"
+    code: package_choose
+    item_name: 彈匣類裝備自選包
+    introduction: 來自於前線協議-尋味初晨，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500105
+    type: 15
+    arg: "1500105"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-尋味初晨，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500106
+    type: 15
+    arg: "1500106"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-尋味初晨，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
   }
