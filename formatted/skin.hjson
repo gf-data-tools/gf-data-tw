@@ -8264,7 +8264,6 @@
     name: M4A1-絲絨兔果茶
     fit_gun: 55
     voice: 4
-    is_hidden: 1
     dialog: 這裡的茶都經過精心調配，用料和茶葉都與其他店面大不相同，您一定會喜歡的……具體用了什麼原料？請容我保密。
     illustrator_cv: umo,戶松遙,
     order: 119
@@ -8276,7 +8275,6 @@
     name: M4 SOPMODII-疾行者百匯
     fit_gun: 56
     voice: 4
-    is_hidden: 1
     dialog: 喲！！來啦來啦！誰點的超大份水果百匯加檸檬茶？咻咻——哈哈哈！放心！絕對不會灑！我的手超穩——啊！
     illustrator_cv: umo,田村ゆかり,
     order: 119
@@ -8288,7 +8286,6 @@
     name: ST AR-15-貓頭鷹拿鐵
     fit_gun: 57
     voice: 4
-    is_hidden: 1
     dialog: 想好要點什麼再叫我，我去給您沖杯咖啡……奶精和糖都是免費的，不過建議不要放得太多。
     illustrator_cv: umo,加藤英美里,
     order: 119
@@ -8300,7 +8297,6 @@
     name: M16A1-仙國精釀
     fit_gun: 54
     voice: 4
-    is_hidden: 1
     dialog: 這一杯是附贈的，感謝您一直以來的支持……表情？抱歉，我只負責照顧您用餐的過程，微笑是另外的價錢。
     illustrator_cv: umo,山根希美,
     order: 119
@@ -8312,7 +8308,6 @@
     name: RO635-櫻花霜奶昔
     fit_gun: 143
     voice: 4
-    is_hidden: 1
     dialog: 在美國上世紀末，有些女服務生會像這樣在托盤裡放上雪茄，四處徘徊請人購買，可惜我這裡沒有雪茄，您要來一杯奶昔嗎？
     illustrator_cv: umo,福原綾香,
     order: 119

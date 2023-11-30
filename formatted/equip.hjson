@@ -11406,4 +11406,36 @@
     is_show: 1
     obtain_ids: "3091"
   }
+  {
+    id: 370
+    name: 自製智慧榴彈
+    description:
+      '''
+      傷害+<pow>
+      技能增強$K11專用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "8,12"
+    retire_ammo: 5
+    retire_mre: 3
+    retire_part: 2
+    code: Magazine_SP_K11
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "236"
+    equip_introduction: K11改良自製的20mm榴彈，解決了爆炸時間偏差和命中準度的問題，並且大幅提高了對目標的殺傷能力。
+    powerup_mp: 0.15
+    powerup_ammo: 0.6
+    powerup_mre: 0.38
+    powerup_part: 0.23
+    exclusive_rate: 3
+    bonus_type: pow:1000
+    passive_skill: "759291"
+    max_level: 10
+    auto_select_id: 19069
+    is_show: 1
+    obtain_ids: "3092"
+  }
 ]

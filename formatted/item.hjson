@@ -13681,6 +13681,24 @@
     rank: 1
   }
   {
+    id: 2397
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_NTW20
+    item_name: NTW-20頭像
+    introduction: NTW-20頭像
+    rank: 1
+  }
+  {
+    id: 2398
+    type: 5
+    arg: "1"
+    code: card_friendmall_NTW20
+    item_name: 名片：圍獵夜宴
+    introduction: 名片：圍獵夜宴
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -18284,6 +18302,60 @@
     rank: 5
   }
   {
+    id: 133083
+    type: 13
+    arg: "55"
+    code: TankM1_1010
+    item_name: 佩加索斯-主戰坦克裝甲圖紙
+    introduction: 沉重和靈活在這裡將實現完美的統一！
+    rank: 5
+  }
+  {
+    id: 133084
+    type: 13
+    arg: "55"
+    code: Smoke_Emitter_1010
+    item_name: 佩加索斯-煙霧發射器
+    introduction: 佩加索斯的配套煙霧發生器，能製造定點的煙霧干擾。
+    rank: 5
+  }
+  {
+    id: 133085
+    type: 13
+    arg: "55"
+    code: Medium_Missile_Launcher_1010
+    item_name: 佩加索斯-導彈發射器MK2
+    introduction: 佩加索斯的配套中型導彈發射器，能為友軍提供強大的火力支援。
+    rank: 5
+  }
+  {
+    id: 133086
+    type: 13
+    arg: "55"
+    code: ElecGun_1010
+    item_name: 佩加索斯-輕型速射電磁槍
+    introduction: 佩加索斯的配套速射電磁槍，能夠連續進行小型電磁炮攻擊。
+    rank: 5
+  }
+  {
+    id: 133087
+    type: 13
+    arg: "55"
+    code: MG_Cannon_1010
+    item_name: 佩加索斯-機槍炮
+    introduction: 佩加索斯的配套機槍炮，能造成小範圍傷害。
+    rank: 5
+  }
+  {
+    id: 133088
+    type: 13
+    arg: "55"
+    code: Jammer_1010
+    item_name: 佩加索斯-干擾器
+    introduction: 佩加索斯的配套干擾器，能提供範圍干擾。
+    rank: 5
+  }
+  {
     id: 133089
     type: 13
     arg: "55"
@@ -19139,6 +19211,15 @@
     code: profileFrame_BattlePass_HK433
     item_name: 頭像框·煲煮札記
     introduction: 頭像框·煲煮札記
+    rank: 1
+  }
+  {
+    id: 200035
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_NTW20
+    item_name: 頭像框·暮光的致禮
+    introduction: 頭像框·暮光的致禮
     rank: 1
   }
   {
