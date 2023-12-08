@@ -14890,6 +14890,15 @@
     rank: 1
   }
   {
+    id: 10710
+    type: 18
+    arg: "10710"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
     id: 100001
     type: 4
     arg: "100001"
@@ -20377,6 +20386,26 @@
     sort: -1
   }
   {
+    id: 1500107
+    type: 15
+    arg: "1500023"
+    code: Bumdle_invocation_1
+    item_name: 四星人形調用函
+    introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500108
+    type: 15
+    arg: "1500030"
+    code: Bumdle_invocation_2
+    item_name: 五星人形調用函
+    introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位五星戰術人形。
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -20457,6 +20486,36 @@
     id: 1700006
     type: 15
     arg: "1700006"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700007
+    type: 15
+    arg: "1700007"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700008
+    type: 15
+    arg: "1700008"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700009
+    type: 15
+    arg: "1700009"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
