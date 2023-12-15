@@ -30839,7 +30839,7 @@
     turn_duration: 360000000
     limit_team: "0,3"
     map_res_name: OPS68_Y
-    map_information: "9000,6000|4500,3300|2250,1350"
+    map_information: "9000,6000|4500,3300|2250,1350|0.92,0.95|0.92,0.95|0.92,0.95"
     fog_length: "0,500"
     fog_color: "#000000FF"
     support_available: 1
@@ -31530,7 +31530,7 @@
     turn_limit: 9
     limit_team: "0,4"
     map_res_name: OPS68_Y
-    map_information: "9000,6000|5000,3500|2000,1300"
+    map_information: "9000,6000|5000,3500|2000,1300|0.92,0.95|0.92,0.95|0.92,0.95"
     fog_length: "0,500"
     fog_color: "#000000FF"
     support_available: 1
@@ -110875,6 +110875,41 @@
     limit_vehicle: 1
   }
   {
+    id: 560007
+    duplicate_type: 1002
+    integration_switch: 2-3;1-1;4-40:80:160
+    campaign: -404
+    sub: 1887
+    if_emergency: -1
+    name: 裝甲突擊-主戰坦克31
+    difficulty: 50000
+    recommend_gun_level: 120
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 1
+    expect_gun_die_num: 9
+    expect_turn: 9
+    turn_duration: 360000000
+    turn_limit: 2
+    limit_gun_pool: "166177"
+    limit_team: "-1"
+    map_res_name: OPS69_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#00000000"
+    drop_mission_key: "0,0,560007:1"
+    mission_group_id: 404
+    open_mission_keys: 56002600:1
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
+    limit_sangvis: -1
+    lose_type: "500000"
+    restart_hide: 1
+    daily_demand: 3:1,1
+    limit_vehicle: 1
+  }
+  {
     id: 560011
     duplicate_type: 1002
     integration_switch: 2-3;1-1;4-40:80:160
@@ -111085,6 +111120,41 @@
     limit_vehicle: 1
   }
   {
+    id: 560017
+    duplicate_type: 1002
+    integration_switch: 2-3;1-1;4-40:80:160
+    campaign: -404
+    sub: 1888
+    if_emergency: -1
+    name: 裝甲突擊-主戰坦克32
+    difficulty: 50000
+    recommend_gun_level: 120
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 1
+    expect_gun_die_num: 9
+    expect_turn: 9
+    turn_duration: 360000000
+    turn_limit: 2
+    limit_gun_pool: "166177"
+    limit_team: "-1"
+    map_res_name: OPS69_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#00000000"
+    drop_mission_key: "0,0,560017:1"
+    mission_group_id: 404
+    open_mission_keys: 560007:1
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
+    limit_sangvis: -1
+    lose_type: "500000"
+    restart_hide: 1
+    daily_demand: 3:1,1
+    limit_vehicle: 1
+  }
+  {
     id: 560021
     duplicate_type: 1002
     integration_switch: 2-3;1-1;4-40:80:160
@@ -111284,6 +111354,41 @@
     fog_color: "#00000000"
     mission_group_id: 404
     open_mission_keys: 560026:1
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
+    limit_sangvis: -1
+    lose_type: "500000"
+    restart_hide: 1
+    daily_demand: 3:1,1
+    limit_vehicle: 1
+  }
+  {
+    id: 560027
+    duplicate_type: 1002
+    integration_switch: 2-3;1-1;4-40:80:160
+    campaign: -404
+    sub: 1889
+    if_emergency: -1
+    name: 裝甲突擊-主戰坦克33
+    difficulty: 50000
+    recommend_gun_level: 120
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 1
+    expect_gun_die_num: 9
+    expect_turn: 9
+    turn_duration: 360000000
+    turn_limit: 2
+    limit_gun_pool: "166177"
+    limit_team: "-1"
+    map_res_name: OPS69_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#00000000"
+    drop_mission_key: "0,0,560027:1"
+    mission_group_id: 404
+    open_mission_keys: 560017:1
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
@@ -111504,6 +111609,41 @@
     limit_vehicle: 1
   }
   {
+    id: 560037
+    duplicate_type: 1002
+    integration_switch: 2-3;1-1;4-40:80:160
+    campaign: -404
+    sub: 1890
+    if_emergency: -1
+    name: 裝甲突擊-主戰坦克34
+    difficulty: 50000
+    recommend_gun_level: 120
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 1
+    expect_gun_die_num: 9
+    expect_turn: 9
+    turn_duration: 360000000
+    turn_limit: 2
+    limit_gun_pool: "166177"
+    limit_team: "-1"
+    map_res_name: OPS69_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#00000000"
+    drop_mission_key: "0,0,560037:1"
+    mission_group_id: 404
+    open_mission_keys: 560027:1
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
+    limit_sangvis: -1
+    lose_type: "500000"
+    restart_hide: 1
+    daily_demand: 3:1,1
+    limit_vehicle: 1
+  }
+  {
     id: 560041
     duplicate_type: 1002
     integration_switch: 2-3;1-1;4-40:80:160
@@ -111704,6 +111844,41 @@
     drop_mission_key: "0,0,560026:1"
     mission_group_id: 404
     open_mission_keys: 560046:1
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
+    limit_sangvis: -1
+    lose_type: "500000"
+    restart_hide: 1
+    daily_demand: 3:1,1
+    limit_vehicle: 1
+  }
+  {
+    id: 560047
+    duplicate_type: 1002
+    integration_switch: 2-3;1-1;4-40:80:160
+    campaign: -404
+    sub: 1891
+    if_emergency: -1
+    name: 裝甲突擊-主戰坦克35
+    difficulty: 50000
+    recommend_gun_level: 120
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 1
+    expect_gun_die_num: 9
+    expect_turn: 9
+    turn_duration: 360000000
+    turn_limit: 2
+    limit_gun_pool: "166177"
+    limit_team: "-1"
+    map_res_name: OPS69_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#00000000"
+    drop_mission_key: "0,0,560047:1"
+    mission_group_id: 404
+    open_mission_keys: 560037:1
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
@@ -111924,6 +112099,41 @@
     limit_vehicle: 1
   }
   {
+    id: 560107
+    duplicate_type: 1002
+    integration_switch: 2-3;1-1;4-40:80:160
+    campaign: -404
+    sub: 1892
+    if_emergency: -1
+    name: 裝甲突擊-戰術人型機甲31
+    difficulty: 50000
+    recommend_gun_level: 120
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 1
+    expect_gun_die_num: 9
+    expect_turn: 9
+    turn_duration: 360000000
+    turn_limit: 2
+    limit_gun_pool: "166177"
+    limit_team: "-1"
+    map_res_name: OPS69_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#00000000"
+    drop_mission_key: "0,0,560107:1"
+    mission_group_id: 404
+    open_mission_keys: 56012600:1
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
+    limit_sangvis: -1
+    lose_type: "500000"
+    restart_hide: 1
+    daily_demand: 3:2,1
+    limit_vehicle: 1
+  }
+  {
     id: 560111
     duplicate_type: 1002
     integration_switch: 2-3;1-1;4-40:80:160
@@ -112134,6 +112344,41 @@
     limit_vehicle: 1
   }
   {
+    id: 560117
+    duplicate_type: 1002
+    integration_switch: 2-3;1-1;4-40:80:160
+    campaign: -404
+    sub: 1893
+    if_emergency: -1
+    name: 裝甲突擊-戰術人型機甲32
+    difficulty: 50000
+    recommend_gun_level: 120
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 1
+    expect_gun_die_num: 9
+    expect_turn: 9
+    turn_duration: 360000000
+    turn_limit: 2
+    limit_gun_pool: "166177"
+    limit_team: "-1"
+    map_res_name: OPS69_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#00000000"
+    drop_mission_key: "0,0,560117:1"
+    mission_group_id: 404
+    open_mission_keys: 560107:1
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
+    limit_sangvis: -1
+    lose_type: "500000"
+    restart_hide: 1
+    daily_demand: 3:2,1
+    limit_vehicle: 1
+  }
+  {
     id: 560121
     duplicate_type: 1002
     integration_switch: 2-3;1-1;4-40:80:160
@@ -112333,6 +112578,41 @@
     fog_color: "#00000000"
     mission_group_id: 404
     open_mission_keys: 560126:1
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
+    limit_sangvis: -1
+    lose_type: "500000"
+    restart_hide: 1
+    daily_demand: 3:2,1
+    limit_vehicle: 1
+  }
+  {
+    id: 560127
+    duplicate_type: 1002
+    integration_switch: 2-3;1-1;4-40:80:160
+    campaign: -404
+    sub: 1894
+    if_emergency: -1
+    name: 裝甲突擊-戰術人型機甲33
+    difficulty: 50000
+    recommend_gun_level: 120
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 1
+    expect_gun_die_num: 9
+    expect_turn: 9
+    turn_duration: 360000000
+    turn_limit: 2
+    limit_gun_pool: "166177"
+    limit_team: "-1"
+    map_res_name: OPS69_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#00000000"
+    drop_mission_key: "0,0,560127:1"
+    mission_group_id: 404
+    open_mission_keys: 560117:1
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
@@ -112553,6 +112833,41 @@
     limit_vehicle: 1
   }
   {
+    id: 560137
+    duplicate_type: 1002
+    integration_switch: 2-3;1-1;4-40:80:160
+    campaign: -404
+    sub: 1895
+    if_emergency: -1
+    name: 裝甲突擊-戰術人型機甲34
+    difficulty: 50000
+    recommend_gun_level: 120
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 1
+    expect_gun_die_num: 9
+    expect_turn: 9
+    turn_duration: 360000000
+    turn_limit: 2
+    limit_gun_pool: "166177"
+    limit_team: "-1"
+    map_res_name: OPS69_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#00000000"
+    drop_mission_key: "0,0,560137:1"
+    mission_group_id: 404
+    open_mission_keys: 560127:1
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
+    limit_sangvis: -1
+    lose_type: "500000"
+    restart_hide: 1
+    daily_demand: 3:2,1
+    limit_vehicle: 1
+  }
+  {
     id: 560141
     duplicate_type: 1002
     integration_switch: 2-3;1-1;4-40:80:160
@@ -112753,6 +113068,41 @@
     drop_mission_key: "0,0,560126:1"
     mission_group_id: 404
     open_mission_keys: 560146:1
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"
+    limit_sangvis: -1
+    lose_type: "500000"
+    restart_hide: 1
+    daily_demand: 3:2,1
+    limit_vehicle: 1
+  }
+  {
+    id: 560147
+    duplicate_type: 1002
+    integration_switch: 2-3;1-1;4-40:80:160
+    campaign: -404
+    sub: 1896
+    if_emergency: -1
+    name: 裝甲突擊-戰術人型機甲35
+    difficulty: 50000
+    recommend_gun_level: 120
+    exp_parameter: 60
+    type: "3"
+    enemy_ai_type: 1
+    expect_gun_die_num: 9
+    expect_turn: 9
+    turn_duration: 360000000
+    turn_limit: 2
+    limit_gun_pool: "166177"
+    limit_team: "-1"
+    map_res_name: OPS69_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#00000000"
+    drop_mission_key: "0,0,560147:1"
+    mission_group_id: 404
+    open_mission_keys: 560137:1
     round_config: 1:1,2:2,3:3
     limit_squad: -1
     difficulty_recommend: "50000,120;50000,120;0,0;0,0;100000,0"

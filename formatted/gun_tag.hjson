@@ -297,7 +297,7 @@
     id: 143
     tag: 前排殺傷
     tag_type: 1
-    description: 該人形普攻或技能可以優先攻擊距離最近的敵方後排單位。
+    description: 該單位普攻或技能可以優先攻擊距離最近的敵方前排單位。
     is_show: 1
   }
   {
