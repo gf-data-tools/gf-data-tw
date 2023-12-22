@@ -829,8 +829,6 @@ COMMON,1817,機動裝甲擁有數,,0
 COMMON,1818,部隊規模,,0
 COMMON,1819,支援範圍,,0
 COMMON,1820,夜戰視野,,0
-COMMON,1821,未拥有此类型(todo),,0
-COMMON,1822,©Shirow Masamune, Production I.G/KODANSHA/GITS2045(todo),,0
 BATTLE,10000,撤退,,0
 BATTLE,10001,全體撤退,,0
 BATTLE,10002,WITHDRAW,,0
@@ -1035,7 +1033,6 @@ BATTLE,10206,該單位無法進行拖動操作。,,0
 BATTLE,10207,冷卻時間:無,,0
 BATTLE,10208,前置冷卻:無,,0
 BATTLE,10209,模拟作战扫荡奖励详情(todo),,0
-BATTLE,10210,道具不足，不可扫荡(todo),,0
 CARNIVAL,11000,進度,,0
 CARNIVAL,11001,領取獎勵,,0
 CARNIVAL,11002,GETREWARD,,0
@@ -2667,6 +2664,7 @@ FACTORY,32337,組件回收,,0
 FACTORY,32338,組件強化,,0
 FACTORY,32339,所裝單位正在作戰中，無法強化。,,0
 FACTORY,32340,所裝單位正在作戰中，無法校準。,,0
+FACTORY,32341,回歸活動截止時間：,,0
 DEVELOP,33000,已達人形床位最大上限，請及時清理！,,0
 DEVELOP,33001,使用該服務需支付,,0
 DEVELOP,33002,<color=#76DFCEFF>快速製造契約</color>X,,0
@@ -3691,7 +3689,7 @@ MISSIONSELECTION,40487,是否要花費{0}點基礎勢能，來進行{1}次戰役
 MISSIONSELECTION,40488,完成了{0}次掃蕩，獲取下列道具,,0
 MISSIONSELECTION,40489,已達到支援上限，無法添加,,0
 MISSIONSELECTION,40490,生命值(todo),,0
-MISSIONSELECTION,40491,到达MAX还需{0}(todo),,0
+MISSIONSELECTION,40491,到达MAX还需(todo),,0
 MISSIONSELECTION,40492,暫無技能,,0
 MISSIONSELECTION,40493,範圍,,0
 MISSIONSELECTION,40494,妖精技能(todo),,0
@@ -3706,10 +3704,6 @@ MISSIONSELECTION,40502,当前载具处于维修中(todo),,0
 MISSIONSELECTION,40503,当前战斗资源不足，无法补给(todo),,0
 MISSIONSELECTION,40504,当前移动消耗：<color=#FFB400FF>{0}</color>能源(todo),,0
 MISSIONSELECTION,40505,狙击战(todo),,0
-MISSIONSELECTION,40506,当前无梯队或单位被选中(todo),,0
-MISSIONSELECTION,40507,代理规划(todo),,0
-MISSIONSELECTION,40508,激活装甲(todo),,0
-MISSIONSELECTION,40509,*点击昼、夜标识激活各梯队、单位的代理规划状态(todo),,0
 REINFORCEMENT,50000,選擇角色,,0
 REINFORCEMENT,50001,未解鎖,,0
 REINFORCEMENT,50002,LOCKED,,0
@@ -6304,7 +6298,6 @@ BEGINNERGUIDE,150132,機動裝甲部隊關卡功能按鈕,,0
 BEGINNERGUIDE,150133,機動裝甲部隊車組成員和組件編成資訊,,0
 BEGINNERGUIDE,150134,機動裝甲部隊火力支援技能開關,,0
 BEGINNERGUIDE,150135,生命：機動裝甲剩餘/最大生命值。//n彈藥&口糧：作戰、攻擊建築、待機等行為需要消耗的資源。//n能源：移動需要消耗的資源。//n備用能源：每回合開始時，會自動使用備用能源來補充能源。,,0
-BEGINNERGUIDE,150136,点击确定按钮，保存编队。(todo),,0
 SPECIALFORGLOBAL,160000,彈量,,0
 SPECIALFORGLOBAL,160001,目標,,0
 SPECIALFORGLOBAL,160002,夜戰,,0
@@ -7876,8 +7869,6 @@ FORMATION,270074,該單位為第一梯隊隊長，無法編入。,,0
 FORMATION,270075,分享码梯队(todo),,0
 FORMATION,270076,当前梯队(todo),,0
 FORMATION,270077,请输入正确的梯队分享码！(todo),,0
-FORMATION,270078,复制成功(todo),,0
-FORMATION,270079,不可以分享没有成员的梯队(todo),,0
 MINIGAME,280001,回合,,0
 MINIGAME,280002,正在尋找房間，請稍等......,,0
 MINIGAME,280003,已等待,,0
@@ -8630,7 +8621,3 @@ VEHICLE,290176,同类型已安装(todo),,0
 VEHICLE,290177,暂无可用皮肤(todo),,0
 VEHICLE,290178,当前暂无部署梯队(todo),,0
 VEHICLE,290179,装甲风格无法适配该组件，已自动脱下(todo),,0
-VEHICLE,290180,不适配当前机动装甲(todo),,0
-VEHICLE,290181,1.组件或<color=#FFB400FF>组件加工包</color>可提升选定组件的<color=#FFB400FF>强化等级</color>//n2.组件加工包可通过<color=#FFB400FF>回收</color>组件获取//n3.使用已强化的组件，可额外继承其<color=#FFB400FF>80%</color>的开发值(todo),,0
-VEHICLE,290182,至少选择一个可用机动装甲(todo),,0
-VEHICLE,290183,至少选择一个可用火力小队(todo),,0

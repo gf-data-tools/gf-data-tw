@@ -13762,6 +13762,7 @@
     creation_order: "10647"
     effect_order: "1"
     effect_duration: "1"
+    summon_order: "432701"
   }
   {
     id: 4001

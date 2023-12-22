@@ -8336,6 +8336,80 @@
     class_id: 94
   }
   {
+    id: 9001
+    name: M26-MASS-星願嚮導
+    fit_gun: 351
+    voice: 19
+    dialog: 休息好了嗎，指揮官？是時候去下個市集「血拼」啦！……走不動了？真的真的走不動了？那好吧，等下要緊緊扶著我哦！
+    illustrator_cv: 多爾,柚木涼香,
+    order: 121
+    class_id: 95
+    skin_source: 2
+  }
+  {
+    id: 9003
+    name: SPAS-15-茸白派對
+    fit_gun: 366
+    voice: 19
+    dialog: 沒想到指揮官這麼期待今晚的派對啊……作為早到一小時的獎勵，你可以挑選任意一件物品作為你的禮物哦~當然，包括我~
+    order: 121
+    class_id: 95
+    skin_source: 2
+  }
+  {
+    id: 9004
+    name: TKB-408-寫生平安果
+    fit_gun: 340
+    voice: 19
+    dialog: 剛買的蘋果和麵包成色不錯吧？嘿嘿，這可是我用來練習噴漆的新參照物！……在哪裡練習？當然是你的指揮室啦！
+    illustrator_cv: 星迴,桑原由氣,
+    order: 121
+    class_id: 95
+    skin_source: 2
+  }
+  {
+    id: 9005
+    name: Mk23-獻禮紅絲絨
+    fit_gun: 99
+    voice: 19
+    dialog: Darling快來看！愛的魔法會讓普通的奶油蛋糕變成奪目的紅色哦~ 想要魔法永不失效？那就乖乖吃下去吧~
+    illustrator_cv: YeoNwa,赤尾ひかる,
+    order: 121
+    class_id: 95
+    skin_source: 2
+  }
+  {
+    id: 9006
+    name: MP5-早安晨雀
+    fit_gun: 26
+    voice: 19
+    dialog: 指揮官，再不起床，門口的禮物就讓大家分完囉——嗯？這就開門了？！只是小玩笑而已，我有在幫你好好守護它們啦！
+    gift_position: "-32.8,-52"
+    illustrator_cv: 小星,向山直美,
+    order: 121
+    class_id: 95
+    skin_source: 1
+  }
+  {
+    id: 9007
+    name: Zas M76-馴鹿軼事
+    fit_gun: 284
+    voice: 19
+    dialog: 哇哦~是超大號布袋！謝謝指揮官！有了它，這些禮物就能通通打包進去，送給更多好孩子啦！當然也少不了您的那份！
+    order: 121
+    class_id: 95
+    skin_source: 2
+  }
+  {
+    id: 9008
+    name: PPSh-41-純真花環
+    fit_gun: 21
+    voice: 19
+    dialog: 「願幸福無始無終，如松柏般四季常青」……沒想到指揮官和我一樣，喜歡這種傳統的裝飾呢。太好了，看來我沒挑錯禮物！
+    order: 121
+    class_id: 95
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57

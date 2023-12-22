@@ -13699,6 +13699,69 @@
     rank: 1
   }
   {
+    id: 2399
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_M26MASS
+    item_name: M26-MASS-星願嚮導
+    introduction: M26-MASS-星願嚮導
+    rank: 1
+  }
+  {
+    id: 2400
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_SPAS15
+    item_name: SPAS-15-茸白派對
+    introduction: SPAS-15-茸白派對
+    rank: 1
+  }
+  {
+    id: 2401
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_TKB408
+    item_name: TKB-408-寫生平安果
+    introduction: TKB-408-寫生平安果
+    rank: 1
+  }
+  {
+    id: 2402
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_Mk23
+    item_name: Mk23-獻禮紅絲絨
+    introduction: Mk23-獻禮紅絲絨
+    rank: 1
+  }
+  {
+    id: 2403
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_MP5
+    item_name: MP5-早安晨雀
+    introduction: MP5-早安晨雀
+    rank: 1
+  }
+  {
+    id: 2404
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_ZasM76
+    item_name: Zas M76-馴鹿軼事
+    introduction: Zas M76-馴鹿軼事
+    rank: 1
+  }
+  {
+    id: 2405
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_PPsh41
+    item_name: PPSh-41-純真花環
+    introduction: PPSh-41-純真花環
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -17352,6 +17415,24 @@
     rank: 1
   }
   {
+    id: 110067
+    type: 4
+    arg: "110067"
+    code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
+    id: 110068
+    type: 4
+    arg: "110068"
+    code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -20570,6 +20651,26 @@
     item_name: 普通級組件箱
     introduction: 打開後可以獲取組件
     rank: 2
+    sort: -1
+  }
+  {
+    id: 1800006
+    type: 15
+    arg: "1800006"
+    code: package_random
+    item_name: 精密級重武通用組件箱
+    introduction: 打開後必定獲取5星重武器/通用組件
+    rank: 5
+    sort: -1
+  }
+  {
+    id: 1800007
+    type: 15
+    arg: "1800007"
+    code: package_random
+    item_name: 精密級輕武通用組件箱
+    introduction: 打開後必定獲取5星輕武器/通用組件
+    rank: 5
     sort: -1
   }
   {

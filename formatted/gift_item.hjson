@@ -9776,6 +9776,104 @@
     normal_description: 贈送獲得相應好感度
   }
   {
+    id: 9001
+    name: M26-MASS-星願嚮導
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 351
+    skin: 9001
+    poster: 39001
+    code: gift_bundle_Christmas2023_M26MASS
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 9003
+    name: SPAS-15-茸白派對
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 366
+    skin: 9003
+    poster: 39003
+    code: gift_bundle_Christmas2023_SPAS15
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 9004
+    name: TKB-408-寫生平安果
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 340
+    skin: 9004
+    poster: 39004
+    code: gift_bundle_Christmas2023_TKB408
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 9005
+    name: Mk23-獻禮紅絲絨
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 99
+    skin: 9005
+    poster: 39005
+    code: gift_bundle_Christmas2023_Mk23
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 9006
+    name: MP5-早安晨雀
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 26
+    skin: 9006
+    poster: 39006
+    code: gift_bundle_Christmas2023_MP5
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 9007
+    name: Zas M76-馴鹿軼事
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 284
+    skin: 9007
+    poster: 39007
+    code: gift_bundle_Christmas2023_ZasM76
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
+    id: 9008
+    name: PPSh-41-純真花環
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 21
+    skin: 9008
+    poster: 39008
+    code: gift_bundle_Christmas2023_PPsh41
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    normal_description: 贈送獲得相應好感度
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     type: 2

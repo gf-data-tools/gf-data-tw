@@ -53460,6 +53460,16 @@
     boss_available: 1
   }
   {
+    id: 9375
+    name: 触发
+    conflict_type: 2398
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "8"
+    boss_available: 1
+  }
+  {
     id: 10000
     name: 主动技能用
     conflict_type: 101
