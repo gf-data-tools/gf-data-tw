@@ -828,6 +828,38 @@
       '''
   }
   {
+    item_id: 1500109
+    type: 1
+    prize_id: 140001
+    due_time: 2024/02/26 00:00:00
+    due_prize_id: 140016
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1500110
+    type: 1
+    prize_id: 140004
+    due_time: 2024/02/26 00:00:00
+    due_prize_id: 140016
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1500111
+    type: 2
+    drop_package_id: 2187
+    due_time: 2024/02/26 00:00:00
+    due_prize_id: 140016
+    present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
+  }
+  {
+    item_id: 1500112
+    type: 2
+    drop_package_id: 945
+    due_time: 2024/02/26 00:00:00
+    due_prize_id: 140016
+    present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089
@@ -900,6 +932,30 @@
     present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
   }
   {
+    item_id: 1700010
+    type: 1
+    prize_id: 150098
+    due_time: 2024/03/03  00:00:00
+    due_prize_id: 140073
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700011
+    type: 1
+    prize_id: 150099
+    due_time: 2024/03/03  00:00:00
+    due_prize_id: 140074
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700012
+    type: 1
+    prize_id: 150100
+    due_time: 2024/03/03  00:00:00
+    due_prize_id: 140075
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
     item_id: 1800001
     type: 2
     drop_package_id: 2000001
@@ -932,6 +988,20 @@
     type: 2
     drop_package_id: 2000005
     present_info: 普通級組件箱，打開後可以獲取組件
+    function: 30
+  }
+  {
+    item_id: 1800006
+    type: 2
+    drop_package_id: 2000006
+    present_info: 精密級重武通用組件箱,打開後必定獲取5星重武器/通用組件
+    function: 30
+  }
+  {
+    item_id: 1800007
+    type: 2
+    drop_package_id: 2000007
+    present_info: 精密級輕武通用組件箱,打開後必定獲取5星輕武器/通用組件
     function: 30
   }
   {

@@ -1233,4 +1233,52 @@
     obtain_id: "3100"
     description: 特別救援行動G
   }
+  {
+    obtain_id: "3101"
+    description: 2024年1月簽到獎勵
+  }
+  {
+    obtain_id: "3102"
+    description: 2024年2月簽到獎勵
+  }
+  {
+    obtain_id: "3103"
+    description: 2024年3月簽到獎勵
+  }
+  {
+    obtain_id: "3104"
+    description: 2024年4月簽到獎勵
+  }
+  {
+    obtain_id: "3105"
+    description: 2024年5月簽到獎勵
+  }
+  {
+    obtain_id: "3106"
+    description: 2024年6月簽到獎勵
+  }
+  {
+    obtain_id: "3107"
+    description: 2024年7月簽到獎勵
+  }
+  {
+    obtain_id: "3108"
+    description: 2024年8月簽到獎勵
+  }
+  {
+    obtain_id: "3109"
+    description: 2024年9月簽到獎勵
+  }
+  {
+    obtain_id: "3110"
+    description: 2024年10月簽到獎勵
+  }
+  {
+    obtain_id: "3111"
+    description: 2024年11月簽到獎勵
+  }
+  {
+    obtain_id: "3112"
+    description: 2024年12月簽到獎勵
+  }
 ]
