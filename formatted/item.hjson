@@ -20658,66 +20658,60 @@
     type: 15
     arg: "1700004"
     code: package_choose
-    item_name: item-11700004
-    introduction: item-21700004
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31700004
   }
   {
     id: 1700005
     type: 15
     arg: "1700005"
     code: package_choose
-    item_name: item-11700005
-    introduction: item-21700005
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31700005
   }
   {
     id: 1700006
     type: 15
     arg: "1700006"
     code: package_choose
-    item_name: item-11700006
-    introduction: item-21700006
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31700006
   }
   {
     id: 1700007
     type: 15
     arg: "1700007"
     code: package_choose
-    item_name: item-11700007
-    introduction: item-21700007
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31700007
   }
   {
     id: 1700008
     type: 15
     arg: "1700008"
     code: package_choose
-    item_name: item-11700008
-    introduction: item-21700008
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31700008
   }
   {
     id: 1700009
     type: 15
     arg: "1700009"
     code: package_choose
-    item_name: item-11700009
-    introduction: item-21700009
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31700009
   }
   {
     id: 1800001
@@ -20774,22 +20768,20 @@
     type: 15
     arg: "1800006"
     code: package_random
-    item_name: item-11800006
-    introduction: item-21800006
+    item_name: 精密級重武通用組件箱
+    introduction: 打開後必定獲取5星重武器/通用組件
     rank: 5
     sort: -1
-    detail_introduction: item-31800006
   }
   {
     id: 1800007
     type: 15
     arg: "1800007"
     code: package_random
-    item_name: item-11800007
-    introduction: item-21800007
+    item_name: 精密級輕武通用組件箱
+    introduction: 打開後必定獲取5星輕武器/通用組件
     rank: 5
     sort: -1
-    detail_introduction: item-31800007
   }
   {
     id: 1800011
