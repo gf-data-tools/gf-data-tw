@@ -13798,6 +13798,69 @@
     rank: 1
   }
   {
+    id: 2410
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_98K
+    item_name: Kar98k-初午稻荷福
+    introduction: Kar98k-初午稻荷福
+    rank: 1
+  }
+  {
+    id: 2411
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_M110
+    item_name: M110-御魂四方紅
+    introduction: M110-御魂四方紅
+    rank: 1
+  }
+  {
+    id: 2412
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_ZB26
+    item_name: ZB-26-夜銜蟬
+    introduction: ZB-26-夜銜蟬
+    rank: 1
+  }
+  {
+    id: 2413
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_APC556
+    item_name: APC556-藍月紫藤
+    introduction: APC556-藍月紫藤
+    rank: 1
+  }
+  {
+    id: 2414
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_C14
+    item_name: C14-歲神狛使
+    introduction: C14-歲神狛使
+    rank: 1
+  }
+  {
+    id: 2415
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_HK45
+    item_name: HK45-柑橘清香
+    introduction: HK45-柑橘清香
+    rank: 1
+  }
+  {
+    id: 2416
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2024_M1
+    item_name: M1加蘭德-冬季鹿鳴
+    introduction: M1加蘭德-冬季鹿鳴
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -14749,7 +14812,7 @@
     id: 9033
     type: 1
     arg: "9033"
-    code: props_Component1
+    code: props_paper
     item_name: 塵封的設計圖
     introduction: 破舊紙片，可能是前遺跡開發時代的紙質工業藍圖，似乎描繪著大型裝甲單位，內容已無法辨識。
     rank: 1
@@ -14759,7 +14822,7 @@
     id: 9034
     type: 1
     arg: "9034"
-    code: props_Component2
+    code: props_Component1
     item_name: 錐形零件
     introduction: 使用未知金屬材質製造，特性與用途尚不明確，請勿直接接觸。
     rank: 1
@@ -14769,7 +14832,7 @@
     id: 9035
     type: 1
     arg: "9035"
-    code: props_core
+    code: props_Component2
     item_name: 環形零件
     introduction: 造型特異的零件，有強烈信號發出，當前無法完整解析信號參數。
     rank: 1
@@ -14779,7 +14842,7 @@
     id: 9036
     type: 1
     arg: "9036"
-    code: props_chipset
+    code: props_core
     item_name: 精密機械核心
     introduction: 以當前技術無法拆分其結構，唯一能確定的是內部蓄有極大能量，危險係數高。
     rank: 1
@@ -14789,7 +14852,7 @@
     id: 9037
     type: 1
     arg: "9037"
-    code: props_dataimage
+    code: props_chipset
     item_name: 複合晶片組
     introduction: 從應用的光電技術來看，難以想象是多年前的產物。遺憾的是，無法從破損的晶片中讀取完整數據。
     rank: 1
@@ -14799,7 +14862,7 @@
     id: 9038
     type: 1
     arg: "9038"
-    code: props_paper
+    code: props_dataimage
     item_name: 殘存數據影像
     introduction: 通過小型全息設備輸出的未知地形影像，位置數據缺失，目前仍在更進一步解析中。
     rank: 1
@@ -14992,6 +15055,15 @@
     id: 10710
     type: 18
     arg: "10710"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10711
+    type: 18
+    arg: "10711"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
@@ -20707,6 +20779,36 @@
     id: 1700009
     type: 15
     arg: "1700009"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700010
+    type: 15
+    arg: "1700010"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700011
+    type: 15
+    arg: "1700011"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700012
+    type: 15
+    arg: "1700012"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

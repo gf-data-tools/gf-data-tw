@@ -8410,6 +8410,79 @@
     class_id: 95
   }
   {
+    id: 10001
+    name: Kar98k-初午稻荷福
+    fit_gun: 46
+    voice: 15
+    dialog: 肅靜，御前不得無禮……自然，等祭禮結束之後再小酌一杯吧，指揮官——記得帶一份豆皮壽司。
+    illustrator_cv: RIRE,中惠光城,
+    order: 122
+    class_id: 96
+    skin_source: 1
+  }
+  {
+    id: 10002
+    name: M110-御魂四方紅
+    fit_gun: 381
+    voice: 15
+    dialog: 正月好，指揮官，現在站在你面前的是將烘焙技藝提升到正月plus版的超級甜品師——也就是我！剛出爐的鏡餅，嘗嘗吧！
+    gift_position: "-86,84"
+    order: 122
+    class_id: 96
+    skin_source: 2
+  }
+  {
+    id: 10004
+    name: ZB-26-夜銜蟬
+    fit_gun: 307
+    voice: 15
+    dialog: ……原來是指揮官呀，這邊的東西我已經整理好了，正在休息呢。這孩子？不覺得她很可愛嗎？
+    order: 122
+    class_id: 96
+    skin_source: 1
+  }
+  {
+    id: 10005
+    name: APC556-藍月紫藤
+    fit_gun: 343
+    voice: 15
+    dialog: 老闆？……請再稍等一下，我還沒有做完——我想在基地的各處掛上這樣的花束，這樣的話，各位只要看到它，心情也會變好吧。
+    order: 122
+    class_id: 96
+    skin_source: 1
+  }
+  {
+    id: 10006
+    name: C14-歲神狛使
+    fit_gun: 308
+    voice: 15
+    dialog: 啊……唔，咕……咳，差點噎死了……被你發現了~指揮官？狩獵者也要休息的嘛！幫我保密啦，來，分你一塊蝦？
+    order: 122
+    class_id: 96
+  }
+  {
+    id: 10007
+    name: HK45-柑橘清香
+    fit_gun: 167
+    voice: 15
+    dialog: 這位客人~這是你點的橘子——什麼？沒點過這個？哎呀，不可以這樣哦，因為服務生太迷人就故意想辦法搭訕可不好，指揮官~
+    illustrator_cv: 巫目目,藤井彩加,
+    order: 122
+    class_id: 96
+    skin_source: 1
+  }
+  {
+    id: 10008
+    name: M1加蘭德-冬季鹿鳴
+    fit_gun: 34
+    voice: 15
+    dialog: 貴安，指揮官，您今天的氣色看起來也十分不錯呢……這樣說話有些奇怪？真可惜，我還覺得挺適合我的呢。
+    illustrator_cv: Alize,種田梨沙,
+    order: 122
+    class_id: 96
+    skin_source: 1
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57
@@ -8434,6 +8507,7 @@
     fit_gun: 253
     voice: 4
     dialog: 秋天這樣涼爽的時節，連馬兒也耐不住無聊，想要出去走走呢。如果指揮官恰好有空的話……不如和我一起陪馬兒玩耍吧？
+    gift_position: "-410.3,113.7"
     order: 97
   }
   {

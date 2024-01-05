@@ -45068,6 +45068,10 @@
     targettrain_cancollect: 1
   }
   {
+    id: 930028
+    enemy_leader: 900661
+  }
+  {
     id: 940001
     enemy_leader: 11008
     targettrain_cancollect: 1

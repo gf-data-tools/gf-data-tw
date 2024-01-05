@@ -163,4 +163,22 @@
     group_skill: 3:759289
     fit_gun: "20088"
   }
+  {
+    id: 19
+    name: 林間行動
+    des: 為NTW-20量身訂製的套裝，不管是作戰還是飆車都非常拉風。
+    code: EgroupNTW20
+    equip_unit: "170,0,371"
+    group_skill: 2:759295
+    fit_gun: "20053"
+  }
+  {
+    id: 20
+    name: 霍克隊長
+    des: 為97式霰量身訂製的套裝，凝聚了正義的力量，用來驅逐任何邪惡。
+    code: Egroup97typeS
+    equip_unit: "193,372,0"
+    group_skill: 2:759300
+    fit_gun: "20161"
+  }
 ]
