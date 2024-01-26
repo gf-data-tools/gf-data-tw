@@ -196,4 +196,29 @@
     name: 雷射壓制裝置
     component_type: 3
   }
+  {
+    id: 144
+    name: 車載霰彈槍
+    component_type: 2
+  }
+  {
+    id: 145
+    name: 小型迫擊炮
+    component_type: 1
+  }
+  {
+    id: 146
+    name: 雷射測距儀
+    component_type: 3
+  }
+  {
+    id: 147
+    name: 迷彩網
+    component_type: 4
+  }
+  {
+    id: 148
+    name: 頂部格柵裝甲
+    component_type: 4
+  }
 ]

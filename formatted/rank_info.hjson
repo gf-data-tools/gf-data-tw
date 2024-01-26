@@ -1207,6 +1207,21 @@
     sub_rank_name: 積分
   }
   {
+    id: "303"
+    name: 馬蜂窩PLUS常駐
+    type: "10"
+    sub_type: "10508"
+    refresh: test
+    title: <馬蜂窩+>常駐積分榜
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: 積分
+  }
+  {
     id: "1001"
     name: 佐賀應援榜
     type: "1001"

@@ -53480,6 +53480,106 @@
     boss_available: 1
   }
   {
+    id: 9403
+    name: g3装备1
+    conflict_type: 2403
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9404
+    name: g3装备2
+    conflict_type: 2403
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9405
+    name: g3套装
+    conflict_type: 2404
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9406
+    name: m1911装备1
+    conflict_type: 2404
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9407
+    name: m1911装备2
+    conflict_type: 2405
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9408
+    name: m1911套装
+    conflict_type: 2405
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9409
+    name: G3提升伤害技能
+    conflict_type: 2406
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "30"
+    boss_available: 1
+    forced_skill: "759314"
+  }
+  {
+    id: 9410
+    name: G3提升伤害
+    conflict_type: 2406
+    max_tier: 1
+    type: 101
+    duration_type: 1
+    duration: "300"
+    boss_available: 1
+    pow_number: "110"
+    trigger_creation_id: "201"
+    is_form_play: 1
+    buff_animation: YellowFlash
+    buff_description: PowBuffText
+  }
+  {
+    id: 9411
+    name: 火力下降
+    description: 火力下降
+    conflict_type: 2406
+    max_tier: 1
+    type: 201
+    duration_type: 1
+    duration: "150"
+    boss_available: 1
+    pow_number: "70"
+    trigger_creation_id: "205"
+    is_form_play: 1
+  }
+  {
     id: 10000
     name: 主动技能用
     conflict_type: 101
@@ -55110,6 +55210,170 @@
     duration: "-1"
     boss_available: 1
     forced_skill: "770127"
+  }
+  {
+    id: 15138
+    name: 伤害提升
+    conflict_type: 3041
+    max_tier: 1
+    type: 101
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+    pow_number: *201
+    trigger_creation_id: "201"
+    is_form_play: 1
+    buff_animation: YellowFlash
+    buff_description: PowBuffText
+  }
+  {
+    id: 15139
+    name: 命中提升
+    conflict_type: 3041
+    max_tier: 1
+    type: 103
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+    hit_number: *202
+    trigger_creation_id: "203"
+    is_form_play: 1
+    buff_animation: YellowFlash
+    buff_description: HitBuffText
+  }
+  {
+    id: 15140
+    name: 荫蔽效果
+    conflict_type: 3041
+    max_tier: 1
+    type: 402
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    fix_damage: 1000009068
+  }
+  {
+    id: 15141
+    name: 伤害次数监视
+    conflict_type: 3041
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    watch_id: 3008
+  }
+  {
+    id: 15142
+    name: 伤害次数
+    conflict_type: 3041
+    max_tier: 99
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 15143
+    name: 命中提升
+    conflict_type: 3042
+    max_tier: 1
+    type: 103
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+    hit_number: *201
+    trigger_creation_id: "201"
+    is_form_play: 1
+    buff_animation: YellowFlash
+    buff_description: HitBuffText
+  }
+  {
+    id: 15144
+    name: 回避下降10%5秒
+    conflict_type: 3042
+    max_tier: 5
+    type: 202
+    duration_type: 1
+    duration: "150"
+    boss_available: 1
+    dodge_number: "90"
+    trigger_creation_id: "205"
+    is_form_play: 1
+  }
+  {
+    id: 15145
+    name: 护甲下降10%5秒
+    conflict_type: 3042
+    max_tier: 5
+    type: 208
+    duration_type: 1
+    duration: "150"
+    boss_available: 1
+    armor_reduce_number: "90"
+    trigger_creation_id: "205"
+    is_form_play: 1
+  }
+  {
+    id: 15146
+    name: 命中单位
+    conflict_type: 3042
+    max_tier: 99
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 15147
+    name: 伤害提升3%
+    conflict_type: 3042
+    max_tier: 10
+    type: 101
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    pow_number: *201
+    trigger_creation_id: "201"
+    is_form_play: 1
+    buff_animation: YellowFlash
+    buff_description: PowBuffText
+  }
+  {
+    id: 15148
+    name: 命中提升3%
+    conflict_type: 3043
+    max_tier: 10
+    type: 103
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    hit_number: *202
+    trigger_creation_id: "201"
+    is_form_play: 1
+    buff_animation: YellowFlash
+    buff_description: HitBuffText
+  }
+  {
+    id: 15150
+    name: 解放者套装
+    conflict_type: 3044
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 15151
+    name: 解放者套装暴击
+    conflict_type: 3044
+    max_tier: 1
+    type: 806
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    critical_number: "10000"
   }
   {
     id: 37001

@@ -758,6 +758,13 @@
     content: 4d3630f10d2bea1d_draw_231011074.jpg,eec1d4e70034335c_draw_231011075.jpg
   }
   {
+    id: 1007
+    type: 2
+    title: 分享編隊
+    sub_title: 分享編隊給其他指揮官，或是快速套用其他指揮官分享的編隊。
+    content: 4b08a55400a984a2_draw_240125015.jpg,b634025d61fdc383_draw_240125016.jpg
+  }
+  {
     id: 1100
     type: 1
     child_ids: "1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113,1114"
@@ -1483,7 +1490,7 @@
     type: 2
     title: 代理作戰
     sub_title: 格里芬AI代理作戰系統試運行中。
-    content: 4891fd3634eedd47_draw_230425034.jpg
+    content: 4891fd3634eedd47_draw_230425034.jpg,56e4fdc02c867f74_draw_240125013.jpg,e44e8890d10c5f90_draw_240125014.jpg
     function_control_id: 29
   }
   {
@@ -1499,7 +1506,7 @@
     type: 2
     title: 裝甲突擊
     sub_title: 完成結晶帶難度的首領點位可以獲得裝甲突擊關卡挑戰資格。
-    content: 8006eb5d6154cebd_draw_231011104.jpg,ef1d5bd324a480a0_draw_231011083.jpg,c3a92dd7d02aad0c_draw_231011107.jpg,2e48b4ea9608730e_draw_231011082.jpg
+    content: 8006eb5d6154cebd_draw_231011104.jpg,ef1d5bd324a480a0_draw_231011083.jpg,c3a92dd7d02aad0c_draw_231011107.jpg,2e48b4ea9608730e_draw_231011082.jpg,f28c4ecd067797c6_draw_240125009.jpg
     function_control_id: 30
   }
   {
@@ -1573,6 +1580,14 @@
     title: 獨特：戰術人型機甲
     sub_title: 戰術人形機甲的特殊功能介紹。
     content: e67e75cbfb85672f_draw_231011059.jpg
+    function_control_id: 30
+  }
+  {
+    id: 2209
+    type: 2
+    title: 裝甲風格商城
+    sub_title: 在裝甲風格商城自定義您的機動裝甲風格。
+    content: 7adf94cc24d78bc2_draw_240125010.jpg,8bef5a6015a47b1d_draw_240125011.jpg,cf7de1c4378ac87d_draw_240125012.jpg
     function_control_id: 30
   }
 ]

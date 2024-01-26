@@ -1144,6 +1144,15 @@
     is_hide_info: 1
   }
   {
+    id: 535
+    type: 1
+    arg: "1"
+    code: gun_material1_coin1
+    item_name: 模擬作戰基礎動能
+    introduction: 消耗基礎動能可以參與部分模擬作戰，獲得人形及妖精提升所需材料。
+    rank: 1
+  }
+  {
     id: 601
     type: 1
     arg: "1"
@@ -13861,6 +13870,24 @@
     rank: 1
   }
   {
+    id: 2432
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_VHS
+    item_name: VHS頭像
+    introduction: VHS頭像
+    rank: 1
+  }
+  {
+    id: 2433
+    type: 5
+    arg: "1"
+    code: card_friendmall_VHS
+    item_name: 名片：爆炸！無需回頭！
+    introduction: 名片：爆炸！無需回頭！
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -14446,7 +14473,7 @@
     arg: "7045"
     code: qjyd_20230901
     item_name: 傾心戀慕
-    introduction: 並非只有幻想中才有一眼望不到邊的花海，也並非只有幻想中才能走進這樣的多彩世界，它也在夢境之外，在你的身邊。
+    introduction: 如果看到對方的第0.03秒，視野中突然充滿美妙的光芒，那就是名為一見鍾情的時刻。
     rank: 1
   }
   {
@@ -14455,7 +14482,7 @@
     arg: "7046"
     code: qjyd_20230902
     item_name: 漂浮夢境
-    introduction: 最簡單的數字化情感隱藏著最純粹的心意，8位元像素便是它所能為你帶來的全部——愛來自心智底層。
+    introduction: 並非只有幻想中才有一眼望不到邊的花海，也並非只有幻想中才能走進這樣的多彩世界，它也在夢境之外，在你的身邊。
     rank: 1
   }
   {
@@ -14464,7 +14491,34 @@
     arg: "7047"
     code: qjyd_20230903
     item_name: 律動次元
-    introduction: 並非只有幻想中才有一眼望不到邊的花海，也並非只有幻想中才能走進這樣的多彩世界，它也在夢境之外，在你的身邊。
+    introduction: 最簡單的數字化情感隱藏著最純粹的心意，8位元像素便是它所能為你帶來的全部——愛來自心智底層。
+    rank: 1
+  }
+  {
+    id: 7051
+    type: 7
+    arg: "7045"
+    code: qjyd_20240101
+    item_name: 白銀時代
+    introduction: 你以為只有在夢中，才能見到銀幣如雨的情景，但仔細想想，每次揮霍花掉的數量，好像也差不太多。
+    rank: 1
+  }
+  {
+    id: 7052
+    type: 7
+    arg: "7046"
+    code: qjyd_20240102
+    item_name: 蔚藍群星
+    introduction: 高懸暗夜，閃閃發光的群星也不及我掌中璀璨。
+    rank: 1
+  }
+  {
+    id: 7053
+    type: 7
+    arg: "7047"
+    code: qjyd_20240103
+    item_name: 魔鬼的敬意
+    introduction: 從來沒有任何東西能像它一樣誘人墮落，從來沒有。
     rank: 1
   }
   {
@@ -19453,6 +19507,16 @@
     item_name: 頭像框·引火源
     introduction: 頭像框·引火源
     rank: 1
+  }
+  {
+    id: 200038
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_VHS
+    item_name: item-10200038
+    introduction: item-20200038
+    rank: 1
+    detail_introduction: item-30200038
   }
   {
     id: 900030

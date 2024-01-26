@@ -2335,7 +2335,7 @@
   }
   {
     id: 192
-    mission_id: "10017"
+    mission_id: "10017,10105"
     description: AR小隊雖然脫離險境，但帕斯卡發出了最後的請求——捕獲一架木星炮，在捕獲完成前守住鐵血的攻勢吧！
     scripts: -5-1-1,-5-1-3Round10
     campaign: -5
@@ -2343,7 +2343,7 @@
     title: 墜入兔洞
     is_util: 1
     start: -5-1-1
-    round: 10:-5-1-3Round10
+    round: 5:-5-1-3Round10
   }
   {
     id: 193
@@ -3098,13 +3098,6 @@
     campaign: -22
     bgm: BGM_Frontline
     title: 月光的盡頭EX
-  }
-  {
-    id: 260
-    mission_id: "10105"
-    campaign: -23
-    bgm: BGM_Frontline
-    title: 墜入兔洞+
   }
   {
     id: 261
@@ -12472,9 +12465,8 @@
   {
     id: 1251
     mission_id: "11497"
-    description: story_util-10001251
     campaign: -63
-    title: story_util-20001251
+    title: 秘密渦點plus
     start: -63-tips
   }
 ]

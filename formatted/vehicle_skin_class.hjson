@@ -1,0 +1,86 @@
+[
+  {
+    id: 1
+    name: 通用型-沙漠黃
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1001_set,2:Warjack_1001_set
+    desc: 為機動裝甲系統設計的沙漠黃基礎圖紙套裝，適配多種機體與組件。
+  }
+  {
+    id: 2
+    name: 通用型-城市迷彩
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1002_set,2:Warjack_1002_set
+    desc: 為機動裝甲系統設計的城市迷彩基礎圖紙套裝，適配多種機體與組件。
+  }
+  {
+    id: 3
+    name: KV-2-巨齒鯊
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1003_set
+    desc: 為主戰坦克設計的KV-2款式圖紙套裝，全套塗裝了巨齒鯊風格。
+  }
+  {
+    id: 4
+    name: KV-2-雪地迷彩
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1004_set
+    desc: 為主戰坦克設計的KV-2款式圖紙套裝，全套塗裝了雪地迷彩。
+  }
+  {
+    id: 5
+    name: 裁決-原野灰
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1005_set
+    desc: 為主戰坦克設計的裁決款式圖紙套裝，全套塗裝了原野灰風格。
+  }
+  {
+    id: 6
+    name: 裁決-雪地迷彩
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1006_set
+    desc: 為主戰坦克設計的裁決款式圖紙套裝，全套塗裝了雪地迷彩。
+  }
+  {
+    id: 7
+    name: 裁決-沙漠黃
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1007_set
+    desc: 為主戰坦克設計的裁決款式圖紙套裝，全套塗裝了沙漠黃風格。
+  }
+  {
+    id: 8
+    name: 裁決-叢林迷彩
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1008_set
+    desc: 為主戰坦克設計的裁決款式圖紙套裝，全套塗裝了叢林迷彩。
+  }
+  {
+    id: 9
+    name: TCW48-A3鋼爪
+    vehicle_ids: "1,2"
+    pic_code: 2:Warjack_1009_set
+    desc: 為機動人形裝甲設計的TCW48-A3圖紙套裝，有效減少了駕駛人形的內部灰塵。
+  }
+  {
+    id: 10
+    name: 佩加索斯
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1010_set
+    desc: 為主戰坦克設計的佩加索斯圖紙套裝，擺脫履帶的束縛是首要目標。
+  }
+  {
+    id: 11
+    name: 麒麟
+    vehicle_ids: "1,2"
+    pic_code: 1:TankM1_1011_set
+    desc: 為主戰坦克設計的麒麟款式圖紙套裝，一切都是那麼簡練又高效。
+  }
+  {
+    id: 13
+    name: AA-02M 贖罪者
+    vehicle_ids: "1,2"
+    pic_code: 2:Warjack_1013_set
+    desc: 以收繳的AA-02 負罪者為原型設計的戰術人形機甲圖紙套裝，附帶多項改良。
+  }
+]

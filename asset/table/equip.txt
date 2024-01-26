@@ -537,35 +537,35 @@ equip-40000136,
 equip-10000137,Adelhyde
 equip-20000137,迴避+<dodge>//n甜味Adelhyde$吉兒專用
 equip-30000137,飲料中的甜味成分。由BTC統一配發。
-equip-40000137,
+equip-40000137,甜味
 equip-10000138,Flanergide
 equip-20000138,迴避+<dodge>//n辣味Flanegide$吉兒專用
 equip-30000138,飲料中的辣味成分。由BTC統一配發。
-equip-40000138,
+equip-40000138,辣味
 equip-10000139,Adelhyde
 equip-20000139,迴避+<dodge>//n甜味Adelhyde$吉兒專用
 equip-30000139,飲料中的甜味成分。由BTC統一配發。
-equip-40000139,
+equip-40000139,甜味
 equip-10000140,Bronson Ext
 equip-20000140,迴避+<dodge>//n苦味BronsonExt$吉兒專用
 equip-30000140,飲料中的苦味成分。由BTC統一配發。
-equip-40000140,
+equip-40000140,苦味
 equip-10000141,Pwd Delta
 equip-20000141,迴避+<dodge>//n酸味PwdDelta$吉兒專用
 equip-30000141,飲料中的酸味成分。由BTC統一配發。
-equip-40000141,
+equip-40000141,酸味
 equip-10000142,Karmotrine
 equip-20000142,迴避+<dodge>//n酒精Karmotrine$吉兒專用
 equip-30000142,飲料中的酒精成分。由BTC統一配發。
-equip-40000142,
+equip-40000142,酒精
 equip-10000143,Karmotrine
 equip-20000143,迴避+<dodge>//n酒精Karmotrine$吉兒專用
 equip-30000143,飲料中的酒精成分。由BTC統一配發。
-equip-40000143,
+equip-40000143,酒精
 equip-10000144,Karmotrine
 equip-20000144,迴避+<dodge>//n酒精Karmotrine$吉兒專用
 equip-30000144,飲料中的酒精成分。由BTC統一配發。
-equip-40000144,
+equip-40000144,酒精
 equip-10000145,機械手臂
 equip-20000145,傷害+<pow> 護甲+<armor>//n迴避<dodge>$戴娜專用
 equip-30000145,戴娜的機械臂。戴娜從未透露失去手臂的原因。
@@ -1482,3 +1482,19 @@ equip-10000373,GP11改良彈
 equip-20000373,穿甲+<armor_piercing>//n傷害+<pow>技能增強$K31專用
 equip-30000373,使用了船尾型的彈頭，在飛到很遠的距離後才會跌到音速之下。在GP11的基礎上做了改良升級，是K31最愛用的子彈。
 equip-40000373,
+equip-10000376,戰術防衛盾
+equip-20000376,迴避+<dodge>//n護甲+<armor>技能增強$解放者專用
+equip-30000376,IOP為解放者設計的高性能防彈盾牌，非常注重結構上的平衡性。
+equip-40000376,
+equip-10000377,高速運算晶片
+equip-20000377,傷害+<pow> 射速+<rate>//n暴擊傷害<critical_harm_rate><%>$L85A1專用
+equip-30000377,在IOP開發的第二代運算晶片上做了升級，大大加快了運算速度。
+equip-40000377,
+equip-10000378,拉戈改良彈
+equip-20000378,傷害+<pow>//n穿甲<armor_piercing>$Z-62專用
+equip-30000378,特意為Z-62改良的舊式子彈，在披甲材料上也做了升級。
+equip-40000378,
+equip-10000379,TMP外骨骼
+equip-20000379,傷害<pow>//n迴避+<dodge>$TMP專用
+equip-30000379,為TMP量身製作的外骨骼，樣式結構都按要求做了特別設計，非常受TMP喜愛。
+equip-40000379,

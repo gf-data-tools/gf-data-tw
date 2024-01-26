@@ -1040,10 +1040,10 @@
   }
   {
     id: 80
-    name: sangvis_gasha-10000080
+    name: 「颶風」N2秘密審訊室
     type: 1
     start_time: 2024-01-26 10:00:00
-    end_time: 2024-02-2310:00:00
+    end_time: 2024-02-23 10:00:00
     tab_code: banner_collection47_s.jpg
     banner: banner_collection47_s.jpg
     refresh_rate: 259200
@@ -1053,10 +1053,10 @@
   }
   {
     id: 81
-    name: sangvis_gasha-10000081
+    name: S09區深海餘燼
     type: 1
     start_time: 2024-01-26 10:00:00
-    end_time: 2024-02-2310:00:00
+    end_time: 2024-02-23 10:00:00
     tab_code: banner_collection47_s.jpg
     banner: banner_collection47_s.jpg
     refresh_rate: 259200
