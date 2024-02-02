@@ -1266,6 +1266,8 @@ furniture-10330009,Saiga-12-淺池濯浪
 furniture-20330009,Saiga-12的海報
 furniture-10030596,RO635-黑白叢林鳥
 furniture-20030596,RO635的海報
+furniture-10030597,MG42-耀閃棋星
+furniture-20030597,MG42的海報。
 furniture-10038101,DP-12-霧敘十字星
 furniture-20038101,DP-12的海報。
 furniture-10038102,SP9-浮沫白雪
@@ -1378,6 +1380,8 @@ furniture-10330013,HK433-偷心私廚
 furniture-20330013,HK433的海報。
 furniture-10330014,M950A-頭槌症候群
 furniture-20330014,M950A的海報。
+furniture-10330015,95式-煙雨青綺
+furniture-20330015,95式的海報。
 furniture-10038701,PA-15-踏光而來的夜
 furniture-20038701,PA-15的海報。
 furniture-10038702,QBU-191-為你而作的歌
