@@ -13870,6 +13870,42 @@
     rank: 1
   }
   {
+    id: 2428
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_EVO3Mod
+    item_name: EVO 3智升級頭像
+    introduction: EVO 3心智升級頭像
+    rank: 1
+  }
+  {
+    id: 2429
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_Px4StormMod
+    item_name: Px4 風暴心智升級頭像
+    introduction: Px4 風暴心智升級頭像
+    rank: 1
+  }
+  {
+    id: 2430
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_FalconMod
+    item_name: 隼心智升級頭像
+    introduction: 隼心智升級頭像
+    rank: 1
+  }
+  {
+    id: 2431
+    type: 5
+    arg: "1"
+    code: profilePic_rank5_EM2Mod
+    item_name: EM-2心智升級頭像
+    introduction: EM-2心智升級頭像
+    rank: 1
+  }
+  {
     id: 2432
     type: 5
     arg: "1"
@@ -13885,6 +13921,60 @@
     code: card_friendmall_VHS
     item_name: 名片：爆炸！無需回頭！
     introduction: 名片：爆炸！無需回頭！
+    rank: 1
+  }
+  {
+    id: 2442
+    type: 5
+    arg: "1"
+    code: card_BattlePass_95type
+    item_name: 名片：猗猗亭心
+    introduction: 名片：猗猗亭心
+    rank: 1
+  }
+  {
+    id: 2443
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_95type
+    item_name: 95式-煙雨青綺
+    introduction: 95式-煙雨青綺
+    rank: 1
+  }
+  {
+    id: 2444
+    type: 5
+    arg: "1"
+    code: profilePic_ChessBonus_MG42
+    item_name: MG42-耀閃棋星
+    introduction: MG42-耀閃棋星
+    rank: 1
+  }
+  {
+    id: 2445
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season14_1
+    item_name: 原初時計 · 代號拾貳：零錐
+    introduction: 原初時計 · 代號拾貳：零錐
+    rank: 1
+  }
+  {
+    id: 2446
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season14_2
+    item_name: 恆星刻度 · 代號拾貳：零錐
+    introduction: 恆星刻度 · 代號拾貳：零錐
+    rank: 1
+  }
+  {
+    id: 2447
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season14_3
+    item_name: 簡並紀元 · 代號拾貳：零錐
+    introduction: 簡並紀元 · 代號拾貳：零錐
     rank: 1
   }
   {
@@ -15118,6 +15208,15 @@
     id: 10711
     type: 18
     arg: "10711"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10712
+    type: 18
+    arg: "10712"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
@@ -16980,6 +17079,34 @@
     code: Platinum_medal_black
     item_name: 白金勳章·一幣之遙
     introduction: 白金勳章·一幣之遙
+    rank: 1
+  }
+  {
+    id: 100207
+    type: 9
+    arg: "100207"
+    code: Scar2022
+    item_name: 半影幣
+    introduction: 半影幣
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100208
+    type: 4
+    arg: "100208"
+    code: Nova_medal
+    item_name: 新星勳章·沙羅蝕相
+    introduction: 新星勳章·沙羅蝕相
+    rank: 1
+  }
+  {
+    id: 100209
+    type: 4
+    arg: "100209"
+    code: Platinum_medal
+    item_name: 白金勳章·沙羅蝕相
+    introduction: 白金勳章·沙羅蝕相
     rank: 1
   }
   {
@@ -19163,6 +19290,22 @@
     rank: 1
   }
   {
+    id: 140031
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    rank: 1
+  }
+  {
+    id: 140032
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *榴彈捕手
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -19517,6 +19660,15 @@
     introduction: item-20200038
     rank: 1
     detail_introduction: item-30200038
+  }
+  {
+    id: 200039
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_95type
+    item_name: 頭像框·綠洇奚琴
+    introduction: 頭像框·綠洇奚琴
+    rank: 1
   }
   {
     id: 900030
@@ -20733,6 +20885,46 @@
     sort: -1
   }
   {
+    id: 1500113
+    type: 15
+    arg: "1500113"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-蘭塘秋夢，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500114
+    type: 15
+    arg: "1500114"
+    code: package_choose
+    item_name: 配件類裝備自選包
+    introduction: 來自於前線協議-蘭塘秋夢，可從該指定投遞配給序標內選擇獲取一件配件類裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500115
+    type: 15
+    arg: "1500115"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-蘭塘秋夢，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500116
+    type: 15
+    arg: "1500116"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-蘭塘秋夢，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -20873,6 +21065,36 @@
     id: 1700012
     type: 15
     arg: "1700012"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700013
+    type: 15
+    arg: "1700013"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700014
+    type: 15
+    arg: "1700014"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700015
+    type: 15
+    arg: "1700015"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

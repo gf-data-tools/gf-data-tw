@@ -181,4 +181,22 @@
     group_skill: 2:759300
     fit_gun: "20161"
   }
+  {
+    id: 21
+    name: 為了大家
+    des: 為G3量身訂製的套裝，寄託著G3想要幫助大家的決心。
+    code: EgroupG3
+    equip_unit: "124,0,374"
+    group_skill: 2:759308
+    fit_gun: "20063"
+  }
+  {
+    id: 22
+    name: Darling
+    des: 為M1911量身訂製的套裝，命名遵循了她本人的強烈要求。
+    code: EgroupM1911
+    equip_unit: "375,101,0"
+    group_skill: 2:759312
+    fit_gun: "20002"
+  }
 ]

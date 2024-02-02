@@ -2696,8 +2696,10 @@
     powerup_part: 0.25
     exclusive_rate: 3
     bonus_type: pow:550
+    passive_skill: "759310"
     max_level: 10
     auto_select_id: 19004
+    group_id: "22"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -3412,8 +3414,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: critical_percent:1000,pow:1000
+    passive_skill: "759306"
     max_level: 10
     auto_select_id: 18019
+    group_id: "21"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -5843,7 +5847,7 @@
     max_level: 10
     auto_select_id: 18060
     is_show: 1
-    obtain_ids: "3058"
+    obtain_ids: "3058,3096"
   }
   {
     id: 199
@@ -8069,7 +8073,7 @@
     code: 配件_特殊_Px4Storm
     develop_duration: 2820
     company: B&T
-    fit_guns: "233"
+    fit_guns: "233,20233"
     equip_introduction: 為Px4 風暴專門定制9毫米消音器，緊湊版本縮短了長度使其更適合在狹小的空間裡作戰，是Px4 風暴的愛用品之一。
     powerup_mp: 0.55
     powerup_ammo: 0.23
@@ -8080,7 +8084,7 @@
     max_level: 10
     auto_select_id: 18081
     is_show: 1
-    obtain_ids: "3063"
+    obtain_ids: "3063,3096"
   }
   {
     id: 267
@@ -9301,7 +9305,7 @@
     code: 配件_特殊_EVO3
     develop_duration: 2820
     company: MI
-    fit_guns: "131"
+    fit_guns: "131,20131"
     equip_introduction: 由MI為EVO 3專門設計的mlok護木,能夠極高地提升EVO 3的掛載能力.
     powerup_mp: 0.55
     powerup_ammo: 0.23
@@ -11670,6 +11674,76 @@
     description_skill: 759304
   }
   {
+    id: 374
+    name: 多功能頭飾
+    description:
+      '''
+      傷害+<pow> 射速<rate>
+      暴擊傷害+<critical_harm_rate><%>$G3改型專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "5,8"
+    rate: "-5,-1"
+    critical_harm_rate: "18,25"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_G3Mod
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "20063"
+    equip_introduction: G3一直使用的立體頭飾，似乎是人形的接收裝置，請勿拆卸！
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:900,critical_harm_rate:400
+    passive_skill: "759307"
+    max_level: 10
+    auto_select_id: 20073
+    group_id: "21"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 375
+    name: PT瞄準具
+    description:
+      '''
+      暴擊機率+<critical_percent><%>
+      命中+<hit>$M1911改型專用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    hit: "10,15"
+    critical_percent: "12,15"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_mre: 2
+    retire_part: 2
+    code: Accessories_SP_M1911Mod
+    develop_duration: 3540
+    company: IOP
+    fit_guns: "20002"
+    equip_introduction: 在經典的設計上做了全新的升級，即使在較低的光照下，也能幫助M1911迅速瞄準目標。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: hit:700,critical_percent:1000
+    passive_skill: "759311"
+    max_level: 10
+    auto_select_id: 18116
+    group_id: "22"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
     id: 376
     name: 戰術防衛盾
     description:
@@ -11800,5 +11874,134 @@
     auto_select_id: 20076
     is_show: 1
     obtain_ids: "3003"
+  }
+  {
+    id: 380
+    name: 雄獅勳章
+    description:
+      '''
+      暴擊機率<critical_percent><%>
+      傷害+<pow>$EVO 3專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "10,15"
+    critical_percent: "-5,-5"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_EVO3
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "131,20131"
+    equip_introduction: 為表彰EVO 3辛勤工作特別製作的勳章，用了不少EVO 3家鄉的元素。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:700
+    max_level: 10
+    auto_select_id: 20062
+    is_show: 1
+    obtain_ids: "3016"
+  }
+  {
+    id: 381
+    name: 女王斗篷
+    description:
+      '''
+      射速<rate>
+      迴避+<dodge>$Px4 風暴專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "20,25"
+    rate: "-5,-1"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_Px4Storm
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "233,20233"
+    equip_introduction: 據稱是Px4 風暴經過周密計算後置辦的斗篷，能最有效地降低工作風險。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:800
+    max_level: 10
+    auto_select_id: 20079
+    is_show: 1
+    obtain_ids: "3016"
+  }
+  {
+    id: 382
+    name: Falcon精製彈
+    description:
+      '''
+      穿甲+<armor_piercing>
+      暴擊傷害+<critical_harm_rate><%>$隼專用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    critical_harm_rate: "6,10"
+    armor_piercing: "115,120"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: Magazine_SP_Falcon
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "256,20256"
+    equip_introduction: 經過隼精挑細選後精製的子彈，能夠一擊貫穿厚重的裝甲。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3
+    bonus_type: armor_piercing:1000,critical_harm_rate:1000
+    max_level: 10
+    auto_select_id: 19073
+    is_show: 1
+    obtain_ids: "3016"
+  }
+  {
+    id: 383
+    name: JS芯片
+    description:
+      '''
+      傷害+<pow> 命中+<hit>
+      暴擊傷害+<critical_harm_rate><%>$EM-2專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "6,8"
+    hit: "3,5"
+    critical_harm_rate: "10,15"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_EM2
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "262,20262"
+    equip_introduction: EM-2專用的芯片，有效提高了計算變數並制定計劃的能力。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:900,hit:1000,critical_harm_rate:1000
+    max_level: 10
+    auto_select_id: 20080
+    is_show: 1
+    obtain_ids: "3016"
   }
 ]
