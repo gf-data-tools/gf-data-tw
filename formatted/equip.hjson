@@ -11710,7 +11710,7 @@
   }
   {
     id: 375
-    name: PT瞄準具
+    name: PT瞄具
     description:
       '''
       暴擊機率+<critical_percent><%>

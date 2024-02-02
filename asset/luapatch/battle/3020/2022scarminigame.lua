@@ -435,8 +435,8 @@ Update = function()
 		character.lifeBar.gameObject:SetActive(false)
 		lifebarFlag = true
 	end
-	if not lifebarFlag2 and BattleController.enemyTeamHolder:GetCharacters()[0].lifeBar ~= nil then
-		BattleController.enemyTeamHolder:GetCharacters()[0].lifeBar.gameObject:SetActive(false)
+	if not lifebarFlag2 and BattleController.enemyTeamHolder.mListCharacter[0].lifeBar ~= nil then
+		BattleController.enemyTeamHolder.mListCharacter[0].lifeBar.gameObject:SetActive(false)
 		lifebarFlag2 = true
 	end
 	if characterData.conditionListSelf:GetTierByID(layerBuffID) > 0 then
