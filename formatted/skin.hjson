@@ -8528,6 +8528,91 @@
     skin_source: 1
   }
   {
+    id: 10101
+    name: QBZ-191-冷香染墨
+    fit_gun: 361
+    voice: 15
+    dialog: 指揮官，你也對《九九消寒圖》感興趣？……是的，等這九朵九瓣梅花全部點上顏料，冬天就過去了呢……來，一起消寒！
+    order: 123
+    class_id: 97
+    skin_source: 2
+  }
+  {
+    id: 10102
+    name: SCR-阮吟霜楓
+    fit_gun: 365
+    voice: 15
+    dialog: 這個姿勢可以嗎？……我還是第一次做樂器模特呢，不露臉的那種……什、什麼，還是露臉了？嗚，面紗太薄了，下次可以換成口罩嗎？
+    order: 123
+    class_id: 97
+    skin_source: 2
+  }
+  {
+    id: 10103
+    name: SPAS-12-金福賀歲
+    fit_gun: 162
+    voice: 15
+    dialog: 新年行大運，財源滾滾！指揮官，祝福已送達，我去吃新年大餐嘍！……哪有吃很多啦，絲襪不會被撐破……的吧……
+    illustrator_cv: YoYo,小堀幸,
+    order: 123
+    class_id: 97
+    skin_source: 2
+  }
+  {
+    id: 10104
+    name: PTRD-更闌燭影
+    fit_gun: 42
+    voice: 15
+    dialog: 相比於高亮度電燈，夜晚點起蠟燭，明明暗暗更有氛圍？……是這樣沒錯，那麼，玩火要小心哦。
+    order: 123
+    class_id: 97
+    skin_source: 2
+  }
+  {
+    id: 10105
+    name: PP-19-流風回雪
+    fit_gun: 136
+    voice: 15
+    dialog: 慘了慘了，光顧著挑禮服忘記時間了，還沒當面向指揮官送上新年祝福！……欸，指揮官？新年快樂，年年快樂！
+    gift_position: "-36.3,-22.7"
+    illustrator_cv: 多爾,芹澤優,
+    order: 123
+    class_id: 97
+    skin_source: 1
+  }
+  {
+    id: 10106
+    name: AS Val-蘭溪花雨
+    fit_gun: 60
+    voice: 15
+    dialog: 是花落下的聲音……小熊很喜歡。
+    illustrator_cv: 星迴,上阪すみれ,
+    order: 123
+    class_id: 97
+    skin_source: 2
+  }
+  {
+    id: 10107
+    name: Bren Ten-吉慶有餘
+    fit_gun: 139
+    voice: 15
+    dialog: 今年我要做一個大大大大的燈籠，可以帶著我和指揮官飛起來，飛到天上看月亮！
+    illustrator_cv: 小星,佐藤有世,
+    order: 123
+    class_id: 97
+  }
+  {
+    id: 10108
+    name: QBU-191-漫尋芳菲
+    fit_gun: 388
+    voice: 15
+    dialog: 掬水月在手，弄花香滿衣。指揮官，感謝您送來如此特別的花香。
+    gift_position: "223.4,224.2"
+    order: 123
+    class_id: 97
+    skin_source: 1
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57

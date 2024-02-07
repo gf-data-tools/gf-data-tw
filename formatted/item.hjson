@@ -13924,6 +13924,78 @@
     rank: 1
   }
   {
+    id: 2434
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_QBZ191
+    item_name: QBZ-191-冷香染墨
+    introduction: QBZ-191-冷香染墨
+    rank: 1
+  }
+  {
+    id: 2435
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_SCR
+    item_name: SCR-阮吟霜楓
+    introduction: SCR-阮吟霜楓
+    rank: 1
+  }
+  {
+    id: 2436
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_SPAS12
+    item_name: SPAS-12-金福賀歲
+    introduction: SPAS-12-金福賀歲
+    rank: 1
+  }
+  {
+    id: 2437
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_PTRD
+    item_name: PTRD-更闌燭影
+    introduction: PTRD-更闌燭影
+    rank: 1
+  }
+  {
+    id: 2438
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_PP19
+    item_name: PP-19-流風回雪
+    introduction: PP-19-流風回雪
+    rank: 1
+  }
+  {
+    id: 2439
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_ASVAL
+    item_name: AS Val-蘭溪花雨
+    introduction: AS Val-蘭溪花雨
+    rank: 1
+  }
+  {
+    id: 2440
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_BrenTen
+    item_name: Bren Ten-吉慶有餘
+    introduction: Bren Ten-吉慶有餘
+    rank: 1
+  }
+  {
+    id: 2441
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_QBU191
+    item_name: QBU-191-漫尋芳菲
+    introduction: QBU-191-漫尋芳菲
+    rank: 1
+  }
+  {
     id: 2442
     type: 5
     arg: "1"
@@ -13975,6 +14047,15 @@
     code: profilePic_ChessFlight_season14_3
     item_name: 簡並紀元 · 代號拾貳：零錐
     introduction: 簡並紀元 · 代號拾貳：零錐
+    rank: 1
+  }
+  {
+    id: 2448
+    type: 5
+    arg: "1"
+    code: profilePic_mask_2024SpringFes
+    item_name: 真核面具紀念頭像·龍佑春和
+    introduction: 真核面具紀念頭像·龍佑春和
     rank: 1
   }
   {
@@ -17110,6 +17191,24 @@
     rank: 1
   }
   {
+    id: 100210
+    type: 4
+    arg: "100210"
+    code: core_mask_springfestival
+    item_name: 真核面具·龍佑春和
+    introduction: 真核面具·龍佑春和
+    rank: 1
+  }
+  {
+    id: 100211
+    type: 4
+    arg: "100211"
+    code: Bumdle_2024springfestival
+    item_name: 甲辰利是
+    introduction: 甲辰利是
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -17722,6 +17821,15 @@
     rank: 1
   }
   {
+    id: 110069
+    type: 4
+    arg: "110069"
+    code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -18012,6 +18120,15 @@
     code: Y_Z_zhihuiguan_Restaurant
     item_name: 驚險把戲
     introduction: 規則很簡單：如果餐刀命中蘋果，今天你負責洗碗；如果沒命中，那就不得不由我來洗碗了。
+    rank: 1
+  }
+  {
+    id: 130024
+    type: 12
+    arg: "130024"
+    code: Y_Z_zhihuiguan_baozhu
+    item_name: 結彩雷動
+    introduction: 俗話說爆竹聲聲除舊歲，用鞭炮慶祝新年的確很有年味，但在基地裡燃放鞭炮是誰的主意，誰就去解決那些被炮聲驚動的自動防禦機槍吧。
     rank: 1
   }
   {
@@ -19671,6 +19788,15 @@
     rank: 1
   }
   {
+    id: 200040
+    type: 1
+    arg: "1"
+    code: profileFrame_bonus_snack
+    item_name: 頭像框·長恩祭歲
+    introduction: 頭像框·長恩祭歲
+    rank: 1
+  }
+  {
     id: 900030
     type: 4
     arg: "100030"
@@ -20925,6 +21051,36 @@
     sort: -1
   }
   {
+    id: 1500117
+    type: 15
+    arg: "1500117"
+    code: Bumdle_Coupons3
+    item_name: 珍藏裝扮券
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500118
+    type: 15
+    arg: "1500118"
+    code: Bumdle_Coupons2
+    item_name: 尊享裝扮券
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500119
+    type: 15
+    arg: "1500119"
+    code: Bumdle_Coupons1
+    item_name: 致臻裝扮券
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -21168,6 +21324,26 @@
     code: package_random
     item_name: 精密級輕武通用組件箱
     introduction: 打開後必定獲取5星輕武器/通用組件
+    rank: 5
+    sort: -1
+  }
+  {
+    id: 1800008
+    type: 15
+    arg: "1800008"
+    code: package_random
+    item_name: 軍規級武器組件箱2.0
+    introduction: 打開後必定獲取5星重/輕武器組件
+    rank: 5
+    sort: -1
+  }
+  {
+    id: 1800009
+    type: 15
+    arg: "1800009"
+    code: package_random
+    item_name: 軍規級功能組件箱2.0
+    introduction: 打開後必定獲取5星功能/防護/通用組件
     rank: 5
     sort: -1
   }

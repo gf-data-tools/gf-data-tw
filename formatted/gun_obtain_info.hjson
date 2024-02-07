@@ -509,6 +509,10 @@
     description: 限時戰役【榮耀日】商店兌換
   }
   {
+    obtain_id: "320"
+    description: 限時活動【魚躍九霄】積分獎勵
+  }
+  {
     obtain_id: "403"
     description: 常駐活動【塌縮點】中救援獲得
   }

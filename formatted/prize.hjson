@@ -12973,7 +12973,7 @@
   {
     id: 1993
     name: 四星人形調用函過期補償
-    gem: 350
+    gem: 355
   }
   {
     id: 1994
@@ -13903,6 +13903,613 @@
     id: 2212
     name: 沙羅蝕相復刻保底2b
     item_ids: 100209-2
+  }
+  {
+    id: 2213
+    name: 2024春節簽到獎勵3
+    core: 50
+  }
+  {
+    id: 2214
+    name: 2024春節簽到獎勵4
+    item_ids: 10603-12
+    bp_pay: 12
+  }
+  {
+    id: 2215
+    name: 2024春節簽到獎勵6
+    commander_uniform: "5820"
+  }
+  {
+    id: 2216
+    name: 戰術人形：82式
+    gun_id: "391"
+  }
+  {
+    id: 2217
+    name: 戰術人形：QBU-191
+    gun_id: "388"
+  }
+  {
+    id: 2218
+    name: 戰術人形：博斯
+    gun_id: "389"
+  }
+  {
+    id: 2219
+    name: 戰術人形：HK433
+    gun_id: "390"
+  }
+  {
+    id: 2220
+    name: 戰術人形：貝武夫
+    gun_id: "393"
+  }
+  {
+    id: 2221
+    name: 戰術人形：FM24
+    gun_id: "395"
+  }
+  {
+    id: 2222
+    name: 戰術人形：Stevens 520
+    gun_id: "397"
+  }
+  {
+    id: 2223
+    name: 戰術人形：Stevens 620
+    gun_id: "398"
+  }
+  {
+    id: 2224
+    name: 鑽石*5
+    gem: 5
+  }
+  {
+    id: 2225
+    name: 鑽石*15
+    gem: 15
+  }
+  {
+    id: 2226
+    name: 鑽石*25
+    gem: 25
+  }
+  {
+    id: 2227
+    name: 鑽石*50
+    gem: 50
+  }
+  {
+    id: 2228
+    name: 鑽石*88
+    gem: 88
+  }
+  {
+    id: 2229
+    name: Bren Ten-吉慶有餘
+    gift: 10107-1
+  }
+  {
+    id: 2230
+    name: 攻殼聯動簽到獎勵3
+    coins: 2-500
+  }
+  {
+    id: 2231
+    name: 攻殼聯動簽到獎勵5
+    coins: 3-400
+  }
+  {
+    id: 2232
+    name: 攻殼聯動簽到獎勵7
+    furniture: "20117"
+  }
+  {
+    id: 2233
+    name: 珍藏裝扮券
+    item_ids: 1500117-1
+    icon: Bumdle_Coupons3
+  }
+  {
+    id: 2234
+    name: 尊享裝扮券
+    item_ids: 1500118-1
+    icon: Bumdle_Coupons2
+  }
+  {
+    id: 2235
+    name: 致臻裝扮券
+    item_ids: 1500119-1
+    icon: Bumdle_Coupons1
+  }
+  {
+    id: 2236
+    name: 金龍賀歲
+    core: 50
+    item_ids: 41-588,45-1000,506-1000
+    gift: 100003-10
+    icon: Bumdle_dragon01
+  }
+  {
+    id: 2237
+    name: 祥龍獻瑞
+    item_ids: 7-4
+    gift: 100003-10
+    icon: Bumdle_dragon02
+  }
+  {
+    id: 2238
+    name: 瑞龍迎新
+    item_ids: 41-200,10603-30
+    gift: 100003-5
+    icon: Bumdle_dragon05
+    bp_pay: 30
+  }
+  {
+    id: 2239
+    name: AR-57-三友伴歲寒
+    gift: 6705-1
+  }
+  {
+    id: 2240
+    name: V-PM5-初夢見飛羽
+    gift: 6706-1
+  }
+  {
+    id: 2241
+    name: M14-幼虎祈豐年
+    gift: 6707-1
+  }
+  {
+    id: 2242
+    name: G36-玉甌立
+    gift: 6807-1
+  }
+  {
+    id: 2243
+    name: 斯捷奇金-桃夭灼
+    gift: 6808-1
+  }
+  {
+    id: 2244
+    name: FN-49-蜀錦羞
+    gift: 6809-1
+  }
+  {
+    id: 2245
+    name: T77-彼岸星光
+    gift: 6906-1
+  }
+  {
+    id: 2246
+    name: M1加蘭德-冬柏來信
+    gift: 6907-1
+  }
+  {
+    id: 2247
+    name: 隼-晨露之歌
+    gift: 6908-1
+  }
+  {
+    id: 2248
+    name: Rex-0-1-深夜暖茶
+    gift: 7003-1
+  }
+  {
+    id: 2249
+    name: C14-新入職員
+    gift: 7004-1
+  }
+  {
+    id: 2250
+    name: M4 SOPMODII-回魂修理師Jr
+    gift: 574-1
+  }
+  {
+    id: 2251
+    name: MP-443-碎金花信
+    gift: 7105-1
+  }
+  {
+    id: 2252
+    name: 納甘左輪-星雲忌廉
+    gift: 7107-1
+  }
+  {
+    id: 2253
+    name: 64式-啜風吟
+    gift: 7108-1
+  }
+  {
+    id: 2254
+    name: 塔布克-訓寵員日常
+    gift: 7204-1
+  }
+  {
+    id: 2255
+    name: 56式半-熊耳剪裁師
+    gift: 7206-1
+  }
+  {
+    id: 2256
+    name: AK74M-戟與魚膾師
+    gift: 7305-1
+  }
+  {
+    id: 2257
+    name: EVO 3-杏紅之夏
+    gift: 7307-1
+  }
+  {
+    id: 2258
+    name: CF05-漂浮的黑白音律
+    gift: 7306-1
+  }
+  {
+    id: 2259
+    name: TS12-獻給星河的花束
+    gift: 7408-1
+  }
+  {
+    id: 2260
+    name: 新星-溢彩流星
+    gift: 7505-1
+  }
+  {
+    id: 2261
+    name: C14-白月弧光
+    gift: 7506-1
+  }
+  {
+    id: 2262
+    name: UMP9-蜜蜂的膝蓋
+    gift: 583-1
+  }
+  {
+    id: 2263
+    name: UMP40-水中望月
+    gift: 585-1
+  }
+  {
+    id: 2264
+    name: 司登MkⅡ-誰動了我的糖果
+    gift: 7605-1
+  }
+  {
+    id: 2265
+    name: G43-夜訪女伯爵
+    gift: 7607-1
+  }
+  {
+    id: 2266
+    name: MG42-女巫見習中
+    gift: 7606-1
+  }
+  {
+    id: 2267
+    name: Ak 5-蜓點曲水
+    gift: 7704-1
+  }
+  {
+    id: 2268
+    name: 四式-嬌鶴立
+    gift: 7705-1
+  }
+  {
+    id: 2269
+    name: MPL-躍紅踏霜
+    gift: 7804-1
+  }
+  {
+    id: 2270
+    name: MPK-冰崖飛焰
+    gift: 7806-1
+  }
+  {
+    id: 2271
+    name: KSVK-覆雪之下
+    gift: 7807-1
+  }
+  {
+    id: 2272
+    name: Bren Ten-絨絨草莓撻
+    gift: 7809-1
+  }
+  {
+    id: 2273
+    name: LTLX7000-巫姬翩舞起
+    gift: 6702-1
+  }
+  {
+    id: 2274
+    name: Lusa-竹劍掃落雪
+    gift: 6703-1
+  }
+  {
+    id: 2275
+    name: UMP9-幽玄旅人
+    gift: 6704-1
+  }
+  {
+    id: 2276
+    name: 蜂鳥-夕顏展
+    gift: 6802-1
+  }
+  {
+    id: 2277
+    name: A-545-醉茗咲
+    gift: 6803-1
+  }
+  {
+    id: 2278
+    name: HS.50-磯松嘆
+    gift: 6805-1
+  }
+  {
+    id: 2279
+    name: TKB-408-硃砂舞
+    gift: 6804-1
+  }
+  {
+    id: 2280
+    name: MP7-天星落
+    gift: 6806-1
+  }
+  {
+    id: 2281
+    name: P22-幻想圓舞曲
+    gift: 6903-1
+  }
+  {
+    id: 2282
+    name: 79式-於塵埃間仰望
+    gift: 6904-1
+  }
+  {
+    id: 2283
+    name: 97式-風中祝禱
+    gift: 6902-1
+  }
+  {
+    id: 2284
+    name: K5-維納斯之陣
+    gift: 6905-1
+  }
+  {
+    id: 2285
+    name: CZ75-CZ75不加班
+    gift: 7001-1
+  }
+  {
+    id: 2286
+    name: FX-05-飛向雲端
+    gift: 7002-1
+  }
+  {
+    id: 2287
+    name: 一〇〇式-蝶影綺譚
+    gift: 7102-1
+  }
+  {
+    id: 2288
+    name: 防衛者-星塵帷幕
+    gift: 7104-1
+  }
+  {
+    id: 2289
+    name: Rhino-孤月之冠
+    gift: 7103-1
+  }
+  {
+    id: 2290
+    name: PX4 風暴-冬眠守夢者
+    gift: 7203-1
+  }
+  {
+    id: 2291
+    name: MG3-未來構想家
+    gift: 7205-1
+  }
+  {
+    id: 2292
+    name: VSK-94-驕陽般起舞
+    gift: 7201-1
+  }
+  {
+    id: 2293
+    name: Savage 99-沙維奇想整點薯條
+    gift: 7302-1
+  }
+  {
+    id: 2294
+    name: IWS 2000-沙堡終結者
+    gift: 7308-1
+  }
+  {
+    id: 2295
+    name: HS.50-游向蜜色海心
+    gift: 7304-1
+  }
+  {
+    id: 2296
+    name: ACR-星海尋因
+    gift: 7401-1
+  }
+  {
+    id: 2297
+    name: QBU-88-食鐵獸的奇妙航旅
+    gift: 7403-1
+  }
+  {
+    id: 2298
+    name: SCR-詩農暢想曲
+    gift: 7402-1
+  }
+  {
+    id: 2299
+    name: SIG MCX-超時空警備隊
+    gift: 7404-1
+  }
+  {
+    id: 2300
+    name: CAWS-逆境攻球手
+    gift: 7503-1
+  }
+  {
+    id: 2301
+    name: SAF-山野急影
+    gift: 7504-1
+  }
+  {
+    id: 2302
+    name: SR-2-本壘英豪
+    gift: 7502-1
+  }
+  {
+    id: 2303
+    name: HK416-白色尼格羅尼
+    gift: 581-1
+  }
+  {
+    id: 2304
+    name: G11-腦海中的橡皮擦
+    gift: 582-1
+  }
+  {
+    id: 2305
+    name: AUG SMG-皮斯科酸
+    gift: 579-1
+  }
+  {
+    id: 2306
+    name: SL8-幽靈菲士
+    gift: 576-1
+  }
+  {
+    id: 2307
+    name: VHS-懸浮威士忌
+    gift: 577-1
+  }
+  {
+    id: 2308
+    name: JS 9-銀鱗戲竹翳
+    gift: 7603-1
+  }
+  {
+    id: 2309
+    name: PPQ-誕自指尖
+    gift: 7604-1
+  }
+  {
+    id: 2310
+    name: KH2002-魔獄先遣隊
+    gift: 7602-1
+  }
+  {
+    id: 2311
+    name: 劉氏步槍-游龍形拳
+    gift: 7701-1
+  }
+  {
+    id: 2312
+    name: VP1915-墨鱗之刺
+    gift: 7703-1
+  }
+  {
+    id: 2313
+    name: QBZ-191-孤松行
+    gift: 7702-1
+  }
+  {
+    id: 2314
+    name: Lusa-冬鹿拿鐵
+    gift: 7802-1
+  }
+  {
+    id: 2315
+    name: Vector-攜枝踏玉塵
+    gift: 6701-1
+  }
+  {
+    id: 2316
+    name: SP9-寒蘭傲
+    gift: 6801-1
+  }
+  {
+    id: 2317
+    name: 路易士-紫鳶醉蝶
+    gift: 6901-1
+  }
+  {
+    id: 2318
+    name: ZB-26-暗薔搖曳
+    gift: 7101-1
+  }
+  {
+    id: 2319
+    name: 95式-春杪夢鳶人
+    gift: 7202-1
+  }
+  {
+    id: 2320
+    name: G41-寰宇特急
+    gift: 7406-1
+  }
+  {
+    id: 2321
+    name: 漢陽造88式-超新星之魂
+    gift: 7407-1
+  }
+  {
+    id: 2322
+    name: PA-15-冰海幻舞
+    gift: 7501-1
+  }
+  {
+    id: 2323
+    name: UMP45-科羅娜日落
+    gift: 584-1
+  }
+  {
+    id: 2324
+    name: M327-它，如影隨形
+    gift: 7601-1
+  }
+  {
+    id: 2325
+    name: 56-1式-無雙棍舞
+    gift: 7706-1
+  }
+  {
+    id: 2326
+    name: 德利爾-編織星光
+    gift: 7801-1
+  }
+  {
+    id: 2327
+    name: AK-47-戰爭之王
+    gift: 501-1
+  }
+  {
+    id: 2328
+    name: FNC-草莓蛋糕與波斯花
+    gift: 4308-1
+  }
+  {
+    id: 2329
+    name: 阿斯特拉左輪-阿斯特拉的泳池漂流
+    gift: 4708-1
+  }
+  {
+    id: 2330
+    name: 托卡列夫-甜夜盜賊
+    gift: 5106-1
+  }
+  {
+    id: 2331
+    name: V-PM5-飛翔海星
+    gift: 6107-1
   }
   {
     id: 3001
@@ -24172,6 +24779,96 @@
     item_ids: 10712-90
   }
   {
+    id: 7739
+    name: 日常玩法掉落
+    item_ids: 10713-30
+  }
+  {
+    id: 7740
+    name: 日常玩法掉落
+    item_ids: 10713-45
+  }
+  {
+    id: 7741
+    name: 日常玩法掉落
+    item_ids: 10713-60
+  }
+  {
+    id: 7742
+    name: 日常玩法掉落
+    item_ids: 10713-45
+  }
+  {
+    id: 7743
+    name: 日常玩法掉落
+    item_ids: 10713-68
+  }
+  {
+    id: 7744
+    name: 日常玩法掉落
+    item_ids: 10713-90
+  }
+  {
+    id: 7745
+    name: 日常玩法掉落
+    item_ids: 10713-90
+  }
+  {
+    id: 7746
+    name: 日常玩法掉落
+    item_ids: 10713-120
+  }
+  {
+    id: 7747
+    name: 日常玩法掉落
+    item_ids: 10713-75
+  }
+  {
+    id: 7748
+    name: 日常玩法掉落
+    item_ids: 10713-150
+  }
+  {
+    id: 7749
+    name: 日常玩法掉落
+    item_ids: 10713-60
+  }
+  {
+    id: 7750
+    name: 日常玩法掉落
+    item_ids: 10713-135
+  }
+  {
+    id: 7751
+    name: 日常玩法掉落
+    item_ids: 10713-180
+  }
+  {
+    id: 7752
+    name: 日常玩法掉落
+    item_ids: 10713-180
+  }
+  {
+    id: 7753
+    name: 日常玩法掉落
+    item_ids: 10713-270
+  }
+  {
+    id: 7754
+    name: 日常玩法掉落
+    item_ids: 10713-360
+  }
+  {
+    id: 7755
+    name: 日常玩法掉落
+    item_ids: 10713-112
+  }
+  {
+    id: 7756
+    name: 日常玩法掉落
+    item_ids: 10713-90
+  }
+  {
     id: 8001
     name: 新人七天累計儲值活動第1天
     gem: 50
@@ -25072,84 +25769,84 @@
     id: 10086
     name: 嘉年華獎勵
     mp: 100
-    item_ids: 110068-10
+    item_ids: 110069-10
   }
   {
     id: 10087
     name: 嘉年華獎勵
     mp: 100
-    item_ids: 110068-20
+    item_ids: 110069-20
   }
   {
     id: 10088
     name: 嘉年華獎勵
     ammo: 200
-    item_ids: 110068-20
+    item_ids: 110069-20
   }
   {
     id: 10089
     name: 嘉年華獎勵
     ammo: 200
-    item_ids: 110068-30
+    item_ids: 110069-30
   }
   {
     id: 10090
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110068-20
+    item_ids: 110069-20
   }
   {
     id: 10091
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110068-30
+    item_ids: 110069-30
   }
   {
     id: 10092
     name: 嘉年華獎勵
     mre: 200
-    item_ids: 110068-50
+    item_ids: 110069-50
   }
   {
     id: 10093
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110068-30
+    item_ids: 110069-30
   }
   {
     id: 10094
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110068-50
+    item_ids: 110069-50
   }
   {
     id: 10095
     name: 嘉年華獎勵
     part: 100
-    item_ids: 110068-100
+    item_ids: 110069-100
   }
   {
     id: 10096
     name: 嘉年華獎勵
     part: 200
-    item_ids: 110068-50
+    item_ids: 110069-50
   }
   {
     id: 10097
     name: 嘉年華獎勵
     part: 200
-    item_ids: 110068-100
+    item_ids: 110069-100
   }
   {
     id: 10098
     name: 嘉年華獎勵
     part: 300
-    item_ids: 110068-150
+    item_ids: 110069-150
   }
   {
     id: 10099
     name: 嘉年華獎勵
-    item_ids: 110068-200,45-200
+    item_ids: 110069-200,45-200
   }
   {
     id: 10100
@@ -25161,47 +25858,51 @@
   {
     id: 10101
     name: 活躍獎勵
-    item_ids: 9-20,4-5,6003-2,525-5
+    item_ids: 9-20,4-2,6003-2,525-5
     icon: Bumdle_brown
   }
   {
     id: 10102
     name: 活躍獎勵
-    item_ids: 3-5,525-5
+    item_ids: 3-2,525-5
     coins: 2-200
     icon: Bumdle_indigo
+    commander_uniform: "5811,5812"
   }
   {
     id: 10103
     name: 活躍獎勵
-    item_ids: 1-5,45-100,506-200,601-2,525-5
+    item_ids: 1-2,45-100,506-200,525-5
     icon: Bumdle_guoqing
+    commander_uniform: "5851,5852"
   }
   {
     id: 10104
     name: 活躍獎勵
-    core: 10
-    item_ids: 41-20,8-1
+    core: 5
+    item_ids: 41-20
     icon: Bumdle_yellow
+    commander_uniform: "5831,5832"
   }
   {
     id: 10105
     name: 活躍獎勵
-    gift: 100003-10,9008-1
+    gun_id: "399"
+    gift: 100003-10
     icon: Bumdle_bline
   }
   {
     id: 10106
     name: 活躍獎勵
-    item_ids: 45-100,6009-2
-    coins: 3-200
+    item_ids: 601-1,6009-2
+    coins: 3-100
     icon: Bumdle_navy
     bp_pay: 10
   }
   {
     id: 10107
     name: 活躍獎勵
-    item_ids: 45-200,41-50,1-10,103-1,10604-3
+    item_ids: 45-100,41-20,1-5,103-1,10604-3
     icon: Bumdle_blue
   }
   {
@@ -50148,6 +50849,21 @@
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266"
   }
   {
+    id: 150104
+    name: 日常玩法-第11期-五星裝備自選池子
+    equip_ids: "16,20,32,44,66,72,90"
+  }
+  {
+    id: 150105
+    name: 日常玩法-第11期-4星及以下人形專屬裝備自選池子
+    equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359,365,366,368,369,264,372,374,375,216,385"
+  }
+  {
+    id: 150106
+    name: 日常玩法-第11期-5星人形專屬裝備自選池子
+    equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384"
+  }
+  {
     id: 200001
     name: 5星組件獎勵列表
     vehicle_component: "1001"
@@ -50356,6 +51072,31 @@
     id: 200042
     name: 5星組件獎勵列表
     vehicle_component: "1129"
+  }
+  {
+    id: 200043
+    name: 5星組件獎勵列表
+    vehicle_component: "1130"
+  }
+  {
+    id: 200044
+    name: 5星組件獎勵列表
+    vehicle_component: "1131"
+  }
+  {
+    id: 200045
+    name: 5星組件獎勵列表
+    vehicle_component: "1132"
+  }
+  {
+    id: 200046
+    name: 5星組件獎勵列表
+    vehicle_component: "1133"
+  }
+  {
+    id: 200047
+    name: 5星組件獎勵列表
+    vehicle_component: "1134"
   }
   {
     id: 201001
@@ -50568,6 +51309,36 @@
     vehicle_component: "2129"
   }
   {
+    id: 201043
+    name: prize-10201043
+    content: prize-20201043
+    vehicle_component: "2130"
+  }
+  {
+    id: 201044
+    name: prize-10201044
+    content: prize-20201044
+    vehicle_component: "2131"
+  }
+  {
+    id: 201045
+    name: prize-10201045
+    content: prize-20201045
+    vehicle_component: "2132"
+  }
+  {
+    id: 201046
+    name: prize-10201046
+    content: prize-20201046
+    vehicle_component: "2133"
+  }
+  {
+    id: 201047
+    name: prize-10201047
+    content: prize-20201047
+    vehicle_component: "2134"
+  }
+  {
     id: 202001
     name: 3星組件獎勵列表
     vehicle_component: "3001"
@@ -50776,6 +51547,31 @@
     id: 202042
     name: 3星組件獎勵列表
     vehicle_component: "3129"
+  }
+  {
+    id: 202043
+    name: 3星組件獎勵列表
+    vehicle_component: "3130"
+  }
+  {
+    id: 202044
+    name: 3星組件獎勵列表
+    vehicle_component: "3131"
+  }
+  {
+    id: 202045
+    name: 3星組件獎勵列表
+    vehicle_component: "3132"
+  }
+  {
+    id: 202046
+    name: 3星組件獎勵列表
+    vehicle_component: "3133"
+  }
+  {
+    id: 202047
+    name: 3星組件獎勵列表
+    vehicle_component: "3134"
   }
   {
     id: 203001
