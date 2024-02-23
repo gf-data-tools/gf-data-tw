@@ -8557,7 +8557,6 @@
     critical_hit_rate: "100"
     float_wide: 15
     hit_type: 1
-    is_ricochet: 100
     is_shield: 100
     fix_damage: "1000005543"
   }
@@ -10781,7 +10780,6 @@
     critical_hit_rate: "100"
     float_wide: 15
     hit_type: 1
-    is_ricochet: 100
     is_shield: 100
     fix_damage: "1000005544"
   }
