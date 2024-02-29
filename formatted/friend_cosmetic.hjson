@@ -17779,6 +17779,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_friendmall_VHS
     order: 1
     rarity: 5
@@ -17790,6 +17791,7 @@
     sub_type: 2
     gem: 320
     item_ids: 508-8000
+    onsale: 1
     code: card_friendmall_VHS
     order: 1
     rarity: 5
@@ -17969,6 +17971,28 @@
     code: profilePic_mask_2024SpringFes
     order: 1
     rarity: 5
+  }
+  {
+    id: 1452
+    item_id: 2452
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    code: profilePic_friendmall_M110
+    order: 1
+    rarity: 5
+    event_id: 3136
+  }
+  {
+    id: 1453
+    item_id: 2453
+    sub_type: 2
+    gem: 320
+    item_ids: 508-8000
+    code: card_friendmall_M110
+    order: 1
+    rarity: 5
+    event_id: 3133
   }
   {
     id: 100001
@@ -18320,6 +18344,7 @@
     sub_type: 4
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profileFrame_friendmall_VHS
     order: 1
     rarity: 5
@@ -18343,5 +18368,17 @@
     order: 1
     rarity: 5
     filter_type: "5"
+  }
+  {
+    id: 100041
+    item_id: 200041
+    sub_type: 4
+    gem: 200
+    item_ids: 508-5000
+    code: profileFrame_friendmall_M110
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    event_id: 3139
   }
 ]

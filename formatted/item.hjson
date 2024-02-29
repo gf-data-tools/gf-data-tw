@@ -694,6 +694,15 @@
     rank: 1
   }
   {
+    id: 131
+    type: 3
+    arg: "32"
+    code: Medal_SAC2045
+    item_name: 鏡像遞歸者勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在「鏡扉的永恆」活動中的卓越戰績，「平靜的水面下暗流洶涌，唯有您的眼睛可以窺見真實。」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -14059,6 +14068,51 @@
     rank: 1
   }
   {
+    id: 2449
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_Motoko
+    item_name: 草薙素子-幽魂低語
+    introduction: 草薙素子-幽魂低語
+    rank: 1
+  }
+  {
+    id: 2450
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_Ezaki
+    item_name: 江崎普琳-鬼魂駭客
+    introduction: 江崎普琳-鬼魂駭客
+    rank: 1
+  }
+  {
+    id: 2451
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_Mizukinn
+    item_name: 水金鈴鹿-夢中安魂曲
+    introduction: 水金鈴鹿-夢中安魂曲
+    rank: 1
+  }
+  {
+    id: 2452
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_M110
+    item_name: M110頭像
+    introduction: M110頭像
+    rank: 1
+  }
+  {
+    id: 2453
+    type: 5
+    arg: "1"
+    code: card_friendmall_M110
+    item_name: 名片：焙夢師
+    introduction: 名片：焙夢師
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -15298,6 +15352,15 @@
     id: 10712
     type: 18
     arg: "10712"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10713
+    type: 18
+    arg: "10713"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
@@ -17160,6 +17223,34 @@
     code: Platinum_medal_black
     item_name: 白金勳章·一幣之遙
     introduction: 白金勳章·一幣之遙
+    rank: 1
+  }
+  {
+    id: 100204
+    type: 9
+    arg: "100204"
+    code: Coin_SAC2045
+    item_name: 碎鏡之譽
+    introduction: 碎鏡之譽
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100205
+    type: 4
+    arg: "100205"
+    code: Nova_medal_black
+    item_name: 新星勳章·鏡扉的永恆
+    introduction: 新星勳章·鏡扉的永恆
+    rank: 1
+  }
+  {
+    id: 100206
+    type: 4
+    arg: "100206"
+    code: Platinum_medal_black
+    item_name: 白金勳章·鏡扉的永恆
+    introduction: 白金勳章·鏡扉的永恆
     rank: 1
   }
   {
@@ -19171,7 +19262,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第1期前線協議
     rank: 1
   }
   {
@@ -19179,7 +19270,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第1期前線協議進階
     rank: 1
   }
   {
@@ -19187,7 +19278,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第2期前線協議
     rank: 1
   }
   {
@@ -19195,7 +19286,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第2期前線協議進階
     rank: 1
   }
   {
@@ -19203,7 +19294,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第3期前線協議
     rank: 1
   }
   {
@@ -19211,7 +19302,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第3期前線協議進階
     rank: 1
   }
   {
@@ -19219,7 +19310,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第4期前線協議
     rank: 1
   }
   {
@@ -19227,7 +19318,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第4期前線協議進階
     rank: 1
   }
   {
@@ -19235,7 +19326,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第5期前線協議
     rank: 1
   }
   {
@@ -19243,7 +19334,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第5期前線協議進階
     rank: 1
   }
   {
@@ -19251,7 +19342,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第6期前線協議
     rank: 1
   }
   {
@@ -19259,7 +19350,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第6期前線協議進階
     rank: 1
   }
   {
@@ -19267,7 +19358,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第7期前線協議
     rank: 1
   }
   {
@@ -19275,7 +19366,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第7期前線協議進階
     rank: 1
   }
   {
@@ -19283,7 +19374,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第8期前線協議
     rank: 1
   }
   {
@@ -19291,7 +19382,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第8期前線協議進階
     rank: 1
   }
   {
@@ -19299,7 +19390,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第9期前線協議
     rank: 1
   }
   {
@@ -19307,7 +19398,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第9期前線協議進階
     rank: 1
   }
   {
@@ -19315,7 +19406,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第10期前線協議
     rank: 1
   }
   {
@@ -19323,7 +19414,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第10期前線協議進階
     rank: 1
   }
   {
@@ -19331,7 +19422,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第11期前線協議
     rank: 1
   }
   {
@@ -19339,7 +19430,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第11期前線協議進階
     rank: 1
   }
   {
@@ -19347,7 +19438,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第12期前線協議
     rank: 1
   }
   {
@@ -19355,7 +19446,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第12期前線協議進階
     rank: 1
   }
   {
@@ -19363,7 +19454,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第13期前線協議
     rank: 1
   }
   {
@@ -19371,7 +19462,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第13期前線協議進階
     rank: 1
   }
   {
@@ -19379,7 +19470,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第14期前線協議
     rank: 1
   }
   {
@@ -19387,7 +19478,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第14期前線協議進階
     rank: 1
   }
   {
@@ -19395,7 +19486,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第15期前線協議
     rank: 1
   }
   {
@@ -19403,7 +19494,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第15期前線協議進階
     rank: 1
   }
   {
@@ -19411,7 +19502,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第16期前線協議
     rank: 1
   }
   {
@@ -19419,7 +19510,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *榴彈捕手
+    item_name: *第16期前線協議進階
     rank: 1
   }
   {
@@ -19794,6 +19885,15 @@
     code: profileFrame_bonus_snack
     item_name: 頭像框·長恩祭歲
     introduction: 頭像框·長恩祭歲
+    rank: 1
+  }
+  {
+    id: 200041
+    type: 1
+    arg: "1"
+    code: profileFrame_friendmall_M110
+    item_name: 頭像框·香糯童話
+    introduction: 頭像框·香糯童話
     rank: 1
   }
   {
@@ -21251,6 +21351,36 @@
     id: 1700015
     type: 15
     arg: "1700015"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700016
+    type: 15
+    arg: "1700016"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700017
+    type: 15
+    arg: "1700017"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700018
+    type: 15
+    arg: "1700018"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
