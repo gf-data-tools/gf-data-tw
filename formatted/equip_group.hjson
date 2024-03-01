@@ -199,4 +199,22 @@
     group_skill: 2:759312
     fit_gun: "20002"
   }
+  {
+    id: 23
+    name: 輕裝上陣
+    des: 為LWMMG量身訂製的套裝，使用的都是性價比最高的材料，沒有浪費多少預算。
+    code: EgroupLWMMG
+    equip_unit: "0,131,385"
+    group_skill: 2:1000103
+    fit_gun: "20081"
+  }
+  {
+    id: 24
+    name: 與你同行
+    des: 為M950A量身訂製的套裝，寄託了與友人的羈絆，和大家並肩前行的願景。
+    code: EgroupM950A
+    equip_unit: "179,0,384"
+    group_skill: 2:1000203
+    fit_gun: "20097"
+  }
 ]
