@@ -36912,45 +36912,6 @@
     classification_id: "3002"
   }
   {
-    id: "11805"
-    type: "8"
-    gift: 600-1
-    gemprice: "1280"
-    if_cheap: "1"
-    quota: "2001"
-    giftbag_name: 草薙素子-幽魂低語
-    event_code: dailyGiftbag
-    icon: Bumdle_suzi
-    discount: "1.00"
-    classification_id: "3003"
-  }
-  {
-    id: "11806"
-    type: "8"
-    gift: 598-1
-    gemprice: "1280"
-    if_cheap: "1"
-    quota: "2001"
-    giftbag_name: 江崎普琳-鬼魂駭客
-    event_code: dailyGiftbag
-    icon: Bumdle_pulin
-    discount: "1.00"
-    classification_id: "3003"
-  }
-  {
-    id: "11807"
-    type: "8"
-    gift: 599-1
-    gemprice: "1280"
-    if_cheap: "1"
-    quota: "2001"
-    giftbag_name: 水金鈴鹿-夢中安魂曲
-    event_code: dailyGiftbag
-    icon: Bumdle_linglu
-    discount: "1.00"
-    classification_id: "3003"
-  }
-  {
     id: "11808"
     type: "9"
     item_ids: 2453-1
