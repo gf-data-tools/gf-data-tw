@@ -1541,7 +1541,7 @@
     id: 640101
     type: 1406
     arguments: 640101:0
-    extra_language: 不使用反隱技能完成本關
+    extra_language: 不使用偽裝偵測技能完成本關
   }
   {
     id: 1027801
@@ -5988,7 +5988,7 @@
     id: 1150501
     type: 1406
     arguments: 640100:0
-    extra_language: 布丁被擊敗
+    extra_language: 江崎普琳被擊敗
   }
   {
     id: 1150601
@@ -6026,7 +6026,7 @@
     id: 1151601
     type: 1406
     arguments: 640100:0
-    extra_language: 布丁被擊敗
+    extra_language: 江崎普琳被擊敗
   }
   {
     id: 1151701
