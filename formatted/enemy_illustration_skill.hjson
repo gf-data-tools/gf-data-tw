@@ -1210,6 +1210,41 @@
     description: 每個回合都可以進行一次緊張的演出。
   }
   {
+    id: 10052
+    name: 狂轟濫炸
+    description: 向場上隨機丟出歌利亞，造成爆炸傷害並禁錮目標。
+  }
+  {
+    id: 10053
+    name: 調解
+    description: 攻擊被禁錮目標會獲得護盾並解除禁錮。
+  }
+  {
+    id: 10054
+    name: 幕後
+    description: 召喚都市隸人加入戰鬥。
+  }
+  {
+    id: 10055
+    name: 黑暗降臨
+    description: 隨機附加混亂標記，一定時間後引爆標記有機率使目標陷入混亂，失去理智。
+  }
+  {
+    id: 10056
+    name: 火力全開
+    description: 大幅提升自身傷害。
+  }
+  {
+    id: 10057
+    name: 精準打擊
+    description: 對我方生命值最低的單位進行一次射擊。
+  }
+  {
+    id: 10058
+    name: 傷殘恐懼
+    description: 進入RPG模式，擊殺單位能獲得護盾。
+  }
+  {
     id: 10087
     name: 雞尾酒狂熱
     description: 對我方隨機單位投擲燃燒瓶,3秒的持續時間內每0.33秒製造一次傷害。

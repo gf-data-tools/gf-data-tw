@@ -3124,6 +3124,14 @@
     code_b: Console_Icon
   }
   {
+    id: 640104
+    code_a: Rouge_591004
+    description_a: 攻殼車
+    description_b: 光學偽裝反制
+    description_c: 開啟
+    code_b: Console_Icon
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 我方梯隊
@@ -4822,6 +4830,22 @@
     description_a: 我方梯隊
     description_b: 防禦門X1
     description_c: 開啟
+    code_b: Console_Icon
+  }
+  {
+    id: 6400000
+    code_a: SAC2045_CamouflageSkill
+    description_a: 我方梯隊
+    description_b: 光學偽裝
+    description_c: 開啟
+    code_b: Console_Icon
+  }
+  {
+    id: 6400003
+    code_a: SAC2045_CamouflageSkill
+    description_a: 我方梯隊
+    description_b: 光學偽裝
+    description_c: 關閉
     code_b: Console_Icon
   }
   {

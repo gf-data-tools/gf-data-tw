@@ -1435,6 +1435,36 @@
     class_id: 99
   }
   {
+    id: 598
+    name: 江崎普琳-鬼魂駭客
+    fit_gun: 1043
+    voice: 4
+    dialog: 這只是例行安全檢查！就算你再怎麼遮遮掩掩，也是躲不過我的掃描的！
+    gift_position: "-131.7,391.4"
+    order: 124
+    skin_source: 1
+  }
+  {
+    id: 599
+    name: 水金鈴鹿-夢中安魂曲
+    fit_gun: 1044
+    voice: 4
+    dialog: 就讓意識停留在虛擬世界中，悠然浮沉，忘卻現實世界的種種煩惱，豈不快活？
+    gift_position: "-345.2,-23.4"
+    order: 124
+    skin_source: 1
+  }
+  {
+    id: 600
+    name: 草薙素子-幽魂低語
+    fit_gun: 1042
+    voice: 4
+    dialog: 噓——你的GHOST在低聲傾訴……
+    gift_position: "-148.8,-37.1"
+    order: 124
+    skin_source: 1
+  }
+  {
     id: 601
     name: 托卡列夫-兩人的旅程
     fit_gun: 6
@@ -8613,6 +8643,103 @@
     skin_source: 1
   }
   {
+    id: 10201
+    name: Erma-月下天使淚
+    fit_gun: 376
+    voice: 16
+    dialog: 為什麼畫像中的天使總是微笑著的？他們每日聆聽著人類的苦惱，不該感到悲傷嗎？
+    gift_position: "-353.6,75.6"
+    order: 126
+    class_id: 98
+    skin_source: 1
+  }
+  {
+    id: 10202
+    name: HK433-夜色落入赫墨拉的窗
+    fit_gun: 390
+    voice: 16
+    dialog: 黑色的眼睛凝望黑暗，淺色的瞳孔接收光明，那什麼樣的目光才可以追隨您的身影？
+    illustrator_cv: 豆芽,,
+    order: 126
+    class_id: 98
+    skin_source: 2
+  }
+  {
+    id: 10203
+    name: HK416-透明的藍
+    fit_gun: 65
+    voice: 16
+    dialog: 渴望是藍色的，忠誠是藍色的，遙不可及的理想也是藍色的。我是藍色的，你也是藍色的。
+    order: 126
+    class_id: 98
+    skin_source: 2
+  }
+  {
+    id: 10204
+    name: 劉氏步槍-清音素心
+    fit_gun: 316
+    voice: 16
+    dialog: 鐘聲響起的瞬間，我的思緒好像被帶到了幾百年前，那時的人們因為相愛而締結契約，因為契約而相伴終生……
+    gift_position: "-177.1,197.4"
+    order: 126
+    class_id: 98
+    skin_source: 1
+  }
+  {
+    id: 10205
+    name: X95-厄瑞涅的耳語
+    fit_gun: 251
+    voice: 16
+    dialog: 謝謝您給予我白色的花朵和潔白的羽翼，我願意承擔您所有的痛苦，獻上我所擁有的一切。
+    illustrator_cv: 多爾,植田佳奈,
+    order: 126
+    class_id: 98
+    skin_source: 2
+  }
+  {
+    id: 10207
+    name: K2-相守在花下
+    fit_gun: 194
+    voice: 16
+    dialog: 可愛的後輩們精心佈置了這樣美麗的現場，不知道是要舉行什麼樣的活動呢？什麼……只有我不知道嗎？太丟人了……
+    order: 126
+    class_id: 98
+    skin_source: 2
+  }
+  {
+    id: 10208
+    name: Saiga-12-水中倩影
+    fit_gun: 160
+    voice: 16
+    dialog: 指揮官，我已經將溫泉附近打掃得乾乾淨淨了，相信很快就會有美少女來……我衣服弄髒了嗎，為什麼盯著我看？
+    gift_position: "-128.8,10.9"
+    illustrator_cv: YoYo,金元壽子,
+    order: 126
+    class_id: 98
+    skin_source: 1
+  }
+  {
+    id: 10209
+    name: G3-暗紅嫣柔
+    fit_gun: 63
+    voice: 16
+    dialog: 指揮官，我今天的樣子和平常不太一樣？唔……好像是因為新髮型將之前的配飾擋住了……這樣不好看嗎？
+    illustrator_cv: 野生廢硅,吉岡香織,
+    order: 126
+    class_id: 98
+    skin_source: 2
+  }
+  {
+    id: 10210
+    name: G43-光影之舞
+    fit_gun: 47
+    voice: 16
+    dialog: 熱情的鴿子！它們一定也在讚美今天的太陽！指揮官，別躲在陰涼處了，站在我身邊吧！
+    illustrator_cv: 星迴,山根希美,
+    order: 126
+    class_id: 98
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57
@@ -8655,6 +8782,7 @@
     fit_gun: 378
     voice: 4
     dialog: 下午陽光不錯，適合為狗狗修理毛髮。SAMO也贊同我的意見，對吧UNCLE？
+    gift_position: "-274.1,47.4"
     order: 102
   }
   {
@@ -8733,11 +8861,20 @@
   }
   {
     id: 30015
-    name: 95式-蘭塘秋夢
+    name: 95式-煙雨青綺
     fit_gun: 129
     voice: 4
     dialog: 「長亭短亭，問君歸期」……我的曲聲並無哀怨，因為我堅信自己等待的那位意中人必將如約前來。長官，您說是嗎？
     illustrator_cv: --,古賀葵,
     order: 122
+  }
+  {
+    id: 30017
+    name: M16A1-特工沒有假期
+    fit_gun: 54
+    voice: 4
+    dialog: 還是剛才那件外套適合你，換回去吧，指揮官。正好他們也來了，準備行動。假期？這和我們有什麼關係？
+    illustrator_cv: 小槍,山根希美,
+    order: 125
   }
 ]

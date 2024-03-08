@@ -422,8 +422,8 @@
     type: 2
     poster: PackageImage_anniversary_1
     drop_package_id: 1202
-    due_time: 2023/07/17  23:59:59
-    due_prize_id: 7585
+    due_time: 2023/07/19  23:59:59
+    due_prize_id: 7586
     present_info:
       '''
       使用「一周年至臻裝扮券」後，可從下列裝扮中隨機獲得一件未擁有的裝扮。如已擁有所有裝扮，則從中隨機獲得一件。
@@ -436,8 +436,8 @@
     type: 2
     poster: PackageImage_anniversary_2
     drop_package_id: 1203
-    due_time: 2023/07/17  23:59:59
-    due_prize_id: 7585
+    due_time: 2023/07/19  23:59:59
+    due_prize_id: 7586
     present_info:
       '''
       使用「二周年至臻裝扮券」後，可從下列裝扮中隨機獲得一件未擁有的裝扮。如已擁有所有裝扮，則從中隨機獲得一件。
@@ -450,8 +450,8 @@
     type: 2
     poster: PackageImage_anniversary_3
     drop_package_id: 1204
-    due_time: 2023/07/17  23:59:59
-    due_prize_id: 7585
+    due_time: 2023/07/19  23:59:59
+    due_prize_id: 7586
     present_info:
       '''
       使用「三周年至臻裝扮券」後，可從下列裝扮中隨機獲得一件未擁有的裝扮。如已擁有所有裝扮，則從中隨機獲得一件。
@@ -464,8 +464,8 @@
     type: 2
     poster: PackageImage_anniversary_4
     drop_package_id: 1205
-    due_time: 2023/07/17  23:59:59
-    due_prize_id: 7585
+    due_time: 2023/07/19  23:59:59
+    due_prize_id: 7586
     present_info:
       '''
       使用「四周年至臻裝扮券」後，可從下列裝扮中隨機獲得一件未擁有的裝扮。如已擁有所有裝扮，則從中隨機獲得一件。
@@ -478,8 +478,8 @@
     type: 2
     poster: PackageImage_anniversary_5
     drop_package_id: 1206
-    due_time: 2023/07/17  23:59:59
-    due_prize_id: 7585
+    due_time: 2023/07/19  23:59:59
+    due_prize_id: 7586
     present_info:
       '''
       使用「五周年至臻裝扮券」後，可從下列裝扮中隨機獲得一件未擁有的裝扮。如已擁有所有裝扮，則從中隨機獲得一件。
@@ -492,8 +492,8 @@
     type: 2
     poster: PackageImage_anniversary_6
     drop_package_id: 1207
-    due_time: 2023/07/17  23:59:59
-    due_prize_id: 7585
+    due_time: 2023/07/19  23:59:59
+    due_prize_id: 7586
     present_info:
       '''
       使用「六周年至臻裝扮券」後，可從下列裝扮中隨機獲得一件未擁有的裝扮。如已擁有所有裝扮，則從中隨機獲得一件。
@@ -958,6 +958,38 @@
       '''
   }
   {
+    item_id: 1500120
+    type: 1
+    prize_id: 140001
+    due_time: 2024/05/06 00:00:00
+    due_prize_id: 140016
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1500121
+    type: 1
+    prize_id: 140003
+    due_time: 2024/05/06 00:00:00
+    due_prize_id: 140016
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1500122
+    type: 2
+    drop_package_id: 2285
+    due_time: 2024/05/06 00:00:00
+    due_prize_id: 140016
+    present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
+  }
+  {
+    item_id: 1500123
+    type: 2
+    drop_package_id: 945
+    due_time: 2024/05/06 00:00:00
+    due_prize_id: 140016
+    present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089
@@ -1098,6 +1130,30 @@
     type: 1
     prize_id: 150106
     due_time: 2024/04/22  00:00:00
+    due_prize_id: 140075
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700019
+    type: 1
+    prize_id: 150107
+    due_time: 2024/06/03  00:00:00
+    due_prize_id: 140073
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700020
+    type: 1
+    prize_id: 150108
+    due_time: 2024/06/03  00:00:00
+    due_prize_id: 140074
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700021
+    type: 1
+    prize_id: 150109
+    due_time: 2024/06/03  00:00:00
     due_prize_id: 140075
     present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
   }

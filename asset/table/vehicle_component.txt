@@ -547,7 +547,7 @@ vehicle_component-20001132,被動：重武器攻擊距離增加。每隔一段�
 vehicle_component-40001132,
 vehicle_component-50001132,
 vehicle_component-10001133,迷彩網
-vehicle_component-20001133,地圖技能：自身3回合不會被（非遠程攻擊）索敵
+vehicle_component-20001133,地圖技能：自身3回合不會被（非遠程攻擊）索敵，只能使用一次
 vehicle_component-40001133,
 vehicle_component-50001133,
 vehicle_component-10001134,頂部格柵裝甲
@@ -567,7 +567,7 @@ vehicle_component-20002132,被動：重武器攻擊距離增加。每隔一段�
 vehicle_component-40002132,
 vehicle_component-50002132,
 vehicle_component-10002133,迷彩網
-vehicle_component-20002133,地圖技能：自身3回合不會被（非遠程攻擊）索敵
+vehicle_component-20002133,地圖技能：自身3回合不會被（非遠程攻擊）索敵，只能使用一次
 vehicle_component-40002133,
 vehicle_component-50002133,
 vehicle_component-10002134,頂部格柵裝甲
@@ -587,10 +587,22 @@ vehicle_component-20003132,被動：重武器攻擊距離增加。每隔一段�
 vehicle_component-40003132,
 vehicle_component-50003132,
 vehicle_component-10003133,迷彩網
-vehicle_component-20003133,地圖技能：自身3回合不會被（非遠程攻擊）索敵
+vehicle_component-20003133,地圖技能：自身3回合不會被（非遠程攻擊）索敵，只能使用一次
 vehicle_component-40003133,
 vehicle_component-50003133,
 vehicle_component-10003134,頂部格柵裝甲
 vehicle_component-20003134,被動：開場後獲得保護，受到的傷害最高不超過N點，受到N次傷害後效果消失。主動：重新獲得該效果
 vehicle_component-40003134,
 vehicle_component-50003134,
+vehicle_component-10000101,攻殼車
+vehicle_component-20000101,重武器係數<h_weapon_ratio> 命中係數<hit_ratio> 射速係數<atk_speed_ratio> 裝填係數<reload_ratio> 精確係數<precision_ratio>
+vehicle_component-40000101,
+vehicle_component-50000101,
+vehicle_component-10000102,攻殼車
+vehicle_component-20000102,索敵範圍<search_range> 輕武器係數<l_weapon_ratio> 命中係數<hit_ratio> 射速係數<atk_speed_ratio> 裝填係數<reload_ratio> 精確係數<precision_ratio>
+vehicle_component-40000102,
+vehicle_component-50000102,
+vehicle_component-10000103,攻殼車
+vehicle_component-20000103,
+vehicle_component-40000103,
+vehicle_component-50000103,

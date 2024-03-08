@@ -7745,6 +7745,160 @@
     type: "1"
   }
   {
+    id: "1031"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1032"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1033"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1034"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1035"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1036"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1037"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1038"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1039"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1040"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1041"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1042"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1043"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1044"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1045"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1046"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1047"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1048"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1049"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1050"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1051"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1052"
+    start_time: 2024-03-01 10:00:00
+    end_time: 2024-03-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
     id: "1053"
     start_time: 2024-01-29 00:00:00
     end_time: 2024-02-23 15:00:00
@@ -7979,6 +8133,132 @@
     id: "1085"
     start_time: 2024-03-01 10:00:00
     end_time: 2036-04-01 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1086"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1087"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1088"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1089"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1090"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1091"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1092"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1093"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1094"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1095"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1096"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1097"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1098"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1099"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1100"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1101"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1102"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
+    clear_cycle: "1"
+    type: "1"
+  }
+  {
+    id: "1103"
+    start_time: 2024-03-29 10:00:00
+    end_time: 2036-04-29 10:00:00
     clear_cycle: "1"
     type: "1"
   }

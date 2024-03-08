@@ -13879,6 +13879,105 @@
     rank: 1
   }
   {
+    id: 2417
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_01
+    item_name: 頭像：憂愁的守望
+    introduction: 頭像：憂愁的守望
+    rank: 1
+  }
+  {
+    id: 2418
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_02
+    item_name: 頭像：墜入粉色旋渦
+    introduction: 頭像：墜入粉色旋渦
+    rank: 1
+  }
+  {
+    id: 2419
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_03
+    item_name: 頭像：連接羈絆
+    introduction: 頭像：連接羈絆
+    rank: 1
+  }
+  {
+    id: 2420
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_04
+    item_name: 頭像：騎士的衝刺時分
+    introduction: 頭像：騎士的衝刺時分
+    rank: 1
+  }
+  {
+    id: 2421
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_05
+    item_name: 頭像：遙望黃昏落幕
+    introduction: 頭像：遙望黃昏落幕
+    rank: 1
+  }
+  {
+    id: 2422
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_06
+    item_name: 頭像：夜櫻入酒
+    introduction: 頭像：夜櫻入酒
+    rank: 1
+  }
+  {
+    id: 2423
+    type: 5
+    arg: "1"
+    code: card_Ghost2024_01
+    item_name: 名片：長夜灼灼
+    introduction: 名片：長夜灼灼
+    rank: 1
+  }
+  {
+    id: 2424
+    type: 5
+    arg: "1"
+    code: card_Ghost2024_02
+    item_name: 名片：真理如刺
+    introduction: 名片：真理如刺
+    rank: 1
+  }
+  {
+    id: 2425
+    type: 5
+    arg: "1"
+    code: card_Ghost2024_03
+    item_name: 名片：世界盡頭
+    introduction: 名片：世界盡頭
+    rank: 1
+  }
+  {
+    id: 2426
+    type: 5
+    arg: "1"
+    code: card_Ghost2024_04
+    item_name: 名片：冷酷仙境
+    introduction: 名片：冷酷仙境
+    rank: 1
+  }
+  {
+    id: 2427
+    type: 5
+    arg: "1"
+    code: cg_Ghost2024
+    item_name: 背景：攻殼車的日常
+    introduction: 背景：攻殼車的日常
+    rank: 1
+  }
+  {
     id: 2428
     type: 5
     arg: "1"
@@ -14110,6 +14209,105 @@
     code: card_friendmall_M110
     item_name: 名片：焙夢師
     introduction: 名片：焙夢師
+    rank: 1
+  }
+  {
+    id: 2454
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M16A1
+    item_name: 名片：槍響之後
+    introduction: 名片：槍響之後
+    rank: 1
+  }
+  {
+    id: 2455
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M16A1
+    item_name: M16A1-特工沒有假期
+    introduction: M16A1-特工沒有假期
+    rank: 1
+  }
+  {
+    id: 2456
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_Erma
+    item_name: Erma-月下天使淚
+    introduction: Erma-月下天使淚
+    rank: 1
+  }
+  {
+    id: 2457
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_HK433
+    item_name: HK433-夜色落入赫墨拉的窗
+    introduction: HK433-夜色落入赫墨拉的窗
+    rank: 1
+  }
+  {
+    id: 2458
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_HK416
+    item_name: HK416-透明的藍
+    introduction: HK416-透明的藍
+    rank: 1
+  }
+  {
+    id: 2459
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_GeneralLiu
+    item_name: 劉氏步槍-清音素心
+    introduction: 劉氏步槍-清音素心
+    rank: 1
+  }
+  {
+    id: 2460
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_X95
+    item_name: X95-厄瑞涅的耳語
+    introduction: X95-厄瑞涅的耳語
+    rank: 1
+  }
+  {
+    id: 2461
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_K2
+    item_name: K2-相守在花下
+    introduction: K2-相守在花下
+    rank: 1
+  }
+  {
+    id: 2462
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_Saiga12
+    item_name: Saiga-12-水中倩影
+    introduction: Saiga-12-水中倩影
+    rank: 1
+  }
+  {
+    id: 2463
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_G3
+    item_name: G3-暗紅嫣柔
+    introduction: G3-暗紅嫣柔
+    rank: 1
+  }
+  {
+    id: 2464
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_G43
+    item_name: G43-光影之舞
+    introduction: G43-光影之舞
     rank: 1
   }
   {
@@ -19514,6 +19712,22 @@
     rank: 1
   }
   {
+    id: 140033
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第17期前線協議
+    rank: 1
+  }
+  {
+    id: 140034
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第17期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -19889,11 +20103,20 @@
   }
   {
     id: 200041
-    type: 1
+    type: 5
     arg: "1"
     code: profileFrame_friendmall_M110
     item_name: 頭像框·香糯童話
     introduction: 頭像框·香糯童話
+    rank: 1
+  }
+  {
+    id: 200042
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M16A1
+    item_name: 頭像框·燈下微塵
+    introduction: 頭像框·燈下微塵
     rank: 1
   }
   {
@@ -21177,6 +21400,46 @@
     code: Bumdle_Coupons1
     item_name: 致臻裝扮券
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500120
+    type: 15
+    arg: "1500120"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-威士忌風暴，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500121
+    type: 15
+    arg: "1500121"
+    code: package_choose
+    item_name: 彈匣類裝備自選包
+    introduction: 來自於前線協議-威士忌風暴，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500122
+    type: 15
+    arg: "1500122"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-威士忌風暴，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500123
+    type: 15
+    arg: "1500123"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-威士忌風暴，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
   }

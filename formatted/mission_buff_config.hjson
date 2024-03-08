@@ -4388,6 +4388,48 @@
     priority: 1
   }
   {
+    id: 640100
+    name: 【標記】敵方隱身buff抵消
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 640102
+    priority: 1
+  }
+  {
+    id: 640101
+    name: 【標記】敵方加速buff
+    code: ExtraMove
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    conflict_type: 640101
+    ext_move: 1
+  }
+  {
+    id: 640102
+    name: 【標記】敵方隱身buff
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    battle_skill_config_id: 757192
+    conflict_type: 640102
+    shader: SkeletonCloakingEnemy;_ShowEffect:0,1|_Cutoff:0,5
+  }
+  {
+    id: 640103
+    name: 【標記】反隱攜帶
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    conflict_type: 640103
+    carry_mission_skill: "640104"
+  }
+  {
     id: 910630
     name: 護盾
     description: 護盾增幅中
@@ -4740,6 +4782,73 @@
     exp_buff: "1"
     cannot_move: "1"
     conflict_type: 6360008
+  }
+  {
+    id: 6400000
+    name: 熱光偽裝
+    description: 狀態持續期間不會被敵人的警戒發現，且戰鬥內將獲得增益。
+    code: SAC2045_CamouflageSkill
+    type: 1
+    duration_type: "1"
+    duration_time: "2"
+    exp_buff: "1"
+    battle_skill_config_id: 757192
+    conflict_type: 6400000
+    carry_mission_skill: "6400003"
+    shader: SkeletonCloaking;_ShowEffect:0,1|_Cutoff:0,5
+  }
+  {
+    id: 6400001
+    name: 【標記】我方隱身技能攜帶buff
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    conflict_type: 6400001
+    carry_mission_skill: "6400000"
+  }
+  {
+    id: 6400002
+    name: 【標記】我方隱身傳送返回
+    description: 1回合內可以進入隱身地圖，最多移動2格
+    type: 1
+    duration_type: "1"
+    duration_time: "3"
+    exp_buff: "1"
+    special_spot_config_id: 640002
+    conditions_type: "5"
+    conditions_time: 0-2
+    conflict_type: 6400002
+  }
+  {
+    id: 6400003
+    name: 【標記】我方隱身技能CD
+    type: 1
+    duration_type: "1"
+    duration_time: "3"
+    exp_buff: "1"
+    conflict_type: 6400003
+  }
+  {
+    id: 6400004
+    name: 【標記】我方隱身技能主動取消CD
+    type: 1
+    duration_type: "1"
+    duration_time: "2"
+    exp_buff: "1"
+    conflict_type: 6400004
+  }
+  {
+    id: 6400005
+    name: 【標記】Boss攜帶標記Buff
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    special_spot_config_id: 6400005
+    conditions_type: "1"
+    conditions_time: 0-1
+    conflict_type: 6400005
   }
   {
     id: 6410101

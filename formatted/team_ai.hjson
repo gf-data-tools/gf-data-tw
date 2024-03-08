@@ -222,4 +222,22 @@
     pic: ai_guard
     color: ffffff
   }
+  {
+    id: 26
+    force_id: 2
+    ai_type: 201
+    name: 巡邏
+    description: 沿著特定路線移動，且對周邊1格範圍進行警戒，最多偏離原定路線1格；會受到特殊技能的影響。
+    pic: ai_patrol
+    color: ffffff
+  }
+  {
+    id: 27
+    force_id: 2
+    ai_type: 202
+    name: 警戒
+    description: 警戒範圍內不存在非己方單位時靜止不動，警戒範圍內進入非己方單位後，以「最短」的「可行」路徑向「最近的」非己方單位移動；會受到特殊技能的影響。
+    pic: ai_guard
+    color: ffffff
+  }
 ]
