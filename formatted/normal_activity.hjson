@@ -345,4 +345,16 @@
     desc: 活動時間:2020.10.30-11.20
     scene_name: Halloween2020logo
   }
+  {
+    id: 31
+    campaign_id: -50
+    tag: C.E.|2022
+    order: 103
+    name: 節日活動Ⅳ
+    chapter_name: 焙炒愛意
+    bg_code: active_WhiteDay2022
+    bg_config: "#000000C7,#3D415166,#D00001FF,#FFFFFFFF"
+    desc: 活動時間:2022.03.10-03.31
+    scene_name: active_WhiteDay2022logo
+  }
 ]
