@@ -14311,6 +14311,15 @@
     rank: 1
   }
   {
+    id: 2465
+    type: 5
+    arg: "1"
+    code: profilePic_AprilFool2024_ZasM76
+    item_name: Zas M76-尋途的蒂蒂娜
+    introduction: Zas M76-尋途的蒂蒂娜
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -15559,6 +15568,15 @@
     id: 10713
     type: 18
     arg: "10713"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10714
+    type: 18
+    arg: "10714"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
@@ -18113,6 +18131,15 @@
     id: 110069
     type: 4
     arg: "110069"
+    code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
+    id: 110070
+    type: 4
+    arg: "110070"
     code: PT
     item_name: 活動點數
     introduction: 活動點數
@@ -21644,6 +21671,36 @@
     id: 1700018
     type: 15
     arg: "1700018"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700019
+    type: 15
+    arg: "1700019"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700020
+    type: 15
+    arg: "1700020"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700021
+    type: 15
+    arg: "1700021"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
