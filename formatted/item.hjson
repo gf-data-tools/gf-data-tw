@@ -14320,6 +14320,24 @@
     rank: 1
   }
   {
+    id: 2467
+    type: 5
+    arg: "1"
+    code: card_BattlePass_HS50
+    item_name: 名片：折桂的歡歌
+    introduction: 名片：折桂的歡歌
+    rank: 1
+  }
+  {
+    id: 2468
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_HS50
+    item_name: HS.50-電玩高手養成記
+    introduction: HS.50-電玩高手養成記
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -19755,6 +19773,22 @@
     rank: 1
   }
   {
+    id: 140035
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第18期前線協議
+    rank: 1
+  }
+  {
+    id: 140036
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第18期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -20144,6 +20178,15 @@
     code: profileFrame_BattlePass_M16A1
     item_name: 頭像框·燈下微塵
     introduction: 頭像框·燈下微塵
+    rank: 1
+  }
+  {
+    id: 200043
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_HS50
+    item_name: 頭像框·愛：機器與電波
+    introduction: 頭像框·愛：機器與電波
     rank: 1
   }
   {
@@ -21467,6 +21510,46 @@
     code: package_random
     item_name: 前線協議-額外獎勵
     introduction: 來自於前線協議-威士忌風暴，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500124
+    type: 15
+    arg: "1500124"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-雲端的王座，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500125
+    type: 15
+    arg: "1500125"
+    code: package_choose
+    item_name: 人形類裝備自選包
+    introduction: 來自於前線協議-雲端的王座，可從該指定投遞配給序標內選擇獲取一件人形類裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500126
+    type: 15
+    arg: "1500126"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-雲端的王座，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500127
+    type: 15
+    arg: "1500127"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-雲端的王座，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
   }
