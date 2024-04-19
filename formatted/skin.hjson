@@ -720,7 +720,7 @@
     fit_gun: 55
     voice: 4
     dialog: 我會一直記得家的坐標，但我也不會放棄遠航，你願意和我一起繫上氣球去冒險嗎？
-    illustrator_cv: 影法師,戶松遙,
+    illustrator_cv: STAR影法師,戶松遙,
     order: 52
     class_id: 59
     skin_source: 3
@@ -732,7 +732,7 @@
     voice: 4
     dialog: 這些傢伙怎麼沒完沒了地來煩擾我啊？要是有人能幫我驅趕它們就好了……
     gift_position: "-137.1,-115.5"
-    illustrator_cv: 影法師,田村由加莉,
+    illustrator_cv: STAR影法師,田村由加莉,
     order: 52
     class_id: 59
     skin_source: 1
@@ -744,7 +744,7 @@
     voice: 4
     dialog: 你問我為什麼願意陪你瘋陪你冒險？因為烏鴉長得像寫字台。
     gift_position: "-117.4,-159.7"
-    illustrator_cv: 影法師,加藤英美里,
+    illustrator_cv: STAR影法師,加藤英美里,
     order: 52
     class_id: 59
     skin_source: 1
@@ -756,7 +756,7 @@
     voice: 4
     dialog: 快些，再快些，已經沒有時間了……那麼，我就用這最後的時刻回答你最後一個問題，我願意。
     gift_position: "-156.9,-65.1"
-    illustrator_cv: 影法師,山根希美,
+    illustrator_cv: STAR影法師,山根希美,
     order: 52
     class_id: 59
     skin_source: 1
@@ -768,7 +768,7 @@
     voice: 4
     dialog: 雖然這是一件十分討厭的事，但如果能護你周全，我願意二十四小時待命。
     gift_position: "-103.86,-153.6"
-    illustrator_cv: 影法師,福原綾香,
+    illustrator_cv: STAR影法師,福原綾香,
     order: 52
     class_id: 59
     skin_source: 1
@@ -780,7 +780,7 @@
     voice: 4
     dialog: 咚咚咚——您預訂的魔法師服務到了，沒有這樣的預約？那麼請您讓開，我要踹開您的門了……
     gift_position: "-168.1,-125.5"
-    illustrator_cv: 影法師,嶺內ともみ,
+    illustrator_cv: STAR影法師,嶺內ともみ,
     order: 52
     class_id: 59
     skin_source: 1
@@ -792,7 +792,7 @@
     voice: 4
     dialog: 當當當——魔法師的償願事務所開張啦！如果你有什麼想要實現的心願的話，請排在45姐的後面！
     gift_position: "-37.9,-144.7"
-    illustrator_cv: 影法師,能登麻美子,
+    illustrator_cv: STAR影法師,能登麻美子,
     order: 52
     class_id: 59
     skin_source: 1
@@ -804,7 +804,7 @@
     voice: 4
     dialog: 簌簌簌——當你吃下這顆糖，你也就和我有了約定，不好好遵守的話我是不會輕易放過你的。
     gift_position: "-113.1,-146.1"
-    illustrator_cv: 影法師,野中藍,
+    illustrator_cv: STAR影法師,野中藍,
     order: 52
     class_id: 59
     skin_source: 1
@@ -816,7 +816,7 @@
     voice: 4
     dialog: 嘰嘰嘰——什麼，兔子是沒有聲帶的嗎？那下次有任務找我的時候還是直接裝睡好了……
     gift_position: "-121.8,-80.1"
-    illustrator_cv: 影法師,福原綾香,
+    illustrator_cv: STAR影法師,福原綾香,
     order: 52
     class_id: 59
     skin_source: 1
@@ -828,7 +828,7 @@
     voice: 4
     dialog: 砰砰砰——寄存在我這裡的心願，正在無人知曉的土壤中悄悄發芽……
     gift_position: "-109.4,-181"
-    illustrator_cv: 影法師,上間江望,
+    illustrator_cv: STAR影法師,上間江望,
     order: 52
     class_id: 59
     skin_source: 1
@@ -5533,6 +5533,15 @@
     note: 原型裝扮
   }
   {
+    id: 5074
+    name: 79式-原型
+    fit_gun: 20127
+    voice: 4
+    is_hidden: 2
+    dialog: 原型裝扮
+    note: 原型裝扮
+  }
+  {
     id: 5101
     name: 劉氏步槍-垂枝夢狐影
     fit_gun: 316
@@ -8753,6 +8762,81 @@
     class_id: 98
   }
   {
+    id: 10301
+    name: TPS-心不跳遊戲
+    fit_gun: 387
+    voice: 4
+    dialog: 來玩個遊戲吧，指揮官，比誰的心臟能停滯更久！對呀，人形沒有心臟，所以我才能穩贏了嘛~
+    order: 129
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10302
+    name: 柯爾特沃克-和瑪姬的夜話時間
+    fit_gun: 375
+    voice: 4
+    dialog: 來找我聊投資的事嗎？正好最近有幾個億的……啊呀，拿錯劇本了，等我調整下……指揮官，今晚也要來一套心理輔導的服務嗎？
+    order: 129
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10303
+    name: 97式霰-自白劑濫用家
+    fit_gun: 161
+    voice: 4
+    dialog: 長官，您怎麼一直看著我磨磨唧唧的，有話直說唄！再不說，我就要上自白劑了！
+    illustrator_cv: 豆芽,大坪由佳,
+    order: 129
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10304
+    name: Mk48-戀愛腦締造者
+    fit_gun: 121
+    voice: 4
+    dialog: 你的CT顯示你對我的愛還不夠多呢，沒關係，只要我切除這一塊和這一塊的腦組織，你就會成為徹頭徹尾的戀愛腦了~
+    gift_position: "-241,87.5"
+    illustrator_cv: YoYo,立花理香,
+    order: 129
+    class_id: 100
+    skin_source: 1
+  }
+  {
+    id: 10305
+    name: 菲德洛夫-薄荷色的吐息
+    fit_gun: 335
+    voice: 4
+    dialog: 要試試我新學的放鬆方法嗎？來，跟隨我深呼吸，吸氣——吐氣——放鬆了些嗎？有沒有感覺焦慮都飛走了？
+    order: 129
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10306
+    name: PP-90-燈下安眠曲
+    fit_gun: 23
+    voice: 4
+    dialog: 我不明白您在說什麼，什麼姐妹會，什麼女僕的……又做了什麼奇怪的夢嗎？那麼來這裡躺下吧，我會守護著您安睡的。
+    illustrator_cv: 多爾,青木志貴,
+    order: 129
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10307
+    name: CZ52-驅鴉黑魔女
+    fit_gun: 210
+    voice: 4
+    dialog: 不小心吵醒您了，我只是注意到您白天在為了被烏鴉弄髒的車頂嘆氣，想要為您做點什麼……太好了，有為您分擔到就好。
+    gift_position: "-106,104.7"
+    illustrator_cv: 小星,河上明日香,
+    order: 129
+    class_id: 100
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57
@@ -8804,6 +8888,7 @@
     fit_gun: 285
     voice: 4
     dialog: 指揮官，這就是我跟您提起過的那家店哦！被蝴蝶標本環繞的花香下午茶……怎麼會一直籍籍無名呢？
+    gift_position: "34.7,183.3"
     order: 105
   }
   {

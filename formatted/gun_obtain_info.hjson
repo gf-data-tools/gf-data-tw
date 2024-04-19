@@ -1317,4 +1317,8 @@
     obtain_id: "3113"
     description: 限時活動<鏡扉的永恆>代幣兌換
   }
+  {
+    obtain_id: "3114"
+    description: 限時活動<錯構之泉>代幣兌換
+  }
 ]

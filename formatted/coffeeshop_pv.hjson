@@ -114,15 +114,22 @@
   {
     id: "17"
     title: 靜風點
-    description: 2022年冬季活動視頻
+    description: 2022年冬季活動PV
     cost: 506-1000
     prize_id: "5027"
   }
   {
     id: "18"
     title: 縱向應變
-    description: 2022年夏季活動視頻
+    description: 2022年夏季活動PV
     cost: 506-1000
     prize_id: "5028"
+  }
+  {
+    id: "19"
+    title: 慢休克
+    description: 2023年春季活動PV
+    cost: 506-1000
+    prize_id: "5029"
   }
 ]

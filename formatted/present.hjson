@@ -1022,6 +1022,45 @@
     present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
   }
   {
+    item_id: 1500128
+    type: 2
+    poster: PackageImage_3
+    drop_package_id: 2324
+    due_time: 2024/05/19  23:59:59
+    due_prize_id: 7395
+    present_info:
+      '''
+      指揮官可從裝扮「UMP45-旋轉彭羅斯」、「UMP45-逐願的禮花魔法師」和「UMP45-下不為例」中隨機獲得一件未擁有的裝扮。
+      如已擁有上述所有裝扮，則從中隨機獲得一件。
+      '''
+  }
+  {
+    item_id: 1500129
+    type: 2
+    poster: PackageImage_5
+    drop_package_id: 2325
+    due_time: 2024/05/19  23:59:59
+    due_prize_id: 7396
+    present_info:
+      '''
+      指揮官可從裝扮「Erma-月下天使淚」、「AR-18-路亞之餌」、「UMP45-侘寂旅人」、「UMP45-特工垂耳兔」和「UMP45-鑽石之花」中隨機獲得一件未擁有的裝扮。
+      如已擁有上述所有裝扮，則從中隨機獲得一件。
+      '''
+  }
+  {
+    item_id: 1500130
+    type: 2
+    poster: PackageImage_8
+    drop_package_id: 2326
+    due_time: 2024/05/19  23:59:59
+    due_prize_id: 7397
+    present_info:
+      '''
+      指揮官可從裝扮「Erma-暗香盈」和「UMP45-科羅娜日落」中隨機獲得一件未擁有的裝扮。
+      如已擁有上述所有裝扮，則從中隨機獲得一件。
+      '''
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089

@@ -17421,4 +17421,21 @@
     icon_code: 第六只眼
     condition: 11506:640101,11517:640101
   }
+  {
+    identity: 1221
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 欸嘿打不著！
+    content: 錯構之泉-沉默之人：作戰次數不超過1次的情況下獲得勝利。
+    type_sort: 100
+    sort: 325
+    icon_code: 诶嘿打不着
+    condition: 11633:1163302
+  }
 ]

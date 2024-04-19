@@ -3132,6 +3132,30 @@
     code_b: Console_Icon
   }
   {
+    id: 680301
+    code_a: 202404book
+    description_a: 我方梯隊
+    description_b: 童話書
+    description_c: 拾取
+    code_b: Console_Icon
+  }
+  {
+    id: 680521
+    code_a: Door_Left
+    description_a: 控制台
+    description_b: 防禦門
+    description_c: 開啟
+    code_b: Console_Icon
+  }
+  {
+    id: 680531
+    code_a: Door_Left
+    description_a: 控制台
+    description_b: 防禦門
+    description_c: 關閉
+    code_b: Console_Icon
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 我方梯隊

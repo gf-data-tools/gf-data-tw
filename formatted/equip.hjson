@@ -5307,7 +5307,7 @@
     code: 弹闸_子弹_79式
     develop_duration: 3180
     company: S&B
-    fit_guns: "127"
+    fit_guns: "127,20127"
     equip_introduction: 85gr（5.5g）全金屬被甲彈能夠提升射擊時的貫通力，79式手中的新寵。
     powerup_mp: 0.48
     powerup_ammo: 0.48
@@ -12319,5 +12319,71 @@
     is_show: 1
     obtain_ids: "3104"
     description_skill: 1001001
+  }
+  {
+    id: 395
+    name: FMG防護骨骼
+    description:
+      '''
+      命中+<hit>
+      迴避+<dodge>$PP-90專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    hit: "1,2"
+    dodge: "15,19"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_PP90
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "23"
+    equip_introduction: PP-90最常使用的外骨骼，可以有效防禦敵人的進攻。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: hit:1000,dodge:1000
+    max_level: 10
+    auto_select_id: 20082
+    is_show: 1
+    obtain_ids: "3114"
+  }
+  {
+    id: 396
+    name: 特殊作戰服
+    description:
+      '''
+      暴擊傷害+<critical_harm_rate><%>
+      迴避+<dodge>技能增強$79式專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "16,21"
+    critical_harm_rate: "5,10"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_79Type
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "127,20127"
+    equip_introduction: 專門為79式量身製作的作戰服，可以適應大部分嚴苛的戰鬥環境。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: critical_harm_rate:500,dodge:1000
+    passive_skill: "1000910"
+    max_level: 10
+    auto_select_id: 20080
+    is_show: 1
+    obtain_ids: "3016"
+    description_skill: 1000910
   }
 ]

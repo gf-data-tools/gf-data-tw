@@ -1,5 +1,12 @@
 [
   {
+    id: -15
+    name: 黑影Stevens 520
+    code: NPC_Stevens520_Shadow
+    title: 黑影Stevens 520
+    ai: 9999
+  }
+  {
     id: -14
     name: 格里芬
     code: Org_Griffin

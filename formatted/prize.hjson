@@ -14694,6 +14694,204 @@
     equip_ids: "392"
   }
   {
+    id: 2335
+    name: 錯構之泉6+a
+    item_ids: 100214-6,100212-1
+  }
+  {
+    id: 2336
+    name: 錯構之泉8+a
+    item_ids: 100214-8,100212-1
+  }
+  {
+    id: 2337
+    name: 錯構之泉8+2a
+    item_ids: 100214-8,100212-2
+  }
+  {
+    id: 2338
+    name: 錯構之泉10+b
+    item_ids: 100214-10,100213-1
+  }
+  {
+    id: 2339
+    name: 錯構之泉10+2a
+    item_ids: 100214-10,100212-2
+  }
+  {
+    id: 2340
+    name: 錯構之泉10+a+b
+    item_ids: 100214-10,100212-1,100213-1
+  }
+  {
+    id: 2341
+    name: 錯構之泉12+b
+    item_ids: 100214-12,100213-1
+  }
+  {
+    id: 2342
+    name: 錯構之泉12+2b
+    item_ids: 100214-12,100213-2
+  }
+  {
+    id: 2343
+    name: 錯構之泉15+2b
+    item_ids: 100214-15,100213-2
+  }
+  {
+    id: 2344
+    name: 錯構之泉15+2a+2b
+    item_ids: 100214-15,100212-2,100213-2
+  }
+  {
+    id: 2345
+    name: 錯構之泉6
+    item_ids: 100214-6
+  }
+  {
+    id: 2346
+    name: 錯構之泉8
+    item_ids: 100214-8
+  }
+  {
+    id: 2347
+    name: 錯構之泉10
+    item_ids: 100214-10
+  }
+  {
+    id: 2348
+    name: 錯構之泉12
+    item_ids: 100214-12
+  }
+  {
+    id: 2349
+    name: 錯構之泉15
+    item_ids: 100214-15
+  }
+  {
+    id: 2350
+    name: 錯構之泉a
+    item_ids: 100212-1
+  }
+  {
+    id: 2351
+    name: 錯構之泉b
+    item_ids: 100213-1
+  }
+  {
+    id: 2352
+    name: 錯構之泉2a
+    item_ids: 100212-2
+  }
+  {
+    id: 2353
+    name: 錯構之泉2b
+    item_ids: 100213-2
+  }
+  {
+    id: 2354
+    name: PP-90專屬：FMG防護骨骼
+    equip_ids: "395"
+  }
+  {
+    id: 2355
+    name: 傢具：藏匿聖地
+    furniture: "20124"
+  }
+  {
+    id: 2356
+    name: 傢具：天使塑像噴泉
+    furniture: "20127"
+  }
+  {
+    id: 2357
+    name: 傢具：時間的遺跡
+    furniture: "20125"
+  }
+  {
+    id: 2358
+    name: 傢具：通緝榜單
+    furniture: "20128"
+  }
+  {
+    id: 2359
+    name: 戰術人形：TPS
+    gun_id: "387"
+  }
+  {
+    id: 2360
+    name: 戰術人形：97式霰
+    gun_id: "161"
+  }
+  {
+    id: 2361
+    name: 錯構之泉限定裝扮券·壹
+    item_ids: 1500128-1
+    icon: Bumdle_summergarden01
+  }
+  {
+    id: 2362
+    name: 錯構之泉限定裝扮券·貳
+    item_ids: 1500129-1
+    icon: Bumdle_summergarden02
+  }
+  {
+    id: 2363
+    name: 錯構之泉限定裝扮券·參
+    item_ids: 1500130-1
+    icon: Bumdle_summergarden03
+  }
+  {
+    id: 2364
+    name: UMP45-旋轉彭羅斯
+    gift: 555-1
+  }
+  {
+    id: 2365
+    name: UMP45-逐願的禮花魔法師
+    gift: 535-1
+  }
+  {
+    id: 2366
+    name: UMP45-下不為例
+    gift: 410-1
+  }
+  {
+    id: 2367
+    name: Erma-月下天使淚
+    gift: 10201-1
+  }
+  {
+    id: 2368
+    name: AR-18-路亞之餌
+    gift: 8504-1
+  }
+  {
+    id: 2369
+    name: UMP45-侘寂旅人
+    gift: 5405-1
+  }
+  {
+    id: 2370
+    name: UMP45-特工垂耳兔
+    gift: 3403-1
+  }
+  {
+    id: 2371
+    name: UMP45-鑽石之花
+    gift: 2107-1
+  }
+  {
+    id: 2372
+    name: Erma-暗香盈
+    gift: 8003-1
+  }
+  {
+    id: 2373
+    name: UMP45-科羅娜日落
+    gift: 584-1
+  }
+  {
     id: 3001
     name: 柯爾特左輪
     item_ids: 1318-1
@@ -15083,6 +15281,14 @@
     item_ids: 1862-1,200003-1
     equip_ids: "239"
     skin: 5047
+    content: 心智升級贈送
+  }
+  {
+    id: 3127
+    name: 79式
+    item_ids: 2466-1,200003-1
+    equip_ids: "396"
+    skin: 5074
     content: 心智升級贈送
   }
   {
@@ -16363,6 +16569,12 @@
     id: 5028
     name: 咖啡廳2022夏活PV獎勵
     furniture: "20078"
+    content: 領取獎勵
+  }
+  {
+    id: 5029
+    name: 咖啡廳2023春活PV獎勵
+    furniture: "20131"
     content: 領取獎勵
   }
   {
@@ -37223,6 +37435,177 @@
     name: 世界盡頭的落日-任務獎勵
     item_ids: 131-1
     furniture: "20118"
+  }
+  {
+    id: 17631
+    name: 反抗者-任務獎勵
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 17632
+    name: 飛鳥-任務獎勵
+    core: 10
+  }
+  {
+    id: 17633
+    name: 沉默之人-任務獎勵
+    coins: 1-200
+  }
+  {
+    id: 17634
+    name: 奢華、寧靜與愉悅-任務獎勵
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 17635
+    name: 開著的窗戶-任務獎勵
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 17636
+    name: 在門檻的圈套裡-任務獎勵
+    coins: 2-200
+  }
+  {
+    id: 17637
+    name: 紅色中的和諧-任務獎勵
+    furniture: "20120"
+  }
+  {
+    id: 17638
+    name: 裂縫的瓶-任務獎勵
+    furniture: "20121"
+  }
+  {
+    id: 17639
+    name: 拉封丹寓言-任務獎勵
+    coins: 3-200
+  }
+  {
+    id: 17640
+    name: 搖籃-任務獎勵
+    furniture: "20122"
+  }
+  {
+    id: 17641
+    name: 人造天堂-任務獎勵
+    furniture: "20126"
+  }
+  {
+    id: 17642
+    name: 困惑靈魂的叛變-任務獎勵
+    item_ids: 51-2
+  }
+  {
+    id: 17643
+    name: 燈-任務獎勵
+    furniture: "20129"
+  }
+  {
+    id: 17644
+    name: 惡之花-任務獎勵
+    furniture: "20123"
+  }
+  {
+    id: 17645
+    name: 世界盡頭的燈塔-任務獎勵
+    item_ids: 45-100
+  }
+  {
+    id: 17646
+    name: 我生，我死-任務獎勵
+    item_ids: 132-1
+    furniture: "20130"
+  }
+  {
+    id: 17647
+    name: 一隻鳥的畫像-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17648
+    name: 國王與小鳥-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17649
+    name: 樹妖的舞蹈-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17650
+    name: 玩牌者-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17651
+    name: 廢墟之鳥-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17652
+    name: 在門檻的圈套裡EX-任務獎勵
+    gift: 200001-100
+  }
+  {
+    id: 17653
+    name: 拉封丹寓言EX-任務獎勵
+    item_ids: 46-100
+  }
+  {
+    id: 17654
+    name: 困惑靈魂的叛變EX-任務獎勵
+    item_ids: 51-2
+  }
+  {
+    id: 17655
+    name: 世界盡頭的燈塔EX-任務獎勵
+    item_ids: 100215-1
+  }
+  {
+    id: 17656
+    name: 死者之歌-任務獎勵
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17657
+    name: 死者之歌EX-任務獎勵
+    core: 10
+  }
+  {
+    id: 17658
+    name: 大火之後-任務獎勵
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
   }
   {
     id: 20001
