@@ -51918,7 +51918,7 @@
     sub: 14
     if_emergency: -1
     special_type: 9
-    name: 惡之花
+    name: 刻字的石頭
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21

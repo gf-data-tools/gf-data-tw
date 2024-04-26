@@ -24737,7 +24737,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -24758,7 +24758,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -24779,7 +24779,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -24800,7 +24800,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -24821,7 +24821,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -24841,7 +24841,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
     missionskill_on_death: "1,680102,680100,0;1,680103,680100,0;1,680104,680100,0;"
   }
@@ -24863,7 +24863,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
     missionskill_on_death: "2,680201,680201,0;2,680601,680201,0"
   }
@@ -24885,7 +24885,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
     missionskill_on_death: "1,680202,680210,0;1,680602,680210,0;"
   }
@@ -24909,7 +24909,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: book;童話書？;0,0;0
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -24932,7 +24932,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: book;童話書？;0,0;0
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -24955,7 +24955,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: book;童話書？;0,0;0
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -24978,7 +24978,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: book;童話書？;0,0;0
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25001,7 +25001,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: book;童話書？;0,0;0
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25024,7 +25024,7 @@
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
     active_building_info: book;童話書？;0,0;0
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25045,7 +25045,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25067,7 +25067,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25089,7 +25089,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25110,7 +25110,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25131,7 +25131,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25153,7 +25153,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25175,7 +25175,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25197,7 +25197,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25219,7 +25219,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25241,7 +25241,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
@@ -25262,7 +25262,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: "15"
+    des: 【標記】略
     confront_des: 本次戰役中無法破壞該設施
   }
   {
