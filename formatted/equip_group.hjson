@@ -235,4 +235,22 @@
     group_skill: 2:1000503
     fit_gun: "20143"
   }
+  {
+    id: 27
+    name: 登峰造極
+    des: 為布倫量身訂製的套裝，能夠幫助布倫邁往心目中的巔峰。
+    code: EgroupBrenMKMod
+    equip_unit: "393,123,0"
+    group_skill: 2:1001103
+    fit_gun: "20089"
+  }
+  {
+    id: 28
+    name: 糖衣炮彈
+    des: 為AA-12量身訂製的套裝，有助於更加文明有效地解決問題。
+    code: EgroupAA12
+    equip_unit: "394,174,0"
+    group_skill: 2:1001203
+    fit_gun: "163"
+  }
 ]
