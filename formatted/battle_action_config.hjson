@@ -25235,6 +25235,8 @@
     id: 9213
     name: 马提尼亨利主动技能
     creation_order: "3727"
+    effect_order: "1"
+    effect_duration: "1"
   }
   {
     id: 9214
