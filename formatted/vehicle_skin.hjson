@@ -1308,6 +1308,78 @@
     is_show: 1
   }
   {
+    id: 11200
+    name: 64年式-銀河-戰術人型機甲裝甲圖紙
+    type: 1
+    vehicle_id: "2"
+    class_id: 12
+    code: Warjack_1012
+    item_id: 133130
+    obtain: "41"
+    introduction: 格里芬64年式通用作戰機甲，它將為我們撕裂一切黑暗。
+    is_show: 1
+  }
+  {
+    id: 11201
+    name: 64年式-銀河
+    type: 2
+    group_id: 118
+    class_id: 12
+    code: Small_Missile_Launcher_1012
+    item_id: 133131
+    obtain: "41"
+    introduction: 銀河的配套小型導彈發射器，為戰鬥提供精準打擊。
+    is_show: 1
+  }
+  {
+    id: 11202
+    name: 64年式-銀河
+    type: 2
+    group_id: 142
+    class_id: 12
+    code: ElecGun_1012
+    item_id: 133132
+    obtain: "41"
+    introduction: 銀河的配套速射電磁槍，能夠連續進行小型電磁炮攻擊。
+    is_show: 1
+  }
+  {
+    id: 11203
+    name: 64年式-銀河
+    type: 2
+    group_id: 107
+    class_id: 12
+    code: MG_Cannon_1012
+    item_id: 133133
+    obtain: "41"
+    introduction: 銀河的配套機槍炮，小口徑炮彈發射器。
+    is_show: 1
+  }
+  {
+    id: 11204
+    name: 64年式-銀河
+    type: 2
+    group_id: 124
+    class_id: 12
+    code: AutoDef_1012
+    item_id: 133134
+    obtain: "41"
+    introduction: 銀河的配套防護產生器，為銀河提供防護。
+    is_show: 1
+  }
+  {
+    id: 11205
+    name: 64年式-銀河
+    type: 2
+    group_id: 143
+    class_id: 12
+    code: LaserSup_1012
+    item_id: 133135
+    obtain: "41"
+    introduction: 銀河的配套雷射壓制裝置，干擾敵方的火力瞄準。
+    is_show: 1
+  }
+  {
     id: 11300
     name: AA-02M 贖罪者圖紙
     type: 1

@@ -656,8 +656,8 @@
   }
   {
     id: 50000
-    name: 晶片buff
-    description: 攜帶額外的彈藥口糧
+    name: 充足燃料
+    description: 梯隊可額外攜帶2份彈藥口糧。
     code: ExtraAmmo
     type: 1
     duration_type: "1"
@@ -668,8 +668,8 @@
   }
   {
     id: 50001
-    name: 晶片buff
-    description: 額外行動力
+    name: 鬼影姿態
+    description: 梯隊每回合第1次移動時不消耗行動點。
     code: ExtraAp
     type: 1
     duration_type: "1,5"
@@ -680,8 +680,8 @@
   }
   {
     id: 50002
-    name: 晶片buff
-    description: 額外作戰彈糧
+    name: 儉節勤兵
+    description: 梯隊部署後的首次戰鬥不消耗彈藥和口糧且傷害提升15%。
     code: AmmoReduce
     type: 1
     duration_type: "4"
@@ -694,8 +694,8 @@
   }
   {
     id: 50003
-    name: 晶片buff
-    description: 夜戰視野加強
+    name: 夜戰視野
+    description: 夜間作戰時，額外為梯隊提供1格視野。
     code: NightView
     type: 1
     duration_type: "1"
@@ -706,8 +706,8 @@
   }
   {
     id: 50004
-    name: 晶片buff
-    description: 夜戰能力加強
+    name: 夜視能力
+    description: 夜間作戰時，抵消100%夜戰命中懲罰。
     code: nighthitBuff
     type: 1
     duration_type: "1"

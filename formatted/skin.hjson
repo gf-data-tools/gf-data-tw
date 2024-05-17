@@ -8286,7 +8286,7 @@
   }
   {
     id: 8801
-    name: 蟒蛇-葬地麗影
+    name: 蟒蛇-墓地麗影
     fit_gun: 4
     voice: 18
     dialog: 看來發現這個寶藏的人不只有我嘛，來決鬥吧，輸了的人要老實認罰！就算是指揮官，我也不會手下留情的……
@@ -8837,6 +8837,104 @@
     class_id: 100
   }
   {
+    id: 10401
+    name: HK21-心跳加速中
+    fit_gun: 208
+    voice: 4
+    dialog: 紅色禮服裙應該很顯眼吧，姐——指揮官？您也注意到我了？……好吧，我不太會跳舞，踩到腳的話請別介意。
+    illustrator_cv: 多爾,Lynn,
+    order: 131
+    class_id: 101
+    skin_source: 2
+  }
+  {
+    id: 10402
+    name: Vector-片刻沉醉
+    fit_gun: 20
+    voice: 4
+    dialog: 想坐這裡休息？……無所謂，坐吧……沙發那麼寬不夠用嗎，為什麼要坐我腿上？……喂，醒醒！喝了多少啊你？
+    gift_position: "-41.8,-93.2"
+    illustrator_cv: RIRE,早見沙織,
+    order: 131
+    class_id: 101
+    skin_source: 1
+  }
+  {
+    id: 10403
+    name: 97式-鴉雀之聲
+    fit_gun: 130
+    voice: 4
+    dialog: 「哇~哇——」指揮官，我學的像不像？……什麼烏鴉叫，那是孔雀的叫聲，孔雀啦！！！
+    illustrator_cv: 鳩山井鶴,佐倉綾音,
+    order: 131
+    class_id: 101
+    skin_source: 2
+  }
+  {
+    id: 10404
+    name: ART556-狐森小夜曲
+    fit_gun: 175
+    voice: 4
+    dialog: 嘿嘿，你聽到星光和花香了嗎？多麼奇妙啊，加上指揮官的金色微笑，完美！
+    gift_position: "-207.2,21"
+    illustrator_cv: 小星,日高里菜,
+    order: 131
+    class_id: 101
+    skin_source: 1
+  }
+  {
+    id: 10405
+    name: TAC-50-楓糖香檳
+    fit_gun: 222
+    voice: 4
+    dialog: 指揮官，要嘗嘗我特調的楓糖香檳嗎？……我這杯是八分糖……當然有特殊意義了，後年我們來喝十分糖吧！
+    order: 131
+    class_id: 101
+    skin_source: 2
+  }
+  {
+    id: 10406
+    name: FO-12-甜蜜救援
+    fit_gun: 350
+    voice: 4
+    dialog: 傑克，指揮官被無數裙擺包圍了誒，我們要去救援嗎？……唔，也是，指揮官笑得那麼開心，還在碰杯……那麼，我們先吃甜品，吃飽了才有力氣救援嘛~
+    gift_position: "-94.5,-43.2"
+    order: 131
+    class_id: 101
+    skin_source: 1
+  }
+  {
+    id: 10407
+    name: Stevens 520-多洛塔之語
+    fit_gun: 397
+    voice: 4
+    dialog: 太過熱烈或太過艷俗的花都不適合今天的晚會，復古優雅的紫色配上奧斯汀花型才是最優解。至於它的花語，還請你別多想……
+    order: 131
+    class_id: 101
+    skin_source: 2
+  }
+  {
+    id: 10408
+    name: M2HB-晚宴小憩時
+    fit_gun: 77
+    voice: 4
+    dialog: 喝一杯？……喝完了正好回宿舍睡覺，呼，走來走去什麼的太累了……要一起休息一下嗎？
+    illustrator_cv: 二花,岩松泉,
+    order: 131
+    class_id: 101
+  }
+  {
+    id: 10409
+    name: 6P62-時光的樂章
+    fit_gun: 138
+    voice: 4
+    dialog: 指揮官，乾杯！……您說這白紗有些眼熟？上周您的臥室換窗簾，我覺得丟掉有些可惜，就拿回來剪裁了一下，搭配禮服裙非常合適喲！
+    illustrator_cv: YoYo,井上麻里奈,
+    order: 131
+    class_id: 101
+    skin_source: 2
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57
@@ -8897,6 +8995,7 @@
     fit_gun: 367
     voice: 4
     dialog: 霰彈槍不是這麼修的？指揮官，我們需要別人來告訴我們怎麼做是正確的嗎？跟隨我們追求藝術的熱情就夠了！
+    gift_position: "-154.6,148.6"
     order: 105
   }
   {
@@ -8982,5 +9081,25 @@
     voice: 4
     dialog: 基地實驗室新出的AI射擊小遊戲，第一名的獎勵是……和長官共進晚餐？！電、電源線在哪裡？我得好好加油才行！
     order: 128
+  }
+  {
+    id: 30019
+    name: M99-幕啟時踏歌
+    fit_gun: 128
+    voice: 4
+    dialog: 「一二一……扭頭、微笑，轉鼓棒……」很好！慶典的時候也要步伐堅定，不可以被長官的微笑影響……咦？鼓棒……要掉了！
+    illustrator_cv: 小星,大久保瑠美,
+    order: 130
+  }
+  {
+    id: 50001
+    name: 漢陽造88式-致群星
+    fit_gun: 95
+    voice: 4
+    dialog: 我只是那億萬顆星星中不足道的微光，但我很高興能點綴在其中，與大家匯聚成最耀眼的星河！
+    gift_position: "-231.9,39.7"
+    order: 132
+    class_id: 99
+    skin_source: 1
   }
 ]

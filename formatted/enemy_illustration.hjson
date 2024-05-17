@@ -1,22 +1,23 @@
 [
   {
     id: 1
-    name: 工蜂型民用靶機
+    name: enemy_illustration-10000001
     type: 2
     code: Drone
-    introduce: 常規靶機，只用於訓練和演習，可自動記錄作戰影像（前提是攝像頭沒被破壞）。
+    introduce: enemy_illustration-20000001
     life_rank: 7
-    counter: 努力訓練!
+    counter: enemy_illustration-30000001
     character: "1001,903"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000001
     spine_scale: "90,90,1"
   }
   {
     id: 2
-    name: 巡遊者
+    name: enemy_illustration-10000002
     type: 2
     code: Prowler
-    introduce: 鐵血的低級作戰單位，火力和機動性都較弱，主要用於己方陣線的巡邏和偵查任務。
+    introduce: enemy_illustration-20000002
     forces: 1
     if_capture: 1
     pow_rank: 1
@@ -26,17 +27,18 @@
     rate_rank: 3
     speed_rank: 2
     range_rank: 2
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000002
     character: "300"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000002
     spine_scale: "100,100,1"
   }
   {
     id: 3
-    name: 偵查者
+    name: enemy_illustration-10000003
     type: 2
     code: Scouts
-    introduce: 鐵血的低級作戰機甲，作戰能力較弱，但機動性高且易於隱蔽，常用於前線偵察和情報採集。
+    introduce: enemy_illustration-20000003
     forces: 1
     if_capture: 1
     pow_rank: 2
@@ -46,17 +48,18 @@
     rate_rank: 2
     speed_rank: 4
     range_rank: 3
-    counter: 該單位閃避較高，請注意梯隊的命中能力是否足夠應對。
+    counter: enemy_illustration-30000003
     character: "300"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000003
     spine_scale: "100,100,1"
   }
   {
     id: 4
-    name: 切割者
+    name: enemy_illustration-10000004
     type: 3
     code: Ripper
-    introduce: 鐵血的常規作戰傀儡，裝配有短程衝鋒武器，機動性較高，戰場中常充當先鋒或偵查角色。
+    introduce: enemy_illustration-20000004
     forces: 1
     if_capture: 1
     pow_rank: 2
@@ -66,17 +69,18 @@
     rate_rank: 3
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000004
     character: "303"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000004
     spine_scale: "100,100,1"
   }
   {
     id: 5
-    name: 稻草人
+    name: enemy_illustration-10000005
     type: 1
     code: Scarecrow
-    introduce: 擅長收集和分析情報，並不擅長正面作戰，在鐵血人形中地位較低。理性派，無口毒舌，忠於職守，鄙夷感性，面對感情豐富卻只懂得服從的格里芬人形充滿優越感。
+    introduce: enemy_illustration-20000005
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -86,21 +90,21 @@
     rate_rank: 4
     speed_rank: 4
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000005
     character: "1001,201"
     enemy_skill: "59"
     launch_time: 2016-5-20 00:00:00
-    extra: ",奧野香耶,"
+    extra: enemy_illustration-40000005
     spine_scale: "70,70,1"
     org_id: 10604
     related_story_id: 200005
   }
   {
     id: 6
-    name: 兵蟻
+    name: enemy_illustration-10000006
     type: 2
     code: Dinergate
-    introduce: 鐵血的低級作戰機甲，戰鬥能力較弱但適合量產，通常用於警衛和搜尋任務，採用粗暴的衝撞攻擊，成群之後戰鬥力不容小覷。
+    introduce: enemy_illustration-20000006
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -109,17 +113,18 @@
     rate_rank: 2
     speed_rank: 5
     range_rank: 2
-    counter: 該單位近戰輸出能力極高，但相對的自身生存能力極差，推薦使用能快速造成範圍傷害的人形或突擊步槍人形在接觸前完成殲滅。
+    counter: enemy_illustration-30000006
     character: "303"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000006
     spine_scale: "100,100,1"
   }
   {
     id: 7
-    name: 胡蜂
+    name: enemy_illustration-10000007
     type: 3
     code: Vespid
-    introduce: 鐵血的常規作戰傀儡，裝配有遠程突擊武器，火力與低級軍用人形相當，小規模戰鬥的主要戰鬥力。
+    introduce: enemy_illustration-20000007
     forces: 1
     if_capture: 1
     pow_rank: 3
@@ -129,17 +134,18 @@
     rate_rank: 2
     speed_rank: 3
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000007
     character: "300"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000007
     spine_scale: "100,100,1"
   }
   {
     id: 8
-    name: 劊子手
+    name: enemy_illustration-10000008
     type: 1
     code: Excutioner
-    introduce: 相當於精英斥候，比稻草人地位稍高，兩人經常搭檔。莽撞衝動，大大咧咧的女漢子，熱衷於堂堂正正的戰鬥，並不喜歡欺負弱者。
+    introduce: enemy_illustration-20000008
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -150,21 +156,21 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 2
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000008
     character: "1001,202,309"
     enemy_skill: "60"
     launch_time: 2016-5-20 00:00:00
-    extra: ",伊藤靜,"
+    extra: enemy_illustration-40000008
     spine_scale: "80,80,1"
     org_id: 10602
     related_story_id: 200008
   }
   {
     id: 9
-    name: 獵鷗
+    name: enemy_illustration-10000009
     type: 3
     code: Jaeger
-    introduce: 鐵血的常規作戰傀儡，裝配有遠程狙擊武器，火力和精準較高但本體脆弱，常規戰場中必須小心的敵手。
+    introduce: enemy_illustration-20000009
     forces: 1
     if_capture: 1
     pow_rank: 3
@@ -174,17 +180,18 @@
     rate_rank: 2
     speed_rank: 3
     range_rank: 4
-    counter: 該單位主要擔當後排輸出，攻速較慢、命中較高，對我方前排單位造成的傷害比較穩定且顯著，建議選用索敵邏輯為打擊後排的人形進行處理。
+    counter: enemy_illustration-30000009
     character: "307"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000009
     spine_scale: "100,100,1"
   }
   {
     id: 10
-    name: 護衛者
+    name: enemy_illustration-10000010
     type: 3
     code: Guard
-    introduce: 鐵血的高級作戰傀儡，裝配有護盾和短程火力武器，如外形所見的高防禦護衛型角色，一般會用於防禦重要單位，或者作為高級先鋒在部隊推進時出場。
+    introduce: enemy_illustration-20000010
     forces: 1
     if_capture: 1
     pow_rank: 1
@@ -194,17 +201,18 @@
     rate_rank: 4
     speed_rank: 2
     range_rank: 2
-    counter: 該單位為近戰單位，防禦能力較強，但相對的對我方造成有效傷害的能力較弱，主要威脅來自其他負責輸出的單位，請注意選用合適的槍種人形以優先處理被護衛者掩護的單位。
+    counter: enemy_illustration-30000010
     character: "303"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000010
     spine_scale: "90,90,1"
   }
   {
     id: 11
-    name: 獵手
+    name: enemy_illustration-10000011
     type: 1
     code: Hunter
-    introduce: 機動和智能都比較高，擅長騷擾和追擊作戰，需要稻草人與劊子手的配合才能發揮最強的實力。沈著冷靜，喜歡用各種手段將敵人逼到走投無路再活捉，面對格里芬十分高傲，但不屑於使用過於卑劣的手段。
+    introduce: enemy_illustration-20000011
     forces: 1
     if_capture: 1
     pow_rank: 4
@@ -215,21 +223,21 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000011
     character: "1001,203,309"
     enemy_skill: "62"
     launch_time: 2016-5-20 00:00:00
-    extra: ",萩原あみ,"
+    extra: enemy_illustration-40000011
     spine_scale: "75,75,1"
     org_id: 10602
     related_story_id: 200011
   }
   {
     id: 12
-    name: 龍騎兵
+    name: enemy_illustration-10000012
     type: 3
     code: Dragoon
-    introduce: 鐵血的高級作戰傀儡，裝配有小型代步機甲和突擊武器，無論火力，射程，機動性都不容小覷，經常扮演鐵血戰場上的攻堅角色。
+    introduce: enemy_illustration-20000012
     forces: 1
     if_capture: 1
     pow_rank: 3
@@ -239,17 +247,18 @@
     rate_rank: 3
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000012
     character: "304"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000012
     spine_scale: "75,75,1"
   }
   {
     id: 13
-    name: 劫豹
+    name: enemy_illustration-10000013
     type: 2
     code: Jaguar
-    introduce: 鐵血的常規作戰機甲，可移動的高傷害迫擊武器，機動性較差，但火力可以與當代的常規軍用武器媲美。
+    introduce: enemy_illustration-20000013
     forces: 1
     if_capture: 1
     pow_rank: 6
@@ -259,18 +268,19 @@
     rate_rank: 1
     speed_rank: 3
     range_rank: 5
-    counter: 該單位將向預警位置製造較強的投擲傷害，注意指揮人形及時移動規避
+    counter: enemy_illustration-30000013
     character: "1003,325"
     enemy_skill: "8"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000013
     spine_scale: "100,100,1"
   }
   {
     id: 14
-    name: 鋼獅
+    name: enemy_illustration-10000014
     type: 4
     code: Nemeum
-    introduce: 軍方訂購的常規軍用機甲，在出廠前遭到鐵血入侵而成為敵人，可以通過蓄力提高殺傷，但射速和防禦都較差。
+    introduce: enemy_illustration-20000014
     forces: 1
     if_capture: 1
     pow_rank: 4
@@ -280,17 +290,18 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
-    counter: 護甲單位，主要擔當後排輸出，攻速較慢、命中和傷害較高，對我方前排單位造成的傷害比較穩定且顯著，建議選用索敵邏輯為打擊後排且帶穿甲能力的人形進行處理。
+    counter: enemy_illustration-30000014
     character: "309"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000014
     spine_scale: "100,100,1"
   }
   {
     id: 15
-    name: 聖盾
+    name: enemy_illustration-10000015
     type: 5
     code: Aegis
-    introduce: 軍方的常規作戰人形，在出廠前遭到鐵血入侵而成為敵人，近戰實力強大且擁有厚重的裝甲。
+    introduce: enemy_illustration-20000015
     forces: 1
     if_capture: 1
     pow_rank: 2
@@ -300,17 +311,18 @@
     armor_rank: 5
     speed_rank: 2
     range_rank: 2
-    counter: 該單位擁有一定護甲，接戰前請對我方穿甲能力進行仔細評估
+    counter: enemy_illustration-30000015
     character: "303,309"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000015
     spine_scale: "100,100,1"
   }
   {
     id: 16
-    name: 蠍甲獸
+    name: enemy_illustration-10000016
     type: 4
     code: Manticore
-    introduce: 軍方訂購的常規軍用機甲，在出廠前遭到鐵血入侵而成為敵人，擁有驚人的遠程傷害和出眾的防禦能力。
+    introduce: enemy_illustration-20000016
     forces: 1
     if_capture: 1
     pow_rank: 6
@@ -320,17 +332,18 @@
     armor_rank: 3
     speed_rank: 2
     range_rank: 3
-    counter: 擁有一定護甲，輸出能力優秀，不是適合長時間對抗的敵人，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000016
     character: "1003,302,309,301"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000016
     spine_scale: "80,80,1"
   }
   {
     id: 17
-    name: 干擾者
+    name: enemy_illustration-10000017
     type: 1
     code: Intruder
-    introduce: 負責提供作戰策略，也擅長破解和干擾工作，可以直接指揮作戰人形，是稍高級的人形，直接對計量官負責。優雅溫和的言行背後，令人感到的是巨大的空洞，喜歡人類的戲劇，可能是希望從中找到自己的個性。
+    introduce: enemy_illustration-20000017
     forces: 1
     if_capture: 1
     pow_rank: 4
@@ -340,21 +353,21 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000017
     character: "1001,204"
     enemy_skill: "84"
     launch_time: 2016-5-20 00:00:00
-    extra: ",大坪由佳,"
+    extra: enemy_illustration-40000017
     spine_scale: "85,85,1"
     org_id: 10602
     related_story_id: 200017
   }
   {
     id: 18
-    name: 破壞者
+    name: enemy_illustration-10000018
     type: 1
     code: Destroyer
-    introduce: 擅長爆破任務，解除炸彈也是專家級的，作戰能力也不錯，和煉金術士有時會搭檔。平時高傲，毒舌，實際上是個傲嬌，有點小孩子脾氣，逼急了會哭鼻子，十分在意自己的身高。
+    introduce: enemy_illustration-20000018
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -364,21 +377,21 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 該單位具有極高的單發傷害，但是攻速較慢，命中一般，迴避型人形會有更好的防禦效果。
+    counter: enemy_illustration-30000018
     character: "1001,206"
     enemy_skill: "64,99"
     launch_time: 2016-5-20 00:00:00
-    extra: ",高田憂希,"
+    extra: enemy_illustration-40000018
     spine_scale: "85,85,1"
     org_id: 10603
     related_story_id: 200018
   }
   {
     id: 19
-    name: 獵手Elite
+    name: enemy_illustration-10000019
     type: 1
     code: HunterElite
-    introduce: 機動和智能都比較高，擅長騷擾和追擊作戰的鐵血精英人形，在原本的規格上，將搭載的演算芯片進行了大幅度升級，現在她更加沈著冷靜，能夠熟練運用各種手段將敵人逼至絕路。
+    introduce: enemy_illustration-20000019
     forces: 1
     pow_rank: 5
     life_rank: 5
@@ -388,18 +401,19 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000019
     character: "1001,203,309"
     enemy_skill: "62"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000019
     spine_scale: "75,75,1"
   }
   {
     id: 20
-    name: 劊子手Elite
+    name: enemy_illustration-10000020
     type: 1
     code: ExcutionerElite
-    introduce: 比起使用戰術，更偏向於正面對決的鐵血精英人形，揮舞的長刀在原本的基礎上進行了改進，加強了近距離作戰能力，熱衷於堂堂正正的戰鬥，並不喜歡欺負弱者。
+    introduce: enemy_illustration-20000020
     forces: 1
     pow_rank: 6
     life_rank: 5
@@ -409,18 +423,19 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 2
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000020
     character: "1001,202,309"
     enemy_skill: "60,61"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000020
     spine_scale: "80,80,1"
   }
   {
     id: 21
-    name: 銜尾蛇
+    name: enemy_illustration-10000021
     type: 1
     code: Weaver
-    introduce: 擅長短距離的突破或者防禦作戰，智能和作戰能力很高，是蝴蝶事件之後才製造的人形，但因為是製造時期的試驗品，AI極不穩定且很難被控制。表面沈穩內心高傲，擁有強勁的武力和智力優勢，但是實戰經驗較少，而且行事風格捉摸不定，令敵我雙方都難以預判，因此具有極高的危險度。
+    introduce: enemy_illustration-20000021
     forces: 1
     if_capture: 1
     pow_rank: 4
@@ -431,21 +446,21 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 3
-    counter: 該單位將向預警位置製造較強傷害，請注意指揮人形及時移動規避。
+    counter: enemy_illustration-30000021
     character: "1001,210,309"
     enemy_skill: "71,98"
     launch_time: 2016-5-20 00:00:00
-    extra: ",大久保瑠美,"
+    extra: enemy_illustration-40000021
     spine_scale: "80,80,1"
     org_id: 10603
     related_story_id: 200021
   }
   {
     id: 22
-    name: 銜尾蛇Elite
+    name: enemy_illustration-10000022
     type: 1
     code: WeaverElite
-    introduce: 擅長作戰以及戰術演算的高規格鐵血精英人形，各方面性能都在極高水平，是戰場上的多面手，現在她的各方面的能力也因為取得了多種戰術資料而大幅增強，她表面沈穩內心高傲……但是實戰經驗較少，而且行事風格捉摸不定，令敵我雙方都難以預判，因此將她投入到戰場上仍然具有一定的風險。
+    introduce: enemy_illustration-20000022
     forces: 1
     pow_rank: 5
     life_rank: 5
@@ -455,18 +470,19 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 4
-    counter: 該單位將向預警位置製造較強傷害，請注意指揮人形及時移動規避。
+    counter: enemy_illustration-30000022
     character: "1001,210,309"
     enemy_skill: "71,72"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000022
     spine_scale: "80,80,1"
   }
   {
     id: 23
-    name: 煉金術士
+    name: enemy_illustration-10000023
     type: 1
     code: Alchemist
-    introduce: 擅長應對各種戰術需求，也精通審訊逼供，是鐵血作戰的精英，和破壞者有時會搭檔。狂妄自大，囂張而殘忍，為達目的不擇手段，有施虐傾向，將格里芬視為滿足慾望的玩物，不過心理成熟，可以為鐵血的同伴挺身而出。
+    introduce: enemy_illustration-20000023
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -476,21 +492,21 @@
     rate_rank: 4
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000023
     character: "1001,205"
     enemy_skill: "63"
     launch_time: 2016-5-20 00:00:00
-    extra: ",佐藤有世,"
+    extra: enemy_illustration-40000023
     spine_scale: "85,85,1"
     org_id: 10602
     related_story_id: 200023
   }
   {
     id: 24
-    name: 夢想家
+    name: enemy_illustration-10000024
     type: 1
     code: Dreamer
-    introduce: 偏向作戰能力，擁有超遠距離定點打擊的能力，由伊萊莎直接下令指揮，是蝴蝶事件之後才製造的人形，因為自身能力不需要正面出擊，所以平時只呆在鐵血總部，以捉弄法官為樂。優雅的笑容中透著傲慢和難以捉摸，精神狀態極不穩定，總是以自我為中心作戰中會露出瘋狂而不受控制的一面，加上可怕的破壞力，連同伴的安全都不會考慮所幸的是通常不會出現在正面戰場上。
+    introduce: enemy_illustration-20000024
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -500,21 +516,21 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位射程較遠，請注意梯隊整體移動速度，避免移動時間過長導致戰損加重。
+    counter: enemy_illustration-30000024
     character: "1001,209"
     enemy_skill: "70,97"
     launch_time: 2016-5-20 00:00:00
-    extra: ",奧野香耶,"
+    extra: enemy_illustration-40000024
     spine_scale: "75,75,1"
     org_id: 10604
     related_story_id: 200024
   }
   {
     id: 25
-    name: 木星
+    name: enemy_illustration-10000025
     type: 2
     code: Jupiter
-    introduce: 鐵血竊取軍方科技而研發的巨型炮台，無法移動，但擁有戰術人形無法匹敵的強大火力和超遠射程。可以通過包圍戰術切斷其能源，使其主炮停止運作，只能使用機槍塔還擊。
+    introduce: enemy_illustration-20000025
     forces: 1
     pow_rank: 6
     life_rank: 5
@@ -522,18 +538,19 @@
     rate_rank: 4
     armor_rank: 2
     range_rank: 5
-    counter: 未被切斷供電前具有極高的威脅性，建議通過合圍佔領以切斷供電，削弱該單位後再進行攻克。
+    counter: enemy_illustration-30000025
     character: "1003,302,309,910"
     enemy_skill: "12"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000025
     spine_scale: "55,55,1"
   }
   {
     id: 26
-    name: 計量官
+    name: enemy_illustration-10000026
     type: 1
     code: BossGager
-    introduce: 主要擔當指揮行動和人員調度，可以直接指揮作戰人形，也具備不小的作戰能力，地位較高，直接對代理人負責。認真嚴謹，一絲不苟，言行中透露出一股凜然利落的氣質，即使對於敵人也很講求原則和禮節。
+    introduce: enemy_illustration-20000026
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -543,21 +560,21 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000026
     character: "1001,207"
     enemy_skill: "66,67,96"
     launch_time: 2016-5-20 00:00:00
-    extra: ",石川由依,"
+    extra: enemy_illustration-40000026
     spine_scale: "85,85,1"
     org_id: 10602
     related_story_id: 200026
   }
   {
     id: 27
-    name: 建築師
+    name: enemy_illustration-10000027
     type: 1
     code: BossArchitect
-    introduce: 擅長遠程破壞和火力支援，作戰能力很強，通常獨來獨往。活潑開朗的沒頭腦元氣少女，什麼時候都興高采烈，對格里芬也沒有敵對意識，對於鐵血只能最低限度地服從命令，但是對轟炸和破壞十分熱心，所以作為敵人仍然十分危險。
+    introduce: enemy_illustration-20000027
     forces: 1
     if_capture: 1
     pow_rank: 6
@@ -568,21 +585,21 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 5
-    counter: 該單位將向預警位置製造較強傷害，且附帶範圍濺射，請注意指揮人形及時移動規避。
+    counter: enemy_illustration-30000027
     character: "1001,208,309"
     enemy_skill: "68,69"
     launch_time: 2016-5-20 00:00:00
-    extra: ",大坪由佳,"
+    extra: enemy_illustration-40000027
     spine_scale: "85,85,1"
     org_id: 10603
     related_story_id: 200027
   }
   {
     id: 28
-    name: 殘獸
+    name: enemy_illustration-10000028
     type: 3
     code: Brute
-    introduce: 鐵血的新型近距離作戰單位，會快速接近敵人造成可怕的殺傷，同時裝甲薄弱所以容易被破壞。
+    introduce: enemy_illustration-20000028
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -592,17 +609,18 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 2
-    counter: 該單位擁有較高的破甲值，對霰彈槍人形來說是個危險的存在，請注意避免我方霰彈槍人形與她接觸。推薦使用衝鋒槍、手槍等迴避型人形擔當前排。
+    counter: enemy_illustration-30000028
     character: "303"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000028
     spine_scale: "85,85,1"
   }
   {
     id: 29
-    name: 痛擊者
+    name: enemy_illustration-10000029
     type: 3
     code: Striker
-    introduce: 鐵血的常規作戰單位，裝配有遠程機槍武器，火力和射速較高，主要用於戰場的火力輸出和壓制。
+    introduce: enemy_illustration-20000029
     forces: 1
     if_capture: 1
     pow_rank: 3
@@ -612,17 +630,18 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 4
-    counter: 該單位攻速較高、傷害一般，推薦使用霰彈槍人形搭配足夠的護甲進行抵御。
+    counter: enemy_illustration-30000029
     character: "308"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000029
     spine_scale: "100,100,1"
   }
   {
     id: 30
-    name: 狼蛛
+    name: enemy_illustration-10000030
     type: 4
     code: Tarantula
-    introduce: 鐵血「兵蟻」的裝甲升級版，生存性大大提高，可以成群結隊快速撲向敵人造成大片損傷。
+    introduce: enemy_illustration-20000030
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -632,53 +651,56 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 2
-    counter: 該單位近戰輸出能力極高，但相對的自身生存能力極差，但因有護甲加持，在我方穿甲能力不足的情況下不利於快速清理。推薦使用能快速造成範圍傷害的人形或機槍人形在接觸前完成殲滅。
+    counter: enemy_illustration-30000030
     character: "303,309"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000030
     spine_scale: "150,150,1"
   }
   {
     id: 31
-    name: 歌利亞
+    name: enemy_illustration-10000031
     type: 2
     code: Golyat
-    introduce: 鐵血的炸彈型作戰單位，與敵方接觸後會自行爆炸，造成超廣範圍的恐怖殺傷，必須在其近身前盡快消滅。
+    introduce: enemy_illustration-20000031
     forces: 1
     pow_rank: 7
     life_rank: 5
     hit_rank: 7
     speed_rank: 3
     range_rank: 1
-    counter: 危險！請注意評估隊伍輸出能力是否足夠殲滅該單位，輸出能力不足時建議規避。
+    counter: enemy_illustration-30000031
     character: "1001,1003,323,908"
     enemy_skill: "11"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000031
     spine_scale: "100,100,1"
   }
   {
     id: 32
-    name: 歌利亞Plus
+    name: enemy_illustration-10000032
     type: 2
     code: GolyatPlus
-    introduce: 歌利亞的升級版，現有戰術人形的火力幾乎不可能在短時間內將其破壞，避免與其戰鬥也許是最佳方案。
+    introduce: enemy_illustration-20000032
     forces: 1
     pow_rank: 7
     life_rank: 7
     hit_rank: 7
     speed_rank: 3
     range_rank: 1
-    counter: 極度危險！請注意規避！
+    counter: enemy_illustration-30000032
     character: "1001,1003,323,908"
     enemy_skill: "11"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000032
     spine_scale: "100,100,1"
   }
   {
     id: 33
-    name: 末日魔犬
+    name: enemy_illustration-10000033
     type: 1
     code: BossCerberus
-    introduce: 鐵血「兵蟻」的超級升級版，無論體型，裝甲還是火力都獲得大幅提升，甚至可以容納人形心智（不完全），不過性價比不高，難以被量產，戰術定位也不準確，連研發記錄都是個謎團，極少有出場的機會。
+    introduce: enemy_illustration-20000033
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -689,19 +711,20 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 2
-    counter: 該單位將向預警位置製造較強傷害,注意指揮人形及時移動規避
+    counter: enemy_illustration-30000033
     character: "1001,214,309"
     enemy_skill: "79,80"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000033
     spine_scale: "70,70,1"
     org_id: 10603
   }
   {
     id: 34
-    name: 破壞者Plus
+    name: enemy_illustration-10000034
     type: 1
     code: DestroyerPlus
-    introduce: 原本的破壞者被夢想家改造素體之後的全新姿態，火力得到大幅增強，威力較之原本更上了一層樓，但性格與心智並沒有太大的改變。
+    introduce: enemy_illustration-20000034
     forces: 1
     pow_rank: 6
     life_rank: 5
@@ -710,18 +733,19 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 該單位將向預警位置製造較強傷害，請注意指揮人形及時移動規避。
+    counter: enemy_illustration-30000034
     character: "1001,206"
     enemy_skill: "64,65"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000034
     spine_scale: "80,80,1"
   }
   {
     id: 35
-    name: 法官
+    name: enemy_illustration-10000035
     type: 1
     code: Justice
-    introduce: 偏向指揮能力，負責鐵血總部的防禦和安全系統，相當於伊萊莎的侍衛，只會聽從伊萊莎個人的命令，是蝴蝶事件之後才製造的人形，整天面對夢想家很頭疼。嚴肅古板，充滿軍人的威嚴和風範，對伊萊莎絕對忠誠，但個子比較矮小，讓人覺得缺乏氣勢，提出這一點的人無論敵我都會倒大霉。
+    introduce: enemy_illustration-20000035
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -732,21 +756,21 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 該單位攻速較高、傷害一般，且會同時攻擊多個單位，推薦使用霰彈槍人形搭配足夠的護甲進行抵御，同時請注意及時躲避地面的紫色區域，避免受到持續的傷害以及弱化效果。
+    counter: enemy_illustration-30000035
     character: "1001,211,309"
     enemy_skill: "73,74,75"
     launch_time: 2016-5-20 00:00:00
-    extra: ",豊崎愛生,"
+    extra: enemy_illustration-40000035
     spine_scale: "70,70,1"
     org_id: 10604
     related_story_id: 200035
   }
   {
     id: 36
-    name: 夢魘
+    name: enemy_illustration-10000036
     type: 3
     code: unknown
-    introduce: 只存在於電子空間的虛擬敵人，在慢慢接近敵人之後撲咬敵人。通常而言，這些意識體是電子戰模組將防火牆程序具現化的防禦單位，也有可能是在電子平層潛伏的病毒或者惡意程序，或者某些無法解釋的深層存在。
+    introduce: enemy_illustration-20000036
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
@@ -754,17 +778,18 @@
     rate_rank: 3
     speed_rank: 2
     range_rank: 2
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000036
     character: "303"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000036
     spine_scale: "80,80,1"
   }
   {
     id: 37
-    name: 獨眼巨人_AR
+    name: enemy_illustration-10000037
     type: 3
     code: Cyclops
-    introduce: 軍方的作戰人形，配備步槍和殺傷較強的榴彈發射裝置，裝甲相對其他型號較為薄弱。
+    introduce: enemy_illustration-20000037
     forces: 2
     pow_rank: 4
     life_rank: 4
@@ -773,18 +798,19 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000037
     character: "1001,319"
     enemy_skill: "16"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000037
     spine_scale: "85,85,1"
   }
   {
     id: 38
-    name: 獨眼巨人_SG
+    name: enemy_illustration-10000038
     type: 5
     code: Cyclops_SG
-    introduce: 軍方的常規作戰人形，配備霰彈槍和防彈護盾，其他性能與該原型型號相差不大。
+    introduce: enemy_illustration-20000038
     forces: 2
     pow_rank: 4
     life_rank: 4
@@ -794,18 +820,19 @@
     armor_rank: 4
     speed_rank: 3
     range_rank: 4
-    counter: 該單位能力均衡且帶有一定的護甲，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000038
     character: "1001,309,314"
     enemy_skill: "17"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000038
     spine_scale: "85,85,1"
   }
   {
     id: 39
-    name: 九頭蛇
+    name: enemy_illustration-10000039
     type: 4
     code: Hydra
-    introduce: 軍方訂購的常規軍用機甲，在「蠍甲獸」的基礎上進行升級和改進，搭載更高級的遠程軍用火力系統和裝甲，強大的主炮可以對敵方進行毀滅性的武力掃蕩。
+    introduce: enemy_illustration-20000039
     forces: 2
     pow_rank: 6
     life_rank: 5
@@ -814,18 +841,19 @@
     armor_rank: 6
     speed_rank: 1
     range_rank: 2
-    counter: 狀態不佳時面對該單位合理規避
+    counter: enemy_illustration-30000039
     character: "1003,309,301"
     enemy_skill: "18"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000039
     spine_scale: "80,80,1"
   }
   {
     id: 40
-    name: 聖盾_GA
+    name: enemy_illustration-10000040
     type: 5
     code: Aegis_GA
-    introduce: 軍方的常規作戰人形，搭載常規的電擊武器和軍用護盾，近戰實力強大且擁有厚重的裝甲。
+    introduce: enemy_illustration-20000040
     forces: 2
     pow_rank: 2
     life_rank: 3
@@ -834,18 +862,19 @@
     armor_rank: 5
     speed_rank: 3
     range_rank: 2
-    counter: 該單位擁有一定護甲，接戰前請對我方穿甲能力進行仔細評估
+    counter: enemy_illustration-30000040
     character: "303,309,310"
     enemy_skill: "9"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000040
     spine_scale: "100,100,1"
   }
   {
     id: 41
-    name: 牝鹿
+    name: enemy_illustration-10000041
     type: 4
     code: Cerynitis
-    introduce: 軍方的常規作戰機甲，在「鋼獅」的基礎上進行升級和改造，搭載遠程軍用火力系統，並擁有更強的裝甲和高速連射能力。
+    introduce: enemy_illustration-20000041
     forces: 2
     pow_rank: 5
     life_rank: 3
@@ -854,17 +883,18 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
-    counter: 護甲單位，攻擊間隔較短，傷害較高，建議選用步槍人形優先處理。
+    counter: enemy_illustration-30000041
     character: "1003,309"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000041
     spine_scale: "100,100,1"
   }
   {
     id: 42
-    name: 指靈
+    name: enemy_illustration-10000042
     type: 4
     code: Dactyl
-    introduce: 軍方的小型自走佈雷機，會在戰場上高速接近地方區域並布下地雷，即使脆弱的本體被消滅，地雷依然可以在混亂的戰場造成恐怖威脅。
+    introduce: enemy_illustration-20000042
     forces: 2
     pow_rank: 5
     life_rank: 2
@@ -872,18 +902,19 @@
     armor_rank: 2
     speed_rank: 3
     range_rank: 5
-    counter: 擁有小量護甲，移速較高。戰鬥前期即開始快速放置地雷，我方人形觸發時將會受到巨額傷害，請注意規避地雷或在戰鬥前期盡早殲滅該單位。
+    counter: enemy_illustration-30000042
     character: "1001,309,322"
     enemy_skill: "19"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000042
     spine_scale: "100,100,1"
   }
   {
     id: 43
-    name: 提豐
+    name: enemy_illustration-10000043
     type: 4
     code: Typhon
-    introduce: 軍方訂購的常規軍用坦克，配備了一門強大的激光炮，蓄力後發射可以貫穿敵方的整個戰場，並造成驚人的破壞。唯一破解的辦法是快速接近它行動笨拙的本體，利用火力盲區盡快將其消滅。
+    introduce: enemy_illustration-20000043
     forces: 2
     pow_rank: 5
     life_rank: 5
@@ -892,18 +923,19 @@
     armor_rank: 4
     speed_rank: 3
     range_rank: 5
-    counter: 護甲較高，蓄力後發射可以造成多段穿透傷害的激光，但是有最大俯角限制，快速靠近可以免受攻擊，護盾技能可以抵御部分激光傷害但效果並不理想。
+    counter: enemy_illustration-30000043
     character: "1001,1003,302,309,320"
     enemy_skill: "20"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000043
     spine_scale: "70,70,1"
   }
   {
     id: 44
-    name: M16A1
+    name: enemy_illustration-10000044
     type: 1
     code: M16A1_Boss
-    introduce: 遭‘傘’病毒感染而鐵血化的原AR小隊所屬格里芬戰術人形M16A1，不論是外表還是性格都產生了極大的變化，唯一不變的是值得信賴的戰術能力。作為夥伴時令人放鬆，作為敵人時則令人膽寒。
+    introduce: enemy_illustration-20000044
     forces: 1
     pow_rank: 6
     life_rank: 6
@@ -913,19 +945,19 @@
     armor_rank: 6
     speed_rank: 6
     range_rank: 6
-    counter: 信標對不同槍種人形的標識會對鐵血化的M16A1自身產生不同增益。我方區域內被放置信標時，請注意選擇合適的槍種人形踩點進行標識。
+    counter: enemy_illustration-30000044
     character: "1001,215,309"
     enemy_skill: "81,82,83"
     launch_time: 2016-5-20 00:00:00
-    extra: ",山根希美,"
+    extra: enemy_illustration-40000044
     spine_scale: "100,100,1"
   }
   {
     id: 45
-    name: 代理人
+    name: enemy_illustration-10000045
     type: 1
     code: Agent
-    introduce: 負責伊萊莎與下屬鐵血的溝通聯絡工作和後勤管理，作戰人形都直接聽從她的命令，地位極高，無論戰鬥還是指揮都很擅長，可以指揮所有作戰人形。冷淡平靜，有條不紊的言行做派，對敵我都會用尊敬的語氣，但實際上除了對主人十分尊重之外，稱呼他人的詞彙都很低劣，尤其對於格里芬更是充滿蔑視。
+    introduce: enemy_illustration-20000045
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -935,21 +967,21 @@
     rate_rank: 4
     speed_rank: 2
     range_rank: 4
-    counter: 在該角色生成護盾時，請注意集中火力將護盾擊破以中斷蓄力，避免蓄力的高傷害攻擊。
+    counter: enemy_illustration-30000045
     character: "1001,212"
     enemy_skill: "77,78"
     launch_time: 2016-5-20 00:00:00
-    extra: ",生天目仁美,"
+    extra: enemy_illustration-40000045
     spine_scale: "80,80,1"
     org_id: 10604
     related_story_id: 200045
   }
   {
     id: 46
-    name: 射擊士
+    name: enemy_illustration-10000046
     type: 3
     code: Strelet
-    introduce: 基礎的步兵人形，配備有和軍方火力接近的突擊武器系統，雖然是被量產的基本作戰單位，但戰鬥力遠高於鐵血的常規單位。
+    introduce: enemy_illustration-20000046
     forces: 3
     pow_rank: 2
     life_rank: 3
@@ -958,17 +990,18 @@
     rate_rank: 4
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000046
     character: "312"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000046
     spine_scale: "100,100,1"
   }
   {
     id: 47
-    name: 劍盾士
+    name: enemy_illustration-10000047
     type: 3
     code: Rodelero
-    introduce: 靈活的重火力人形，裝備有噴射背包，可以使其從戰場後方快速飛躍到前排，並使用蓄能完畢的激光炮貫穿戰場。同時它還配備了力場盾生成器，可以彈開敵人的實彈攻擊。
+    introduce: enemy_illustration-20000047
     forces: 3
     pow_rank: 3
     life_rank: 4
@@ -978,18 +1011,19 @@
     armor_rank: 2
     speed_rank: 3
     range_rank: 4
-    counter: 擁有力場值，具有一定的減傷能力，在使用我方前排承擔傷害的同時也要注意該單位的貫通攻擊，保證我方脆弱的人形不在前排人形身後。重裝部隊的支援將使戰鬥更加有利。
+    counter: enemy_illustration-30000047
     character: "309,312,320"
     enemy_skill: "27"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000047
     spine_scale: "90,90,1"
   }
   {
     id: 48
-    name: 巨劍士
+    name: enemy_illustration-10000048
     type: 3
     code: Doppelsoldner
-    introduce: 強大的重火力機甲，本身裝甲厚重的同時，也配備了力場盾發生器。攻擊手段除了雙手的高速機關炮，還可使用多聯裝榴彈發射器，造成大範圍傷害。
+    introduce: enemy_illustration-20000048
     forces: 3
     pow_rank: 2
     life_rank: 4
@@ -998,18 +1032,19 @@
     armor_rank: 4
     speed_rank: 1
     range_rank: 3
-    counter: 擁有較高的護甲和力場值，具有較高的減傷能力，會使用多枚榴彈進行轟炸。請注意使用具有穿甲能力的人形在接戰前盡可能進行打擊，或使用護盾技能抵御榴彈的轟炸。重裝部隊的支援將使戰鬥更加有利。
+    counter: enemy_illustration-30000048
     character: "1003,302,309,312,319"
     enemy_skill: "28,29"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000048
     spine_scale: "60,60,1"
   }
   {
     id: 49
-    name: 槍騎兵
+    name: enemy_illustration-10000049
     type: 4
     code: Uhlan
-    introduce: 凶猛的重甲坦克，同樣配備了厚重的裝甲和力場盾發生器，遠程火力武裝只有一門機關炮，但自身可以在戰場最前方進行衝鋒和碾壓，快速破壞對方的前方陣型。
+    introduce: enemy_illustration-20000049
     forces: 3
     pow_rank: 4
     life_rank: 4
@@ -1018,18 +1053,19 @@
     armor_rank: 4
     speed_rank: 3
     range_rank: 4
-    counter: 擁有高額的力場值和較高的護甲，具有優異的減傷能力，會使用突進碾壓的手段衝擊我方陣型。請注意及時指揮人形躲避。重裝部隊的支援將使戰鬥更加有利。
+    counter: enemy_illustration-30000049
     character: "1001,302,309,312"
     enemy_skill: "31,32"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000049
     spine_scale: "50,50,1"
   }
   {
     id: 50
-    name: 艾德琳
+    name: enemy_illustration-10000050
     type: 1
     code: Nyto_black
-    introduce: 帕拉蒂斯「涅托」裡的一員，使用高殺傷力的步槍型武器作戰，在爆炸中起舞，用怒濤般的攻勢重創敵陣。作為量產機習慣壓抑自己的情緒，陰冷難明的外殼下是否有屬於人類的情感，也不得而知。
+    introduce: enemy_illustration-20000050
     forces: 3
     if_capture: 1
     pow_rank: 6
@@ -1040,20 +1076,20 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000050
     character: "1001,216,309,312"
     enemy_skill: "45,47"
     launch_time: 2016-5-20 00:00:00
-    extra: ",佐藤利奈,"
+    extra: enemy_illustration-40000050
     spine_scale: "70,70,1"
     org_id: 10603
   }
   {
     id: 51
-    name: 埃莉諾
+    name: enemy_illustration-10000051
     type: 1
     code: Nyto_white
-    introduce: 帕拉蒂斯「涅托」裡的一員，使用鐮刀型的近戰武器，如同純白的死神般降臨戰場，斬斷鋼鐵、收割生命。作為初期的高級涅托擁有自己的驕傲，只對認可的人露出溫柔可愛的一面。
+    introduce: enemy_illustration-20000051
     forces: 3
     if_capture: 1
     pow_rank: 6
@@ -1064,20 +1100,20 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000051
     character: "1001,216,309,312"
     enemy_skill: "46,47"
     launch_time: 2016-5-20 00:00:00
-    extra: ",伊藤靜,"
+    extra: enemy_illustration-40000051
     spine_scale: "70,70,1"
     org_id: 10603
   }
   {
     id: 52
-    name: ELID感染者_武裝
+    name: enemy_illustration-10000052
     type: 3
     code: Zombie2
-    introduce: 遭受坍塌輻射污染的軍方人類士兵，已經喪失理智，完全陷入充滿攻擊性的狂亂狀態，只會本能地移動，並使用突擊步槍胡亂射擊眼前的任何移動物，但已經無法做出發射榴彈這種相對複雜的行動。
+    introduce: enemy_illustration-20000052
     pow_rank: 3
     life_rank: 3
     hit_rank: 4
@@ -1085,17 +1121,18 @@
     rate_rank: 4
     speed_rank: 3
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000052
     character: "300"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000052
     spine_scale: "90,90,1"
   }
   {
     id: 53
-    name: ELID感染者_徒手
+    name: enemy_illustration-10000053
     type: 3
     code: Zombie1
-    introduce: 受坍塌輻射污染的軍方人類士兵，遺失武器的他們會徒手攻擊任何看到的移動目標，攻擊手段雖然只是張牙舞爪地胡亂揮舞，但在坍塌液的強化下，力量和速度依然有著可怕的威脅。
+    introduce: enemy_illustration-20000053
     pow_rank: 2
     life_rank: 4
     hit_rank: 4
@@ -1103,17 +1140,18 @@
     rate_rank: 4
     speed_rank: 3
     range_rank: 2
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000053
     character: "303"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000053
     spine_scale: "90,90,1"
   }
   {
     id: 54
-    name: ELID感染者頭目
+    name: enemy_illustration-10000054
     type: 1
     code: Smasher
-    introduce: 遭受坍塌輻射的嚴重污染，身體發生變異的軍方人類士兵，EILD感染者會隨感染事件和輻射強度而逐漸出現內臟，表皮硬化的症狀，所以這些重度感染者的皮膚十分堅硬難以被傷害，性格比其他感染者更狂暴，破壞力也更加恐怖。
+    introduce: enemy_illustration-20000054
     pow_rank: 5
     life_rank: 6
     hit_rank: 4
@@ -1121,18 +1159,19 @@
     rate_rank: 4
     speed_rank: 3
     range_rank: 5
-    counter: 該單位能力均衡，同時會持續給我方造成小額傷害，不適合長時間交戰，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000054
     character: "1001,302,301"
     enemy_skill: "57,58"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000054
     spine_scale: "70,70,1"
   }
   {
     id: 55
-    name: 巡遊者SWAP
+    name: enemy_illustration-10000055
     type: 2
     code: Prowler_SWAP
-    introduce: 巡遊者的升級版，較弱的火力和機動性都得到了補足，現在可以作為正面戰場的強大火力進行驅動。
+    introduce: enemy_illustration-20000055
     forces: 1
     if_capture: 1
     pow_rank: 1
@@ -1142,17 +1181,18 @@
     rate_rank: 3
     speed_rank: 2
     range_rank: 2
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000055
     character: "300"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000055
     spine_scale: "100,100,1"
   }
   {
     id: 56
-    name: 獵鷗SWAP
+    name: enemy_illustration-10000056
     type: 3
     code: Jaeger_SWAP
-    introduce: 獵鷗的升級版，裝配的遠程狙擊武器得到了火力和精準度上的加強，同時脆弱的本體也變得稍微具備生存性，是更加可怕的對手。
+    introduce: enemy_illustration-20000056
     forces: 1
     if_capture: 1
     pow_rank: 4
@@ -1162,18 +1202,19 @@
     rate_rank: 2
     speed_rank: 3
     range_rank: 4
-    counter: 該單位主要擔當後排輸出，攻速較慢、命中較高，對我方前排單位造成的傷害比較穩定且顯著，建議選用索敵邏輯為打擊後排的人形進行處理。
+    counter: enemy_illustration-30000056
     character: "1003,307"
     enemy_skill: "5"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000056
     spine_scale: "100,100,1"
   }
   {
     id: 57
-    name: 護衛者SWAP
+    name: enemy_illustration-10000057
     type: 3
     code: Guard_SWAP
-    introduce: 護衛者的升級版，裝配的護盾和短程火力武器均得到了加強，在原本的高防禦基礎上變得更加堅固。
+    introduce: enemy_illustration-20000057
     forces: 1
     if_capture: 1
     pow_rank: 1
@@ -1183,18 +1224,19 @@
     rate_rank: 4
     speed_rank: 2
     range_rank: 2
-    counter: 該單位為近戰單位，防禦能力較強，但相對的對我方造成有效傷害的能力較弱，主要威脅來自其他負責輸出的單位，請注意選用合適的槍種人形以優先處理被護衛者掩護的單位。
+    counter: enemy_illustration-30000057
     character: "303,310"
     enemy_skill: "4"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000057
     spine_scale: "90,90,1"
   }
   {
     id: 58
-    name: 龍騎兵SWAP
+    name: enemy_illustration-10000058
     type: 3
     code: Dragoon_SWAP
-    introduce: 龍騎兵的升級版，裝配的代步機甲和突擊武器都得到了加強，是綜合素質方面進化最徹底的鐵血單位，要謹慎與其交手。
+    introduce: enemy_illustration-20000058
     forces: 1
     if_capture: 1
     pow_rank: 3
@@ -1204,18 +1246,19 @@
     rate_rank: 3
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000058
     character: "1003,304"
     enemy_skill: "7"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000058
     spine_scale: "75,75,1"
   }
   {
     id: 59
-    name: 痛擊者SWAP
+    name: enemy_illustration-10000059
     type: 3
     code: Striker_SWAP
-    introduce: 痛擊者的升級版，裝配的遠程機槍武器火力得到增強的同時，也加配了更多裝甲，火力輸出和壓制力得以進一步提高。
+    introduce: enemy_illustration-20000059
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -1225,17 +1268,18 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 4
-    counter: 該單位攻速較高、傷害一般，推薦使用霰彈槍人形搭配足夠的護甲進行抵御。
+    counter: enemy_illustration-30000059
     character: "308"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000059
     spine_scale: "100,100,1"
   }
   {
     id: 60
-    name: 聖盾SWAP
+    name: enemy_illustration-10000060
     type: 5
     code: Aegis_SWAP
-    introduce: 被鐵血入侵的"聖盾"型軍用作戰機甲的升級版，搭載的當代高級軍用裝甲及護盾被進一步加厚，同時近戰實力也毀滅性地得到加強。
+    introduce: enemy_illustration-20000060
     forces: 1
     if_capture: 1
     pow_rank: 2
@@ -1245,18 +1289,19 @@
     armor_rank: 5
     speed_rank: 2
     range_rank: 2
-    counter: 護甲單位，有較高的傷害承擔能力，建議優先擊殺受該單位掩護的輸出單位
+    counter: enemy_illustration-30000060
     character: "303,309,310"
     enemy_skill: "9"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000060
     spine_scale: "100,100,1"
   }
   {
     id: 61
-    name: 墨丘蘿絲
+    name: enemy_illustration-10000061
     type: 1
     code: Nyto_Silver
-    introduce: 神秘勢力中‘涅托’里的一員，目前一切相關情報都尚不明朗。被妮莫金稱為妹妹，喜歡人類的詩歌，看起來對其有著獨特的偏好和感性。
+    introduce: enemy_illustration-20000061
     forces: 3
     pow_rank: 6
     life_rank: 6
@@ -1266,18 +1311,19 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 4
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000061
     character: "1001,216,309,312"
     enemy_skill: "42,43"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000061
     spine_scale: "85,85,1"
   }
   {
     id: 62
-    name: 妮莫金
+    name: enemy_illustration-10000062
     type: 1
     code: Nyto_Gold
-    introduce: 神秘勢力中‘涅托’里的一員，被墨丘蘿絲稱為姐姐。對‘父親大人’極為尊敬。目前其餘一切相關情報都尚不明朗
+    introduce: enemy_illustration-20000062
     forces: 3
     pow_rank: 6
     life_rank: 6
@@ -1287,18 +1333,19 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000062
     character: "1001,216,309"
     enemy_skill: "41"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000062
     spine_scale: "85,85,1"
   }
   {
     id: 63
-    name: 廢棄角鬥士
+    name: enemy_illustration-10000063
     type: 3
     code: Roarer
-    introduce: 被遺留在塔林的廢棄人形，主要攻擊方式為近戰的重型重甲單位，與神秘勢力有所關聯。
+    introduce: enemy_illustration-20000063
     forces: 3
     pow_rank: 4
     life_rank: 5
@@ -1308,18 +1355,19 @@
     armor_rank: 3
     speed_rank: 2
     range_rank: 2
-    counter: 擁有一定的力場值和護甲，起初的減傷能力一般，但是後續會不斷恢復和增加力場值，在破防能力不足的情況下不適合長時間與之交戰。建議在有重裝部隊支援的前提下進行戰鬥。
+    counter: enemy_illustration-30000063
     character: "309,302,312,316"
     enemy_skill: "34,35,140"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000063
     spine_scale: "80,80,1"
   }
   {
     id: 64
-    name: 廢棄偵察士
+    name: enemy_illustration-10000064
     type: 4
     code: Thunder
-    introduce: 被遺留在塔林的廢棄人形，利用搭載於身體下方的炮台攻擊，遭受攻擊時會利用跳躍閃避。與神秘勢力有所關聯。
+    introduce: enemy_illustration-20000064
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -1329,18 +1377,19 @@
     armor_rank: 4
     speed_rank: 2
     range_rank: 4
-    counter: 擁有較高的護甲和力場值，且具有極強的迴避性能,請注意有效打擊的時機。建議使用帶有狙擊技能等有必中手段的人形。
+    counter: enemy_illustration-30000064
     character: "1001,302,309,310,315"
     enemy_skill: "36,37,38"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000064
     spine_scale: "80,80,1"
   }
   {
     id: 65
-    name: 廢棄重炮士
+    name: enemy_illustration-10000065
     type: 3
     code: StreletPlus
-    introduce: 被遺留在塔林的廢棄人形，與射擊士極為類似，搭載更加強大的火力，並且使用特殊的彈藥降低我方人形的迴避率。與神秘勢力有所關聯。
+    introduce: enemy_illustration-20000065
     forces: 3
     pow_rank: 4
     life_rank: 3
@@ -1349,18 +1398,19 @@
     rate_rank: 3
     speed_rank: 1
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000065
     character: "1003,312,316"
     enemy_skill: "39"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000065
     spine_scale: "100,100,1"
   }
   {
     id: 66
-    name: 廢棄異構體
+    name: enemy_illustration-10000066
     type: 3
     code: Isomer
-    introduce: 被遺留在塔林的廢棄人形，自身並沒有攻擊能力，但能夠暈眩周圍的敵人，與神秘勢力有所關聯。
+    introduce: enemy_illustration-20000066
     forces: 3
     pow_rank: 1
     life_rank: 4
@@ -1369,18 +1419,19 @@
     rate_rank: 4
     speed_rank: 1
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000066
     character: "303"
     enemy_skill: "40"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000066
     spine_scale: "75,75,1"
   }
   {
     id: 67
-    name: 指南針
+    name: enemy_illustration-10000067
     type: 2
     code: Pyxis
-    introduce: 纏人的輕火力炮台，配備有和軍方火力接近的高射速武器系統，是被量產的基本作戰單位，放定之後無法移動，常用於壓制戰。
+    introduce: enemy_illustration-20000067
     forces: 3
     pow_rank: 4
     life_rank: 5
@@ -1388,17 +1439,18 @@
     rate_rank: 5
     armor_rank: 2
     range_rank: 5
-    counter: 該單位攻速較高、傷害一般，推薦使用霰彈槍人形搭配足夠的護甲進行抵御。
+    counter: enemy_illustration-30000067
     character: "309,308"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000067
     spine_scale: "100,100,1"
   }
   {
     id: 68
-    name: 失格異構體
+    name: enemy_illustration-10000068
     type: 1
     code: Nyto_Isomer_White
-    introduce: 融合了來到塔林的妮莫金的心智並奪取其素體的一個異構體。帶領著全塔林的異構體，希望能從這裡「離開」。在指揮官的隊伍進入塔林後，認定M4是那個「適格者」，能帶領她們離開這裡。
+    introduce: enemy_illustration-20000068
     forces: 3
     pow_rank: 7
     life_rank: 6
@@ -1408,33 +1460,35 @@
     armor_rank: 4
     speed_rank: 4
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000068
     character: "1001,309,911"
     enemy_skill: "44"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000068
     spine_scale: "80,80,1"
   }
   {
     id: 69
-    name: 偵查中樞
+    name: enemy_illustration-10000069
     type: 2
     code: RecceCentre
-    introduce: 軍方用於生產尖兵的微型工廠，自身作戰能力不強，且行動較為遲緩，但通常會配屬大量防衛兵種保護。
+    introduce: enemy_illustration-20000069
     forces: 2
     life_rank: 6
     armor_rank: 4
-    counter: 高護甲單位，會源源不斷的生產尖兵單位，不太適合突擊步槍人形來應對。建議使用步槍人形處理。
+    counter: enemy_illustration-30000069
     character: "309,321"
     enemy_skill: "21"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000069
     spine_scale: "40,40,1"
   }
   {
     id: 70
-    name: 尖兵
+    name: enemy_illustration-10000070
     type: 2
     code: Pathfinder
-    introduce: 尖兵：偵查中樞生產的球型單位，依據偵查中樞的功能而決定作戰能力，搭載輕火力，雖然非常脆弱但相當靈活，適合量產。
+    introduce: enemy_illustration-20000070
     forces: 2
     pow_rank: 4
     life_rank: 2
@@ -1444,18 +1498,19 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 2
-    counter: 擁有一定護甲，命中較高、傷害較低，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000070
     character: "303,309"
     enemy_skill: "22"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000070
     spine_scale: "100,100,1"
   }
   {
     id: 71
-    name: 肯陶羅斯
+    name: enemy_illustration-10000071
     type: 3
     code: Archer
-    introduce: 軍方的常規作戰人形，使用特殊的爆炸箭頭作為武器，擁有超長的射程和命中率，是訓練有素的精英單位。
+    introduce: enemy_illustration-20000071
     forces: 2
     pow_rank: 3
     life_rank: 3
@@ -1464,18 +1519,19 @@
     rate_rank: 3
     speed_rank: 2
     range_rank: 4
-    counter: 該單位將向預警位置製造可持續燃燒的爆炸箭傷害，注意指揮人形及時移動規避
+    counter: enemy_illustration-30000071
     character: "1003,325"
     enemy_skill: "23"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000071
     spine_scale: "100,100,1"
   }
   {
     id: 72
-    name: 歐特魯斯
+    name: enemy_illustration-10000072
     type: 2
     code: Beast
-    introduce: 軍方的常規作戰機甲，重型的坦克型近戰單位，常用於碾壓敵方陣型及前排抗壓戰術，厚重而結實，缺點是攻擊方式單一，僅能作為肉盾使用。
+    introduce: enemy_illustration-20000072
     forces: 2
     pow_rank: 4
     life_rank: 4
@@ -1484,18 +1540,19 @@
     rate_rank: 4
     speed_rank: 6
     range_rank: 2
-    counter: 擁有小量護甲，移速較高，開啓護盾後會將受擊傷害壓至最小，建議使用高攻速或多段攻擊的手段打擊。
+    counter: enemy_illustration-30000072
     character: "310"
     enemy_skill: "24"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000072
     spine_scale: "80,80,1"
   }
   {
     id: 73
-    name: 彌諾陶洛斯
+    name: enemy_illustration-10000073
     type: 5
     code: TeslaTrooper
-    introduce: 軍方訂購的高級軍用機甲，裝甲厚重，還裝備了導彈發射器，能力非常全面。
+    introduce: enemy_illustration-20000073
     forces: 2
     pow_rank: 4
     life_rank: 5
@@ -1505,18 +1562,19 @@
     armor_rank: 5
     speed_rank: 2
     range_rank: 1
-    counter: 高護甲單位，移速較慢，可大範圍發射複數小型導彈進行轟炸。轟炸預警出現時請注意及時指揮我方人形移動規避傷害
+    counter: enemy_illustration-30000073
     character: "302,303,309,313"
     enemy_skill: "26,33"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000073
     spine_scale: "80,80,1"
   }
   {
     id: 74
-    name: 阿爾戈-船底座
+    name: enemy_illustration-10000074
     type: 2
     code: GustafL_3
-    introduce: 軍方訂購的高級軍用火力列車炮的前段
+    introduce: enemy_illustration-20000074
     forces: 2
     pow_rank: 7
     life_rank: 5
@@ -1524,17 +1582,18 @@
     rate_rank: 3
     armor_rank: 3
     range_rank: 5
-    counter: 在戰役地圖上能對友方提供遠程支援，在戰略上具有極大威脅性，建議避免與受其支援的單位作戰。注意觀察前中後段各自的支援範圍，選取正確的攻克順序，避免其交叉火力打擊。
+    counter: enemy_illustration-30000074
     character: "302,908,910,326"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000074
     spine_scale: "-15,15,1"
   }
   {
     id: 75
-    name: 阿爾戈-船帆座
+    name: enemy_illustration-10000075
     type: 2
     code: GustafL_2
-    introduce: 軍方訂購的高級軍用火力列車炮的中段
+    introduce: enemy_illustration-20000075
     forces: 2
     pow_rank: 7
     life_rank: 5
@@ -1542,17 +1601,18 @@
     rate_rank: 3
     armor_rank: 3
     range_rank: 5
-    counter: 在戰役地圖上能對友方提供遠程支援，在戰略上具有極大威脅性，建議避免與受其支援的單位作戰。注意觀察前中後段各自的支援範圍，選取正確的攻克順序，避免其交叉火力打擊。
+    counter: enemy_illustration-30000075
     character: "302,908,910,326"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000075
     spine_scale: "-15,15,1"
   }
   {
     id: 76
-    name: 阿爾戈-船尾座
+    name: enemy_illustration-10000076
     type: 2
     code: GustafL_1
-    introduce: 軍方訂購的高級軍用火力列車炮的後段
+    introduce: enemy_illustration-20000076
     forces: 2
     pow_rank: 7
     life_rank: 5
@@ -1560,17 +1620,18 @@
     rate_rank: 3
     armor_rank: 3
     range_rank: 5
-    counter: 在戰役地圖上能對友方提供遠程支援，在戰略上具有極大威脅性，建議避免與受其支援的單位作戰。注意觀察前中後段各自的支援範圍，選取正確的攻克順序，避免其交叉火力打擊。
+    counter: enemy_illustration-30000076
     character: "302,908,910,326"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000076
     spine_scale: "-15,15,1"
   }
   {
     id: 77
-    name: 帕拉丁
+    name: enemy_illustration-10000077
     type: 4
     code: Kratos
-    introduce: 軍方生產的特殊人形，擁有巨大的身軀和強勁的力量。擅長碾壓式的突擊作戰，不論是作為肉盾還是破陣者都十分優秀。
+    introduce: enemy_illustration-20000077
     forces: 2
     pow_rank: 6
     life_rank: 6
@@ -1580,33 +1641,35 @@
     armor_rank: 5
     speed_rank: 4
     range_rank: 2
-    counter: 擁有較高護甲，會同時打擊我方前後排單位，請注意保持前後排之間的距離。
+    counter: enemy_illustration-30000077
     character: "1001,302,303,309,310"
     enemy_skill: "48,49,50"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000077
     spine_scale: "50,50,1"
   }
   {
     id: 78
-    name: 捍衛者
+    name: enemy_illustration-10000078
     type: 4
     code: Acheron
-    introduce: 軍方生產的特殊配備，外形神似燈柱，而抵達指定地點後可以張開底座固定，進而提供防禦性力場，常作為功能性配屬使用。
+    introduce: enemy_illustration-20000078
     forces: 2
     life_rank: 5
     armor_rank: 4
-    counter: 該單位會持續給友方提供一定的護盾加成，它的存在不利於攻克部分不適合長時間戰鬥的敵人，建議使用具有後排索敵能力的人形或重裝部隊支援。
+    counter: enemy_illustration-30000078
     character: "1001,309,310"
     enemy_skill: "51"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000078
     spine_scale: "60,60,1"
   }
   {
     id: 79
-    name: 奎烏
+    name: enemy_illustration-10000079
     type: 4
     code: Coeus
-    introduce: 軍方生產的特殊機甲，搭載濃縮而具有爆發性的火力，同時也具備一定程度的機動性，同樣常作為戰術壓制場合的王牌使用，性能上具有不可替代的優越性。
+    introduce: enemy_illustration-20000079
     forces: 2
     pow_rank: 6
     life_rank: 5
@@ -1616,18 +1679,19 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 3
-    counter: 具有一般程度的護甲，請注意梯隊的穿甲能力、提升前排人形的防禦能力,以及面對該單位強力的炮擊時注意移動被鎖定的單位,不讓其後排的單位受到波及。
+    counter: enemy_illustration-30000079
     character: "1001,1003,302,309,317,316"
     enemy_skill: "52,53"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000079
     spine_scale: "40,40,1"
   }
   {
     id: 80
-    name: AA-02 負罪者
+    name: enemy_illustration-10000080
     type: 1
     code: Ares
-    introduce: 負罪者：軍方生產的精英機甲，原本是某位軍人專屬的座駕。性能卓越，搭載有高強度的火力，除卻巨炮以外亦可使用導彈作為攻擊手段，同時也擁有護盾作為防禦，可以說是具備全方位碾壓性的戰術機甲，其名「負罪者」。
+    introduce: enemy_illustration-20000080
     forces: 2
     pow_rank: 6
     life_rank: 6
@@ -1637,22 +1701,19 @@
     armor_rank: 6
     speed_rank: 6
     range_rank: 7
-    counter: 擁有較高護甲，會向預警位置造成較強傷害，帶護盾狀態下若受到穿透打擊則會有一定的硬直反饋。請注意及時指揮人形躲避預警傷害。
+    counter: enemy_illustration-30000080
     character: "1001,302,309,326,316"
     enemy_skill: "93,94,95"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000080
     spine_scale: "40,40,1"
   }
   {
     id: 81
-    name: 伊萊莎
+    name: enemy_illustration-10000081
     type: 1
     code: Eliza_boss
-    introduce:
-      '''
-      萊柯研發的高級人工智能，發令者只需要一個簡單的指令，作為主機的「伊萊莎」便能自主運算出合理的行動方案，這個高級AI主機配套有一支專屬的戰術人形部隊，主機可以通過網絡系統遠程操縱這些人形去執行自己的方案。
-      但事實上，「伊萊莎」並不是一個單純的AI程序。萊柯的最終目的，是製作一個擁有自我意識，和人類一樣思考、感知的，完美的人工智能。在蝴蝶事件後「伊萊莎」獲得了實體，並接管所有鐵血人形，為了為「父親」萊柯復仇，開始攻擊所有目擊到的人類和鐵血以外的戰術人形。同時，她希望成為「父親」萊柯心中完美的AI——那就是獲得與人類別無二致的心智，開始從父親大人的資料中尋找完美的AI樣本。
-      '''
+    introduce: enemy_illustration-20000081
     forces: 1
     pow_rank: 7
     life_rank: 6
@@ -1660,18 +1721,19 @@
     dodge_rank: 4
     rate_rank: 4
     range_rank: 5
-    counter: 逆向坍塌的影響雖然會令您的人形失去戰鬥能力，但是浮空的影響對於人形也是一種保護，合理應用這一點躲避難以抵擋的傷害吧！
+    counter: enemy_illustration-30000081
     character: "1001,900"
     enemy_skill: "85,86,87"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000081
     spine_scale: "60,60,1"
   }
   {
     id: 82
-    name: 蟹防炮
+    name: enemy_illustration-10000082
     type: 4
     code: Hydra_beach
-    introduce: 某軍工企業耗費鉅資打造的自律兵器,採用了生物偽裝兵器的究極設計,但直觀來講只是把體型做得更大了而已,製造方也否認這是導致企業倒閉的主要原因。
+    introduce: enemy_illustration-20000082
     pow_rank: 6
     life_rank: 5
     hit_rank: 4
@@ -1679,50 +1741,53 @@
     armor_rank: 6
     speed_rank: 1
     range_rank: 2
-    counter: 狀態不佳時面對該單位合理規避
+    counter: enemy_illustration-30000082
     character: "309,301"
     enemy_skill: "10018"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000082
     spine_scale: "60,60,1"
   }
   {
     id: 83
-    name: 機蟹
+    name: enemy_illustration-10000083
     type: 4
     code: landmine_beach
-    introduce: 某軍工企業製造的舊式自律兵器,以偽裝成生物為出發點,但因用力過猛,做成了「只是很有攻擊性的機械海鮮」而被駁回。
+    introduce: enemy_illustration-20000083
     pow_rank: 5
     life_rank: 2
     hit_rank: 4
     armor_rank: 2
     speed_rank: 3
     range_rank: 5
-    counter: 擁有少量護甲，移速較高。戰鬥前期即開始快速放置可爆炸的海星，我方人形觸發時將會受到巨額傷害，請注意規避地雷或在戰鬥前期儘早殲滅該單位。
+    counter: enemy_illustration-30000083
     character: "1001,309,322"
     enemy_skill: "10019"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000083
     spine_scale: "100,100,1"
   }
   {
     id: 84
-    name: 西瓜屋
+    name: enemy_illustration-10000084
     type: 2
     code: RecceCentre_beach
-    introduce: 某軍工企業製造的舊式自律兵器,用來生產擬態瓜的設施,但經常因為不識真相的遊客造訪而影響開發進度。
+    introduce: enemy_illustration-20000084
     life_rank: 6
     armor_rank: 4
-    counter: 高護甲單位，會源源不斷的生產西瓜形態單位，不太適合突擊步槍人形來應對。建議使用步槍人形處理。
+    counter: enemy_illustration-30000084
     character: "309,321"
     enemy_skill: "10021"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000084
     spine_scale: "40,40,1"
   }
   {
     id: 85
-    name: 擬態瓜
+    name: enemy_illustration-10000085
     type: 2
     code: Pathfinder_beach
-    introduce: 某軍工企業製造的舊式自律兵器,本意是偽裝成美味的食物來騙過敵人,但發生過驗收人員誤把它當做真的食物切開的意外。
+    introduce: enemy_illustration-20000085
     pow_rank: 4
     life_rank: 2
     hit_rank: 4
@@ -1731,18 +1796,19 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 2
-    counter: 擁有一定護甲，命中較高、傷害較低，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000085
     character: "303,309"
     enemy_skill: "10022"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000085
     spine_scale: "100,100,1"
   }
   {
     id: 86
-    name: 切割者SWAP
+    name: enemy_illustration-10000086
     type: 3
     code: Ripper_SWAP
-    introduce: 性能大幅增強後的切割者，火力和機動性都有了顯著提升。為了徹底告別過去的自己，特意換了新的髮色和制服。
+    introduce: enemy_illustration-20000086
     forces: 1
     if_capture: 1
     pow_rank: 3
@@ -1752,18 +1818,19 @@
     rate_rank: 3
     speed_rank: 3
     range_rank: 3
-    counter: 該單位在受到致命傷害時會獲得一定的保護,要做好持久戰的準備。
+    counter: enemy_illustration-30000086
     character: "1001,303"
     enemy_skill: "88,90,92"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000086
     spine_scale: "100,100,1"
   }
   {
     id: 87
-    name: 雞尾酒沉醉者
+    name: enemy_illustration-10000087
     type: 3
     code: Cocktail
-    introduce: 出現在街頭的危險份子,可以投擲燃燒瓶對我方造成持續傷害
+    introduce: enemy_illustration-20000087
     pow_rank: 3
     life_rank: 2
     hit_rank: 4
@@ -1771,17 +1838,18 @@
     rate_rank: 2
     speed_rank: 3
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000087
     character: "1001,300"
     enemy_skill: "10087"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000087
   }
   {
     id: 88
-    name: 狂熱衝鋒者
+    name: enemy_illustration-10000088
     type: 3
     code: Cottoncaper
-    introduce: 衝鋒在前的危險份子,有著令人吃驚的勇氣
+    introduce: enemy_illustration-20000088
     pow_rank: 2
     life_rank: 3
     hit_rank: 3
@@ -1789,16 +1857,17 @@
     rate_rank: 3
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000088
     character: "1001,300"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000088
   }
   {
     id: 89
-    name: 雇傭步槍手
+    name: enemy_illustration-10000089
     type: 3
     code: Hiresniper
-    introduce: 經驗豐富的雇傭兵,擅長保持距離對我方造成狙擊傷害
+    introduce: enemy_illustration-20000089
     pow_rank: 3
     life_rank: 1
     hit_rank: 5
@@ -1806,17 +1875,18 @@
     rate_rank: 2
     speed_rank: 3
     range_rank: 4
-    counter: 該單位主要擔當後排輸出，攻速較慢、命中較高，對我方前排單位造成的傷害比較穩定且顯著，建議選用索敵邏輯為打擊後排的人形進行處理。
+    counter: enemy_illustration-30000089
     character: "1001,307"
     enemy_skill: "10005"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000089
   }
   {
     id: 90
-    name: 報恩的殺手
+    name: enemy_illustration-10000090
     type: 3
     code: Swordsman
-    introduce: 揮舞著鋒利的匕首,有著出色的身體能力
+    introduce: enemy_illustration-20000090
     pow_rank: 5
     life_rank: 3
     hit_rank: 4
@@ -1824,16 +1894,17 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 2
-    counter: 該單位擁有較高的破甲值，對霰彈槍人形來說是個危險的存在，請注意避免我方霰彈槍人形與她接觸。推薦使用衝鋒槍、手槍等迴避型人形擔當前排。
+    counter: enemy_illustration-30000090
     character: "1001,303"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000090
   }
   {
     id: 91
-    name: 卡爾卡諾M91/38
+    name: enemy_illustration-10000091
     type: 1
     code: CarcanoEnemy
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20000091
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -1842,17 +1913,18 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 5
-    counter: 該單位將在場上生成獨特的標記,在標記上的我方單位將喪失攻擊能力但同時也會獲得較高的護盾防護。區分輸出手和承擔傷害者對該標記的應對即可克敵制勝。
+    counter: enemy_illustration-30000091
     character: "1001,307,316"
     enemy_skill: "10191,10091"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000091
   }
   {
     id: 92
-    name: 荷莉葉特
+    name: enemy_illustration-10000092
     type: 1
     code: HenEnemy
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20000092
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
@@ -1860,16 +1932,17 @@
     rate_rank: 4
     speed_rank: 4
     range_rank: 3
-    counter: 避免與該單位發生衝突。
+    counter: enemy_illustration-30000092
     character: "1001,301"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000092
   }
   {
     id: 93
-    name: 黎各
+    name: enemy_illustration-10000093
     type: 1
     code: RicoEnemy
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20000093
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
@@ -1877,16 +1950,17 @@
     rate_rank: 4
     speed_rank: 4
     range_rank: 5
-    counter: 避免與該單位發生衝突。
+    counter: enemy_illustration-30000093
     character: "1001,301"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000093
   }
   {
     id: 94
-    name: 胡蜂SWAP
+    name: enemy_illustration-10000094
     type: 3
     code: Vespid_SWAP
-    introduce: 性能大幅增強後的胡蜂，會對我方造成一定削弱。為了在視覺上拉大雙方的實力差距，特意更換了新的頭盔和裝甲。
+    introduce: enemy_illustration-20000094
     forces: 1
     if_capture: 1
     pow_rank: 3
@@ -1896,18 +1970,19 @@
     rate_rank: 2
     speed_rank: 3
     range_rank: 4
-    counter: 該單位能力可對我方單位造成針對性的傷害和削弱,需要思考配隊應對。
+    counter: enemy_illustration-30000094
     character: "1001,300"
     enemy_skill: "89,91"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000094
     spine_scale: "100,100,1"
   }
   {
     id: 95
-    name: 殘獸SWAP
+    name: enemy_illustration-10000095
     type: 3
     code: Brute_SWAP
-    introduce: 性能大幅增強後的殘獸，會對我方護甲單位造成較大的威脅。
+    introduce: enemy_illustration-20000095
     forces: 1
     pow_rank: 5
     life_rank: 3
@@ -1916,18 +1991,19 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 2
-    counter: 該單位擁有較高的破甲值，對霰彈槍人形來說是個危險的存在，請注意避免我方霰彈槍人形與她接觸。推薦使用衝鋒槍、手槍等迴避型人形擔當前排。
+    counter: enemy_illustration-30000095
     character: "1003,303,315"
     enemy_skill: "54,55"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000095
     spine_scale: "85,85,1"
   }
   {
     id: 96
-    name: 鋼獅SWAP
+    name: enemy_illustration-10000096
     type: 4
     code: Nemeum_SWAP2
-    introduce: 性能大幅增強後的鋼獅，較高的準度使得攻擊很難被迴避。
+    introduce: enemy_illustration-20000096
     forces: 1
     pow_rank: 4
     life_rank: 4
@@ -1936,18 +2012,19 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
-    counter: 護甲單位，主要擔當後排輸出，攻速較慢、命中和傷害較高，對我方前排單位造成的傷害比較穩定且顯著，建議選用索敵邏輯為打擊後排且帶穿甲能力的人形進行處理。
+    counter: enemy_illustration-30000096
     character: "1003,309,307"
     enemy_skill: "56"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000096
     spine_scale: "100,100,1"
   }
   {
     id: 97
-    name: 遊蕩難民
+    name: enemy_illustration-10000097
     type: 3
     code: refugee_hg
-    introduce: 遭受坍塌輻射污染的人類遊民。保持著適當的理智,會使用輕型槍械與目標作戰。
+    introduce: enemy_illustration-20000097
     pow_rank: 2
     life_rank: 3
     hit_rank: 3
@@ -1955,17 +2032,18 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000097
     character: "300"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000097
     spine_scale: "100,100,1"
   }
   {
     id: 98
-    name: 暴走難民
+    name: enemy_illustration-10000098
     type: 3
     code: refugee_smg
-    introduce: 遭受坍塌輻射污染的人類遊民。因為感染程度較深性格也變得暴躁嗜血,不毀滅敵人決不罷休。
+    introduce: enemy_illustration-20000098
     pow_rank: 3
     life_rank: 4
     hit_rank: 3
@@ -1973,17 +2051,18 @@
     rate_rank: 5
     speed_rank: 4
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000098
     character: "300"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000098
     spine_scale: "100,100,1"
   }
   {
     id: 99
-    name: 歌利亞工廠
+    name: enemy_illustration-10000099
     type: 2
     code: Golyat_Factory
-    introduce: 生產炸彈型作戰單位的移動型鐵血兵工廠，能夠不斷生產出擁有自爆能力的歌利亞。停留在戰場的時間越久，對敵方的威脅性越大。
+    introduce: enemy_illustration-20000099
     forces: 1
     if_capture: 1
     pow_rank: 7
@@ -1992,18 +2071,19 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 1
-    counter: 該單位有著極高的護甲和韌性，並且請注意及時處理增援進場的歌利亞！
+    counter: enemy_illustration-30000099
     character: "1003,1005,334,321"
     enemy_skill: "21"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000099
     spine_scale: "100,100,1"
   }
   {
     id: 101
-    name: 南瓜切割者
+    name: enemy_illustration-10000101
     type: 3
     code: Ripper_Halloween
-    introduce: 鐵血的節日特供傀儡，裝配有短程衝鋒武器和沒什麼作用的頭部防具，機動性較高，出場時常充當南瓜燈的雕刻者或頂著南瓜燈巡邏的角色。
+    introduce: enemy_illustration-20000101
     pow_rank: 2
     life_rank: 3
     hit_rank: 3
@@ -2011,17 +2091,18 @@
     rate_rank: 3
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000101
     character: "303"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000101
     spine_scale: "90,90,1"
   }
   {
     id: 102
-    name: 幽靈獵鷗
+    name: enemy_illustration-10000102
     type: 3
     code: Jaeger_Halloween
-    introduce: 鐵血的節日特供傀儡，裝配有遠程狙擊武器，火力和精準度較高。儘管精心在身上塗抹了磷粉來製造發光效果，也無法改變本體脆弱的缺陷。
+    introduce: enemy_illustration-20000102
     pow_rank: 3
     life_rank: 1
     hit_rank: 5
@@ -2029,17 +2110,18 @@
     rate_rank: 2
     speed_rank: 3
     range_rank: 4
-    counter: 該單位主要擔當後排輸出，攻速較慢、命中較高，對我方前排單位造成的傷害比較穩定且顯著，建議選用索敵邏輯為打擊後排的人形進行處理。
+    counter: enemy_illustration-30000102
     character: "307"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000102
     spine_scale: "80,80,1"
   }
   {
     id: 103
-    name: 魔女騎兵
+    name: enemy_illustration-10000103
     type: 3
     code: Dragon_Halloween
-    introduce: 鐵血的高級節日特供傀儡，裝配有實驗用的懸浮代步裝置、反重力大檐帽和突擊武器，無論火力、射程和機動性都不容小覷，經常扮演驚嚇破壞者並被轟炸的角色。
+    introduce: enemy_illustration-20000103
     pow_rank: 3
     life_rank: 3
     hit_rank: 5
@@ -2047,16 +2129,17 @@
     rate_rank: 3
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000103
     character: "304"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000103
   }
   {
     id: 104
-    name: 惡靈黑騎
+    name: enemy_illustration-10000104
     type: 5
     code: Aegis_Halloween
-    introduce: 原是戰遍沙場的騎士，在身軀遭到惡魔侵襲後，淪為了惡魔騎士。即使失去了所有記憶，但他總隱約記得自己要守護什麼。
+    introduce: enemy_illustration-20000104
     pow_rank: 2
     life_rank: 4
     hit_rank: 2
@@ -2064,16 +2147,17 @@
     armor_rank: 5
     speed_rank: 2
     range_rank: 2
-    counter: 該單位擁有一定護甲，接戰前請對我方穿甲能力進行仔細評估
+    counter: enemy_illustration-30000104
     character: "303,309"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000104
   }
   {
     id: 105
-    name: 惡靈黑驃
+    name: enemy_illustration-10000105
     type: 4
     code: Nemeum_Halloween
-    introduce: 原是勇猛無畏的戰馬，在身軀遭到惡魔侵襲後，淪為了惡魔的坐騎。即使失去了所有記憶，但它總隱約記得自己要守護什麼。
+    introduce: enemy_illustration-20000105
     pow_rank: 4
     life_rank: 3
     hit_rank: 5
@@ -2081,48 +2165,51 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
-    counter: 護甲單位，主要擔當後排輸出，攻速較慢、命中和傷害較高，對我方前排單位造成的傷害比較穩定且顯著，建議選用索敵邏輯為打擊後排且帶穿甲能力的人形進行處理。
+    counter: enemy_illustration-30000105
     character: "309"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000105
   }
   {
     id: 106
-    name: 聖誕兵蟻
+    name: enemy_illustration-10000106
     type: 2
     code: Dinergate_chm1
-    introduce: 鐵血的低級慶祝機甲，運輸能力較弱但有馴鹿協助，通常用於增添聖誕節日氣氛。如果預定路線上有障礙物會採用撞壞牆壁衝進門的方式送禮，請不要隨意改變房門位置。
+    introduce: enemy_illustration-20000106
     pow_rank: 5
     life_rank: 1
     hit_rank: 5
     rate_rank: 2
     speed_rank: 5
     range_rank: 2
-    counter: 該單位近戰輸出能力極高，但相對的自身生存能力極差，推薦使用能快速造成範圍傷害的人形或突擊步槍人形在接觸前完成殲滅。
+    counter: enemy_illustration-30000106
     character: "303"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000106
   }
   {
     id: 107
-    name: 馴順兵鹿
+    name: enemy_illustration-10000107
     type: 2
     code: Dinergate_chm2
-    introduce: 鐵血的低級運輸單位，通常用於協助聖誕兵蟻增加節日氣氛。如果預定路線上有障礙物會採用撞壞牆壁衝進門的方式送禮，請不要隨意改變房門位置。
+    introduce: enemy_illustration-20000107
     pow_rank: 5
     life_rank: 1
     hit_rank: 5
     rate_rank: 2
     speed_rank: 5
     range_rank: 2
-    counter: 該單位近戰輸出能力極高，但相對的自身生存能力極差，推薦使用能快速造成範圍傷害的人形或突擊步槍人形在接觸前完成殲滅。
+    counter: enemy_illustration-30000107
     character: "303"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000107
   }
   {
     id: 108
-    name: 薑餅護衛者
+    name: enemy_illustration-10000108
     type: 3
     code: Guard_chm
-    introduce: 鐵血的高級節日傀儡，裝配有薑餅和糖果杖。如外形所見的高甜度角色，一般用於防禦重要的廚房，或者攔截用破壞者做幌子溜進門偷糖的夢想家時出場。
+    introduce: enemy_illustration-20000108
     if_capture: 1
     pow_rank: 1
     life_rank: 4
@@ -2131,16 +2218,17 @@
     rate_rank: 4
     speed_rank: 2
     range_rank: 2
-    counter: 該單位為近戰單位，防禦能力較強，但相對的對我方造成有效傷害的能力較弱，主要威脅來自其他負責輸出的單位，請注意選用合適的槍種人形以優先處理被護衛者掩護的單位。
+    counter: enemy_illustration-30000108
     character: "303"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000108
   }
   {
     id: 109
-    name: 娜希斯
+    name: enemy_illustration-10000109
     type: 1
     code: Narciss
-    introduce: 帕拉蒂斯「涅托」裡的一員，某方面的失敗反而使她在戰鬥方面的能力強過同伴許多。擅長狂風暴雨般的攻擊，撕碎自己面前的一切敵方單位，並從摧毀中得到快樂。
+    introduce: enemy_illustration-20000109
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -2149,17 +2237,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位在戰鬥中具有近戰/遠程兩種輸出模式,若擊毀全部七把浮遊刀,該單位將由遠程模式切換至近戰模式,近戰模式下將對低編制單位造成極大威脅。
+    counter: enemy_illustration-30000109
     character: "1001,329,330"
     enemy_skill: "108,109,110"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000109
   }
   {
     id: 110
-    name: 格雷
+    name: enemy_illustration-10000110
     type: 1
     code: Mrsgray
-    introduce: 帕拉蒂斯「涅托」裡的一員，精通醫術，頭腦精密而冷靜。善於利用身邊的一切有利因素作戰，削弱敵人使自己獲得優勢。
+    introduce: enemy_illustration-20000110
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -2168,30 +2257,32 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位可以通過呼叫增援單位製造持續的威脅,並可以通過多種限制手段以及技能冷卻的增加來削弱我方的輸出,短期的大量爆發或許是較優的處理方案。
+    counter: enemy_illustration-30000110
     character: "1001,316,328,326"
     enemy_skill: "113,114,115"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000110
   }
   {
     id: 111
-    name: 默莉朵
+    name: enemy_illustration-10000111
     type: 1
     code: Morridow_nor
-    introduce: 帕拉蒂斯「涅托」裡的一員，狡猾、陰狠且善變。
+    introduce: enemy_illustration-20000111
     forces: 3
     speed_rank: 5
-    counter: 默莉朵似乎沒有與我們交手的打算,做好與其他高威脅涅托單位進行交戰的準備吧。
+    counter: enemy_illustration-30000111
     character: "1001,900"
     enemy_skill: "116"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000111
   }
   {
     id: 112
-    name: 默莉朵
+    name: enemy_illustration-10000112
     type: 1
     code: Morridow
-    introduce: 帕拉蒂斯「涅托」裡的一員，狡猾、陰狠且善變。有如蜘蛛般設置陷阱來戰鬥，詭秘的代言人。在攻擊之前，誰也捕捉不住她的身影。
+    introduce: enemy_illustration-20000112
     forces: 3
     pow_rank: 5
     life_rank: 3
@@ -2200,34 +2291,36 @@
     rate_rank: 1
     speed_rank: 6
     range_rank: 2
-    counter: 透過限制我方行動同時快速接近我方單位造成大量傷害,接近我方的時候也是她暴露於己方部隊保護的時候,在這種情況下對她造成大量傷害吧。
+    counter: enemy_illustration-30000112
     character: "1001,316,329"
     enemy_skill: "111,112"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000112
   }
   {
     id: 113
-    name: 特工
+    name: enemy_illustration-10000113
     type: 3
     code: Plaincloth
-    introduce: 因為某項任務來到這裡的斯塔西成員，跟蹤與生存是他們的專長。只有活著才能創造更多價值，他們顯然精通此道。
+    introduce: enemy_illustration-20000113
     pow_rank: 4
     life_rank: 5
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
     range_rank: 4
-    counter: 可以無視面前單位移動至我方底線,若該單位面前有其他單位,自身的閃避也會極大的提升。快速清理敵方前排單位,或部署高命中單位會是有效的應對方案。
+    counter: enemy_illustration-30000113
     character: "1001,327"
     enemy_skill: "100,101"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000113
   }
   {
     id: 114
-    name: 暴徒
+    name: enemy_illustration-10000114
     type: 3
     code: Mobster
-    introduce: 活躍在舊城區的幫會成員。對他們來說法律只是笑話，陰影中的人有自己的生存法則。使用粗劣的自製投擲武器攻擊對手，對離自己最近的目標懷抱著必定命中的決心發動攻勢。
+    introduce: enemy_illustration-20000114
     pow_rank: 4
     life_rank: 2
     hit_rank: 2
@@ -2235,17 +2328,18 @@
     rate_rank: 2
     speed_rank: 6
     range_rank: 3
-    counter: 該單位將對接近他的目標造成大量不可迴避的傷害,注意與他保持距離並及時躲避出燃燒瓶的有效範圍即可克敵制勝。
+    counter: enemy_illustration-30000114
     character: "426"
     enemy_skill: "102,103"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000114
   }
   {
     id: 115
-    name: 防衛者
+    name: enemy_illustration-10000115
     type: 3
     code: Punish
-    introduce: 近戰單位，作為堅固的盾牌與進攻者活躍。倚仗厚重的盾牌和衝鋒武器，在戰場上橫衝直撞。
+    introduce: enemy_illustration-20000115
     forces: 3
     pow_rank: 4
     life_rank: 3
@@ -2254,17 +2348,18 @@
     rate_rank: 2
     speed_rank: 6
     range_rank: 3
-    counter: 該單位將在移動狀態下獲得減傷效果。在該單位接近我方停止移動後,使用技能快速擊殺即可克敵制勝。
+    counter: enemy_illustration-30000115
     character: "427"
     enemy_skill: "104"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000115
   }
   {
     id: 116
-    name: 聖歌風琴
+    name: enemy_illustration-10000116
     type: 2
     code: Cherub
-    introduce: 使用雷射持續對我方高血量單位發動攻擊的特化作戰單位，攻擊單一但集中， 極易對我方造成定點貫穿的致命傷害。
+    introduce: enemy_illustration-20000116
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -2273,17 +2368,18 @@
     rate_rank: 4
     speed_rank: 2
     range_rank: 3
-    counter: 將額外對低編制敵人造成大量傷害,優先使用高編制單位與其交戰。
+    counter: enemy_illustration-30000116
     character: "1003,331,332"
     enemy_skill: "105"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000116
   }
   {
     id: 117
-    name: 拔摩之筆
+    name: enemy_illustration-10000117
     type: 2
     code: Visjnoe
-    introduce: 設置在戰場上的戰術器械，僅對包括人形在內的機械單位有反應。清除對方的增益狀態的同時也會清除己方的負面狀態，作為支援單位十分難纏。
+    introduce: enemy_illustration-20000117
     forces: 3
     pow_rank: 3
     life_rank: 4
@@ -2292,17 +2388,18 @@
     rate_rank: 4
     speed_rank: 2
     range_rank: 4
-    counter: 該單位存活在場上時,將不斷清除我方正面增益及清除敵方負面增益,選擇不依賴增益造成傷害的梯隊將有效克制該單位。
+    counter: enemy_illustration-30000117
     character: "1003,428,429"
     enemy_skill: "106,107"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000117
   }
   {
     id: 118
-    name: 角鬥士
+    name: enemy_illustration-10000118
     type: 3
     code: Roarer_New
-    introduce: 主要攻擊方式為近戰的重型重甲單位，與神秘勢力有所關聯。
+    introduce: enemy_illustration-20000118
     forces: 3
     pow_rank: 4
     life_rank: 5
@@ -2312,18 +2409,19 @@
     armor_rank: 3
     speed_rank: 2
     range_rank: 2
-    counter: 擁有一定的力場值和護甲，起初的減傷能力一般，但是後續會不斷恢復和增加力場值，在破防能力不足的情況下不適合長時間與之交戰。建議在有重裝部隊支援的前提下進行戰鬥。
+    counter: enemy_illustration-30000118
     character: "302,309,312,316"
     enemy_skill: "34,35,140"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000118
     spine_scale: "80,80,1"
   }
   {
     id: 119
-    name: 偵察士
+    name: enemy_illustration-10000119
     type: 4
     code: Thunder_New
-    introduce: 利用搭載於身體下方的炮台攻擊，遭受攻擊時會利用跳躍閃避。與神秘勢力有所關聯。
+    introduce: enemy_illustration-20000119
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -2333,18 +2431,19 @@
     armor_rank: 4
     speed_rank: 2
     range_rank: 4
-    counter: 擁有較高的護甲和力場值，且具有極強的迴避性能,請注意有效打擊的時機。建議使用帶有狙擊技能等有必中手段的人形。
+    counter: enemy_illustration-30000119
     character: "1001,302,309,310,315"
     enemy_skill: "36,37,38"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000119
     spine_scale: "50,50,1"
   }
   {
     id: 120
-    name: 重炮士
+    name: enemy_illustration-10000120
     type: 3
     code: Soldier_New
-    introduce: 與射擊士極為類似，搭載更加強大的火力，並且使用特殊的彈藥降低我方人形的迴避率。與神秘勢力有所關聯。
+    introduce: enemy_illustration-20000120
     forces: 3
     pow_rank: 4
     life_rank: 3
@@ -2353,18 +2452,19 @@
     rate_rank: 3
     speed_rank: 1
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000120
     character: "1003,312,316"
     enemy_skill: "39"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000120
     spine_scale: "100,100,1"
   }
   {
     id: 121
-    name: 殭屍新娘
+    name: enemy_illustration-10000121
     type: 3
     code: Vespid_bride
-    introduce: 寂靜的洋館之中，華麗的紗衣揮之不去的怨念仍在徘徊；千萬不要被美麗的外表迷惑，如果她向你擲來手中的花束，一定要記得躲閃。
+    introduce: enemy_illustration-20000121
     if_capture: 1
     pow_rank: 3
     life_rank: 2
@@ -2373,17 +2473,18 @@
     rate_rank: 2
     speed_rank: 3
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000121
     character: "300"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000121
     spine_scale: "100,100,1"
   }
   {
     id: 122
-    name: 幽靈
+    name: enemy_illustration-10000122
     type: 3
     code: Brute_Ghost
-    introduce: 寂靜的洋館之中，不時響起的嗚咽聲久久不得迴響，路過轉角處的時候，一定要留心那忽然亮起的白芒——不論出現的是幽靈本身，還是他的刀刃，都不是什麼好消息。
+    introduce: enemy_illustration-20000122
     pow_rank: 5
     life_rank: 3
     hit_rank: 4
@@ -2391,32 +2492,34 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 2
-    counter: 該單位擁有較高的破甲值，對霰彈槍人形來說是個危險的存在，請注意避免我方霰彈槍人形與她接觸。推薦使用衝鋒槍、手槍等迴避型人形擔當前排。
+    counter: enemy_illustration-30000122
     character: "303"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000122
     spine_scale: "85,85,1"
   }
   {
     id: 123
-    name: 大白鯊樂園
+    name: enemy_illustration-10000123
     type: 2
     code: RecceCentreSwim
-    introduce: 為了便於走私而偽裝成鯊魚樂園的非法軍火，量產鯊排是其主要功能，在偽裝運輸過程中，由於可愛的造型而得到孩子們的青睞。
+    introduce: enemy_illustration-20000123
     if_capture: 1
     life_rank: 6
     armor_rank: 4
-    counter: 高護甲單位，會源源不斷的生產鯊排，不太適合突擊步槍人形來應對。建議使用步槍人形處理。
+    counter: enemy_illustration-30000123
     character: "309,321"
     enemy_skill: "21"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000123
     spine_scale: "40,40,1"
   }
   {
     id: 124
-    name: 鯊排
+    name: enemy_illustration-10000124
     type: 2
     code: PathfinderSwim
-    introduce: 為了便於走私而偽裝成排球的非法軍火，由於偽裝效果極好，在運輸途中發生過被人打出「爆炸式扣殺」的事故。
+    introduce: enemy_illustration-20000124
     pow_rank: 4
     life_rank: 2
     hit_rank: 4
@@ -2425,18 +2528,19 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 2
-    counter: 擁有一定護甲，命中較高、傷害較低，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000124
     character: "303,309"
     enemy_skill: "22"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000124
     spine_scale: "100,100,1"
   }
   {
     id: 125
-    name: 海上調酒師
+    name: enemy_illustration-10000125
     type: 3
     code: CyclopsSwim
-    introduce: 遊輪專用服務型人形，兼具侍者與安保的能力，能夠視情況切換行動模式，必要時也可以改為人工操作。
+    introduce: enemy_illustration-20000125
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
@@ -2444,18 +2548,19 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000125
     character: "1001,319"
     enemy_skill: "16"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000125
     spine_scale: "85,85,1"
   }
   {
     id: 126
-    name: 建築師-NVW型
+    name: enemy_illustration-10000126
     type: 1
     code: BossArchitect_Summer
-    introduce: 建築師-臨海戰鬥特化型，簡稱NVW型。IOP將鐵血廢棄的舊案細化並改進後製作出的海戰型素體，如果不在海邊，建築師將會利用儲存的素材將周圍改造為臨海環境並開始作戰。建築合適的陣地也是建築師的職責。
+    introduce: enemy_illustration-20000126
     forces: 1
     if_capture: 1
     pow_rank: 6
@@ -2466,19 +2571,19 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 5
-    counter: 更換了海戰型素體的建築師，擁有更強大的陣地構築能力，火力和指揮能力也有進一步的提升。
+    counter: enemy_illustration-30000126
     character: "1001,208,309"
     launch_time: 2035-5-20 00:00:00
-    extra: ",大坪由佳,"
+    extra: enemy_illustration-40000126
     spine_scale: "85,85,1"
     org_id: 10603
   }
   {
     id: 127
-    name: 職業保鏢
+    name: enemy_illustration-10000127
     type: 3
     code: guard_katsura
-    introduce: 接受雇傭提供護衛服務的專業人員，接受了嚴格的訓練，身手不凡，且忠心耿耿。
+    introduce: enemy_illustration-20000127
     pow_rank: 1
     life_rank: 3
     hit_rank: 2
@@ -2486,17 +2591,18 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000127
     character: "430"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000127
     spine_scale: "100,100,1"
   }
   {
     id: 128
-    name: 資深保鏢
+    name: enemy_illustration-10000128
     type: 3
     code: guard_bald
-    introduce: 接受雇傭提供護衛服務的專業人員，接受了嚴格的訓練，身手不凡，且忠心耿耿。是職業保鏢中的佼佼者，透過明顯的特徵看得出他們更加強大。
+    introduce: enemy_illustration-20000128
     pow_rank: 7
     life_rank: 5
     hit_rank: 5
@@ -2504,17 +2610,18 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力十分優秀，請注意使用合理的戰鬥策略應對。
+    counter: enemy_illustration-30000128
     character: "1001,430"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000128
     spine_scale: "100,100,1"
   }
   {
     id: 129
-    name: 靈蛇權杖
+    name: enemy_illustration-10000129
     type: 3
     code: Obelisk_partB
-    introduce: 使用機槍的重火力人形，攜帶的機槍在充分蓄能之後能夠發射3次等離子光束，光束具有致盲效果，並能在一定程度上無視閃避。在裝載【阿克索之皿】後，威力將有巨大提升。
+    introduce: enemy_illustration-20000129
     forces: 3
     pow_rank: 4
     life_rank: 3
@@ -2523,18 +2630,19 @@
     rate_rank: 3
     speed_rank: 1
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000129
     character: "1001,1003,335,320"
     enemy_skill: "130"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000129
     spine_scale: "100,100,1"
   }
   {
     id: 130
-    name: 阿克索之皿
+    name: enemy_illustration-10000130
     type: 2
     code: Obelisk_partA
-    introduce: 使用機槍的特化作戰單位，能夠發射等離子光束對目標進行攻擊，光束在一定程度上能無視閃避。在裝載【靈蛇權杖】後，威力將有巨大提升。
+    introduce: enemy_illustration-20000130
     forces: 3
     pow_rank: 4
     life_rank: 5
@@ -2542,18 +2650,19 @@
     rate_rank: 5
     armor_rank: 2
     range_rank: 5
-    counter: 該單位攻速較高、傷害一般，推薦使用霰彈槍人形搭配足夠的護甲進行抵禦。
+    counter: enemy_illustration-30000130
     character: "1001,302,320"
     enemy_skill: "129"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000130
     spine_scale: "50,50,1"
   }
   {
     id: 131
-    name: 警備士
+    name: enemy_illustration-10000131
     type: 3
     code: Riotguard
-    introduce: 具有強大壓制力的警備用單位，通常結隊行動，會使用盾牌對敵方進行壓迫作戰，同時配有擁有電擊能力的警棍。
+    introduce: enemy_illustration-20000131
     forces: 3
     pow_rank: 2
     life_rank: 3
@@ -2562,18 +2671,19 @@
     rate_rank: 3
     speed_rank: 3
     range_rank: 2
-    counter: 該單位為近戰單位，放任不管的話會持續加強自身的防禦能力，請注意選用合適的槍種人形應對。
+    counter: enemy_illustration-30000131
     character: "431"
     enemy_skill: "117"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000131
     spine_scale: "100,100,1"
   }
   {
     id: 132
-    name: 重錘士
+    name: enemy_illustration-10000132
     type: 5
     code: Metalmax
-    introduce: 強大的近戰重型重甲單位，會利用手中的重錘對輕型目標造成毀滅性打擊。
+    introduce: enemy_illustration-20000132
     forces: 3
     pow_rank: 2
     life_rank: 3
@@ -2582,18 +2692,19 @@
     armor_rank: 7
     speed_rank: 3
     range_rank: 2
-    counter: 該單位擁有高額的護甲，接戰前請對我方穿甲能力進行仔細評估。
+    counter: enemy_illustration-30000132
     character: "334,432"
     enemy_skill: "118"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000132
     spine_scale: "100,100,1"
   }
   {
     id: 133
-    name: 漢尼拔
+    name: enemy_illustration-10000133
     type: 5
     code: Executioner
-    introduce: 帕拉蒂斯生產的特重型機甲單位，擁有最先進的高科技近戰武器和護甲。具有難以擊破的特點和堪稱毀滅性的戰鬥力。
+    introduce: enemy_illustration-20000133
     forces: 3
     pow_rank: 4
     life_rank: 6
@@ -2602,18 +2713,19 @@
     armor_rank: 2
     speed_rank: 3
     range_rank: 3
-    counter: 該單位擁有高額的生命值，對編制少的單位有很強的斬殺能力，請注意使用合適的梯隊與之作戰。
+    counter: enemy_illustration-30000133
     character: "302,310,433"
     enemy_skill: "119,120,121"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000133
     spine_scale: "80,80,1"
   }
   {
     id: 134
-    name: 擲彈士
+    name: enemy_illustration-10000134
     type: 3
     code: Grenadier
-    introduce: 主要戰鬥方式為投擲武器的輕型人形，會利用投彈有效造成巨大的範圍殺傷。
+    introduce: enemy_illustration-20000134
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -2622,18 +2734,19 @@
     rate_rank: 3
     speed_rank: 3
     range_rank: 4
-    counter: 該單位裝備了特種作戰的武器，可以應對多種戰場需求，尤其會對我方機械單位造成高額傷害。
+    counter: enemy_illustration-30000134
     character: "1003,434,435"
     enemy_skill: "122,123"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000134
     spine_scale: "100,100,1"
   }
   {
     id: 135
-    name: 指揮士
+    name: enemy_illustration-10000135
     type: 5
     code: Mastersergeant
-    introduce: 搭載了強力偵測配件的新型指揮單位，可以對部隊下達最清楚有效的指令，但自身的戰鬥力有待增強。
+    introduce: enemy_illustration-20000135
     forces: 3
     pow_rank: 6
     life_rank: 5
@@ -2643,18 +2756,19 @@
     armor_rank: 2
     speed_rank: 3
     range_rank: 3
-    counter: 該單位是敵方指揮首腦，會持續提高敵人作戰能力，建議優先擊殺。擊殺後敵方戰鬥能力會下降一段時間。
+    counter: enemy_illustration-30000135
     character: "1001,1003,436,437"
     enemy_skill: "124,125,139"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000135
     spine_scale: "85,85,1"
   }
   {
     id: 136
-    name: 瑪赫蓮
+    name: enemy_illustration-10000136
     type: 1
     code: Rogue_M
-    introduce: 久違的伯恩村少女，栩栩如生地站在面前，就如同她從未逝去一般。
+    introduce: enemy_illustration-20000136
     forces: 3
     pow_rank: 1
     life_rank: 1
@@ -2663,17 +2777,18 @@
     rate_rank: 1
     speed_rank: 1
     range_rank: 1
-    counter: 纖弱的少女等待著她的救贖，你會是那個她期待已久的命定之人嗎？
+    counter: enemy_illustration-30000136
     character: "1001"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000136
     spine_scale: "100,100,1"
   }
   {
     id: 137
-    name: 厄琉息斯秘儀
+    name: enemy_illustration-10000137
     type: 1
     code: Obelisk
-    introduce: 火力猛烈的機槍單位，配備了附加了致盲效果的雙機槍系統。能夠將放入其中的伊阿索之匣轉換為等離子光束進行發射，可同時攻擊多個單位，並對攻擊範圍造成污染。
+    introduce: enemy_illustration-20000137
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -2682,18 +2797,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位在高血量時擁有炮擊陣地的能力，對我方生存壓力極大，建議迅速將其壓制。
+    counter: enemy_illustration-30000137
     character: "1001,302,335,320,309"
     enemy_skill: "126,127,128"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000137
     spine_scale: "50,50,1"
   }
   {
     id: 138
-    name: 緹
+    name: enemy_illustration-10000138
     type: 1
     code: Teal
-    introduce: 帕拉蒂斯的精銳單位，冷靜而審慎，擁有強大的判斷力和對情緒的控制力。經常和格雷協同作戰，非常信賴她。擅長使用長劍潛伏暗殺，在抓住敵人露出破綻的一瞬，以無法用肉眼捕捉的速度一招致命。
+    introduce: enemy_illustration-20000138
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -2702,18 +2818,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位擁有可怕的斬殺續航的能力，我方的強力輸出單位需要注意不被鎖定。
+    counter: enemy_illustration-30000138
     character: "1001,216,440"
     enemy_skill: "131,132,133,134"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000138
     spine_scale: "70,70,1"
   }
   {
     id: 139
-    name: 布拉梅德
+    name: enemy_illustration-10000139
     type: 1
     code: Bramede
-    introduce: 帕拉蒂斯的精銳單位，極具魅力，能夠輕易瓦解對方的防禦，即使在戰鬥狀態下也依然嫵媚動人。擅長迷惑人類和人形的心智，電子作戰能力極強，能在侵入人形心智的同時，盜取情報，並強行使其當機。
+    introduce: enemy_illustration-20000139
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -2722,18 +2839,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位擁有偷取心智的能力，應盡量避免被她鏈接命中。
+    counter: enemy_illustration-30000139
     character: "1001,438,439"
     enemy_skill: "135,136,137,138"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000139
     spine_scale: "60,60,1"
   }
   {
     id: 140
-    name: 干擾者-終幕魔女
+    name: enemy_illustration-10000140
     type: 1
     code: Intruder_Halloween
-    introduce: 干擾者-終幕魔女，IOP對干擾者進行大量的數據分析與作戰實驗後，根據模擬數據製作出的遭遇戰特化型素體。同時，在情感模組上應用了新技術的終幕魔女型號不但擁有更為強大的指揮與支援能力，更能夠憑藉其異常的精神最大程度地在小型戰場上對敵軍散播恐懼心理，打擊敵方士氣。
+    introduce: enemy_illustration-20000140
     forces: 1
     if_capture: 1
     pow_rank: 4
@@ -2743,19 +2861,19 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 3
-    counter: 更換了魔女型素體的干擾者，擁有更強大的支援作戰能力，火力和指揮能力也有進一步的提升。
+    counter: enemy_illustration-30000140
     character: "1001,204"
     launch_time: 2035-5-20 00:00:00
-    extra: ",大坪由佳,"
+    extra: enemy_illustration-40000140
     spine_scale: "75,75,1"
     org_id: 10602
   }
   {
     id: 141
-    name: CAWS
+    name: enemy_illustration-10000141
     type: 3
     code: HKCAWS_XmasEnemy
-    introduce: 我把禮物都買回來了，請給我報銷119份禮物的錢……還有1份為什麼不用？因為……那是我給您買的。
+    introduce: enemy_illustration-20000141
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2764,17 +2882,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力十分優秀，請注意使用合理的戰鬥策略應對。
+    counter: enemy_illustration-30000141
     character: "100,441"
     enemy_skill: "141"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000141
   }
   {
     id: 142
-    name: VSK-94
+    name: enemy_illustration-10000142
     type: 3
     code: VSK_XmasEnemy
-    introduce: 我是來送禮物的，請配合行動，不要緊張……這麼說更讓人緊張了？抱歉，Boss，這是職業病。
+    introduce: enemy_illustration-20000142
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2783,17 +2902,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力十分優秀，請注意使用合理的戰鬥策略應對。
+    counter: enemy_illustration-30000142
     character: "100,442"
     enemy_skill: "142"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000142
   }
   {
     id: 143
-    name: P7
+    name: enemy_illustration-10000143
     type: 3
     code: P7_XmasEnemy
-    introduce: 哎呀，結果您還是落到我的手心呢。
+    introduce: enemy_illustration-20000143
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2802,17 +2922,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000143
     character: "100,443"
     enemy_skill: "143"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000143
   }
   {
     id: 144
-    name: FP-6
+    name: enemy_illustration-10000144
     type: 3
     code: FP6_XmasEnemy
-    introduce: 沒想到聖誕老人的任務居然如此棘手……那樣的胖老頭到底是怎麼進去的？
+    introduce: enemy_illustration-20000144
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2821,17 +2942,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000144
     character: "100,444"
     enemy_skill: "144"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000144
   }
   {
     id: 145
-    name: 一〇〇式
+    name: enemy_illustration-10000145
     type: 3
     code: Type100_XmasEnemy
-    introduce: 嗯呀……終於挖出來了，咦？這個是……？哇！謝謝，這是最棒的禮物！
+    introduce: enemy_illustration-20000145
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2840,17 +2962,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000145
     character: "100,445"
     enemy_skill: "145"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000145
   }
   {
     id: 146
-    name: Px4 風暴
+    name: enemy_illustration-10000146
     type: 1
     code: Px4Storm_XmasBoss
-    introduce: 聖誕促銷才是聖誕節存在的意義，打折的價格才能倍增幸福的價值哦~
+    introduce: enemy_illustration-20000146
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2859,17 +2982,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位會大幅降低我方梯隊暴擊率並提升敵方單位攻速，而且會釋放預警範圍傷害，多次打擊對應格子上的單位，請注意使用合理的戰鬥策略應對。
+    counter: enemy_illustration-30000146
     character: "1002,446,447"
     enemy_skill: "146,147,148,149,150"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000146
   }
   {
     id: 147
-    name: 破壞者-浮掠麋影
+    name: enemy_illustration-10000147
     type: 1
     code: Destroyer_Christmas
-    introduce: 破壞者-浮掠麋影，針對雪原作戰而研發出的特異化型號，能夠確保破壞者在寒冷的環境中也能保持高速移動和精確打擊，對武器的升級也帶來了火力和爆破強度的提升。應破壞者本人強烈要求，在外形設計上參考了麋鹿，並使用了聖誕樹掛球等裝飾作為彈藥外包裝，以達到為敵人送上甜蜜死亡的目的。
+    introduce: enemy_illustration-20000147
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -2879,19 +3003,19 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 該單位具有極高的單發傷害，但是攻速較慢，命中一般，迴避型人形會有更好的防禦效果。
+    counter: enemy_illustration-30000147
     character: "1001,206"
     launch_time: 2035-5-20 00:00:00
-    extra: ",高田憂希,"
+    extra: enemy_illustration-40000147
     spine_scale: "85,85,1"
     org_id: 10603
   }
   {
     id: 148
-    name: 涅托 巡衛
+    name: enemy_illustration-10000148
     type: 3
     code: Nyto_Black_SMG
-    introduce: 阿佛那斯中量產的精英涅托，雙持衝鋒槍，擁有能滿足日常巡邏任務需求的高機動性與火力。
+    introduce: enemy_illustration-20000148
     forces: 3
     pow_rank: 2
     life_rank: 3
@@ -2900,17 +3024,18 @@
     rate_rank: 3
     speed_rank: 3
     range_rank: 3
-    counter: 該單位在受到致命傷害時會獲得一定的保護,要做好持久戰的準備。
+    counter: enemy_illustration-30000148
     character: "1001,308"
     enemy_skill: "153"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000148
   }
   {
     id: 149
-    name: 涅托 怒錘
+    name: enemy_illustration-10000149
     type: 5
     code: Nyto_Black_Hammer
-    introduce: 阿佛那斯中量產的精英涅托，使用巨錘作為武器，經特殊改造後，武器附帶暈眩效果，同時本體也擁有了更強大的防禦力。
+    introduce: enemy_illustration-20000149
     forces: 3
     pow_rank: 4
     life_rank: 3
@@ -2920,17 +3045,18 @@
     armor_rank: 2
     speed_rank: 6
     range_rank: 3
-    counter: 該單位為近戰單位，能暈眩我方單位，請使用合理策略應對。
+    counter: enemy_illustration-30000149
     character: "1001,303,309"
     enemy_skill: "154,155"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000149
   }
   {
     id: 150
-    name: 涅托 鷹眼
+    name: enemy_illustration-10000150
     type: 3
     code: Nyto_Black_RF
-    introduce: 阿佛那斯中量產的狙擊特化型精英涅托，使用狙擊槍作為武器，能夠在超遠距離的前提下瞄準敵人的弱點進行致命一擊。
+    introduce: enemy_illustration-20000150
     forces: 3
     pow_rank: 4
     life_rank: 1
@@ -2939,17 +3065,18 @@
     rate_rank: 2
     speed_rank: 3
     range_rank: 4
-    counter: 該單位主要擔當後排輸出，命中較高還擁有貫穿能力，對我方單位造成的傷害比較穩定且顯著，建議選用索敵邏輯為打擊後排的人形進行處理。
+    counter: enemy_illustration-30000150
     character: "1001,1003,307,320"
     enemy_skill: "156"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000150
   }
   {
     id: 151
-    name: 涅托 輔翼
+    name: enemy_illustration-10000151
     type: 3
     code: Nyto_White_Commander
-    introduce: 阿佛那斯中量產的精英涅托，使用戰術平板弱化敵方或強化己方，能夠輔助己方隊友發揮出更強的戰鬥效能。
+    introduce: enemy_illustration-20000151
     forces: 3
     pow_rank: 3
     life_rank: 4
@@ -2958,17 +3085,18 @@
     rate_rank: 4
     speed_rank: 2
     range_rank: 4
-    counter: 該單位是敵方涅托首腦，會持續提高涅托作戰能力，建議優先擊殺。
+    counter: enemy_illustration-30000151
     character: "1001,1003,437"
     enemy_skill: "157,158,159"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000151
   }
   {
     id: 152
-    name: 加爾姆
+    name: enemy_illustration-10000152
     type: 2
     code: Cerberus_White
-    introduce: 阿佛那斯中量產的最新型號機械犬，擁有高敏捷化的機動性和強大有力的鋼鐵爪牙。
+    introduce: enemy_illustration-20000152
     forces: 3
     pow_rank: 4
     life_rank: 4
@@ -2977,17 +3105,18 @@
     rate_rank: 4
     speed_rank: 6
     range_rank: 2
-    counter: 該單位擁有較高的移速，對敵方後排單位有很強的保護作用，建議優先擊破。
+    counter: enemy_illustration-30000152
     character: "304,316"
     enemy_skill: "151,152"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000152
   }
   {
     id: 153
-    name: 北國精英特工
+    name: enemy_illustration-10000153
     type: 3
     code: USSR_Agent
-    introduce: 來自寒冷北地的精英特工，是萬裡挑一的好手，實戰經驗豐富且行事風格狠辣。
+    introduce: enemy_illustration-20000153
     forces: 2
     pow_rank: 1
     life_rank: 3
@@ -2996,16 +3125,17 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000153
     character: "1001"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000153
   }
   {
     id: 154
-    name: 默莉朵
+    name: enemy_illustration-10000154
     type: 1
     code: morridow_boss
-    introduce: 帕拉蒂斯的精銳單位，狡猾陰狠，是擁有多副面具的偽裝者。她的功績為她換來了寶貴的改造機會，擁有了帕拉蒂斯全新技術打造的素體。戰鬥力有了大幅提升，陷阱製作技術也有了升級。只是她的虛識圖景似乎在不知不覺間產生了變化……
+    introduce: enemy_illustration-20000154
     forces: 3
     pow_rank: 5
     life_rank: 3
@@ -3014,17 +3144,18 @@
     rate_rank: 1
     speed_rank: 6
     range_rank: 2
-    counter: 通過限制我方行動同時快速接近我方單位造成大量傷害,接近我方的時候也是她暴露於己方部隊保護的時候,在這種情況下對她造成大量傷害吧。
+    counter: enemy_illustration-30000154
     character: "1001,316,329,438"
     enemy_skill: "111,112,160"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000154
   }
   {
     id: 155
-    name: 尼梅蘭
+    name: enemy_illustration-10000155
     type: 1
     code: Nimeylan
-    introduce: 帕拉蒂斯的精銳單位，冷酷無情，清醒自知，在帕拉蒂斯中占據著無可替代的地位。擁有短程飛行能力，擅長使用電子武器干擾敵人，並在漫長痛苦的折磨中，讓敵人絕望而無助地逐漸失去生息。
+    introduce: enemy_illustration-20000155
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -3033,17 +3164,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位會製造光球對我方造成大量傷害，注意防禦。
+    counter: enemy_illustration-30000155
     character: "1001"
     enemy_skill: "161,162,163,164"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000155
   }
   {
     id: 156
-    name: RPK-16
+    name: enemy_illustration-10000156
     type: 1
     code: RPK16_Nyto
-    introduce: 在帕拉蒂斯的技術支持下，RPK-16改造素體進行到一半的未完成姿態。雖然還是未完成態，但火力得到了大幅增強，也能夠使用部分帕拉蒂斯的核心技術。至於對其心智的影響，仍然是個未知數。
+    introduce: enemy_illustration-20000156
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -3053,17 +3185,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 未曾設想的敵人，請謹慎應對。
+    counter: enemy_illustration-30000156
     character: "1004"
     enemy_skill: "165"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000156
   }
   {
     id: 157
-    name: 獵手-裳夜落蛾
+    name: enemy_illustration-10000157
     type: 1
     code: Hunter_WhiteDay
-    introduce: 獵手-裳夜落蛾，潛行暗殺的特異化型號，服裝模擬了鱗翅目昆蟲的鱗片形狀結構，能夠調整反射的顏色，以便融於環境之中。根據獵手的個人偏好，日常情況下服裝顯現為矢車菊般的藍色，似乎具有一定的迷幻效果。而這一效果在作戰中的主要表現，為漫天的藍色花瓣或場景的突然變換。這也意味著，當你看見以上景象時，你已經踏入了獵手的陷阱。
+    introduce: enemy_illustration-20000157
     forces: 1
     if_capture: 1
     pow_rank: 4
@@ -3074,87 +3207,91 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000157
     character: "1001,203,309"
     launch_time: 2035-5-20 00:00:00
-    extra: ",萩原あみ,"
+    extra: enemy_illustration-40000157
     spine_scale: "85,85,1"
     org_id: 10602
   }
   {
     id: 158
-    name: 甜點魔蟻
+    name: enemy_illustration-10000158
     type: 2
     code: Dinergate_WhiteDay
-    introduce: 從被帕斯卡改裝後的生產線中誕生的甜點魔蟻，以甜食為主要能量來源，會毫不客氣地掠奪美味的點心——它自身的味道也十分可口，但要小心硌到牙齒。
+    introduce: enemy_illustration-20000158
     pow_rank: 5
     life_rank: 1
     hit_rank: 5
     rate_rank: 2
     speed_rank: 5
     range_rank: 2
-    counter: 甜食掠奪者，或許可以試著投喂一些巧克力給它們。
+    counter: enemy_illustration-30000158
     character: "303"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000158
     spine_scale: "100,100,1"
   }
   {
     id: 159
-    name: 黑巧卡路里炸彈
+    name: enemy_illustration-10000159
     type: 2
     code: Dinergate_WhiteDay1
-    introduce: 散發著可口香氣的巨大巧克力球，杏仁碎與黑巧誘人的色澤襯出高級的美味——易爆炸，勿食用。
+    introduce: enemy_illustration-20000159
     pow_rank: 7
     life_rank: 5
     hit_rank: 7
     speed_rank: 3
     range_rank: 1
-    counter: 為了讓自己變的更大，四處追尋著巧克力，不過似乎不太穩定，丟一些似是而非的巧克力給它們試試吧。
+    counter: enemy_illustration-30000159
     character: "1001,1003,323,908"
     enemy_skill: "11"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000159
     spine_scale: "100,100,1"
   }
   {
     id: 160
-    name: 白巧卡路里炸彈
+    name: enemy_illustration-10000160
     type: 2
     code: Dinergate_WhiteDay2
-    introduce: 散發著可口香氣的巨大巧克力球，杏仁碎與白巧誘人的色澤襯出甜膩的美味——易爆炸，勿食用。
+    introduce: enemy_illustration-20000160
     pow_rank: 7
     life_rank: 5
     hit_rank: 7
     speed_rank: 3
     range_rank: 1
-    counter: 為了讓自己變的更大，四處追尋著巧克力，不過似乎不太穩定，丟一些似是而非的巧克力給它們試試吧。
+    counter: enemy_illustration-30000160
     character: "1001,1003,323,908"
     enemy_skill: "11"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000160
     spine_scale: "100,100,1"
   }
   {
     id: 161
-    name: 松露卡路里炸彈
+    name: enemy_illustration-10000161
     type: 2
     code: Dinergate_WhiteDay3
-    introduce: 散發著可口香氣的巨大巧克力球，光滑的平面用融化的巧克力拉出優美的紋路，入口時裂開的甜香能夠征服任何挑剔的味蕾——易爆炸，勿食用。
+    introduce: enemy_illustration-20000161
     pow_rank: 7
     life_rank: 5
     hit_rank: 7
     speed_rank: 3
     range_rank: 1
-    counter: 為了讓自己變的更大，四處追尋著巧克力，不過似乎不太穩定，丟一些似是而非的巧克力給它們試試吧。
+    counter: enemy_illustration-30000161
     character: "1001,1003,323,908"
     enemy_skill: "11"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000161
     spine_scale: "100,100,1"
   }
   {
     id: 162
-    name: 末日點心犬
+    name: enemy_illustration-10000162
     type: 1
     code: Cerberus_WhiteDay
-    introduce: 因犯下過錯而重回「噩夢」的破壞者，逐漸丟失的意識當中，唯有「巧克力」的誘惑依然存在——狗不能吃巧克力吧？
+    introduce: enemy_illustration-20000162
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3163,18 +3300,19 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 2
-    counter: 唯有巧克力的誘惑不可辜負。
+    counter: enemy_illustration-30000162
     character: "1001,214,309"
     enemy_skill: "79,80"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000162
     spine_scale: "70,70,1"
   }
   {
     id: 163
-    name: 巡迴愚者
+    name: enemy_illustration-10000163
     type: 3
     code: Roarer_swimsuit
-    introduce: 頭腦簡單的萊肯原住民，身無所長，只能靠發達的四肢承擔守護禁獵區的工作。
+    introduce: enemy_illustration-20000163
     pow_rank: 4
     life_rank: 5
     hit_rank: 3
@@ -3183,18 +3321,19 @@
     armor_rank: 3
     speed_rank: 2
     range_rank: 2
-    counter: 擁有一定的力場值和護甲，起初的減傷能力一般，但是後續會不斷恢復和增加力場值，在破防能力不足的情況下不適合長時間與之交戰。建議在有重裝部隊支援的前提下進行戰鬥。
+    counter: enemy_illustration-30000163
     character: "302,309,312,316"
     enemy_skill: "34,35,140"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000163
     spine_scale: "80,80,1"
   }
   {
     id: 164
-    name: 漁獵先知
+    name: enemy_illustration-10000164
     type: 3
     code: Rodelero_swimsuit
-    introduce: 被萊肯原住民尊為「先知」的神秘少女，一把水陸兩用的高壓槍似乎是她可靠的狩獵武器。
+    introduce: enemy_illustration-20000164
     pow_rank: 3
     life_rank: 4
     hit_rank: 3
@@ -3203,18 +3342,19 @@
     armor_rank: 2
     speed_rank: 3
     range_rank: 4
-    counter: 擁有力場值，具有一定的減傷能力，在使用我方前排承擔傷害的同時也要注意該單位的貫通攻擊，保證我方脆弱的人形不在前排人形身後。重裝部隊的支援將使戰鬥更加有利。
+    counter: enemy_illustration-30000164
     character: "309,312,320"
     enemy_skill: "166"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000164
     spine_scale: "90,90,1"
   }
   {
     id: 165
-    name: 萊肯流浪人
+    name: enemy_illustration-10000165
     type: 3
     code: StreletPlus_swimsuit
-    introduce: 常年徘徊於萊肯禁獵區海邊，居無定所，常用的護身武器是改裝後的衝浪板。
+    introduce: enemy_illustration-20000165
     pow_rank: 4
     life_rank: 3
     hit_rank: 3
@@ -3222,18 +3362,19 @@
     rate_rank: 3
     speed_rank: 1
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000165
     character: "1003,312,316"
     enemy_skill: "39"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000165
     spine_scale: "100,100,1"
   }
   {
     id: 166
-    name: 埃莉諾-滄龍掠騎者
+    name: enemy_illustration-10000166
     type: 1
     code: Nyto_White_Summer
-    introduce: 埃莉諾-滄龍掠騎者，臨海戰鬥特化型號。用更為輕盈、動力啟動更為迅猛的新型四肢取代了在水中過於沉重笨拙的金屬肢體，服裝的設計和選材也以適應海洋戰鬥為著重點。武器的優化採用了埃莉諾本人的建議，以白堊紀時期的古老海獸為靈感原型，打造出了更為銳利靈敏的鐮刀。純白的死神即將潛入深海，手中的巨鐮如海獸般嘶吼著，斬斷靈魂與肉體的鏈接，收割被海水浸透的生命。
+    introduce: enemy_illustration-20000166
     forces: 3
     if_capture: 1
     pow_rank: 6
@@ -3244,19 +3385,19 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000166
     character: "1001,216,309,312"
     launch_time: 2035-5-20 00:00:00
-    extra: ",伊藤靜,"
+    extra: enemy_illustration-40000166
     spine_scale: "70,70,1"
     org_id: 10603
   }
   {
     id: 167
-    name: 律賊惡徒
+    name: enemy_illustration-10000167
     type: 3
     code: RussianGangster_HG
-    introduce: 由窮凶極惡之人組成，效忠於律賊的暴力群體，擅長用各種慘無人道的手段達成目的。
+    introduce: enemy_illustration-20000167
     pow_rank: 1
     life_rank: 3
     hit_rank: 2
@@ -3264,17 +3405,18 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000167
     character: "300"
     enemy_skill: "167"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000167
   }
   {
     id: 168
-    name: 萊卡翁
+    name: enemy_illustration-10000168
     type: 4
     code: AA02_Mini
-    introduce: 步兵用輕型機甲，機體採用高性能傳動裝置，能夠靈活應對複雜的地形環境。配備有兩支大口徑機槍臂，能夠對步兵目標造成有效殺傷，威力可觀。
+    introduce: enemy_illustration-20000168
     forces: 2
     pow_rank: 2
     life_rank: 4
@@ -3283,18 +3425,19 @@
     armor_rank: 4
     speed_rank: 1
     range_rank: 3
-    counter: 克制低血量單位，建議盡快處理。
+    counter: enemy_illustration-30000168
     character: "1003,302,314,319"
     enemy_skill: "168"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000168
     spine_scale: "60,60,1"
   }
   {
     id: 169
-    name: 埃奎斯
+    name: enemy_illustration-10000169
     type: 4
     code: Chariot_Military
-    introduce: 空地兩用導彈車，配備有四聯裝尾刺防空導彈，防禦里程極遠，被廣泛用於對抗敵方空中及地面裝甲目標的任務。
+    introduce: enemy_illustration-20000169
     forces: 2
     pow_rank: 2
     life_rank: 5
@@ -3304,18 +3447,19 @@
     armor_rank: 5
     speed_rank: 3
     range_rank: 3
-    counter: 該單位對機械單位有著不錯的防禦強化能力，並且注意規避定嚮導彈的傷害。
+    counter: enemy_illustration-30000169
     character: "1001,1003,302"
     enemy_skill: "169,170"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000169
     spine_scale: "50,50,1"
   }
   {
     id: 170
-    name: 獨眼巨人_MG
+    name: enemy_illustration-10000170
     type: 3
     code: Cyclops_MG
-    introduce: 軍方的支援作戰人形，配備高射速多管機槍，能在有效距離內提供強大的火力壓制與殺傷。
+    introduce: enemy_illustration-20000170
     forces: 2
     pow_rank: 4
     life_rank: 3
@@ -3324,18 +3468,19 @@
     rate_rank: 5
     speed_rank: 4
     range_rank: 4
-    counter: 該單位擁有很強的穿甲能力，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000170
     character: "1001,308,315"
     enemy_skill: "171"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000170
     spine_scale: "90,90,1"
   }
   {
     id: 171
-    name: 牝鹿SWAP
+    name: enemy_illustration-10000171
     type: 4
     code: Cerynitis_SWAP
-    introduce: 軍方常規作戰機甲牝鹿的改進型號，搭載最新型遠程火力打擊系統，同時進一步提升爆破反應裝甲的防禦性能，速射性能也得到了充分強化。
+    introduce: enemy_illustration-20000171
     forces: 2
     pow_rank: 5
     life_rank: 3
@@ -3344,17 +3489,18 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
-    counter: 護甲單位，傷害較高並且攻擊附帶負面效果，建議選用步槍人形優先處理。
+    counter: enemy_illustration-30000171
     character: "1003,309"
     enemy_skill: "172"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000171
   }
   {
     id: 172
-    name: 聖盾_GA_SWAP
+    name: enemy_illustration-10000172
     type: 5
     code: Aegis_GA_SWAP
-    introduce: 軍方常規作戰人形聖盾的改進型號，搭載有攻防一體的爆反裝甲護盾，並強化了近距攻擊性能，使戰線突防能力得到進一步提升。
+    introduce: enemy_illustration-20000172
     forces: 2
     pow_rank: 2
     life_rank: 3
@@ -3363,17 +3509,18 @@
     armor_rank: 5
     speed_rank: 3
     range_rank: 2
-    counter: 護甲單位，警惕近距離的傷害，接戰前請對我方穿甲能力進行仔細評估。
+    counter: enemy_illustration-30000172
     character: "303,309,310"
     enemy_skill: "9,173"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000172
   }
   {
     id: 173
-    name: 伊芙小姐
+    name: enemy_illustration-10000173
     type: 1
     code: Nyto_mecha
-    introduce: 帕拉蒂斯的精銳單位，塔亞柔斯的各方面能力平平，但在駕駛機甲方面有著無可比擬的天賦。她給和自己同步率最高的機甲取名為「伊芙小姐」，這個詞語似乎是她僅存的記憶。在日常中，她將自己偽裝成平凡路人，一旦進入心智空間，她將駕駛著「伊芙小姐」踏平一切……
+    introduce: enemy_illustration-20000173
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -3383,18 +3530,19 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位火力十足的同時還擁有強大的防護能力，注意合適的集火時機。
+    counter: enemy_illustration-30000173
     character: "1001,320,302"
     enemy_skill: "174,175,176"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000173
     spine_scale: "50,50,1"
   }
   {
     id: 174
-    name: 柳芭老媽
+    name: enemy_illustration-10000174
     type: 1
     code: Oldlady_boss
-    introduce: 律賊頭目，雖已年過半百，但依然精神矍鑠，戰力強勁。她雙持霰彈槍，駕駛著高速輪椅，能夠靈活避開沿路障礙，對敵人精準實施肉體和錢包的狂暴打擊。
+    introduce: enemy_illustration-20000174
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3402,17 +3550,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位開場會突襲攻擊，對我方站位有很高的要求，注意規避。
+    counter: enemy_illustration-30000174
     character: "1001,329"
     enemy_skill: "177,178"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000174
   }
   {
     id: 175
-    name: 劊子手-血魘獵狂
+    name: enemy_illustration-10000175
     type: 1
     code: Excutioner_Halloween
-    introduce: 針對追獵戰而研發出的特化型素體，依照劊子手本人要求配備的巨大化義手和可變式熱切割鐮刀，能夠在戰鬥中不費吹灰之力地收割敵人，展現出極強的破壞力。同時，黑色的衣裝也可以更好地隱匿身形，於敵人身後亮起寒光。你可曾見那往返夢境之人？她顯現於夜幕，又隱遁於死亡。所為的，是獵殺一切墮入夢魘的癲狂。
+    introduce: enemy_illustration-20000175
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -3423,19 +3572,19 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 2
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000175
     character: "1001,202"
     enemy_skill: "60"
     launch_time: 2035-5-20 00:00:00
-    extra: ",伊藤靜,"
+    extra: enemy_illustration-40000175
     org_id: 10604
   }
   {
     id: 176
-    name: 塔亞柔斯
+    name: enemy_illustration-10000176
     type: 1
     code: Nyto_tareus
-    introduce: 塔亞柔斯，機甲駕駛特化涅托，和機甲「伊芙小姐」具有極高的適配性和同步率，也擅長入侵人形的心智空間，並對目標展開毀滅性的火力打擊。因為經過多次的記憶洗刷和改造，心智脆弱，性情變得冷漠易怒，即使偶爾回想起屬於人類的情感也會很快被內置的程序抹殺。
+    introduce: enemy_illustration-20000176
     forces: 3
     if_capture: 1
     pow_rank: 5
@@ -3446,20 +3595,20 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000176
     character: "1001,320"
     enemy_skill: "174,175,176"
     launch_time: 2035-5-20 00:00:00
-    extra: ",南雲希美,"
+    extra: enemy_illustration-40000176
     spine_scale: "50,50,1"
     org_id: 10603
   }
   {
     id: 177
-    name: 邪靈掃地機
+    name: enemy_illustration-10000177
     type: 4
     code: Pumpkin_Dactyl
-    introduce: 快要走不動的老機器，但戴上奇怪的南瓜後似乎擁有了將一切雜物推開的能力。
+    introduce: enemy_illustration-20000177
     forces: 2
     pow_rank: 5
     life_rank: 2
@@ -3467,18 +3616,19 @@
     armor_rank: 2
     speed_rank: 3
     range_rank: 5
-    counter: 擁有小量護甲，移速較高。戰鬥前期即開始快速放置地雷，我方人形觸發時將會受到巨額傷害，請注意規避地雷或在戰鬥前期盡早殲滅該單位。
+    counter: enemy_illustration-30000177
     character: "1001,309,322"
     enemy_skill: "19"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000177
     spine_scale: "100,100,1"
   }
   {
     id: 178
-    name: 除塵超人
+    name: enemy_illustration-10000178
     type: 5
     code: Mop_Aegis
-    introduce: 簡單粗暴地將所有表面掃乾淨，但由於用力過猛，導致揚起的灰塵重新落下……抱歉，再次清掃請額外付費。
+    introduce: enemy_illustration-20000178
     forces: 2
     pow_rank: 2
     life_rank: 3
@@ -3487,18 +3637,19 @@
     armor_rank: 5
     speed_rank: 3
     range_rank: 2
-    counter: 該單位擁有一定護甲，接戰前請對我方穿甲能力進行仔細評估
+    counter: enemy_illustration-30000178
     character: "303,309,310"
     enemy_skill: "9"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000178
     spine_scale: "100,100,1"
   }
   {
     id: 179
-    name: 魔鬼星廚
+    name: enemy_illustration-10000179
     type: 3
     code: Chief_Cyclops
-    introduce: 今日雇傭該星廚，享1折優惠——前提是你不介意它將所有的調味料都換成芥末的話。
+    introduce: enemy_illustration-20000179
     forces: 2
     pow_rank: 4
     life_rank: 4
@@ -3507,18 +3658,19 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000179
     character: "1001,319"
     enemy_skill: "16"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000179
     spine_scale: "85,85,1"
   }
   {
     id: 180
-    name: 艾莉安娜
+    name: enemy_illustration-10000180
     type: 1
     code: spSCARL
-    introduce: 前「曙光」小隊隊長，也是「軍牌」執行人，每一任指揮官最信賴的下屬。但在阿瑪瑞絲看來，她早已不配享有這份榮譽。
+    introduce: enemy_illustration-20000180
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3526,16 +3678,17 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 阿瑪瑞絲收集完足夠的月印再去挑戰她吧！
+    counter: enemy_illustration-30000180
     character: "1001"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000180
   }
   {
     id: 181
-    name: 稻草人-魘淵夕來
+    name: enemy_illustration-10000181
     type: 1
     code: Scarecrow_SpringFes
-    introduce: 稻草人-魘淵夕來，火力改造強化後的新型號。迭代升級後的浮游槍能為稻草人提供更強大的輸出，而安裝在稻草人指尖的指揮端口也得到了信號加強，和浮游槍之間的鏈接也更為緊密。據說服裝設計靈感來源於神話傳說中會在年底來到人類村莊大肆破壞的猛獸，它雙眼的凶光能劃破夜晚的黑暗，鋒利的爪子能撕碎一切阻礙……恰如此刻的稻草人。
+    introduce: enemy_illustration-20000181
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -3545,20 +3698,20 @@
     rate_rank: 4
     speed_rank: 4
     range_rank: 3
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000181
     character: "1001"
     enemy_skill: "179,116,180,181,182,183"
     launch_time: 2035-5-20 00:00:00
-    extra: ",奧野香耶,"
+    extra: enemy_illustration-40000181
     spine_scale: "70,70,1"
     org_id: 10604
   }
   {
     id: 182
-    name: 聚類僕從
+    name: enemy_illustration-10000182
     type: 1
     code: Scarecrow
-    introduce: 擅長收集和分析情報，並不擅長正面作戰，在鐵血人形中地位較低。理性派，無口毒舌，忠於職守，鄙夷感性，面對感情豐富卻只懂得服從的格里芬人形充滿優越感。
+    introduce: enemy_illustration-20000182
     forces: 1
     pow_rank: 5
     life_rank: 4
@@ -3567,18 +3720,19 @@
     rate_rank: 4
     speed_rank: 4
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000182
     character: "1001,201"
     enemy_skill: "59"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000182
     spine_scale: "70,70,1"
   }
   {
     id: 183
-    name: 加權騎士
+    name: enemy_illustration-10000183
     type: 1
     code: BossGager
-    introduce: 主要擔當指揮行動和人員調度，可以直接指揮作戰人形，也具備不小的作戰能力，地位較高，直接對代理人負責。認真嚴謹，一絲不苟，言行中透露出一股凜然利落的氣質，即使對於敵人也很講求原則和禮節。
+    introduce: enemy_illustration-20000183
     forces: 1
     pow_rank: 5
     life_rank: 4
@@ -3587,18 +3741,19 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000183
     character: "1001,207"
     enemy_skill: "66,67,96"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000183
     spine_scale: "85,85,1"
   }
   {
     id: 184
-    name: 極值玩偶
+    name: enemy_illustration-10000184
     type: 1
     code: BossArchitect
-    introduce: 擅長遠程破壞和火力支援，作戰能力很強，通常獨來獨往。活潑開朗的沒頭腦元氣少女，什麼時候都興高采烈，對格里芬也沒有敵對意識，對於鐵血只能最低限度地服從命令，但是對轟炸和破壞十分熱心，所以作為敵人仍然十分危險。
+    introduce: enemy_illustration-20000184
     forces: 1
     pow_rank: 6
     life_rank: 5
@@ -3608,18 +3763,19 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 5
-    counter: 該單位將向預警位置製造較強傷害，且附帶範圍濺射，請注意指揮人形及時移動規避。
+    counter: enemy_illustration-30000184
     character: "1001,208,309"
     enemy_skill: "68,69"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000184
     spine_scale: "85,85,1"
   }
   {
     id: 185
-    name: 正態指揮
+    name: enemy_illustration-10000185
     type: 1
     code: Agent
-    introduce: 負責伊萊莎與下屬鐵血的溝通聯絡工作和後勤管理，作戰人形都直接聽從她的命令，地位極高，無論戰鬥還是指揮都很擅長，可以指揮所有作戰人形。冷淡平靜，有條不紊的言行做派，對敵我都會用尊敬的語氣，但實際上除了對主人十分尊重之外，稱呼他人的詞彙都很低劣，尤其對於格里芬更是充滿蔑視。
+    introduce: enemy_illustration-20000185
     forces: 1
     pow_rank: 5
     life_rank: 5
@@ -3628,18 +3784,19 @@
     rate_rank: 4
     speed_rank: 2
     range_rank: 4
-    counter: 在該角色生成護盾時，請注意集中火力將護盾擊破以中斷蓄力，避免蓄力的高傷害攻擊。
+    counter: enemy_illustration-30000185
     character: "1001,212"
     enemy_skill: "77,78"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000185
     spine_scale: "80,80,1"
   }
   {
     id: 186
-    name: 離散測繪員
+    name: enemy_illustration-10000186
     type: 1
     code: Excutioner
-    introduce: 相當於精英斥候，比稻草人地位稍高，兩人經常搭檔。莽撞衝動，大大咧咧的女漢子，熱衷於堂堂正正的戰鬥，並不喜歡欺負弱者。
+    introduce: enemy_illustration-20000186
     forces: 1
     pow_rank: 5
     life_rank: 4
@@ -3649,18 +3806,19 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 2
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000186
     character: "1001,202,309"
     enemy_skill: "60"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000186
     spine_scale: "80,80,1"
   }
   {
     id: 187
-    name: 方差牧童
+    name: enemy_illustration-10000187
     type: 1
     code: Destroyer
-    introduce: 擅長爆破任務，解除炸彈也是專家級的，作戰能力也不錯，和煉金術士有時會搭檔。平時高傲，毒舌，實際上是個傲嬌，有點小孩子脾氣，逼急了會哭鼻子，十分在意自己的身高。
+    introduce: enemy_illustration-20000187
     forces: 1
     pow_rank: 5
     life_rank: 5
@@ -3669,18 +3827,19 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 該單位具有極高的單發傷害，但是攻速較慢，命中一般，迴避型人形會有更好的防禦效果。
+    counter: enemy_illustration-30000187
     character: "1001,206"
     enemy_skill: "64,99"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000187
     spine_scale: "85,85,1"
   }
   {
     id: 188
-    name: 似然近衛
+    name: enemy_illustration-10000188
     type: 1
     code: Weaver
-    introduce: 擅長短距離的突破或者防禦作戰，智能和作戰能力很高，是蝴蝶事件之後才製造的人形，但因為是製造時期的試驗品，AI極不穩定且很難被控制。表面沉穩內心高傲，擁有強勁的武力和智力優勢，但是實戰經驗較少，而且行事風格捉摸不定，令敵我雙方都難以預判，因此具有極高的危險度。
+    introduce: enemy_illustration-20000188
     forces: 1
     pow_rank: 4
     life_rank: 5
@@ -3690,18 +3849,19 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 3
-    counter: 該單位將向預警位置製造較強傷害，請注意指揮人形及時移動規避。
+    counter: enemy_illustration-30000188
     character: "1001,210,309"
     enemy_skill: "71,98"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000188
     spine_scale: "80,80,1"
   }
   {
     id: 189
-    name: 混沌歌者
+    name: enemy_illustration-10000189
     type: 1
     code: Dreamer
-    introduce: 偏向作戰能力，擁有超遠距離定點打擊的能力，由伊萊莎直接下令指揮，是蝴蝶事件之後才製造的人形，因為自身能力不需要正面出擊，所以平時只呆在鐵血總部，以捉弄法官為樂。優雅的笑容中透著傲慢和難以捉摸，精神狀態極不穩定，總是以自我為中心作戰中會露出瘋狂而不受控制的一面，加上可怕的破壞力，連同伴的安全都不會考慮所幸的是通常不會出現在正面戰場上。
+    introduce: enemy_illustration-20000189
     forces: 1
     pow_rank: 5
     life_rank: 5
@@ -3710,18 +3870,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位射程較遠，請注意梯隊整體移動速度，避免移動時間過長導致戰損加重。
+    counter: enemy_illustration-30000189
     character: "1001,209"
     enemy_skill: "70,97"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000189
     spine_scale: "75,75,1"
   }
   {
     id: 190
-    name: 後驗紡工
+    name: enemy_illustration-10000190
     type: 1
     code: Hunter
-    introduce: 機動和智能都比較高，擅長騷擾和追擊作戰，需要稻草人與劊子手的配合才能發揮最強的實力。沉著冷靜，喜歡用各種手段將敵人逼到走投無路再活捉，面對格里芬十分高傲，但不屑於使用過於卑劣的手段。
+    introduce: enemy_illustration-20000190
     forces: 1
     pow_rank: 4
     life_rank: 4
@@ -3731,18 +3892,19 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000190
     character: "1001,203,309"
     enemy_skill: "62"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000190
     spine_scale: "75,75,1"
   }
   {
     id: 191
-    name: 游移祭司
+    name: enemy_illustration-10000191
     type: 1
     code: Alchemist
-    introduce: 擅長應對各種戰術需求，也精通審訊逼供，是鐵血作戰的精英，和破壞者有時會搭檔。狂妄自大，囂張而殘忍，為達目的不擇手段，有施虐傾向，將格里芬視為滿足慾望的玩物，不過心理成熟，可以為鐵血的同伴挺身而出。
+    introduce: enemy_illustration-20000191
     forces: 1
     pow_rank: 5
     life_rank: 5
@@ -3751,18 +3913,19 @@
     rate_rank: 4
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000191
     character: "1001,205"
     enemy_skill: "63"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000191
     spine_scale: "85,85,1"
   }
   {
     id: 192
-    name: 擾動修士
+    name: enemy_illustration-10000192
     type: 1
     code: Intruder
-    introduce: 負責提供作戰策略，也擅長破解和干擾工作，可以直接指揮作戰人形，是稍高級的人形，直接對計量官負責。優雅溫和的言行背後，令人感到的是巨大的空洞，喜歡人類的戲劇，可能是希望從中找到自己的個性。
+    introduce: enemy_illustration-20000192
     forces: 1
     pow_rank: 4
     life_rank: 4
@@ -3771,18 +3934,19 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000192
     character: "1001,204"
     enemy_skill: "84"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000192
     spine_scale: "85,85,1"
   }
   {
     id: 193
-    name: 收斂愚者
+    name: enemy_illustration-10000193
     type: 1
     code: Justice
-    introduce: 偏向指揮能力，負責鐵血總部的防禦和安全系統，相當於伊萊莎的侍衛，只會聽從伊萊莎個人的命令，是蝴蝶事件之後才製造的人形，整天面對夢想家很頭疼。嚴肅古板，充滿軍人的威嚴和風範，對伊萊莎絕對忠誠，但個子比較矮小，讓人覺得缺乏氣勢，提出這一點的人無論敵我都會倒大霉。
+    introduce: enemy_illustration-20000193
     forces: 1
     pow_rank: 5
     life_rank: 6
@@ -3792,18 +3956,19 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 該單位攻速較高、傷害一般，且會同時攻擊多個單位，推薦使用霰彈槍人形搭配足夠的護甲進行抵禦，同時請注意及時躲避地面的紫色區域，避免受到持續的傷害以及弱化效果。
+    counter: enemy_illustration-30000193
     character: "1001,211,309"
     enemy_skill: "73,74,75"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000193
     spine_scale: "70,70,1"
   }
   {
     id: 194
-    name: 魘淵夕來
+    name: enemy_illustration-10000194
     type: 1
     code: Scarecrow_SpringFes
-    introduce: 稻草人-魘淵夕來，火力改造強化後的新型號。迭代升級後的浮游槍能為稻草人提供更強大的輸出，而安裝在稻草人指尖的指揮端口也得到了信號加強，和浮游槍之間的鏈接也更為緊密。據說服裝設計靈感來源於神話傳說中會在年底來到人類村莊大肆破壞的猛獸，它雙眼的凶光能劃破夜晚的黑暗，鋒利的爪子能撕碎一切阻礙……恰如此刻的稻草人。
+    introduce: enemy_illustration-20000194
     forces: 1
     pow_rank: 5
     life_rank: 4
@@ -3812,18 +3977,19 @@
     rate_rank: 4
     speed_rank: 4
     range_rank: 3
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000194
     character: "1001"
     enemy_skill: "179,116,180,181,182,183"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000194
     spine_scale: "70,70,1"
   }
   {
     id: 195
-    name: 稻草人
+    name: enemy_illustration-10000195
     type: 1
     code: Scarecrow
-    introduce: 擅長收集和分析情報，並不擅長正面作戰，在鐵血人形中地位較低。理性派，無口毒舌，忠於職守，鄙夷感性，面對感情豐富卻只懂得服從的格里芬人形充滿優越感。
+    introduce: enemy_illustration-20000195
     forces: 1
     pow_rank: 5
     life_rank: 4
@@ -3832,18 +3998,19 @@
     rate_rank: 4
     speed_rank: 4
     range_rank: 3
-    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    counter: enemy_illustration-30000195
     character: "1001,306,307"
     enemy_skill: "184,185,186"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000195
     spine_scale: "70,70,1"
   }
   {
     id: 196
-    name: 建築師
+    name: enemy_illustration-10000196
     type: 1
     code: BossArchitect
-    introduce: 擅長遠程破壞和火力支援，作戰能力很強，通常獨來獨往。活潑開朗的沒頭腦元氣少女，什麼時候都興高采烈，對格里芬也沒有敵對意識，對於鐵血只能最低限度地服從命令，但是對轟炸和破壞十分熱心，所以作為敵人仍然十分危險。
+    introduce: enemy_illustration-20000196
     forces: 1
     pow_rank: 6
     life_rank: 5
@@ -3852,18 +4019,19 @@
     rate_rank: 3
     speed_rank: 3
     range_rank: 5
-    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    counter: enemy_illustration-30000196
     character: "1001,319"
     enemy_skill: "187,188,189"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000196
     spine_scale: "85,85,1"
   }
   {
     id: 197
-    name: 干擾者
+    name: enemy_illustration-10000197
     type: 1
     code: Intruder
-    introduce: 負責提供作戰策略，也擅長破解和干擾工作，可以直接指揮作戰人形，是稍高級的人形，直接對計量官負責。優雅溫和的言行背後，令人感到的是巨大的空洞，喜歡人類的戲劇，可能是希望從中找到自己的個性。
+    introduce: enemy_illustration-20000197
     forces: 1
     pow_rank: 4
     life_rank: 4
@@ -3872,18 +4040,19 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 3
-    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    counter: enemy_illustration-30000197
     character: "1001,306"
     enemy_skill: "190,191,192"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000197
     spine_scale: "85,85,1"
   }
   {
     id: 198
-    name: 破壞者
+    name: enemy_illustration-10000198
     type: 1
     code: DestroyerPlus
-    introduce: 原本的破壞者被夢想家改造素體之後的全新姿態，火力得到大幅增強，威力較之原本更上了一層樓，但性格與心智並沒有太大的改變。
+    introduce: enemy_illustration-20000198
     forces: 1
     pow_rank: 5
     life_rank: 5
@@ -3892,18 +4061,19 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    counter: enemy_illustration-30000198
     character: "1001,319"
     enemy_skill: "193,194,195"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000198
     spine_scale: "85,85,1"
   }
   {
     id: 199
-    name: 法官
+    name: enemy_illustration-10000199
     type: 1
     code: Justice
-    introduce: 偏向指揮能力，負責鐵血總部的防禦和安全系統，相當於伊萊莎的侍衛，只會聽從伊萊莎個人的命令，是蝴蝶事件之後才製造的人形，整天面對夢想家很頭疼。嚴肅古板，充滿軍人的威嚴和風範，對伊萊莎絕對忠誠，但個子比較矮小，讓人覺得缺乏氣勢，提出這一點的人無論敵我都會倒大霉。
+    introduce: enemy_illustration-20000199
     forces: 1
     pow_rank: 5
     life_rank: 6
@@ -3913,18 +4083,19 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    counter: enemy_illustration-30000199
     character: "1001,309,307"
     enemy_skill: "196,197,198"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000199
     spine_scale: "70,70,1"
   }
   {
     id: 200
-    name: 阿拉克涅
+    name: enemy_illustration-10000200
     type: 2
     code: MechanicalSpiderM
-    introduce: 蜘蛛型的作戰機器人母體，具有相對穩定和高速機動性，同時搭載了大量小型作戰機器人，在攻堅戰和遭遇戰中都是十分可怕的對手。
+    introduce: enemy_illustration-20000200
     forces: 3
     pow_rank: 3
     life_rank: 5
@@ -3934,19 +4105,20 @@
     armor_rank: 5
     speed_rank: 3
     range_rank: 2
-    counter: 高護甲單位，會製造出複製體來干擾作戰，本身也具有一定的防禦能力，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000200
     character: "1001,1005,302,309,321"
     enemy_skill: "199,200,201"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000200
     spine_scale: "70,70,1"
     tenacity_rank: 3
   }
   {
     id: 201
-    name: 阿拉克涅複製體
+    name: enemy_illustration-10000201
     type: 2
     code: MechanicalSpiderS
-    introduce: 蜘蛛型的小型作戰機器人，具有超高的機動性和攻擊能力。對生物和機械單位都能夠造成有效殺傷，數量繁多且難以捕捉，是令人畏懼的對手。
+    introduce: enemy_illustration-20000201
     forces: 3
     pow_rank: 3
     life_rank: 1
@@ -3956,18 +4128,19 @@
     armor_rank: 1
     speed_rank: 5
     range_rank: 1
-    counter: 擁有較高迴避，會快速貼近我方梯隊，請注意在戰鬥前期盡早殲滅該單位。
+    counter: enemy_illustration-30000201
     character: "303,304,306,309,316"
     enemy_skill: "202"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000201
     spine_scale: "70,70,1"
   }
   {
     id: 202
-    name: 特洛伊
+    name: enemy_illustration-10000202
     type: 4
     code: Fortress
-    introduce: 堡壘型特重級作戰機器人，可供陸地部隊搭載的同時，自身也具備戰略級的戰場攻堅能力，是足以影響戰局的高級作戰單位。
+    introduce: enemy_illustration-20000202
     forces: 3
     pow_rank: 6
     life_rank: 5
@@ -3977,19 +4150,20 @@
     armor_rank: 6
     speed_rank: 3
     range_rank: 3
-    counter: 該單位擁有強大的防禦能力，並且也具有不俗的範圍打擊能力，建議優先解決。
+    counter: enemy_illustration-30000202
     character: "1001,1005,302,309,319,313"
     enemy_skill: "203,204,205"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000202
     spine_scale: "70,70,1"
     tenacity_rank: 5
   }
   {
     id: 203
-    name: 機巧士
+    name: enemy_illustration-10000203
     type: 3
     code: Engineer
-    introduce: 工程型人形作戰單位，自身並不具備強勁的破壞力和殺傷力，但作為敵方的支援單位十分棘手，身旁的無人機隨時俯瞰著戰場情況。
+    introduce: enemy_illustration-20000203
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -3998,18 +4172,19 @@
     rate_rank: 6
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能源源不斷地製造無人機輔助作戰，請注意不要陷入長期消耗戰。
+    counter: enemy_illustration-30000203
     character: "1001,321"
     enemy_skill: "206,169"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000203
     spine_scale: "70,70,1"
   }
   {
     id: 204
-    name: 拉冬
+    name: enemy_illustration-10000204
     type: 4
     code: Mecha_N
-    introduce: 帕拉蒂斯生產的最新型特重型機甲單位，擁有堪稱全能的作戰能力，在遠程，中程和近程作戰中都具備難以抵擋的破壞力，是令人望而生畏的可怕對手。
+    introduce: enemy_illustration-20000204
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -4019,18 +4194,19 @@
     armor_rank: 5
     speed_rank: 3
     range_rank: 5
-    counter: 高護甲單位，作戰能力十分全面，請注意選擇合適的擊殺時機。
+    counter: enemy_illustration-30000204
     character: "1001,1003,302,309,313,319,310"
     enemy_skill: "207,208"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000204
     spine_scale: "50,50,1"
   }
   {
     id: 205
-    name: 光炮士
+    name: enemy_illustration-10000205
     type: 3
     code: Artillery
-    introduce: 與重炮士極為類似，進一步搭載更加強大的火力，裝備的重量級繼續提高，代價是移動速度上出現了一定的降低。
+    introduce: enemy_illustration-20000205
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -4039,18 +4215,19 @@
     rate_rank: 3
     speed_rank: 3
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000205
     character: "1003,319,316"
     enemy_skill: "209,210"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000205
     spine_scale: "70,70,1"
   }
   {
     id: 206
-    name: 紗那
+    name: enemy_illustration-10000206
     type: 1
     code: Nyto_mecha2
-    introduce: 帕拉蒂斯的精銳單位，外表看上去只是個柔弱的小女孩，但當她戴上特製面具登上專屬於她的機甲，你只會恨自己跑得不夠快。
+    introduce: enemy_illustration-20000206
     forces: 3
     pow_rank: 5
     life_rank: 6
@@ -4059,18 +4236,19 @@
     rate_rank: 4
     speed_rank: 6
     range_rank: 7
-    counter: 該單位擁有極強的干擾戰場的能力，請注意使用合適梯隊應對。
+    counter: enemy_illustration-30000206
     character: "1001,216"
     enemy_skill: "211,212,213,214,215,216"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000206
     spine_scale: "70,70,1"
   }
   {
     id: 207
-    name: 甘拉狄
+    name: enemy_illustration-10000207
     type: 1
     code: Pamzan_Final
-    introduce: 隸屬於帕拉蒂斯的來歷不明的殺手，是使用機械和人類肉體拼接而成的詭異造物，使用在他身上的技術似乎有別於其他帕拉蒂斯單位。
+    introduce: enemy_illustration-20000207
     forces: 3
     pow_rank: 4
     life_rank: 5
@@ -4080,19 +4258,20 @@
     armor_rank: 2
     speed_rank: 4
     range_rank: 3
-    counter: 該單位的斬殺能力非常強大，請注意使用合適的梯隊應對。
+    counter: enemy_illustration-30000207
     character: "1001"
     enemy_skill: "217,218,219,220"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000207
     spine_scale: "70,70,1"
     tenacity_rank: 5
   }
   {
     id: 208
-    name: M4A1傀儡
+    name: enemy_illustration-10000208
     type: 3
     code: M4A1_enemy
-    introduce: M4A1的傀儡，沒有了本體的優柔寡斷，能夠做到完全服從命令。
+    introduce: enemy_illustration-20000208
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4100,17 +4279,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000208
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000208
     spine_scale: "70,70,1"
   }
   {
     id: 209
-    name: AR15傀儡
+    name: enemy_illustration-10000209
     type: 3
     code: AR15_enemy
-    introduce: AR15的傀儡，除了不會冷笑以外，和本體的區別不大。
+    introduce: enemy_illustration-20000209
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4118,17 +4298,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000209
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000209
     spine_scale: "70,70,1"
   }
   {
     id: 210
-    name: SOP2傀儡
+    name: enemy_illustration-10000210
     type: 3
     code: M4 SOPMOD II_enemy
-    introduce: SOP2的傀儡，和本體的行為邏輯完全一致，連笑聲也同樣令敵人聞風喪膽。
+    introduce: enemy_illustration-20000210
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4136,17 +4317,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000210
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000210
     spine_scale: "70,70,1"
   }
   {
     id: 211
-    name: M16A1
+    name: enemy_illustration-10000211
     type: 3
     code: M16A1Griffin
-    introduce: 被賦予了特殊使命和權限的M16A1，將在每一個重要的岔路口醒來，將AR小隊推回光明的道路。
+    introduce: enemy_illustration-20000211
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4154,17 +4336,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000211
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000211
     spine_scale: "70,70,1"
   }
   {
     id: 212
-    name: 警衛團槍手
+    name: enemy_illustration-10000212
     type: 3
     code: USSR_Agent
-    introduce: 別斯蘭警衛團中的主要武裝成員，由狂熱的極端人士組成，接受過正規的戰術指導和訓練，能夠熟練使用槍械，是暴動中的主要武裝力量。
+    introduce: enemy_illustration-20000212
     pow_rank: 1
     life_rank: 3
     hit_rank: 2
@@ -4172,16 +4355,17 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000212
     character: "1001"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000212
   }
   {
     id: 213
-    name: 虛弱的靈蛇權杖
+    name: enemy_illustration-10000213
     type: 3
     code: Obelisk_partB
-    introduce: 使用機槍的重火力人形，攜帶的機槍在充分蓄能之後能夠發射3次等離子光束，光束具有致盲效果，並能在一定程度上無視閃避。在裝載【阿克索之皿】後，威力將有巨大提升。虛弱後傷害大幅降低。
+    introduce: enemy_illustration-20000213
     forces: 3
     pow_rank: 1
     life_rank: 3
@@ -4190,18 +4374,19 @@
     rate_rank: 3
     speed_rank: 1
     range_rank: 4
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000213
     character: "1001,1003,335,320"
     enemy_skill: "130"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000213
     spine_scale: "100,100,1"
   }
   {
     id: 214
-    name: 紗那
+    name: enemy_illustration-10000214
     type: 1
     code: Nyto_mecha2
-    introduce: 紗那，機甲駕駛特化人形。經過特殊的培養和訂製，駕駛機甲對她而言幾乎沒有負擔，可以長時間操縱機甲戰鬥。因此，即便防禦再厚，也很難長時間抵擋擁有極強的火力輸出和持久的戰鬥力的她。不同於其他帕拉蒂斯，紗那的記憶全部來自於名為「紗那」的人類女孩，被期望成「紗那」的她卻對這份記憶感到陌生和撕裂，她或許也在期待著某天能夠摘下面具，成為自己……
+    introduce: enemy_illustration-20000214
     forces: 3
     if_capture: 1
     pow_rank: 5
@@ -4211,19 +4396,20 @@
     rate_rank: 4
     speed_rank: 6
     range_rank: 7
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000214
     character: "1001,216"
     enemy_skill: "211,212,213,214,215,216"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000214
     spine_scale: "70,70,1"
     org_id: 10604
   }
   {
     id: 215
-    name: 娜希斯
+    name: enemy_illustration-10000215
     type: 1
     code: BossNarciss
-    introduce: 娜希斯，戰鬥特化涅托，曾經的帕拉蒂斯精銳，擅長使用浮游刃和近身突襲擊潰敵人。為了將她的戰鬥效率發揮到極致，帕拉蒂斯為她打造了兼具力量和速度的肢體、武器，並無視了由此帶來的精神層面的高負荷。長期承受高強度的精神、身體雙重重壓，娜希斯失去了同理心，善惡觀也變得混沌，最終成為了徹頭徹尾的殺戮武器。但當武器脫離了賦予她殺戮意志的人時，內心或許也有重歸平靜的一天。
+    introduce: enemy_illustration-20000215
     forces: 3
     if_capture: 1
     pow_rank: 5
@@ -4233,18 +4419,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位在戰鬥中具有近戰/遠程兩種輸出模式,若擊毀全部七把浮游刀,該單位將由遠程模式切換至近戰模式,近戰模式下將對低編製單位造成極大威脅。
+    counter: enemy_illustration-30000215
     character: "1001,329,330"
     enemy_skill: "108,109,110"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000215
     org_id: 10603
   }
   {
     id: 216
-    name: 夢想家-霧月翼手
+    name: enemy_illustration-10000216
     type: 1
     code: Dreamer_Halloween
-    introduce: 夢想家-霧月翼手，針對暗夜環境研發的特化型號。改良後的雷射武器能在更遠距離對敵方後排實現強力穿透，而應夢想家本人喜好訂製的一對惡魔之角也將在戰鬥時同步釋放干擾訊號，令己方「置身」重重黑霧中，宛如鬼魅現世，散播迷瘴、混沌與聲勢浩大的死亡……最好祈禱不要在夜晚與她遭遇——因為在她的絕對主場中，沒有一隻獵物可以僥倖生還。
+    introduce: enemy_illustration-20000216
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -4254,18 +4441,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000216
     character: "1001,209"
     enemy_skill: "70,97"
     launch_time: 2035-5-20 00:00:00
+    extra: enemy_illustration-40000216
     org_id: 10604
   }
   {
     id: 217
-    name: ST AR-15
+    name: enemy_illustration-10000217
     type: 3
     code: AR15Mod_enemy
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20000217
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4273,18 +4461,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000217
     character: "100"
     enemy_skill: "224,225,226,227"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000217
     spine_scale: "70,70,1"
   }
   {
     id: 218
-    name: A-545
+    name: enemy_illustration-10000218
     type: 3
     code: A545_NPC
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20000218
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4292,18 +4481,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000218
     character: "100"
     enemy_skill: "222"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000218
     spine_scale: "70,70,1"
   }
   {
     id: 219
-    name: PPSh-41
+    name: enemy_illustration-10000219
     type: 3
     code: PPsh41Enemy
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20000219
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4311,18 +4501,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000219
     character: "100"
     enemy_skill: "223"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000219
     spine_scale: "70,70,1"
   }
   {
     id: 220
-    name: AK-47
+    name: enemy_illustration-10000220
     type: 3
     code: AK47_enemy
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20000220
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4330,17 +4521,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000220
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000220
     spine_scale: "70,70,1"
   }
   {
     id: 221
-    name: 蝎式
+    name: enemy_illustration-10000221
     type: 3
     code: VZ61Enemy
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20000221
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4348,17 +4540,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000221
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000221
     spine_scale: "70,70,1"
   }
   {
     id: 222
-    name: MAC-10
+    name: enemy_illustration-10000222
     type: 3
     code: MAC10Enemy
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20000222
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4366,17 +4559,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000222
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000222
     spine_scale: "70,70,1"
   }
   {
     id: 223
-    name: 懾鋒·異構體
+    name: enemy_illustration-10000223
     type: 3
     code: Nyto_Isomer_F
-    introduce: 被遺忘的存在，只記得要握緊手中的利刃。
+    introduce: enemy_illustration-20000223
     forces: 3
     pow_rank: 2
     life_rank: 3
@@ -4385,17 +4579,18 @@
     rate_rank: 3
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000223
     character: "303"
     enemy_skill: "228"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000223
   }
   {
     id: 224
-    name: 渾沌·異構體
+    name: enemy_illustration-10000224
     type: 3
     code: Nyto_Isomer_N
-    introduce: 被遺忘的存在，只記得要撕裂每一個擋在前方的目標。
+    introduce: enemy_illustration-20000224
     forces: 3
     pow_rank: 2
     life_rank: 3
@@ -4404,17 +4599,18 @@
     rate_rank: 3
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000224
     character: "319"
     enemy_skill: "229"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000224
   }
   {
     id: 225
-    name: 極星·異構體
+    name: enemy_illustration-10000225
     type: 3
     code: Nyto_Isomer_S
-    introduce: 被遺忘的存在，只記得瞄準、攻擊、瞄準、攻擊。
+    introduce: enemy_illustration-20000225
     forces: 3
     pow_rank: 2
     life_rank: 3
@@ -4423,17 +4619,18 @@
     rate_rank: 3
     speed_rank: 3
     range_rank: 3
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30000225
     character: "307"
     enemy_skill: "230"
     launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-40000225
   }
   {
     id: 226
-    name: Dr.48
+    name: enemy_illustration-10000226
     type: 3
     code: Mk48_10304_enemy
-    introduce: 福克斯姐妹會的下屬人形，常駐醫療部門，主要負責戀愛腦的相關醫治。
+    introduce: enemy_illustration-20000226
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4441,17 +4638,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000226
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000226
     spine_scale: "70,70,1"
   }
   {
     id: 227
-    name: Dr.菲德洛夫
+    name: enemy_illustration-10000227
     type: 3
     code: Fedorov_10305_enemy
-    introduce: 福克斯姐妹會的下屬人形，常駐醫療部門，主要負責鎮定安寧的藥物投放。
+    introduce: enemy_illustration-20000227
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4459,17 +4657,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000227
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000227
     spine_scale: "70,70,1"
   }
   {
     id: 228
-    name: Dr.90
+    name: enemy_illustration-10000228
     type: 3
     code: PP90_10306_enemy
-    introduce: 福克斯姐妹會的下屬人形，常駐醫療部門，主要負責醫患關係的調解。
+    introduce: enemy_illustration-20000228
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4477,17 +4676,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000228
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000228
     spine_scale: "70,70,1"
   }
   {
     id: 229
-    name: Dr.TPS
+    name: enemy_illustration-10000229
     type: 3
     code: TPS_10301_enemy
-    introduce: 福克斯姐妹會的下屬人形，常駐醫療部門，主要負責患者的遊戲陪玩服務。
+    introduce: enemy_illustration-20000229
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4495,17 +4695,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000229
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000229
     spine_scale: "70,70,1"
   }
   {
     id: 230
-    name: 傀儡·520
+    name: enemy_illustration-10000230
     type: 3
     code: Stevens520_enemy
-    introduce: 複製了某個時間段的Stevens 520的資料而形成的傀儡，據使用者評價，沒有本人美麗優雅。
+    introduce: enemy_illustration-20000230
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4513,17 +4714,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000230
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000230
     spine_scale: "70,70,1"
   }
   {
     id: 231
-    name: 傀儡·620
+    name: enemy_illustration-10000231
     type: 3
     code: Stevens620_enemy
-    introduce: 複製了某個時間段的Stevens 620的資料而形成的傀儡，據使用者評價，和本人一樣討厭。
+    introduce: enemy_illustration-20000231
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4531,17 +4733,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000231
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000231
     spine_scale: "70,70,1"
   }
   {
     id: 232
-    name: 傀儡·艾爾瑪
+    name: enemy_illustration-10000232
     type: 3
     code: Erma_enemy
-    introduce: 複製了某個時間段的艾爾瑪的資料而形成的傀儡，據使用者評價，比本人能打。
+    introduce: enemy_illustration-20000232
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4549,17 +4752,18 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30000232
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40000232
     spine_scale: "70,70,1"
   }
   {
     id: 100001
-    name: 鶚視虎
+    name: enemy_illustration-10100001
     type: 1
     code: Gebbennu
-    introduce: 神秘的巨型復式戰鬥單位，火力極強，除此以外的地方都是謎團。
+    introduce: enemy_illustration-20100001
     forces: 3
     pow_rank: 6
     life_rank: 7
@@ -4569,16 +4773,17 @@
     armor_rank: 4
     speed_rank: 4
     range_rank: 5
-    counter: 未實裝
+    counter: enemy_illustration-30100001
     character: "1001,309"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100001
   }
   {
     id: 100011
-    name: 持盾者
+    name: enemy_illustration-10100011
     type: 3
     code: DivMauler
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100011
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4587,16 +4792,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 在該單位接近我方單位後使用技能快速擊殺即可克敵制勝。
+    counter: enemy_illustration-30100011
     character: "401,402"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100011
   }
   {
     id: 100012
-    name: 擲彈兵
+    name: enemy_illustration-10100012
     type: 3
     code: DivGrenadier
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100012
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4605,16 +4811,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位將向預警位置製造較強的燃燒傷害，注意指揮人形及時移動規避
+    counter: enemy_illustration-30100012
     character: "403"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100012
   }
   {
     id: 100013
-    name: 清掃者
+    name: enemy_illustration-10100013
     type: 3
     code: DivSweeper
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100013
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4623,16 +4830,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 注意觀察該單位的移動,利用該單位左右的人形吸引他的注意力,再指揮人形及時規避他火焰噴射器造成的範圍傷害。
+    counter: enemy_illustration-30100013
     character: "1001,404,415"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100013
   }
   {
     id: 100014
-    name: 跑者
+    name: enemy_illustration-10100014
     type: 3
     code: DivRunner
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100014
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4641,16 +4849,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 使用限制敵方單位移動的手段,在該目標接近我方單位前製造傷害即可克敵制勝。
+    counter: enemy_illustration-30100014
     character: "1001,405"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100014
   }
   {
     id: 100015
-    name: 警衛
+    name: enemy_illustration-10100015
     type: 3
     code: DivGuard
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100015
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4659,16 +4868,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位將向預警位置製造較強的投擲傷害，注意指揮人形及時移動規避。提升整體的生存能力也可以有效針對該目標。
+    counter: enemy_illustration-30100015
     character: "1001,406,407"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100015
   }
   {
     id: 100016
-    name: 執行者
+    name: enemy_illustration-10100016
     type: 3
     code: DivExecutor
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100016
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4677,16 +4887,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30100016
     character: "300"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100016
   }
   {
     id: 100017
-    name: 步槍手
+    name: enemy_illustration-10100017
     type: 3
     code: DivRifleman
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100017
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4695,16 +4906,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30100017
     character: "408"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100017
   }
   {
     id: 100018
-    name: 偵察兵
+    name: enemy_illustration-10100018
     type: 3
     code: DivScout
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100018
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4713,16 +4925,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位將向預警位置製造投擲傷害，同時削弱受擊目標，注意指揮後排人形及時移動規避。
+    counter: enemy_illustration-30100018
     character: "409,410"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100018
   }
   {
     id: 100019
-    name: 工程師
+    name: enemy_illustration-10100019
     type: 3
     code: DivEngineer
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100019
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4731,16 +4944,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 工程師將在身邊放置高威脅的炮台,範圍傷害將對該目標造成不小的麻煩。
+    counter: enemy_illustration-30100019
     character: "411,412,413"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100019
   }
   {
     id: 100020
-    name: 叛變特工
+    name: enemy_illustration-10100020
     type: 3
     code: DivTraitor
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100020
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4749,16 +4963,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 身上吸附黏彈的我方單位需盡快指揮至無人的區域,否則該單位將對我方整體造成較大的傷害。
+    counter: enemy_illustration-30100020
     character: "1001,414,415"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100020
   }
   {
     id: 100021
-    name: 特工47
+    name: enemy_illustration-10100021
     type: 1
     code: AK47_enemy
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100021
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4767,16 +4982,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。嗯。
+    counter: enemy_illustration-30100021
     character: "1001,423"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100021
   }
   {
     id: 100022
-    name: 焚燒者:羅伯特
+    name: enemy_illustration-10100022
     type: 1
     code: DivBurn
-    introduce: 遊蕩在街頭的淨化者成員，堅信燒光一切被污染之物才能拯救城市。他會對鎖定的目標窮追不捨，直到將其徹底燒盡。
+    introduce: enemy_illustration-20100022
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4785,16 +5001,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 遊蕩在街頭的淨化者成員，堅信燒光一切被污染之物才能拯救城市。他會對鎖定的目標窮追不捨，直到將其徹底燒盡。可以使用精準攻擊到該單位身後弱點的單位克敵制勝。
+    counter: enemy_illustration-30100022
     character: "1001,417,404,416"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100022
   }
   {
     id: 100023
-    name: 獠牙
+    name: enemy_illustration-10100023
     type: 1
     code: HK416Boss
-    introduce: 擁有和HK416相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮倖存者軍隊的能力之外，其他一切皆為謎團。
+    introduce: enemy_illustration-20100023
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4803,16 +5020,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 擁有和HK416相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮倖存者軍隊的能力之外，其他一切皆為謎團。
+    counter: enemy_illustration-30100023
     character: "1001,420,421,422"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100023
   }
   {
     id: 100024
-    name: 地獄火
+    name: enemy_illustration-10100024
     type: 1
     code: VectorBoss
-    introduce: 擁有和Vector相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮淨化者陣營的能力之外，其他一切皆為謎團。
+    introduce: enemy_illustration-20100024
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4821,16 +5039,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 擁有和Vector相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮淨化者陣營的能力之外，其他一切皆為謎團。
+    counter: enemy_illustration-30100024
     character: "1001,419,418,416"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100024
   }
   {
     id: 100025
-    name: 獠牙
+    name: enemy_illustration-10100025
     type: 1
     code: HK416Boss
-    introduce: 擁有和HK416相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮倖存者軍隊的能力之外，其他一切皆為謎團。
+    introduce: enemy_illustration-20100025
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4839,16 +5058,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 射擊！移動！面對強大的敵人並取勝吧！
+    counter: enemy_illustration-30100025
     character: "1001,424,425"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100025
   }
   {
     id: 100026
-    name: 地獄火
+    name: enemy_illustration-10100026
     type: 1
     code: VectorBoss
-    introduce: 擁有和Vector相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮淨化者陣營的能力之外，其他一切皆為謎團。
+    introduce: enemy_illustration-20100026
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4857,16 +5077,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 射擊！移動！面對強大的敵人並取勝吧！
+    counter: enemy_illustration-30100026
     character: "1001,424,425"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100026
   }
   {
     id: 100027
-    name: Vector
+    name: enemy_illustration-10100027
     type: 1
     code: Vector_enemy
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100027
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4875,16 +5096,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30100027
     character: "1001,300"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100027
   }
   {
     id: 100028
-    name: 魔化黑騎
+    name: enemy_illustration-10100028
     type: 3
     code: Dropkick_MeleeDevil
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100028
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4893,16 +5115,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 擁有極高護甲的前排單位，利用對應高穿甲彈擊破即可。
+    counter: enemy_illustration-30100028
     character: "1001,303,309"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100028
   }
   {
     id: 100029
-    name: 魔化巨獸
+    name: enemy_illustration-10100029
     type: 3
     code: Dropkick_RemoteDevil
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100029
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4911,16 +5134,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 擁有極高護甲的後排單位，利用對應高穿甲彈擊破即可。
+    counter: enemy_illustration-30100029
     character: "1001,309"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100029
   }
   {
     id: 100030
-    name: 刨冰精靈
+    name: enemy_illustration-10100030
     type: 3
     code: Dropkick_IceGhost
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100030
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4929,16 +5153,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位會透過疊加印記冰凍受擊目標，造成真實傷害，建議迅速解決。
+    counter: enemy_illustration-30100030
     character: "1001,315,324,329"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100030
   }
   {
     id: 100031
-    name: 小單眼
+    name: enemy_illustration-10100031
     type: 3
     code: Dropkick_CyclopsChan
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100031
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4947,16 +5172,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30100031
     character: "1001,303"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100031
   }
   {
     id: 100032
-    name: 撒豆使者
+    name: enemy_illustration-10100032
     type: 3
     code: Dropkick_BeansEmissary
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100032
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4965,16 +5191,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位能力均衡，會暈眩我方人形，請注意提高梯隊的整體作戰能力應對。
+    counter: enemy_illustration-30100032
     character: "1001,324"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100032
   }
   {
     id: 100033
-    name: 貝多
+    name: enemy_illustration-10100033
     type: 3
     code: Dropkick_Beth
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100033
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4983,16 +5210,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位有很強的的機動能力，能增益敵方的輸出，撕咬單位後還會加長目標技能冷卻時間，建議迅速解決。
+    counter: enemy_illustration-30100033
     character: "1001,304,333"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100033
   }
   {
     id: 100034
-    name: 虛假百合鈴
+    name: enemy_illustration-10100034
     type: 1
     code: Dropkick_YurineBoss
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100034
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5001,16 +5229,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 能召喚強化後的魔物小兵並賦予它們強大的防禦護盾，頻繁對面前大片區域造成高額傷害。不過虛假百合鈴在控制住敵方的強力輸出單位的同時會暴露自身的弱點，趁此機會擊破她吧！
+    counter: enemy_illustration-30100034
     character: "1001,321,329"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100034
   }
   {
     id: 100035
-    name: 憤怒化的米諾斯
+    name: enemy_illustration-10100035
     type: 1
     code: Dropkick_MinosBoss
-    introduce: 未曾設想的敵人。
+    introduce: enemy_illustration-20100035
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5019,16 +5248,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 處於極度憤怒狀態下的米諾斯，避開她是最好的選擇。
+    counter: enemy_illustration-30100035
     character: "1001,329"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100035
   }
   {
     id: 100036
-    name: 海邊的西瓜
+    name: enemy_illustration-10100036
     type: 2
     code: Pathfinder_Small
-    introduce: 一顆普通的西瓜。
+    introduce: enemy_illustration-20100036
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5037,16 +5267,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 敲碎它！
+    counter: enemy_illustration-30100036
     character: "903"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100036
   }
   {
     id: 100037
-    name: 浴場刺客
+    name: enemy_illustration-10100037
     type: 3
     code: Bathhouse_guest_2
-    introduce: 熱衷於在浴場泡澡的不明閒散人士。性格狂躁，動手能力極強，還喜愛在泡澡時突然施展花樣游泳等水上運動，因此成為了人們最不想在浴場遇見的對象。
+    introduce: enemy_illustration-20100037
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5055,17 +5286,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 熱衷於在浴場泡澡的不明閒散人士。性格狂躁，動手能力極強，還喜愛在泡澡時突然施展花樣游泳等水上運動，因此成為了人們最不想在浴場遇見的對象。
+    counter: enemy_illustration-30100037
     character: "303,313"
     enemy_skill: "10037"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100037
   }
   {
     id: 100038
-    name: 浴場刺客
+    name: enemy_illustration-10100038
     type: 3
     code: Bathhouse_guest_1
-    introduce: 熱衷於在浴場泡澡的不明閒散人士。性格狂躁，動手能力極強，還喜愛在泡澡時突然施展花樣游泳等水上運動，因此成為了人們最不想在浴場遇見的對象。
+    introduce: enemy_illustration-20100038
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5074,17 +5306,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 熱衷於在浴場泡澡的不明閒散人士。性格狂躁，動手能力極強，還喜愛在泡澡時突然施展花樣游泳等水上運動，因此成為了人們最不想在浴場遇見的對象。
+    counter: enemy_illustration-30100038
     character: "309,312,316"
     enemy_skill: "10038,140"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100038
   }
   {
     id: 100039
-    name: 狂飆飛輪
+    name: enemy_illustration-10100039
     type: 4
     code: Tyre_enemy
-    introduce: 疑似擁有自我意識的車輪，會突然出現在街頭，並根據自己的喜好狂奔向受害者身邊……是新一代的都市傳說。
+    introduce: enemy_illustration-20100039
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5093,17 +5326,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 疑似擁有自我意識的車輪，會突然出現在街頭，並根據自己的喜好狂奔向受害者身邊……是新一代的都市傳說。
+    counter: enemy_illustration-30100039
     character: "304,319"
     enemy_skill: "10039"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100039
   }
   {
     id: 100040
-    name: 貨車狂徒
+    name: enemy_illustration-10100040
     type: 4
     code: Truck_enemy
-    introduce: 神秘莫測的輕型貨運卡車，交通安全法考試從未合格，但仍然放肆地在各地超速行駛，尤其喜歡在靜謐的居民區街道暴衝。
+    introduce: enemy_illustration-20100040
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5112,17 +5346,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 神秘莫測的輕型貨運卡車，交通安全法考試從未合格，但仍然放肆地在各地超速行駛，尤其喜歡在靜謐的居民區街道暴衝。
+    counter: enemy_illustration-30100040
     character: "1001,1003,304,902"
     enemy_skill: "10040"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100040
   }
   {
     id: 100041
-    name: 泡泡機
+    name: enemy_illustration-10100041
     type: 4
     code: Bubble_machine
-    introduce: 用於製造搖曳泡影的微型工廠，移動緩慢，本身不具備殺傷力，因此經常遭到小朋友和家長群體的追逐。
+    introduce: enemy_illustration-20100041
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5131,17 +5366,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 用於製造搖曳泡影的微型工廠，移動緩慢，本身不具備殺傷力，因此經常遭到小朋友和家長群體的追逐。
+    counter: enemy_illustration-30100041
     character: "321"
     enemy_skill: "10041"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100041
   }
   {
     id: 100042
-    name: 搖曳泡影
+    name: enemy_illustration-10100042
     type: 2
     code: Bubble
-    introduce: 外觀酷似使用肥皂水吹制而成的泡泡，具備淡淡的皂香和夢幻的泡影。是最適合潛伏在浴場中的偵察者，悄然接近敵人的身邊，在被發現時「啪」地消失掉。
+    introduce: enemy_illustration-20100042
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5150,17 +5386,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 外觀酷似使用肥皂水吹制而成的泡泡，具備淡淡的皂香和夢幻的泡影。是最適合潛伏在浴場中的偵察者，悄然接近敵人的身邊，在被發現時「啪」地消失掉。
+    counter: enemy_illustration-30100042
     character: "319"
     enemy_skill: "10042"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100042
   }
   {
     id: 100043
-    name: 羅梅羅
+    name: enemy_illustration-10100043
     type: 2
     code: saga_dog_enemy
-    introduce: 來歷不明的殭屍犬，喜愛魷魚絲，忠心耿耿地履行著看家護院、守護法蘭秀秀的職責。看上去瘦弱嬌小，一旦變身就將化為夷平一切的惡犬。
+    introduce: enemy_illustration-20100043
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5169,17 +5406,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 來歷不明的殭屍犬，喜愛魷魚絲，忠心耿耿地履行著看家護院、守護法蘭秀秀的職責。看上去瘦弱嬌小，一旦變身就將化為夷平一切的惡犬。
+    counter: enemy_illustration-30100043
     character: "304,315"
     enemy_skill: "10043"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100043
   }
   {
     id: 100044
-    name: 灰色歌者
+    name: enemy_illustration-10100044
     type: 3
     code: HK21_SagaEnemy
-    introduce: 夜間咖啡館成員之一，會高喊著「姐姐大人」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
+    introduce: enemy_illustration-20100044
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5188,17 +5426,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 夜間咖啡館成員之一，會高喊著「姐姐大人」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
+    counter: enemy_illustration-30100044
     character: "100"
     enemy_skill: "10044"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100044
   }
   {
     id: 100045
-    name: 綠色歌者
+    name: enemy_illustration-10100045
     type: 3
     code: JS-127_SagaEnemy
-    introduce: 夜間咖啡館成員之一，會高喊著「劉海角度」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
+    introduce: enemy_illustration-20100045
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5207,17 +5446,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 夜間咖啡館成員之一，會高喊著「劉海角度」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
+    counter: enemy_illustration-30100045
     character: "100"
     enemy_skill: "10045"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100045
   }
   {
     id: 100046
-    name: 紅色歌者
+    name: enemy_illustration-10100046
     type: 3
     code: PM06_SagaEnemy
-    introduce: 夜間咖啡館成員之一，會高喊著「紅通通」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
+    introduce: enemy_illustration-20100046
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5226,17 +5466,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 夜間咖啡館成員之一，會高喊著「紅通通」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
+    counter: enemy_illustration-30100046
     character: "100"
     enemy_skill: "10046"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100046
   }
   {
     id: 100047
-    name: 不羈主唱
+    name: enemy_illustration-10100047
     type: 3
     code: MG5_SagaEnemy
-    introduce: 灰樹樂隊的主唱，冷冽不羈，看上去是樂隊中最難招惹的對象，而實際上是著名和平愛好者，經常解決樂隊成員惹出的麻煩。
+    introduce: enemy_illustration-20100047
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5245,17 +5486,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 灰樹樂隊的主唱，冷冽不羈，看上去是樂隊中最難招惹的對象，而實際上是著名和平愛好者，經常解決樂隊成員惹出的麻煩。
+    counter: enemy_illustration-30100047
     character: "100"
     enemy_skill: "10047"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100047
   }
   {
     id: 100048
-    name: 烈焰吉他手
+    name: enemy_illustration-10100048
     type: 3
     code: M1887_SagaEnemy
-    introduce: 灰樹樂隊的吉他手，隨身攜帶紅色染發劑和燃燒劑，喜歡烈焰般的顏色，在暴躁時也會親手製造烈焰。
+    introduce: enemy_illustration-20100048
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5264,17 +5506,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 灰樹樂隊的吉他手，隨身攜帶紅色染發劑和燃燒劑，喜歡烈焰般的顏色，在暴躁時也會親手製造烈焰。
+    counter: enemy_illustration-30100048
     character: "100"
     enemy_skill: "10048"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100048
   }
   {
     id: 100049
-    name: 追影鼓手
+    name: enemy_illustration-10100049
     type: 3
     code: 80type_SagaEnemy
-    introduce: 灰樹樂隊的鼓手，表演時的速度幾乎無法用肉眼捕捉，還擅長用無人機製造出絢爛的演出特效，但偶爾也會失手把無人機飛到觀眾席中。
+    introduce: enemy_illustration-20100049
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5283,17 +5526,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 灰樹樂隊的鼓手，表演時的速度幾乎無法用肉眼捕捉，還擅長用無人機製造出絢爛的演出特效，但偶爾也會失手把無人機飛到觀眾席中。
+    counter: enemy_illustration-30100049
     character: "100"
     enemy_skill: "10049"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100049
   }
   {
     id: 100050
-    name: 墨鏡貝斯手
+    name: enemy_illustration-10100050
     type: 3
     code: M1897_SagaEnemy
-    introduce: 灰樹樂隊的貝斯手，總是將表情藏在墨鏡之後，讓人難以揣摩她究竟是醒是睡，手中彈奏的究竟是貝斯還是掃把。
+    introduce: enemy_illustration-20100050
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5302,17 +5546,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 灰樹樂隊的貝斯手，總是將表情藏在墨鏡之後，讓人難以揣摩她究竟是醒是睡，手中彈奏的究竟是貝斯還是掃把。
+    counter: enemy_illustration-30100050
     character: "100"
     enemy_skill: "10050"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100050
   }
   {
     id: 100051
-    name: 神秘鍵盤手
+    name: enemy_illustration-10100051
     type: 3
     code: G11_SagaEnemy
-    introduce: 灰樹樂隊的鍵盤手，只在演出時現身，平常幾乎不出現。除了樂隊的工作，似乎還有著自己的神秘任務。
+    introduce: enemy_illustration-20100051
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5321,17 +5566,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 灰樹樂隊的鍵盤手，只在演出時現身，平常幾乎不出現。除了樂隊的工作，似乎還有著自己的神秘任務。
+    counter: enemy_illustration-30100051
     character: "100"
     enemy_skill: "10051"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100051
   }
   {
     id: 100052
-    name: 都市隸人
+    name: enemy_illustration-10100052
     type: 3
     code: FacelessMenA
-    introduce: 被日復一日的工作模糊了面孔，在看不見盡頭的加班中失去了本心，最終淪為了憤怒的傀儡。
+    introduce: enemy_illustration-20100052
     pow_rank: 1
     life_rank: 4
     hit_rank: 1
@@ -5339,17 +5585,18 @@
     rate_rank: 4
     speed_rank: 1
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30100052
     character: "303"
     enemy_skill: "40"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100052
   }
   {
     id: 100053
-    name: 都市隸人
+    name: enemy_illustration-10100053
     type: 3
     code: FacelessMenB
-    introduce: 被日復一日的工作模糊了面孔，在看不見盡頭的加班中失去了本心，最終淪為了憤怒的傀儡。
+    introduce: enemy_illustration-20100053
     pow_rank: 1
     life_rank: 4
     hit_rank: 1
@@ -5357,17 +5604,18 @@
     rate_rank: 4
     speed_rank: 1
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30100053
     character: "303"
     enemy_skill: "40"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100053
   }
   {
     id: 100054
-    name: SPS的傀儡
+    name: enemy_illustration-10100054
     type: 3
     code: SPS_NPC
-    introduce: 這個謝爾久科夫不說敬語。
+    introduce: enemy_illustration-20100054
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5376,16 +5624,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30100054
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100054
   }
   {
     id: 100055
-    name: KSVK的傀儡
+    name: enemy_illustration-10100055
     type: 3
     code: KSVK_NPC
-    introduce: 這個KSVK一點也不中二。
+    introduce: enemy_illustration-20100055
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5394,16 +5643,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30100055
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100055
   }
   {
     id: 100056
-    name: A545的傀儡
+    name: enemy_illustration-10100056
     type: 3
     code: A545_NPC
-    introduce: 這個A-545不喝伏特加。
+    introduce: enemy_illustration-20100056
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5412,16 +5662,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30100056
     character: "100"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100056
   }
   {
     id: 100057
-    name: 江崎普琳
+    name: enemy_illustration-10100057
     type: 1
     code: EzakiBoss
-    introduce: 情緒憤怒、火力也同樣憤怒的普琳，最好祈禱不要被她抓到。另外，這個普琳不吃布丁。
+    introduce: enemy_illustration-20100057
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5430,17 +5681,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30100057
     character: "1001"
     enemy_skill: "10052,10053"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100057
   }
   {
     id: 100058
-    name: 島村孝
+    name: enemy_illustration-10100058
     type: 1
     code: TakashiBoss
-    introduce: 總是身著黑衣的沉默少年，隱匿在夜色中的幕後推手。
+    introduce: enemy_illustration-20100058
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5449,17 +5701,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30100058
     character: "1001"
     enemy_skill: "10054,10055"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100058
   }
   {
     id: 100059
-    name: 水金鈴鹿
+    name: enemy_illustration-10100059
     type: 1
     code: MizukinnBoss
-    introduce: 肩上的RPG和手中的機槍總讓人誤以為恐懼源於她的火力，直到她放下武器，人們才會明白恐懼剛剛開始。
+    introduce: enemy_illustration-20100059
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5468,17 +5721,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 情報不明,謹慎應對!
+    counter: enemy_illustration-30100059
     character: "1001"
     enemy_skill: "10056,10057,10058"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100059
   }
   {
     id: 100082
-    name: 殘獸SWAP
+    name: enemy_illustration-10100082
     type: 3
     code: Brute_SWAP
-    introduce: 在原本的殘獸基礎上大幅增強了性能，可以更好地發揮作戰能力。
+    introduce: enemy_illustration-20100082
     forces: 1
     pow_rank: 5
     life_rank: 3
@@ -5487,17 +5741,18 @@
     rate_rank: 2
     speed_rank: 4
     range_rank: 2
-    counter: 該單位擁有較高的破甲值，對霰彈槍人形來說是個危險的存在，請注意避免我方霰彈槍人形與她接觸。推薦使用衝鋒槍、手槍等迴避型人形擔當前排。
+    counter: enemy_illustration-30100082
     character: "1003,303,315"
     enemy_skill: "54,55"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100082
   }
   {
     id: 100083
-    name: 鋼獅SWAP
+    name: enemy_illustration-10100083
     type: 4
     code: Nemeum_SWAP2
-    introduce: 在原本的鋼獅基礎上大幅增強了性能，可以更好地發揮作戰能力。
+    introduce: enemy_illustration-20100083
     forces: 1
     pow_rank: 4
     life_rank: 5
@@ -5506,9 +5761,10 @@
     armor_rank: 4
     speed_rank: 4
     range_rank: 4
-    counter: 護甲單位，主要擔當後排輸出，攻速較慢、命中和傷害較高，對我方前排單位造成的傷害比較穩定且顯著，建議選用索敵邏輯為打擊後排且帶穿甲能力的人形進行處理。
+    counter: enemy_illustration-30100083
     character: "1003,309,307"
     enemy_skill: "56"
     launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40100083
   }
 ]

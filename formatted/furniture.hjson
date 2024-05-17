@@ -30154,6 +30154,50 @@
     rotate: "3"
   }
   {
+    id: 20132
+    name: 八年如夢
+    classes: 81
+    type: 201
+    space: "6,6,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 入職當天發生的一切還歷歷在目，時間竟已經過去了八年。曾以為八年的故事足夠寫完一篇長長的演講稿，但事實上，此刻卻只想要和大家分享這一個蛋糕。
+    code: 2024Anniversay_deco1
+    texture_type: "1"
+    offset: "-0.209,-0.188,0.000"
+    rotate: "2"
+  }
+  {
+    id: 20133
+    name: 「攜手過去」之毯
+    classes: 81
+    type: 201
+    space: "11,8,5,2,0,4"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 燈牌上的邀請函閃閃發光，等待著指揮官和人形們一起走過這條紅毯，一起開啟第九年的篇章。
+    code: 2024Anniversay_deco2,2024Anniversay_deco3
+    texture_type: "1,1"
+    sorting: "0,10"
+    offset: "0.167,-0.688,0.000|0.167,-0.688,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 20134
+    name: 「預知未來」獎盃
+    classes: 81
+    type: 201
+    space: "14,8,0,6,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 很難想象需要怎樣的能力才能完全猜中所有的人選，只能大膽猜測指揮官不是具有驚人的預知能力，就是來自未來。
+    code: 2024Anniversay_deco4,2024Anniversay_deco5,2024Anniversay_deco6
+    texture_type: "1,1,1"
+    sorting: "0,10,10"
+    offset: "0.000,0.000,0.000|0.094,0.000,0.000|4.692,0.000,0.000"
+    rotate: "2,2,2"
+  }
+  {
     id: 30001
     name: 馬卡洛夫-南瓜熊熊
     classes: 300
@@ -45413,6 +45457,141 @@
     rotate: "3"
   }
   {
+    id: 310401
+    name: HK21-心跳加速中
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HK21的海報。
+    code: poster_Anniversary2024_HK21
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310402
+    name: Vector-片刻沉醉
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Vector的海報。
+    code: poster_Anniversary2024_Vector
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310403
+    name: 97式-鴉雀之聲
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 97式的海報。
+    code: poster_Anniversary2024_97type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310404
+    name: ART556-狐森小夜曲
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ART556的海報。
+    code: poster_Anniversary2024_ART556
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310405
+    name: TAC-50-楓糖香檳
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: TAC-50的海報。
+    code: poster_Anniversary2024_TAC50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310406
+    name: FO-12-甜蜜救援
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: FO-12的海報。
+    code: poster_Anniversary2024_FO12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310407
+    name: Stevens 520-多洛塔之語
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Stevens 520的海報。
+    code: poster_Anniversary2024_Stevens520
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310408
+    name: M2HB-晚宴小憩時
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M2HB的海報。
+    code: poster_Anniversary2024_M2HB
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310409
+    name: 6P62-時光的樂章
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 6P62的海報。
+    code: poster_Anniversary2024_6P62
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 330001
     name: ST AR-15-午夏憩風
     classes: 300
@@ -45662,6 +45841,36 @@
     decompose_gift: 100003
     description: HS.50的海報。
     code: poster_BattlePass_HS50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330019
+    name: M99-幕啟時踏歌
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M99的海報。
+    code: poster_BattlePass_M99
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 350001
+    name: 漢陽造88式-致群星
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 漢陽造88式的海報。
+    code: poster_Anniversary2024_88type
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

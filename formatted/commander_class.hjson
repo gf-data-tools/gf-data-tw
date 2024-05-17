@@ -593,6 +593,17 @@
     source_description: 2024年春節活動獎勵
   }
   {
+    id: 59
+    name: 狂熱管音
+    description: 周年慶典需要一次點燃全場的首秀，不用擔心，只要你吹響這個，我們暖場的目的就已經達到了！
+    group_id: "101"
+    code: commander_5940_icon
+    path: CLASS59
+    des_year: "2024"
+    source: 2
+    source_description: 八周年活動獎勵
+  }
+  {
     id: 99
     name: 謊言面具
     description: 埋藏我所思，塑化我所願

@@ -7,7 +7,7 @@
     item_name: 人形製造契約
     introduction: 委託IOP製造人形的訂單。萬幸，我們的老朋友一直是我們堅實的後援。
     rank: 1
-    sort: 10
+    sort: 501
     item_access: "1,4,5,3"
     detail_introduction: 可在工廠-人形製造中委託IOP進行人形製造。
   }
@@ -19,7 +19,7 @@
     item_name: 裝備製造契約
     introduction: 委託16Lab製造裝備的訂單。打折的代價就是隨機。
     rank: 1
-    sort: 15
+    sort: 502
     item_access: "1,4,5,3"
     detail_introduction: 可在工廠-裝備製造中委託16lab進行裝備製造。
   }
@@ -31,7 +31,7 @@
     item_name: 快速製造契約
     introduction: 為製造訂單附上加急的需求。加急有風險，貨已售出，非質量問題概不退換。
     rank: 1
-    sort: 20
+    sort: 503
     item_access: "1,4,5,3"
     detail_introduction: 可在工廠中立即完成人形或裝備的製造。
   }
@@ -43,7 +43,7 @@
     item_name: 快速修復契約
     introduction: 為修復附上加急的需求。她迫不及待地想和你一起重回前線了。
     rank: 1
-    sort: 25
+    sort: 504
     item_access: "1,4,5,3"
     detail_introduction: 可立即完成受損單位的修復。
   }
@@ -73,7 +73,7 @@
     item_name: 誓約之證
     introduction: 與心意相通的戰術少女締結誓約的證明。是時候讓你們的關係升華一下了！
     rank: 1
-    sort: 5
+    sort: 505
     item_access: "1"
     detail_introduction: 可與好感度達到上限的人形締結誓約，提高好感度上限。
   }
@@ -85,7 +85,7 @@
     item_name: 快速訓練契約
     introduction: 雖然人類的學習需要時間，但在金錢的堆砌下，戰術單位可以不需要。
     rank: 1
-    sort: 30
+    sort: 506
     item_access: "1,3"
     detail_introduction: 可在研發-技能訓練中立即完成單位的技能訓練。
   }
@@ -97,7 +97,7 @@
     item_name: 增幅膠囊
     introduction: 有多種果味可選的強化膠囊，據說最近為了配合某些人形增加了酒味的版本。
     rank: 1
-    sort: 35
+    sort: 2
     item_access: "25,6"
     detail_introduction: 可在工廠-人形強化中提高人形未達上限的四項屬性各一點，溢出部分會少量並依次分配到其它屬性。
   }
@@ -109,7 +109,7 @@
     item_name: 替代核心
     introduction: 驅動傀儡的模組。「經原主人的許可才能卸下，進而演化成機器人之間的壓迫。」
     rank: 1
-    sort: 40
+    sort: 3
     item_access: "7,5,6,3"
     detail_introduction: 可在工廠-編製擴大中替代相同人形進行編製擴大。
   }
@@ -139,7 +139,7 @@
     item_name: 改名卡
     introduction: 申請更改指揮官名字的登記卡，「一個讓大家（包括您自己）重新看待您的機會。」
     rank: 1
-    sort: -195
+    sort: -507
     item_access: "2"
   }
   {
@@ -150,7 +150,7 @@
     item_name: 原始數據樣本
     introduction: 粗略的數據樣本，質量參差不齊。「這次會是相同的結果嗎？也許只是臨時缺少一些靈感。」
     rank: 1
-    sort: 95
+    sort: 4
     item_access: "8,5"
     detail_introduction: 可在情報中心進行情報解析，獲取重裝部隊中樞數據或晶片。
   }
@@ -162,7 +162,7 @@
     item_name: 純淨數據樣本
     introduction: 仔細篩選過的樣本，分析出有價值的數據的可能性高一些。只是一些。「至少這一份看起來更清澈。」
     rank: 1
-    sort: 100
+    sort: 5
     item_access: "8,5"
     detail_introduction: 可在情報中心進行情報解析，相比原始數據更容易獲取重裝部隊中樞數據和高星級晶片。
   }
@@ -174,7 +174,7 @@
     item_name: 快速解析契約
     introduction: 不逼數據分析師一把，你永遠不知道給自己打工的人能有多優秀。「出於對方的愛好，這份契約需要您額外支付一張真實貓咪的照片。」
     rank: 1
-    sort: 105
+    sort: 508
     item_access: "1,5,2"
     detail_introduction: 可立即完成情報中心正在進行的情報解析。
   }
@@ -186,7 +186,7 @@
     item_name: 數據補丁
     introduction: 能夠晉升重裝部隊的數據補丁，其中有一部分是拆解滿級的重裝部隊後獲得。「『三人行必有我師焉』，所以……『再見了，老師』。」
     rank: 1
-    sort: 110
+    sort: -1
     item_access: "9,10"
     detail_introduction: 可用於滿星滿級重裝部隊的迭代強化。
   }
@@ -198,7 +198,7 @@
     item_name: 初級訓練資料
     introduction: 為人形們編寫的初級技能訓練指南，有進步就好！「好耶！雖然沒做什麼，但我真是辛苦了！」
     rank: 1
-    sort: 45
+    sort: 7
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 可在研發-技能訓練中為格里芬單位提供技能初級訓練。
@@ -211,7 +211,7 @@
     item_name: 中級訓練資料
     introduction: 為人形們編寫的中級技能訓練指南，不必求甚解。「變強就有命吃更多的冰淇淋，沒有更多的錢去吃就是另一個問題了……」
     rank: 1
-    sort: 50
+    sort: 8
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 可在研發-技能訓練中為格里芬單位提供技能中級訓練。
@@ -224,7 +224,7 @@
     item_name: 高級訓練資料
     introduction: 為人形們編寫的高級技能訓練指南，十分精深。「掃地僧是什麼，為什麼我要做掃地僧？」人形問。
     rank: 1
-    sort: 55
+    sort: 9
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 可在研發-技能訓練中為格里芬單位提供技能高級訓練。
@@ -237,7 +237,7 @@
     item_name: 採購幣
     introduction: 白色發亮的特殊貨幣，在這個時代很少見。「這些神秘硬幣曾被懷疑是為設計師人形們提供靈感動力的電池。」
     rank: 1
-    sort: 60
+    sort: 509
     upper_limit: 300000
     item_access: "1,4,5,2"
     detail_introduction: 可在宿舍中進行傢具和人形裝扮的採購。
@@ -250,7 +250,7 @@
     item_name: 兌換券
     introduction: 訂購商品贈送的無門檻代金券。買得越多送的越多，IOP不愧業界良心企業。
     rank: 1
-    sort: 65
+    sort: 510
     item_access: "11"
     detail_introduction: 可在宿舍-採購-限時兌換中兌換當期限時採購的傢具和人形裝扮，限時採購結束後一比一會轉化為採購幣。
   }
@@ -262,7 +262,7 @@
     item_name: 黑卡
     introduction: 曾經精英才能申請的高端卡片，你也擁有了。
     rank: 1
-    sort: 70
+    sort: 511
     item_access: "11"
     detail_introduction: 可在宿舍-採購-黑卡兌換中兌換人形裝扮。
   }
@@ -274,7 +274,7 @@
     item_name: 校準點券
     introduction: 裝備校準需要使用的代幣，看起來並不值錢。據說存在的意義只是防止強迫症重複調試。
     rank: 1
-    sort: 75
+    sort: 10
     item_access: "13,5"
     detail_introduction: 可在研發中用於裝備或妖精校準。
   }
@@ -286,7 +286,7 @@
     item_name: 記憶碎片
     introduction: 人形心智梳理時產生的數據，經過篩選可用於升級人形的心智空間。「你們說要讓我自由，但我只想要冰淇淋。」
     rank: 1
-    sort: 90
+    sort: 11
     upper_limit: 9999
     item_access: "14,15"
     detail_introduction: 可在研發-心智升級中用於人形心智升級。
@@ -299,7 +299,7 @@
     item_name: 特種作戰報告書
     introduction: 重裝部隊的特殊作戰報告，類似的報告書正在不斷增加。「希望大家從中發掘真正的寶藏，要知道失敗的經驗總大於成功。」
     rank: 1
-    sort: 115
+    sort: 12
     item_access: "24,16,6"
     detail_introduction: 可在格納庫中用於重裝部隊的經驗訓練。
   }
@@ -336,7 +336,7 @@
     item_name: 通用配件
     introduction: 人形們外出執行任務時順便回收的舊配件，稍加清洗和加工就能用來強化裝備。格琳娜和指揮官對此非常滿意，並表揚了提議進行這種行動的人形，但好像並沒有給她加薪。
     rank: 1
-    sort: 130
+    sort: 13
     item_access: "6,5"
     detail_introduction: 可在研发-装备强化中提供装备开发值。
   }
@@ -348,7 +348,7 @@
     item_name: 新型火控元件
     introduction: 針對擁有足夠拓展空間的高級人形，IOP特別研製了此款強化元件。還在調試期，數量非常有限。
     rank: 5
-    sort: 130
+    sort: 14
     upper_limit: 9999
     item_access: "6"
     detail_introduction: 可用於高星級人形的心智升級。
@@ -379,7 +379,7 @@
     item_name: 黑卡晶片
     introduction: 特殊材料構成的半導體，是製造黑卡的核心組件。
     rank: 1
-    sort: -70
+    sort: -508
     detail_introduction: 多個黑卡晶片可在倉庫中合成一張黑卡，或在兌換人形裝扮時抵扣一張黑卡。
   }
   {
@@ -390,7 +390,7 @@
     item_name: 膨化妖精餅乾
     introduction: 對於妖精而言極其美味的食物，食用之後可以獲得豐富的突破經驗，但包裝上似乎刻意隱瞞了製造食材……
     rank: 1
-    sort: -71
+    sort: -15
     detail_introduction: 可在改造&突破中提升妖精突破經驗。
   }
   {
@@ -410,7 +410,7 @@
     item_name: 組件加工包
     introduction: IOP為組件提供了額外的特殊加工服務，使組件有更好的組合度，從而提升機動裝甲單位的效能。為了簡化流程，IOP直接提供了組件加工包，使得後勤部門可以自行對組件進行升級加工。
     rank: 1
-    sort: 115
+    sort: 16
     item_access: "7"
     detail_introduction: 可為組件提供100開發值。
   }
@@ -867,7 +867,7 @@
     item_name: 電池
     introduction: 「作為電池其實有點大，但是電權保護組織稱，電池也有權擁有夢想。」
     rank: 1
-    sort: 85
+    sort: 509
     upper_limit: 9999
     item_access: "17,6,5"
     detail_introduction: 可用於宿舍-附屬房間中設施的升級和日常使用。
@@ -889,7 +889,7 @@
     item_name: 友情點數
     introduction: 與朋友們互動積累下來的成就點數。不涉及實際利益的友情純粹也脆弱。「哦？你也是來自世紀末的Friends嗎？」
     rank: 1
-    sort: 80
+    sort: 510
     item_access: "17,18,5"
     detail_introduction: 可在友情商店內兌換名片、頭像、基地背景等獎勵。
   }
@@ -929,7 +929,7 @@
     item_name: 超星內核
     introduction: 從初始2、3星融合勢力單位身上落下的閃亮星辰，物以稀為貴。
     rank: 1
-    sort: 160
+    sort: 511
     item_access: "7"
     detail_introduction: 可在收歸行動-內核商店中兌換高級道具。
   }
@@ -941,7 +941,7 @@
     item_name: 暗星內核
     introduction: 從初始1星融合勢力單位身上落下的黯淡星辰，平凡的物品也有作用。
     rank: 1
-    sort: 165
+    sort: 512
     item_access: "7"
     detail_introduction: 可在收歸行動-內核商店中兌換道具。
   }
@@ -953,7 +953,7 @@
     item_name: 開發培養皿
     introduction: 以太開發的必要物品，培育事物必須的溫床。
     rank: 1
-    sort: 135
+    sort: 17
     item_access: "20,19,22"
     detail_introduction: 可在工廠-強化&開發中對融合勢力單位進行以太開發。
   }
@@ -965,7 +965,7 @@
     item_name: 初級訓練密鑰
     introduction: 為融合勢力單位編寫的初級技能訓練指南，初步練習是必要的。「這就是讓我們打格里芬便宜靶子的理由？」
     rank: 1
-    sort: 140
+    sort: 18
     item_access: "20,19,22"
     detail_introduction: 可在研發-技能訓練中為融合勢力單位提供技能初級訓練。
   }
@@ -977,7 +977,7 @@
     item_name: 高級訓練密鑰
     introduction: 為融合勢力單位編寫的高級技能訓練指南，相信的心就是學會的魔法。「就算你這麼說，這個程式也太難了！」
     rank: 1
-    sort: 145
+    sort: 19
     item_access: "20,19,22"
     detail_introduction: 可在研發-技能訓練中為融合勢力單位提供技能高級訓練。
   }
@@ -989,7 +989,7 @@
     item_name: 指定裝備契約
     introduction: 委託製造指定類型裝備的契約，每一份契約可用於製造一個指定類型的裝備。
     rank: 1
-    sort: -200
+    sort: -513
     item_access: "2"
     detail_introduction: 可在工廠-裝備製造中執行I.O.P特殊訂單。
   }
@@ -1010,7 +1010,7 @@
     item_name: 重裝通用數據
     introduction: 一些重裝部隊通用的零件，似乎是從戰場回收的。節約是格里芬的傳統美德。
     rank: 1
-    sort: -150
+    sort: -20
     item_access: "9"
     detail_introduction: 可在重裝解鎖、晉升時替代指定數據的通用數據。
   }
@@ -1022,7 +1022,7 @@
     item_name: 破片手榴彈
     introduction: 破片擁有很好的範圍殺傷效果，尤其針對那些躲在掩體後面的傢伙。（暗金潮活動限定）
     rank: 1
-    sort: -175
+    sort: -3000
     item_access: "2"
   }
   {
@@ -1033,7 +1033,7 @@
     item_name: 閃光彈
     introduction: 閃光手榴彈會對目標造成致盲及致聾效果，但別忘了閉上自己的眼睛。（暗金潮活動限定）
     rank: 1
-    sort: -180
+    sort: -3001
     item_access: "2"
   }
   {
@@ -1044,7 +1044,7 @@
     item_name: 機槍塔
     introduction: 能夠部署在戰場上的自動武器，可攻擊鄰近敵人直到被摧毀或電池耗盡為止。（暗金潮活動限定）
     rank: 1
-    sort: -185
+    sort: -3002
     item_access: "2"
   }
   {
@@ -1064,7 +1064,7 @@
     item_name: 投擲式歌利亞
     introduction: 便攜式爆炸機器人，比起原型傷害力降低、靈活性增加。被投擲後會在定點爆炸，打亂敵方原定的部署。（鏡像論活動安潔視角戰役限定）
     rank: 1
-    sort: -190
+    sort: -3003
     item_access: "2"
   }
   {
@@ -1075,7 +1075,7 @@
     item_name: 快速自律契約
     introduction: 激發人形的最大潛能，使戰鬥能夠迅速結束。格里芬戰術，唯快不破！
     rank: 1
-    sort: 35
+    sort: 514
     item_access: "23,5,2"
     detail_introduction: 可立即完成自律作戰。
   }
@@ -1087,7 +1087,7 @@
     item_name: 指定重建契約test
     introduction: 委託重型製造指定類型裝備的契約，每一份契約可用於製造一個指定類型的裝備。test
     rank: 1
-    sort: -40
+    sort: -515
     detail_introduction: 可在工廠-裝備製造中執行重型建造I.O.P特殊訂單。Testtest
   }
   {
@@ -1197,7 +1197,7 @@
     item_name: 無限驚喜染色劑
     introduction: 沒有人能知道自己想像中的款式是不是真的合適，讓隨機性帶來驚喜吧。
     rank: 1
-    sort: 120
+    sort: 516
     item_access: "1,2"
     detail_introduction: 可對指揮官服裝進行一次隨機染色。
   }
@@ -1209,7 +1209,7 @@
     item_name: 色彩指定染色劑
     introduction: 別再為十連也抽不出自己想要的款式沮喪了，自己想要的花紋就該掌握在自己手裡！
     rank: 1
-    sort: 125
+    sort: 517
     item_access: "2"
     detail_introduction: 可對指揮官服裝進行一次指定染色。
   }
@@ -1241,7 +1241,7 @@
     item_name: 協力委託書
     introduction: 雖然我們的經驗也有可取之處，但畢竟火神重工才是專業的收歸人員。
     rank: 1
-    sort: 155
+    sort: 518
     item_access: "1,5,3,2"
     detail_introduction: 可在收歸行動中委託火神重工在分區所有剩餘單位中進行一次收歸。
   }
@@ -1253,7 +1253,7 @@
     item_name: 轉移觸媒
     introduction: 能夠將經驗與拓展空間全部轉移給另一個單位的觸媒。「一夜醒來，我又再次一無所有」。
     rank: 1
-    sort: 170
+    sort: 21
     item_access: "19"
     detail_introduction: 可在協議控制中心-對稱灌輸驅動器中交換兩個相同融合勢力單位的培養度。
   }
@@ -14528,6 +14528,150 @@
     rank: 1
   }
   {
+    id: 2486
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M99
+    item_name: 名片：搗蛋鬼與小補丁
+    introduction: 名片：搗蛋鬼與小補丁
+    rank: 1
+  }
+  {
+    id: 2487
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M99
+    item_name: M99-幕啟時踏歌
+    introduction: M99-幕啟時踏歌
+    rank: 1
+  }
+  {
+    id: 2488
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_HK21
+    item_name: HK21-心跳加速中
+    introduction: HK21-心跳加速中
+    rank: 1
+  }
+  {
+    id: 2489
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_Vector
+    item_name: Vector-片刻沉醉
+    introduction: Vector-片刻沉醉
+    rank: 1
+  }
+  {
+    id: 2490
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_97type
+    item_name: 97式-鴉雀之聲
+    introduction: 97式-鴉雀之聲
+    rank: 1
+  }
+  {
+    id: 2491
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_ART556
+    item_name: ART556-狐森小夜曲
+    introduction: ART556-狐森小夜曲
+    rank: 1
+  }
+  {
+    id: 2492
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_TAC50
+    item_name: TAC-50-楓糖香檳
+    introduction: TAC-50-楓糖香檳
+    rank: 1
+  }
+  {
+    id: 2493
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_FO12
+    item_name: FO-12-甜蜜救援
+    introduction: FO-12-甜蜜救援
+    rank: 1
+  }
+  {
+    id: 2494
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_Stevens520
+    item_name: Stevens 520-多洛塔之語
+    introduction: Stevens 520-多洛塔之語
+    rank: 1
+  }
+  {
+    id: 2495
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_M2HB
+    item_name: M2HB-晚宴小憩時
+    introduction: M2HB-晚宴小憩時
+    rank: 1
+  }
+  {
+    id: 2496
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_6P62
+    item_name: 6P62-時光的樂章
+    introduction: 6P62-時光的樂章
+    rank: 1
+  }
+  {
+    id: 2497
+    type: 5
+    arg: "1"
+    code: profilePic_mask_8years
+    item_name: 真核面具紀念頭像·八周年
+    introduction: 真核面具紀念頭像·八周年
+    rank: 1
+  }
+  {
+    id: 2498
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2024_88type
+    item_name: 漢陽造88式-致群星
+    introduction: 漢陽造88式-致群星
+    rank: 1
+  }
+  {
+    id: 2499
+    type: 5
+    arg: "1"
+    code: cg_Anniversary2024
+    item_name: 背景：全裝甲戰備
+    introduction: 前線告急！立刻做好出擊準備——就讓它扭轉戰局，為敵人獻上最後的鎮魂曲！
+    rank: 1
+  }
+  {
+    id: 2500
+    type: 5
+    arg: "1"
+    code: profilePic_8years_A
+    item_name: 頭像：醉顏紅
+    introduction: 頭像：醉顏紅
+    rank: 1
+  }
+  {
+    id: 2501
+    type: 5
+    arg: "1"
+    code: card_8years_A
+    item_name: 名片：暖香蜜意
+    introduction: 名片：暖香蜜意
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -15510,7 +15654,7 @@
     item_name: 塵封的設計圖
     introduction: 破舊紙片，可能是前遺跡開發時代的紙質工業藍圖，似乎描繪著大型裝甲單位，內容已無法辨識。
     rank: 1
-    sort: -999
+    sort: -22
   }
   {
     id: 9034
@@ -15520,7 +15664,7 @@
     item_name: 錐形零件
     introduction: 使用未知金屬材質製造，特性與用途尚不明確，請勿直接接觸。
     rank: 1
-    sort: -999
+    sort: -23
   }
   {
     id: 9035
@@ -15530,7 +15674,7 @@
     item_name: 環形零件
     introduction: 造型特異的零件，有強烈信號發出，當前無法完整解析信號參數。
     rank: 1
-    sort: -999
+    sort: -24
   }
   {
     id: 9036
@@ -15540,7 +15684,7 @@
     item_name: 精密機械核心
     introduction: 以當前技術無法拆分其結構，唯一能確定的是內部蓄有極大能量，危險係數高。
     rank: 1
-    sort: -999
+    sort: -25
   }
   {
     id: 9037
@@ -15550,7 +15694,7 @@
     item_name: 複合晶片組
     introduction: 從應用的光電技術來看，難以想象是多年前的產物。遺憾的是，無法從破損的晶片中讀取完整數據。
     rank: 1
-    sort: -999
+    sort: -26
   }
   {
     id: 9038
@@ -15560,7 +15704,7 @@
     item_name: 殘存數據影像
     introduction: 通過小型全息設備輸出的未知地形影像，位置數據缺失，目前仍在更進一步解析中。
     rank: 1
-    sort: -999
+    sort: -27
   }
   {
     id: 9039
@@ -15588,7 +15732,7 @@
     item_name: 液化干擾噴霧
     introduction: 含有大量小型干擾物質的噴霧器，可替換的內膽中裝有液體溶液，經由噴霧口對敵使用，可對電子儀器造成一定的損害。
     rank: 1
-    sort: -999
+    sort: -3004
     is_hide_info: 1
   }
   {
@@ -15599,7 +15743,7 @@
     item_name: 人形潤滑機油
     introduction: 為戰術人形特供的軍用級戰術物資，可以在短時間內提高人形的素體性能，尤其是在跳躍力的功能方面，能夠提供極大的幫助。
     rank: 1
-    sort: -999
+    sort: -3005
     is_hide_info: 1
   }
   {
@@ -15630,7 +15774,7 @@
     item_name: 超導脈衝
     introduction: 雖然火神重工才是專業的收歸人員，但我們的經驗也不是沒有可取之處。
     rank: 1
-    sort: 150
+    sort: 519
     consume_type: 1
     item_access: "5,3,2"
     detail_introduction: 可在收歸行動中對地圖上的融合勢力單位進行一次收歸。
@@ -15680,7 +15824,7 @@
     item_name: 探查許可證
     introduction: 允許進入灰域完成一次探查的許可證明，出示這張證明將不再需要消耗額外的資源
     rank: 1
-    sort: -1
+    sort: -520
   }
   {
     id: 10703
@@ -17172,7 +17316,7 @@
     item_name: 投擲式歌利亞
     introduction: 便攜式爆炸機器人，比起原型傷害力降低、靈活性增加。被投擲後會在定點爆炸，打亂敵方原定的部署。（薄霧迷宮戰役II、III、IV、V限定）
     rank: 1
-    sort: -52
+    sort: -3006
     item_access: "2"
   }
   {
@@ -17368,7 +17512,7 @@
     item_name: 聯合突襲
     introduction: 獲取後活動中的友方梯隊可獲得技能聯合突襲，使用後同時獲得狙擊支援、炮擊支援、空襲支援的戰場效果
     rank: 1
-    sort: -1
+    sort: -3007
   }
   {
     id: 100173
@@ -17378,7 +17522,7 @@
     item_name: 專注
     introduction: 獲取後活動中的友方梯隊可獲得技能專注，使用後獲得同名戰場效果
     rank: 1
-    sort: -1
+    sort: -3008
   }
   {
     id: 100174
@@ -17388,7 +17532,7 @@
     item_name: 強化
     introduction: 獲取後活動中的友方梯隊可獲得技能強化，使用後獲得同名戰場效果
     rank: 1
-    sort: -1
+    sort: -3009
   }
   {
     id: 100175
@@ -17767,6 +17911,33 @@
     code: coremask2_202404
     item_name: 蝕心面具·錯構之泉
     introduction: 散發著詭譎氣息的面具，只有通過極為艱險的考驗才能獲得。留在手中似乎沒有什麼用，但能夠在商店換取到一個期望已久的相遇。
+    rank: 1
+  }
+  {
+    id: 100216
+    type: 4
+    arg: "100216"
+    code: Bumdle_20248year
+    item_name: 莫比烏斯之箱
+    introduction: 莫比烏斯之箱
+    rank: 1
+  }
+  {
+    id: 100217
+    type: 4
+    arg: "100217"
+    code: core_mask_8year
+    item_name: 真核面具·八周年
+    introduction: 真核面具·八周年
+    rank: 1
+  }
+  {
+    id: 100218
+    type: 4
+    arg: "100218"
+    code: Bumdle_8year
+    item_name: 8周年裝扮券
+    introduction: 8周年裝扮券
     rank: 1
   }
   {
@@ -18404,6 +18575,15 @@
     type: 4
     arg: "110071"
     code: EventPT9
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
+    id: 110072
+    type: 4
+    arg: "110072"
+    code: PT
     item_name: 活動點數
     introduction: 活動點數
     rank: 1
@@ -19746,6 +19926,60 @@
     rank: 5
   }
   {
+    id: 133130
+    type: 13
+    arg: "55"
+    code: Warjack_1012
+    item_name: 64年式-銀河-戰術人型機甲裝甲圖紙
+    introduction: 格里芬64年式通用作戰機甲，它將為我們撕裂一切黑暗。
+    rank: 5
+  }
+  {
+    id: 133131
+    type: 13
+    arg: "55"
+    code: Small_Missile_Launcher_1012
+    item_name: 64年式-銀河-導彈發射器MK1
+    introduction: 銀河的配套小型導彈發射器，為戰鬥提供精準打擊。
+    rank: 5
+  }
+  {
+    id: 133132
+    type: 13
+    arg: "55"
+    code: ElecGun_1012
+    item_name: 64年式-銀河-輕型速射電磁槍
+    introduction: 銀河的配套速射電磁槍，能夠連續進行小型電磁炮攻擊。
+    rank: 5
+  }
+  {
+    id: 133133
+    type: 13
+    arg: "55"
+    code: MG_Cannon_1012
+    item_name: 64年式-銀河-機槍炮
+    introduction: 銀河的配套機槍炮，小口徑炮彈發射器。
+    rank: 5
+  }
+  {
+    id: 133134
+    type: 13
+    arg: "55"
+    code: AutoDef_1012
+    item_name: 64年式-銀河-防護產生器
+    introduction: 銀河的配套防護產生器，為銀河提供防護。
+    rank: 5
+  }
+  {
+    id: 133135
+    type: 13
+    arg: "55"
+    code: LaserSup_1012
+    item_name: 64年式-銀河-雷射壓制裝置
+    introduction: 銀河的配套雷射壓制裝置，干擾敵方的火力瞄準。
+    rank: 5
+  }
+  {
     id: 140001
     type: 14
     arg: "1"
@@ -20031,6 +20265,22 @@
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
     item_name: *第18期前線協議進階
+    rank: 1
+  }
+  {
+    id: 140037
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第19期前線協議
+    rank: 1
+  }
+  {
+    id: 140038
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第19期前線協議進階
     rank: 1
   }
   {
@@ -20432,6 +20682,15 @@
     code: profileFrame_BattlePass_HS50
     item_name: 頭像框·愛：機器與電波
     introduction: 頭像框·愛：機器與電波
+    rank: 1
+  }
+  {
+    id: 200044
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M99
+    item_name: 頭像框·七彩樂引
+    introduction: 頭像框·七彩樂引
     rank: 1
   }
   {
@@ -21829,6 +22088,46 @@
     sort: -1
   }
   {
+    id: 1500131
+    type: 15
+    arg: "1500131"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-奇趣排練班，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500132
+    type: 15
+    arg: "1500132"
+    code: package_choose
+    item_name: 配件類裝備自選包
+    introduction: 來自於前線協議-奇趣排練班，可從該指定投遞配給序標內選擇獲取一件配件類裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500133
+    type: 15
+    arg: "1500133"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-奇趣排練班，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500134
+    type: 15
+    arg: "1500134"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-奇趣排練班，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -22089,6 +22388,36 @@
     id: 1700024
     type: 15
     arg: "1700024"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700025
+    type: 15
+    arg: "1700025"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700026
+    type: 15
+    arg: "1700026"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700027
+    type: 15
+    arg: "1700027"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

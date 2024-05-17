@@ -9218,7 +9218,7 @@
     character: 精英,劊子手,裝甲
     special_attack: 4
     normal_attack: 300301
-    passive_skill: "400201,770044"
+    passive_skill: "400201,770044,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1
@@ -9246,7 +9246,7 @@
     character: 精英,劊子手,裝甲
     special_attack: 4
     normal_attack: 300301
-    passive_skill: "400201,770044"
+    passive_skill: "400201,770044,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1

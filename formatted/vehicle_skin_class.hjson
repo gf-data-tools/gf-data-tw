@@ -77,6 +77,13 @@
     desc: 為主戰坦克設計的麒麟款式圖紙套裝，一切都是那麼簡練又高效。
   }
   {
+    id: 12
+    name: 64年式-銀河
+    vehicle_ids: "1,2"
+    pic_code: 2:Warjack_1012_set
+    desc: 為戰術人型機甲設計的銀河款式圖紙套裝，它將為我們撕裂一切黑暗。
+  }
+  {
     id: 13
     name: AA-02M 贖罪者
     vehicle_ids: "1,2"

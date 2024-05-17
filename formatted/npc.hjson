@@ -1,5 +1,40 @@
 [
   {
+    id: -20
+    name: 柯爾特沃克
+    code: NPC_ColtWalker_30004
+    title: 柯爾特沃克
+    ai: 9999
+  }
+  {
+    id: -19
+    name: 帕斯卡_壞笑
+    code: NPC_Persica_snicker
+    title: 帕斯卡_壞笑
+    ai: 9999
+  }
+  {
+    id: -18
+    name: 奈樂
+    code: NPC_Nele
+    title: 奈樂
+    ai: 9999
+  }
+  {
+    id: -17
+    name: 丹德萊
+    code: NPC_Dandelion
+    title: 丹德萊
+    ai: 9999
+  }
+  {
+    id: -16
+    name: 凱瑟琳
+    code: NPC_Catherine
+    title: 凱瑟琳
+    ai: 9999
+  }
+  {
     id: -15
     name: 黑影Stevens 520
     code: NPC_Stevens520_Shadow
