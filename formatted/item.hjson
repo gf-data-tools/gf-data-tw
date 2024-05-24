@@ -10,6 +10,7 @@
     sort: 501
     item_access: "1,4,5,3"
     detail_introduction: 可在工廠-人形製造中委託IOP進行人形製造。
+    type_sort: 3
   }
   {
     id: 2
@@ -22,6 +23,7 @@
     sort: 502
     item_access: "1,4,5,3"
     detail_introduction: 可在工廠-裝備製造中委託16lab進行裝備製造。
+    type_sort: 3
   }
   {
     id: 3
@@ -34,6 +36,7 @@
     sort: 503
     item_access: "1,4,5,3"
     detail_introduction: 可在工廠中立即完成人形或裝備的製造。
+    type_sort: 3
   }
   {
     id: 4
@@ -46,6 +49,7 @@
     sort: 504
     item_access: "1,4,5,3"
     detail_introduction: 可立即完成受損單位的修復。
+    type_sort: 3
   }
   {
     id: 5
@@ -76,6 +80,7 @@
     sort: 505
     item_access: "1"
     detail_introduction: 可與好感度達到上限的人形締結誓約，提高好感度上限。
+    type_sort: 3
   }
   {
     id: 8
@@ -88,6 +93,7 @@
     sort: 506
     item_access: "1,3"
     detail_introduction: 可在研發-技能訓練中立即完成單位的技能訓練。
+    type_sort: 3
   }
   {
     id: 9
@@ -100,6 +106,7 @@
     sort: 2
     item_access: "25,6"
     detail_introduction: 可在工廠-人形強化中提高人形未達上限的四項屬性各一點，溢出部分會少量並依次分配到其它屬性。
+    type_sort: 2
   }
   {
     id: 10
@@ -112,6 +119,7 @@
     sort: 3
     item_access: "7,5,6,3"
     detail_introduction: 可在工廠-編製擴大中替代相同人形進行編製擴大。
+    type_sort: 2
   }
   {
     id: 11
@@ -141,6 +149,7 @@
     rank: 1
     sort: -507
     item_access: "2"
+    type_sort: 3
   }
   {
     id: 14
@@ -153,6 +162,7 @@
     sort: 4
     item_access: "8,5"
     detail_introduction: 可在情報中心進行情報解析，獲取重裝部隊中樞數據或晶片。
+    type_sort: 2
   }
   {
     id: 15
@@ -165,6 +175,7 @@
     sort: 5
     item_access: "8,5"
     detail_introduction: 可在情報中心進行情報解析，相比原始數據更容易獲取重裝部隊中樞數據和高星級晶片。
+    type_sort: 2
   }
   {
     id: 16
@@ -177,6 +188,7 @@
     sort: 508
     item_access: "1,5,2"
     detail_introduction: 可立即完成情報中心正在進行的情報解析。
+    type_sort: 3
   }
   {
     id: 17
@@ -189,6 +201,7 @@
     sort: -1
     item_access: "9,10"
     detail_introduction: 可用於滿星滿級重裝部隊的迭代強化。
+    type_sort: 2
   }
   {
     id: 31
@@ -202,6 +215,7 @@
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 可在研發-技能訓練中為格里芬單位提供技能初級訓練。
+    type_sort: 2
   }
   {
     id: 32
@@ -215,6 +229,7 @@
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 可在研發-技能訓練中為格里芬單位提供技能中級訓練。
+    type_sort: 2
   }
   {
     id: 33
@@ -228,6 +243,7 @@
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 可在研發-技能訓練中為格里芬單位提供技能高級訓練。
+    type_sort: 2
   }
   {
     id: 41
@@ -241,6 +257,7 @@
     upper_limit: 300000
     item_access: "1,4,5,2"
     detail_introduction: 可在宿舍中進行傢具和人形裝扮的採購。
+    type_sort: 3
   }
   {
     id: 42
@@ -253,6 +270,7 @@
     sort: 510
     item_access: "11"
     detail_introduction: 可在宿舍-採購-限時兌換中兌換當期限時採購的傢具和人形裝扮，限時採購結束後一比一會轉化為採購幣。
+    type_sort: 3
   }
   {
     id: 43
@@ -265,6 +283,7 @@
     sort: 511
     item_access: "11"
     detail_introduction: 可在宿舍-採購-黑卡兌換中兌換人形裝扮。
+    type_sort: 3
   }
   {
     id: 44
@@ -277,6 +296,7 @@
     sort: 10
     item_access: "13,5"
     detail_introduction: 可在研發中用於裝備或妖精校準。
+    type_sort: 2
   }
   {
     id: 45
@@ -290,6 +310,7 @@
     upper_limit: 9999
     item_access: "14,15"
     detail_introduction: 可在研發-心智升級中用於人形心智升級。
+    type_sort: 2
   }
   {
     id: 46
@@ -302,6 +323,7 @@
     sort: 12
     item_access: "24,16,6"
     detail_introduction: 可在格納庫中用於重裝部隊的經驗訓練。
+    type_sort: 2
   }
   {
     id: 47
@@ -339,6 +361,7 @@
     sort: 13
     item_access: "6,5"
     detail_introduction: 可在研发-装备强化中提供装备开发值。
+    type_sort: 2
   }
   {
     id: 51
@@ -352,6 +375,7 @@
     upper_limit: 9999
     item_access: "6"
     detail_introduction: 可用於高星級人形的心智升級。
+    type_sort: 2
   }
   {
     id: 52
@@ -381,6 +405,7 @@
     rank: 1
     sort: -508
     detail_introduction: 多個黑卡晶片可在倉庫中合成一張黑卡，或在兌換人形裝扮時抵扣一張黑卡。
+    type_sort: 3
   }
   {
     id: 55
@@ -392,6 +417,7 @@
     rank: 1
     sort: -15
     detail_introduction: 可在改造&突破中提升妖精突破經驗。
+    type_sort: 2
   }
   {
     id: 57
@@ -413,6 +439,7 @@
     sort: 16
     item_access: "7"
     detail_introduction: 可為組件提供100開發值。
+    type_sort: 2
   }
   {
     id: 100
@@ -871,6 +898,7 @@
     upper_limit: 9999
     item_access: "17,6,5"
     detail_introduction: 可用於宿舍-附屬房間中設施的升級和日常使用。
+    type_sort: 3
   }
   {
     id: 507
@@ -892,6 +920,7 @@
     sort: 510
     item_access: "17,18,5"
     detail_introduction: 可在友情商店內兌換名片、頭像、基地背景等獎勵。
+    type_sort: 3
   }
   {
     id: 509
@@ -932,6 +961,7 @@
     sort: 511
     item_access: "7"
     detail_introduction: 可在收歸行動-內核商店中兌換高級道具。
+    type_sort: 3
   }
   {
     id: 513
@@ -944,6 +974,7 @@
     sort: 512
     item_access: "7"
     detail_introduction: 可在收歸行動-內核商店中兌換道具。
+    type_sort: 3
   }
   {
     id: 514
@@ -956,6 +987,7 @@
     sort: 17
     item_access: "20,19,22"
     detail_introduction: 可在工廠-強化&開發中對融合勢力單位進行以太開發。
+    type_sort: 2
   }
   {
     id: 515
@@ -968,6 +1000,7 @@
     sort: 18
     item_access: "20,19,22"
     detail_introduction: 可在研發-技能訓練中為融合勢力單位提供技能初級訓練。
+    type_sort: 2
   }
   {
     id: 516
@@ -980,6 +1013,7 @@
     sort: 19
     item_access: "20,19,22"
     detail_introduction: 可在研發-技能訓練中為融合勢力單位提供技能高級訓練。
+    type_sort: 2
   }
   {
     id: 517
@@ -992,6 +1026,7 @@
     sort: -513
     item_access: "2"
     detail_introduction: 可在工廠-裝備製造中執行I.O.P特殊訂單。
+    type_sort: 3
   }
   {
     id: 518
@@ -1013,6 +1048,7 @@
     sort: -20
     item_access: "9"
     detail_introduction: 可在重裝解鎖、晉升時替代指定數據的通用數據。
+    type_sort: 2
   }
   {
     id: 520
@@ -1024,6 +1060,7 @@
     rank: 1
     sort: -3000
     item_access: "2"
+    type_sort: 4
   }
   {
     id: 521
@@ -1035,6 +1072,7 @@
     rank: 1
     sort: -3001
     item_access: "2"
+    type_sort: 4
   }
   {
     id: 522
@@ -1046,6 +1084,7 @@
     rank: 1
     sort: -3002
     item_access: "2"
+    type_sort: 4
   }
   {
     id: 523
@@ -1066,6 +1105,7 @@
     rank: 1
     sort: -3003
     item_access: "2"
+    type_sort: 4
   }
   {
     id: 525
@@ -1078,6 +1118,7 @@
     sort: 514
     item_access: "23,5,2"
     detail_introduction: 可立即完成自律作戰。
+    type_sort: 3
   }
   {
     id: 526
@@ -1089,6 +1130,7 @@
     rank: 1
     sort: -515
     detail_introduction: 可在工廠-裝備製造中執行重型建造I.O.P特殊訂單。Testtest
+    type_sort: 3
   }
   {
     id: 527
@@ -1200,6 +1242,7 @@
     sort: 516
     item_access: "1,2"
     detail_introduction: 可對指揮官服裝進行一次隨機染色。
+    type_sort: 3
   }
   {
     id: 602
@@ -1212,6 +1255,7 @@
     sort: 517
     item_access: "2"
     detail_introduction: 可對指揮官服裝進行一次指定染色。
+    type_sort: 3
   }
   {
     id: 603
@@ -1244,6 +1288,7 @@
     sort: 518
     item_access: "1,5,3,2"
     detail_introduction: 可在收歸行動中委託火神重工在分區所有剩餘單位中進行一次收歸。
+    type_sort: 3
   }
   {
     id: 606
@@ -1256,6 +1301,7 @@
     sort: 21
     item_access: "19"
     detail_introduction: 可在協議控制中心-對稱灌輸驅動器中交換兩個相同融合勢力單位的培養度。
+    type_sort: 2
   }
   {
     id: 1001
@@ -15655,6 +15701,7 @@
     introduction: 破舊紙片，可能是前遺跡開發時代的紙質工業藍圖，似乎描繪著大型裝甲單位，內容已無法辨識。
     rank: 1
     sort: -22
+    type_sort: 2
   }
   {
     id: 9034
@@ -15665,6 +15712,7 @@
     introduction: 使用未知金屬材質製造，特性與用途尚不明確，請勿直接接觸。
     rank: 1
     sort: -23
+    type_sort: 2
   }
   {
     id: 9035
@@ -15675,6 +15723,7 @@
     introduction: 造型特異的零件，有強烈信號發出，當前無法完整解析信號參數。
     rank: 1
     sort: -24
+    type_sort: 2
   }
   {
     id: 9036
@@ -15685,6 +15734,7 @@
     introduction: 以當前技術無法拆分其結構，唯一能確定的是內部蓄有極大能量，危險係數高。
     rank: 1
     sort: -25
+    type_sort: 2
   }
   {
     id: 9037
@@ -15695,6 +15745,7 @@
     introduction: 從應用的光電技術來看，難以想象是多年前的產物。遺憾的是，無法從破損的晶片中讀取完整數據。
     rank: 1
     sort: -26
+    type_sort: 2
   }
   {
     id: 9038
@@ -15705,6 +15756,7 @@
     introduction: 通過小型全息設備輸出的未知地形影像，位置數據缺失，目前仍在更進一步解析中。
     rank: 1
     sort: -27
+    type_sort: 2
   }
   {
     id: 9039
@@ -15734,6 +15786,7 @@
     rank: 1
     sort: -3004
     is_hide_info: 1
+    type_sort: 4
   }
   {
     id: 9042
@@ -15745,6 +15798,7 @@
     rank: 1
     sort: -3005
     is_hide_info: 1
+    type_sort: 4
   }
   {
     id: 9043
@@ -15778,6 +15832,7 @@
     consume_type: 1
     item_access: "5,3,2"
     detail_introduction: 可在收歸行動中對地圖上的融合勢力單位進行一次收歸。
+    type_sort: 3
   }
   {
     id: 10605
@@ -15825,6 +15880,7 @@
     introduction: 允許進入灰域完成一次探查的許可證明，出示這張證明將不再需要消耗額外的資源
     rank: 1
     sort: -520
+    type_sort: 3
   }
   {
     id: 10703
@@ -17318,6 +17374,7 @@
     rank: 1
     sort: -3006
     item_access: "2"
+    type_sort: 4
   }
   {
     id: 100152
@@ -17513,6 +17570,7 @@
     introduction: 獲取後活動中的友方梯隊可獲得技能聯合突襲，使用後同時獲得狙擊支援、炮擊支援、空襲支援的戰場效果
     rank: 1
     sort: -3007
+    type_sort: 4
   }
   {
     id: 100173
@@ -17523,6 +17581,7 @@
     introduction: 獲取後活動中的友方梯隊可獲得技能專注，使用後獲得同名戰場效果
     rank: 1
     sort: -3008
+    type_sort: 4
   }
   {
     id: 100174
@@ -17533,6 +17592,7 @@
     introduction: 獲取後活動中的友方梯隊可獲得技能強化，使用後獲得同名戰場效果
     rank: 1
     sort: -3009
+    type_sort: 4
   }
   {
     id: 100175
@@ -20828,6 +20888,7 @@
     introduction: 打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500010
@@ -20838,6 +20899,7 @@
     introduction: 打開時，可從該指定投遞配給序標內選擇獲取一件配件類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500011
@@ -20848,6 +20910,7 @@
     introduction: 打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500012
@@ -20858,6 +20921,7 @@
     introduction: 打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500013
@@ -20868,6 +20932,7 @@
     introduction: 打開時，可必定獲得序標內未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500014
@@ -20878,6 +20943,7 @@
     introduction: 打開時，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500015
@@ -20888,6 +20954,7 @@
     introduction: 打開時，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500016
@@ -20898,6 +20965,7 @@
     introduction: 打開時，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500017
@@ -20908,6 +20976,7 @@
     introduction: 打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500018
@@ -20918,6 +20987,7 @@
     introduction: 打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500019
@@ -20928,6 +20998,7 @@
     introduction: 打開時，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500020
@@ -20938,6 +21009,7 @@
     introduction: 打開時，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500021
@@ -20948,6 +21020,7 @@
     introduction: 来自於重返基地，在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500022
@@ -20958,6 +21031,7 @@
     introduction: 来自於重返基地，打開時，可自選獲得指定範圍內的一個五星裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500023
@@ -20968,6 +21042,7 @@
     introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500024
@@ -20982,6 +21057,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500025
@@ -20996,6 +21072,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500026
@@ -21010,6 +21087,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500027
@@ -21024,6 +21102,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500028
@@ -21038,6 +21117,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500029
@@ -21052,6 +21132,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500030
@@ -21062,6 +21143,7 @@
     introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位五星戰術人形。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500031
@@ -21076,6 +21158,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500032
@@ -21090,6 +21173,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500033
@@ -21104,6 +21188,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500034
@@ -21118,6 +21203,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500035
@@ -21132,6 +21218,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500036
@@ -21146,6 +21233,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500037
@@ -21156,6 +21244,7 @@
     introduction: 可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500038
@@ -21166,6 +21255,7 @@
     introduction: 可從該指定投遞配給序標內選擇獲取一件配件類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500039
@@ -21176,6 +21266,7 @@
     introduction: 可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500040
@@ -21186,6 +21277,7 @@
     introduction: 可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500041
@@ -21196,6 +21288,7 @@
     introduction: 可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500042
@@ -21206,6 +21299,7 @@
     introduction: 可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500043
@@ -21216,6 +21310,7 @@
     introduction: 可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500044
@@ -21226,6 +21321,7 @@
     introduction: 可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500045
@@ -21236,6 +21332,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500046
@@ -21246,6 +21343,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500047
@@ -21256,6 +21354,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500048
@@ -21266,6 +21365,7 @@
     introduction: 來自於前線協議-微風暖陽，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500049
@@ -21276,6 +21376,7 @@
     introduction: 來自於前線協議-微風暖陽，可從該指定投遞配給序標內選擇獲取一件人形類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500050
@@ -21286,6 +21387,7 @@
     introduction: 來自於前線協議-微風暖陽，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500051
@@ -21296,6 +21398,7 @@
     introduction: 來自於前線協議-微風暖陽，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500052
@@ -21306,6 +21409,7 @@
     introduction: 來自於前線協議-假日情調，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500053
@@ -21316,6 +21420,7 @@
     introduction: 來自於前線協議-假日情調，可從該指定投遞配給序標內選擇獲取一件人形類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500054
@@ -21326,6 +21431,7 @@
     introduction: 來自於前線協議-假日情調，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500055
@@ -21336,6 +21442,7 @@
     introduction: 來自於前線協議-假日情調，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500056
@@ -21346,6 +21453,7 @@
     introduction: 來自於前線協議-夜闌燈下，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500057
@@ -21356,6 +21464,7 @@
     introduction: 來自於前線協議-夜闌燈下，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500058
@@ -21366,6 +21475,7 @@
     introduction: 來自於前線協議-夜闌燈下，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500059
@@ -21376,6 +21486,7 @@
     introduction: 来自於重返基地，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500060
@@ -21386,6 +21497,7 @@
     introduction: 來自於灰域探查第一期，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500061
@@ -21396,6 +21508,7 @@
     introduction: 來自於灰域探查第一期，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500062
@@ -21406,6 +21519,7 @@
     introduction: 來自於灰域探查第一期，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500063
@@ -21416,6 +21530,7 @@
     introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位戰術人形。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500064
@@ -21426,6 +21541,7 @@
     introduction: 來自於前線協議-夜闌燈下，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500065
@@ -21436,6 +21552,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500066
@@ -21446,6 +21563,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500067
@@ -21456,6 +21574,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500068
@@ -21466,6 +21585,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500069
@@ -21476,6 +21596,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500070
@@ -21486,6 +21607,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500071
@@ -21496,6 +21618,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500072
@@ -21506,6 +21629,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500073
@@ -21516,6 +21640,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500074
@@ -21526,6 +21651,7 @@
     introduction: 來自於前線協議-閒雲野鶴，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500075
@@ -21536,6 +21662,7 @@
     introduction: 來自於前線協議-閒雲野鶴，可從該指定投遞配給序標內選擇獲取一件人形類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500076
@@ -21546,6 +21673,7 @@
     introduction: 來自於前線協議-閒雲野鶴，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500077
@@ -21556,6 +21684,7 @@
     introduction: 來自於前線協議-閒雲野鶴，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500078
@@ -21566,6 +21695,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500079
@@ -21576,6 +21706,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500080
@@ -21586,6 +21717,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500081
@@ -21596,6 +21728,7 @@
     introduction: 來自於前線協議-氤氳時光，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500082
@@ -21606,6 +21739,7 @@
     introduction: 來自於前線協議-氤氳時光，可從該指定投遞配給序標內選擇獲取一件配件類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500083
@@ -21616,6 +21750,7 @@
     introduction: 來自於前線協議-氤氳時光，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500084
@@ -21626,6 +21761,7 @@
     introduction: 來自於前線協議-氤氳時光，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500085
@@ -21636,6 +21772,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500086
@@ -21646,6 +21783,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500087
@@ -21656,6 +21794,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500088
@@ -21666,6 +21805,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500089
@@ -21676,6 +21816,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500090
@@ -21686,6 +21827,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500091
@@ -21696,6 +21838,7 @@
     introduction: 來自於前線協議-寶藏灣的夏日，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500092
@@ -21706,6 +21849,7 @@
     introduction: 來自於前線協議-寶藏灣的夏日，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500093
@@ -21716,6 +21860,7 @@
     introduction: 來自於前線協議-寶藏灣的夏日，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500094
@@ -21726,6 +21871,7 @@
     introduction: 來自於前線協議-寶藏灣的夏日，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500095
@@ -21736,6 +21882,7 @@
     introduction: 來自於前線協議-霸牛堡來襲！可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500096
@@ -21746,6 +21893,7 @@
     introduction: 來自於前線協議-霸牛堡來襲！可從該指定投遞配給序標內選擇獲取一件人形類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500097
@@ -21756,6 +21904,7 @@
     introduction: 來自於前線協議-霸牛堡來襲！可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500098
@@ -21766,6 +21915,7 @@
     introduction: 來自於前線協議-霸牛堡來襲！可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500099
@@ -21776,6 +21926,7 @@
     introduction: 來自於前線協議-晨郊樂園，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500100
@@ -21786,6 +21937,7 @@
     introduction: 來自於前線協議-晨郊樂園，可從該指定投遞配給序標內選擇獲取一件配件類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500101
@@ -21796,6 +21948,7 @@
     introduction: 來自於前線協議-晨郊樂園，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500102
@@ -21806,6 +21959,7 @@
     introduction: 來自於前線協議-晨郊樂園，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500103
@@ -21816,6 +21970,7 @@
     introduction: 來自於前線協議-尋味初晨，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500104
@@ -21826,6 +21981,7 @@
     introduction: 來自於前線協議-尋味初晨，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500105
@@ -21836,6 +21992,7 @@
     introduction: 來自於前線協議-尋味初晨，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500106
@@ -21846,6 +22003,7 @@
     introduction: 來自於前線協議-尋味初晨，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500107
@@ -21856,6 +22014,7 @@
     introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500108
@@ -21866,6 +22025,7 @@
     introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位五星戰術人形。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500109
@@ -21876,6 +22036,7 @@
     introduction: 來自於前線協議-勁爽搖滾！可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500110
@@ -21886,6 +22047,7 @@
     introduction: 來自於前線協議-勁爽搖滾！可從該指定投遞配給序標內選擇獲取一件人形類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500111
@@ -21896,6 +22058,7 @@
     introduction: 來自於前線協議-勁爽搖滾！可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500112
@@ -21906,6 +22069,7 @@
     introduction: 來自於前線協議-勁爽搖滾！可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500113
@@ -21916,6 +22080,7 @@
     introduction: 來自於前線協議-蘭塘秋夢，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500114
@@ -21926,6 +22091,7 @@
     introduction: 來自於前線協議-蘭塘秋夢，可從該指定投遞配給序標內選擇獲取一件配件類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500115
@@ -21936,6 +22102,7 @@
     introduction: 來自於前線協議-蘭塘秋夢，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500116
@@ -21946,6 +22113,7 @@
     introduction: 來自於前線協議-蘭塘秋夢，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500117
@@ -21956,6 +22124,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500118
@@ -21966,6 +22135,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500119
@@ -21976,6 +22146,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500120
@@ -21986,6 +22157,7 @@
     introduction: 來自於前線協議-威士忌風暴，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500121
@@ -21996,6 +22168,7 @@
     introduction: 來自於前線協議-威士忌風暴，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500122
@@ -22006,6 +22179,7 @@
     introduction: 來自於前線協議-威士忌風暴，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500123
@@ -22016,6 +22190,7 @@
     introduction: 來自於前線協議-威士忌風暴，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500124
@@ -22026,6 +22201,7 @@
     introduction: 來自於前線協議-雲端的王座，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500125
@@ -22036,6 +22212,7 @@
     introduction: 來自於前線協議-雲端的王座，可從該指定投遞配給序標內選擇獲取一件人形類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500126
@@ -22046,6 +22223,7 @@
     introduction: 來自於前線協議-雲端的王座，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500127
@@ -22056,6 +22234,7 @@
     introduction: 來自於前線協議-雲端的王座，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500128
@@ -22066,6 +22245,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500129
@@ -22076,6 +22256,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500130
@@ -22086,6 +22267,7 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500131
@@ -22096,6 +22278,7 @@
     introduction: 來自於前線協議-奇趣排練班，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500132
@@ -22106,6 +22289,7 @@
     introduction: 來自於前線協議-奇趣排練班，可從該指定投遞配給序標內選擇獲取一件配件類裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500133
@@ -22116,6 +22300,7 @@
     introduction: 來自於前線協議-奇趣排練班，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500134
@@ -22126,6 +22311,7 @@
     introduction: 來自於前線協議-奇趣排練班，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1600001
@@ -22163,6 +22349,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700002
@@ -22173,6 +22360,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700003
@@ -22183,6 +22371,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700004
@@ -22193,6 +22382,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700005
@@ -22203,6 +22393,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700006
@@ -22213,6 +22404,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700007
@@ -22223,6 +22415,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700008
@@ -22233,6 +22426,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700009
@@ -22243,6 +22437,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700010
@@ -22253,6 +22448,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700011
@@ -22263,6 +22459,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700012
@@ -22273,6 +22470,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700013
@@ -22283,6 +22481,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700014
@@ -22293,6 +22492,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700015
@@ -22303,6 +22503,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700016
@@ -22313,6 +22514,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700017
@@ -22323,6 +22525,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700018
@@ -22333,6 +22536,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700019
@@ -22343,6 +22547,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700020
@@ -22353,6 +22558,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700021
@@ -22363,6 +22569,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700022
@@ -22373,6 +22580,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700023
@@ -22383,6 +22591,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700024
@@ -22393,6 +22602,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700025
@@ -22403,6 +22613,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700026
@@ -22413,6 +22624,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700027
@@ -22423,6 +22635,7 @@
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800001
@@ -22433,6 +22646,7 @@
     introduction: 打開後必定獲取5星重/輕武器組件
     rank: 5
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800002
@@ -22443,6 +22657,7 @@
     introduction: 打開後必定獲取5星功能/防護/通用組件
     rank: 5
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800003
@@ -22453,6 +22668,7 @@
     introduction: 打開後有中等機率獲取5星組件
     rank: 4
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800004
@@ -22463,6 +22679,7 @@
     introduction: 打開後有較低機率獲取5星組件
     rank: 3
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800005
@@ -22473,6 +22690,7 @@
     introduction: 打開後可以獲取組件
     rank: 2
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800006
@@ -22483,6 +22701,7 @@
     introduction: 打開後必定獲取5星重武器/通用組件
     rank: 5
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800007
@@ -22493,6 +22712,7 @@
     introduction: 打開後必定獲取5星輕武器/通用組件
     rank: 5
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800008
@@ -22503,6 +22723,7 @@
     introduction: 打開後必定獲取5星重/輕武器組件
     rank: 5
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800009
@@ -22513,6 +22734,7 @@
     introduction: 打開後必定獲取5星功能/防護/通用組件
     rank: 5
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800011
@@ -22523,6 +22745,7 @@
     introduction: 5星組件自選序標
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800012
@@ -22533,6 +22756,7 @@
     introduction: 4星組件自選序標
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800013
@@ -22543,6 +22767,7 @@
     introduction: 3星組件自選序標
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800021
@@ -22553,6 +22778,7 @@
     introduction: 5星組件多選
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800022
@@ -22563,6 +22789,7 @@
     introduction: 4星組件多選
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800023
@@ -22573,6 +22800,7 @@
     introduction: 3星組件多選
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800031
@@ -22583,6 +22811,7 @@
     introduction: 5星組件固定
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800032
@@ -22593,6 +22822,7 @@
     introduction: 4星組件固定
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800033
@@ -22603,5 +22833,6 @@
     introduction: 3星組件固定
     rank: 1
     sort: -1
+    type_sort: 1
   }
 ]

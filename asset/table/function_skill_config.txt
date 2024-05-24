@@ -68,4 +68,3 @@ function_skill_config-10000139,妖精指令恢復變快
 function_skill_config-20000139,妖精指令回覆間隔時間縮短{0}%{1}
 function_skill_config-10000140,電池回覆量提升
 function_skill_config-20000140,電池自然產出提高 {0}%{1}
-

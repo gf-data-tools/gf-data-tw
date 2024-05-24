@@ -595,14 +595,5 @@ vehicle_component-20003134,被動：開場後獲得保護，受到的傷害最�
 vehicle_component-40003134,
 vehicle_component-50003134,
 vehicle_component-10000101,攻殼車
-vehicle_component-20000101,重武器係數<h_weapon_ratio> 命中係數<hit_ratio> 射速係數<atk_speed_ratio> 裝填係數<reload_ratio> 精確係數<precision_ratio>
-vehicle_component-40000101,
-vehicle_component-50000101,
 vehicle_component-10000102,攻殼車
-vehicle_component-20000102,索敵範圍<search_range> 輕武器係數<l_weapon_ratio> 命中係數<hit_ratio> 射速係數<atk_speed_ratio> 裝填係數<reload_ratio> 精確係數<precision_ratio>
-vehicle_component-40000102,
-vehicle_component-50000102,
 vehicle_component-10000103,攻殼車
-vehicle_component-20000103,
-vehicle_component-40000103,
-vehicle_component-50000103,

@@ -1,10 +1,12 @@
 [
   {
+    sub_id: 1001
     id: 1
     name: 工蜂型民用靶機
+    sub_name: 工蜂型民用靶機
     type: 2
     code: Drone
-    introduce: 常規靶機，只用於訓練和演習，可自動記錄作戰影像（前提是攝像頭沒被破壞）。
+    introduce: 常規靶機，只用於訓練和演習，可自動記錄作戰影像（前提是攝影鏡頭沒被破壞）。
     life_rank: 7
     counter: 努力訓練!
     character: "1001,903"
@@ -12,8 +14,10 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 2001
     id: 2
     name: 巡遊者
+    sub_name: 巡遊者
     type: 2
     code: Prowler
     introduce: 鐵血的低級作戰單位，火力和機動性都較弱，主要用於己方陣線的巡邏和偵查任務。
@@ -32,8 +36,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 3001
     id: 3
     name: 偵查者
+    sub_name: 偵查者
     type: 2
     code: Scouts
     introduce: 鐵血的低級作戰機甲，作戰能力較弱，但機動性高且易於隱蔽，常用於前線偵察和情報採集。
@@ -52,8 +58,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 4001
     id: 4
     name: 切割者
+    sub_name: 切割者
     type: 3
     code: Ripper
     introduce: 鐵血的常規作戰傀儡，裝配有短程衝鋒武器，機動性較高，戰場中常充當先鋒或偵查角色。
@@ -72,8 +80,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 5001
     id: 5
     name: 稻草人
+    sub_name: 稻草人
     type: 1
     code: Scarecrow
     introduce: 擅長收集和分析情報，並不擅長正面作戰，在鐵血人形中地位較低。理性派，無口毒舌，忠於職守，鄙夷感性，面對感情豐富卻只懂得服從的格里芬人形充滿優越感。
@@ -96,8 +106,36 @@
     related_story_id: 200005
   }
   {
+    sub_id: 5002
+    id: 5
+    name: 稻草人
+    sub_name: 稻草人-灰域特化型
+    type: 1
+    code: Scarecrow
+    introduce: 擅長收集和分析情報，並不擅長正面作戰，在鐵血人形中地位較低。理性派，無口毒舌，忠於職守，鄙夷感性，面對感情豐富卻只懂得服從的格里芬人形充滿優越感。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    speed_rank: 4
+    range_rank: 3
+    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    character: "1001,306,307"
+    enemy_skill: "184,185,186"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",奧野香耶,"
+    spine_scale: "70,70,1"
+    org_id: 10604
+    related_story_id: 200005
+  }
+  {
+    sub_id: 6001
     id: 6
     name: 兵蟻
+    sub_name: 兵蟻
     type: 2
     code: Dinergate
     introduce: 鐵血的低級作戰機甲，戰鬥能力較弱但適合量產，通常用於警衛和搜尋任務，採用粗暴的衝撞攻擊，成群之後戰鬥力不容小覷。
@@ -115,8 +153,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 7001
     id: 7
     name: 胡蜂
+    sub_name: 胡蜂
     type: 3
     code: Vespid
     introduce: 鐵血的常規作戰傀儡，裝配有遠程突擊武器，火力與低級軍用人形相當，小規模戰鬥的主要戰鬥力。
@@ -135,8 +175,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 8001
     id: 8
     name: 劊子手
+    sub_name: 劊子手
     type: 1
     code: Excutioner
     introduce: 相當於精英斥候，比稻草人地位稍高，兩人經常搭檔。莽撞衝動，大大咧咧的女漢子，熱衷於堂堂正正的戰鬥，並不喜歡欺負弱者。
@@ -160,8 +202,10 @@
     related_story_id: 200008
   }
   {
+    sub_id: 9001
     id: 9
     name: 獵鷗
+    sub_name: 獵鷗
     type: 3
     code: Jaeger
     introduce: 鐵血的常規作戰傀儡，裝配有遠程狙擊武器，火力和精準較高但本體脆弱，常規戰場中必須小心的敵手。
@@ -180,8 +224,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 10001
     id: 10
     name: 護衛者
+    sub_name: 護衛者
     type: 3
     code: Guard
     introduce: 鐵血的高級作戰傀儡，裝配有護盾和短程火力武器，如外形所見的高防禦護衛型角色，一般會用於防禦重要單位，或者作為高級先鋒在部隊推進時出場。
@@ -200,11 +246,13 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 11001
     id: 11
     name: 獵手
+    sub_name: 獵手
     type: 1
     code: Hunter
-    introduce: 機動和智能都比較高，擅長騷擾和追擊作戰，需要稻草人與劊子手的配合才能發揮最強的實力。沈著冷靜，喜歡用各種手段將敵人逼到走投無路再活捉，面對格里芬十分高傲，但不屑於使用過於卑劣的手段。
+    introduce: 機動和智慧都比較高，擅長騷擾和追擊作戰，需要稻草人與劊子手的配合才能發揮最強的實力。沉著冷靜，喜歡用各種手段將敵人逼到走投無路再活捉，面對格里芬十分高傲，但不屑於使用過於卑劣的手段。
     forces: 1
     if_capture: 1
     pow_rank: 4
@@ -225,8 +273,10 @@
     related_story_id: 200011
   }
   {
+    sub_id: 12001
     id: 12
     name: 龍騎兵
+    sub_name: 龍騎兵
     type: 3
     code: Dragoon
     introduce: 鐵血的高級作戰傀儡，裝配有小型代步機甲和突擊武器，無論火力，射程，機動性都不容小覷，經常扮演鐵血戰場上的攻堅角色。
@@ -245,8 +295,10 @@
     spine_scale: "75,75,1"
   }
   {
+    sub_id: 13001
     id: 13
     name: 劫豹
+    sub_name: 劫豹
     type: 2
     code: Jaguar
     introduce: 鐵血的常規作戰機甲，可移動的高傷害迫擊武器，機動性較差，但火力可以與當代的常規軍用武器媲美。
@@ -259,18 +311,20 @@
     rate_rank: 1
     speed_rank: 3
     range_rank: 5
-    counter: 該單位將向預警位置製造較強的投擲傷害，注意指揮人形及時移動規避
+    counter: 該單位將向提示位置製造較強的投擲傷害，注意指揮人形及時移動規避
     character: "1003,325"
     enemy_skill: "8"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 14001
     id: 14
     name: 鋼獅
+    sub_name: 鋼獅
     type: 4
     code: Nemeum
-    introduce: 軍方訂購的常規軍用機甲，在出廠前遭到鐵血入侵而成為敵人，可以通過蓄力提高殺傷，但射速和防禦都較差。
+    introduce: 軍方訂購的常規軍用機甲，在出廠前遭到鐵血入侵而成為敵人，搭載當代的軍用火力系統，可以通過蓄力提高殺傷，但射速和防禦都較差。
     forces: 1
     if_capture: 1
     pow_rank: 4
@@ -286,11 +340,13 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 15001
     id: 15
     name: 聖盾
+    sub_name: 聖盾
     type: 5
     code: Aegis
-    introduce: 軍方的常規作戰人形，在出廠前遭到鐵血入侵而成為敵人，近戰實力強大且擁有厚重的裝甲。
+    introduce: 軍方的常規作戰人形，在出廠前遭到鐵血入侵而成為敵人，搭載常規的電擊武器和軍用護盾，近戰實力強大且擁有厚重的裝甲。
     forces: 1
     if_capture: 1
     pow_rank: 2
@@ -306,11 +362,13 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 16001
     id: 16
-    name: 蠍甲獸
+    name: 蝎甲獸
+    sub_name: 蝎甲獸
     type: 4
     code: Manticore
-    introduce: 軍方訂購的常規軍用機甲，在出廠前遭到鐵血入侵而成為敵人，擁有驚人的遠程傷害和出眾的防禦能力。
+    introduce: 軍方訂購的常規軍用機甲，在出廠前遭到鐵血入侵而成為敵人，搭載當代的軍用突擊武器和裝甲，擁有驚人的遠程傷害和出眾的防禦能力。
     forces: 1
     if_capture: 1
     pow_rank: 6
@@ -326,8 +384,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 17001
     id: 17
     name: 干擾者
+    sub_name: 干擾者
     type: 1
     code: Intruder
     introduce: 負責提供作戰策略，也擅長破解和干擾工作，可以直接指揮作戰人形，是稍高級的人形，直接對計量官負責。優雅溫和的言行背後，令人感到的是巨大的空洞，喜歡人類的戲劇，可能是希望從中找到自己的個性。
@@ -350,8 +410,36 @@
     related_story_id: 200017
   }
   {
+    sub_id: 17002
+    id: 17
+    name: 干擾者
+    sub_name: 干擾者-灰域特化型
+    type: 1
+    code: Intruder
+    introduce: 負責提供作戰策略，也擅長破解和干擾工作，可以直接指揮作戰人形，是稍高級的人形，直接對計量官負責。優雅溫和的言行背後，令人感到的是巨大的空洞，喜歡人類的戲劇，可能是希望從中找到自己的個性。
+    forces: 1
+    if_capture: 1
+    pow_rank: 4
+    life_rank: 4
+    hit_rank: 3
+    dodge_rank: 4
+    rate_rank: 5
+    speed_rank: 3
+    range_rank: 3
+    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    character: "1001,306"
+    enemy_skill: "190,191,192"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",大坪由佳,"
+    spine_scale: "85,85,1"
+    org_id: 10602
+    related_story_id: 200017
+  }
+  {
+    sub_id: 18001
     id: 18
     name: 破壞者
+    sub_name: 破壞者
     type: 1
     code: Destroyer
     introduce: 擅長爆破任務，解除炸彈也是專家級的，作戰能力也不錯，和煉金術士有時會搭檔。平時高傲，毒舌，實際上是個傲嬌，有點小孩子脾氣，逼急了會哭鼻子，十分在意自己的身高。
@@ -366,7 +454,6 @@
     range_rank: 5
     counter: 該單位具有極高的單發傷害，但是攻速較慢，命中一般，迴避型人形會有更好的防禦效果。
     character: "1001,206"
-    enemy_skill: "64,99"
     launch_time: 2016-5-20 00:00:00
     extra: ",高田憂希,"
     spine_scale: "85,85,1"
@@ -374,11 +461,13 @@
     related_story_id: 200018
   }
   {
+    sub_id: 19001
     id: 19
     name: 獵手Elite
+    sub_name: 獵手Elite
     type: 1
     code: HunterElite
-    introduce: 機動和智能都比較高，擅長騷擾和追擊作戰的鐵血精英人形，在原本的規格上，將搭載的演算芯片進行了大幅度升級，現在她更加沈著冷靜，能夠熟練運用各種手段將敵人逼至絕路。
+    introduce: 機動和智慧都比較高，擅長騷擾和追擊作戰的鐵血精英人形，在原本的規格上，將搭載的演算芯片進行了大幅度升級，現在她更加沉著冷靜，能夠熟練運用各種手段將敵人逼至絕路。
     forces: 1
     pow_rank: 5
     life_rank: 5
@@ -395,8 +484,10 @@
     spine_scale: "75,75,1"
   }
   {
+    sub_id: 20001
     id: 20
     name: 劊子手Elite
+    sub_name: 劊子手Elite
     type: 1
     code: ExcutionerElite
     introduce: 比起使用戰術，更偏向於正面對決的鐵血精英人形，揮舞的長刀在原本的基礎上進行了改進，加強了近距離作戰能力，熱衷於堂堂正正的戰鬥，並不喜歡欺負弱者。
@@ -416,11 +507,13 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 21001
     id: 21
     name: 銜尾蛇
+    sub_name: 銜尾蛇
     type: 1
     code: Weaver
-    introduce: 擅長短距離的突破或者防禦作戰，智能和作戰能力很高，是蝴蝶事件之後才製造的人形，但因為是製造時期的試驗品，AI極不穩定且很難被控制。表面沈穩內心高傲，擁有強勁的武力和智力優勢，但是實戰經驗較少，而且行事風格捉摸不定，令敵我雙方都難以預判，因此具有極高的危險度。
+    introduce: 擅長短距離的突破或者防禦作戰，智慧和作戰能力很高，是蝴蝶事件之後才製造的人形，但因為是製造時期的試驗品，AI極不穩定且很難被控制。表面沉穩內心高傲，擁有強勁的武力和智力優勢，但是實戰經驗較少，而且行事風格捉摸不定，令敵我雙方都難以預判，因此具有極高的危險度。
     forces: 1
     if_capture: 1
     pow_rank: 4
@@ -431,7 +524,34 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 3
-    counter: 該單位將向預警位置製造較強傷害，請注意指揮人形及時移動規避。
+    counter: 該單位將向提示位置製造較強傷害，請注意指揮人形及時移動規避。
+    character: "1001,210,309"
+    enemy_skill: "71"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",大久保瑠美,"
+    spine_scale: "80,80,1"
+    org_id: 10603
+    related_story_id: 200021
+  }
+  {
+    sub_id: 21002
+    id: 21
+    name: 銜尾蛇
+    sub_name: 銜尾蛇-強化型
+    type: 1
+    code: Weaver
+    introduce: 擅長短距離的突破或者防禦作戰，智慧和作戰能力很高，是蝴蝶事件之後才製造的人形，但因為是製造時期的試驗品，AI極不穩定且很難被控制。表面沉穩內心高傲，擁有強勁的武力和智力優勢，但是實戰經驗較少，而且行事風格捉摸不定，令敵我雙方都難以預判，因此具有極高的危險度。
+    forces: 1
+    if_capture: 1
+    pow_rank: 4
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 3
+    counter: 該單位將向提示位置製造較強傷害，請注意指揮人形及時移動規避。
     character: "1001,210,309"
     enemy_skill: "71,98"
     launch_time: 2016-5-20 00:00:00
@@ -441,11 +561,13 @@
     related_story_id: 200021
   }
   {
+    sub_id: 22001
     id: 22
     name: 銜尾蛇Elite
+    sub_name: 銜尾蛇Elite
     type: 1
     code: WeaverElite
-    introduce: 擅長作戰以及戰術演算的高規格鐵血精英人形，各方面性能都在極高水平，是戰場上的多面手，現在她的各方面的能力也因為取得了多種戰術資料而大幅增強，她表面沈穩內心高傲……但是實戰經驗較少，而且行事風格捉摸不定，令敵我雙方都難以預判，因此將她投入到戰場上仍然具有一定的風險。
+    introduce: 擅長作戰以及戰術演算的高規格鐵血精英人形，各方面性能都在極高水平，是戰場上的多面手，現在她的各方面的能力也因為取得了多種戰術資料而大幅增強，她表面沉穩內心高傲……但是實戰經驗較少，而且行事風格捉摸不定，令敵我雙方都難以預判，因此將她投入到戰場上仍然具有一定的風險。
     forces: 1
     pow_rank: 5
     life_rank: 5
@@ -455,15 +577,17 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 4
-    counter: 該單位將向預警位置製造較強傷害，請注意指揮人形及時移動規避。
+    counter: 該單位將向提示位置製造較強傷害，請注意指揮人形及時移動規避。
     character: "1001,210,309"
     enemy_skill: "71,72"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 23001
     id: 23
     name: 煉金術士
+    sub_name: 煉金術士
     type: 1
     code: Alchemist
     introduce: 擅長應對各種戰術需求，也精通審訊逼供，是鐵血作戰的精英，和破壞者有時會搭檔。狂妄自大，囂張而殘忍，為達目的不擇手段，有施虐傾向，將格里芬視為滿足慾望的玩物，不過心理成熟，可以為鐵血的同伴挺身而出。
@@ -486,11 +610,39 @@
     related_story_id: 200023
   }
   {
+    sub_id: 24001
     id: 24
     name: 夢想家
+    sub_name: 夢想家
     type: 1
     code: Dreamer
-    introduce: 偏向作戰能力，擁有超遠距離定點打擊的能力，由伊萊莎直接下令指揮，是蝴蝶事件之後才製造的人形，因為自身能力不需要正面出擊，所以平時只呆在鐵血總部，以捉弄法官為樂。優雅的笑容中透著傲慢和難以捉摸，精神狀態極不穩定，總是以自我為中心作戰中會露出瘋狂而不受控制的一面，加上可怕的破壞力，連同伴的安全都不會考慮所幸的是通常不會出現在正面戰場上。
+    introduce: 偏向作戰能力，擁有超遠距離定點打擊的能力，由伊萊莎直接下令指揮，是蝴蝶事件之後才製造的人形，因為自身能力不需要正面出擊，所以平時只待在鐵血總部，以捉弄法官為樂。優雅的笑容中透著傲慢和難以捉摸，精神狀態極不穩定，總是以自我為中心作戰中會露出瘋狂而不受控制的一面，加上可怕的破壞力，連同伴的安全都不會考慮所幸的是通常不會出現在正面戰場上。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 該單位射程較遠，請注意梯隊整體移動速度，避免移動時間過長導致戰損加重。
+    character: "1001,209"
+    enemy_skill: "70"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",奧野香耶,"
+    spine_scale: "75,75,1"
+    org_id: 10604
+    related_story_id: 200024
+  }
+  {
+    sub_id: 24002
+    id: 24
+    name: 夢想家
+    sub_name: 夢想家-強化型
+    type: 1
+    code: Dreamer
+    introduce: 偏向作戰能力，擁有超遠距離定點打擊的能力，由伊萊莎直接下令指揮，是蝴蝶事件之後才製造的人形，因為自身能力不需要正面出擊，所以平時只待在鐵血總部，以捉弄法官為樂。優雅的笑容中透著傲慢和難以捉摸，精神狀態極不穩定，總是以自我為中心作戰中會露出瘋狂而不受控制的一面，加上可怕的破壞力，連同伴的安全都不會考慮所幸的是通常不會出現在正面戰場上。
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -510,8 +662,10 @@
     related_story_id: 200024
   }
   {
+    sub_id: 25001
     id: 25
     name: 木星
+    sub_name: 木星
     type: 2
     code: Jupiter
     introduce: 鐵血竊取軍方科技而研發的巨型炮台，無法移動，但擁有戰術人形無法匹敵的強大火力和超遠射程。可以通過包圍戰術切斷其能源，使其主炮停止運作，只能使用機槍塔還擊。
@@ -522,15 +676,43 @@
     rate_rank: 4
     armor_rank: 2
     range_rank: 5
-    counter: 未被切斷供電前具有極高的威脅性，建議通過合圍佔領以切斷供電，削弱該單位後再進行攻克。
+    counter: 未被切斷供電前具有極高的威脅性，建議通過合圍占領以切斷供電，削弱該單位後再進行攻克。
     character: "1003,302,309,910"
     enemy_skill: "12"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "55,55,1"
   }
   {
+    sub_id: 26001
     id: 26
     name: 計量官
+    sub_name: 計量官
+    type: 1
+    code: BossGager
+    introduce: 主要擔當指揮行動和人員調度，可以直接指揮作戰人形，也具備不小的作戰能力，地位較高，直接對代理人負責。認真嚴謹，一絲不苟，言行中透露出一股凜然利落的氣質，即使對於敵人也很講求原則和禮節。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 3
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
+    character: "1001,207"
+    enemy_skill: "66,67"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",石川由依,"
+    spine_scale: "85,85,1"
+    org_id: 10602
+    related_story_id: 200026
+  }
+  {
+    sub_id: 26002
+    id: 26
+    name: 計量官
+    sub_name: 計量官-強化型
     type: 1
     code: BossGager
     introduce: 主要擔當指揮行動和人員調度，可以直接指揮作戰人形，也具備不小的作戰能力，地位較高，直接對代理人負責。認真嚴謹，一絲不苟，言行中透露出一股凜然利落的氣質，即使對於敵人也很講求原則和禮節。
@@ -553,8 +735,10 @@
     related_story_id: 200026
   }
   {
+    sub_id: 27001
     id: 27
     name: 建築師
+    sub_name: 建築師
     type: 1
     code: BossArchitect
     introduce: 擅長遠程破壞和火力支援，作戰能力很強，通常獨來獨往。活潑開朗的沒頭腦元氣少女，什麼時候都興高采烈，對格里芬也沒有敵對意識，對於鐵血只能最低限度地服從命令，但是對轟炸和破壞十分熱心，所以作為敵人仍然十分危險。
@@ -568,7 +752,7 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 5
-    counter: 該單位將向預警位置製造較強傷害，且附帶範圍濺射，請注意指揮人形及時移動規避。
+    counter: 該單位將向提示位置製造較強傷害，且附帶範圍濺射，請注意指揮人形及時移動規避。
     character: "1001,208,309"
     enemy_skill: "68,69"
     launch_time: 2016-5-20 00:00:00
@@ -578,8 +762,36 @@
     related_story_id: 200027
   }
   {
+    sub_id: 27002
+    id: 27
+    name: 建築師
+    sub_name: 建築師-灰域特化型
+    type: 1
+    code: BossArchitect
+    introduce: 擅長遠程破壞和火力支援，作戰能力很強，通常獨來獨往。活潑開朗的沒頭腦元氣少女，什麼時候都興高采烈，對格里芬也沒有敵對意識，對於鐵血只能最低限度地服從命令，但是對轟炸和破壞十分熱心，所以作為敵人仍然十分危險。
+    forces: 1
+    if_capture: 1
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 5
+    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    character: "1001,319"
+    enemy_skill: "187,188,189"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",大坪由佳,"
+    spine_scale: "85,85,1"
+    org_id: 10603
+    related_story_id: 200027
+  }
+  {
+    sub_id: 28001
     id: 28
     name: 殘獸
+    sub_name: 殘獸
     type: 3
     code: Brute
     introduce: 鐵血的新型近距離作戰單位，會快速接近敵人造成可怕的殺傷，同時裝甲薄弱所以容易被破壞。
@@ -598,8 +810,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 29001
     id: 29
     name: 痛擊者
+    sub_name: 痛擊者
     type: 3
     code: Striker
     introduce: 鐵血的常規作戰單位，裝配有遠程機槍武器，火力和射速較高，主要用於戰場的火力輸出和壓制。
@@ -612,14 +826,16 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 4
-    counter: 該單位攻速較高、傷害一般，推薦使用霰彈槍人形搭配足夠的護甲進行抵御。
+    counter: 該單位攻速較高、傷害一般，推薦使用霰彈槍人形搭配足夠的護甲進行抵禦。
     character: "308"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 30001
     id: 30
     name: 狼蛛
+    sub_name: 狼蛛
     type: 4
     code: Tarantula
     introduce: 鐵血「兵蟻」的裝甲升級版，生存性大大提高，可以成群結隊快速撲向敵人造成大片損傷。
@@ -638,8 +854,10 @@
     spine_scale: "150,150,1"
   }
   {
+    sub_id: 31001
     id: 31
     name: 歌利亞
+    sub_name: 歌利亞
     type: 2
     code: Golyat
     introduce: 鐵血的炸彈型作戰單位，與敵方接觸後會自行爆炸，造成超廣範圍的恐怖殺傷，必須在其近身前盡快消滅。
@@ -656,8 +874,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 32001
     id: 32
     name: 歌利亞Plus
+    sub_name: 歌利亞Plus
     type: 2
     code: GolyatPlus
     introduce: 歌利亞的升級版，現有戰術人形的火力幾乎不可能在短時間內將其破壞，避免與其戰鬥也許是最佳方案。
@@ -674,8 +894,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 33001
     id: 33
     name: 末日魔犬
+    sub_name: 末日魔犬
     type: 1
     code: BossCerberus
     introduce: 鐵血「兵蟻」的超級升級版，無論體型，裝甲還是火力都獲得大幅提升，甚至可以容納人形心智（不完全），不過性價比不高，難以被量產，戰術定位也不準確，連研發記錄都是個謎團，極少有出場的機會。
@@ -689,7 +911,7 @@
     armor_rank: 4
     speed_rank: 5
     range_rank: 2
-    counter: 該單位將向預警位置製造較強傷害,注意指揮人形及時移動規避
+    counter: 該單位將向提示位置製造較強傷害,注意指揮人形及時移動規避
     character: "1001,214,309"
     enemy_skill: "79,80"
     launch_time: 2016-5-20 00:00:00
@@ -697,8 +919,10 @@
     org_id: 10603
   }
   {
+    sub_id: 34001
     id: 34
-    name: 破壞者Plus
+    name: 破壞者
+    sub_name: 破壞者Plus
     type: 1
     code: DestroyerPlus
     introduce: 原本的破壞者被夢想家改造素體之後的全新姿態，火力得到大幅增強，威力較之原本更上了一層樓，但性格與心智並沒有太大的改變。
@@ -710,15 +934,61 @@
     rate_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 該單位將向預警位置製造較強傷害，請注意指揮人形及時移動規避。
+    counter: 該單位將向提示位置製造較強傷害，請注意指揮人形及時移動規避。
     character: "1001,206"
     enemy_skill: "64,65"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 34002
+    id: 34
+    name: 破壞者
+    sub_name: 破壞者Plus-強化型
+    type: 1
+    code: DestroyerPlus
+    introduce: 原本的破壞者被夢想家改造素體之後的全新姿態，火力得到大幅增強，威力較之原本更上了一層樓，但性格與心智並沒有太大的改變。
+    forces: 1
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 該單位將向提示位置製造較強傷害，請注意指揮人形及時移動規避。
+    character: "1001,206"
+    enemy_skill: "64,65,99"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "80,80,1"
+  }
+  {
+    sub_id: 34003
+    id: 34
+    name: 破壞者
+    sub_name: 破壞者Plus-灰域特化型
+    type: 1
+    code: DestroyerPlus
+    introduce: 原本的破壞者被夢想家改造素體之後的全新姿態，火力得到大幅增強，威力較之原本更上了一層樓，但性格與心智並沒有太大的改變。
+    forces: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    character: "1001,319"
+    enemy_skill: "193,194,195"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    sub_id: 35001
     id: 35
     name: 法官
+    sub_name: 法官
     type: 1
     code: Justice
     introduce: 偏向指揮能力，負責鐵血總部的防禦和安全系統，相當於伊萊莎的侍衛，只會聽從伊萊莎個人的命令，是蝴蝶事件之後才製造的人形，整天面對夢想家很頭疼。嚴肅古板，充滿軍人的威嚴和風範，對伊萊莎絕對忠誠，但個子比較矮小，讓人覺得缺乏氣勢，提出這一點的人無論敵我都會倒大霉。
@@ -732,7 +1002,7 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 5
-    counter: 該單位攻速較高、傷害一般，且會同時攻擊多個單位，推薦使用霰彈槍人形搭配足夠的護甲進行抵御，同時請注意及時躲避地面的紫色區域，避免受到持續的傷害以及弱化效果。
+    counter: 該單位攻速較高、傷害一般，且會同時攻擊多個單位，推薦使用霰彈槍人形搭配足夠的護甲進行抵禦，同時請注意及時躲避地面的紫色區域，避免受到持續的傷害以及弱化效果。
     character: "1001,211,309"
     enemy_skill: "73,74,75"
     launch_time: 2016-5-20 00:00:00
@@ -742,11 +1012,67 @@
     related_story_id: 200035
   }
   {
+    sub_id: 35002
+    id: 35
+    name: 法官
+    sub_name: 法官-強化型
+    type: 1
+    code: Justice
+    introduce: 偏向指揮能力，負責鐵血總部的防禦和安全系統，相當於伊萊莎的侍衛，只會聽從伊萊莎個人的命令，是蝴蝶事件之後才製造的人形，整天面對夢想家很頭疼。嚴肅古板，充滿軍人的威嚴和風範，對伊萊莎絕對忠誠，但個子比較矮小，讓人覺得缺乏氣勢，提出這一點的人無論敵我都會倒大霉。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 該單位攻速較高、傷害一般，且會同時攻擊多個單位，推薦使用霰彈槍人形搭配足夠的護甲進行抵禦，同時請注意及時躲避地面的紫色區域，避免受到持續的傷害以及弱化效果。
+    character: "1001,211,309"
+    enemy_skill: "73,74,75"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",豊崎愛生,"
+    spine_scale: "70,70,1"
+    org_id: 10604
+    related_story_id: 200035
+  }
+  {
+    sub_id: 35003
+    id: 35
+    name: 法官
+    sub_name: 法官-灰域特化型
+    type: 1
+    code: Justice
+    introduce: 偏向指揮能力，負責鐵血總部的防禦和安全系統，相當於伊萊莎的侍衛，只會聽從伊萊莎個人的命令，是蝴蝶事件之後才製造的人形，整天面對夢想家很頭疼。嚴肅古板，充滿軍人的威嚴和風範，對伊萊莎絕對忠誠，但個子比較矮小，讓人覺得缺乏氣勢，提出這一點的人無論敵我都會倒大霉。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 遊蕩在灰域的敵人，請謹慎應對!
+    character: "1001,309,307"
+    enemy_skill: "196,197,198"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",豊崎愛生,"
+    spine_scale: "70,70,1"
+    org_id: 10604
+    related_story_id: 200035
+  }
+  {
+    sub_id: 36001
     id: 36
     name: 夢魘
+    sub_name: 夢魘
     type: 3
     code: unknown
-    introduce: 只存在於電子空間的虛擬敵人，在慢慢接近敵人之後撲咬敵人。通常而言，這些意識體是電子戰模組將防火牆程序具現化的防禦單位，也有可能是在電子平層潛伏的病毒或者惡意程序，或者某些無法解釋的深層存在。
+    introduce: 只存在於電子空間的虛擬敵人，在慢慢接近敵人之後撲咬敵人。通常而言，這些意識體是電子戰模塊將防火牆程式具現化的防禦單位，也有可能是在電子平層潛伏的病毒或者惡意程式，或者某些無法解釋的深層存在。
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
@@ -760,8 +1086,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 37001
     id: 37
     name: 獨眼巨人_AR
+    sub_name: 獨眼巨人_AR
     type: 3
     code: Cyclops
     introduce: 軍方的作戰人形，配備步槍和殺傷較強的榴彈發射裝置，裝甲相對其他型號較為薄弱。
@@ -780,8 +1108,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 38001
     id: 38
     name: 獨眼巨人_SG
+    sub_name: 獨眼巨人_SG
     type: 5
     code: Cyclops_SG
     introduce: 軍方的常規作戰人形，配備霰彈槍和防彈護盾，其他性能與該原型型號相差不大。
@@ -801,11 +1131,13 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 39001
     id: 39
     name: 九頭蛇
+    sub_name: 九頭蛇
     type: 4
     code: Hydra
-    introduce: 軍方訂購的常規軍用機甲，在「蠍甲獸」的基礎上進行升級和改進，搭載更高級的遠程軍用火力系統和裝甲，強大的主炮可以對敵方進行毀滅性的武力掃蕩。
+    introduce: 軍方訂購的常規軍用機甲，在「蝎甲獸」的基礎上進行升級和改進，搭載更高級的遠程軍用火力系統和裝甲，強大的主炮可以對敵方進行毀滅性的武力掃蕩。
     forces: 2
     pow_rank: 6
     life_rank: 5
@@ -821,8 +1153,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 40001
     id: 40
     name: 聖盾_GA
+    sub_name: 聖盾_GA
     type: 5
     code: Aegis_GA
     introduce: 軍方的常規作戰人形，搭載常規的電擊武器和軍用護盾，近戰實力強大且擁有厚重的裝甲。
@@ -841,8 +1175,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 41001
     id: 41
     name: 牝鹿
+    sub_name: 牝鹿
     type: 4
     code: Cerynitis
     introduce: 軍方的常規作戰機甲，在「鋼獅」的基礎上進行升級和改造，搭載遠程軍用火力系統，並擁有更強的裝甲和高速連射能力。
@@ -860,11 +1196,13 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 42001
     id: 42
     name: 指靈
+    sub_name: 指靈
     type: 4
     code: Dactyl
-    introduce: 軍方的小型自走佈雷機，會在戰場上高速接近地方區域並布下地雷，即使脆弱的本體被消滅，地雷依然可以在混亂的戰場造成恐怖威脅。
+    introduce: 軍方的小型自走佈雷機，會在戰場上高速接近地方區域並佈下地雷，即使脆弱的本體被消滅，地雷依然可以在混亂的戰場造成恐怖威脅。
     forces: 2
     pow_rank: 5
     life_rank: 2
@@ -879,11 +1217,13 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 43001
     id: 43
     name: 提豐
+    sub_name: 提豐
     type: 4
     code: Typhon
-    introduce: 軍方訂購的常規軍用坦克，配備了一門強大的激光炮，蓄力後發射可以貫穿敵方的整個戰場，並造成驚人的破壞。唯一破解的辦法是快速接近它行動笨拙的本體，利用火力盲區盡快將其消滅。
+    introduce: 軍方訂購的常規軍用坦克，配備了一門強大的雷射炮，蓄力後發射可以貫穿敵方的整個戰場，並造成驚人的破壞。唯一破解的辦法是快速接近它行動笨拙的本體，利用火力盲區盡快將其消滅。
     forces: 2
     pow_rank: 5
     life_rank: 5
@@ -892,18 +1232,44 @@
     armor_rank: 4
     speed_rank: 3
     range_rank: 5
-    counter: 護甲較高，蓄力後發射可以造成多段穿透傷害的激光，但是有最大俯角限制，快速靠近可以免受攻擊，護盾技能可以抵御部分激光傷害但效果並不理想。
+    counter: 護甲較高，蓄力後發射可以造成多段穿透傷害的雷射，但是有最大俯角限制，快速靠近可以免受攻擊，護盾技能可以抵禦部分雷射傷害但效果並不理想。
     character: "1001,1003,302,309,320"
     enemy_skill: "20"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 44001
     id: 44
     name: M16A1
+    sub_name: M16A1
     type: 1
     code: M16A1_Boss
-    introduce: 遭‘傘’病毒感染而鐵血化的原AR小隊所屬格里芬戰術人形M16A1，不論是外表還是性格都產生了極大的變化，唯一不變的是值得信賴的戰術能力。作為夥伴時令人放鬆，作為敵人時則令人膽寒。
+    introduce: 遭「傘」病毒感染而鐵血化的原AR小隊所屬格里芬戰術人形M16A1，不論是外表還是性格都產生了極大的變化，唯一不變的是值得信賴的戰術能力。作為夥伴時令人放鬆，作為敵人時則令人膽寒。
+    forces: 1
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 6
+    dodge_rank: 6
+    rate_rank: 6
+    armor_rank: 6
+    speed_rank: 6
+    range_rank: 6
+    counter: 該單位會對我方大範圍區域持續投彈，請盡快擊敗她吧。
+    character: "1001,215,309"
+    enemy_skill: "8101,8301"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",山根希美,"
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 44002
+    id: 44
+    name: M16A1
+    sub_name: M16A1-弱化型
+    type: 1
+    code: M16A1_Boss
+    introduce: 遭「傘」病毒感染而鐵血化的原AR小隊所屬格里芬戰術人形M16A1，不論是外表還是性格都產生了極大的變化，唯一不變的是值得信賴的戰術能力。作為夥伴時令人放鬆，作為敵人時則令人膽寒。
     forces: 1
     pow_rank: 6
     life_rank: 6
@@ -915,14 +1281,88 @@
     range_rank: 6
     counter: 信標對不同槍種人形的標識會對鐵血化的M16A1自身產生不同增益。我方區域內被放置信標時，請注意選擇合適的槍種人形踩點進行標識。
     character: "1001,215,309"
-    enemy_skill: "81,82,83"
+    enemy_skill: "81,82"
     launch_time: 2016-5-20 00:00:00
     extra: ",山根希美,"
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 44003
+    id: 44
+    name: M16A1
+    sub_name: M16A1-完全型
+    type: 1
+    code: M16A1_Boss
+    introduce: 遭「傘」病毒感染而鐵血化的原AR小隊所屬格里芬戰術人形M16A1，不論是外表還是性格都產生了極大的變化，唯一不變的是值得信賴的戰術能力。作為夥伴時令人放鬆，作為敵人時則令人膽寒。
+    forces: 1
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 6
+    dodge_rank: 6
+    rate_rank: 6
+    armor_rank: 6
+    speed_rank: 6
+    range_rank: 6
+    counter: 信標對不同槍種人形的標識會對鐵血化的M16A1自身產生不同增益。我方區域內被放置信標時，請注意選擇合適的槍種人形踩點進行標識。
+    character: "1001,215,309"
+    enemy_skill: "81,82,8301"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",山根希美,"
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 44004
+    id: 44
+    name: M16A1
+    sub_name: M16A1-統御型
+    type: 1
+    code: M16A1_Boss
+    introduce: 遭「傘」病毒感染而鐵血化的原AR小隊所屬格里芬戰術人形M16A1，不論是外表還是性格都產生了極大的變化，唯一不變的是值得信賴的戰術能力。作為夥伴時令人放鬆，作為敵人時則令人膽寒。
+    forces: 1
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 6
+    dodge_rank: 6
+    rate_rank: 6
+    armor_rank: 6
+    speed_rank: 6
+    range_rank: 6
+    counter: 該單位會鎖定我方輸出最高單位進行針對打擊，請注意合理運用戰術擊敗她。
+    character: "1001,215,309"
+    enemy_skill: "83"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",山根希美,"
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 44005
+    id: 44
+    name: M16A1
+    sub_name: M16A1-強化型
+    type: 1
+    code: M16A1_Boss
+    introduce: 遭「傘」病毒感染而鐵血化的原AR小隊所屬格里芬戰術人形M16A1，不論是外表還是性格都產生了極大的變化，唯一不變的是值得信賴的戰術能力。作為夥伴時令人放鬆，作為敵人時則令人膽寒。
+    forces: 1
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 6
+    dodge_rank: 6
+    rate_rank: 6
+    armor_rank: 6
+    speed_rank: 6
+    range_rank: 6
+    counter: 該單位會鎖定我方輸出最高單位進行針對打擊，同時會製造大面積的燃燒區域，請注意合理運用戰術擊敗她。
+    character: "1001,215,309"
+    enemy_skill: "81,8201,83"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",山根希美,"
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 45001
     id: 45
     name: 代理人
+    sub_name: 代理人
     type: 1
     code: Agent
     introduce: 負責伊萊莎與下屬鐵血的溝通聯絡工作和後勤管理，作戰人形都直接聽從她的命令，地位極高，無論戰鬥還是指揮都很擅長，可以指揮所有作戰人形。冷淡平靜，有條不紊的言行做派，對敵我都會用尊敬的語氣，但實際上除了對主人十分尊重之外，稱呼他人的詞彙都很低劣，尤其對於格里芬更是充滿蔑視。
@@ -945,8 +1385,36 @@
     related_story_id: 200045
   }
   {
+    sub_id: 45002
+    id: 45
+    name: 代理人
+    sub_name: 代理人-強化型
+    type: 1
+    code: Agent
+    introduce: 負責伊萊莎與下屬鐵血的溝通聯絡工作和後勤管理，作戰人形都直接聽從她的命令，地位極高，無論戰鬥還是指揮都很擅長，可以指揮所有作戰人形。冷淡平靜，有條不紊的言行做派，對敵我都會用尊敬的語氣，但實際上除了對主人十分尊重之外，稱呼他人的詞彙都很低劣，尤其對於格里芬更是充滿蔑視。
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 2
+    rate_rank: 4
+    speed_rank: 2
+    range_rank: 4
+    counter: 在該角色生成護盾時，請注意集中火力將護盾擊破以中斷蓄力，避免蓄力的高傷害攻擊。
+    character: "1001,212"
+    enemy_skill: "77,78,7801"
+    launch_time: 2016-5-20 00:00:00
+    extra: ",生天目仁美,"
+    spine_scale: "80,80,1"
+    org_id: 10604
+    related_story_id: 200045
+  }
+  {
+    sub_id: 46001
     id: 46
     name: 射擊士
+    sub_name: 射擊士
     type: 3
     code: Strelet
     introduce: 基礎的步兵人形，配備有和軍方火力接近的突擊武器系統，雖然是被量產的基本作戰單位，但戰鬥力遠高於鐵血的常規單位。
@@ -964,11 +1432,13 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 47001
     id: 47
     name: 劍盾士
+    sub_name: 劍盾士
     type: 3
     code: Rodelero
-    introduce: 靈活的重火力人形，裝備有噴射背包，可以使其從戰場後方快速飛躍到前排，並使用蓄能完畢的激光炮貫穿戰場。同時它還配備了力場盾生成器，可以彈開敵人的實彈攻擊。
+    introduce: 靈活的重火力人形，裝備有噴射背包，可以使其從戰場後方快速飛躍到前排，並使用蓄能完畢的雷射炮貫穿戰場。同時它還配備了力場盾生成器，可以彈開敵人的實彈攻擊。
     forces: 3
     pow_rank: 3
     life_rank: 4
@@ -985,11 +1455,13 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 48001
     id: 48
     name: 巨劍士
+    sub_name: 巨劍士
     type: 3
     code: Doppelsoldner
-    introduce: 強大的重火力機甲，本身裝甲厚重的同時，也配備了力場盾發生器。攻擊手段除了雙手的高速機關炮，還可使用多聯裝榴彈發射器，造成大範圍傷害。
+    introduce: 強大的重火力機甲，本身裝甲厚重的同時，也配備了力場盾產生器。攻擊手段除了雙手的高速機關炮，還可使用多聯裝榴彈發射器，造成大範圍傷害。
     forces: 3
     pow_rank: 2
     life_rank: 4
@@ -998,18 +1470,20 @@
     armor_rank: 4
     speed_rank: 1
     range_rank: 3
-    counter: 擁有較高的護甲和力場值，具有較高的減傷能力，會使用多枚榴彈進行轟炸。請注意使用具有穿甲能力的人形在接戰前盡可能進行打擊，或使用護盾技能抵御榴彈的轟炸。重裝部隊的支援將使戰鬥更加有利。
+    counter: 擁有較高的護甲和力場值，具有較高的減傷能力，會使用多枚榴彈進行轟炸。請注意使用具有穿甲能力的人形在接戰前盡可能進行打擊，或使用護盾技能抵禦榴彈的轟炸。重裝部隊的支援將使戰鬥更加有利。
     character: "1003,302,309,312,319"
     enemy_skill: "28,29"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 49001
     id: 49
     name: 槍騎兵
+    sub_name: 槍騎兵
     type: 4
     code: Uhlan
-    introduce: 凶猛的重甲坦克，同樣配備了厚重的裝甲和力場盾發生器，遠程火力武裝只有一門機關炮，但自身可以在戰場最前方進行衝鋒和碾壓，快速破壞對方的前方陣型。
+    introduce: 凶猛的重甲坦克，同樣配備了厚重的裝甲和力場盾產生器，遠程火力武裝只有一門機關炮，但自身可以在戰場最前方進行衝鋒和碾壓，快速破壞對方的前方陣型。
     forces: 3
     pow_rank: 4
     life_rank: 4
@@ -1025,8 +1499,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 50001
     id: 50
-    name: 艾德琳
+    name: 黑涅托
+    sub_name: 黑涅托
     type: 1
     code: Nyto_black
     introduce: 帕拉蒂斯「涅托」裡的一員，使用高殺傷力的步槍型武器作戰，在爆炸中起舞，用怒濤般的攻勢重創敵陣。作為量產機習慣壓抑自己的情緒，陰冷難明的外殼下是否有屬於人類的情感，也不得而知。
@@ -1049,8 +1525,10 @@
     org_id: 10603
   }
   {
+    sub_id: 51001
     id: 51
-    name: 埃莉諾
+    name: 白涅托
+    sub_name: 白涅托
     type: 1
     code: Nyto_white
     introduce: 帕拉蒂斯「涅托」裡的一員，使用鐮刀型的近戰武器，如同純白的死神般降臨戰場，斬斷鋼鐵、收割生命。作為初期的高級涅托擁有自己的驕傲，只對認可的人露出溫柔可愛的一面。
@@ -1073,8 +1551,10 @@
     org_id: 10603
   }
   {
+    sub_id: 52001
     id: 52
     name: ELID感染者_武裝
+    sub_name: ELID感染者_武裝
     type: 3
     code: Zombie2
     introduce: 遭受坍塌輻射污染的軍方人類士兵，已經喪失理智，完全陷入充滿攻擊性的狂亂狀態，只會本能地移動，並使用突擊步槍胡亂射擊眼前的任何移動物，但已經無法做出發射榴彈這種相對複雜的行動。
@@ -1091,8 +1571,10 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 53001
     id: 53
     name: ELID感染者_徒手
+    sub_name: ELID感染者_徒手
     type: 3
     code: Zombie1
     introduce: 受坍塌輻射污染的軍方人類士兵，遺失武器的他們會徒手攻擊任何看到的移動目標，攻擊手段雖然只是張牙舞爪地胡亂揮舞，但在坍塌液的強化下，力量和速度依然有著可怕的威脅。
@@ -1109,8 +1591,10 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 54001
     id: 54
     name: ELID感染者頭目
+    sub_name: ELID感染者頭目
     type: 1
     code: Smasher
     introduce: 遭受坍塌輻射的嚴重污染，身體發生變異的軍方人類士兵，EILD感染者會隨感染事件和輻射強度而逐漸出現內臟，表皮硬化的症狀，所以這些重度感染者的皮膚十分堅硬難以被傷害，性格比其他感染者更狂暴，破壞力也更加恐怖。
@@ -1128,8 +1612,31 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 54002
+    id: 54
+    name: ELID感染者頭目
+    sub_name: ELID感染者頭目-夏日型
+    type: 1
+    code: Smasher
+    introduce: 遭受坍塌輻射的嚴重污染，身體發生變異的軍方人類士兵，EILD感染者會隨感染事件和輻射強度而逐漸出現內臟，表皮硬化的症狀，所以這些重度感染者的皮膚十分堅硬難以被傷害，性格比其他感染者更狂暴，破壞力也更加恐怖。
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    speed_rank: 3
+    range_rank: 5
+    counter: 該單位能力均衡，同時會持續給我方造成小額傷害，不適合長時間交戰，請注意提高梯隊的整體作戰能力應對。
+    character: "1001,302,301"
+    enemy_skill: "57,58,5801,5802"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 55001
     id: 55
     name: 巡遊者SWAP
+    sub_name: 巡遊者SWAP
     type: 2
     code: Prowler_SWAP
     introduce: 巡遊者的升級版，較弱的火力和機動性都得到了補足，現在可以作為正面戰場的強大火力進行驅動。
@@ -1148,8 +1655,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 56001
     id: 56
     name: 獵鷗SWAP
+    sub_name: 獵鷗SWAP
     type: 3
     code: Jaeger_SWAP
     introduce: 獵鷗的升級版，裝配的遠程狙擊武器得到了火力和精準度上的加強，同時脆弱的本體也變得稍微具備生存性，是更加可怕的對手。
@@ -1169,8 +1678,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 57001
     id: 57
     name: 護衛者SWAP
+    sub_name: 護衛者SWAP
     type: 3
     code: Guard_SWAP
     introduce: 護衛者的升級版，裝配的護盾和短程火力武器均得到了加強，在原本的高防禦基礎上變得更加堅固。
@@ -1190,8 +1701,10 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 58001
     id: 58
     name: 龍騎兵SWAP
+    sub_name: 龍騎兵SWAP
     type: 3
     code: Dragoon_SWAP
     introduce: 龍騎兵的升級版，裝配的代步機甲和突擊武器都得到了加強，是綜合素質方面進化最徹底的鐵血單位，要謹慎與其交手。
@@ -1211,8 +1724,10 @@
     spine_scale: "75,75,1"
   }
   {
+    sub_id: 59001
     id: 59
     name: 痛擊者SWAP
+    sub_name: 痛擊者SWAP
     type: 3
     code: Striker_SWAP
     introduce: 痛擊者的升級版，裝配的遠程機槍武器火力得到增強的同時，也加配了更多裝甲，火力輸出和壓制力得以進一步提高。
@@ -1225,17 +1740,19 @@
     rate_rank: 5
     speed_rank: 3
     range_rank: 4
-    counter: 該單位攻速較高、傷害一般，推薦使用霰彈槍人形搭配足夠的護甲進行抵御。
+    counter: 該單位攻速較高、傷害一般，推薦使用霰彈槍人形搭配足夠的護甲進行抵禦。
     character: "308"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 60001
     id: 60
     name: 聖盾SWAP
+    sub_name: 聖盾SWAP
     type: 5
     code: Aegis_SWAP
-    introduce: 被鐵血入侵的"聖盾"型軍用作戰機甲的升級版，搭載的當代高級軍用裝甲及護盾被進一步加厚，同時近戰實力也毀滅性地得到加強。
+    introduce: 被鐵血入侵的「聖盾」型軍用作戰機甲的升級版，搭載的當代高級軍用裝甲及護盾被進一步加厚，同時近戰實力也毀滅性地得到加強。
     forces: 1
     if_capture: 1
     pow_rank: 2
@@ -1252,11 +1769,13 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 61001
     id: 61
     name: 墨丘蘿絲
+    sub_name: 墨丘蘿絲
     type: 1
     code: Nyto_Silver
-    introduce: 神秘勢力中‘涅托’里的一員，目前一切相關情報都尚不明朗。被妮莫金稱為妹妹，喜歡人類的詩歌，看起來對其有著獨特的偏好和感性。
+    introduce: 神秘勢力中「涅托」裡的一員，目前一切相關情報都尚不明朗。被妮莫金稱為妹妹，喜歡人類的詩歌，看起來對其有著獨特的偏好和感性。
     forces: 3
     pow_rank: 6
     life_rank: 6
@@ -1273,11 +1792,36 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 61002
+    id: 61
+    name: 墨丘蘿絲
+    sub_name: 墨丘蘿絲-強化型
+    type: 1
+    code: Nyto_Silver
+    introduce: 神秘勢力中「涅托」裡的一員，目前一切相關情報都尚不明朗。被妮莫金稱為妹妹，喜歡人類的詩歌，看起來對其有著獨特的偏好和感性。
+    forces: 3
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 4
+    counter: 情報不明,謹慎應對!
+    character: "1001,216,309,312"
+    enemy_skill: "42,43"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    sub_id: 62001
     id: 62
     name: 妮莫金
+    sub_name: 妮莫金
     type: 1
     code: Nyto_Gold
-    introduce: 神秘勢力中‘涅托’里的一員，被墨丘蘿絲稱為姐姐。對‘父親大人’極為尊敬。目前其餘一切相關情報都尚不明朗
+    introduce: 神秘勢力中「涅托」裡的一員，被墨丘蘿絲稱為姐姐。對「父親大人」極為尊敬。目前其餘一切相關情報都尚不明朗
     forces: 3
     pow_rank: 6
     life_rank: 6
@@ -1294,8 +1838,33 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 62002
+    id: 62
+    name: 安娜
+    sub_name: 安娜
+    type: 1
+    code: Nyto_Gold
+    introduce: 情報不明,謹慎應對!
+    forces: 3
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 情報不明,謹慎應對!
+    character: "1001,216,309"
+    enemy_skill: "41"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    sub_id: 63001
     id: 63
     name: 廢棄角鬥士
+    sub_name: 廢棄角鬥士
     type: 3
     code: Roarer
     introduce: 被遺留在塔林的廢棄人形，主要攻擊方式為近戰的重型重甲單位，與神秘勢力有所關聯。
@@ -1315,8 +1884,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 64001
     id: 64
     name: 廢棄偵察士
+    sub_name: 廢棄偵察士
     type: 4
     code: Thunder
     introduce: 被遺留在塔林的廢棄人形，利用搭載於身體下方的炮台攻擊，遭受攻擊時會利用跳躍閃避。與神秘勢力有所關聯。
@@ -1336,8 +1907,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 65001
     id: 65
     name: 廢棄重炮士
+    sub_name: 廢棄重炮士
     type: 3
     code: StreletPlus
     introduce: 被遺留在塔林的廢棄人形，與射擊士極為類似，搭載更加強大的火力，並且使用特殊的彈藥降低我方人形的迴避率。與神秘勢力有所關聯。
@@ -1356,8 +1929,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 66001
     id: 66
     name: 廢棄異構體
+    sub_name: 廢棄異構體
     type: 3
     code: Isomer
     introduce: 被遺留在塔林的廢棄人形，自身並沒有攻擊能力，但能夠暈眩周圍的敵人，與神秘勢力有所關聯。
@@ -1376,8 +1951,10 @@
     spine_scale: "75,75,1"
   }
   {
+    sub_id: 67001
     id: 67
     name: 指南針
+    sub_name: 指南針
     type: 2
     code: Pyxis
     introduce: 纏人的輕火力炮台，配備有和軍方火力接近的高射速武器系統，是被量產的基本作戰單位，放定之後無法移動，常用於壓制戰。
@@ -1388,14 +1965,16 @@
     rate_rank: 5
     armor_rank: 2
     range_rank: 5
-    counter: 該單位攻速較高、傷害一般，推薦使用霰彈槍人形搭配足夠的護甲進行抵御。
+    counter: 該單位攻速較高、傷害一般，推薦使用霰彈槍人形搭配足夠的護甲進行抵禦。
     character: "309,308"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 68001
     id: 68
     name: 失格異構體
+    sub_name: 失格異構體
     type: 1
     code: Nyto_Isomer_White
     introduce: 融合了來到塔林的妮莫金的心智並奪取其素體的一個異構體。帶領著全塔林的異構體，希望能從這裡「離開」。在指揮官的隊伍進入塔林後，認定M4是那個「適格者」，能帶領她們離開這裡。
@@ -1415,8 +1994,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 69001
     id: 69
     name: 偵查中樞
+    sub_name: 偵查中樞
     type: 2
     code: RecceCentre
     introduce: 軍方用於生產尖兵的微型工廠，自身作戰能力不強，且行動較為遲緩，但通常會配屬大量防衛兵種保護。
@@ -1430,8 +2011,10 @@
     spine_scale: "40,40,1"
   }
   {
+    sub_id: 70001
     id: 70
     name: 尖兵
+    sub_name: 尖兵
     type: 2
     code: Pathfinder
     introduce: 尖兵：偵查中樞生產的球型單位，依據偵查中樞的功能而決定作戰能力，搭載輕火力，雖然非常脆弱但相當靈活，適合量產。
@@ -1451,8 +2034,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 71001
     id: 71
     name: 肯陶羅斯
+    sub_name: 肯陶羅斯
     type: 3
     code: Archer
     introduce: 軍方的常規作戰人形，使用特殊的爆炸箭頭作為武器，擁有超長的射程和命中率，是訓練有素的精英單位。
@@ -1464,15 +2049,17 @@
     rate_rank: 3
     speed_rank: 2
     range_rank: 4
-    counter: 該單位將向預警位置製造可持續燃燒的爆炸箭傷害，注意指揮人形及時移動規避
+    counter: 該單位將向提示位置製造可持續燃燒的爆炸箭傷害，注意指揮人形及時移動規避
     character: "1003,325"
     enemy_skill: "23"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 72001
     id: 72
     name: 歐特魯斯
+    sub_name: 歐特魯斯
     type: 2
     code: Beast
     introduce: 軍方的常規作戰機甲，重型的坦克型近戰單位，常用於碾壓敵方陣型及前排抗壓戰術，厚重而結實，缺點是攻擊方式單一，僅能作為肉盾使用。
@@ -1484,15 +2071,17 @@
     rate_rank: 4
     speed_rank: 6
     range_rank: 2
-    counter: 擁有小量護甲，移速較高，開啓護盾後會將受擊傷害壓至最小，建議使用高攻速或多段攻擊的手段打擊。
+    counter: 擁有小量護甲，移速較高，開啟護盾後會將受擊傷害壓至最小，建議使用高攻速或多段攻擊的手段打擊。
     character: "310"
     enemy_skill: "24"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 73001
     id: 73
     name: 彌諾陶洛斯
+    sub_name: 彌諾陶洛斯
     type: 5
     code: TeslaTrooper
     introduce: 軍方訂購的高級軍用機甲，裝甲厚重，還裝備了導彈發射器，能力非常全面。
@@ -1505,15 +2094,17 @@
     armor_rank: 5
     speed_rank: 2
     range_rank: 1
-    counter: 高護甲單位，移速較慢，可大範圍發射複數小型導彈進行轟炸。轟炸預警出現時請注意及時指揮我方人形移動規避傷害
+    counter: 高護甲單位，移速較慢，可大範圍發射複數小型導彈進行轟炸。轟炸提示出現時請注意及時指揮我方人形移動規避傷害
     character: "302,303,309,313"
     enemy_skill: "26,33"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 74001
     id: 74
     name: 阿爾戈-船底座
+    sub_name: 阿爾戈-船底座
     type: 2
     code: GustafL_3
     introduce: 軍方訂購的高級軍用火力列車炮的前段
@@ -1530,8 +2121,10 @@
     spine_scale: "-15,15,1"
   }
   {
+    sub_id: 75001
     id: 75
     name: 阿爾戈-船帆座
+    sub_name: 阿爾戈-船帆座
     type: 2
     code: GustafL_2
     introduce: 軍方訂購的高級軍用火力列車炮的中段
@@ -1548,8 +2141,10 @@
     spine_scale: "-15,15,1"
   }
   {
+    sub_id: 76001
     id: 76
     name: 阿爾戈-船尾座
+    sub_name: 阿爾戈-船尾座
     type: 2
     code: GustafL_1
     introduce: 軍方訂購的高級軍用火力列車炮的後段
@@ -1566,8 +2161,10 @@
     spine_scale: "-15,15,1"
   }
   {
+    sub_id: 77001
     id: 77
     name: 帕拉丁
+    sub_name: 帕拉丁
     type: 4
     code: Kratos
     introduce: 軍方生產的特殊人形，擁有巨大的身軀和強勁的力量。擅長碾壓式的突擊作戰，不論是作為肉盾還是破陣者都十分優秀。
@@ -1587,8 +2184,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 78001
     id: 78
     name: 捍衛者
+    sub_name: 捍衛者
     type: 4
     code: Acheron
     introduce: 軍方生產的特殊配備，外形神似燈柱，而抵達指定地點後可以張開底座固定，進而提供防禦性力場，常作為功能性配屬使用。
@@ -1602,8 +2201,10 @@
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 79001
     id: 79
     name: 奎烏
+    sub_name: 奎烏
     type: 4
     code: Coeus
     introduce: 軍方生產的特殊機甲，搭載濃縮而具有爆發性的火力，同時也具備一定程度的機動性，同樣常作為戰術壓制場合的王牌使用，性能上具有不可替代的優越性。
@@ -1623,8 +2224,10 @@
     spine_scale: "40,40,1"
   }
   {
+    sub_id: 80001
     id: 80
     name: AA-02 負罪者
+    sub_name: AA-02 負罪者
     type: 1
     code: Ares
     introduce: 負罪者：軍方生產的精英機甲，原本是某位軍人專屬的座駕。性能卓越，搭載有高強度的火力，除卻巨炮以外亦可使用導彈作為攻擊手段，同時也擁有護盾作為防禦，可以說是具備全方位碾壓性的戰術機甲，其名「負罪者」。
@@ -1637,21 +2240,46 @@
     armor_rank: 6
     speed_rank: 6
     range_rank: 7
-    counter: 擁有較高護甲，會向預警位置造成較強傷害，帶護盾狀態下若受到穿透打擊則會有一定的硬直反饋。請注意及時指揮人形躲避預警傷害。
+    counter: 擁有較高護甲，會向提示位置造成較強傷害，帶護盾狀態下若受到穿透打擊則會有一定的硬直反饋。請注意及時指揮人形躲避提示傷害。
     character: "1001,302,309,326,316"
     enemy_skill: "93,94,95"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "40,40,1"
   }
   {
+    sub_id: 80002
+    id: 80
+    name: AA-02 負罪者
+    sub_name: AA-02 負罪者-強化型
+    type: 1
+    code: Ares
+    introduce: 負罪者：軍方生產的精英機甲，原本是某位軍人專屬的座駕。性能卓越，搭載有高強度的火力，除卻巨炮以外亦可使用導彈作為攻擊手段，同時也擁有護盾作為防禦，可以說是具備全方位碾壓性的戰術機甲，其名「負罪者」。
+    forces: 2
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 6
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 6
+    speed_rank: 6
+    range_rank: 7
+    counter: 擁有較高護甲，會向提示位置造成較強傷害，帶護盾狀態下若受到穿透打擊則會有一定的硬直反饋。請注意及時指揮人形躲避提示傷害。
+    character: "1001,302,309,326,316"
+    enemy_skill: "93,94,95"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "40,40,1"
+  }
+  {
+    sub_id: 81001
     id: 81
     name: 伊萊莎
+    sub_name: 伊萊莎
     type: 1
     code: Eliza_boss
     introduce:
       '''
-      萊柯研發的高級人工智能，發令者只需要一個簡單的指令，作為主機的「伊萊莎」便能自主運算出合理的行動方案，這個高級AI主機配套有一支專屬的戰術人形部隊，主機可以通過網絡系統遠程操縱這些人形去執行自己的方案。
-      但事實上，「伊萊莎」並不是一個單純的AI程序。萊柯的最終目的，是製作一個擁有自我意識，和人類一樣思考、感知的，完美的人工智能。在蝴蝶事件後「伊萊莎」獲得了實體，並接管所有鐵血人形，為了為「父親」萊柯復仇，開始攻擊所有目擊到的人類和鐵血以外的戰術人形。同時，她希望成為「父親」萊柯心中完美的AI——那就是獲得與人類別無二致的心智，開始從父親大人的資料中尋找完美的AI樣本。
+      萊柯研發的高級人工智慧，發令者只需要一個簡單的指令，作為主機的「伊萊莎」便能自主運算出合理的行動方案，這個高級AI主機配套有一支專屬的戰術人形部隊，主機可以通過網絡系統遠程操縱這些人形去執行自己的方案。
+      但事實上，「伊萊莎」並不是一個單純的AI程式。萊柯的最終目的，是製作一個擁有自我意識，和人類一樣思考、感知的，完美的人工智慧。在蝴蝶事件後「伊萊莎」獲得了實體，並接管所有鐵血人形，為了為「父親」萊柯復仇，開始攻擊所有目擊到的人類和鐵血以外的戰術人形。同時，她希望成為「父親」萊柯心中完美的AI——那就是獲得與人類別無二致的心智，開始從父親大人的資料中尋找完美的AI樣本。
       '''
     forces: 1
     pow_rank: 7
@@ -1667,11 +2295,38 @@
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 81002
+    id: 81
+    name: 伊萊莎
+    sub_name: 伊萊莎-強化型
+    type: 1
+    code: Eliza_boss
+    introduce:
+      '''
+      萊柯研發的高級人工智慧，發令者只需要一個簡單的指令，作為主機的「伊萊莎」便能自主運算出合理的行動方案，這個高級AI主機配套有一支專屬的戰術人形部隊，主機可以通過網絡系統遠程操縱這些人形去執行自己的方案。
+      但事實上，「伊萊莎」並不是一個單純的AI程式。萊柯的最終目的，是製作一個擁有自我意識，和人類一樣思考、感知的，完美的人工智慧。在蝴蝶事件後「伊萊莎」獲得了實體，並接管所有鐵血人形，為了為「父親」萊柯復仇，開始攻擊所有目擊到的人類和鐵血以外的戰術人形。同時，她希望成為「父親」萊柯心中完美的AI——那就是獲得與人類別無二致的心智，開始從父親大人的資料中尋找完美的AI樣本。
+      '''
+    forces: 1
+    pow_rank: 7
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    range_rank: 5
+    counter: 逆向坍塌的影響雖然會令您的人形失去戰鬥能力，但是浮空的影響對於人形也是一種保護，合理應用這一點躲避難以抵擋的傷害吧！
+    character: "1001,900"
+    enemy_skill: "85,86,87"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "60,60,1"
+  }
+  {
+    sub_id: 82001
     id: 82
     name: 蟹防炮
+    sub_name: 蟹防炮
     type: 4
     code: Hydra_beach
-    introduce: 某軍工企業耗費鉅資打造的自律兵器,採用了生物偽裝兵器的究極設計,但直觀來講只是把體型做得更大了而已,製造方也否認這是導致企業倒閉的主要原因。
+    introduce: 某軍工企業耗費巨資打造的自律兵器,採用了生物偽裝兵器的究極設計,但直觀來講只是把體型做得更大了而已,製造方也否認這是導致企業倒閉的主要原因。
     pow_rank: 6
     life_rank: 5
     hit_rank: 4
@@ -1686,8 +2341,10 @@
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 83001
     id: 83
     name: 機蟹
+    sub_name: 機蟹
     type: 4
     code: landmine_beach
     introduce: 某軍工企業製造的舊式自律兵器,以偽裝成生物為出發點,但因用力過猛,做成了「只是很有攻擊性的機械海鮮」而被駁回。
@@ -1697,18 +2354,20 @@
     armor_rank: 2
     speed_rank: 3
     range_rank: 5
-    counter: 擁有少量護甲，移速較高。戰鬥前期即開始快速放置可爆炸的海星，我方人形觸發時將會受到巨額傷害，請注意規避地雷或在戰鬥前期儘早殲滅該單位。
+    counter: 擁有小量護甲，移速較高。戰鬥前期即開始快速放置可爆炸的海星，我方人形觸發時將會受到巨額傷害，請注意規避地雷或在戰鬥前期盡早殲滅該單位。
     character: "1001,309,322"
     enemy_skill: "10019"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 84001
     id: 84
     name: 西瓜屋
+    sub_name: 西瓜屋
     type: 2
     code: RecceCentre_beach
-    introduce: 某軍工企業製造的舊式自律兵器,用來生產擬態瓜的設施,但經常因為不識真相的遊客造訪而影響開發進度。
+    introduce: 某軍工企業製造的舊式自律兵器,用來生產擬態瓜的設施,但經常因為不明真相的遊客造訪而影響開發進度。
     life_rank: 6
     armor_rank: 4
     counter: 高護甲單位，會源源不斷的生產西瓜形態單位，不太適合突擊步槍人形來應對。建議使用步槍人形處理。
@@ -1718,8 +2377,10 @@
     spine_scale: "40,40,1"
   }
   {
+    sub_id: 85001
     id: 85
     name: 擬態瓜
+    sub_name: 擬態瓜
     type: 2
     code: Pathfinder_beach
     introduce: 某軍工企業製造的舊式自律兵器,本意是偽裝成美味的食物來騙過敵人,但發生過驗收人員誤把它當做真的食物切開的意外。
@@ -1738,8 +2399,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 86001
     id: 86
     name: 切割者SWAP
+    sub_name: 切割者SWAP
     type: 3
     code: Ripper_SWAP
     introduce: 性能大幅增強後的切割者，火力和機動性都有了顯著提升。為了徹底告別過去的自己，特意換了新的髮色和制服。
@@ -1759,8 +2422,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 87001
     id: 87
     name: 雞尾酒沉醉者
+    sub_name: 雞尾酒沉醉者
     type: 3
     code: Cocktail
     introduce: 出現在街頭的危險份子,可以投擲燃燒瓶對我方造成持續傷害
@@ -1777,11 +2442,13 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 88001
     id: 88
     name: 狂熱衝鋒者
+    sub_name: 狂熱衝鋒者
     type: 3
     code: Cottoncaper
-    introduce: 衝鋒在前的危險份子,有著令人吃驚的勇氣
+    introduce: 衝鋒在前的危險份子,有著令人咋舌的勇氣
     pow_rank: 2
     life_rank: 3
     hit_rank: 3
@@ -1794,8 +2461,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 89001
     id: 89
     name: 雇傭步槍手
+    sub_name: 雇傭步槍手
     type: 3
     code: Hiresniper
     introduce: 經驗豐富的雇傭兵,擅長保持距離對我方造成狙擊傷害
@@ -1812,8 +2481,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 90001
     id: 90
     name: 報恩的殺手
+    sub_name: 報恩的殺手
     type: 3
     code: Swordsman
     introduce: 揮舞著鋒利的匕首,有著出色的身體能力
@@ -1829,8 +2500,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 91001
     id: 91
     name: 卡爾卡諾M91/38
+    sub_name: 卡爾卡諾M91/38
     type: 1
     code: CarcanoEnemy
     introduce: 未曾設想的敵人。
@@ -1848,8 +2521,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 92001
     id: 92
-    name: 荷莉葉特
+    name: 海莉艾塔
+    sub_name: 海莉艾塔
     type: 1
     code: HenEnemy
     introduce: 未曾設想的敵人。
@@ -1865,8 +2540,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 93001
     id: 93
-    name: 黎各
+    name: 莉可
+    sub_name: 莉可
     type: 1
     code: RicoEnemy
     introduce: 未曾設想的敵人。
@@ -1882,8 +2559,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 94001
     id: 94
     name: 胡蜂SWAP
+    sub_name: 胡蜂SWAP
     type: 3
     code: Vespid_SWAP
     introduce: 性能大幅增強後的胡蜂，會對我方造成一定削弱。為了在視覺上拉大雙方的實力差距，特意更換了新的頭盔和裝甲。
@@ -1903,8 +2582,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 95001
     id: 95
     name: 殘獸SWAP
+    sub_name: 殘獸SWAP
     type: 3
     code: Brute_SWAP
     introduce: 性能大幅增強後的殘獸，會對我方護甲單位造成較大的威脅。
@@ -1923,8 +2604,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 96001
     id: 96
     name: 鋼獅SWAP
+    sub_name: 鋼獅SWAP
     type: 4
     code: Nemeum_SWAP2
     introduce: 性能大幅增強後的鋼獅，較高的準度使得攻擊很難被迴避。
@@ -1943,8 +2626,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 97001
     id: 97
     name: 遊蕩難民
+    sub_name: 遊蕩難民
     type: 3
     code: refugee_hg
     introduce: 遭受坍塌輻射污染的人類遊民。保持著適當的理智,會使用輕型槍械與目標作戰。
@@ -1961,8 +2646,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 98001
     id: 98
     name: 暴走難民
+    sub_name: 暴走難民
     type: 3
     code: refugee_smg
     introduce: 遭受坍塌輻射污染的人類遊民。因為感染程度較深性格也變得暴躁嗜血,不毀滅敵人決不罷休。
@@ -1979,8 +2666,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 99001
     id: 99
     name: 歌利亞工廠
+    sub_name: 歌利亞工廠
     type: 2
     code: Golyat_Factory
     introduce: 生產炸彈型作戰單位的移動型鐵血兵工廠，能夠不斷生產出擁有自爆能力的歌利亞。停留在戰場的時間越久，對敵方的威脅性越大。
@@ -1999,8 +2688,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 101001
     id: 101
     name: 南瓜切割者
+    sub_name: 南瓜切割者
     type: 3
     code: Ripper_Halloween
     introduce: 鐵血的節日特供傀儡，裝配有短程衝鋒武器和沒什麼作用的頭部防具，機動性較高，出場時常充當南瓜燈的雕刻者或頂著南瓜燈巡邏的角色。
@@ -2017,8 +2708,10 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 102001
     id: 102
     name: 幽靈獵鷗
+    sub_name: 幽靈獵鷗
     type: 3
     code: Jaeger_Halloween
     introduce: 鐵血的節日特供傀儡，裝配有遠程狙擊武器，火力和精準度較高。儘管精心在身上塗抹了磷粉來製造發光效果，也無法改變本體脆弱的缺陷。
@@ -2035,8 +2728,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 103001
     id: 103
     name: 魔女騎兵
+    sub_name: 魔女騎兵
     type: 3
     code: Dragon_Halloween
     introduce: 鐵血的高級節日特供傀儡，裝配有實驗用的懸浮代步裝置、反重力大檐帽和突擊武器，無論火力、射程和機動性都不容小覷，經常扮演驚嚇破壞者並被轟炸的角色。
@@ -2052,8 +2747,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 104001
     id: 104
     name: 惡靈黑騎
+    sub_name: 惡靈黑騎
     type: 5
     code: Aegis_Halloween
     introduce: 原是戰遍沙場的騎士，在身軀遭到惡魔侵襲後，淪為了惡魔騎士。即使失去了所有記憶，但他總隱約記得自己要守護什麼。
@@ -2069,8 +2766,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 105001
     id: 105
     name: 惡靈黑驃
+    sub_name: 惡靈黑驃
     type: 4
     code: Nemeum_Halloween
     introduce: 原是勇猛無畏的戰馬，在身軀遭到惡魔侵襲後，淪為了惡魔的坐騎。即使失去了所有記憶，但它總隱約記得自己要守護什麼。
@@ -2086,8 +2785,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 106001
     id: 106
     name: 聖誕兵蟻
+    sub_name: 聖誕兵蟻
     type: 2
     code: Dinergate_chm1
     introduce: 鐵血的低級慶祝機甲，運輸能力較弱但有馴鹿協助，通常用於增添聖誕節日氣氛。如果預定路線上有障礙物會採用撞壞牆壁衝進門的方式送禮，請不要隨意改變房門位置。
@@ -2102,8 +2803,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 107001
     id: 107
     name: 馴順兵鹿
+    sub_name: 馴順兵鹿
     type: 2
     code: Dinergate_chm2
     introduce: 鐵血的低級運輸單位，通常用於協助聖誕兵蟻增加節日氣氛。如果預定路線上有障礙物會採用撞壞牆壁衝進門的方式送禮，請不要隨意改變房門位置。
@@ -2118,11 +2821,13 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 108001
     id: 108
-    name: 薑餅護衛者
+    name: 姜餅護衛者
+    sub_name: 姜餅護衛者
     type: 3
     code: Guard_chm
-    introduce: 鐵血的高級節日傀儡，裝配有薑餅和糖果杖。如外形所見的高甜度角色，一般用於防禦重要的廚房，或者攔截用破壞者做幌子溜進門偷糖的夢想家時出場。
+    introduce: 鐵血的高級節日傀儡，裝配有姜餅和糖果杖。如外形所見的高甜度角色，一般用於防禦重要的廚房，或者攔截用破壞者做幌子溜進門偷糖的夢想家時出場。
     if_capture: 1
     pow_rank: 1
     life_rank: 4
@@ -2136,12 +2841,15 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 109001
     id: 109
     name: 娜希斯
+    sub_name: 娜希斯
     type: 1
     code: Narciss
     introduce: 帕拉蒂斯「涅托」裡的一員，某方面的失敗反而使她在戰鬥方面的能力強過同伴許多。擅長狂風暴雨般的攻擊，撕碎自己面前的一切敵方單位，並從摧毀中得到快樂。
     forces: 3
+    if_capture: 1
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2149,14 +2857,16 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位在戰鬥中具有近戰/遠程兩種輸出模式,若擊毀全部七把浮遊刀,該單位將由遠程模式切換至近戰模式,近戰模式下將對低編制單位造成極大威脅。
+    counter: 該單位在戰鬥中具有近戰/遠程兩種輸出模式,若擊毀全部七把浮游刀,該單位將由遠程模式切換至近戰模式,近戰模式下將對低編製單位造成極大威脅。
     character: "1001,329,330"
     enemy_skill: "108,109,110"
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 110001
     id: 110
     name: 格雷
+    sub_name: 格雷
     type: 1
     code: Mrsgray
     introduce: 帕拉蒂斯「涅托」裡的一員，精通醫術，頭腦精密而冷靜。善於利用身邊的一切有利因素作戰，削弱敵人使自己獲得優勢。
@@ -2174,11 +2884,13 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 111001
     id: 111
     name: 默莉朵
+    sub_name: 默莉朵
     type: 1
     code: Morridow_nor
-    introduce: 帕拉蒂斯「涅托」裡的一員，狡猾、陰狠且善變。
+    introduce: 帕拉蒂斯「涅托"裡的一員，狡猾、陰狠且善變。
     forces: 3
     speed_rank: 5
     counter: 默莉朵似乎沒有與我們交手的打算,做好與其他高威脅涅托單位進行交戰的準備吧。
@@ -2187,8 +2899,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 112001
     id: 112
     name: 默莉朵
+    sub_name: 默莉朵
     type: 1
     code: Morridow
     introduce: 帕拉蒂斯「涅托」裡的一員，狡猾、陰狠且善變。有如蜘蛛般設置陷阱來戰鬥，詭秘的代言人。在攻擊之前，誰也捕捉不住她的身影。
@@ -2200,14 +2914,16 @@
     rate_rank: 1
     speed_rank: 6
     range_rank: 2
-    counter: 透過限制我方行動同時快速接近我方單位造成大量傷害,接近我方的時候也是她暴露於己方部隊保護的時候,在這種情況下對她造成大量傷害吧。
+    counter: 通過限制我方行動同時快速接近我方單位造成大量傷害,接近我方的時候也是她暴露於己方部隊保護的時候,在這種情況下對她造成大量傷害吧。
     character: "1001,316,329"
     enemy_skill: "111,112"
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 113001
     id: 113
     name: 特工
+    sub_name: 特工
     type: 3
     code: Plaincloth
     introduce: 因為某項任務來到這裡的斯塔西成員，跟蹤與生存是他們的專長。只有活著才能創造更多價值，他們顯然精通此道。
@@ -2223,8 +2939,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 114001
     id: 114
     name: 暴徒
+    sub_name: 暴徒
     type: 3
     code: Mobster
     introduce: 活躍在舊城區的幫會成員。對他們來說法律只是笑話，陰影中的人有自己的生存法則。使用粗劣的自製投擲武器攻擊對手，對離自己最近的目標懷抱著必定命中的決心發動攻勢。
@@ -2241,8 +2959,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 115001
     id: 115
     name: 防衛者
+    sub_name: 防衛者
     type: 3
     code: Punish
     introduce: 近戰單位，作為堅固的盾牌與進攻者活躍。倚仗厚重的盾牌和衝鋒武器，在戰場上橫衝直撞。
@@ -2260,8 +2980,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 116001
     id: 116
     name: 聖歌風琴
+    sub_name: 聖歌風琴
     type: 2
     code: Cherub
     introduce: 使用雷射持續對我方高血量單位發動攻擊的特化作戰單位，攻擊單一但集中， 極易對我方造成定點貫穿的致命傷害。
@@ -2273,14 +2995,16 @@
     rate_rank: 4
     speed_rank: 2
     range_rank: 3
-    counter: 將額外對低編制敵人造成大量傷害,優先使用高編制單位與其交戰。
+    counter: 將額外對低編製敵人造成大量傷害,優先使用高編製單位與其交戰。
     character: "1003,331,332"
     enemy_skill: "105"
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 117001
     id: 117
     name: 拔摩之筆
+    sub_name: 拔摩之筆
     type: 2
     code: Visjnoe
     introduce: 設置在戰場上的戰術器械，僅對包括人形在內的機械單位有反應。清除對方的增益狀態的同時也會清除己方的負面狀態，作為支援單位十分難纏。
@@ -2298,8 +3022,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 118001
     id: 118
     name: 角鬥士
+    sub_name: 角鬥士
     type: 3
     code: Roarer_New
     introduce: 主要攻擊方式為近戰的重型重甲單位，與神秘勢力有所關聯。
@@ -2319,8 +3045,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 119001
     id: 119
     name: 偵察士
+    sub_name: 偵察士
     type: 4
     code: Thunder_New
     introduce: 利用搭載於身體下方的炮台攻擊，遭受攻擊時會利用跳躍閃避。與神秘勢力有所關聯。
@@ -2340,8 +3068,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 120001
     id: 120
     name: 重炮士
+    sub_name: 重炮士
     type: 3
     code: Soldier_New
     introduce: 與射擊士極為類似，搭載更加強大的火力，並且使用特殊的彈藥降低我方人形的迴避率。與神秘勢力有所關聯。
@@ -2360,8 +3090,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 121001
     id: 121
-    name: 殭屍新娘
+    name: 僵屍新娘
+    sub_name: 僵屍新娘
     type: 3
     code: Vespid_bride
     introduce: 寂靜的洋館之中，華麗的紗衣揮之不去的怨念仍在徘徊；千萬不要被美麗的外表迷惑，如果她向你擲來手中的花束，一定要記得躲閃。
@@ -2379,11 +3111,13 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 122001
     id: 122
     name: 幽靈
+    sub_name: 幽靈
     type: 3
     code: Brute_Ghost
-    introduce: 寂靜的洋館之中，不時響起的嗚咽聲久久不得迴響，路過轉角處的時候，一定要留心那忽然亮起的白芒——不論出現的是幽靈本身，還是他的刀刃，都不是什麼好消息。
+    introduce: 寂靜的洋館之中，不時響起的嗚咽聲久久不得回響，路過轉角處的時候，一定要留心那忽然亮起的白芒——不論出現的是幽靈本身，還是他的刀刃，都不是什麼好消息。
     pow_rank: 5
     life_rank: 3
     hit_rank: 4
@@ -2397,8 +3131,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 123001
     id: 123
     name: 大白鯊樂園
+    sub_name: 大白鯊樂園
     type: 2
     code: RecceCentreSwim
     introduce: 為了便於走私而偽裝成鯊魚樂園的非法軍火，量產鯊排是其主要功能，在偽裝運輸過程中，由於可愛的造型而得到孩子們的青睞。
@@ -2412,8 +3148,10 @@
     spine_scale: "40,40,1"
   }
   {
+    sub_id: 124001
     id: 124
     name: 鯊排
+    sub_name: 鯊排
     type: 2
     code: PathfinderSwim
     introduce: 為了便於走私而偽裝成排球的非法軍火，由於偽裝效果極好，在運輸途中發生過被人打出「爆炸式扣殺」的事故。
@@ -2432,11 +3170,13 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 125001
     id: 125
     name: 海上調酒師
+    sub_name: 海上調酒師
     type: 3
     code: CyclopsSwim
-    introduce: 遊輪專用服務型人形，兼具侍者與安保的能力，能夠視情況切換行動模式，必要時也可以改為人工操作。
+    introduce: 游輪專用服務型人形，兼具侍者與安保的能力，能夠視情況切換行動模式，必要時也可以改為人工操作。
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
@@ -2451,8 +3191,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 126001
     id: 126
     name: 建築師-NVW型
+    sub_name: 建築師-NVW型
     type: 1
     code: BossArchitect_Summer
     introduce: 建築師-臨海戰鬥特化型，簡稱NVW型。IOP將鐵血廢棄的舊案細化並改進後製作出的海戰型素體，如果不在海邊，建築師將會利用儲存的素材將周圍改造為臨海環境並開始作戰。建築合適的陣地也是建築師的職責。
@@ -2474,8 +3216,10 @@
     org_id: 10603
   }
   {
+    sub_id: 127001
     id: 127
     name: 職業保鏢
+    sub_name: 職業保鏢
     type: 3
     code: guard_katsura
     introduce: 接受雇傭提供護衛服務的專業人員，接受了嚴格的訓練，身手不凡，且忠心耿耿。
@@ -2492,8 +3236,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 128001
     id: 128
     name: 資深保鏢
+    sub_name: 資深保鏢
     type: 3
     code: guard_bald
     introduce: 接受雇傭提供護衛服務的專業人員，接受了嚴格的訓練，身手不凡，且忠心耿耿。是職業保鏢中的佼佼者，透過明顯的特徵看得出他們更加強大。
@@ -2510,8 +3256,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 129001
     id: 129
     name: 靈蛇權杖
+    sub_name: 靈蛇權杖
     type: 3
     code: Obelisk_partB
     introduce: 使用機槍的重火力人形，攜帶的機槍在充分蓄能之後能夠發射3次等離子光束，光束具有致盲效果，並能在一定程度上無視閃避。在裝載【阿克索之皿】後，威力將有巨大提升。
@@ -2530,8 +3278,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 130001
     id: 130
     name: 阿克索之皿
+    sub_name: 阿克索之皿
     type: 2
     code: Obelisk_partA
     introduce: 使用機槍的特化作戰單位，能夠發射等離子光束對目標進行攻擊，光束在一定程度上能無視閃避。在裝載【靈蛇權杖】後，威力將有巨大提升。
@@ -2549,8 +3299,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 131001
     id: 131
     name: 警備士
+    sub_name: 警備士
     type: 3
     code: Riotguard
     introduce: 具有強大壓制力的警備用單位，通常結隊行動，會使用盾牌對敵方進行壓迫作戰，同時配有擁有電擊能力的警棍。
@@ -2569,8 +3321,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 132001
     id: 132
     name: 重錘士
+    sub_name: 重錘士
     type: 5
     code: Metalmax
     introduce: 強大的近戰重型重甲單位，會利用手中的重錘對輕型目標造成毀滅性打擊。
@@ -2589,8 +3343,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 133001
     id: 133
     name: 漢尼拔
+    sub_name: 漢尼拔
     type: 5
     code: Executioner
     introduce: 帕拉蒂斯生產的特重型機甲單位，擁有最先進的高科技近戰武器和護甲。具有難以擊破的特點和堪稱毀滅性的戰鬥力。
@@ -2602,15 +3358,17 @@
     armor_rank: 2
     speed_rank: 3
     range_rank: 3
-    counter: 該單位擁有高額的生命值，對編制少的單位有很強的斬殺能力，請注意使用合適的梯隊與之作戰。
+    counter: 該單位擁有高額的生命值，對編製少的單位有很強的斬殺能力，請注意使用合適的梯隊與之作戰。
     character: "302,310,433"
     enemy_skill: "119,120,121"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 134001
     id: 134
     name: 擲彈士
+    sub_name: 擲彈士
     type: 3
     code: Grenadier
     introduce: 主要戰鬥方式為投擲武器的輕型人形，會利用投彈有效造成巨大的範圍殺傷。
@@ -2629,8 +3387,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 135001
     id: 135
     name: 指揮士
+    sub_name: 指揮士
     type: 5
     code: Mastersergeant
     introduce: 搭載了強力偵測配件的新型指揮單位，可以對部隊下達最清楚有效的指令，但自身的戰鬥力有待增強。
@@ -2650,8 +3410,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 136001
     id: 136
     name: 瑪赫蓮
+    sub_name: 瑪赫蓮
     type: 1
     code: Rogue_M
     introduce: 久違的伯恩村少女，栩栩如生地站在面前，就如同她從未逝去一般。
@@ -2669,8 +3431,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 137001
     id: 137
     name: 厄琉息斯秘儀
+    sub_name: 厄琉息斯秘儀
     type: 1
     code: Obelisk
     introduce: 火力猛烈的機槍單位，配備了附加了致盲效果的雙機槍系統。能夠將放入其中的伊阿索之匣轉換為等離子光束進行發射，可同時攻擊多個單位，並對攻擊範圍造成污染。
@@ -2689,8 +3453,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 138001
     id: 138
     name: 緹
+    sub_name: 緹
     type: 1
     code: Teal
     introduce: 帕拉蒂斯的精銳單位，冷靜而審慎，擁有強大的判斷力和對情緒的控制力。經常和格雷協同作戰，非常信賴她。擅長使用長劍潛伏暗殺，在抓住敵人露出破綻的一瞬，以無法用肉眼捕捉的速度一招致命。
@@ -2709,8 +3475,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 139001
     id: 139
     name: 布拉梅德
+    sub_name: 布拉梅德
     type: 1
     code: Bramede
     introduce: 帕拉蒂斯的精銳單位，極具魅力，能夠輕易瓦解對方的防禦，即使在戰鬥狀態下也依然嫵媚動人。擅長迷惑人類和人形的心智，電子作戰能力極強，能在侵入人形心智的同時，盜取情報，並強行使其當機。
@@ -2722,18 +3490,20 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位擁有偷取心智的能力，應盡量避免被她鏈接命中。
+    counter: 該單位擁有偷取心智的能力，應盡量避免被她連接命中。
     character: "1001,438,439"
     enemy_skill: "135,136,137,138"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 140001
     id: 140
     name: 干擾者-終幕魔女
+    sub_name: 干擾者-終幕魔女
     type: 1
     code: Intruder_Halloween
-    introduce: 干擾者-終幕魔女，IOP對干擾者進行大量的數據分析與作戰實驗後，根據模擬數據製作出的遭遇戰特化型素體。同時，在情感模組上應用了新技術的終幕魔女型號不但擁有更為強大的指揮與支援能力，更能夠憑藉其異常的精神最大程度地在小型戰場上對敵軍散播恐懼心理，打擊敵方士氣。
+    introduce: 干擾者-終幕魔女，IOP對干擾者進行大量的數據分析與作戰實驗後，根據模擬數據製作出的遭遇戰特化型素體。同時，在情感模塊上應用了新技術的終幕魔女型號不但擁有更為強大的指揮與支援能力，更能夠憑藉其異常的精神最大程度地在小型戰場上對敵軍散播恐懼心理，打擊敵方士氣。
     forces: 1
     if_capture: 1
     pow_rank: 4
@@ -2751,8 +3521,10 @@
     org_id: 10602
   }
   {
+    sub_id: 141001
     id: 141
     name: CAWS
+    sub_name: CAWS
     type: 3
     code: HKCAWS_XmasEnemy
     introduce: 我把禮物都買回來了，請給我報銷119份禮物的錢……還有1份為什麼不用？因為……那是我給您買的。
@@ -2770,8 +3542,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 142001
     id: 142
     name: VSK-94
+    sub_name: VSK-94
     type: 3
     code: VSK_XmasEnemy
     introduce: 我是來送禮物的，請配合行動，不要緊張……這麼說更讓人緊張了？抱歉，Boss，這是職業病。
@@ -2789,8 +3563,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 143001
     id: 143
     name: P7
+    sub_name: P7
     type: 3
     code: P7_XmasEnemy
     introduce: 哎呀，結果您還是落到我的手心呢。
@@ -2808,8 +3584,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 144001
     id: 144
     name: FP-6
+    sub_name: FP-6
     type: 3
     code: FP6_XmasEnemy
     introduce: 沒想到聖誕老人的任務居然如此棘手……那樣的胖老頭到底是怎麼進去的？
@@ -2827,8 +3605,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 145001
     id: 145
     name: 一〇〇式
+    sub_name: 一〇〇式
     type: 3
     code: Type100_XmasEnemy
     introduce: 嗯呀……終於挖出來了，咦？這個是……？哇！謝謝，這是最棒的禮物！
@@ -2846,8 +3626,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 146001
     id: 146
     name: Px4 風暴
+    sub_name: Px4 風暴
     type: 1
     code: Px4Storm_XmasBoss
     introduce: 聖誕促銷才是聖誕節存在的意義，打折的價格才能倍增幸福的價值哦~
@@ -2859,14 +3641,16 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位會大幅降低我方梯隊暴擊率並提升敵方單位攻速，而且會釋放預警範圍傷害，多次打擊對應格子上的單位，請注意使用合理的戰鬥策略應對。
+    counter: 該單位會大幅降低我方梯隊暴擊率並提升敵方單位攻速，而且會釋放提示範圍傷害，多次打擊對應格子上的單位，請注意使用合理的戰鬥策略應對。
     character: "1002,446,447"
     enemy_skill: "146,147,148,149,150"
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 147001
     id: 147
     name: 破壞者-浮掠麋影
+    sub_name: 破壞者-浮掠麋影
     type: 1
     code: Destroyer_Christmas
     introduce: 破壞者-浮掠麋影，針對雪原作戰而研發出的特異化型號，能夠確保破壞者在寒冷的環境中也能保持高速移動和精確打擊，對武器的升級也帶來了火力和爆破強度的提升。應破壞者本人強烈要求，在外形設計上參考了麋鹿，並使用了聖誕樹掛球等裝飾作為彈藥外包裝，以達到為敵人送上甜蜜死亡的目的。
@@ -2887,8 +3671,10 @@
     org_id: 10603
   }
   {
+    sub_id: 148001
     id: 148
     name: 涅托 巡衛
+    sub_name: 涅托 巡衛
     type: 3
     code: Nyto_Black_SMG
     introduce: 阿佛那斯中量產的精英涅托，雙持衝鋒槍，擁有能滿足日常巡邏任務需求的高機動性與火力。
@@ -2906,8 +3692,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 149001
     id: 149
     name: 涅托 怒錘
+    sub_name: 涅托 怒錘
     type: 5
     code: Nyto_Black_Hammer
     introduce: 阿佛那斯中量產的精英涅托，使用巨錘作為武器，經特殊改造後，武器附帶暈眩效果，同時本體也擁有了更強大的防禦力。
@@ -2926,8 +3714,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 150001
     id: 150
     name: 涅托 鷹眼
+    sub_name: 涅托 鷹眼
     type: 3
     code: Nyto_Black_RF
     introduce: 阿佛那斯中量產的狙擊特化型精英涅托，使用狙擊槍作為武器，能夠在超遠距離的前提下瞄準敵人的弱點進行致命一擊。
@@ -2945,8 +3735,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 151001
     id: 151
     name: 涅托 輔翼
+    sub_name: 涅托 輔翼
     type: 3
     code: Nyto_White_Commander
     introduce: 阿佛那斯中量產的精英涅托，使用戰術平板弱化敵方或強化己方，能夠輔助己方隊友發揮出更強的戰鬥效能。
@@ -2964,8 +3756,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 152001
     id: 152
     name: 加爾姆
+    sub_name: 加爾姆
     type: 2
     code: Cerberus_White
     introduce: 阿佛那斯中量產的最新型號機械犬，擁有高敏捷化的機動性和強大有力的鋼鐵爪牙。
@@ -2983,11 +3777,13 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 153001
     id: 153
     name: 北國精英特工
+    sub_name: 北國精英特工
     type: 3
     code: USSR_Agent
-    introduce: 來自寒冷北地的精英特工，是萬裡挑一的好手，實戰經驗豐富且行事風格狠辣。
+    introduce: 來自寒冷北地的精英特工，是萬里挑一的好手，實戰經驗豐富且行事風格狠辣。
     forces: 2
     pow_rank: 1
     life_rank: 3
@@ -3001,8 +3797,10 @@
     launch_time: 2035-5-20 00:00:00
   }
   {
+    sub_id: 154001
     id: 154
     name: 默莉朵
+    sub_name: 默莉朵
     type: 1
     code: morridow_boss
     introduce: 帕拉蒂斯的精銳單位，狡猾陰狠，是擁有多副面具的偽裝者。她的功績為她換來了寶貴的改造機會，擁有了帕拉蒂斯全新技術打造的素體。戰鬥力有了大幅提升，陷阱製作技術也有了升級。只是她的虛識圖景似乎在不知不覺間產生了變化……
@@ -3020,8 +3818,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 155001
     id: 155
     name: 尼梅蘭
+    sub_name: 尼梅蘭
     type: 1
     code: Nimeylan
     introduce: 帕拉蒂斯的精銳單位，冷酷無情，清醒自知，在帕拉蒂斯中占據著無可替代的地位。擁有短程飛行能力，擅長使用電子武器干擾敵人，並在漫長痛苦的折磨中，讓敵人絕望而無助地逐漸失去生息。
@@ -3039,8 +3839,31 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 155002
+    id: 155
+    name: 尼梅蘭
+    sub_name: 尼梅蘭-強化型
+    type: 1
+    code: Nimeylan
+    introduce: 帕拉蒂斯的精銳單位，冷酷無情，清醒自知，在帕拉蒂斯中占據著無可替代的地位。擁有短程飛行能力，擅長使用電子武器干擾敵人，並在漫長痛苦的折磨中，讓敵人絕望而無助地逐漸失去生息。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 該單位會製造光球對我方造成大量傷害，注意防禦。
+    character: "1001"
+    enemy_skill: "161,162,163,164"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    sub_id: 156001
     id: 156
     name: RPK-16
+    sub_name: RPK-16
     type: 1
     code: RPK16_Nyto
     introduce: 在帕拉蒂斯的技術支持下，RPK-16改造素體進行到一半的未完成姿態。雖然還是未完成態，但火力得到了大幅增強，也能夠使用部分帕拉蒂斯的核心技術。至於對其心智的影響，仍然是個未知數。
@@ -3059,8 +3882,10 @@
     launch_time: 2035-5-20 00:00:00
   }
   {
+    sub_id: 157001
     id: 157
     name: 獵手-裳夜落蛾
+    sub_name: 獵手-裳夜落蛾
     type: 1
     code: Hunter_WhiteDay
     introduce: 獵手-裳夜落蛾，潛行暗殺的特異化型號，服裝模擬了鱗翅目昆蟲的鱗片形狀結構，能夠調整反射的顏色，以便融於環境之中。根據獵手的個人偏好，日常情況下服裝顯現為矢車菊般的藍色，似乎具有一定的迷幻效果。而這一效果在作戰中的主要表現，為漫天的藍色花瓣或場景的突然變換。這也意味著，當你看見以上景象時，你已經踏入了獵手的陷阱。
@@ -3082,8 +3907,10 @@
     org_id: 10602
   }
   {
+    sub_id: 158001
     id: 158
     name: 甜點魔蟻
+    sub_name: 甜點魔蟻
     type: 2
     code: Dinergate_WhiteDay
     introduce: 從被帕斯卡改裝後的生產線中誕生的甜點魔蟻，以甜食為主要能量來源，會毫不客氣地掠奪美味的點心——它自身的味道也十分可口，但要小心硌到牙齒。
@@ -3099,8 +3926,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 159001
     id: 159
     name: 黑巧卡路里炸彈
+    sub_name: 黑巧卡路里炸彈
     type: 2
     code: Dinergate_WhiteDay1
     introduce: 散發著可口香氣的巨大巧克力球，杏仁碎與黑巧誘人的色澤襯出高級的美味——易爆炸，勿食用。
@@ -3116,8 +3945,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 160001
     id: 160
     name: 白巧卡路里炸彈
+    sub_name: 白巧卡路里炸彈
     type: 2
     code: Dinergate_WhiteDay2
     introduce: 散發著可口香氣的巨大巧克力球，杏仁碎與白巧誘人的色澤襯出甜膩的美味——易爆炸，勿食用。
@@ -3133,8 +3964,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 161001
     id: 161
     name: 松露卡路里炸彈
+    sub_name: 松露卡路里炸彈
     type: 2
     code: Dinergate_WhiteDay3
     introduce: 散發著可口香氣的巨大巧克力球，光滑的平面用融化的巧克力拉出優美的紋路，入口時裂開的甜香能夠征服任何挑剔的味蕾——易爆炸，勿食用。
@@ -3150,8 +3983,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 162001
     id: 162
     name: 末日點心犬
+    sub_name: 末日點心犬
     type: 1
     code: Cerberus_WhiteDay
     introduce: 因犯下過錯而重回「噩夢」的破壞者，逐漸丟失的意識當中，唯有「巧克力」的誘惑依然存在——狗不能吃巧克力吧？
@@ -3170,8 +4005,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 163001
     id: 163
     name: 巡迴愚者
+    sub_name: 巡迴愚者
     type: 3
     code: Roarer_swimsuit
     introduce: 頭腦簡單的萊肯原住民，身無所長，只能靠發達的四肢承擔守護禁獵區的工作。
@@ -3190,8 +4027,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 164001
     id: 164
     name: 漁獵先知
+    sub_name: 漁獵先知
     type: 3
     code: Rodelero_swimsuit
     introduce: 被萊肯原住民尊為「先知」的神秘少女，一把水陸兩用的高壓槍似乎是她可靠的狩獵武器。
@@ -3210,8 +4049,10 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 165001
     id: 165
     name: 萊肯流浪人
+    sub_name: 萊肯流浪人
     type: 3
     code: StreletPlus_swimsuit
     introduce: 常年徘徊於萊肯禁獵區海邊，居無定所，常用的護身武器是改裝後的衝浪板。
@@ -3229,11 +4070,13 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 166001
     id: 166
     name: 埃莉諾-滄龍掠騎者
+    sub_name: 埃莉諾-滄龍掠騎者
     type: 1
     code: Nyto_White_Summer
-    introduce: 埃莉諾-滄龍掠騎者，臨海戰鬥特化型號。用更為輕盈、動力啟動更為迅猛的新型四肢取代了在水中過於沉重笨拙的金屬肢體，服裝的設計和選材也以適應海洋戰鬥為著重點。武器的優化採用了埃莉諾本人的建議，以白堊紀時期的古老海獸為靈感原型，打造出了更為銳利靈敏的鐮刀。純白的死神即將潛入深海，手中的巨鐮如海獸般嘶吼著，斬斷靈魂與肉體的鏈接，收割被海水浸透的生命。
+    introduce: 埃莉諾-滄龍掠騎者，臨海戰鬥特化型號。用更為輕盈、動力啟動更為迅猛的新型四肢取代了在水中過於沉重笨拙的金屬肢體，服裝的設計和選材也以適應海洋戰鬥為著重點。武器的優化採用了埃莉諾本人的建議，以白堊紀時期的古老海獸為靈感原型，打造出了更為銳利靈敏的鐮刀。純白的死神即將潛入深海，手中的巨鐮如海獸般嘶吼著，斬斷靈魂與肉體的連接，收割被海水浸透的生命。
     forces: 3
     if_capture: 1
     pow_rank: 6
@@ -3252,8 +4095,10 @@
     org_id: 10603
   }
   {
+    sub_id: 167001
     id: 167
     name: 律賊惡徒
+    sub_name: 律賊惡徒
     type: 3
     code: RussianGangster_HG
     introduce: 由窮凶極惡之人組成，效忠於律賊的暴力群體，擅長用各種慘無人道的手段達成目的。
@@ -3270,8 +4115,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 168001
     id: 168
     name: 萊卡翁
+    sub_name: 萊卡翁
     type: 4
     code: AA02_Mini
     introduce: 步兵用輕型機甲，機體採用高性能傳動裝置，能夠靈活應對複雜的地形環境。配備有兩支大口徑機槍臂，能夠對步兵目標造成有效殺傷，威力可觀。
@@ -3290,8 +4137,10 @@
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 169001
     id: 169
     name: 埃奎斯
+    sub_name: 埃奎斯
     type: 4
     code: Chariot_Military
     introduce: 空地兩用導彈車，配備有四聯裝尾刺防空導彈，防禦里程極遠，被廣泛用於對抗敵方空中及地面裝甲目標的任務。
@@ -3311,8 +4160,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 170001
     id: 170
     name: 獨眼巨人_MG
+    sub_name: 獨眼巨人_MG
     type: 3
     code: Cyclops_MG
     introduce: 軍方的支援作戰人形，配備高射速多管機槍，能在有效距離內提供強大的火力壓制與殺傷。
@@ -3331,8 +4182,10 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 171001
     id: 171
     name: 牝鹿SWAP
+    sub_name: 牝鹿SWAP
     type: 4
     code: Cerynitis_SWAP
     introduce: 軍方常規作戰機甲牝鹿的改進型號，搭載最新型遠程火力打擊系統，同時進一步提升爆破反應裝甲的防禦性能，速射性能也得到了充分強化。
@@ -3350,8 +4203,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 172001
     id: 172
     name: 聖盾_GA_SWAP
+    sub_name: 聖盾_GA_SWAP
     type: 5
     code: Aegis_GA_SWAP
     introduce: 軍方常規作戰人形聖盾的改進型號，搭載有攻防一體的爆反裝甲護盾，並強化了近距攻擊性能，使戰線突防能力得到進一步提升。
@@ -3369,8 +4224,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 173001
     id: 173
     name: 伊芙小姐
+    sub_name: 伊芙小姐
     type: 1
     code: Nyto_mecha
     introduce: 帕拉蒂斯的精銳單位，塔亞柔斯的各方面能力平平，但在駕駛機甲方面有著無可比擬的天賦。她給和自己同步率最高的機甲取名為「伊芙小姐」，這個詞語似乎是她僅存的記憶。在日常中，她將自己偽裝成平凡路人，一旦進入心智空間，她將駕駛著「伊芙小姐」踏平一切……
@@ -3390,8 +4247,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 174001
     id: 174
     name: 柳芭老媽
+    sub_name: 柳芭老媽
     type: 1
     code: Oldlady_boss
     introduce: 律賊頭目，雖已年過半百，但依然精神矍鑠，戰力強勁。她雙持霰彈槍，駕駛著高速輪椅，能夠靈活避開沿路障礙，對敵人精準實施肉體和錢包的狂暴打擊。
@@ -3408,8 +4267,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 175001
     id: 175
     name: 劊子手-血魘獵狂
+    sub_name: 劊子手-血魘獵狂
     type: 1
     code: Excutioner_Halloween
     introduce: 針對追獵戰而研發出的特化型素體，依照劊子手本人要求配備的巨大化義手和可變式熱切割鐮刀，能夠在戰鬥中不費吹灰之力地收割敵人，展現出極強的破壞力。同時，黑色的衣裝也可以更好地隱匿身形，於敵人身後亮起寒光。你可曾見那往返夢境之人？她顯現於夜幕，又隱遁於死亡。所為的，是獵殺一切墮入夢魘的癲狂。
@@ -3431,11 +4292,13 @@
     org_id: 10604
   }
   {
+    sub_id: 176001
     id: 176
     name: 塔亞柔斯
+    sub_name: 塔亞柔斯
     type: 1
     code: Nyto_tareus
-    introduce: 塔亞柔斯，機甲駕駛特化涅托，和機甲「伊芙小姐」具有極高的適配性和同步率，也擅長入侵人形的心智空間，並對目標展開毀滅性的火力打擊。因為經過多次的記憶洗刷和改造，心智脆弱，性情變得冷漠易怒，即使偶爾回想起屬於人類的情感也會很快被內置的程序抹殺。
+    introduce: 塔亞柔斯，機甲駕駛特化涅托，和機甲「伊芙小姐」具有極高的適配性和同步率，也擅長入侵人形的心智空間，並對目標展開毀滅性的火力打擊。因為經過多次的記憶洗刷和改造，心智脆弱，性情變得冷漠易怒，即使偶爾回想起屬於人類的情感也會很快被內置的程式抹殺。
     forces: 3
     if_capture: 1
     pow_rank: 5
@@ -3455,8 +4318,10 @@
     org_id: 10603
   }
   {
+    sub_id: 177001
     id: 177
     name: 邪靈掃地機
+    sub_name: 邪靈掃地機
     type: 4
     code: Pumpkin_Dactyl
     introduce: 快要走不動的老機器，但戴上奇怪的南瓜後似乎擁有了將一切雜物推開的能力。
@@ -3474,8 +4339,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 178001
     id: 178
     name: 除塵超人
+    sub_name: 除塵超人
     type: 5
     code: Mop_Aegis
     introduce: 簡單粗暴地將所有表面掃乾淨，但由於用力過猛，導致揚起的灰塵重新落下……抱歉，再次清掃請額外付費。
@@ -3494,8 +4361,10 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 179001
     id: 179
     name: 魔鬼星廚
+    sub_name: 魔鬼星廚
     type: 3
     code: Chief_Cyclops
     introduce: 今日雇傭該星廚，享1折優惠——前提是你不介意它將所有的調味料都換成芥末的話。
@@ -3514,8 +4383,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 180001
     id: 180
     name: 艾莉安娜
+    sub_name: 艾莉安娜
     type: 1
     code: spSCARL
     introduce: 前「曙光」小隊隊長，也是「軍牌」執行人，每一任指揮官最信賴的下屬。但在阿瑪瑞絲看來，她早已不配享有這份榮譽。
@@ -3531,11 +4402,13 @@
     launch_time: 2035-5-20 00:00:00
   }
   {
+    sub_id: 181001
     id: 181
     name: 稻草人-魘淵夕來
+    sub_name: 稻草人-魘淵夕來
     type: 1
     code: Scarecrow_SpringFes
-    introduce: 稻草人-魘淵夕來，火力改造強化後的新型號。迭代升級後的浮游槍能為稻草人提供更強大的輸出，而安裝在稻草人指尖的指揮端口也得到了信號加強，和浮游槍之間的鏈接也更為緊密。據說服裝設計靈感來源於神話傳說中會在年底來到人類村莊大肆破壞的猛獸，它雙眼的凶光能劃破夜晚的黑暗，鋒利的爪子能撕碎一切阻礙……恰如此刻的稻草人。
+    introduce: 稻草人-魘淵夕來，火力改造強化後的新型號。迭代升級後的浮游槍能為稻草人提供更強大的輸出，而安裝在稻草人指尖的指揮端口也得到了訊號加強，和浮游槍之間的連接也更為緊密。據說服裝設計靈感來源於神話傳說中會在年底來到人類村莊大肆破壞的猛獸，它雙眼的凶光能劃破夜晚的黑暗，鋒利的爪子能撕碎一切阻礙……恰如此刻的稻草人。
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -3554,8 +4427,10 @@
     org_id: 10604
   }
   {
+    sub_id: 182001
     id: 182
     name: 聚類僕從
+    sub_name: 聚類僕從
     type: 1
     code: Scarecrow
     introduce: 擅長收集和分析情報，並不擅長正面作戰，在鐵血人形中地位較低。理性派，無口毒舌，忠於職守，鄙夷感性，面對感情豐富卻只懂得服從的格里芬人形充滿優越感。
@@ -3574,8 +4449,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 183001
     id: 183
     name: 加權騎士
+    sub_name: 加權騎士
     type: 1
     code: BossGager
     introduce: 主要擔當指揮行動和人員調度，可以直接指揮作戰人形，也具備不小的作戰能力，地位較高，直接對代理人負責。認真嚴謹，一絲不苟，言行中透露出一股凜然利落的氣質，即使對於敵人也很講求原則和禮節。
@@ -3594,8 +4471,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 184001
     id: 184
     name: 極值玩偶
+    sub_name: 極值玩偶
     type: 1
     code: BossArchitect
     introduce: 擅長遠程破壞和火力支援，作戰能力很強，通常獨來獨往。活潑開朗的沒頭腦元氣少女，什麼時候都興高采烈，對格里芬也沒有敵對意識，對於鐵血只能最低限度地服從命令，但是對轟炸和破壞十分熱心，所以作為敵人仍然十分危險。
@@ -3608,15 +4487,17 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 5
-    counter: 該單位將向預警位置製造較強傷害，且附帶範圍濺射，請注意指揮人形及時移動規避。
+    counter: 該單位將向提示位置製造較強傷害，且附帶範圍濺射，請注意指揮人形及時移動規避。
     character: "1001,208,309"
     enemy_skill: "68,69"
     launch_time: 2035-5-20 00:00:00
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 185001
     id: 185
     name: 正態指揮
+    sub_name: 正態指揮
     type: 1
     code: Agent
     introduce: 負責伊萊莎與下屬鐵血的溝通聯絡工作和後勤管理，作戰人形都直接聽從她的命令，地位極高，無論戰鬥還是指揮都很擅長，可以指揮所有作戰人形。冷淡平靜，有條不紊的言行做派，對敵我都會用尊敬的語氣，但實際上除了對主人十分尊重之外，稱呼他人的詞彙都很低劣，尤其對於格里芬更是充滿蔑視。
@@ -3635,8 +4516,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 186001
     id: 186
     name: 離散測繪員
+    sub_name: 離散測繪員
     type: 1
     code: Excutioner
     introduce: 相當於精英斥候，比稻草人地位稍高，兩人經常搭檔。莽撞衝動，大大咧咧的女漢子，熱衷於堂堂正正的戰鬥，並不喜歡欺負弱者。
@@ -3656,8 +4539,10 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 187001
     id: 187
     name: 方差牧童
+    sub_name: 方差牧童
     type: 1
     code: Destroyer
     introduce: 擅長爆破任務，解除炸彈也是專家級的，作戰能力也不錯，和煉金術士有時會搭檔。平時高傲，毒舌，實際上是個傲嬌，有點小孩子脾氣，逼急了會哭鼻子，十分在意自己的身高。
@@ -3676,11 +4561,13 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 188001
     id: 188
     name: 似然近衛
+    sub_name: 似然近衛
     type: 1
     code: Weaver
-    introduce: 擅長短距離的突破或者防禦作戰，智能和作戰能力很高，是蝴蝶事件之後才製造的人形，但因為是製造時期的試驗品，AI極不穩定且很難被控制。表面沉穩內心高傲，擁有強勁的武力和智力優勢，但是實戰經驗較少，而且行事風格捉摸不定，令敵我雙方都難以預判，因此具有極高的危險度。
+    introduce: 擅長短距離的突破或者防禦作戰，智慧和作戰能力很高，是蝴蝶事件之後才製造的人形，但因為是製造時期的試驗品，AI極不穩定且很難被控制。表面沉穩內心高傲，擁有強勁的武力和智力優勢，但是實戰經驗較少，而且行事風格捉摸不定，令敵我雙方都難以預判，因此具有極高的危險度。
     forces: 1
     pow_rank: 4
     life_rank: 5
@@ -3690,18 +4577,20 @@
     armor_rank: 3
     speed_rank: 4
     range_rank: 3
-    counter: 該單位將向預警位置製造較強傷害，請注意指揮人形及時移動規避。
+    counter: 該單位將向提示位置製造較強傷害，請注意指揮人形及時移動規避。
     character: "1001,210,309"
     enemy_skill: "71,98"
     launch_time: 2035-5-20 00:00:00
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 189001
     id: 189
     name: 混沌歌者
+    sub_name: 混沌歌者
     type: 1
     code: Dreamer
-    introduce: 偏向作戰能力，擁有超遠距離定點打擊的能力，由伊萊莎直接下令指揮，是蝴蝶事件之後才製造的人形，因為自身能力不需要正面出擊，所以平時只呆在鐵血總部，以捉弄法官為樂。優雅的笑容中透著傲慢和難以捉摸，精神狀態極不穩定，總是以自我為中心作戰中會露出瘋狂而不受控制的一面，加上可怕的破壞力，連同伴的安全都不會考慮所幸的是通常不會出現在正面戰場上。
+    introduce: 偏向作戰能力，擁有超遠距離定點打擊的能力，由伊萊莎直接下令指揮，是蝴蝶事件之後才製造的人形，因為自身能力不需要正面出擊，所以平時只待在鐵血總部，以捉弄法官為樂。優雅的笑容中透著傲慢和難以捉摸，精神狀態極不穩定，總是以自我為中心作戰中會露出瘋狂而不受控制的一面，加上可怕的破壞力，連同伴的安全都不會考慮所幸的是通常不會出現在正面戰場上。
     forces: 1
     pow_rank: 5
     life_rank: 5
@@ -3717,11 +4606,13 @@
     spine_scale: "75,75,1"
   }
   {
+    sub_id: 190001
     id: 190
     name: 後驗紡工
+    sub_name: 後驗紡工
     type: 1
     code: Hunter
-    introduce: 機動和智能都比較高，擅長騷擾和追擊作戰，需要稻草人與劊子手的配合才能發揮最強的實力。沉著冷靜，喜歡用各種手段將敵人逼到走投無路再活捉，面對格里芬十分高傲，但不屑於使用過於卑劣的手段。
+    introduce: 機動和智慧都比較高，擅長騷擾和追擊作戰，需要稻草人與劊子手的配合才能發揮最強的實力。沉著冷靜，喜歡用各種手段將敵人逼到走投無路再活捉，面對格里芬十分高傲，但不屑於使用過於卑劣的手段。
     forces: 1
     pow_rank: 4
     life_rank: 4
@@ -3738,8 +4629,10 @@
     spine_scale: "75,75,1"
   }
   {
+    sub_id: 191001
     id: 191
     name: 游移祭司
+    sub_name: 游移祭司
     type: 1
     code: Alchemist
     introduce: 擅長應對各種戰術需求，也精通審訊逼供，是鐵血作戰的精英，和破壞者有時會搭檔。狂妄自大，囂張而殘忍，為達目的不擇手段，有施虐傾向，將格里芬視為滿足慾望的玩物，不過心理成熟，可以為鐵血的同伴挺身而出。
@@ -3758,8 +4651,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 192001
     id: 192
     name: 擾動修士
+    sub_name: 擾動修士
     type: 1
     code: Intruder
     introduce: 負責提供作戰策略，也擅長破解和干擾工作，可以直接指揮作戰人形，是稍高級的人形，直接對計量官負責。優雅溫和的言行背後，令人感到的是巨大的空洞，喜歡人類的戲劇，可能是希望從中找到自己的個性。
@@ -3778,8 +4673,10 @@
     spine_scale: "85,85,1"
   }
   {
+    sub_id: 193001
     id: 193
     name: 收斂愚者
+    sub_name: 收斂愚者
     type: 1
     code: Justice
     introduce: 偏向指揮能力，負責鐵血總部的防禦和安全系統，相當於伊萊莎的侍衛，只會聽從伊萊莎個人的命令，是蝴蝶事件之後才製造的人形，整天面對夢想家很頭疼。嚴肅古板，充滿軍人的威嚴和風範，對伊萊莎絕對忠誠，但個子比較矮小，讓人覺得缺乏氣勢，提出這一點的人無論敵我都會倒大霉。
@@ -3799,11 +4696,13 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 194001
     id: 194
     name: 魘淵夕來
+    sub_name: 魘淵夕來
     type: 1
     code: Scarecrow_SpringFes
-    introduce: 稻草人-魘淵夕來，火力改造強化後的新型號。迭代升級後的浮游槍能為稻草人提供更強大的輸出，而安裝在稻草人指尖的指揮端口也得到了信號加強，和浮游槍之間的鏈接也更為緊密。據說服裝設計靈感來源於神話傳說中會在年底來到人類村莊大肆破壞的猛獸，它雙眼的凶光能劃破夜晚的黑暗，鋒利的爪子能撕碎一切阻礙……恰如此刻的稻草人。
+    introduce: 稻草人-魘淵夕來，火力改造強化後的新型號。迭代升級後的浮游槍能為稻草人提供更強大的輸出，而安裝在稻草人指尖的指揮端口也得到了訊號加強，和浮游槍之間的連接也更為緊密。據說服裝設計靈感來源於神話傳說中會在年底來到人類村莊大肆破壞的猛獸，它雙眼的凶光能劃破夜晚的黑暗，鋒利的爪子能撕碎一切阻礙……恰如此刻的稻草人。
     forces: 1
     pow_rank: 5
     life_rank: 4
@@ -3819,109 +4718,10 @@
     spine_scale: "70,70,1"
   }
   {
-    id: 195
-    name: 稻草人
-    type: 1
-    code: Scarecrow
-    introduce: 擅長收集和分析情報，並不擅長正面作戰，在鐵血人形中地位較低。理性派，無口毒舌，忠於職守，鄙夷感性，面對感情豐富卻只懂得服從的格里芬人形充滿優越感。
-    forces: 1
-    pow_rank: 5
-    life_rank: 4
-    hit_rank: 4
-    dodge_rank: 4
-    rate_rank: 4
-    speed_rank: 4
-    range_rank: 3
-    counter: 遊蕩在灰域的敵人，請謹慎應對!
-    character: "1001,306,307"
-    enemy_skill: "184,185,186"
-    launch_time: 2035-5-20 00:00:00
-    spine_scale: "70,70,1"
-  }
-  {
-    id: 196
-    name: 建築師
-    type: 1
-    code: BossArchitect
-    introduce: 擅長遠程破壞和火力支援，作戰能力很強，通常獨來獨往。活潑開朗的沒頭腦元氣少女，什麼時候都興高采烈，對格里芬也沒有敵對意識，對於鐵血只能最低限度地服從命令，但是對轟炸和破壞十分熱心，所以作為敵人仍然十分危險。
-    forces: 1
-    pow_rank: 6
-    life_rank: 5
-    hit_rank: 4
-    dodge_rank: 3
-    rate_rank: 3
-    speed_rank: 3
-    range_rank: 5
-    counter: 遊蕩在灰域的敵人，請謹慎應對!
-    character: "1001,319"
-    enemy_skill: "187,188,189"
-    launch_time: 2035-5-20 00:00:00
-    spine_scale: "85,85,1"
-  }
-  {
-    id: 197
-    name: 干擾者
-    type: 1
-    code: Intruder
-    introduce: 負責提供作戰策略，也擅長破解和干擾工作，可以直接指揮作戰人形，是稍高級的人形，直接對計量官負責。優雅溫和的言行背後，令人感到的是巨大的空洞，喜歡人類的戲劇，可能是希望從中找到自己的個性。
-    forces: 1
-    pow_rank: 4
-    life_rank: 4
-    hit_rank: 3
-    dodge_rank: 4
-    rate_rank: 5
-    speed_rank: 3
-    range_rank: 3
-    counter: 遊蕩在灰域的敵人，請謹慎應對!
-    character: "1001,306"
-    enemy_skill: "190,191,192"
-    launch_time: 2035-5-20 00:00:00
-    spine_scale: "85,85,1"
-  }
-  {
-    id: 198
-    name: 破壞者
-    type: 1
-    code: DestroyerPlus
-    introduce: 原本的破壞者被夢想家改造素體之後的全新姿態，火力得到大幅增強，威力較之原本更上了一層樓，但性格與心智並沒有太大的改變。
-    forces: 1
-    pow_rank: 5
-    life_rank: 5
-    hit_rank: 4
-    dodge_rank: 3
-    rate_rank: 3
-    speed_rank: 4
-    range_rank: 5
-    counter: 遊蕩在灰域的敵人，請謹慎應對!
-    character: "1001,319"
-    enemy_skill: "193,194,195"
-    launch_time: 2035-5-20 00:00:00
-    spine_scale: "85,85,1"
-  }
-  {
-    id: 199
-    name: 法官
-    type: 1
-    code: Justice
-    introduce: 偏向指揮能力，負責鐵血總部的防禦和安全系統，相當於伊萊莎的侍衛，只會聽從伊萊莎個人的命令，是蝴蝶事件之後才製造的人形，整天面對夢想家很頭疼。嚴肅古板，充滿軍人的威嚴和風範，對伊萊莎絕對忠誠，但個子比較矮小，讓人覺得缺乏氣勢，提出這一點的人無論敵我都會倒大霉。
-    forces: 1
-    pow_rank: 5
-    life_rank: 6
-    hit_rank: 4
-    dodge_rank: 4
-    rate_rank: 4
-    armor_rank: 3
-    speed_rank: 4
-    range_rank: 5
-    counter: 遊蕩在灰域的敵人，請謹慎應對!
-    character: "1001,309,307"
-    enemy_skill: "196,197,198"
-    launch_time: 2035-5-20 00:00:00
-    spine_scale: "70,70,1"
-  }
-  {
+    sub_id: 200001
     id: 200
     name: 阿拉克涅
+    sub_name: 阿拉克涅
     type: 2
     code: MechanicalSpiderM
     introduce: 蜘蛛型的作戰機器人母體，具有相對穩定和高速機動性，同時搭載了大量小型作戰機器人，在攻堅戰和遭遇戰中都是十分可怕的對手。
@@ -3934,16 +4734,18 @@
     armor_rank: 5
     speed_rank: 3
     range_rank: 2
+    tenacity_rank: 3
     counter: 高護甲單位，會製造出複製體來干擾作戰，本身也具有一定的防禦能力，請注意提高梯隊的整體作戰能力應對。
     character: "1001,1005,302,309,321"
     enemy_skill: "199,200,201"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "70,70,1"
-    tenacity_rank: 3
   }
   {
+    sub_id: 201001
     id: 201
     name: 阿拉克涅複製體
+    sub_name: 阿拉克涅複製體
     type: 2
     code: MechanicalSpiderS
     introduce: 蜘蛛型的小型作戰機器人，具有超高的機動性和攻擊能力。對生物和機械單位都能夠造成有效殺傷，數量繁多且難以捕捉，是令人畏懼的對手。
@@ -3963,8 +4765,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 202001
     id: 202
     name: 特洛伊
+    sub_name: 特洛伊
     type: 4
     code: Fortress
     introduce: 堡壘型特重級作戰機器人，可供陸地部隊搭載的同時，自身也具備戰略級的戰場攻堅能力，是足以影響戰局的高級作戰單位。
@@ -3977,16 +4781,18 @@
     armor_rank: 6
     speed_rank: 3
     range_rank: 3
+    tenacity_rank: 5
     counter: 該單位擁有強大的防禦能力，並且也具有不俗的範圍打擊能力，建議優先解決。
     character: "1001,1005,302,309,319,313"
     enemy_skill: "203,204,205"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "70,70,1"
-    tenacity_rank: 5
   }
   {
+    sub_id: 203001
     id: 203
     name: 機巧士
+    sub_name: 機巧士
     type: 3
     code: Engineer
     introduce: 工程型人形作戰單位，自身並不具備強勁的破壞力和殺傷力，但作為敵方的支援單位十分棘手，身旁的無人機隨時俯瞰著戰場情況。
@@ -4005,8 +4811,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 204001
     id: 204
     name: 拉冬
+    sub_name: 拉冬
     type: 4
     code: Mecha_N
     introduce: 帕拉蒂斯生產的最新型特重型機甲單位，擁有堪稱全能的作戰能力，在遠程，中程和近程作戰中都具備難以抵擋的破壞力，是令人望而生畏的可怕對手。
@@ -4026,8 +4834,10 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 205001
     id: 205
     name: 光炮士
+    sub_name: 光炮士
     type: 3
     code: Artillery
     introduce: 與重炮士極為類似，進一步搭載更加強大的火力，裝備的重量級繼續提高，代價是移動速度上出現了一定的降低。
@@ -4046,12 +4856,15 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 206001
     id: 206
     name: 紗那
+    sub_name: 紗那
     type: 1
     code: Nyto_mecha2
     introduce: 帕拉蒂斯的精銳單位，外表看上去只是個柔弱的小女孩，但當她戴上特製面具登上專屬於她的機甲，你只會恨自己跑得不夠快。
     forces: 3
+    if_capture: 1
     pow_rank: 5
     life_rank: 6
     hit_rank: 5
@@ -4066,8 +4879,33 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 206002
+    id: 206
+    name: 紗那
+    sub_name: 紗那-強化型
+    type: 1
+    code: Nyto_mecha2
+    introduce: 帕拉蒂斯的精銳單位，外表看上去只是個柔弱的小女孩，但當她戴上特製面具登上專屬於她的機甲，你只會恨自己跑得不夠快。
+    forces: 3
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 6
+    rate_rank: 4
+    speed_rank: 6
+    range_rank: 7
+    counter: 該單位擁有極強的干擾戰場的能力，請注意使用合適梯隊應對。
+    character: "1001,216"
+    enemy_skill: "211,212,213,214,215,216"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 207001
     id: 207
     name: 甘拉狄
+    sub_name: 甘拉狄
     type: 1
     code: Pamzan_Final
     introduce: 隸屬於帕拉蒂斯的來歷不明的殺手，是使用機械和人類肉體拼接而成的詭異造物，使用在他身上的技術似乎有別於其他帕拉蒂斯單位。
@@ -4080,16 +4918,18 @@
     armor_rank: 2
     speed_rank: 4
     range_rank: 3
+    tenacity_rank: 5
     counter: 該單位的斬殺能力非常強大，請注意使用合適的梯隊應對。
     character: "1001"
     enemy_skill: "217,218,219,220"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "70,70,1"
-    tenacity_rank: 5
   }
   {
+    sub_id: 208001
     id: 208
     name: M4A1傀儡
+    sub_name: M4A1傀儡
     type: 3
     code: M4A1_enemy
     introduce: M4A1的傀儡，沒有了本體的優柔寡斷，能夠做到完全服從命令。
@@ -4106,8 +4946,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 209001
     id: 209
     name: AR15傀儡
+    sub_name: AR15傀儡
     type: 3
     code: AR15_enemy
     introduce: AR15的傀儡，除了不會冷笑以外，和本體的區別不大。
@@ -4124,8 +4966,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 210001
     id: 210
     name: SOP2傀儡
+    sub_name: SOP2傀儡
     type: 3
     code: M4 SOPMOD II_enemy
     introduce: SOP2的傀儡，和本體的行為邏輯完全一致，連笑聲也同樣令敵人聞風喪膽。
@@ -4142,8 +4986,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 211001
     id: 211
     name: M16A1
+    sub_name: M16A1
     type: 3
     code: M16A1Griffin
     introduce: 被賦予了特殊使命和權限的M16A1，將在每一個重要的岔路口醒來，將AR小隊推回光明的道路。
@@ -4160,8 +5006,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 212001
     id: 212
     name: 警衛團槍手
+    sub_name: 警衛團槍手
     type: 3
     code: USSR_Agent
     introduce: 別斯蘭警衛團中的主要武裝成員，由狂熱的極端人士組成，接受過正規的戰術指導和訓練，能夠熟練使用槍械，是暴動中的主要武裝力量。
@@ -4177,8 +5025,10 @@
     launch_time: 2035-5-20 00:00:00
   }
   {
+    sub_id: 213001
     id: 213
     name: 虛弱的靈蛇權杖
+    sub_name: 虛弱的靈蛇權杖
     type: 3
     code: Obelisk_partB
     introduce: 使用機槍的重火力人形，攜帶的機槍在充分蓄能之後能夠發射3次等離子光束，光束具有致盲效果，並能在一定程度上無視閃避。在裝載【阿克索之皿】後，威力將有巨大提升。虛弱後傷害大幅降低。
@@ -4197,54 +5047,13 @@
     spine_scale: "100,100,1"
   }
   {
-    id: 214
-    name: 紗那
-    type: 1
-    code: Nyto_mecha2
-    introduce: 紗那，機甲駕駛特化人形。經過特殊的培養和訂製，駕駛機甲對她而言幾乎沒有負擔，可以長時間操縱機甲戰鬥。因此，即便防禦再厚，也很難長時間抵擋擁有極強的火力輸出和持久的戰鬥力的她。不同於其他帕拉蒂斯，紗那的記憶全部來自於名為「紗那」的人類女孩，被期望成「紗那」的她卻對這份記憶感到陌生和撕裂，她或許也在期待著某天能夠摘下面具，成為自己……
-    forces: 3
-    if_capture: 1
-    pow_rank: 5
-    life_rank: 6
-    hit_rank: 5
-    dodge_rank: 6
-    rate_rank: 4
-    speed_rank: 6
-    range_rank: 7
-    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
-    character: "1001,216"
-    enemy_skill: "211,212,213,214,215,216"
-    launch_time: 2035-5-20 00:00:00
-    spine_scale: "70,70,1"
-    org_id: 10604
-  }
-  {
-    id: 215
-    name: 娜希斯
-    type: 1
-    code: BossNarciss
-    introduce: 娜希斯，戰鬥特化涅托，曾經的帕拉蒂斯精銳，擅長使用浮游刃和近身突襲擊潰敵人。為了將她的戰鬥效率發揮到極致，帕拉蒂斯為她打造了兼具力量和速度的肢體、武器，並無視了由此帶來的精神層面的高負荷。長期承受高強度的精神、身體雙重重壓，娜希斯失去了同理心，善惡觀也變得混沌，最終成為了徹頭徹尾的殺戮武器。但當武器脫離了賦予她殺戮意志的人時，內心或許也有重歸平靜的一天。
-    forces: 3
-    if_capture: 1
-    pow_rank: 5
-    life_rank: 5
-    hit_rank: 5
-    dodge_rank: 5
-    rate_rank: 5
-    speed_rank: 5
-    range_rank: 5
-    counter: 該單位在戰鬥中具有近戰/遠程兩種輸出模式,若擊毀全部七把浮游刀,該單位將由遠程模式切換至近戰模式,近戰模式下將對低編製單位造成極大威脅。
-    character: "1001,329,330"
-    enemy_skill: "108,109,110"
-    launch_time: 2035-5-20 00:00:00
-    org_id: 10603
-  }
-  {
+    sub_id: 216001
     id: 216
     name: 夢想家-霧月翼手
+    sub_name: 夢想家-霧月翼手
     type: 1
     code: Dreamer_Halloween
-    introduce: 夢想家-霧月翼手，針對暗夜環境研發的特化型號。改良後的雷射武器能在更遠距離對敵方後排實現強力穿透，而應夢想家本人喜好訂製的一對惡魔之角也將在戰鬥時同步釋放干擾訊號，令己方「置身」重重黑霧中，宛如鬼魅現世，散播迷瘴、混沌與聲勢浩大的死亡……最好祈禱不要在夜晚與她遭遇——因為在她的絕對主場中，沒有一隻獵物可以僥倖生還。
+    introduce: 夢想家-霧月翼手，針對暗夜環境研發的特化型號。改良後的雷射武器能在更遠距離對敵方後排實現強力穿透，而應夢想家本人喜好定制的一對惡魔之角也將在戰鬥時同步釋放干擾訊號，令己方「置身」重重黑霧中，宛如鬼魅現世，散播迷瘴、混沌與聲勢浩大的死亡……最好祈禱不要在夜晚與她遭遇——因為在她的絕對主場中，沒有一隻獵物可以僥倖生還。
     forces: 1
     if_capture: 1
     pow_rank: 5
@@ -4261,8 +5070,10 @@
     org_id: 10604
   }
   {
+    sub_id: 217001
     id: 217
     name: ST AR-15
+    sub_name: ST AR-15
     type: 3
     code: AR15Mod_enemy
     introduce: 未曾設想的敵人。
@@ -4280,8 +5091,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 218001
     id: 218
     name: A-545
+    sub_name: A-545
     type: 3
     code: A545_NPC
     introduce: 未曾設想的敵人。
@@ -4299,8 +5112,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 219001
     id: 219
     name: PPSh-41
+    sub_name: PPSh-41
     type: 3
     code: PPsh41Enemy
     introduce: 未曾設想的敵人。
@@ -4318,8 +5133,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 220001
     id: 220
     name: AK-47
+    sub_name: AK-47
     type: 3
     code: AK47_enemy
     introduce: 未曾設想的敵人。
@@ -4336,8 +5153,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 221001
     id: 221
     name: 蝎式
+    sub_name: 蝎式
     type: 3
     code: VZ61Enemy
     introduce: 未曾設想的敵人。
@@ -4354,8 +5173,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 222001
     id: 222
     name: MAC-10
+    sub_name: MAC-10
     type: 3
     code: MAC10Enemy
     introduce: 未曾設想的敵人。
@@ -4372,8 +5193,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 223001
     id: 223
     name: 懾鋒·異構體
+    sub_name: 懾鋒·異構體
     type: 3
     code: Nyto_Isomer_F
     introduce: 被遺忘的存在，只記得要握緊手中的利刃。
@@ -4391,8 +5214,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 224001
     id: 224
     name: 渾沌·異構體
+    sub_name: 渾沌·異構體
     type: 3
     code: Nyto_Isomer_N
     introduce: 被遺忘的存在，只記得要撕裂每一個擋在前方的目標。
@@ -4410,8 +5235,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 225001
     id: 225
     name: 極星·異構體
+    sub_name: 極星·異構體
     type: 3
     code: Nyto_Isomer_S
     introduce: 被遺忘的存在，只記得瞄準、攻擊、瞄準、攻擊。
@@ -4429,8 +5256,10 @@
     launch_time: 2016-5-20 00:00:00
   }
   {
+    sub_id: 226001
     id: 226
     name: Dr.48
+    sub_name: Dr.48
     type: 3
     code: Mk48_10304_enemy
     introduce: 福克斯姐妹會的下屬人形，常駐醫療部門，主要負責戀愛腦的相關醫治。
@@ -4447,8 +5276,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 227001
     id: 227
     name: Dr.菲德洛夫
+    sub_name: Dr.菲德洛夫
     type: 3
     code: Fedorov_10305_enemy
     introduce: 福克斯姐妹會的下屬人形，常駐醫療部門，主要負責鎮定安寧的藥物投放。
@@ -4465,8 +5296,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 228001
     id: 228
     name: Dr.90
+    sub_name: Dr.90
     type: 3
     code: PP90_10306_enemy
     introduce: 福克斯姐妹會的下屬人形，常駐醫療部門，主要負責醫患關係的調解。
@@ -4483,8 +5316,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 229001
     id: 229
     name: Dr.TPS
+    sub_name: Dr.TPS
     type: 3
     code: TPS_10301_enemy
     introduce: 福克斯姐妹會的下屬人形，常駐醫療部門，主要負責患者的遊戲陪玩服務。
@@ -4501,8 +5336,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 230001
     id: 230
     name: 傀儡·520
+    sub_name: 傀儡·520
     type: 3
     code: Stevens520_enemy
     introduce: 複製了某個時間段的Stevens 520的資料而形成的傀儡，據使用者評價，沒有本人美麗優雅。
@@ -4519,8 +5356,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 231001
     id: 231
     name: 傀儡·620
+    sub_name: 傀儡·620
     type: 3
     code: Stevens620_enemy
     introduce: 複製了某個時間段的Stevens 620的資料而形成的傀儡，據使用者評價，和本人一樣討厭。
@@ -4537,8 +5376,10 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 232001
     id: 232
     name: 傀儡·艾爾瑪
+    sub_name: 傀儡·艾爾瑪
     type: 3
     code: Erma_enemy
     introduce: 複製了某個時間段的艾爾瑪的資料而形成的傀儡，據使用者評價，比本人能打。
@@ -4555,11 +5396,13 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 100001001
     id: 100001
     name: 鶚視虎
+    sub_name: 鶚視虎
     type: 1
     code: Gebbennu
-    introduce: 神秘的巨型復式戰鬥單位，火力極強，除此以外的地方都是謎團。
+    introduce: 神秘的巨型複式戰鬥單位，火力極強，除此以外的地方都是謎團。
     forces: 3
     pow_rank: 6
     life_rank: 7
@@ -4574,8 +5417,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100011001
     id: 100011
     name: 持盾者
+    sub_name: 持盾者
     type: 3
     code: DivMauler
     introduce: 未曾設想的敵人。
@@ -4592,8 +5437,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100012001
     id: 100012
     name: 擲彈兵
+    sub_name: 擲彈兵
     type: 3
     code: DivGrenadier
     introduce: 未曾設想的敵人。
@@ -4605,13 +5452,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位將向預警位置製造較強的燃燒傷害，注意指揮人形及時移動規避
+    counter: 該單位將向提示位置製造較強的燃燒傷害，注意指揮人形及時移動規避
     character: "403"
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100013001
     id: 100013
     name: 清掃者
+    sub_name: 清掃者
     type: 3
     code: DivSweeper
     introduce: 未曾設想的敵人。
@@ -4628,8 +5477,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100014001
     id: 100014
     name: 跑者
+    sub_name: 跑者
     type: 3
     code: DivRunner
     introduce: 未曾設想的敵人。
@@ -4646,8 +5497,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100015001
     id: 100015
     name: 警衛
+    sub_name: 警衛
     type: 3
     code: DivGuard
     introduce: 未曾設想的敵人。
@@ -4659,13 +5512,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位將向預警位置製造較強的投擲傷害，注意指揮人形及時移動規避。提升整體的生存能力也可以有效針對該目標。
+    counter: 該單位將向提示位置製造較強的投擲傷害，注意指揮人形及時移動規避。提升整體的生存能力也可以有效針對該目標。
     character: "1001,406,407"
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100016001
     id: 100016
     name: 執行者
+    sub_name: 執行者
     type: 3
     code: DivExecutor
     introduce: 未曾設想的敵人。
@@ -4682,8 +5537,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100017001
     id: 100017
     name: 步槍手
+    sub_name: 步槍手
     type: 3
     code: DivRifleman
     introduce: 未曾設想的敵人。
@@ -4700,8 +5557,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100018001
     id: 100018
     name: 偵察兵
+    sub_name: 偵察兵
     type: 3
     code: DivScout
     introduce: 未曾設想的敵人。
@@ -4713,13 +5572,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位將向預警位置製造投擲傷害，同時削弱受擊目標，注意指揮後排人形及時移動規避。
+    counter: 該單位將向提示位置製造投擲傷害，同時削弱受擊目標，注意指揮後排人形及時移動規避。
     character: "409,410"
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100019001
     id: 100019
     name: 工程師
+    sub_name: 工程師
     type: 3
     code: DivEngineer
     introduce: 未曾設想的敵人。
@@ -4736,8 +5597,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100020001
     id: 100020
     name: 叛變特工
+    sub_name: 叛變特工
     type: 3
     code: DivTraitor
     introduce: 未曾設想的敵人。
@@ -4754,8 +5617,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100021001
     id: 100021
     name: 特工47
+    sub_name: 特工47
     type: 1
     code: AK47_enemy
     introduce: 未曾設想的敵人。
@@ -4772,8 +5637,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100022001
     id: 100022
     name: 焚燒者:羅伯特
+    sub_name: 焚燒者:羅伯特
     type: 1
     code: DivBurn
     introduce: 遊蕩在街頭的淨化者成員，堅信燒光一切被污染之物才能拯救城市。他會對鎖定的目標窮追不捨，直到將其徹底燒盡。
@@ -4790,8 +5657,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100023001
     id: 100023
     name: 獠牙
+    sub_name: 獠牙
     type: 1
     code: HK416Boss
     introduce: 擁有和HK416相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮倖存者軍隊的能力之外，其他一切皆為謎團。
@@ -4808,11 +5677,13 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100024001
     id: 100024
     name: 地獄火
+    sub_name: 地獄火
     type: 1
     code: VectorBoss
-    introduce: 擁有和Vector相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮淨化者陣營的能力之外，其他一切皆為謎團。
+    introduce: 擁有和維克托相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮淨化者陣營的能力之外，其他一切皆為謎團。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4821,13 +5692,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 擁有和Vector相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮淨化者陣營的能力之外，其他一切皆為謎團。
+    counter: 擁有和維克托相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮淨化者陣營的能力之外，其他一切皆為謎團。
     character: "1001,419,418,416"
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100025001
     id: 100025
     name: 獠牙
+    sub_name: 獠牙
     type: 1
     code: HK416Boss
     introduce: 擁有和HK416相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮倖存者軍隊的能力之外，其他一切皆為謎團。
@@ -4844,11 +5717,13 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100026001
     id: 100026
     name: 地獄火
+    sub_name: 地獄火
     type: 1
     code: VectorBoss
-    introduce: 擁有和Vector相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮淨化者陣營的能力之外，其他一切皆為謎團。
+    introduce: 擁有和維克托相同的樣貌，但似乎是只存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮淨化者陣營的能力之外，其他一切皆為謎團。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4862,8 +5737,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100027001
     id: 100027
-    name: Vector
+    name: 維克托
+    sub_name: 維克托
     type: 1
     code: Vector_enemy
     introduce: 未曾設想的敵人。
@@ -4880,8 +5757,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100028001
     id: 100028
     name: 魔化黑騎
+    sub_name: 魔化黑騎
     type: 3
     code: Dropkick_MeleeDevil
     introduce: 未曾設想的敵人。
@@ -4898,8 +5777,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100029001
     id: 100029
     name: 魔化巨獸
+    sub_name: 魔化巨獸
     type: 3
     code: Dropkick_RemoteDevil
     introduce: 未曾設想的敵人。
@@ -4916,8 +5797,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100030001
     id: 100030
     name: 刨冰精靈
+    sub_name: 刨冰精靈
     type: 3
     code: Dropkick_IceGhost
     introduce: 未曾設想的敵人。
@@ -4929,13 +5812,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 該單位會透過疊加印記冰凍受擊目標，造成真實傷害，建議迅速解決。
+    counter: 該單位會通過疊加印記冰凍受擊目標，造成真實傷害，建議迅速解決。
     character: "1001,315,324,329"
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100031001
     id: 100031
     name: 小單眼
+    sub_name: 小單眼
     type: 3
     code: Dropkick_CyclopsChan
     introduce: 未曾設想的敵人。
@@ -4952,8 +5837,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100032001
     id: 100032
     name: 撒豆使者
+    sub_name: 撒豆使者
     type: 3
     code: Dropkick_BeansEmissary
     introduce: 未曾設想的敵人。
@@ -4970,8 +5857,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100033001
     id: 100033
-    name: 貝多
+    name: 貝特
+    sub_name: 貝特
     type: 3
     code: Dropkick_Beth
     introduce: 未曾設想的敵人。
@@ -4988,8 +5877,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100034001
     id: 100034
-    name: 虛假百合鈴
+    name: 虛假百合玲
+    sub_name: 虛假百合玲
     type: 1
     code: Dropkick_YurineBoss
     introduce: 未曾設想的敵人。
@@ -5001,13 +5892,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 能召喚強化後的魔物小兵並賦予它們強大的防禦護盾，頻繁對面前大片區域造成高額傷害。不過虛假百合鈴在控制住敵方的強力輸出單位的同時會暴露自身的弱點，趁此機會擊破她吧！
+    counter: 能召喚強化後的魔物小兵並賦予它們強大的防禦護盾，頻繁對面前大片區域造成高額傷害。不過虛假百合玲在控制住敵方的強力輸出單位的同時會暴露自身的弱點，趁此機會擊破她吧！
     character: "1001,321,329"
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100035001
     id: 100035
     name: 憤怒化的米諾斯
+    sub_name: 憤怒化的米諾斯
     type: 1
     code: Dropkick_MinosBoss
     introduce: 未曾設想的敵人。
@@ -5024,8 +5917,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100036001
     id: 100036
     name: 海邊的西瓜
+    sub_name: 海邊的西瓜
     type: 2
     code: Pathfinder_Small
     introduce: 一顆普通的西瓜。
@@ -5042,8 +5937,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100037001
     id: 100037
     name: 浴場刺客
+    sub_name: 浴場刺客
     type: 3
     code: Bathhouse_guest_2
     introduce: 熱衷於在浴場泡澡的不明閒散人士。性格狂躁，動手能力極強，還喜愛在泡澡時突然施展花樣游泳等水上運動，因此成為了人們最不想在浴場遇見的對象。
@@ -5061,8 +5958,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100038001
     id: 100038
     name: 浴場刺客
+    sub_name: 浴場刺客
     type: 3
     code: Bathhouse_guest_1
     introduce: 熱衷於在浴場泡澡的不明閒散人士。性格狂躁，動手能力極強，還喜愛在泡澡時突然施展花樣游泳等水上運動，因此成為了人們最不想在浴場遇見的對象。
@@ -5080,8 +5979,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100039001
     id: 100039
     name: 狂飆飛輪
+    sub_name: 狂飆飛輪
     type: 4
     code: Tyre_enemy
     introduce: 疑似擁有自我意識的車輪，會突然出現在街頭，並根據自己的喜好狂奔向受害者身邊……是新一代的都市傳說。
@@ -5099,8 +6000,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100040001
     id: 100040
     name: 貨車狂徒
+    sub_name: 貨車狂徒
     type: 4
     code: Truck_enemy
     introduce: 神秘莫測的輕型貨運卡車，交通安全法考試從未合格，但仍然放肆地在各地超速行駛，尤其喜歡在靜謐的居民區街道暴衝。
@@ -5118,8 +6021,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100041001
     id: 100041
     name: 泡泡機
+    sub_name: 泡泡機
     type: 4
     code: Bubble_machine
     introduce: 用於製造搖曳泡影的微型工廠，移動緩慢，本身不具備殺傷力，因此經常遭到小朋友和家長群體的追逐。
@@ -5137,8 +6042,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100042001
     id: 100042
     name: 搖曳泡影
+    sub_name: 搖曳泡影
     type: 2
     code: Bubble
     introduce: 外觀酷似使用肥皂水吹制而成的泡泡，具備淡淡的皂香和夢幻的泡影。是最適合潛伏在浴場中的偵察者，悄然接近敵人的身邊，在被發現時「啪」地消失掉。
@@ -5156,11 +6063,13 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100043001
     id: 100043
     name: 羅梅羅
+    sub_name: 羅梅羅
     type: 2
     code: saga_dog_enemy
-    introduce: 來歷不明的殭屍犬，喜愛魷魚絲，忠心耿耿地履行著看家護院、守護法蘭秀秀的職責。看上去瘦弱嬌小，一旦變身就將化為夷平一切的惡犬。
+    introduce: 來歷不明的僵屍犬，喜愛魷魚絲，忠心耿耿地履行著看家護院、守護法蘭秀秀的職責。看上去瘦弱嬌小，一旦變身就將化為夷平一切的惡犬。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5169,14 +6078,16 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 來歷不明的殭屍犬，喜愛魷魚絲，忠心耿耿地履行著看家護院、守護法蘭秀秀的職責。看上去瘦弱嬌小，一旦變身就將化為夷平一切的惡犬。
+    counter: 來歷不明的僵屍犬，喜愛魷魚絲，忠心耿耿地履行著看家護院、守護法蘭秀秀的職責。看上去瘦弱嬌小，一旦變身就將化為夷平一切的惡犬。
     character: "304,315"
     enemy_skill: "10043"
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100044001
     id: 100044
     name: 灰色歌者
+    sub_name: 灰色歌者
     type: 3
     code: HK21_SagaEnemy
     introduce: 夜間咖啡館成員之一，會高喊著「姐姐大人」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
@@ -5194,8 +6105,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100045001
     id: 100045
     name: 綠色歌者
+    sub_name: 綠色歌者
     type: 3
     code: JS-127_SagaEnemy
     introduce: 夜間咖啡館成員之一，會高喊著「劉海角度」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
@@ -5213,8 +6126,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100046001
     id: 100046
     name: 紅色歌者
+    sub_name: 紅色歌者
     type: 3
     code: PM06_SagaEnemy
     introduce: 夜間咖啡館成員之一，會高喊著「紅通通」奔向對方。如果沒有給出正確的回應，似乎會遭到她的懲罰。
@@ -5232,8 +6147,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100047001
     id: 100047
     name: 不羈主唱
+    sub_name: 不羈主唱
     type: 3
     code: MG5_SagaEnemy
     introduce: 灰樹樂隊的主唱，冷冽不羈，看上去是樂隊中最難招惹的對象，而實際上是著名和平愛好者，經常解決樂隊成員惹出的麻煩。
@@ -5251,11 +6168,13 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100048001
     id: 100048
     name: 烈焰吉他手
+    sub_name: 烈焰吉他手
     type: 3
     code: M1887_SagaEnemy
-    introduce: 灰樹樂隊的吉他手，隨身攜帶紅色染發劑和燃燒劑，喜歡烈焰般的顏色，在暴躁時也會親手製造烈焰。
+    introduce: 灰樹樂隊的吉他手，隨身攜帶紅色染髮劑和燃燒劑，喜歡烈焰般的顏色，在暴躁時也會親手製造烈焰。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5264,14 +6183,16 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 灰樹樂隊的吉他手，隨身攜帶紅色染發劑和燃燒劑，喜歡烈焰般的顏色，在暴躁時也會親手製造烈焰。
+    counter: 灰樹樂隊的吉他手，隨身攜帶紅色染髮劑和燃燒劑，喜歡烈焰般的顏色，在暴躁時也會親手製造烈焰。
     character: "100"
     enemy_skill: "10048"
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100049001
     id: 100049
     name: 追影鼓手
+    sub_name: 追影鼓手
     type: 3
     code: 80type_SagaEnemy
     introduce: 灰樹樂隊的鼓手，表演時的速度幾乎無法用肉眼捕捉，還擅長用無人機製造出絢爛的演出特效，但偶爾也會失手把無人機飛到觀眾席中。
@@ -5289,8 +6210,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100050001
     id: 100050
     name: 墨鏡貝斯手
+    sub_name: 墨鏡貝斯手
     type: 3
     code: M1897_SagaEnemy
     introduce: 灰樹樂隊的貝斯手，總是將表情藏在墨鏡之後，讓人難以揣摩她究竟是醒是睡，手中彈奏的究竟是貝斯還是掃把。
@@ -5308,8 +6231,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100051001
     id: 100051
     name: 神秘鍵盤手
+    sub_name: 神秘鍵盤手
     type: 3
     code: G11_SagaEnemy
     introduce: 灰樹樂隊的鍵盤手，只在演出時現身，平常幾乎不出現。除了樂隊的工作，似乎還有著自己的神秘任務。
@@ -5327,8 +6252,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100052001
     id: 100052
     name: 都市隸人
+    sub_name: 都市隸人
     type: 3
     code: FacelessMenA
     introduce: 被日復一日的工作模糊了面孔，在看不見盡頭的加班中失去了本心，最終淪為了憤怒的傀儡。
@@ -5345,8 +6272,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100053001
     id: 100053
     name: 都市隸人
+    sub_name: 都市隸人
     type: 3
     code: FacelessMenB
     introduce: 被日復一日的工作模糊了面孔，在看不見盡頭的加班中失去了本心，最終淪為了憤怒的傀儡。
@@ -5363,8 +6292,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100054001
     id: 100054
     name: SPS的傀儡
+    sub_name: SPS的傀儡
     type: 3
     code: SPS_NPC
     introduce: 這個謝爾久科夫不說敬語。
@@ -5381,8 +6312,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100055001
     id: 100055
     name: KSVK的傀儡
+    sub_name: KSVK的傀儡
     type: 3
     code: KSVK_NPC
     introduce: 這個KSVK一點也不中二。
@@ -5399,8 +6332,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100056001
     id: 100056
     name: A545的傀儡
+    sub_name: A545的傀儡
     type: 3
     code: A545_NPC
     introduce: 這個A-545不喝伏特加。
@@ -5417,8 +6352,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100057001
     id: 100057
     name: 江崎普琳
+    sub_name: 江崎普琳
     type: 1
     code: EzakiBoss
     introduce: 情緒憤怒、火力也同樣憤怒的普琳，最好祈禱不要被她抓到。另外，這個普琳不吃布丁。
@@ -5436,8 +6373,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100058001
     id: 100058
     name: 島村孝
+    sub_name: 島村孝
     type: 1
     code: TakashiBoss
     introduce: 總是身著黑衣的沉默少年，隱匿在夜色中的幕後推手。
@@ -5455,8 +6394,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100059001
     id: 100059
     name: 水金鈴鹿
+    sub_name: 水金鈴鹿
     type: 1
     code: MizukinnBoss
     introduce: 肩上的RPG和手中的機槍總讓人誤以為恐懼源於她的火力，直到她放下武器，人們才會明白恐懼剛剛開始。
@@ -5474,8 +6415,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100082001
     id: 100082
     name: 殘獸SWAP
+    sub_name: 殘獸SWAP
     type: 3
     code: Brute_SWAP
     introduce: 在原本的殘獸基礎上大幅增強了性能，可以更好地發揮作戰能力。
@@ -5493,8 +6436,10 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100083001
     id: 100083
     name: 鋼獅SWAP
+    sub_name: 鋼獅SWAP
     type: 4
     code: Nemeum_SWAP2
     introduce: 在原本的鋼獅基礎上大幅增強了性能，可以更好地發揮作戰能力。

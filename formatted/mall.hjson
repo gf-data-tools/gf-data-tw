@@ -39124,10 +39124,10 @@
     id: 11976
     type: 8
     sort: 300
+    item_ids: 2497-1
     quota: 2001
     giftbag_name: 頭像：真核面具紀念頭像·八周年
     event_code: dailyGiftbag
-    icon: 2497-1
     discount: 1
     pay_type: 1
     itemprice: 100217-1
