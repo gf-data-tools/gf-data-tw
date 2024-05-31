@@ -30198,6 +30198,36 @@
     rotate: "2,2,2"
   }
   {
+    id: 20135
+    name: 林間風物
+    classes: 19
+    type: 201
+    space: "8,6,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 露營愛好者必備的戶外旅行套裝，有了它，你就能遠離繁忙的現實，享受來自山野林間的悠閒——想來杯熱咖啡？那就得親自動手了，來，這裡是刀子和斧頭，讓我們先從砍柴開始……
+    code: qjyd_20240530_camping_deco1,qjyd_20240530_camping_deco2,qjyd_20240530_camping_deco3,qjyd_20240530_camping_deco4
+    texture_type: "1,1,1,1"
+    sorting: "0,10,20,30"
+    offset: "0.156,-0.886,0.000|0.156,-0.886,0.000|0.156,-0.886,0.000|0.156,-0.886,0.000"
+    rotate: "2,2,2,2"
+  }
+  {
+    id: 20136
+    name: 山味野趣
+    classes: 19
+    type: 201
+    space: "6,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 露營愛好者必備的大型燒烤裝置，可以在叢林茂密的野外盡情製作和享受美味——至於燒烤的味道會引來附近的猛獸……往好處想，這樣不就能吃到最新鮮的野味了嗎？
+    code: qjyd_20240530_bbq_deco1,qjyd_202405_bbq
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "0.177,-0.094,0.000|-0.542,0.344,0.000"
+    rotate: "2,2"
+  }
+  {
     id: 30001
     name: 馬卡洛夫-南瓜熊熊
     classes: 300
