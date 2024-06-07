@@ -262,7 +262,7 @@
     name: 熵減焓增
     chapter_name: 熵減焓增
     bg_code: active_PoincareRecurrence
-    bg_config: "#000000C7,#3D415166,#A3BD13,#FFFFFFFF"
+    bg_config: "#000000C7,#3D415166,#E64801,#FFFFFFFF"
     desc: 活動時間:2021.09.10-10.09
     scene_name: PoincareRecurrencelogo
   }
@@ -378,5 +378,17 @@
     bg_code: missionselect_PolarizedLight_RE
     event_prize_level: 10005
     rank_id: "305"
+  }
+  {
+    id: 34
+    campaign_id: -59
+    tag: C.E.|2023
+    order: 104
+    name: 節日活動Ⅴ
+    chapter_name: 迷籠猜想
+    bg_code: active_2023Rouge
+    bg_config: "#000000C7,#3D415166,#5065bdFF,#FFFFFFFF"
+    desc: 活動時間:2023.01.17-02.09
+    scene_name: active_2023Rougelogo
   }
 ]

@@ -16045,6 +16045,15 @@
     rank: 1
   }
   {
+    id: 10716
+    type: 18
+    arg: "10716"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
     id: 100001
     type: 4
     arg: "100001"
@@ -18044,6 +18053,34 @@
     item_name: 8周年裝扮券
     introduction: 8周年裝扮券
     rank: 1
+  }
+  {
+    id: 100219
+    type: 4
+    arg: "100219"
+    code: Nova_medal
+    item_name: 新星勳章·允許！重新載入
+    introduction: 新星勳章·允許！重新載入
+    rank: 1
+  }
+  {
+    id: 100220
+    type: 4
+    arg: "100220"
+    code: Platinum_medal
+    item_name: 白金勳章·允許！重新載入
+    introduction: 白金勳章·允許！重新載入
+    rank: 1
+  }
+  {
+    id: 100221
+    type: 9
+    arg: "100221"
+    code: Loading_Coin
+    item_name: 載入幣
+    introduction: 載入幣
+    rank: 1
+    daily_limit: "120"
   }
   {
     id: 110001
