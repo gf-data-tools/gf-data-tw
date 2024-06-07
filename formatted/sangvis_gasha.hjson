@@ -1185,8 +1185,8 @@
     id: 91
     name: SP5NANO分區
     type: 1
-    start_time: 2024-06-06 10:00:00
-    end_time: 2024-07-04 10:00:00
+    start_time: 2024-06-14 10:00:00
+    end_time: 2024-07-12 10:00:00
     tab_code: banner_collection47_s.jpg
     banner: banner_collection47_s.jpg
     refresh_rate: 259200
@@ -1198,8 +1198,8 @@
     id: 92
     name: SPzh3000分區
     type: 1
-    start_time: 2024-06-06 10:00:00
-    end_time: 2024-07-04 10:00:00
+    start_time: 2024-06-14 10:00:00
+    end_time: 2024-07-12 10:00:00
     tab_code: banner_collection47_s.jpg
     banner: banner_collection47_s.jpg
     refresh_rate: 259200
