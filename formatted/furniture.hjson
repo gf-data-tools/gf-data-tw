@@ -30228,6 +30228,52 @@
     rotate: "2,2"
   }
   {
+    id: 20137
+    name: 預言指引所
+    classes: 19
+    type: 201
+    space: "5,3,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 站在方寸牌桌前，靈魂終於開始思考——隨手翻開的紙牌究竟是自由意志的巧合，亦或是命運早已決定好的結果？
+    code: 202406Activity_Tarot_deco1,202406Activity_Tarot
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "0.000,0.000,0.000|0.035,0.608,0.144"
+    rotate: "2,2"
+    interact_point: "82013701,82013702,82013703,82013704,82013705,82013706,82013707,82013708,82013709,82013710,82013711"
+    interact_point_offset: *0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000
+  }
+  {
+    id: 20138
+    name: 輪迴抉擇者勳章
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 表彰該指揮官及其麾下的戰術人形在「22重困境」活動中的卓越戰績，「為你，千千萬萬遍。」
+    code: 202406Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20139
+    name: furniture-10020139
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: furniture-20020139
+    code: pv_202404activity
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
     id: 30001
     name: 馬卡洛夫-南瓜熊熊
     classes: 300
@@ -45616,6 +45662,111 @@
     decompose_gift: 100003
     description: 6P62的海報。
     code: poster_Anniversary2024_6P62
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310501
+    name: DSR-50-天鵝絨魅影
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: DSR-50的海報。
+    code: poster_Masque2024_DSR50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310502
+    name: P2000-甜心捕手
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: P2000的海報。
+    code: poster_Masque2024_P2000
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310503
+    name: SIG MCX-黑暗封印
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SIG MCX的海報。
+    code: poster_Masque2024_SIGMCX
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310504
+    name: 德利爾-月下魔術師
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 德利爾的海報。
+    code: poster_Masque2024_Delisle
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310505
+    name: SSG3000-聖少女的祈禮
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SSG3000的海報。
+    code: poster_Masque2024_SSG3000
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310506
+    name: ZiP.22-怦怦夜色
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ZiP.22的海報。
+    code: poster_Masque2024_ZIP22
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310507
+    name: 納甘左輪-盜術史學家
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 納甘左輪的海報。
+    code: poster_Masque2024_M1895
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

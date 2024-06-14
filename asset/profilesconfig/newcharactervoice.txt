@@ -19531,3 +19531,37 @@ MartiniHenry|TIP|只要好好聽我的話，你就能在提前知道未來的情
 MartiniHenry|LOADING|還要等到什麼時候啊……
 MartiniHenry|DIALOGUEWEDDING|和預測未來相比，我更喜歡與你一起期待未知的明天——等等！兩小時後，街頭的麵包店會有限量美味上架，指揮官，我們快去排隊吧！
 MartiniHenry|Introduce|喲，指揮官——為什麼還沒介紹就知道是你？哼！不這麼做，你又怎麼會知道我能預測未來呢？
+RexZero1Mod|GAIN|Rex Zero 1，讓我來為您解決煩惱。
+RexZero1Mod|HELLO|又是充滿幹勁的一天，加油啊。
+RexZero1Mod|FORMATION|我們可以做到。
+RexZero1Mod|FEED|現在，可以更好地幫助大家了吧。
+RexZero1Mod|DIALOGUE1|最近的委託好多啊，要不要交給其他人去做呢？算了，不想辜負大家的期待呢。
+RexZero1Mod|DIALOGUE2|我在把這朵花做成標本，這樣就可以永遠留作紀念，不怕腐壞了。
+RexZero1Mod|DIALOGUE3|以前收取報酬是為了提醒自己，自己是有價值的。後來？後來就習慣了。
+RexZero1Mod|BUILDOVER|新的夥伴？有問題可以來找我哦。
+RexZero1Mod|GOATTACK|想好要給我的報酬了嗎？
+RexZero1Mod|MEET|放心交給我吧。
+RexZero1Mod|ATTACK|速戰速決，還有別的委託要處理。
+RexZero1Mod|DEFENSE|保護自己！
+RexZero1Mod|BREAK|偶而也需要請求別人的幫助呢……
+RexZero1Mod|WIN|搞定，該要點什麼報酬呢？
+RexZero1Mod|RETREAT|快走，我來掩護！
+RexZero1Mod|SKILL1|再堅持一下。
+RexZero1Mod|SKILL2|相信我，還可以繼續。
+RexZero1Mod|SKILL3|我來幫你。
+RexZero1Mod|DIALOGUEWEDDING|什麼？您說有事情拜託我去做？「請Rex Zero 1好好休息一天……」既然這樣，那就收取一個擁抱作為報酬吧。
+RexZero1Mod|Introduce|Rex Zero 1，讓我來為您解決煩惱。
+RexZero1Mod|BLACKACTION|憑經驗行動吧，各位。
+RexZero1Mod|COMBINE|這樣就能同時去處理多個委託了吧。欸，不行嗎？
+RexZero1Mod|FIX|讓長官多費心了……想要什麼報酬？
+RexZero1Mod|LOADING|我來開門了——
+RexZero1Mod|OPERATIONBEGIN|我可能會晚一點回來，別太擔心。
+RexZero1Mod|OPERATIONOVER|抱歉，回來的還是時候吧？需要幫助的人有點多。但我也帶回了很多額外的東西哦。
+RexZero1Mod|PHRASE|要幫忙嗎？
+RexZero1Mod|SOULCONTRACT|有什麼事要我幫忙嗎？<>戒指？您是說要誓約嗎？這個忙我當然也可以幫，但是報酬要求會比較特殊哦。<>那麼，就把您的心給我吧。
+RexZero1Mod|TIP|這個印成須知手冊比較好。
+RexZero1Mod|CHRISTMAS|祝您聖誕快樂，長官！要不要一起去派發禮物？您的制服看起來就像聖誕老人一樣，都不用換衣服了。
+RexZero1Mod|NEWYEAR|在我以前工作的地方，今天是吃青菜的。這樣一來一整年都會順心如意。嗯，穿成這樣也是因為兔子吃青菜哦。
+RexZero1Mod|TANABATA|許願？我很擅長實現別人的願望，但是要自己許願的話……還是把這個牌子給您，讓長官多許一個願望吧。
+RexZero1Mod|VALENTINE|說起教人製作巧克力，我可是很有經驗的。您看，這些全都是她們給我的謝禮哦。
+RexZero1Mod|ALLHALLOWS|越是這種時候越容易滋生亂象呢。這不是我擔憂過度，而是經驗使然。長官，您也要小心。

@@ -12699,4 +12699,73 @@
     obtain_ids: "3106"
     description_skill: 1001601
   }
+  {
+    id: 404
+    name: 特製作戰摩托
+    description:
+      '''
+      迴避+<dodge> 射速<rate>
+      護甲+<armor>技能增加$Rex Zero 1專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "8,11"
+    rate: "-5,-1"
+    armor: "3,5"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_RexZero1
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "310,20310"
+    equip_introduction: Rex Zero 1最愛使用的摩托，她非常享受在戰場上風馳電掣的感覺。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    passive_skill: "992490"
+    max_level: 10
+    auto_select_id: 20083
+    is_show: 1
+    obtain_ids: "3016"
+    description_skill: 992490
+  }
+  {
+    id: 405
+    name: 夜行披風
+    description:
+      '''
+      傷害+<pow> 暴擊傷害+<critical_harm_rate><%>
+      前置冷卻-80%$DSR-50專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "3,5"
+    critical_harm_rate: "6,10"
+    skill_effect: 150
+    retire_mp: 4
+    retire_mre: 5
+    code: TDoll_SP_DSR50
+    develop_duration: 3360
+    company: IOP
+    fit_guns: "179"
+    equip_introduction: DSR-50經常帶在身邊的披風，除了輔助作戰之外，還非常方便在夜晚裡行動。
+    powerup_mp: 0.55
+    powerup_ammo: 0.16
+    powerup_mre: 0.6
+    powerup_part: 0.16
+    exclusive_rate: 3
+    bonus_type: critical_harm_rate:500,pow:1000
+    passive_skill: "759059"
+    max_level: 10
+    auto_select_id: 20084
+    is_show: 1
+    obtain_ids: "3115"
+    sp_description: 前置冷卻-80%
+  }
 ]

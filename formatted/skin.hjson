@@ -5542,6 +5542,15 @@
     note: 原型裝扮
   }
   {
+    id: 5075
+    name: Rex Zero 1-原型
+    fit_gun: 20310
+    voice: 4
+    is_hidden: 2
+    dialog: 原型裝扮
+    note: 原型裝扮
+  }
+  {
     id: 5101
     name: 劉氏步槍-垂枝夢狐影
     fit_gun: 316
@@ -8933,6 +8942,80 @@
     order: 131
     class_id: 101
     skin_source: 2
+  }
+  {
+    id: 10501
+    name: DSR-50-天鵝絨魅影
+    fit_gun: 179
+    voice: 4
+    dialog: 指揮官，要檢驗一下防身用具的材質嗎？我會輕柔一點的……或者，你想換個方式？
+    illustrator_cv: 小槍,齊藤佑圭,
+    order: 133
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10502
+    name: P2000-甜心捕手
+    fit_gun: 399
+    voice: 4
+    dialog: 尾氣噴出粉色的愛心，露比正以無法超越的速度，衝向終點——勝利！
+    order: 133
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10503
+    name: SIG MCX-黑暗封印
+    fit_gun: 338
+    voice: 4
+    dialog: 為了封印誕生於黑暗的——欸欸，指揮官，別拽我的鎖鏈，本警官花了四小時才做好的造型！
+    gift_position: "-154.4,-60.9"
+    order: 133
+    class_id: 102
+    skin_source: 1
+  }
+  {
+    id: 10504
+    name: 德利爾-月下魔術師
+    fit_gun: 337
+    voice: 4
+    dialog: 作為魔術師，今天最重要的是戴上一幅降噪耳機，不管台下觀眾喝彩還是噓聲，都要沉著冷靜，不能讓觀眾看出我的緊張。
+    illustrator_cv: 鰻魚,佐倉綾音,
+    order: 133
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10505
+    name: SSG3000-聖少女的祈禮
+    fit_gun: 273
+    voice: 4
+    dialog: 指揮官有煩心事？我很樂意聽您傾訴，多久都沒關係。如果能幫上您的忙，那就再好不過了。
+    illustrator_cv: 小星,大和田仁美,
+    order: 133
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10506
+    name: ZiP.22-怦怦夜色
+    fit_gun: 354
+    voice: 4
+    dialog: 變身大盜？高空走鋼絲？對我來說小菜一碟！……欸好大的風，面具要被吹掉了！……指揮官，快幫我撿一下！
+    order: 133
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10507
+    name: 納甘左輪-盜術史學家
+    fit_gun: 5
+    voice: 4
+    dialog: 大盜是一門優雅的藝術，接下來，我將為您講述歷史上——不要揉我的腦袋啦，這是老人家講古，才不是小孩子講故事呢！
+    gift_position: "-113.9,239.6"
+    order: 133
+    class_id: 102
   }
   {
     id: 30001

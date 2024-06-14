@@ -643,4 +643,9 @@
     name: 韌性
     character_des: 該單位對於暴擊傷害有著抵抗能力
   }
+  {
+    id: 1006
+    name: EMP抗性
+    character_des: 受到的EMP效果大幅減少
+  }
 ]

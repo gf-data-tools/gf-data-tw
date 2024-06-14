@@ -330,4 +330,14 @@
     tag: EP.
     order: 30
   }
+  {
+    id: 38
+    story_campaign_id: "-69"
+    name: story_playback-10000038
+    chapter: story_playback-20000038
+    type: 2
+    description: story_playback-30000038
+    tag: story_playback-40000038
+    order: 31
+  }
 ]

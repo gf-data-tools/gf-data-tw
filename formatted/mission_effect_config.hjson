@@ -1839,6 +1839,55 @@
     offset: "0,0"
   }
   {
+    id: 1000169
+    name: mission_effect_config-11000169
+    code: Tarot_ka01
+    description: mission_effect_config-21000169
+    priority: 1
+    size: 1
+    sound: BT_CARD_BURN
+    offset: "0,400"
+  }
+  {
+    id: 1000170
+    name: mission_effect_config-11000170
+    code: Tarot_ka02
+    description: mission_effect_config-21000170
+    priority: 1
+    size: 1
+    sound: BT_CARD_BURN
+    offset: "0,0"
+  }
+  {
+    id: 1000171
+    name: mission_effect_config-11000171
+    code: Tarot_ka03
+    description: mission_effect_config-21000171
+    priority: 1
+    size: 1
+    sound: BT_CARD_BURN
+    offset: "0,400"
+  }
+  {
+    id: 1000172
+    name: mission_effect_config-11000172
+    code: Tarot_ka04
+    description: mission_effect_config-21000172
+    priority: 1
+    size: 1
+    sound: BT_CARD_BURN
+    offset: "0,400"
+  }
+  {
+    id: 1000173
+    name: mission_effect_config-11000173
+    code: Laplace_dun_uv
+    description: mission_effect_config-21000173
+    priority: 1
+    size: 1
+    offset: "0,0"
+  }
+  {
     id: 9490401
     name: 【標記】提示特效，亮星星
     code: ddl_xingxing

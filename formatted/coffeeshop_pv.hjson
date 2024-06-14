@@ -132,4 +132,11 @@
     cost: 506-1000
     prize_id: "5029"
   }
+  {
+    id: "20"
+    title: coffeeshop_pv-10000020
+    description: coffeeshop_pv-20000020
+    cost: 506-1000
+    prize_id: "5030"
+  }
 ]
