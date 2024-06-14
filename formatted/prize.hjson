@@ -17102,9 +17102,9 @@
   }
   {
     id: 5030
-    name: prize-10005030
+    name: 咖啡廳2024錯構之泉PV獎勵
     furniture: "20139"
-    content: prize-20005030
+    content: 領取獎勵
   }
   {
     id: 6001
@@ -38501,6 +38501,60 @@
     name: 世界的誕生-任務獎勵
     item_ids: 2516-1,136-1
     furniture: "20138"
+  }
+  {
+    id: 17682
+    name: prize-10017682
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017682
+  }
+  {
+    id: 17683
+    name: prize-10017683
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017683
+  }
+  {
+    id: 17684
+    name: prize-10017684
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017684
+  }
+  {
+    id: 17685
+    name: prize-10017685
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017685
+  }
+  {
+    id: 17686
+    name: prize-10017686
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017686
+  }
+  {
+    id: 17687
+    name: prize-10017687
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017687
   }
   {
     id: 20001

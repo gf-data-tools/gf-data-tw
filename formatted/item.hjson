@@ -14749,80 +14749,72 @@
     type: 5
     arg: "1"
     code: profilePic_rank5_RexZero1Mod
-    item_name: item-10002502
-    introduction: item-20002502
+    item_name: Rex Zero 1心智升級頭像
+    introduction: Rex Zero 1心智升級頭像
     rank: 1
-    detail_introduction: item-30002502
   }
   {
     id: 2503
     type: 5
     arg: "1"
     code: profilePic_Masque2024_DSR50
-    item_name: item-10002503
-    introduction: item-20002503
+    item_name: DSR-50-天鵝絨魅影
+    introduction: DSR-50-天鵝絨魅影
     rank: 1
-    detail_introduction: item-30002503
   }
   {
     id: 2504
     type: 5
     arg: "1"
     code: profilePic_Masque2024_P2000
-    item_name: item-10002504
-    introduction: item-20002504
+    item_name: P2000-甜心捕手
+    introduction: P2000-甜心捕手
     rank: 1
-    detail_introduction: item-30002504
   }
   {
     id: 2505
     type: 5
     arg: "1"
     code: profilePic_Masque2024_SIGMCX
-    item_name: item-10002505
-    introduction: item-20002505
+    item_name: SIG MCX-黑暗封印
+    introduction: SIG MCX-黑暗封印
     rank: 1
-    detail_introduction: item-30002505
   }
   {
     id: 2506
     type: 5
     arg: "1"
     code: profilePic_Masque2024_Delisle
-    item_name: item-10002506
-    introduction: item-20002506
+    item_name: 德利爾-月下魔術師
+    introduction: 德利爾-月下魔術師
     rank: 1
-    detail_introduction: item-30002506
   }
   {
     id: 2507
     type: 5
     arg: "1"
     code: profilePic_Masque2024_SSG3000
-    item_name: item-10002507
-    introduction: item-20002507
+    item_name: SSG3000-聖少女的祈禮
+    introduction: SSG3000-聖少女的祈禮
     rank: 1
-    detail_introduction: item-30002507
   }
   {
     id: 2508
     type: 5
     arg: "1"
     code: profilePic_Masque2024_ZIP22
-    item_name: item-10002508
-    introduction: item-20002508
+    item_name: ZiP.22-怦怦夜色
+    introduction: ZiP.22-怦怦夜色
     rank: 1
-    detail_introduction: item-30002508
   }
   {
     id: 2509
     type: 5
     arg: "1"
     code: profilePic_Masque2024_M1895
-    item_name: item-10002509
-    introduction: item-20002509
+    item_name: 納甘左輪-盜術史學家
+    introduction: 納甘左輪-盜術史學家
     rank: 1
-    detail_introduction: item-30002509
   }
   {
     id: 2510

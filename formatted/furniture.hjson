@@ -30260,13 +30260,13 @@
   }
   {
     id: 20139
-    name: furniture-10020139
+    name: 海報-2024錯構之泉
     classes: 20
     type: 302
     space: "11,11,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020139
+    description: 2024限時活動-錯構之泉的特典海報
     code: pv_202404activity
     texture_type: "1"
     sorting: "5"
