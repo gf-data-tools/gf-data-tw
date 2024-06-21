@@ -14420,6 +14420,150 @@
     effect_conditions: "0,1"
   }
   {
+    id: 670101
+    name: 【標記】傳送節點
+    priority: -1
+    duration_type: "1"
+    duration_time: "99"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 670101
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+    effect_conditions: "1"
+  }
+  {
+    id: 670104
+    name: 【標記】升變標記
+    priority: 1
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 670104
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+    effect_conditions: "1"
+  }
+  {
+    id: 670105
+    name: 【標記】傳送標記
+    priority: 1
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 670105
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+    effect_conditions: "1"
+  }
+  {
+    id: 670120
+    name: 【標記】刷怪
+    priority: 1
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 670120
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+    effect_conditions: "1"
+  }
+  {
+    id: 670121
+    name: 【標記】倒數計時3
+    priority: 1
+    duration_type: "1"
+    duration_time: "3"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 670121
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,670120"
+    death_effect_target_type: "-1"
+    effect_conditions: "1"
+  }
+  {
+    id: 670122
+    name: 【標記】倒數計時4
+    priority: 1
+    duration_type: "1"
+    duration_time: "4"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 670122
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,670120"
+    death_effect_target_type: "-1"
+    effect_conditions: "1"
+  }
+  {
+    id: 670123
+    name: 【標記】倒數計時5
+    priority: 1
+    duration_type: "1"
+    duration_time: "5"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 670123
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,670120"
+    death_effect_target_type: "-1"
+    effect_conditions: "1"
+  }
+  {
+    id: 670124
+    name: 【標記】倒數計時6
+    priority: 1
+    duration_type: "1"
+    duration_time: "6"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 670124
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,670120"
+    death_effect_target_type: "-1"
+    effect_conditions: "1"
+  }
+  {
     id: 680001
     name: 【標記】鬼打牆兔子01
     priority: 1
@@ -15089,8 +15233,7 @@
   }
   {
     id: 690001
-    name: special_spot_config-10690001
-    description: special_spot_config-20690001
+    name: 【標記】
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15109,8 +15252,7 @@
   }
   {
     id: 690052
-    name: special_spot_config-10690052
-    description: special_spot_config-20690052
+    name: 【標記】定身
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -15128,8 +15270,7 @@
   }
   {
     id: 690100
-    name: special_spot_config-10690100
-    description: special_spot_config-20690100
+    name: "[avg]-69-EXT-1"
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15147,8 +15288,7 @@
   }
   {
     id: 690101
-    name: special_spot_config-10690101
-    description: special_spot_config-20690101
+    name: 【標記】稻草人死亡
     code: Scarecrow
     priority: 1
     duration_type: "1"
@@ -15167,8 +15307,7 @@
   }
   {
     id: 690301
-    name: special_spot_config-10690301
-    description: special_spot_config-20690301
+    name: 【標記】控制台初始化
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15186,8 +15325,7 @@
   }
   {
     id: 690311
-    name: special_spot_config-10690311
-    description: special_spot_config-20690311
+    name: 【標記】控制台生效
     code: Console
     priority: 1
     duration_type: "1"
@@ -15206,8 +15344,7 @@
   }
   {
     id: 690511
-    name: special_spot_config-10690511
-    description: special_spot_config-20690511
+    name: 【標記】合流
     code: Griffin
     priority: 1
     duration_type: "1"
@@ -15226,8 +15363,7 @@
   }
   {
     id: 690514
-    name: special_spot_config-10690514
-    description: special_spot_config-20690514
+    name: 【標記】手雷傷害
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -15245,8 +15381,7 @@
   }
   {
     id: 690602
-    name: special_spot_config-10690602
-    description: special_spot_config-20690602
+    name: 【標記】防禦門生效
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15265,8 +15400,7 @@
   }
   {
     id: 690701
-    name: special_spot_config-10690701
-    description: special_spot_config-20690701
+    name: 【標記】AR
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15284,8 +15418,7 @@
   }
   {
     id: 690703
-    name: special_spot_config-10690703
-    description: special_spot_config-20690703
+    name: 【標記】BOSS3動
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15303,8 +15436,7 @@
   }
   {
     id: 690704
-    name: special_spot_config-10690704
-    description: special_spot_config-20690704
+    name: 【標記】BOSS4動
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15322,8 +15454,7 @@
   }
   {
     id: 690705
-    name: special_spot_config-10690705
-    description: special_spot_config-20690705
+    name: 【標記】BOSS5動
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15341,8 +15472,7 @@
   }
   {
     id: 690711
-    name: special_spot_config-10690711
-    description: special_spot_config-20690711
+    name: 【標記】分頭行動
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15361,8 +15491,7 @@
   }
   {
     id: 690791
-    name: special_spot_config-10690791
-    description: special_spot_config-20690791
+    name: 【標記】AR
     priority: 2
     duration_type: "1"
     duration_time: "1"
@@ -15380,8 +15509,7 @@
   }
   {
     id: 690792
-    name: special_spot_config-10690792
-    description: special_spot_config-20690792
+    name: 【標記】AR
     code: Griffin
     priority: 1
     duration_type: "1"
@@ -15400,8 +15528,7 @@
   }
   {
     id: 690802
-    name: special_spot_config-10690802
-    description: special_spot_config-20690802
+    name: 【標記】變電站
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15419,8 +15546,7 @@
   }
   {
     id: 690803
-    name: special_spot_config-10690803
-    description: special_spot_config-20690803
+    name: 【標記】EMP
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15438,8 +15564,7 @@
   }
   {
     id: 690812
-    name: special_spot_config-10690812
-    description: special_spot_config-20690812
+    name: 【標記】EMP供電
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15457,8 +15582,7 @@
   }
   {
     id: 690813
-    name: special_spot_config-10690813
-    description: special_spot_config-20690813
+    name: 【標記】EMP
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -15476,8 +15600,7 @@
   }
   {
     id: 690822
-    name: special_spot_config-10690822
-    description: special_spot_config-20690822
+    name: 【標記】變電站供電
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -17097,6 +17220,24 @@
     skill_config_id_on_birth: "0,0,0"
     skill_config_id_on_death: "0,0,0"
     effect_conditions: "0,1"
+  }
+  {
+    id: 1000901
+    name: 【標記】堵路 設施生效才堵
+    priority: 1000001
+    duration_type: "1"
+    duration_time: "99"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 1000001
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    effect_conditions: "0,1"
+    spot_buff_config_id: 4
   }
   {
     id: 1001000

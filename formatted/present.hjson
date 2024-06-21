@@ -1132,6 +1132,38 @@
       '''
   }
   {
+    item_id: 1500138
+    type: 1
+    prize_id: 140001
+    due_time: 2024/08/19 00:00:00
+    due_prize_id: 140016
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1500139
+    type: 1
+    prize_id: 140003
+    due_time: 2024/08/19 00:00:00
+    due_prize_id: 140016
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1500140
+    type: 2
+    drop_package_id: 2373
+    due_time: 2024/08/19 00:00:00
+    due_prize_id: 140016
+    present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
+  }
+  {
+    item_id: 1500141
+    type: 2
+    drop_package_id: 945
+    due_time: 2024/08/19 00:00:00
+    due_prize_id: 140016
+    present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089

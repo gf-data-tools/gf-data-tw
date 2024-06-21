@@ -27630,6 +27630,492 @@
     drop_item: 57:1
   }
   {
+    id: 670101
+    name: 轉化：傳送節點
+    code: "1"
+    description: 將空白模組轉化為傳送節點，轉化後無法還原
+    skill_group_id: 670101
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100007201&&67010001
+    target_id: "1"
+    special_spot_add: 480101:1
+    subsidiary_mission_skill: "1000073,480171,670110,670108"
+    is_manual: 480101
+  }
+  {
+    id: 670102
+    name: 轉化：EMP手榴彈塔
+    code: "1"
+    description: 將空白模組轉化為EMP手榴彈塔，每回合提供1個EMP手榴彈，轉化後無法還原
+    skill_group_id: 670102
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100007201&&67010001
+    target_id: "1"
+    special_spot_add: 480102:1,480104:1
+    subsidiary_mission_skill: "1000073,480171,670108"
+    is_manual: 480102
+  }
+  {
+    id: 670103
+    name: 轉化：資料站
+    code: "1"
+    description: 將空白模組轉化為資料站，每回合可下載數據獲得積分，轉化後無法還原
+    skill_group_id: 670103
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100007201&&67010001
+    target_id: "1"
+    special_spot_add: 480103:1,480105:1,480131:1
+    subsidiary_mission_skill: "1000073,480171,670108"
+    is_manual: 480103
+  }
+  {
+    id: 670104
+    name: ？？？
+    code: "1"
+    description: 傳送到目標位置並且發生一些變化
+    skill_group_id: 670104
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    special_spot_add: 670104:1
+    subsidiary_mission_skill: "670106"
+    is_manual: 670104
+    allyteam_summoner: "670101"
+  }
+  {
+    id: 670105
+    name: 傳送
+    code: "1"
+    description: 傳送到另一個節點並在1回合內提高移動速度和迴避
+    skill_group_id: 670105
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    is_airborne: 2
+    trigger_id: 48010101&&1
+    target_id: "48010101"
+    special_spot_add: 670105:1
+    subsidiary_mission_skill: "670107"
+    is_manual: 480111
+  }
+  {
+    id: 670106
+    name: 【標記】升變buff
+    code: "1"
+    skill_group_id: 670106
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "67010401"
+    special_spot_minus: 670104:1
+    mission_buff_add: 670104:1,670106:1,20301:1,20302:1
+  }
+  {
+    id: 670107
+    name: 【標記】傳送buff
+    code: "1"
+    skill_group_id: 670107
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "67010501"
+    special_spot_minus: 670105:1
+    mission_buff_add: 670105:1
+  }
+  {
+    id: 670108
+    name: 【標記】雷達計數
+    code: "1"
+    skill_group_id: 670108
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: "48010808"
+    target_id: "67010001"
+    mission_buff_add: 670103:1
+  }
+  {
+    id: 670110
+    name: 【標記】傳送節點計數
+    code: "1"
+    skill_group_id: 670110
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: 100007201||67010001
+    special_spot_add: 670101:1
+    subsidiary_mission_skill: "670111,670112,670113,670114,670115,670116,670117"
+  }
+  {
+    id: 670111
+    name: 【標記】傳送節點轉化
+    code: "1"
+    skill_group_id: 670111
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 67010101&&1
+  }
+  {
+    id: 670112
+    name: 【標記】傳送節點轉化
+    code: "1"
+    skill_group_id: 670112
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 67010102&&1
+  }
+  {
+    id: 670113
+    name: 【標記】傳送節點轉化
+    code: "1"
+    skill_group_id: 670113
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 67010103&&1
+  }
+  {
+    id: 670114
+    name: 【標記】傳送節點轉化
+    code: "1"
+    skill_group_id: 670114
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 67010104&&1
+  }
+  {
+    id: 670115
+    name: 【標記】傳送節點轉化
+    code: "1"
+    skill_group_id: 670115
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 67010105&&1
+  }
+  {
+    id: 670116
+    name: 【標記】傳送節點轉化
+    code: "1"
+    skill_group_id: 670116
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 67010106&&1
+  }
+  {
+    id: 670117
+    name: 【標記】傳送節點轉化
+    code: "1"
+    skill_group_id: 670117
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 67010107&&1
+  }
+  {
+    id: 670121
+    name: 【標記】額外刷怪初始化
+    code: "1"
+    skill_group_id: 670121
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 670121:1
+  }
+  {
+    id: 670122
+    name: 【標記】額外刷怪2
+    code: "1"
+    skill_group_id: 670122
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 670120:1
+  }
+  {
+    id: 670123
+    name: 【標記】額外刷怪3
+    code: "1"
+    skill_group_id: 670123
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 670120:1
+  }
+  {
+    id: 670124
+    name: 【標記】額外刷怪4
+    code: "1"
+    skill_group_id: 670124
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 670120:1
+  }
+  {
+    id: 670125
+    name: 【標記】4T刷怪
+    code: "1"
+    skill_group_id: 670125
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "67012001"
+    target_id: "1"
+    special_spot_minus: 670120:1
+    allyteam_summoner: "670190"
+  }
+  {
+    id: 670126
+    name: 【標記】5T刷怪
+    code: "1"
+    skill_group_id: 670126
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "67012001"
+    target_id: "1"
+    special_spot_minus: 670120:1
+    allyteam_summoner: "670191"
+  }
+  {
+    id: 670127
+    name: 【標記】6T刷怪
+    code: "1"
+    skill_group_id: 670127
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "67012001"
+    target_id: "1"
+    special_spot_minus: 670120:1
+    allyteam_summoner: "670192"
+  }
+  {
+    id: 670128
+    name: 【標記】7T刷怪
+    code: "1"
+    skill_group_id: 670128
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "67012001"
+    target_id: "1"
+    special_spot_minus: 670120:1
+    allyteam_summoner: "670193"
+  }
+  {
+    id: 670131
+    name: 傳送節點
+    code: "1"
+    description: 丹德萊特製傳送節點，傳送後1回合內移動速度和閃避提高
+    skill_group_id: 670131
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+  }
+  {
+    id: 670132
+    name: EMP手榴彈
+    code: "1"
+    description: 丹德萊特製EMP手榴彈，每回合可拾取1枚
+    skill_group_id: 670132
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+  }
+  {
+    id: 670133
+    name: 資料站
+    code: "1"
+    description: 丹德萊特製資料站，每回合可下載資料獲得積分
+    skill_group_id: 670133
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+  }
+  {
+    id: 670141
+    name: 轉化：補給修理站
+    code: "1"
+    description: 將空白模組轉化為可以使用4次修理4次補給的補給修理站，轉化後無法還原
+    skill_group_id: 670141
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100007201&&67010001
+    target_id: "1"
+    subsidiary_mission_skill: "1000073,480171,670108"
+    is_manual: 480141
+  }
+  {
+    id: 670142
+    name: 轉化：補給修理站
+    code: "1"
+    description: 將空白模組轉化為可以使用4次修理4次補給的補給修理站，轉化後無法還原
+    skill_group_id: 670142
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100007201&&67010001
+    target_id: "1"
+    subsidiary_mission_skill: "1000073,480171,670108"
+    is_manual: 480141
+  }
+  {
+    id: 670143
+    name: 轉化：補給修理站
+    code: "1"
+    description: 將空白模組轉化為可以使用4次修理4次補給的補給修理站，轉化後無法還原
+    skill_group_id: 670143
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100007201&&67010001
+    target_id: "1"
+    subsidiary_mission_skill: "1000073,480171,670108"
+    is_manual: 480141
+  }
+  {
+    id: 670144
+    name: 轉化：補給修理站
+    code: "1"
+    description: 將空白模組轉化為可以使用4次修理4次補給的補給修理站，轉化後無法還原
+    skill_group_id: 670144
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100007201&&67010001
+    target_id: "1"
+    subsidiary_mission_skill: "1000073,480171,670108"
+    is_manual: 480141
+  }
+  {
+    id: 670145
+    name: 轉化：補給修理站
+    code: "1"
+    description: 將空白模組轉化為可以使用4次修理4次補給的補給修理站，轉化後無法還原
+    skill_group_id: 670145
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100007201&&67010001
+    target_id: "1"
+    subsidiary_mission_skill: "1000073,480171,670108"
+    is_manual: 480141
+  }
+  {
+    id: 670146
+    name: 轉化：補給修理站
+    code: "1"
+    description: 將空白模組轉化為可以使用4次修理4次補給的補給修理站，轉化後無法還原
+    skill_group_id: 670146
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100007201&&67010001
+    target_id: "1"
+    subsidiary_mission_skill: "1000073,480171,670108"
+    is_manual: 480141
+  }
+  {
+    id: 670147
+    name: 轉化：補給修理站
+    code: "1"
+    description: 將空白模組轉化為可以使用4次修理4次補給的補給修理站，轉化後無法還原
+    skill_group_id: 670147
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100007201&&67010001
+    target_id: "1"
+    subsidiary_mission_skill: "1000073,480171,670108"
+    is_manual: 480141
+  }
+  {
     id: 680001
     name: 【標記】鬼打牆兔子1
     code: "1"
@@ -28072,10 +28558,8 @@
   }
   {
     id: 690000
-    name: mission_skill_config-10690000
+    name: 【標記】卡牌初始化
     code: "1"
-    description: mission_skill_config-20690000
-    lvup_description: mission_skill_config-30690000
     skill_group_id: 690000
     level: 1
     spot_type: "-1"
@@ -28087,10 +28571,8 @@
   }
   {
     id: 690001
-    name: mission_skill_config-10690001
+    name: 【標記】角色初始化
     code: "1"
-    description: mission_skill_config-20690001
-    lvup_description: mission_skill_config-30690001
     skill_group_id: 690001
     level: 1
     spot_type: "-1"
@@ -28102,10 +28584,8 @@
   }
   {
     id: 690010
-    name: mission_skill_config-10690010
+    name: 【標記】卡牌初始化
     code: "1"
-    description: mission_skill_config-20690010
-    lvup_description: mission_skill_config-30690010
     skill_group_id: 690010
     level: 1
     spot_type: "-1"
@@ -28118,10 +28598,8 @@
   }
   {
     id: 690011
-    name: mission_skill_config-10690011
+    name: 【標記】星幣初始化
     code: "1"
-    description: mission_skill_config-20690011
-    lvup_description: mission_skill_config-30690011
     skill_group_id: 690011
     level: 1
     spot_type: "-1"
@@ -28134,10 +28612,9 @@
   }
   {
     id: 690012
-    name: mission_skill_config-10690012
+    name: 星幣王牌
     code: "1"
-    description: mission_skill_config-20690012
-    lvup_description: mission_skill_config-30690012
+    description: 將當前所選梯隊傳送至範圍2以內的無人點位。
     skill_group_id: 690012
     level: 1
     spot_type: "-1"
@@ -28151,10 +28628,8 @@
   }
   {
     id: 690020
-    name: mission_skill_config-10690020
+    name: 【標記】卡牌初始化
     code: "1"
-    description: mission_skill_config-20690020
-    lvup_description: mission_skill_config-30690020
     skill_group_id: 690020
     level: 1
     spot_type: "-1"
@@ -28167,10 +28642,8 @@
   }
   {
     id: 690021
-    name: mission_skill_config-10690021
+    name: 【標記】權杖初始化
     code: "1"
-    description: mission_skill_config-20690021
-    lvup_description: mission_skill_config-30690021
     skill_group_id: 690021
     level: 1
     spot_type: "-1"
@@ -28183,10 +28656,9 @@
   }
   {
     id: 690022
-    name: mission_skill_config-10690022
+    name: 權杖王牌
     code: "1"
-    description: mission_skill_config-20690022
-    lvup_description: mission_skill_config-30690022
+    description: 向當前點位範圍1以內的指定敵人施加EMP影響，削弱屬性並禁止移動1回合。
     skill_group_id: 690022
     level: 1
     spot_type: "-1"
@@ -28202,10 +28674,8 @@
   }
   {
     id: 690030
-    name: mission_skill_config-10690030
+    name: 【標記】卡牌初始化
     code: "1"
-    description: mission_skill_config-20690030
-    lvup_description: mission_skill_config-30690030
     skill_group_id: 690030
     level: 1
     spot_type: "-1"
@@ -28218,10 +28688,8 @@
   }
   {
     id: 690031
-    name: mission_skill_config-10690031
+    name: 【標記】寶劍初始化
     code: "1"
-    description: mission_skill_config-20690031
-    lvup_description: mission_skill_config-30690031
     skill_group_id: 690031
     level: 1
     spot_type: "-1"
@@ -28234,10 +28702,9 @@
   }
   {
     id: 690032
-    name: mission_skill_config-10690032
+    name: 寶劍王牌
     code: "1"
-    description: mission_skill_config-20690032
-    lvup_description: mission_skill_config-30690032
+    description: 為當前所選梯隊提供額外2點行動點數，使其在下次交戰中變強。但交戰後該梯隊將無法移動。
     skill_group_id: 690032
     level: 1
     spot_type: "-1"
@@ -28252,10 +28719,8 @@
   }
   {
     id: 690040
-    name: mission_skill_config-10690040
+    name: 【標記】卡牌初始化
     code: "1"
-    description: mission_skill_config-20690040
-    lvup_description: mission_skill_config-30690040
     skill_group_id: 690040
     level: 1
     spot_type: "-1"
@@ -28268,10 +28733,8 @@
   }
   {
     id: 690041
-    name: mission_skill_config-10690041
+    name: 【標記】聖杯初始化
     code: "1"
-    description: mission_skill_config-20690041
-    lvup_description: mission_skill_config-30690041
     skill_group_id: 690041
     level: 1
     spot_type: "-1"
@@ -28283,10 +28746,9 @@
   }
   {
     id: 690042
-    name: mission_skill_config-10690042
+    name: 聖杯王牌
     code: "1"
-    description: mission_skill_config-20690042
-    lvup_description: mission_skill_config-30690042
+    description: 戰鬥開始時獲得護盾，持續1回合。
     skill_group_id: 690042
     level: 1
     spot_type: "-1"
@@ -28301,10 +28763,8 @@
   }
   {
     id: 690100
-    name: mission_skill_config-10690100
+    name: 【標記】初始化
     code: "1"
-    description: mission_skill_config-20690100
-    lvup_description: mission_skill_config-30690100
     skill_group_id: 690100
     level: 1
     spot_type: "-1"
@@ -28316,10 +28776,8 @@
   }
   {
     id: 690101
-    name: mission_skill_config-10690101
+    name: 【標記】稻草人死亡
     code: "1"
-    description: mission_skill_config-20690101
-    lvup_description: mission_skill_config-30690101
     skill_group_id: 690101
     level: 1
     spot_type: "-1"
@@ -28331,10 +28789,8 @@
   }
   {
     id: 690301
-    name: mission_skill_config-10690301
+    name: 【標記】控制台初始化
     code: "1"
-    description: mission_skill_config-20690301
-    lvup_description: mission_skill_config-30690301
     skill_group_id: 690301
     level: 1
     spot_type: "-1"
@@ -28346,10 +28802,13 @@
   }
   {
     id: 690311
-    name: mission_skill_config-10690311
+    name: 破解
     code: "1"
-    description: mission_skill_config-20690311
-    lvup_description: mission_skill_config-30690311
+    description:
+      '''
+      破解加密控制台
+      加密每回合會重置，需要重新破解
+      '''
     skill_group_id: 690311
     level: 1
     spot_type: "-1"
@@ -28363,10 +28822,8 @@
   }
   {
     id: 690501
-    name: mission_skill_config-10690501
+    name: 【標記】BOSS2動
     code: "1"
-    description: mission_skill_config-20690501
-    lvup_description: mission_skill_config-30690501
     skill_group_id: 690501
     level: 1
     spot_type: "-1"
@@ -28378,10 +28835,8 @@
   }
   {
     id: 690502
-    name: mission_skill_config-10690502
+    name: 【標記】AR初始化
     code: "1"
-    description: mission_skill_config-20690502
-    lvup_description: mission_skill_config-30690502
     skill_group_id: 690502
     level: 1
     spot_type: "-1"
@@ -28393,10 +28848,8 @@
   }
   {
     id: 690503
-    name: mission_skill_config-10690503
+    name: 【標記】人形初始化
     code: "1"
-    description: mission_skill_config-20690503
-    lvup_description: mission_skill_config-30690503
     skill_group_id: 690503
     level: 1
     spot_type: "-1"
@@ -28408,10 +28861,9 @@
   }
   {
     id: 690504
-    name: mission_skill_config-10690504
+    name: 拾取
     code: "1"
-    description: mission_skill_config-20690504
-    lvup_description: mission_skill_config-30690504
+    description: 拾取棄置歌利亞
     skill_group_id: 690504
     level: 1
     spot_type: "-1"
@@ -28426,10 +28878,8 @@
   }
   {
     id: 690511
-    name: mission_skill_config-10690511
+    name: 【標記】合流·真
     code: "1"
-    description: mission_skill_config-20690511
-    lvup_description: mission_skill_config-30690511
     skill_group_id: 690511
     level: 1
     spot_type: "-1"
@@ -28441,10 +28891,8 @@
   }
   {
     id: 690512
-    name: mission_skill_config-10690512
+    name: 合流
     code: "1"
-    description: mission_skill_config-20690512
-    lvup_description: mission_skill_config-30690512
     skill_group_id: 690512
     level: 1
     spot_type: "-1"
@@ -28458,10 +28906,8 @@
   }
   {
     id: 690513
-    name: mission_skill_config-10690513
+    name: 合流
     code: "1"
-    description: mission_skill_config-20690513
-    lvup_description: mission_skill_config-30690513
     skill_group_id: 690513
     level: 1
     spot_type: "-1"
@@ -28475,10 +28921,9 @@
   }
   {
     id: 690514
-    name: mission_skill_config-10690514
+    name: 投擲
     code: "1"
-    description: mission_skill_config-20690514
-    lvup_description: mission_skill_config-30690514
+    description: 投擲歌利亞，對目標敵人造成傷害
     skill_group_id: 690514
     level: 1
     spot_type: "-1"
@@ -28492,10 +28937,8 @@
   }
   {
     id: 690524
-    name: mission_skill_config-10690524
+    name: 【標記】清BUFF
     code: "1"
-    description: mission_skill_config-20690524
-    lvup_description: mission_skill_config-30690524
     skill_group_id: 690524
     level: 1
     spot_type: "-1"
@@ -28507,10 +28950,13 @@
   }
   {
     id: 690601
-    name: mission_skill_config-10690601
+    name: 開門
     code: "1"
-    description: mission_skill_config-20690601
-    lvup_description: mission_skill_config-30690601
+    description:
+      '''
+      打開防禦門
+      兩扇門只能選擇一扇打開
+      '''
     skill_group_id: 690601
     level: 1
     spot_type: "-1"
@@ -28526,10 +28972,8 @@
   }
   {
     id: 690602
-    name: mission_skill_config-10690602
+    name: 【標記】防禦門初始化
     code: "1"
-    description: mission_skill_config-20690602
-    lvup_description: mission_skill_config-30690602
     skill_group_id: 690602
     level: 1
     spot_type: "-1"
@@ -28541,10 +28985,8 @@
   }
   {
     id: 690701
-    name: mission_skill_config-10690701
+    name: 【標記】AR初始化
     code: "1"
-    description: mission_skill_config-20690701
-    lvup_description: mission_skill_config-30690701
     skill_group_id: 690701
     level: 1
     spot_type: "-1"
@@ -28556,10 +28998,8 @@
   }
   {
     id: 690702
-    name: mission_skill_config-10690702
+    name: 【標記】BOSS多動
     code: "1"
-    description: mission_skill_config-20690702
-    lvup_description: mission_skill_config-30690702
     skill_group_id: 690702
     level: 1
     spot_type: "-1"
@@ -28571,10 +29011,9 @@
   }
   {
     id: 690711
-    name: mission_skill_config-10690711
+    name: 分頭行動
     code: "1"
-    description: mission_skill_config-20690711
-    lvup_description: mission_skill_config-30690711
+    description: 讓SOP2暫時離隊單獨行動
     skill_group_id: 690711
     level: 1
     spot_type: "-1"
@@ -28589,10 +29028,9 @@
   }
   {
     id: 690721
-    name: mission_skill_config-10690721
+    name: 分頭行動
     code: "1"
-    description: mission_skill_config-20690721
-    lvup_description: mission_skill_config-30690721
+    description: 讓RO暫時離隊單獨行動
     skill_group_id: 690721
     level: 1
     spot_type: "-1"
@@ -28607,10 +29045,9 @@
   }
   {
     id: 690731
-    name: mission_skill_config-10690731
+    name: 分頭行動
     code: "1"
-    description: mission_skill_config-20690731
-    lvup_description: mission_skill_config-30690731
+    description: 讓AR15暫時離隊單獨行動
     skill_group_id: 690731
     level: 1
     spot_type: "-1"
@@ -28625,10 +29062,8 @@
   }
   {
     id: 690741
-    name: mission_skill_config-10690741
+    name: 【標記】分頭行動疊層
     code: "1"
-    description: mission_skill_config-20690741
-    lvup_description: mission_skill_config-30690741
     skill_group_id: 690741
     level: 1
     spot_type: "-1"
@@ -28640,10 +29075,8 @@
   }
   {
     id: 690790
-    name: mission_skill_config-10690790
+    name: 【標記】AR隊死亡檢測
     code: "1"
-    description: mission_skill_config-20690790
-    lvup_description: mission_skill_config-30690790
     skill_group_id: 690790
     level: 1
     spot_type: "-1"
@@ -28654,10 +29087,8 @@
   }
   {
     id: 690791
-    name: mission_skill_config-10690791
+    name: 【標記】AR隊標記
     code: "1"
-    description: mission_skill_config-20690791
-    lvup_description: mission_skill_config-30690791
     skill_group_id: 690791
     level: 1
     spot_type: "-1"
@@ -28671,10 +29102,8 @@
   }
   {
     id: 690792
-    name: mission_skill_config-10690792
+    name: 【標記】AR隊撤退
     code: "1"
-    description: mission_skill_config-20690792
-    lvup_description: mission_skill_config-30690792
     skill_group_id: 690792
     level: 1
     spot_type: "-1"
@@ -28686,10 +29115,8 @@
   }
   {
     id: 690793
-    name: mission_skill_config-10690793
+    name: 【標記】AR隊清標記
     code: "1"
-    description: mission_skill_config-20690793
-    lvup_description: mission_skill_config-30690793
     skill_group_id: 690793
     level: 1
     spot_type: "-1"
@@ -28701,10 +29128,8 @@
   }
   {
     id: 690800
-    name: mission_skill_config-10690800
+    name: 【標記】BOSS層數檢測
     code: "1"
-    description: mission_skill_config-20690800
-    lvup_description: mission_skill_config-30690800
     skill_group_id: 690800
     level: 1
     spot_type: "-1"
@@ -28718,10 +29143,8 @@
   }
   {
     id: 690801
-    name: mission_skill_config-10690801
+    name: 【標記】BOSS標記
     code: "1"
-    description: mission_skill_config-20690801
-    lvup_description: mission_skill_config-30690801
     skill_group_id: 690801
     level: 1
     spot_type: "-1"
@@ -28733,10 +29156,8 @@
   }
   {
     id: 690802
-    name: mission_skill_config-10690802
+    name: 【標記】變電站初始化
     code: "1"
-    description: mission_skill_config-20690802
-    lvup_description: mission_skill_config-30690802
     skill_group_id: 690802
     level: 1
     spot_type: "-1"
@@ -28748,10 +29169,8 @@
   }
   {
     id: 690803
-    name: mission_skill_config-10690803
+    name: 【標記】EMP初始化
     code: "1"
-    description: mission_skill_config-20690803
-    lvup_description: mission_skill_config-30690803
     skill_group_id: 690803
     level: 1
     spot_type: "-1"
@@ -28763,10 +29182,9 @@
   }
   {
     id: 690804
-    name: mission_skill_config-10690804
+    name: 拾取
     code: "1"
-    description: mission_skill_config-20690804
-    lvup_description: mission_skill_config-30690804
+    description: 拾取EMP手雷
     skill_group_id: 690804
     level: 1
     spot_type: "-1"
@@ -28781,10 +29199,13 @@
   }
   {
     id: 690812
-    name: mission_skill_config-10690812
+    name: 供電
     code: "1"
-    description: mission_skill_config-20690812
-    lvup_description: mission_skill_config-30690812
+    description:
+      '''
+      向目標EMP發生器供電
+      同時只能給1個發生器供電
+      '''
     skill_group_id: 690812
     level: 1
     spot_type: "-1"
@@ -28800,10 +29221,9 @@
   }
   {
     id: 690813
-    name: mission_skill_config-10690813
+    name: E！M！P！
     code: "1"
-    description: mission_skill_config-20690813
-    lvup_description: mission_skill_config-30690813
+    description: 啟動EMP發生器，削弱範圍2以內的所有敵人並將其定身1回合
     skill_group_id: 690813
     level: 1
     spot_type: "-1"
@@ -28819,10 +29239,9 @@
   }
   {
     id: 690814
-    name: mission_skill_config-10690814
+    name: 投擲
     code: "1"
-    description: mission_skill_config-20690814
-    lvup_description: mission_skill_config-30690814
+    description: 投擲EMP手雷，削弱目標敵人並將其定身1回合
     skill_group_id: 690814
     level: 1
     spot_type: "-1"
@@ -28836,10 +29255,8 @@
   }
   {
     id: 690822
-    name: mission_skill_config-10690822
+    name: 【標記】供電
     code: "1"
-    description: mission_skill_config-20690822
-    lvup_description: mission_skill_config-30690822
     skill_group_id: 690822
     level: 1
     spot_type: "-1"
@@ -28851,10 +29268,8 @@
   }
   {
     id: 690823
-    name: mission_skill_config-10690823
+    name: 【標記】EMP過載
     code: "1"
-    description: mission_skill_config-20690823
-    lvup_description: mission_skill_config-30690823
     skill_group_id: 690823
     level: 1
     spot_type: "-1"
@@ -28867,10 +29282,8 @@
   }
   {
     id: 690824
-    name: mission_skill_config-10690824
+    name: 【標記】清BUFF
     code: "1"
-    description: mission_skill_config-20690824
-    lvup_description: mission_skill_config-30690824
     skill_group_id: 690824
     level: 1
     spot_type: "-1"
@@ -28882,10 +29295,8 @@
   }
   {
     id: 690833
-    name: mission_skill_config-10690833
+    name: 【標記】EMP過載2
     code: "1"
-    description: mission_skill_config-20690833
-    lvup_description: mission_skill_config-30690833
     skill_group_id: 690833
     level: 1
     spot_type: "-1"
@@ -28898,10 +29309,8 @@
   }
   {
     id: 690843
-    name: mission_skill_config-10690843
+    name: 【標記】EMP生效
     code: "1"
-    description: mission_skill_config-20690843
-    lvup_description: mission_skill_config-30690843
     skill_group_id: 690843
     level: 1
     spot_type: "-1"
@@ -28913,10 +29322,8 @@
   }
   {
     id: 690901
-    name: mission_skill_config-10690901
+    name: 【標記】困難BOSS標記
     code: "1"
-    description: mission_skill_config-20690901
-    lvup_description: mission_skill_config-30690901
     skill_group_id: 690901
     level: 1
     spot_type: "-1"
@@ -76196,8 +76603,8 @@
     cd_time_type: 1
     start_range: 4
     trigger_id: 101010091&&112010191
-    target_id: 112010091&&112010191
-    special_spot_add: 2110100:1,2110101:1,2110102:1,1000001:1:1
+    target_id: "112010091"
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000901:1:1
     special_spot_minus: 9332110:1,1120100:1,1120101:1
     subsidiary_mission_skill: "95401010"
     is_manual: 95401003
@@ -76214,8 +76621,8 @@
     cd_time_type: 1
     start_range: 4
     trigger_id: 101010091&&112020191
-    target_id: 112020091&&112020191
-    special_spot_add: 2110100:1,2110101:1,2110102:1,1000001:1:1
+    target_id: "112020091"
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000901:1:1
     special_spot_minus: 9332110:1,1120200:1,1120201:1
     subsidiary_mission_skill: "95401011"
     is_manual: 95401004
@@ -76232,8 +76639,8 @@
     cd_time_type: 1
     start_range: 4
     trigger_id: 101010091&&112030191
-    target_id: 112030091&&112030191
-    special_spot_add: 2110100:1,2110101:1,2110102:1,1000001:1:1
+    target_id: "112030091"
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000901:1:1
     special_spot_minus: 9332110:1,1120300:1,1120301:1
     subsidiary_mission_skill: "95401012"
     is_manual: 95401005
@@ -76250,8 +76657,8 @@
     cd_time_type: 1
     start_range: 4
     trigger_id: 101010091&&112040191
-    target_id: 112040091&&112040191
-    special_spot_add: 2110100:1,2110101:1,2110102:1,1000001:1:1
+    target_id: "112040091"
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000901:1:1
     special_spot_minus: 9332110:1,1120400:1,1120401:1
     subsidiary_mission_skill: "95401013"
     is_manual: 95401006
@@ -76268,8 +76675,8 @@
     cd_time_type: 1
     start_range: 4
     trigger_id: 101010091&&112050191
-    target_id: 112050091&&112050191
-    special_spot_add: 2110100:1,2110101:1,2110102:1,1000001:1:1
+    target_id: "112050091"
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000901:1:1
     special_spot_minus: 9332110:1,1120500:1,1120501:1
     subsidiary_mission_skill: "95401014"
     is_manual: 95401007
@@ -76419,6 +76826,71 @@
     cd_time_type: 1
     target_id: "1"
     mission_buff_add: 9550101:1
+  }
+  {
+    id: 95401019
+    name: 【標記】引爆廢棄建築①
+    skill_group_id: 95401019
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "112010091"
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000901:1:1
+    special_spot_minus: 9332110:1,1120100:1
+  }
+  {
+    id: 95401020
+    name: 【標記】引爆廢棄建築②
+    skill_group_id: 95401020
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "112020091"
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000901:1:1
+    special_spot_minus: 9332110:1,1120200:1
+  }
+  {
+    id: 95401021
+    name: 【標記】引爆廢棄建築③
+    skill_group_id: 95401021
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "112030091"
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000901:1:1
+    special_spot_minus: 9332110:1,1120300:1
+  }
+  {
+    id: 95401022
+    name: 【標記】引爆廢棄建築④
+    skill_group_id: 95401022
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "112040091"
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000901:1:1
+    special_spot_minus: 9332110:1,1120400:1
+  }
+  {
+    id: 95401023
+    name: 【標記】引爆廢棄建築⑤
+    skill_group_id: 95401023
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "112050091"
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000901:1:1
+    special_spot_minus: 9332110:1,1120500:1
   }
   {
     id: 95838001

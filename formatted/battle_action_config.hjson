@@ -25542,7 +25542,7 @@
     name: 拉普拉斯妖-教皇
     action_order: sp
     action_playspeed: "100"
-    effect_order: 3(LaplaceBoss;教皇;The Hierophant;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;教宗;The Hierophant;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
     summon_order: "5011,5012"

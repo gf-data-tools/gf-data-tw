@@ -1840,9 +1840,9 @@
   }
   {
     id: 1000169
-    name: mission_effect_config-11000169
+    name: 塔羅牌特效
     code: Tarot_ka01
-    description: mission_effect_config-21000169
+    description: 聖杯
     priority: 1
     size: 1
     sound: BT_CARD_BURN
@@ -1850,9 +1850,9 @@
   }
   {
     id: 1000170
-    name: mission_effect_config-11000170
+    name: 塔羅牌特效
     code: Tarot_ka02
-    description: mission_effect_config-21000170
+    description: 星幣
     priority: 1
     size: 1
     sound: BT_CARD_BURN
@@ -1860,9 +1860,9 @@
   }
   {
     id: 1000171
-    name: mission_effect_config-11000171
+    name: 塔羅牌特效
     code: Tarot_ka03
-    description: mission_effect_config-21000171
+    description: 權杖
     priority: 1
     size: 1
     sound: BT_CARD_BURN
@@ -1870,9 +1870,9 @@
   }
   {
     id: 1000172
-    name: mission_effect_config-11000172
+    name: 塔羅牌特效
     code: Tarot_ka04
-    description: mission_effect_config-21000172
+    description: 寶劍
     priority: 1
     size: 1
     sound: BT_CARD_BURN
@@ -1880,9 +1880,9 @@
   }
   {
     id: 1000173
-    name: mission_effect_config-11000173
+    name: 拉普拉斯盾
     code: Laplace_dun_uv
-    description: mission_effect_config-21000173
+    description: 拉普拉斯盾
     priority: 1
     size: 1
     offset: "0,0"

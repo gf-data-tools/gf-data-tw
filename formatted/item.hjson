@@ -775,6 +775,15 @@
     rank: 1
   }
   {
+    id: 137
+    type: 3
+    arg: "38"
+    code: Medal_21summer_re_rank
+    item_name: 噩兆熄止勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在「熵減焓增」積分模式中的耀眼功勳，「無盡的煉獄已被您抹除，人們得以安睡在幸福的夢中。」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -14515,8 +14524,8 @@
     type: 5
     arg: "1"
     code: profilePic_202404Acticity_01
-    item_name: 鑰匙保管員
-    introduction: 鑰匙保管員
+    item_name: 頭像：鑰匙保管員
+    introduction: 頭像：鑰匙保管員
     rank: 1
   }
   {
@@ -14524,8 +14533,8 @@
     type: 5
     arg: "1"
     code: profilePic_202404Acticity_02
-    item_name: 時光中凝固的回眸
-    introduction: 時光中凝固的回眸
+    item_name: 頭像：時光中凝固的回眸
+    introduction: 頭像：時光中凝固的回眸
     rank: 1
   }
   {
@@ -14533,8 +14542,8 @@
     type: 5
     arg: "1"
     code: profilePic_202404Acticity_03
-    item_name: 蛻變
-    introduction: 蛻變
+    item_name: 頭像：蛻變
+    introduction: 頭像：蛻變
     rank: 1
   }
   {
@@ -14542,8 +14551,8 @@
     type: 5
     arg: "1"
     code: card_202404Acticity_01
-    item_name: 一封艾爾瑪的來信
-    introduction: 一封艾爾瑪的來信
+    item_name: 名片：一封艾爾瑪的來信
+    introduction: 名片：一封艾爾瑪的來信
     rank: 1
   }
   {
@@ -14551,8 +14560,8 @@
     type: 5
     arg: "1"
     code: card_202404Acticity_02
-    item_name: 登上世界的長梯
-    introduction: 登上世界的長梯
+    item_name: 名片：登上世界的長梯
+    introduction: 名片：登上世界的長梯
     rank: 1
   }
   {
@@ -14560,8 +14569,8 @@
     type: 5
     arg: "1"
     code: card_202404Acticity_03
-    item_name: 羽化
-    introduction: 羽化
+    item_name: 名片：羽化
+    introduction: 名片：羽化
     rank: 1
   }
   {
@@ -14569,8 +14578,8 @@
     type: 5
     arg: "1"
     code: cg_202404Acticity
-    item_name: 專屬囚室
-    introduction: 專屬囚室
+    item_name: 背景：專屬囚室
+    introduction: 背景：專屬囚室
     rank: 1
   }
   {
@@ -14821,100 +14830,108 @@
     type: 5
     arg: "1"
     code: profilePic_202406Activity_01
-    item_name: item-10002510
-    introduction: item-20002510
+    item_name: 頭像：覺醒之鑰
+    introduction: 頭像：覺醒之鑰
     rank: 1
-    detail_introduction: item-30002510
   }
   {
     id: 2511
     type: 5
     arg: "1"
     code: profilePic_202406Activity_02
-    item_name: item-10002511
-    introduction: item-20002511
+    item_name: 頭像：孤鴻掠影
+    introduction: 頭像：孤鴻掠影
     rank: 1
-    detail_introduction: item-30002511
   }
   {
     id: 2512
     type: 5
     arg: "1"
     code: profilePic_202406Activity_03
-    item_name: item-10002512
-    introduction: item-20002512
+    item_name: 頭像：群梟之首
+    introduction: 頭像：群梟之首
     rank: 1
-    detail_introduction: item-30002512
   }
   {
     id: 2513
     type: 5
     arg: "1"
     code: card_202406Activity_01
-    item_name: item-10002513
-    introduction: item-20002513
+    item_name: 名片：迷失徑跡
+    introduction: 名片：迷失徑跡
     rank: 1
-    detail_introduction: item-30002513
   }
   {
     id: 2514
     type: 5
     arg: "1"
     code: card_202406Activity_02
-    item_name: item-10002514
-    introduction: item-20002514
+    item_name: 名片：倒錯時光
+    introduction: 名片：倒錯時光
     rank: 1
-    detail_introduction: item-30002514
   }
   {
     id: 2515
     type: 5
     arg: "1"
     code: card_202406Activity_03
-    item_name: item-10002515
-    introduction: item-20002515
+    item_name: 名片：異端鐘塔
+    introduction: 名片：異端鐘塔
     rank: 1
-    detail_introduction: item-30002515
   }
   {
     id: 2516
     type: 5
     arg: "1"
     code: card_202406Activity_04
-    item_name: item-10002516
-    introduction: item-20002516
+    item_name: 名片：蝶翼與囚徒
+    introduction: 名片：蝶翼與囚徒
     rank: 1
-    detail_introduction: item-30002516
   }
   {
     id: 2517
     type: 5
     arg: "1"
     code: cg_202406Activity_01
-    item_name: item-10002517
-    introduction: item-20002517
+    item_name: 背景：小徑分叉的迷宮
+    introduction: 背景：小徑分叉的迷宮
     rank: 1
-    detail_introduction: item-30002517
   }
   {
     id: 2518
     type: 5
     arg: "1"
     code: cg_202406Activity_02
-    item_name: item-10002518
-    introduction: item-20002518
+    item_name: 背景：漩渦以上，深淵以下
+    introduction: 背景：漩渦以上，深淵以下
     rank: 1
-    detail_introduction: item-30002518
   }
   {
     id: 2519
     type: 5
     arg: "1"
     code: cg_202406Activity_03
-    item_name: item-10002519
-    introduction: item-20002519
+    item_name: 背景：被肢解的虛空
+    introduction: 背景：被肢解的虛空
     rank: 1
-    detail_introduction: item-30002519
+  }
+  {
+    id: 2520
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M1897
+    item_name: M1897-潔淨圓舞曲
+    introduction: M1897-潔淨圓舞曲
+    rank: 1
+  }
+  {
+    id: 2521
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M1897
+    item_name: 名片：迷亂間奏
+    introduction: 名片：迷亂間奏
+    rank: 1
   }
   {
     id: 4001
@@ -16040,10 +16057,9 @@
     type: 1
     arg: "9044"
     code: ActivityTarot2
-    item_name: item-10009044
-    introduction: item-20009044
+    item_name: 星幣王牌
+    introduction: 將當前所選梯隊傳送至範圍2以內的無人點位。
     rank: 1
-    detail_introduction: item-30009044
     is_hide_info: 1
   }
   {
@@ -16051,10 +16067,9 @@
     type: 1
     arg: "9045"
     code: ActivityTarot4
-    item_name: item-10009045
-    introduction: item-20009045
+    item_name: 權杖王牌
+    introduction: 向當前點位範圍1以內的指定敵人施加EMP影響，削弱屬性並禁止移動1回合。
     rank: 1
-    detail_introduction: item-30009045
     is_hide_info: 1
   }
   {
@@ -16062,10 +16077,9 @@
     type: 1
     arg: "9046"
     code: ActivityTarot1
-    item_name: item-10009046
-    introduction: item-20009046
+    item_name: 寶劍王牌
+    introduction: 為當前所選梯隊提供額外2點行動點數，使其在下次交戰中變強。但交戰後該梯隊將無法移動。
     rank: 1
-    detail_introduction: item-30009046
     is_hide_info: 1
   }
   {
@@ -16073,10 +16087,9 @@
     type: 1
     arg: "9047"
     code: ActivityTarot3
-    item_name: item-10009047
-    introduction: item-20009047
+    item_name: 聖杯王牌
+    introduction: 戰鬥中可持續恢復護盾，持續1回合
     rank: 1
-    detail_introduction: item-30009047
     is_hide_info: 1
   }
   {
@@ -18312,41 +18325,37 @@
     type: 4
     arg: "100222"
     code: Nova_medal_black
-    item_name: item-10100222
-    introduction: item-20100222
+    item_name: 新星勳章·22重困境
+    introduction: 新星勳章·22重困境
     rank: 1
-    detail_introduction: item-30100222
   }
   {
     id: 100223
     type: 4
     arg: "100223"
     code: Platinum_medal_black
-    item_name: item-10100223
-    introduction: item-20100223
+    item_name: 白金勳章·22重困境
+    introduction: 白金勳章·22重困境
     rank: 1
-    detail_introduction: item-30100223
   }
   {
     id: 100224
     type: 9
     arg: "100224"
     code: Coin_202406CartesianTheatre
-    item_name: item-10100224
-    introduction: item-20100224
+    item_name: 命運之骰
+    introduction: 與其他任何骰子不同：正四面骰的抉擇藏匿於底面。只有洞悉所有的錯誤答案，方知命運真正的饋贈。
     rank: 1
     daily_limit: "60"
-    detail_introduction: item-30100224
   }
   {
     id: 100225
     type: 4
     arg: "100225"
     code: coremask2_202406
-    item_name: item-10100225
-    introduction: item-20100225
+    item_name: 蝕心面具·22重困境
+    introduction: 散發著詭譎氣息的面具，只有通過極為艱險的考驗才能獲得。留在手中似乎沒有什麼用，但能夠在商店換取到一個期望已久的相遇。
     rank: 1
-    detail_introduction: item-30100225
   }
   {
     id: 110001
@@ -18992,6 +19001,15 @@
     type: 4
     arg: "110072"
     code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
+    id: 110073
+    type: 4
+    arg: "110073"
+    code: EventPT2
     item_name: 活動點數
     introduction: 活動點數
     rank: 1
@@ -20692,6 +20710,22 @@
     rank: 1
   }
   {
+    id: 140039
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第20期前線協議
+    rank: 1
+  }
+  {
+    id: 140040
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第20期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -21098,6 +21132,15 @@
     code: profileFrame_BattlePass_M99
     item_name: 頭像框·七彩樂引
     introduction: 頭像框·七彩樂引
+    rank: 1
+  }
+  {
+    id: 200045
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M1897
+    item_name: 頭像框·無瑕交響
+    introduction: 頭像框·無瑕交響
     rank: 1
   }
   {
@@ -22665,11 +22708,10 @@
     type: 15
     arg: "1500135"
     code: Bumdle_cartesiantheatre01
-    item_name: item-11500135
-    introduction: item-21500135
+    item_name: 22重困境限定裝扮券·壹
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
-    detail_introduction: item-31500135
     type_sort: 1
   }
   {
@@ -22677,11 +22719,10 @@
     type: 15
     arg: "1500136"
     code: Bumdle_cartesiantheatre02
-    item_name: item-11500136
-    introduction: item-21500136
+    item_name: 22重困境限定裝扮券·貳
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
-    detail_introduction: item-31500136
     type_sort: 1
   }
   {
@@ -22689,11 +22730,54 @@
     type: 15
     arg: "1500137"
     code: Bumdle_cartesiantheatre03
-    item_name: item-11500137
-    introduction: item-21500137
+    item_name: 22重困境限定裝扮券·參
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
-    detail_introduction: item-31500137
+    type_sort: 1
+  }
+  {
+    id: 1500138
+    type: 15
+    arg: "1500138"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-夢季旋律，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500139
+    type: 15
+    arg: "1500139"
+    code: package_choose
+    item_name: 彈匣類裝備自選包
+    introduction: 來自於前線協議-夢季旋律，可從該指定投遞配給序標內選擇獲取一件人形類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500140
+    type: 15
+    arg: "1500140"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-夢季旋律，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500141
+    type: 15
+    arg: "1500141"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-夢季旋律，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
     type_sort: 1
   }
   {
@@ -23025,11 +23109,10 @@
     type: 15
     arg: "1700028"
     code: package_choose
-    item_name: item-11700028
-    introduction: item-21700028
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31700028
     type_sort: 1
   }
   {
@@ -23037,11 +23120,10 @@
     type: 15
     arg: "1700029"
     code: package_choose
-    item_name: item-11700029
-    introduction: item-21700029
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31700029
     type_sort: 1
   }
   {
@@ -23049,11 +23131,10 @@
     type: 15
     arg: "1700030"
     code: package_choose
-    item_name: item-11700030
-    introduction: item-21700030
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31700030
     type_sort: 1
   }
   {
