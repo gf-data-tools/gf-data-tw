@@ -161,7 +161,7 @@
     rank: 1
     sort: 4
     item_access: "8,5"
-    detail_introduction: 可在情報中心進行情報解析，獲取重裝部隊中樞數據或晶片。
+    detail_introduction: 可用於火力小隊晶片的解鎖和升級。
     type_sort: 2
   }
   {
@@ -174,7 +174,7 @@
     rank: 1
     sort: 5
     item_access: "8,5"
-    detail_introduction: 可在情報中心進行情報解析，相比原始數據更容易獲取重裝部隊中樞數據和高星級晶片。
+    detail_introduction: 可用於火力小隊的解鎖、晉升、迭代，也可用於火力小隊晶片升級。
     type_sort: 2
   }
   {
@@ -186,8 +186,8 @@
     introduction: 不逼數據分析師一把，你永遠不知道給自己打工的人能有多優秀。「出於對方的愛好，這份契約需要您額外支付一張真實貓咪的照片。」
     rank: 1
     sort: 508
-    item_access: "1,5,2"
-    detail_introduction: 可立即完成情報中心正在進行的情報解析。
+    item_access: "5,2"
+    detail_introduction: 可立即完成火力小隊的晉升。
     type_sort: 3
   }
   {
@@ -200,7 +200,7 @@
     rank: 1
     sort: -1
     item_access: "9,10"
-    detail_introduction: 可用於滿星滿級重裝部隊的迭代強化。
+    detail_introduction: 可用於火力小隊的迭代。
     type_sort: 2
   }
   {
@@ -322,7 +322,7 @@
     rank: 1
     sort: 12
     item_access: "24,16,6"
-    detail_introduction: 可在格納庫中用於重裝部隊的經驗訓練。
+    detail_introduction: 可在情報中心中用於火力小隊的經驗訓練。
     type_sort: 2
   }
   {
@@ -16093,6 +16093,15 @@
     is_hide_info: 1
   }
   {
+    id: 9048
+    type: 1
+    arg: "9048"
+    code: mind_PT
+    item_name: 思域迷航PT
+    introduction: 思域迷航PT
+    rank: 1
+  }
+  {
     id: 10603
     type: 1
     arg: "1"
@@ -16286,6 +16295,15 @@
     id: 10716
     type: 18
     arg: "10716"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10717
+    type: 18
+    arg: "10717"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
@@ -18356,6 +18374,34 @@
     item_name: 蝕心面具·22重困境
     introduction: 散發著詭譎氣息的面具，只有通過極為艱險的考驗才能獲得。留在手中似乎沒有什麼用，但能夠在商店換取到一個期望已久的相遇。
     rank: 1
+  }
+  {
+    id: 100226
+    type: 4
+    arg: "100226"
+    code: Nova_medal
+    item_name: 新星勳章·思域迷航
+    introduction: 新星勳章·思域迷航
+    rank: 1
+  }
+  {
+    id: 100227
+    type: 4
+    arg: "100227"
+    code: Platinum_medal
+    item_name: 白金勳章·思域迷航
+    introduction: 白金勳章·思域迷航
+    rank: 1
+  }
+  {
+    id: 100228
+    type: 9
+    arg: "100228"
+    code: Mind_Coin
+    item_name: 思維幣
+    introduction: 思維幣
+    rank: 1
+    daily_limit: "120"
   }
   {
     id: 110001

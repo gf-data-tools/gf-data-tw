@@ -271,4 +271,22 @@
     group_skill: 2:1001503
     fit_gun: "173"
   }
+  {
+    id: 31
+    name: 暗夜利刃
+    des: 為維爾德MkⅡ量身訂製的套裝，貫徹寄身於黑暗，埋葬一切惡行的理念。
+    code: EgroupWelrod
+    equip_unit: "406,0,213"
+    group_skill: 2:1001703
+    fit_gun: "20114"
+  }
+  {
+    id: 32
+    name: 走火女王
+    des: 為斯登MkⅡ量身訂製的套裝，直面自己的缺陷後終於可以獨當一面了。
+    code: EgroupStenMK2
+    equip_unit: "407,0,128"
+    group_skill: 2:1001803
+    fit_gun: "20029"
+  }
 ]
