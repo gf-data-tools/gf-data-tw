@@ -36690,7 +36690,6 @@
     expect_turn: 10
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "332"
     map_res_name: OPS82_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
@@ -36753,7 +36752,6 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "331,334"
     map_res_name: OPS88_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
@@ -36785,7 +36783,6 @@
     expect_turn: 10
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "340,341"
     map_res_name: OPS89_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
@@ -36817,7 +36814,7 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "359,166"
+    limit_gun_pool: "359"
     map_res_name: OPS88_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
@@ -36848,7 +36845,6 @@
     expect_turn: 10
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "332"
     map_res_name: OPS87_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
@@ -36885,7 +36881,6 @@
     map_information: "8000,8000|3500,3500|200,-1300"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "527"
     drop_mission_key: "0,0,1102200:1"
     mission_group_id: 21
     open_mission_keys: 1107600:1
@@ -36917,13 +36912,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "331,334"
     limit_team: "0,6"
     map_res_name: OPS91_Y
     map_information: "15000,15000|5000,6000|5000,200"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "528"
     drop_mission_key: "0,0,1102300:1"
     mission_group_id: 21
     open_mission_keys: 1107700:1
@@ -36953,13 +36946,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "340,341"
     limit_team: "0,6"
     map_res_name: OPS92_Y
     map_information: "13000,13000|5500,3500|3500,500"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "528"
     drop_mission_key: "0,0,1102400:1"
     mission_group_id: 21
     open_mission_keys: 1107800:1
@@ -36994,7 +36985,6 @@
     map_information: "15000,15000|6500,5000|-2500,4500"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "531"
     drop_mission_key: "0,0,1102500:1"
     mission_group_id: 21
     open_mission_keys: 1107900:1
@@ -37024,13 +37014,12 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "359,166"
+    limit_gun_pool: "359"
     limit_team: "0,5"
     map_res_name: OPS91_Y
     map_information: "15000,15000|6500,4500|-1500,-4400"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "528"
     drop_mission_key: "0,0,1102600:1"
     mission_group_id: 21
     open_mission_keys: 1108000:1
@@ -37060,7 +37049,6 @@
     expect_turn: 10
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "332"
     map_res_name: OPS82_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
@@ -37123,7 +37111,6 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "331,334"
     limit_team: "0,3"
     map_res_name: OPS88_Y
     map_information: "8000,8000|8000,8000|0,0"
@@ -37157,7 +37144,6 @@
     expect_turn: 10
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "340,341"
     map_res_name: OPS89_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
@@ -37189,7 +37175,7 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "359,166"
+    limit_gun_pool: "359"
     map_res_name: OPS88_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
@@ -37220,7 +37206,6 @@
     expect_turn: 10
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "332"
     map_res_name: OPS87_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
@@ -37257,7 +37242,6 @@
     map_information: "10000,10000|6000,4500|500,-1300"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "532"
     drop_mission_key: "0,0,1102200:1|1102201:1"
     mission_group_id: 21
     open_mission_keys: 1107600:1
@@ -37288,13 +37272,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "331,334"
     limit_team: "0,6"
     map_res_name: OPS91_Y
     map_information: "18000,18000|5000,7500|5800,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "533"
     drop_mission_key: "0,0,1102300:1|1102301:1"
     mission_group_id: 21
     open_mission_keys: 1107700:1
@@ -37323,13 +37305,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "340,341"
     limit_team: "0,6"
     map_res_name: OPS92_Y
     map_information: "16000,16000|6000,4000|4500,500"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "533"
     drop_mission_key: "0,0,1102400:1|1102401:1"
     mission_group_id: 21
     open_mission_keys: 1107800:1
@@ -37358,13 +37338,12 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "359,166"
+    limit_gun_pool: "359"
     limit_team: "0,8"
     map_res_name: OPS91_Y
     map_information: "16000,16000|7000,4500|-1800,-4600"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "533"
     drop_mission_key: "0,0,1102600:1|1102601:1"
     mission_group_id: 21
     open_mission_keys: 1108000:1
@@ -37394,7 +37373,6 @@
     expect_turn: 10
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "332"
     map_res_name: OPS82_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
@@ -37457,7 +37435,6 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "331,334"
     limit_team: "0,3"
     map_res_name: OPS88_Y
     map_information: "8000,8000|8000,8000|0,0"
@@ -37491,7 +37468,6 @@
     expect_turn: 10
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "340,341"
     map_res_name: OPS89_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
@@ -37523,7 +37499,7 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "359,166"
+    limit_gun_pool: "359"
     map_res_name: OPS88_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
@@ -37554,7 +37530,6 @@
     expect_turn: 10
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "332"
     map_res_name: OPS87_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
@@ -37591,7 +37566,6 @@
     map_information: "10000,10000|10000,10000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "535"
     drop_mission_key: "0,0,1102200:1|1102201:1|1102202:1"
     mission_group_id: 21
     open_mission_keys: 1107600:1
@@ -37622,13 +37596,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "331,334"
     limit_team: "0,6"
     map_res_name: OPS91_Y
     map_information: "18000,18000|5000,7500|5800,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "536"
     drop_mission_key: "0,0,1102300:1|1102301:1|1102302:1"
     mission_group_id: 21
     open_mission_keys: 1107700:1
@@ -37657,13 +37629,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "340,341"
     limit_team: "0,6"
     map_res_name: OPS92_Y
     map_information: "16000,16000|6000,4000|4500,500"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "536"
     drop_mission_key: "0,0,1102400:1|1102401:1|1102402:1"
     mission_group_id: 21
     open_mission_keys: 1107800:1
@@ -37692,13 +37662,12 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "359,166"
+    limit_gun_pool: "359"
     limit_team: "0,8"
     map_res_name: OPS91_Y
     map_information: "16000,16000|7000,4500|-1800,-4600"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "536"
     drop_mission_key: "0,0,1102600:1|1102601:1|1102602:1"
     mission_group_id: 21
     open_mission_keys: 1108000:1
@@ -37756,7 +37725,7 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "332,362,658"
+    limit_gun_pool: "362,358"
     map_res_name: OPS82_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
@@ -37786,7 +37755,7 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "332,362,658"
+    limit_gun_pool: "362,358"
     map_res_name: OPS82_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
@@ -37816,7 +37785,7 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "331,334,340,341,359,166"
+    limit_gun_pool: "359"
     map_res_name: OPS88_Y
     map_information: "8000,8000|5000,4000|1500,2000"
     fog_length: "0,500"
@@ -37846,7 +37815,7 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "331,334,340,341,359,166"
+    limit_gun_pool: "359"
     map_res_name: OPS88_Y
     map_information: "8000,8000|5000,4000|1500,2000"
     fog_length: "0,500"

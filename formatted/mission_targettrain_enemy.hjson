@@ -1,52 +1,52 @@
 [
   {
     id: 101
-    name: 定制標靶
-    des: 定制標靶
+    name: 訂製標靶
+    des: 訂製標靶
     power: 3000
     recommend_power: 3000
     enemy_team_id: 950046
-    log_fitter_name: 定制標靶
+    log_fitter_name: 訂製標靶
     code: Targettrain_SingleTarget
   }
   {
     id: 102
-    name: 定制標靶
-    des: 定制標靶
+    name: 訂製標靶
+    des: 訂製標靶
     power: 3000
     recommend_power: 3000
     enemy_team_id: 950047
-    log_fitter_name: 定制標靶
+    log_fitter_name: 訂製標靶
     code: Targettrain_SingleTarget
   }
   {
     id: 103
-    name: 定制標靶
-    des: 定制標靶
+    name: 訂製標靶
+    des: 訂製標靶
     power: 3000
     recommend_power: 3000
     enemy_team_id: 950048
-    log_fitter_name: 定制標靶
+    log_fitter_name: 訂製標靶
     code: Targettrain_SingleTarget
   }
   {
     id: 104
-    name: 定制標靶
-    des: 定制標靶
+    name: 訂製標靶
+    des: 訂製標靶
     power: 3000
     recommend_power: 3000
     enemy_team_id: 950049
-    log_fitter_name: 定制標靶
+    log_fitter_name: 訂製標靶
     code: Targettrain_SingleTarget
   }
   {
     id: 105
-    name: 定制標靶
-    des: 定制標靶
+    name: 訂製標靶
+    des: 訂製標靶
     power: 3000
     recommend_power: 3000
     enemy_team_id: 950050
-    log_fitter_name: 定制標靶
+    log_fitter_name: 訂製標靶
     code: Targettrain_SingleTarget
   }
   {

@@ -941,7 +941,7 @@
     code: 人形装备_外骨骼_N
     develop_duration: 3120
     company: IOP
-    equip_introduction: IOP公司的T4型定制外骨骼，通過針對人形特性特別定制的外骨骼，最大程度提升人形的行動能力，並且保證射擊穩定性。手槍，衝鋒槍，部分突擊步槍人形可以裝備。
+    equip_introduction: IOP公司的T4型訂製外骨骼，通過針對人形特性特別訂製的外骨骼，最大程度提升人形的行動能力，並且保證射擊穩定性。手槍，衝鋒槍，部分突擊步槍人形可以裝備。
     powerup_mp: 0.3
     powerup_ammo: 0.23
     powerup_mre: 0.15
@@ -1355,7 +1355,7 @@
     code: 人形装备_外骨骼_X_N
     develop_duration: 3120
     company: IOP
-    equip_introduction: IOP公司的X4型定制外骨骼，通過針對人形特性特別定制的外骨骼，最大程度提升人形的行動能力，並且保證射擊穩定性。手槍，衝鋒槍，部分突擊步槍人形可以裝備。
+    equip_introduction: IOP公司的X4型訂製外骨骼，通過針對人形特性特別訂製的外骨骼，最大程度提升人形的行動能力，並且保證射擊穩定性。手槍，衝鋒槍，部分突擊步槍人形可以裝備。
     powerup_mp: 0.3
     powerup_ammo: 0.25
     powerup_mre: 0.12
@@ -2086,7 +2086,7 @@
     code: 弹匣_霰弹_鹿弹_S
     develop_duration: 3240
     company: 16Lab
-    equip_introduction: 16Lab特別定制的馬格南霰彈，更高裝藥量結合鎢鋼外殼的殺傷鉛彈，是霰彈槍目前能使用的最強的彈藥。
+    equip_introduction: 16Lab特別訂製的馬格南霰彈，更高裝藥量結合鎢鋼外殼的殺傷鉛彈，是霰彈槍目前能使用的最強的彈藥。
     powerup_mp: 0.08
     powerup_ammo: 0.53
     powerup_mre: 0.08
@@ -6057,7 +6057,7 @@
     develop_duration: 3120
     company: SHD
     fit_guns: "1029"
-    equip_introduction: 在基礎的SHD go bag上根據特工416個人需求專屬定制的背包。
+    equip_introduction: 在基礎的SHD go bag上根據特工416個人需求專屬訂製的背包。
     powerup_mp: 0.3
     powerup_ammo: 0.25
     powerup_mre: 0.12
@@ -8090,7 +8090,7 @@
     develop_duration: 2820
     company: B&T
     fit_guns: "233,20233"
-    equip_introduction: 為Px4 風暴專門定制9毫米消音器，緊湊版本縮短了長度使其更適合在狹小的空間裡作戰，是Px4 風暴的愛用品之一。
+    equip_introduction: 為Px4 風暴專門訂製9毫米消音器，緊湊版本縮短了長度使其更適合在狹小的空間裡作戰，是Px4 風暴的愛用品之一。
     powerup_mp: 0.55
     powerup_ammo: 0.23
     powerup_mre: 0.23
@@ -11172,7 +11172,7 @@
     develop_duration: 3600
     company: IOP
     fit_guns: "20103"
-    equip_introduction: 為UMP45定制的新型空尖彈，在原有的基礎上大幅降低了音爆的影響。
+    equip_introduction: 為UMP45訂製的新型空尖彈，在原有的基礎上大幅降低了音爆的影響。
     powerup_mp: 0.48
     powerup_ammo: 0.48
     powerup_mre: 0.08
@@ -11206,7 +11206,7 @@
     develop_duration: 3600
     company: IOP
     fit_guns: "20101"
-    equip_introduction: 為UMP9定制的新型空尖彈，在原有的基礎上提升了一定的殺傷力。
+    equip_introduction: 為UMP9訂製的新型空尖彈，在原有的基礎上提升了一定的殺傷力。
     powerup_mp: 0.48
     powerup_ammo: 0.48
     powerup_mre: 0.08

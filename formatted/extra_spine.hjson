@@ -237,7 +237,7 @@
   }
   {
     id: 3020
-    name: 2週年
+    name: 2周年
     spine_code: 2years
     scale: 100
     ai: 2206
@@ -515,7 +515,7 @@
   }
   {
     id: 3057
-    name: 定制橘喵救生員
+    name: 訂製橘喵救生員
     spine_code: pet_cat7
     scale: 68
     ai: 2100

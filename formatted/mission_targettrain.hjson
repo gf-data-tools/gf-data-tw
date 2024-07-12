@@ -2,7 +2,7 @@
   {
     id: 170101
     target_type: 1
-    name: 定制標靶
+    name: 訂製標靶
     target_des: 【為了讓各位指揮官對戰鬥有更深刻的理解，格里芬研發了模擬標靶系統。\n 您可以在系統中配置有針對性的假想敵，並配置自己的梯隊參與模擬作 戰。】
     code: mission_targettrain_01
     difficult_level_limit: 5
@@ -15,7 +15,7 @@
   {
     id: 170102
     target_type: 1
-    name: 定制標靶
+    name: 訂製標靶
     target_des: 【為了讓各位指揮官對戰鬥有更深刻的理解，格里芬研發了模擬標靶系統。\n 您可以在系統中配置有針對性的假想敵，並配置自己的梯隊參與模擬作 戰。】
     code: mission_targettrain_01
     difficult_level_limit: 5
@@ -28,7 +28,7 @@
   {
     id: 170103
     target_type: 1
-    name: 定制標靶
+    name: 訂製標靶
     target_des: 【為了讓各位指揮官對戰鬥有更深刻的理解，格里芬研發了模擬標靶系統。\n 您可以在系統中配置有針對性的假想敵，並配置自己的梯隊參與模擬作 戰。】
     code: mission_targettrain_01
     difficult_level_limit: 5
@@ -41,7 +41,7 @@
   {
     id: 170104
     target_type: 1
-    name: 定制標靶
+    name: 訂製標靶
     target_des: 【為了讓各位指揮官對戰鬥有更深刻的理解，格里芬研發了模擬標靶系統。\n 您可以在系統中配置有針對性的假想敵，並配置自己的梯隊參與模擬作 戰。】
     code: mission_targettrain_01
     difficult_level_limit: 5
@@ -54,7 +54,7 @@
   {
     id: 170105
     target_type: 1
-    name: 定制標靶
+    name: 訂製標靶
     target_des: 【為了讓各位指揮官對戰鬥有更深刻的理解，格里芬研發了模擬標靶系統。\n 您可以在系統中配置有針對性的假想敵，並配置自己的梯隊參與模擬作 戰。】
     code: mission_targettrain_01
     difficult_level_limit: 5

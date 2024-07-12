@@ -256,7 +256,7 @@
     sort: 509
     upper_limit: 300000
     item_access: "1,4,5,2"
-    detail_introduction: 可在宿舍中進行傢具和人形裝扮的採購。
+    detail_introduction: 可在宿舍中進行傢俱和人形裝扮的採購。
     type_sort: 3
   }
   {
@@ -269,7 +269,7 @@
     rank: 1
     sort: 510
     item_access: "11"
-    detail_introduction: 可在宿舍-採購-限時兌換中兌換當期限時採購的傢具和人形裝扮，限時採購結束後一比一會轉化為採購幣。
+    detail_introduction: 可在宿舍-採購-限時兌換中兌換當期限時採購的傢俱和人形裝扮，限時採購結束後一比一會轉化為採購幣。
     type_sort: 3
   }
   {

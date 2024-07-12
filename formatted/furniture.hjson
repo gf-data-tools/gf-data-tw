@@ -768,7 +768,7 @@
     space: "3,3,1,1,1,0"
     deco_rate: 500
     decompose_gift: 100002
-    description: 格里芬總部為秋天特意定制的紅葉牆紙，頗受好評，可能會考慮漲價販售了。
+    description: 格里芬總部為秋天特意訂製的紅葉牆紙，頗受好評，可能會考慮漲價販售了。
     code: qj2016_wall
     texture_type: "1"
     offset: "0,0,0"
@@ -5502,7 +5502,7 @@
   }
   {
     id: 2037
-    name: 三週年紀念：竪琴
+    name: 三周年紀念：竪琴
     classes: 81
     type: 201
     space: "1,1,1,1,1,0"
@@ -44274,7 +44274,7 @@
   }
   {
     id: 51501
-    name: 定制橘喵救生員
+    name: 訂製橘喵救生員
     classes: 299
     type: 299
     space: "3,3,1,1,1,0"
@@ -44297,7 +44297,7 @@
     space: "4,1,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: 為了緩解沒有見到美人魚的失落，指揮官特地為人形們定制了美人魚的立牌，不過臉大的人形還是不要太用力鑽進去比較好……
+    description: 為了緩解沒有見到美人魚的失落，指揮官特地為人形們訂製了美人魚的立牌，不過臉大的人形還是不要太用力鑽進去比較好……
     code: yz2019_deco
     texture_type: "1"
     sorting: "20"

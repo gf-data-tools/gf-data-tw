@@ -1526,7 +1526,7 @@
     tipsManagePath: Dorm://Canvas/BoxPanel/Top/TipsManage
     tipsID:
       '''
-      <color=#e57006>退回</color>傢具
+      <color=#e57006>退回</color>傢俱
       獲取禮物
       '''
     bg_path: Tips/Tips_BG_Right

@@ -138,7 +138,7 @@
     rank: "4"
     k_bonus: 6:2000
     bonus_number: "13"
-    description: 清新和風主題的傢具組合，即使在冷酷的冬季也能讓人形們保持沈靜的心情，一起在房間里欣賞凜冬中的日常吧。
+    description: 清新和風主題的傢俱組合，即使在冷酷的冬季也能讓人形們保持沈靜的心情，一起在房間里欣賞凜冬中的日常吧。
     bonus_description: 同宿舍內佈置6件可獲得額外舒適度。
     code: rs2016_table_bs_icon
     is_showed: "1"
@@ -871,7 +871,7 @@
     bonus_picture: "3042"
     k_bonus: 6:2000,9:5000,12:8000
     bonus_number: "14"
-    description: 以古典音樂會為主題的傢具組合，即使我們的生活總會遇到各種各樣的意外，但是我們還有音樂。就在此時此刻，盡情感受這份超越了語言的美吧！
+    description: 以古典音樂會為主題的傢俱組合，即使我們的生活總會遇到各種各樣的意外，但是我們還有音樂。就在此時此刻，盡情感受這份超越了語言的美吧！
     bonus_description: 集齊後宿舍內會出現意想不到的現象。
     code: znq2019_deco_09_A_icon
     is_showed: "1"
@@ -885,7 +885,7 @@
     bonus_picture: "3043"
     k_bonus: 8:2000
     bonus_number: "18"
-    description: 以某位少女的公寓為主題的傢具組合，也許這個世界亂七八糟，但只要擁有這個屬於自己的盒子，就能得到片刻的安寧。用各式各樣的東西填滿這個房間吧，此時此刻，它便是「家」。
+    description: 以某位少女的公寓為主題的傢俱組合，也許這個世界亂七八糟，但只要擁有這個屬於自己的盒子，就能得到片刻的安寧。用各式各樣的東西填滿這個房間吧，此時此刻，它便是「家」。
     bonus_description: 同宿舍內佈置8件可獲得額外舒適度。
     code: jill2019_walldeco_01_icon
     is_showed: "3"
@@ -956,7 +956,7 @@
     bonus_picture: "3055"
     k_bonus: 6:2000,9:5000,12:8000
     bonus_number: "13"
-    description: 以百鬼夜行之時的神社為主題的傢具組合。這是進行試膽大會的最佳時機和最佳地點，炎炎夏日可不要錯過這個降溫的好機會。
+    description: 以百鬼夜行之時的神社為主題的傢俱組合。這是進行試膽大會的最佳時機和最佳地點，炎炎夏日可不要錯過這個降溫的好機會。
     bonus_description: 集齊後宿舍內會出現意想不到的現象。
     code: yukata2019_deco_04_A_icon
     is_showed: "1"
@@ -1183,7 +1183,7 @@
     bonus_picture: "3077"
     k_bonus: 6:2000,9:5000,12:8000
     bonus_number: "14"
-    description: 以末日安全屋為主題的傢具組合。不要開門，即使物資已所剩無幾……
+    description: 以末日安全屋為主題的傢俱組合。不要開門，即使物資已所剩無幾……
     bonus_description: 集齊後宿舍內會出現意想不到的現象。
     code: Halloween2020_deco_23_icon
     is_showed: "1"
@@ -1197,7 +1197,7 @@
     bonus_picture: "3078"
     k_bonus: 6:2000,9:5000,12:8000
     bonus_number: "13"
-    description: 以特工行動臨時據點為主題的傢具組合。即便是臨時據點，這裡也是為你準備的人能拿出的最好的設施。
+    description: 以特工行動臨時據點為主題的傢俱組合。即便是臨時據點，這裡也是為你準備的人能拿出的最好的設施。
     bonus_description: 集齊後宿舍內會出現意想不到的現象。
     code: Agent2020_deco_01_icon
     is_showed: "1"
@@ -1406,7 +1406,7 @@
     bonus_picture: "3099"
     k_bonus: 6:2000,9:5000,12:8000
     bonus_number: "14"
-    description: 以功夫為主題的傢具組合。南拳北腿，四方俠客，都會在此分出輸贏。刀光劍影，快意恩仇，終將寫就江湖傳奇。
+    description: 以功夫為主題的傢俱組合。南拳北腿，四方俠客，都會在此分出輸贏。刀光劍影，快意恩仇，終將寫就江湖傳奇。
     bonus_description: 集齊後宿舍內會出現意想不到的現象。
     code: KungFu2022_deco_11_icon
     is_showed: "1"
@@ -1448,7 +1448,7 @@
     bonus_picture: "3105"
     k_bonus: 6:2000,9:5000,12:8000
     bonus_number: "16"
-    description: 以七周年慶典派對為主題的傢具組合。「光與陰影，使事物成形；愛與恨，使生命成形。」
+    description: 以七周年慶典派對為主題的傢俱組合。「光與陰影，使事物成形；愛與恨，使生命成形。」
     bonus_description: 集齊後宿舍內會出現意想不到的現象。
     code: Anniversary2023_deco_06_icon
     is_showed: "1"
@@ -1462,7 +1462,7 @@
     bonus_picture: "3106"
     k_bonus: 6:2000,9:5000,12:8000
     bonus_number: "12"
-    description: 以夏日祭為主題的傢具組合。盛大喧鬧的儀式上，你覺得歡欣，亦有些寂寞。
+    description: 以夏日祭為主題的傢俱組合。盛大喧鬧的儀式上，你覺得歡欣，亦有些寂寞。
     bonus_description: 集齊後宿舍內會出現意想不到的現象。
     code: SummerFes2023_deco_05_icon
     is_showed: "1"
@@ -1490,7 +1490,7 @@
     bonus_picture: "3109"
     k_bonus: 6:2000,9:5000,12:8000
     bonus_number: "14"
-    description: 以白色禮堂為主題的傢具組合。那一日，白鴿銜來天邊的祝福，彩窗沁染純白的紗裙……我們於此起誓，於此攜手，永志不忘。
+    description: 以白色禮堂為主題的傢俱組合。那一日，白鴿銜來天邊的祝福，彩窗沁染純白的紗裙……我們於此起誓，於此攜手，永志不忘。
     bonus_description: 集齊後宿舍內會出現意想不到的現象。
     code: WhiteV2024_deco_07_icon
     is_showed: "1"

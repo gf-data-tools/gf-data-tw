@@ -13365,6 +13365,9 @@
     id: 1028
     item_id: 2028
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2022_01
     order: 1
     rarity: 5
@@ -13376,6 +13379,9 @@
     id: 1029
     item_id: 2029
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2022_02
     order: 1
     rarity: 5
@@ -13387,6 +13393,9 @@
     id: 1030
     item_id: 2030
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2022_03
     order: 1
     rarity: 5
@@ -13398,6 +13407,9 @@
     id: 1031
     item_id: 2031
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2022_04
     order: 1
     rarity: 5
@@ -13409,6 +13421,9 @@
     id: 1032
     item_id: 2032
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2022_05
     order: 1
     rarity: 5
@@ -13420,6 +13435,9 @@
     id: 1033
     item_id: 2033
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2022_06
     order: 1
     rarity: 5
@@ -13431,6 +13449,9 @@
     id: 1034
     item_id: 2034
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_Winter2022_07
     order: 1
     rarity: 5
@@ -13442,6 +13463,9 @@
     id: 1035
     item_id: 2035
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Winter2022_01
     order: 1
     rarity: 5
@@ -13451,6 +13475,9 @@
     id: 1036
     item_id: 2036
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Winter2022_02
     order: 1
     rarity: 5
@@ -13460,6 +13487,9 @@
     id: 1037
     item_id: 2037
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Winter2022_03
     order: 1
     rarity: 5
@@ -13469,6 +13499,9 @@
     id: 1038
     item_id: 2038
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_Winter2022_04
     order: 1
     rarity: 5
@@ -13478,6 +13511,9 @@
     id: 1039
     item_id: 2039
     sub_type: 3
+    gem: 600
+    item_ids: 508-15000
+    onsale: 1
     code: cg_Winter2022_01
     order: 1
     rarity: 5

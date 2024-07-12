@@ -6485,7 +6485,7 @@
     type: "8"
     item_ids: 1444-1
     quota: "2001"
-    giftbag_name: 頭像：真核面具紀念頭像·三週年
+    giftbag_name: 頭像：真核面具紀念頭像·三周年
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
@@ -22907,7 +22907,7 @@
     id: "10716"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：禮物陷阱
+    giftbag_name: 傢俱：禮物陷阱
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "1367"
@@ -32798,7 +32798,7 @@
     id: "11486"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：「全都要」攪拌機
+    giftbag_name: 傢俱：「全都要」攪拌機
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2129"
@@ -35275,7 +35275,7 @@
     id: "11678"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：賽博水晶球
+    giftbag_name: 傢俱：賽博水晶球
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2191"
@@ -35287,7 +35287,7 @@
     id: "11679"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：完全潛行模擬設備
+    giftbag_name: 傢俱：完全潛行模擬設備
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2192"
@@ -35299,7 +35299,7 @@
     id: "11680"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：鐵窗合影
+    giftbag_name: 傢俱：鐵窗合影
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2193"
@@ -35311,7 +35311,7 @@
     id: "11681"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：無盡永夜
+    giftbag_name: 傢俱：無盡永夜
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2194"
@@ -35323,7 +35323,7 @@
     id: "11682"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：無眠寂地
+    giftbag_name: 傢俱：無眠寂地
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2195"
@@ -37420,7 +37420,7 @@
     id: "11844"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：藏匿聖地
+    giftbag_name: 傢俱：藏匿聖地
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2355"
@@ -37432,7 +37432,7 @@
     id: "11845"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：天使塑像噴泉
+    giftbag_name: 傢俱：天使塑像噴泉
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2356"
@@ -37444,7 +37444,7 @@
     id: "11846"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：時間的遺跡
+    giftbag_name: 傢俱：時間的遺跡
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2357"
@@ -37456,7 +37456,7 @@
     id: "11847"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：通緝榜單
+    giftbag_name: 傢俱：通緝榜單
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2358"
@@ -39542,7 +39542,7 @@
     id: "12008"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：預言指引所
+    giftbag_name: 傢俱：預言指引所
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2433"
@@ -39940,7 +39940,7 @@
     id: "30003"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：DIY特供中心
+    giftbag_name: 傢俱：DIY特供中心
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2159"
@@ -39952,7 +39952,7 @@
     id: "30004"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：好勝黑洞
+    giftbag_name: 傢俱：好勝黑洞
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2160"
@@ -39964,7 +39964,7 @@
     id: "30005"
     type: "8"
     quota: "2001"
-    giftbag_name: 傢具：考前突擊夜
+    giftbag_name: 傢俱：考前突擊夜
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2161"
