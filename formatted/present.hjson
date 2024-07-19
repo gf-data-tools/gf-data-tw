@@ -1164,6 +1164,45 @@
     present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
   }
   {
+    item_id: 1500142
+    type: 2
+    poster: PackageImage_ZeroCharge_1
+    drop_package_id: 2399
+    due_time: 2024/08/20  00:00:00
+    due_prize_id: 7395
+    present_info:
+      '''
+      指揮官可從裝扮「Mk23-獻禮紅絲絨」、「Mk23-宣告開學的貓之歌」、「Mk23-傳達到的心意」、「Mk23-蜂糖花」、「9A-91-追藏的秘密」、「9A-91-忠友同游」、「MP5-早安晨雀」、「MP5-山蘇子」、「MP5-花未眠」和「MP5-暗夜使魔」中隨機獲得一件未擁有的裝扮。
+      如已擁有上述所有裝扮，則從中隨機獲得一件。
+      '''
+  }
+  {
+    item_id: 1500143
+    type: 2
+    poster: PackageImage_ZeroCharge_2
+    drop_package_id: 2400
+    due_time: 2024/08/20  00:00:00
+    due_prize_id: 7396
+    present_info:
+      '''
+      指揮官可從裝扮「AUG Para-皮斯科酸」、「AUG Para-溯溪踏秋時」、「AUG Para-十號小夜曲」、「AUG Para-聚瑤芳」、「Mk23-甜心小惡魔」、「9A-91-子彈咖啡館」、「9A-91-蕊夢矢」、「MP5-小小的一步」、「KH2002-魔獄先遣隊」、「KH2002-黑色女爵士」和「LAMG-棕影輕搖」中隨機獲得一件未擁有的裝扮。
+      如已擁有上述所有裝扮，則從中隨機獲得一件。
+      '''
+  }
+  {
+    item_id: 1500144
+    type: 2
+    poster: PackageImage_ZeroCharge_3
+    drop_package_id: 2401
+    due_time: 2024/08/20  00:00:00
+    due_prize_id: 7396
+    present_info:
+      '''
+      指揮官可從裝扮「AK-12-靜寂蒼藍」、「AK-12-冰沙時代」、「AN-94-潛水鐘與人偶」和「AN-94-沉默嫣紅」中隨機獲得一件未擁有的裝扮。
+      如已擁有上述所有裝扮，則從中隨機獲得一件。
+      '''
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089

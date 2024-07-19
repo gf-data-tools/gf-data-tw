@@ -784,6 +784,15 @@
     rank: 1
   }
   {
+    id: 138
+    type: 3
+    arg: "39"
+    code: Medal_202407Acticity
+    item_name: 見證之眼勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在「零電荷」活動中的卓越戰績，「用一場大雪，遮蔽存在的痕跡，用彼此的眼睛，見證狼群的結局。」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -14934,6 +14943,159 @@
     rank: 1
   }
   {
+    id: 2522
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season16_1
+    item_name: 奇策構築 · 代號拾肆：弛豫
+    introduction: 奇策構築 · 代號拾肆：弛豫
+    rank: 1
+  }
+  {
+    id: 2523
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season16_2
+    item_name: 謀律想定 · 代號拾肆：弛豫
+    introduction: 謀律想定 · 代號拾肆：弛豫
+    rank: 1
+  }
+  {
+    id: 2524
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season16_3
+    item_name: 機略推演 · 代號拾肆：弛豫
+    introduction: 機略推演 · 代號拾肆：弛豫
+    rank: 1
+  }
+  {
+    id: 2525
+    type: 5
+    arg: "1"
+    code: profilePic_202407Activity_01
+    item_name: 頭像：叛逆埃多斯
+    introduction: 頭像：叛逆埃多斯
+    rank: 1
+  }
+  {
+    id: 2526
+    type: 5
+    arg: "1"
+    code: profilePic_202407Activity_02
+    item_name: 頭像：珀爾修斯的使命
+    introduction: 頭像：珀爾修斯的使命
+    rank: 1
+  }
+  {
+    id: 2527
+    type: 5
+    arg: "1"
+    code: profilePic_202407Activity_03
+    item_name: 頭像：墨菲斯托的光
+    introduction: 頭像：墨菲斯托的光
+    rank: 1
+  }
+  {
+    id: 2528
+    type: 5
+    arg: "1"
+    code: card_202407Activity_01
+    item_name: 名片：法蘭克福老鐵橋
+    introduction: 名片：法蘭克福老鐵橋
+    rank: 1
+  }
+  {
+    id: 2529
+    type: 5
+    arg: "1"
+    code: card_202407Activity_02
+    item_name: 名片：靜夜美因河
+    introduction: 名片：靜夜美因河
+    rank: 1
+  }
+  {
+    id: 2531
+    type: 5
+    arg: "1"
+    code: cg_202407Activity_01
+    item_name: 背景：文明避難所
+    introduction: 背景：文明避難所
+    rank: 1
+  }
+  {
+    id: 2532
+    type: 5
+    arg: "1"
+    code: cg_202407Activity_02
+    item_name: 背景：法蘭克福老歌劇院
+    introduction: 背景：法蘭克福老歌劇院
+    rank: 1
+  }
+  {
+    id: 2533
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_SCARH
+    item_name: SCAR-H-薩摩不是臥底
+    introduction: SCAR-H-薩摩不是臥底
+    rank: 1
+  }
+  {
+    id: 2534
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_LAMG
+    item_name: LAMG-珀里克菸絲
+    introduction: LAMG-珀里克菸絲
+    rank: 1
+  }
+  {
+    id: 2535
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_KH2002
+    item_name: KH2002-夜訪貓頭鷹
+    introduction: KH2002-夜訪貓頭鷹
+    rank: 1
+  }
+  {
+    id: 2536
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_AUGPARA
+    item_name: AUG Para-淺丁香票根
+    introduction: AUG Para-淺丁香票根
+    rank: 1
+  }
+  {
+    id: 2537
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_9A91
+    item_name: 9A-91-香檳後座馳援記
+    introduction: 9A-91-香檳後座馳援記
+    rank: 1
+  }
+  {
+    id: 2538
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_MP5
+    item_name: MP5-直覺，名為紅色
+    introduction: MP5-直覺，名為紅色
+    rank: 1
+  }
+  {
+    id: 2539
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_Mk23
+    item_name: MK23-法醫喵戴克
+    introduction: MK23-法醫喵戴克
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -18402,6 +18564,43 @@
     introduction: 思維幣
     rank: 1
     daily_limit: "120"
+  }
+  {
+    id: 100229
+    type: 4
+    arg: "100229"
+    code: Nova_medal_black
+    item_name: 新星勳章·零電荷
+    introduction: 新星勳章·零電荷
+    rank: 1
+  }
+  {
+    id: 100230
+    type: 4
+    arg: "100230"
+    code: Platinum_medal_black
+    item_name: 白金勳章·零電荷
+    introduction: 白金勳章·零電荷
+    rank: 1
+  }
+  {
+    id: 100231
+    type: 9
+    arg: "100231"
+    code: Coin_202407ZeroCharge
+    item_name: 「潘朵拉」紀念幣
+    introduction: 一齣意外上演的歌劇，讓整個法蘭克福震顫。這枚紀念幣，承載著昔日的痛苦與喜悅，和一個夙願。
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100232
+    type: 4
+    arg: "100232"
+    code: coremask2_202407ZeroCharge
+    item_name: 蝕心面具·零電荷
+    introduction: 散發著詭譎氣息的面具，只有通過極為艱險的考驗才能獲得。留在手中似乎沒有什麼用，但能夠在商店換取到一個期望已久的相遇。
+    rank: 1
   }
   {
     id: 110001
@@ -22827,6 +23026,39 @@
     type_sort: 1
   }
   {
+    id: 1500142
+    type: 15
+    arg: "1500142"
+    code: Bumdle_zerocharge01
+    item_name: 零電荷限定裝扮券·壹
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500143
+    type: 15
+    arg: "1500143"
+    code: Bumdle_zerocharge02
+    item_name: 零電荷限定裝扮券·貳
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500144
+    type: 15
+    arg: "1500144"
+    code: Bumdle_zerocharge03
+    item_name: 零電荷限定裝扮券·忤逆特供
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -23176,6 +23408,39 @@
     id: 1700030
     type: 15
     arg: "1700030"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700031
+    type: 15
+    arg: "1700031"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700032
+    type: 15
+    arg: "1700032"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700033
+    type: 15
+    arg: "1700033"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

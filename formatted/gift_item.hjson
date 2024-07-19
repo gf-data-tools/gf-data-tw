@@ -12098,6 +12098,118 @@
     type_sort: 6
   }
   {
+    id: 10601
+    name: SCAR-H-薩摩不是臥底
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 377
+    skin: 10601
+    poster: 310601
+    code: gift_bundle_Detective2024_SCARH
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10602
+    name: LAMG-珀里克菸絲
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 386
+    skin: 10602
+    poster: 310602
+    code: gift_bundle_Detective2024_LAMG
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10603
+    name: KH2002-夜訪貓頭鷹
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 342
+    skin: 10603
+    poster: 310603
+    code: gift_bundle_Detective2024_KH2002
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10604
+    name: AUG Para-淺丁香票根
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 315
+    skin: 10604
+    poster: 310604
+    code: gift_bundle_Detective2024_AUGPARA
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10605
+    name: 9A-91-香檳後座馳援記
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 118
+    skin: 10605
+    poster: 310605
+    code: gift_bundle_Detective2024_9A91
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10606
+    name: MP5-直覺，名為紅色
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 26
+    skin: 10606
+    poster: 310606
+    code: gift_bundle_Detective2024_MP5
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10607
+    name: MK23-法醫喵戴克
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 99
+    skin: 10607
+    poster: 310607
+    code: gift_bundle_Detective2024_Mk23
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     type: 2

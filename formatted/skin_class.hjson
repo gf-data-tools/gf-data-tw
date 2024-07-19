@@ -509,4 +509,9 @@
     theme_type: 9
     name: 怪盜藝術家
   }
+  {
+    id: 103
+    theme_type: 9
+    name: 不在場證明
+  }
 ]

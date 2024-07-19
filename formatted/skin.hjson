@@ -9018,6 +9018,79 @@
     class_id: 102
   }
   {
+    id: 10601
+    name: SCAR-H-薩摩不是臥底
+    fit_gun: 377
+    voice: 4
+    dialog: 我只是一個熱愛網路聊天的攝影愛好者，順便出門遛我的愛犬薩摩……有什麼問題？我覺得我的解釋很合理啊……
+    order: 135
+    class_id: 103
+    skin_source: 2
+  }
+  {
+    id: 10602
+    name: LAMG-珀里克菸絲
+    fit_gun: 386
+    voice: 4
+    dialog: 看樣子，您已經準備好錄音機和筆記本了……再給我來一杯兌咖啡的伏特加，我們的故事就可以繼續了。
+    order: 135
+    class_id: 103
+    skin_source: 2
+  }
+  {
+    id: 10603
+    name: KH2002-夜訪貓頭鷹
+    fit_gun: 342
+    voice: 4
+    dialog: 庸才才需要現場取證，本偵探只要幾篇簡單的報道，立刻就能推斷出真凶……肩膀上的偵查型貓頭鷹？哼，那只是個裝飾而已。
+    order: 135
+    class_id: 103
+    skin_source: 2
+  }
+  {
+    id: 10604
+    name: AUG Para-淺丁香票根
+    fit_gun: 315
+    voice: 4
+    dialog: 前輩！有沒有興趣一起去看新上映的偵探大戲？好像是講一個觀眾在眾目睽睽的劇院前排被謀殺之類的……咦？前輩的表情是在害怕嗎？
+    gift_position: "-150.8,-48.9"
+    order: 135
+    class_id: 103
+    skin_source: 1
+  }
+  {
+    id: 10605
+    name: 9A-91-香檳後座馳援記
+    fit_gun: 118
+    voice: 4
+    dialog: 為什麼好好的路不走，您非要模仿什麼名偵探、跳上馬車車廂呢？真是的……單車後座已為您備好，下次不許再冒險受傷了！
+    gift_position: "-155.3,-74.4"
+    order: 135
+    class_id: 103
+  }
+  {
+    id: 10606
+    name: MP5-直覺，名為紅色
+    fit_gun: 26
+    voice: 4
+    dialog: 智慧的紅斗篷啊！如同聰明人會把一片樹葉藏在森林裡，聰明的犯人會把凶器藏在……啊！我有靈感了！
+    illustrator_cv: 小星,向山直美,
+    order: 135
+    class_id: 103
+    skin_source: 2
+  }
+  {
+    id: 10607
+    name: MK23-法醫喵戴克
+    fit_gun: 99
+    voice: 4
+    dialog: 每具白骨都會訴說深藏的秘密，正如每件物品都會吟唱獨一無二的旋律……那麼Darling，今日的搜查要從哪裡開始呢？
+    illustrator_cv: YeoNwa,赤尾ひかる,
+    order: 135
+    class_id: 103
+    skin_source: 2
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57
@@ -9181,7 +9254,7 @@
     fit_gun: 152
     voice: 4
     dialog: 油膩膩，髒兮兮的東西，絕不能出現在我的眼前……！主人，請您看好了——超級清掃模式，啟動！
-    order: 130
+    order: 134
   }
   {
     id: 50001
