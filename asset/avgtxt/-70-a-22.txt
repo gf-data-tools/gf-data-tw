@@ -90,7 +90,7 @@ AN94MOD(3)<Speaker>AN-94</Speaker><通讯框>||:<color=#00CCFF>她有自己要�
 ()||<白屏1><边框>2</边框>:
 ()<Speaker></Speaker>||<边框>2</边框><BGM>BGM_IceAndBlood_ED</BGM><白屏2><CGDelay>0.5</CGDelay><BIN>718</BIN>:那輛開往萬聖雪夜的車越走越遠，車燈照亮了前方的大雪和白霧。+驕傲的頭狼絕不允許別人察覺自己的軟弱。+在血色與雪地裡，她倔強地仰視著遠方。
 ()||<黑屏1><边框>2</边框>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><CGDelay>0.5</CGDelay>:【零電荷END】
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><CGDelay>0.5</CGDelay>:【零电荷END】
 ()||<黑屏1>:
 ()||<名单2>202407Activity_Credit</名单2>:
 ()||<黑点1>:
