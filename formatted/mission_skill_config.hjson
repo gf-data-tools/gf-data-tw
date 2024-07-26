@@ -74496,6 +74496,527 @@
     special_spot_add: 9521406:1
   }
   {
+    id: 9700301
+    name: 傳送控制
+    description: 轉移到另一面。
+    skill_group_id: 9700301
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    is_airborne: 2
+    target_id: "100020091"
+    is_manual: 9700301
+  }
+  {
+    id: 9700302
+    name: 傳送控制
+    description: 轉移到另一面。
+    skill_group_id: 9700302
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    is_airborne: 2
+    target_id: "100010091"
+    is_manual: 9700301
+  }
+  {
+    id: 9700303
+    name: 傳送控制
+    description: 轉移到另一面。
+    skill_group_id: 9700303
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    is_airborne: 2
+    target_id: "100040091"
+    is_manual: 9700301
+  }
+  {
+    id: 9700304
+    name: 傳送控制
+    description: 轉移到另一面。
+    skill_group_id: 9700304
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    is_airborne: 2
+    target_id: "100030091"
+    is_manual: 9700301
+  }
+  {
+    id: 9700305
+    name: 【標記】到達檢測點
+    skill_group_id: 9700305
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    special_spot_add: 1170001:1
+  }
+  {
+    id: 9700306
+    name: 【標記】失敗檢測
+    skill_group_id: 9700306
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    special_spot_add: 1170003:1
+  }
+  {
+    id: 9700307
+    name: 【標記】Boss多動buff
+    skill_group_id: 9700307
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    mission_buff_add: 9700307:1
+  }
+  {
+    id: 9700308
+    name: 【標記】Boos禁足buff
+    skill_group_id: 9700308
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    mission_buff_add: 9700308:1
+    mission_buff_minus: 9700307:1
+  }
+  {
+    id: 9700309
+    name: 【標記】擊殺boss
+    skill_group_id: 9700309
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    special_spot_add: 1170002:1
+  }
+  {
+    id: 9700601
+    name: 破解
+    description: 解鎖此處控制台的操作權限。
+    skill_group_id: 9700601
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    trigger_id: "101010191"
+    target_id: "1"
+    special_spot_minus: 1010101:1
+    subsidiary_mission_skill: "9700603,9700605"
+    is_manual: 9700601
+  }
+  {
+    id: 9700602
+    name: 破解
+    description: 解鎖此處控制台的操作權限。
+    skill_group_id: 9700602
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    trigger_id: "101010191"
+    target_id: "1"
+    special_spot_minus: 1010101:1
+    subsidiary_mission_skill: "9700604,9700605"
+    is_manual: 9700601
+  }
+  {
+    id: 9700603
+    skill_group_id: 9700603
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 8
+    target_id: "101010091"
+    special_spot_add: 1000100:1
+  }
+  {
+    id: 9700604
+    skill_group_id: 9700604
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 8
+    target_id: "101010091"
+    special_spot_add: 1000200:1
+  }
+  {
+    id: 9700605
+    skill_group_id: 9700605
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: 101010091&&100010091&&100020091
+    subsidiary_mission_skill: "9700606"
+  }
+  {
+    id: 9700606
+    skill_group_id: 9700606
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 8
+    target_id: "102010091"
+    special_spot_minus: 1020101:1,1000001:1
+  }
+  {
+    id: 9700607
+    name: 預置爆破
+    description: 在此處安置爆炸物。
+    skill_group_id: 9700607
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: 1&&117010190
+    special_spot_add: 1170101:1
+    is_manual: 9700607
+  }
+  {
+    id: 9700608
+    skill_group_id: 9700608
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_add: 9700608:1
+  }
+  {
+    id: 9700901
+    skill_group_id: 9700901
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    special_spot_add: 1170201:1
+  }
+  {
+    id: 9701201
+    name: 拉閘
+    description:
+      '''
+      關閉電源。
+      ※可以消除部分敵人的強化狀態。
+      '''
+    skill_group_id: 9701201
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    target_id: "958400191"
+    mission_buff_minus: 9584001:1
+    is_manual: 9701201
+  }
+  {
+    id: 9701202
+    skill_group_id: 9701202
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    mission_buff_add: 9584001:1
+  }
+  {
+    id: 9701203
+    skill_group_id: 9701203
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    mission_buff_add: 9701203:1,9701205:1
+  }
+  {
+    id: 9701204
+    name: 扔出歌利亞
+    description: 炸它個稀巴爛。
+    skill_group_id: 9701204
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 1
+    data_pool: "95"
+    special_spot_add: 6360013:1
+    mission_buff_minus: 9584001:1,9701203:1
+    subsidiary_mission_skill: "9701205"
+    is_manual: 6360003
+  }
+  {
+    id: 9701205
+    skill_group_id: 9701205
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    mission_buff_minus: 9701204:1
+  }
+  {
+    id: 9701206
+    name: 拾取歌利亞
+    skill_group_id: 9701206
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "100010091"
+    mission_buff_add: 9701204:1
+    subsidiary_mission_skill: "9701207"
+    is_manual: 9701206
+  }
+  {
+    id: 9701207
+    skill_group_id: 9701207
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_minus: 1000100:1
+  }
+  {
+    id: 9701208
+    skill_group_id: 9701208
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_add: 9701208:1
+  }
+  {
+    id: 9701209
+    description: 小兔子挖啊挖，沒準還能翻出點奇奇怪怪的東西來。
+    skill_group_id: 9701209
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+  }
+  {
+    id: 9701504
+    skill_group_id: 9701504
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    special_spot_add: 1010101:1
+  }
+  {
+    id: 9701506
+    name: 破解
+    description: 解鎖此處控制台的操作權限。
+    skill_group_id: 9701506
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    trigger_id: "101010191"
+    target_id: "1"
+    special_spot_minus: 1010101:1
+    subsidiary_mission_skill: "9701508,9701510"
+    is_manual: 9700601
+  }
+  {
+    id: 9701507
+    name: 破解
+    description: 解鎖此處控制台的操作權限。
+    skill_group_id: 9701507
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    trigger_id: "101010191"
+    target_id: "1"
+    special_spot_minus: 1010101:1
+    subsidiary_mission_skill: "9701509,9701510"
+    is_manual: 9700601
+  }
+  {
+    id: 9701508
+    skill_group_id: 9701508
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    target_id: "101010091"
+    special_spot_add: 1000100:1
+  }
+  {
+    id: 9701509
+    skill_group_id: 9701509
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    target_id: "101010091"
+    special_spot_add: 1000200:1
+  }
+  {
+    id: 9701510
+    skill_group_id: 9701510
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: 101010091&&100010091&&100020091
+    subsidiary_mission_skill: "9701511"
+  }
+  {
+    id: 9701511
+    skill_group_id: 9701511
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    target_id: "102010091"
+    special_spot_add: 1010101:1
+    special_spot_minus: 1010201:1
+  }
+  {
+    id: 9701512
+    skill_group_id: 9701512
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    mission_buff_add: 9701512:1
+  }
+  {
+    id: 9701513
+    skill_group_id: 9701513
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_add: 9701513:1
+  }
+  {
+    id: 9701901
+    name: 傳送控制
+    description: 轉移到另一面。
+    skill_group_id: 9701901
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    is_airborne: 2
+    target_id: "100020091"
+    is_manual: 9700301
+  }
+  {
+    id: 9701902
+    name: 傳送控制
+    description: 轉移到另一面。
+    skill_group_id: 9701902
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    is_airborne: 2
+    target_id: "100010091"
+    is_manual: 9700301
+  }
+  {
+    id: 9701903
+    name: 傳送控制
+    description: 轉移到另一面。
+    skill_group_id: 9701903
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    is_airborne: 2
+    target_id: "100040091"
+    is_manual: 9700301
+  }
+  {
+    id: 9701904
+    name: 傳送控制
+    description: 轉移到另一面。
+    skill_group_id: 9701904
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    is_airborne: 2
+    target_id: "100030091"
+    is_manual: 9700301
+  }
+  {
+    id: 9701905
+    name: 傳送控制
+    description: 轉移到另一面。
+    skill_group_id: 9701905
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    is_airborne: 2
+    target_id: "100060091"
+    is_manual: 9700301
+  }
+  {
+    id: 9701906
+    name: 傳送控制
+    description: 轉移到另一面。
+    skill_group_id: 9701906
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    is_airborne: 2
+    target_id: "100050091"
+    is_manual: 9700301
+  }
+  {
+    id: 9701907
+    name: 傳送控制
+    description: 起飛~
+    skill_group_id: 9701907
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    start_range: 100
+    is_airborne: 2
+    target_id: "100070091"
+    is_manual: 9700301
+  }
+  {
     id: 40400001
     name: 【標記】槍少彩蛋測試
     skill_group_id: 40400001

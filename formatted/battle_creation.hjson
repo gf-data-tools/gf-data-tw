@@ -63200,9 +63200,9 @@
     name: RPK-16天花板掉落敌方
     code: RPK16_stone
     start_type: "7"
-    start_offset: "-0.1,0,1.5"
+    start_offset: "-0.1,0,0.1"
     destination_type: "7"
-    destination_offset: "-0.1,0,1.5"
+    destination_offset: "-0.1,0,0.1"
     is_form_offset: 1
     exist_duration: "30"
     effect_type: 2
@@ -63221,9 +63221,9 @@
     name: RPK-16天花板掉落友方
     code: RPK16_stone
     start_type: "7"
-    start_offset: "-0.1,0,1.5"
+    start_offset: "-0.1,0,0.1"
     destination_type: "7"
-    destination_offset: "-0.1,0,1.5"
+    destination_offset: "-0.1,0,0.1"
     is_form_offset: 1
     exist_duration: "30"
     effect_type: 1

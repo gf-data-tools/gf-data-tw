@@ -456,4 +456,17 @@
     is_date: "2"
     decorate_code: Logo_Events
   }
+  {
+    id: "39"
+    name: 見證之眼勳章
+    order: "61"
+    evo_step: "1"
+    appearance_id: "236"
+    item_id: "138"
+    medal_obtain: 授予在限時活動零電荷中完成所有戰役挑戰的指揮官。
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+    if_elite_medal: "1"
+  }
 ]

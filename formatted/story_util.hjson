@@ -12906,4 +12906,157 @@
     title: 環形命運
     start: -69-E-1
   }
+  {
+    id: 1308
+    mission_id: "11712"
+    description: 空無一人的艾莫號、猝不及防的一紙調令、再次上映的《浮士德》……所有道路都將我指引向你。
+    scripts: -70-A-2
+    campaign: -70
+    title: 一個冬天的童話
+    start: -70-A-2
+  }
+  {
+    id: 1309
+    mission_id: "11713"
+    description: 我的名字是恩布拉•彼得羅夫斯卡婭。
+    scripts: -70-A-4
+    campaign: -70
+    title: 雙影人
+    start: -70-A-4
+  }
+  {
+    id: 1310
+    mission_id: "11714"
+    description: 在法蘭克福的深夜，人們互相傷害、為利益而妥協、在黑暗中掙扎……交織成一場暴虐的探戈。
+    scripts: -70-A-6
+    campaign: -70
+    title: 暴虐的探戈
+    start: -70-A-6
+  }
+  {
+    id: 1311
+    mission_id: "11715"
+    description: 追尋著那個恨之入骨的身影，AK-15找到了帕拉蒂斯的臨時據點。
+    scripts: -70-A-8
+    campaign: -70
+    title: 暗蝕
+    start: -70-A-8
+  }
+  {
+    id: 1312
+    mission_id: "11716"
+    description: 等待著她的，只有另一場陰謀。
+    scripts: -70-A-10
+    campaign: -70
+    title: 漂泊的靈魂
+    start: -70-A-10
+  }
+  {
+    id: 1313
+    mission_id: "11717"
+    description: 人類文明火種的避難所——世上最潔淨的地方，一場腥風血雨即將上演。
+    scripts: -70-A-12
+    campaign: -70
+    title: 狐狸那時已是獵人
+    start: -70-A-12
+  }
+  {
+    id: 1314
+    mission_id: "11718"
+    description: 懷著陡然生出的一點虔誠，她點燃了一支蠟燭。
+    scripts: -70-A-14
+    campaign: -70
+    title: 玻璃球遊戲
+    start: -70-A-14
+  }
+  {
+    id: 1315
+    mission_id: "11719"
+    description: 如果魔鬼能滿足你所有的慾望，你願意出賣靈魂嗎？
+    scripts: -70-A-16
+    campaign: -70
+    title: 最後的恩賜
+    start: -70-A-16
+  }
+  {
+    id: 1316
+    mission_id: "11720"
+    description: 我還存在於此世的理由之一，就是殺死你。
+    scripts: -70-A-18
+    campaign: -70
+    title: 蒼白聲部
+    start: -70-A-18
+  }
+  {
+    id: 1317
+    mission_id: "11721"
+    description: 把你自己獻給黑暗，說出我的名字，把我領向她。
+    scripts: -70-A-20
+    campaign: -70
+    title: 霧角
+    start: -70-A-20
+  }
+  {
+    id: 1318
+    mission_id: "11722"
+    description: 而死者們，萌芽，然後開花。
+    scripts: -70-A-22
+    campaign: -70
+    title: 時間的眼睛
+    start: -70-A-22
+  }
+  {
+    id: 1319
+    mission_id: "11723"
+    description: 通向神的道路不是引導我們向後走，而是不斷向前，通向罪惡，引導我們修行。
+    scripts: -70-E-1
+    campaign: -70
+    title: 荒原狼
+    start: -70-E-1
+  }
+  {
+    id: 1320
+    mission_id: "11724"
+    description: 這是我們的約定，關於飛機，關於世界。
+    scripts: -70-S-1
+    campaign: -70
+    title: 飛行員之死Ⅰ
+    start: -70-S-1
+  }
+  {
+    id: 1321
+    mission_id: "11725"
+    description: 有志氣！你們和葉卡捷琳娜一樣有志氣！
+    scripts: -70-S-2
+    campaign: -70
+    title: 飛行員之死Ⅱ
+    start: -70-S-2
+  }
+  {
+    id: 1322
+    mission_id: "11726"
+    description: 等著吧，我會向你，向全世界證明，我們根本不需要遺跡技術。
+    scripts: -70-S-3
+    campaign: -70
+    title: 飛行員之死Ⅲ
+    start: -70-S-3
+  }
+  {
+    id: 1323
+    mission_id: "11727"
+    description: SS就是她唯一的代號。
+    scripts: -70-S-4
+    campaign: -70
+    title: 飛行員之死Ⅳ
+    start: -70-S-4
+  }
+  {
+    id: 1324
+    mission_id: "11728"
+    description: RPK16……我最後的希望……
+    scripts: -70-S-5
+    campaign: -70
+    title: 飛行員之死Ⅴ
+    start: -70-S-5
+  }
 ]

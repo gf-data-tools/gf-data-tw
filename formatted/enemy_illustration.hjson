@@ -5439,6 +5439,28 @@
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 235001
+    id: 235
+    name: 恩布拉
+    sub_name: 恩布拉
+    type: 1
+    code: RPK16Reborn
+    introduce: 在帕拉蒂斯的技術支持下，RPK-16改造素體進行到一半的未完成姿態。雖然還是未完成態，但火力得到了大幅增強，也能夠使用部分帕拉蒂斯的核心技術。至於對其心智的影響，仍然是個未知數。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 該單位能同時指揮多個帕拉蒂斯作戰單位，請謹慎應對!
+    character: "1001,437,438"
+    enemy_skill: "238,239,240,241,242"
+    launch_time: 2035-5-20 00:00:00
+  }
+  {
     sub_id: 100001001
     id: 100001
     name: 鶚視虎

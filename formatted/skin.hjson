@@ -6658,6 +6658,7 @@
     id: 6601
     name: 89式自-麋鹿宣言
     fit_gun: 290
+    ai: 46601
     voice: 19
     dialog: 分發禮物一定要跟聖誕老人一起嗎？我覺得用上我新發明的禮物噴射機器，效率完全沒問題啊！
     order: 79
@@ -7971,6 +7972,7 @@
     voice: 4
     substitute_voice: G11_0
     dialog: 軟呼呼、毛絨絨……呼……比剛才夢見的髒亂地下室舒服多了……
+    illustrator_cv: 脆皮炸虾球,福原綾香,
     order: 110
     class_id: 89
     skin_source: 3
@@ -9169,6 +9171,7 @@
     fit_gun: 160
     voice: 4
     dialog: 全自動沐浴師Saiga-12，將為大家提供最全面的清潔服務！下一位人形美少女快點進來吧……啊，指揮官也可以哦~
+    gift_position: "6.5,459.2"
     illustrator_cv: yoyo,金元壽子,
     order: 111
   }
@@ -9255,6 +9258,14 @@
     voice: 4
     dialog: 油膩膩，髒兮兮的東西，絕不能出現在我的眼前……！主人，請您看好了——超級清掃模式，啟動！
     order: 134
+  }
+  {
+    id: 30021
+    name: 柯爾特M1851N-白羽飛揚
+    fit_gun: 400
+    voice: 4
+    dialog: 指揮官，哼哼，一起來打一場酣暢淋漓的羽毛球比賽吧！……別、別犯睏呀，我還沒發球呢！
+    order: 136
   }
   {
     id: 50001
