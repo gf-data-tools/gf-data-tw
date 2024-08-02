@@ -15015,6 +15015,15 @@
     rank: 1
   }
   {
+    id: 2530
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_AK12Mod
+    item_name: AK-12心智升級頭像
+    introduction: AK-12心智升級頭像
+    rank: 1
+  }
+  {
     id: 2531
     type: 5
     arg: "1"
@@ -16484,6 +16493,15 @@
     id: 10717
     type: 18
     arg: "10717"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10718
+    type: 18
+    arg: "10718"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分

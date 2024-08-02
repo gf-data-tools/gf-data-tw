@@ -838,6 +838,7 @@
     name: AK-12-極晝微光
     fit_gun: 206
     voice: 4
+    is_hidden: 1
     dialog: 指揮官，你的體溫比平時高了0.2℃，心率也在加快，我看起來很讓人害怕嗎？……閉上眼？這次不行。
     order: 54
     class_id: 99
@@ -1121,6 +1122,7 @@
     name: QBU-88-晨光歐蕾
     fit_gun: 261
     voice: 4
+    is_hidden: 1
     dialog: 歡迎光臨羅森！早安，指揮官。今天的早餐有三種，已經幫你準備好最實惠又好吃的了！
     order: 66
     class_id: 99
@@ -1185,6 +1187,7 @@
     name: G11-秋眠·隨想Ⅺ
     fit_gun: 122
     voice: 4
+    is_hidden: 1
     dialog: 設計師的靈感大都源於一個遐想，優秀的穿衣者善於解讀，而這次的模特則更加卓越——她受到強烈的感染，只想睡覺。
     illustrator_cv: GINGALA,福原綾香,
     order: 78
@@ -1214,6 +1217,7 @@
     name: QBZ-191-水墨菲士
     fit_gun: 361
     voice: 4
+    is_hidden: 1
     dialog: 無數街道縱橫交錯，又延伸出無數的旁支岔路，就好像我們擁有無限可能性的未來一樣。
     order: 93
     class_id: 80
@@ -1420,6 +1424,7 @@
     name: RO635-黑白叢林鳥
     fit_gun: 143
     voice: 4
+    is_hidden: 1
     dialog: 將黑色蘭姆酒換成白色蘭姆酒，將做不完的任務換成聽不厭的音樂……這樣就是我喜歡的一天了。
     illustrator_cv: 暖森,福原綾香,
     order: 112
@@ -5545,6 +5550,15 @@
     id: 5075
     name: Rex Zero 1-原型
     fit_gun: 20310
+    voice: 4
+    is_hidden: 2
+    dialog: 原型裝扮
+    note: 原型裝扮
+  }
+  {
+    id: 5076
+    name: AK-12-原型
+    fit_gun: 20206
     voice: 4
     is_hidden: 2
     dialog: 原型裝扮

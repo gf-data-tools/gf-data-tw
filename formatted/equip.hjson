@@ -3824,8 +3824,10 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: pow:750
+    passive_skill: "1002101"
     max_level: 10
     auto_select_id: 19006
+    group_id: "34"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -7542,8 +7544,10 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: pow:700,hit:1000
+    passive_skill: "1002001"
     max_level: 10
     auto_select_id: 18077
+    group_id: "33"
     is_show: 1
     obtain_ids: "3036"
   }
@@ -12877,6 +12881,78 @@
     description_skill: 1001901
   }
   {
+    id: 409
+    name: 黑兔小帽
+    description:
+      '''
+      射速+<rate> 迴避<dodge>
+      普通攻擊傷害+25%$SR-3MP專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "-12,-10"
+    rate: "2,5"
+    skill_effect_per: 150
+    skill_effect: 300
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_SR3MP
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "135"
+    equip_introduction: SR-3MP最喜歡佩戴的帽子，除了美觀實用外，似乎戴上後還會顯得個子高一點。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: rate:1000
+    passive_skill: "1002002"
+    max_level: 10
+    auto_select_id: 20086
+    group_id: "33"
+    is_show: 1
+    obtain_ids: "3096"
+    sp_description: 普通攻擊傷害+25%
+  }
+  {
+    id: 410
+    name: StG44專用晶片
+    description:
+      '''
+      傷害+<pow> 射速+<rate>
+      暴擊傷害<critical_harm_rate><%>$StG44改型專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "10,12"
+    rate: "12,16"
+    critical_harm_rate: "-50,-50"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_STG44Mod
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "20061"
+    equip_introduction: 性能全面升級後的專用晶片，可以幫助StG44在處理事務時更加一絲不苟。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:500,rate:600
+    passive_skill: "1002102"
+    max_level: 10
+    auto_select_id: 20087
+    group_id: "34"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
     id: 411
     name: 1PN64夜視瞄準鏡
     description:
@@ -12908,6 +12984,41 @@
     auto_select_id: 18120
     is_show: 1
     obtain_ids: "3116"
+  }
+  {
+    id: 412
+    name: 冬霜Ⅵ
+    description:
+      '''
+      傷害+<pow> 射速<rate>
+      暴擊傷害+<critical_harm_rate><%>技能增強$AK-12專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "6,10"
+    rate: "-10,-5"
+    critical_harm_rate: "15,20"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_AK12
+    develop_duration: 3060
+    company: ZNT
+    fit_guns: "206,20206"
+    equip_introduction: AK-12從阿佛納斯撤離時攜帶的裝備，是帕拉蒂斯組織發明的第六代戰術披風，可以幫助AK-12進入隱形狀態。在不啟動時，是半透明的材質，十分輕便，就像一層籠罩在身體周圍的薄霧。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:1000,critical_harm_rate:750
+    passive_skill: "992500"
+    max_level: 10
+    auto_select_id: 20088
+    is_show: 1
+    obtain_ids: "3016"
+    description_skill: 992500
   }
   {
     id: 413
