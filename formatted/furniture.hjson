@@ -30351,6 +30351,20 @@
     interact_point_offset: *1.715,2.319,0.458
   }
   {
+    id: 20145
+    name: 光與影之台
+    classes: 81
+    type: 201
+    space: "2,2,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 燭光在匣邊投下搖曳的黑影，機械的稜角切割著柔和的光暈。在光明與陰影之間，在柔和與鋒利之間，某位執著於真理的人形尋求著微妙的共存。
+    code: ZastavaM21_4304_deco
+    texture_type: "1"
+    offset: "0.000,-0.063,0.000"
+    rotate: "2"
+  }
+  {
     id: 30001
     name: 馬卡洛夫-南瓜熊熊
     classes: 300
