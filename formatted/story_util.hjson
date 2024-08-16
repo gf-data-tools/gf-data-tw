@@ -13102,4 +13102,184 @@
     title: 甜蜜晚宴
     start: -52-e-3
   }
+  {
+    id: 1328
+    mission_id: "11730"
+    description: 為了解決人形危機而誕生的《人形安全臨時條例》，給法蘭克福帶來了一場意料之外的混亂。
+    scripts: -71-A-2
+    campaign: -71
+    title: 潮土油
+    start: -71-A-2
+  }
+  {
+    id: 1329
+    mission_id: "11731"
+    description: 從一場仿佛沒有盡頭的夢中醒來，指揮官見到了那個等待已久的人。
+    scripts: -71-A-4
+    campaign: -71
+    title: 映射時間
+    start: -71-A-4
+  }
+  {
+    id: 1330
+    mission_id: "11732"
+    description: 越過遊行示威的人群，奈樂前去看望表姐，像兒時一樣的說笑背後，卻有著暗河流淌。
+    scripts: -71-A-6
+    campaign: -71
+    title: 黑暗河流
+    start: -71-A-6
+  }
+  {
+    id: 1331
+    mission_id: "11733"
+    description: 在奈樂的幫助，AR18一行終於得以進入法蘭克福。
+    scripts: -71-A-8
+    campaign: -71
+    title: 勾勒陰影的線條
+    start: -71-A-8
+  }
+  {
+    id: 1332
+    mission_id: "11735"
+    description: 變化、成長、重生。毛蟲稱之為世界末日，而大師卻稱之為蝴蝶。
+    scripts: -71-S-1
+    campaign: -71
+    title: 輕如羽毛Ⅰ
+    start: -71-S-1
+  }
+  {
+    id: 1333
+    mission_id: "11736"
+    description: 格里芬的人形們成功會合，「阿德剌斯忒亞」行動正式開始。
+    scripts: -71-A-10
+    campaign: -71
+    title: 跋涉
+    start: -71-A-10
+  }
+  {
+    id: 1334
+    mission_id: "11737"
+    description: 以「赫柏小姐」名義活動的女人出現在了帕拉蒂斯的基地，一場新的陰謀在悄然孵化……
+    scripts: -71-A-12
+    campaign: -71
+    title: 雙重曝光
+    start: -71-A-12
+  }
+  {
+    id: 1335
+    mission_id: "11739"
+    description: 涅托明顯有著屬於人類的嫉妒、爭鬥、防備、凶狠、殘忍……怎麼不算是人類呢？
+    scripts: -71-S-2
+    campaign: -71
+    title: 輕如羽毛Ⅱ
+    start: -71-S-2
+  }
+  {
+    id: 1336
+    mission_id: "11740"
+    description: 在與赫柏小姐的短暫見面後，奈樂踏上了前往白區看望外祖父的路，等待她的是一場神秘的探險。
+    scripts: -71-A-14
+    campaign: -71
+    title: 迷失於渾沌
+    start: -71-A-14
+  }
+  {
+    id: 1337
+    mission_id: "11741"
+    description: 世界紛紛擾擾，兩個與世隔絕的囚者卻開啟了一段約會。
+    scripts: -71-A-16
+    campaign: -71
+    title: 美麗的孤獨
+    start: -71-A-16
+  }
+  {
+    id: 1338
+    mission_id: "11742"
+    description: 404小隊出動，駭入蜂針系統尋找情報，看似如常的小隊，實則暗潮洶涌。
+    scripts: -71-A-18
+    campaign: -71
+    title: 霧起
+    start: -71-A-18
+  }
+  {
+    id: 1339
+    mission_id: "11744"
+    description: 讓我們再次相逢於繭中，重生於繭中。
+    scripts: -71-S-3
+    campaign: -71
+    title: 輕如羽毛Ⅲ
+    start: -71-S-3
+  }
+  {
+    id: 1340
+    mission_id: "11745"
+    description: 和外祖父不愉快的碰面後，奈樂在白區與一個意想不到的故人重逢。
+    scripts: -71-A-20
+    campaign: -71
+    title: 凝視光
+    start: -71-A-20
+  }
+  {
+    id: 1341
+    mission_id: "11746"
+    description: 在404小隊還未察覺的時候，危險依然盯上了她們。
+    scripts: -71-A-22
+    campaign: -71
+    title: 褪成黑色
+    start: -71-A-22
+  }
+  {
+    id: 1342
+    mission_id: "11748"
+    description: 自「繭」中誕生的涅托，都擁有屬於自己的慾望。
+    scripts: -71-S-4
+    campaign: -71
+    title: 輕如羽毛Ⅳ
+    start: -71-S-4
+  }
+  {
+    id: 1343
+    mission_id: "11749"
+    description: 如果一齣戲的第一幕出現了一把槍，那麼在第三幕，它就一定要被打響。
+    scripts: -71-A-24
+    campaign: -71
+    title: 我們的戰爭
+    start: -71-A-24
+  }
+  {
+    id: 1344
+    mission_id: "11750"
+    description: 記錄著所有和白區相關的情報，奈樂終於見到了一直想要見到的人，以一種未曾預料的方式。
+    scripts: -71-A-26
+    campaign: -71
+    title: 無處可藏
+    start: -71-A-26
+  }
+  {
+    id: 1345
+    mission_id: "11752"
+    description: 三隻連在一起的繭，飛出了一隻蝴蝶。
+    scripts: -71-S-5
+    campaign: -71
+    title: 輕如羽毛Ⅴ
+    start: -71-S-5
+  }
+  {
+    id: 1346
+    mission_id: "11753"
+    description: 她猶如從冰川上墜落的冰錐，直直朝著無盡的黑暗而去。
+    scripts: -71-A-28
+    campaign: -71
+    title: 蜷縮的肖像
+    start: -71-A-28
+  }
+  {
+    id: 1347
+    mission_id: "11754"
+    description: 一場戰役的結束，宣告著另一場戰役的開始。
+    scripts: -71-A-30
+    campaign: -71
+    title: 破裂
+    start: -71-A-30
+  }
 ]

@@ -13054,4 +13054,72 @@
     obtain_ids: "3108"
     description_skill: 1002201
   }
+  {
+    id: 416
+    name: GH重型盾
+    description:
+      '''
+      移速<speed> 護甲+<armor>
+      受到的傷害-1$SPAS-12專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    speed: "-3,-3"
+    armor: "3,7"
+    skill_effect: 150
+    retire_mp: 2
+    retire_ammo: 2
+    retire_mre: 3
+    retire_part: 3
+    code: TDoll_SP_SPAS12
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "162,20162"
+    equip_introduction: 專門為SPAS-12配備的防彈盾牌，有著難以估量的厚實重量，但也能給人帶來十足的安全感。
+    powerup_mp: 0.23
+    powerup_ammo: 0.23
+    powerup_mre: 0.33
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: armor:600
+    passive_skill: "740091"
+    max_level: 10
+    auto_select_id: 20058
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: 受到的傷害-1
+  }
+  {
+    id: 417
+    name: 安格爾外骨骼
+    description:
+      '''
+      傷害<pow>
+      迴避+<dodge>$HS2000專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "-6,-3"
+    dodge: "16,21"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_HS2000
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "250"
+    equip_introduction: 為醫護類人形特別製作的裝備，在急救時能發揮很大的作用，HS2000非常喜愛使用這款外骨骼。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    max_level: 10
+    auto_select_id: 20051
+    is_show: 1
+    obtain_ids: "3117"
+  }
 ]

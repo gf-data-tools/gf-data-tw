@@ -8883,6 +8883,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_bonus3_Korea3year
     order: 1
     rarity: 5
@@ -11784,6 +11785,7 @@
     sub_type: 3
     gem: 800
     item_ids: 508-20000
+    onsale: 1
     code: cg_2021Anniversary_kr
     order: 1
     rarity: 5
@@ -11808,6 +11810,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_anni2021_krA
     order: 1
     rarity: 5
@@ -11821,6 +11824,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_anni2021_krB
     order: 1
     rarity: 5
@@ -11834,6 +11838,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_anni2021_krC
     order: 1
     rarity: 5
@@ -13323,6 +13328,7 @@
     sub_type: 3
     gem: 400
     item_ids: 508-10000
+    onsale: 1
     code: cg_2022NewYear_TW
     order: 1
     rarity: 5
@@ -19191,6 +19197,166 @@
     code: card_BattlePass_M1851N
     order: 1
     rarity: 5
+  }
+  {
+    id: 1542
+    item_id: 2542
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Chess2024_AUG
+    order: 1
+    rarity: 5
+    skin: 10701
+  }
+  {
+    id: 1543
+    item_id: 2543
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Chess2024_Rhino
+    order: 1
+    rarity: 5
+    skin: 10702
+  }
+  {
+    id: 1544
+    item_id: 2544
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Chess2024_M1928A1
+    order: 1
+    rarity: 5
+    skin: 10703
+  }
+  {
+    id: 1545
+    item_id: 2545
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_Chess2024_APC556
+    order: 1
+    rarity: 5
+    skin: 10704
+  }
+  {
+    id: 1546
+    item_id: 2546
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_Chess2024_P7
+    order: 1
+    rarity: 5
+    skin: 10705
+  }
+  {
+    id: 1547
+    item_id: 2547
+    sub_type: 1
+    gem: 80
+    item_ids: 508-2000
+    onsale: 1
+    code: profilePic_Chess2024_MP41
+    order: 1
+    rarity: 5
+    skin: 10706
+  }
+  {
+    id: 1548
+    item_id: 2548
+    sub_type: 1
+    gem: 40
+    item_ids: 508-1000
+    onsale: 1
+    code: profilePic_Chess2024_IDW
+    order: 1
+    rarity: 5
+    skin: 10707
+  }
+  {
+    id: 1549
+    item_id: 2549
+    sub_type: 1
+    code: profilePic_202408Activity_01
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    logo_code: logo_202408Activity
+  }
+  {
+    id: 1550
+    item_id: 2550
+    sub_type: 1
+    code: profilePic_202408Activity_02
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    logo_code: logo_202408Activity
+  }
+  {
+    id: 1551
+    item_id: 2551
+    sub_type: 1
+    code: profilePic_202408Activity_03
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    logo_code: logo_202408Activity
+  }
+  {
+    id: 1552
+    item_id: 2552
+    sub_type: 2
+    code: card_202408Activity_01
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1553
+    item_id: 2553
+    sub_type: 2
+    code: card_202408Activity_02
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1554
+    item_id: 2554
+    sub_type: 3
+    code: cg_202408Activity_01
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1555
+    item_id: 2555
+    sub_type: 3
+    code: cg_202408Activity_02
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 2501
+    item_id: 3501
+    sub_type: 1
+    code: profilePic_rank5_SPAS12Mod
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    frame_id: 200002
   }
   {
     id: 100001

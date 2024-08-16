@@ -339,4 +339,22 @@
     tag: EP.
     order: 31
   }
+  {
+    id: 39
+    story_campaign_id: "-70"
+    name: 零電荷
+    chapter: "15.3"
+    type: 2
+    tag: EP.
+    order: 32
+  }
+  {
+    id: 40
+    story_campaign_id: "-71"
+    name: 銀染顯影
+    chapter: "15.4"
+    type: 2
+    tag: EP.
+    order: 33
+  }
 ]

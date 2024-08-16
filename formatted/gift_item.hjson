@@ -12210,6 +12210,104 @@
     type_sort: 6
   }
   {
+    id: 10701
+    name: AUG-緋紅女王
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 73
+    skin: 10701
+    poster: 310701
+    code: gift_bundle_Chess2024_AUG
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+  }
+  {
+    id: 10702
+    name: Rhino-逆位戰車
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 357
+    skin: 10702
+    poster: 310702
+    code: gift_bundle_Chess2024_Rhino
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+  }
+  {
+    id: 10703
+    name: 湯姆森-無界棋后
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 16
+    skin: 10703
+    poster: 310703
+    code: gift_bundle_Chess2024_M1928A1
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+  }
+  {
+    id: 10704
+    name: APC556-躍行騎士
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 343
+    skin: 10704
+    poster: 310704
+    code: gift_bundle_Chess2024_APC556
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+  }
+  {
+    id: 10705
+    name: P7-神諭守護者
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 100
+    skin: 10705
+    poster: 310705
+    code: gift_bundle_Chess2024_P7
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+  }
+  {
+    id: 10706
+    name: MP41-粉碎尖兵
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 267
+    skin: 10706
+    poster: 310706
+    code: gift_bundle_Chess2024_MP41
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+  }
+  {
+    id: 10707
+    name: IDW-貓咪重錘
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 93
+    skin: 10707
+    poster: 310707
+    code: gift_bundle_Chess2024_IDW
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     type: 2

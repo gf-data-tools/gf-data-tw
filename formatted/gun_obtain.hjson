@@ -1333,4 +1333,8 @@
     obtain_id: 3116
     description: 限時活動<零電荷>代幣兌換
   }
+  {
+    obtain_id: 3117
+    description: 限時活動<銀染顯影>代幣兌換
+  }
 ]

@@ -793,6 +793,15 @@
     rank: 1
   }
   {
+    id: 139
+    type: 3
+    arg: "40"
+    code: Medal_202408Activity
+    item_name: 迷局破圍者勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在「銀染顯影」活動中的卓越戰績，「自助者，天恆助之。衝破重重枷鎖後，未來的無限將為你敞開。」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -15123,6 +15132,141 @@
     rank: 1
   }
   {
+    id: 2542
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_AUG
+    item_name: AUG-緋紅女王
+    introduction: AUG-緋紅女王
+    rank: 1
+  }
+  {
+    id: 2543
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_Rhino
+    item_name: Rhino-逆位戰車
+    introduction: Rhino-逆位戰車
+    rank: 1
+  }
+  {
+    id: 2544
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_M1928A1
+    item_name: 湯姆森-無界棋后
+    introduction: 湯姆森-無界棋后
+    rank: 1
+  }
+  {
+    id: 2545
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_APC556
+    item_name: APC556-躍行騎士
+    introduction: APC556-躍行騎士
+    rank: 1
+  }
+  {
+    id: 2546
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_P7
+    item_name: P7-神諭守護者
+    introduction: P7-神諭守護者
+    rank: 1
+  }
+  {
+    id: 2547
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_MP41
+    item_name: MP41-粉碎尖兵
+    introduction: MP41-粉碎尖兵
+    rank: 1
+  }
+  {
+    id: 2548
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_IDW
+    item_name: IDW-貓咪重錘
+    introduction: IDW-貓咪重錘
+    rank: 1
+  }
+  {
+    id: 2549
+    type: 5
+    arg: "1"
+    code: profilePic_202408Activity_01
+    item_name: 頭像：故人初見
+    introduction: 頭像：故人初見
+    rank: 1
+  }
+  {
+    id: 2550
+    type: 5
+    arg: "1"
+    code: profilePic_202408Activity_02
+    item_name: 頭像：不言之中
+    introduction: 頭像：不言之中
+    rank: 1
+  }
+  {
+    id: 2551
+    type: 5
+    arg: "1"
+    code: profilePic_202408Activity_03
+    item_name: 頭像：礪心
+    introduction: 頭像：礪心
+    rank: 1
+  }
+  {
+    id: 2552
+    type: 5
+    arg: "1"
+    code: card_202408Activity_01
+    item_name: 名片：觸不可及
+    introduction: 名片：觸不可及
+    rank: 1
+  }
+  {
+    id: 2553
+    type: 5
+    arg: "1"
+    code: card_202408Activity_02
+    item_name: 名片：咫尺天空
+    introduction: 名片：咫尺天空
+    rank: 1
+  }
+  {
+    id: 2554
+    type: 5
+    arg: "1"
+    code: cg_202408Activity_01
+    item_name: 背景：暮色回響
+    introduction: 背景：暮色回響
+    rank: 1
+  }
+  {
+    id: 2555
+    type: 5
+    arg: "1"
+    code: cg_202408Activity_02
+    item_name: 背景：純淨的恩典
+    introduction: 背景：純淨的恩典
+    rank: 1
+  }
+  {
+    id: 3501
+    type: 5
+    arg: "1"
+    code: profilePic_rank5_SPAS12Mod
+    item_name: SPAS-12心智升級頭像
+    introduction: SPAS-12心智升級頭像
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -18635,6 +18779,43 @@
     arg: "100232"
     code: coremask2_202407ZeroCharge
     item_name: 蝕心面具·零電荷
+    introduction: 散發著詭譎氣息的面具，只有通過極為艱險的考驗才能獲得。留在手中似乎沒有什麼用，但能夠在商店換取到一個期望已久的相遇。
+    rank: 1
+  }
+  {
+    id: 100233
+    type: 4
+    arg: "100233"
+    code: Nova_medal
+    item_name: 新星勳章·銀染顯影
+    introduction: 新星勳章·銀染顯影
+    rank: 1
+  }
+  {
+    id: 100234
+    type: 4
+    arg: "100234"
+    code: Platinum_medal
+    item_name: 白金勳章·銀染顯影
+    introduction: 白金勳章·銀染顯影
+    rank: 1
+  }
+  {
+    id: 100235
+    type: 9
+    arg: "100235"
+    code: Coin_202408AngularGyrus
+    item_name: 致勝兵卒
+    introduction: 棋局之上，黑白之間，唯有小兵沒有後退的權利。
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100236
+    type: 4
+    arg: "100236"
+    code: coremask2_202408AngularGyrus
+    item_name: 蝕心面具·銀染顯影
     introduction: 散發著詭譎氣息的面具，只有通過極為艱險的考驗才能獲得。留在手中似乎沒有什麼用，但能夠在商店換取到一個期望已久的相遇。
     rank: 1
   }
@@ -23164,6 +23345,87 @@
     type_sort: 1
   }
   {
+    id: 1500149
+    type: 15
+    arg: "1500149"
+    code: Bumdle_Angulargyrus01
+    item_name: 銀染顯影限定裝扮券·壹
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500150
+    type: 15
+    arg: "1500150"
+    code: Bumdle_Angulargyrus02
+    item_name: 銀染顯影限定裝扮券·貳
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500151
+    type: 15
+    arg: "1500151"
+    code: Bumdle_Angulargyrus03
+    item_name: 銀染顯影限定裝扮券·參
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500152
+    type: 15
+    arg: "1500152"
+    code: Bumdle_invocation_3
+    item_name: 四星人形調用函
+    introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500153
+    type: 15
+    arg: "1500153"
+    code: Bumdle_invocation_2
+    item_name: 五星人形調用函
+    introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位五星戰術人形。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500154
+    type: 15
+    arg: "1500154"
+    code: Bumdle_sangvischoose
+    item_name: 融合勢力定向收歸委託書
+    introduction:
+      '''
+      在倉庫中使用該委託書，即可從指定範圍內選擇獲得一位初始三星融合勢力單位。
+      *若指揮官未解鎖「融合勢力」系統，在獲得所選的初始三星融合勢力單位後將暫時無法使用，待後續指揮官解鎖了「融合勢力」系統後可正常使用。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500155
+    type: 15
+    arg: "1500155"
+    code: Bumdle_equipment
+    item_name: 五星裝備自選憑證
+    introduction: 在倉庫中使用該自選憑證，即可從指定範圍內選擇獲得一個非專屬五星裝備。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -23546,6 +23808,39 @@
     id: 1700033
     type: 15
     arg: "1700033"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700034
+    type: 15
+    arg: "1700034"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700035
+    type: 15
+    arg: "1700035"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700036
+    type: 15
+    arg: "1700036"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
