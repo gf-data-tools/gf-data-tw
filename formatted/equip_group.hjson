@@ -307,4 +307,22 @@
     group_skill: 2:1002103
     fit_gun: "20061"
   }
+  {
+    id: 35
+    name: 白色回憶
+    des: 為WA2000量身訂製的套裝，提升了作戰能力，並且執行任務時使用的戰鬥技巧也會變得更加熟練。
+    code: EgroupWA2000
+    equip_unit: "414,217,0"
+    group_skill: 2:1002303
+    fit_gun: "48"
+  }
+  {
+    id: 36
+    name: 收藏家
+    des: 為納甘左輪量身訂製的套裝，在打掃戰場，挑揀廢品等行動裡可以發揮關鍵作用，說不定什麼時候就能收集到重要情報。
+    code: EgroupM1895
+    equip_unit: "113,0,415"
+    group_skill: 2:1002403
+    fit_gun: "20005"
+  }
 ]

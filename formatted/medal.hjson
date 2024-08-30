@@ -468,4 +468,28 @@
     is_date: 2
     decorate_code: Logo_Events
   }
+  {
+    id: 41
+    name: 第十三戰區開拓者勳章
+    order: 59
+    evo_step: "1"
+    appearance_id: "238"
+    item_id: 140
+    medal_obtain: 授予第十三期戰區活動中獲得耀眼積分成績的指揮官。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
+  {
+    id: 42
+    name: 第十三戰區征服者勳章
+    order: 58
+    evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
+    appearance_id: "239,240,241,242,243,244,245,246,247,248,249,250"
+    item_id: 141
+    medal_obtain: 授予第十三期戰區活動最終關卡中獲得非凡成績的指揮官。
+    medal_color: "#ff0000"
+    is_date: 2
+    decorate_code: Logo_Events
+  }
 ]

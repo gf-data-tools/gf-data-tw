@@ -802,6 +802,24 @@
     rank: 1
   }
   {
+    id: 140
+    type: 3
+    arg: "41"
+    code: Medal_Theater13th
+    item_name: 第十三戰區開拓者勳章
+    introduction: 表彰該指揮官及其麾下戰術人形在第十三期戰區通過不懈努力收穫的矚目積分，「您奮鬥在前線的身影，已成為人們眼中的希望。」
+    rank: 1
+  }
+  {
+    id: 141
+    type: 3
+    arg: "42"
+    code: Medal_Theater13th_rank
+    item_name: 第十三戰區征服者勳章
+    introduction: 表彰該指揮官及其麾下戰術人形在第十三期戰區立下的卓越戰功，「以您為核心，人形們匯聚成了席捲一切的怒濤。」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -889,6 +907,15 @@
     code: CentreDataRPG29
     item_name: 中樞數據:RPG-29
     introduction: 重裝部隊RPG-29的數據碎片，—「會有誰在冬夜裡使用綠油油的迷彩進行偽裝？零分！」「老姐，首先，那是一棵聖誕樹。」
+    rank: 1
+  }
+  {
+    id: 311
+    type: 1
+    arg: "1"
+    code: CentreDataL9A1
+    item_name: 中樞數據:L9A1
+    introduction: 重裝部隊L9A1的數據碎片，—「做完這單差不多就該休息了吧？」—「哎呀……你確定嗎？下一單有限時雙倍獎勵喔。」
     rank: 1
   }
   {
@@ -15258,6 +15285,33 @@
     rank: 1
   }
   {
+    id: 2556
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_GagerSwimwear
+    item_name: 計量官-VWV型頭像
+    introduction: 計量官-VWV型頭像
+    rank: 1
+  }
+  {
+    id: 2557
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_LWMMG
+    item_name: LWMMG-柔暖根音
+    introduction: LWMMG-柔暖根音
+    rank: 1
+  }
+  {
+    id: 2558
+    type: 5
+    arg: "1"
+    code: card_BattlePass_LWMMG
+    item_name: 名片：過載宇宙
+    introduction: 名片：過載宇宙
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -16646,6 +16700,15 @@
     id: 10718
     type: 18
     arg: "10718"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10719
+    type: 18
+    arg: "10719"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
@@ -21204,6 +21267,22 @@
     rank: 1
   }
   {
+    id: 140043
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第22期前線協議
+    rank: 1
+  }
+  {
+    id: 140044
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第22期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -21628,6 +21707,15 @@
     code: profileFrame_BattlePass_M1851N
     item_name: 頭像框·甜心輕羽
     introduction: 頭像框·甜心輕羽
+    rank: 1
+  }
+  {
+    id: 200047
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_LWMMG
+    item_name: 頭像框·律動光束
+    introduction: 頭像框·律動光束
     rank: 1
   }
   {
@@ -23421,6 +23509,50 @@
     code: Bumdle_equipment
     item_name: 五星裝備自選憑證
     introduction: 在倉庫中使用該自選憑證，即可從指定範圍內選擇獲得一個非專屬五星裝備。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500156
+    type: 15
+    arg: "1500156"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-獨奏邊界，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500157
+    type: 15
+    arg: "1500157"
+    code: package_choose
+    item_name: 配件類裝備自選包
+    introduction: 來自於前線協議-獨奏邊界，可從該指定投遞配給序標內選擇獲取一件配件類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500158
+    type: 15
+    arg: "1500158"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-獨奏邊界，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500159
+    type: 15
+    arg: "1500159"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-獨奏邊界，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
     type_sort: 1
