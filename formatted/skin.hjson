@@ -9191,6 +9191,79 @@
     class_id: 104
   }
   {
+    id: 10801
+    name: FM24-敬金色的相遇
+    fit_gun: 395
+    voice: 4
+    dialog: 來嚐嚐我們的新品特調吧？哈哈，別誤會，再怎麼說我也不至於把生意做到老闆的頭上……只是單純地想請您喝一杯而已。
+    order: 139
+    class_id: 105
+    skin_source: 2
+  }
+  {
+    id: 10802
+    name: JS 9-百匯馬丁尼
+    fit_gun: 234
+    voice: 4
+    dialog: 這、這麼高的鞋跟，我還不太習慣……指揮官，可以拉著我的手嗎？我快要摔倒了……
+    order: 139
+    class_id: 105
+    skin_source: 2
+  }
+  {
+    id: 10803
+    name: LTLX7000-醉情麥卡倫
+    fit_gun: 323
+    voice: 4
+    dialog: 嗯，你贏了。如你所見，這桌子上的所有獎品都將屬於你……當然，也包括我。
+    illustrator_cv: YoYo,田中理惠,
+    order: 139
+    class_id: 105
+    skin_source: 2
+  }
+  {
+    id: 10805
+    name: SR-3MP-槍炮玫瑰之禮
+    fit_gun: 135
+    voice: 4
+    dialog: 我藏在禮盒裡「咚」地一下跳出來，再「哇」地一下撲過去——嘻嘻，指揮官一定會驚喜地叫出聲吧？真是太期待了！
+    gift_position: "-244.7,417.4"
+    order: 139
+    class_id: 105
+    skin_source: 1
+  }
+  {
+    id: 10806
+    name: 56-1式-粽香貝禮詩
+    fit_gun: 66
+    voice: 4
+    dialog: 長官你看，我買到了香噴噴的粽子哦！……您說我的打扮不適合吃這個？沒辦法，肚子餓了啦，兔女郎也是要吃飯的嘛！
+    gift_position: "-74.7,31.8"
+    order: 139
+    class_id: 105
+    skin_source: 1
+  }
+  {
+    id: 10807
+    name: RMB-93-莓果微醺之夜
+    fit_gun: 159
+    voice: 4
+    dialog: 指揮官，您這個眼神，好像喝得有點多了呢？……呵呵，送您一杯冰茶解解酒吧。
+    order: 139
+    class_id: 105
+    skin_source: 2
+  }
+  {
+    id: 10808
+    name: MP40-黑桃香檳
+    fit_gun: 25
+    voice: 4
+    dialog: 您好，指揮官，這是您下單的黑桃香檳……啊，需要我幫您倒酒嗎？好的，我很樂意為您服務！
+    order: 139
+    class_id: 105
+    skin_source: 2
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57
