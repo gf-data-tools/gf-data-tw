@@ -139,7 +139,7 @@
     name: 十三期戰區
     start_time: 2024-08-30 00:04:00
     end_time: 2024-09-13 05:00:00
-    close_time: 2024-09-27 00:04:00
+    close_time: 2024-10-04 00:04:00
     primary_theater: "131,132,133"
     core_theater: 134
     ap_recover: 2
