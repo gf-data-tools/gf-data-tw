@@ -604,6 +604,17 @@
     source_description: 八周年活動獎勵
   }
   {
+    id: 60
+    name: 楓霜劍影
+    description: 劍光所及之地，恍若楓葉紛飛，就此感受歲月流轉、四季更迭的永恆之美。
+    group_id: "102"
+    code: commander_6040_icon
+    path: CLASS60
+    des_year: "2024"
+    source: 2
+    source_description: 2024十月簽到
+  }
+  {
     id: 99
     name: 謊言面具
     description: 埋藏我所思，塑化我所願

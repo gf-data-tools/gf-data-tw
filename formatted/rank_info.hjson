@@ -1282,6 +1282,36 @@
     sub_rank_name: 積分
   }
   {
+    id: "308"
+    name: 秘密渦點PLUS常駐
+    type: "10"
+    sub_type: "11497"
+    refresh: test
+    title: <秘密渦點+>常駐積分榜
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: 積分
+  }
+  {
+    id: "309"
+    name: 驅霧行動PLUS常駐
+    type: "10"
+    sub_type: "11549"
+    refresh: test
+    title: <驅霧行動+>常駐積分榜
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: 積分
+  }
+  {
     id: "1001"
     name: 佐賀應援榜
     type: "1001"

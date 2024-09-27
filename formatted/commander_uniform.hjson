@@ -3714,6 +3714,20 @@
     color_icon_id: "958"
   }
   {
+    id: 6040
+    name: 楓華刃
+    description: 秋霜初降，楓葉如火，晨光熹微。隨風飄散的落紅與劍鋒相觸，奏出清脆悅耳的錚鳴。「哎呀，指揮官，您這是讀了191帶來的小說嗎？」……在少女的驚呼下，劍客的隱秘表演匆匆落幕。
+    code: BodyAcco
+    icon: commander_6040_icon
+    type: 4
+    uniform_class: "60"
+    color_normal: Commander_6040_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.172,0.008"
+    color_icon_id: "959"
+  }
+  {
     id: 9920
     name: 活力偽裝
     description: 永遠展現最好的我。

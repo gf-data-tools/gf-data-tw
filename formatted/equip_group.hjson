@@ -325,4 +325,22 @@
     group_skill: 2:1002403
     fit_gun: "20005"
   }
+  {
+    id: 37
+    name: 狐耳小員
+    des: 為G41量身訂製的套裝，只要是指揮官的命令，一定會努力達成的！
+    code: EgroupG41
+    equip_unit: "0,419,127"
+    group_skill: 2:1002903
+    fit_gun: "62"
+  }
+  {
+    id: 38
+    name: 我們上，木銷
+    des: 為M500量身訂製的套裝，任何時候只要身邊有可靠的搭檔，就沒有什麼情況是不敢上的！
+    code: EgroupM500
+    equip_unit: "420,0,177"
+    group_skill: 2:1003103
+    fit_gun: "20154"
+  }
 ]

@@ -1167,6 +1167,32 @@
     visable_count: 100
   }
   {
+    id: 308
+    name: 秘密渦點PLUS常駐
+    type: 10
+    sub_type: "11497"
+    sub_rank: 1
+    sub_rank_name: 積分
+    "": test
+    title: <秘密渦點+>常駐積分榜
+    visable_rank: 100
+    ranking_onlist_number: 80000
+    visable_count: 100
+  }
+  {
+    id: 309
+    name: 驅霧行動PLUS常駐
+    type: 10
+    sub_type: "11549"
+    sub_rank: 1
+    sub_rank_name: 積分
+    "": test
+    title: <驅霧行動+>常駐積分榜
+    visable_rank: 100
+    ranking_onlist_number: 80000
+    visable_count: 100
+  }
+  {
     id: 1001
     name: 佐賀應援榜
     type: 1001

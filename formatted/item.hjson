@@ -360,7 +360,7 @@
     rank: 1
     sort: 13
     item_access: "6,5"
-    detail_introduction: 可在研发-装备强化中提供装备开发值。
+    detail_introduction: 可在研發-裝備強化中提供裝備開發值。
     type_sort: 2
   }
   {
@@ -15375,6 +15375,24 @@
     rank: 1
   }
   {
+    id: 2566
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_MartiniHenry
+    item_name: 馬提尼‧亨利-莓果色的悸動
+    introduction: 馬提尼‧亨利-莓果色的悸動
+    rank: 1
+  }
+  {
+    id: 2567
+    type: 5
+    arg: "1"
+    code: card_BattlePass_MartiniHenry
+    item_name: 名片：流淌於巷角的陽光
+    introduction: 名片：流淌於巷角的陽光
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -16772,6 +16790,15 @@
     id: 10719
     type: 18
     arg: "10719"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10720
+    type: 18
+    arg: "10720"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
@@ -18943,6 +18970,33 @@
     code: coremask2_202408AngularGyrus
     item_name: 蝕心面具·銀染顯影
     introduction: 散發著詭譎氣息的面具，只有通過極為艱險的考驗才能獲得。留在手中似乎沒有什麼用，但能夠在商店換取到一個期望已久的相遇。
+    rank: 1
+  }
+  {
+    id: 100237
+    type: 4
+    arg: "100237"
+    code: Nova_medal_black
+    item_name: 新星勳章
+    introduction: 新星勳章
+    rank: 1
+  }
+  {
+    id: 100238
+    type: 4
+    arg: "100238"
+    code: Platinum_medal_black
+    item_name: 白金勳章
+    introduction: 白金勳章
+    rank: 1
+  }
+  {
+    id: 100239
+    type: 4
+    arg: "100239"
+    code: Bumdle_October3
+    item_name: 秋日樂遊箱
+    introduction: 秋日樂遊箱
     rank: 1
   }
   {
@@ -21346,6 +21400,22 @@
     rank: 1
   }
   {
+    id: 140045
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第23期前線協議
+    rank: 1
+  }
+  {
+    id: 140046
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第23期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -21779,6 +21849,15 @@
     code: profileFrame_BattlePass_LWMMG
     item_name: 頭像框·律動光束
     introduction: 頭像框·律動光束
+    rank: 1
+  }
+  {
+    id: 200048
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_MartiniHenry
+    item_name: 頭像框·莓莓慕斯貓
+    introduction: 頭像框·莓莓慕斯貓
     rank: 1
   }
   {
@@ -23616,6 +23695,50 @@
     code: package_random
     item_name: 前線協議-額外獎勵
     introduction: 來自於前線協議-獨奏邊界，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500160
+    type: 15
+    arg: "1500160"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-暖夢咖啡屋，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500161
+    type: 15
+    arg: "1500161"
+    code: package_choose
+    item_name: 彈匣類裝備自選包
+    introduction: 來自於前線協議-暖夢咖啡屋，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500162
+    type: 15
+    arg: "1500162"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-暖夢咖啡屋，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500163
+    type: 15
+    arg: "1500163"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-暖夢咖啡屋，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
     type_sort: 1

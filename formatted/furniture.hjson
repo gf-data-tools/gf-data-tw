@@ -30423,6 +30423,34 @@
     rotate: "3"
   }
   {
+    id: 20150
+    name: 絳珠綴蘭石像（左）
+    classes: 81
+    type: 201
+    space: "6,4,1,1,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 靜默的石像經由歲月的風沙雕琢，見證了無數過客的往來匆匆，亦記錄了一則關乎愛與離別的故事。
+    code: 2024NationalDay_deco1
+    texture_type: "1"
+    offset: "0.000,-0.209,0.000"
+    rotate: "2"
+  }
+  {
+    id: 20151
+    name: 絳珠綴蘭石像（右）
+    classes: 81
+    type: 201
+    space: "6,4,1,1,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 靜謐的石像經由歲月的風霜洗禮，守護了無數過客的春秋冬夏，亦訴說了一則關乎愛與希望的寓言。
+    code: 2024NationalDay_deco2
+    texture_type: "1"
+    offset: "0.000,-0.209,0.000"
+    rotate: "2"
+  }
+  {
     id: 30001
     name: 馬卡洛夫-南瓜熊熊
     classes: 300
@@ -46546,6 +46574,21 @@
     decompose_gift: 100003
     description: LWMMG的海報。
     code: poster_BattlePass_LWMMG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330023
+    name: 馬提尼‧亨利-莓果色的悸動
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 馬提尼‧亨利的海報。
+    code: poster_BattlePass_MartiniHenry
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
