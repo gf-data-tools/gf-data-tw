@@ -820,6 +820,16 @@
     rank: 1
   }
   {
+    id: 142
+    type: 3
+    arg: "43"
+    code: Medal_202410Activity
+    item_name: 孤林守護者勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在「孤立叢林」活動中的卓越戰績，「一群樹木漫步向著傍晚與死亡，當它們成為枯樹時它們終於抵達。死者死去，但只有生者知道這一點。」
+    rank: 1
+    detail_introduction: item-30000142
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -15393,6 +15403,133 @@
     rank: 1
   }
   {
+    id: 2568
+    type: 5
+    arg: "1"
+    code: profilePic_mask_Hallowmas_NA
+    item_name: 真核面具紀念頭像·萬聖節
+    introduction: 真核面具紀念頭像·萬聖節
+    rank: 1
+  }
+  {
+    id: 2569
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_HS50
+    item_name: HS.50-深海獄使
+    introduction: HS.50-深海獄使
+    rank: 1
+  }
+  {
+    id: 2570
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_M1887
+    item_name: M1887-血色荊棘
+    introduction: M1887-血色荊棘
+    rank: 1
+  }
+  {
+    id: 2571
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_SPAS15
+    item_name: SPAS-15-潘神的低語
+    introduction: SPAS-15-潘神的低語
+    rank: 1
+  }
+  {
+    id: 2572
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_SR2
+    item_name: SR-2-蝰鱗之吻
+    introduction: SR-2-蝰鱗之吻
+    rank: 1
+  }
+  {
+    id: 2573
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_Welrod
+    item_name: 維爾德MkⅡ-垂絲傀儡謠
+    introduction: 維爾德MkⅡ-垂絲傀儡謠
+    rank: 1
+  }
+  {
+    id: 2574
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_AR15
+    item_name: ST AR-15-我，即混沌
+    introduction: ST AR-15-我，即混沌
+    rank: 1
+  }
+  {
+    id: 2575
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_C14
+    item_name: C14-幽冥曼姝
+    introduction: C14-幽冥曼姝
+    rank: 1
+  }
+  {
+    id: 2576
+    type: 5
+    arg: "1"
+    code: profilePic_202410Activity_01
+    item_name: 頭像：因果偃師
+    introduction: 頭像：因果偃師
+    rank: 1
+  }
+  {
+    id: 2577
+    type: 5
+    arg: "1"
+    code: profilePic_202410Activity_02
+    item_name: 頭像：伸冤醫者
+    introduction: 頭像：伸冤醫者
+    rank: 1
+  }
+  {
+    id: 2578
+    type: 5
+    arg: "1"
+    code: card_202410Activity_01
+    item_name: 名片：輕若塵埃，重如千鈞
+    introduction: 名片：輕若塵埃，重如千鈞
+    rank: 1
+  }
+  {
+    id: 2579
+    type: 5
+    arg: "1"
+    code: card_202410Activity_02
+    item_name: 名片：馬卡洛夫與白衣天使
+    introduction: 名片：馬卡洛夫與白衣天使
+    rank: 1
+  }
+  {
+    id: 2580
+    type: 5
+    arg: "1"
+    code: cg_202410Activity_01
+    item_name: 背景：走在清晨的雪徑
+    introduction: 背景：走在清晨的雪徑
+    rank: 1
+  }
+  {
+    id: 2581
+    type: 5
+    arg: "1"
+    code: cg_202410Activity_02
+    item_name: 背景：光影交織的午後
+    introduction: 背景：光影交織的午後
+    rank: 1
+    detail_introduction: item-30002581
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -15400,6 +15537,16 @@
     item_name: SPAS-12心智升級頭像
     introduction: SPAS-12心智升級頭像
     rank: 1
+  }
+  {
+    id: 3502
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_ZastavaM21Mod
+    item_name: item-10003502
+    introduction: item-20003502
+    rank: 1
+    detail_introduction: item-30003502
   }
   {
     id: 4001
@@ -16802,6 +16949,15 @@
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 30023
+    type: 1
+    arg: "30023"
+    code: gift_bundle_BattlePass_MartiniHenry
+    item_name: 馬提尼‧亨利-莓果色的悸動
+    introduction: 指揮官是來買莓莓慕斯的嗎？果然和我預料的一樣~給，我已經提前買好囉！報酬就要……一張指揮官的微笑！
     rank: 1
   }
   {
@@ -18997,6 +19153,53 @@
     code: Bumdle_October3
     item_name: 秋日樂遊箱
     introduction: 秋日樂遊箱
+    rank: 1
+  }
+  {
+    id: 100240
+    type: 4
+    arg: "100240"
+    code: core_mask_24Hallowmas_NA
+    item_name: 真核面具·美服萬聖
+    introduction: 真核面具·美服萬聖
+    rank: 1
+  }
+  {
+    id: 100241
+    type: 4
+    arg: "100241"
+    code: Nova_medal
+    item_name: 新星勳章·孤立叢林
+    introduction: 新星勳章·孤立叢林
+    rank: 1
+  }
+  {
+    id: 100242
+    type: 4
+    arg: "100242"
+    code: Platinum_medal
+    item_name: 白金勳章·孤立叢林
+    introduction: 白金勳章·孤立叢林
+    rank: 1
+  }
+  {
+    id: 100243
+    type: 9
+    arg: "100243"
+    code: Coin_202410IsolationForest
+    item_name: 倒懸樹影
+    introduction: 在夢境中倒立著肆意生長的樹，根系糾纏在一起，組成一座座漂浮群島。
+    rank: 1
+    daily_limit: 60;180
+    detail_introduction: item-30100243
+  }
+  {
+    id: 100244
+    type: 4
+    arg: "100244"
+    code: coremask2_202410IsolationForest
+    item_name: 蝕心面具·孤立叢林
+    introduction: 散發著詭譎氣息的面具，只有通過極為艱險的考驗才能獲得。留在手中似乎沒有什麼用，但能夠在商店換取到一個期望已久的相遇。
     rank: 1
   }
   {
@@ -23744,6 +23947,98 @@
     type_sort: 1
   }
   {
+    id: 1500164
+    type: 15
+    arg: "1500164"
+    code: Bumdle_IsolationForest01
+    item_name: 孤立叢林限定裝扮券·壹
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500165
+    type: 15
+    arg: "1500165"
+    code: Bumdle_IsolationForest02
+    item_name: 孤立叢林限定裝扮券·貳
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500166
+    type: 15
+    arg: "1500166"
+    code: Bumdle_IsolationForest03
+    item_name: 孤立叢林限定裝扮券·參
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500167
+    type: 15
+    arg: "1500167"
+    code: Bumdle_IsolationForest04
+    item_name: 孤立叢林限定裝扮券·肆
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500168
+    type: 15
+    arg: "1500168"
+    code: Bumdle_invocation_3
+    item_name: 四星人形調用函
+    introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500169
+    type: 15
+    arg: "1500169"
+    code: Bumdle_invocation_2
+    item_name: 五星人形調用函
+    introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位五星戰術人形。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500170
+    type: 15
+    arg: "1500170"
+    code: Bumdle_sangvischoose
+    item_name: 融合勢力定向收歸委託書
+    introduction:
+      '''
+      在倉庫中使用該委託書，即可從指定範圍內選擇獲得一位初始三星融合勢力單位。
+      *若指揮官未解鎖「融合勢力」系統，在獲得所選的初始三星融合勢力單位後將暫時無法使用，待後續指揮官解鎖了「融合勢力」系統後可正常使用。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500171
+    type: 15
+    arg: "1500171"
+    code: Bumdle_equipment
+    item_name: 五星裝備自選憑證
+    introduction: 在倉庫中使用該自選憑證，即可從指定範圍內選擇獲得一個非專屬五星裝備。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -24192,6 +24487,39 @@
     id: 1700039
     type: 15
     arg: "1700039"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700040
+    type: 15
+    arg: "1700040"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700041
+    type: 15
+    arg: "1700041"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700042
+    type: 15
+    arg: "1700042"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

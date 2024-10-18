@@ -5,7 +5,7 @@
     type: 1
     sub_rank: 1
     sub_rank_name: 總積分
-    "": month:1:0
+    refresh: month:1:0
     title: 每日4點刷新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -18,7 +18,7 @@
     sub_type: "1"
     sub_rank: 2
     sub_rank_name: 總積分
-    "": week:7:0
+    refresh: week:7:0
     title: 每日4點刷新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -31,7 +31,7 @@
     sub_type: "2"
     sub_rank: 3
     sub_rank_name: 總積分
-    "": week:7:0
+    refresh: week:7:0
     title: 每日4點刷新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -44,7 +44,7 @@
     sub_type: "3"
     sub_rank: 1
     sub_rank_name: 總積分
-    "": week:7:0
+    refresh: week:7:0
     title: 每日4點刷新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -54,7 +54,7 @@
     id: 5
     name: 防禦演習排行
     type: 3
-    "": week:7:0
+    refresh: week:7:0
     title: 每日4點刷新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -64,7 +64,7 @@
     id: 6
     name: 人形收集排行
     type: 4
-    "": month:1:0
+    refresh: month:1:0
     title: 每日4點刷新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -74,7 +74,7 @@
     id: 7
     name: 傢俱收集排行
     type: 5
-    "": month:1:0
+    refresh: month:1:0
     title: 每日4點刷新
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -85,7 +85,7 @@
     name: 活動積分排行
     type: 6
     sub_type: "11630"
-    "": end:2024-07-26 10:00:00
+    refresh: end:2024-07-26 10:00:00
     title: <噩夢迷城+>積分榜（7月19日發放獎勵）
     top_rewards: 1:40705,2:40706,3:40707,4:40708,5:40709,6:40710,7:40711,8:40712,9:40713,10:40714,100:40715
     visable_rank: 100
@@ -101,7 +101,7 @@
     id: 101
     name: 戰區活動積分每日
     type: 101
-    "": test
+    refresh: test
     title: test
     top_rewards: 1:413101,2:413102,3:413103,4:413104,5:413105,6:413106,7:413107,8:413108,9:413109,10:413110,100:413111
     percentage_rewards: 5:413112,10:413113,15:413114,20:413115,30:413116,40:413117,50:413118,100:413119
@@ -113,7 +113,7 @@
     id: 102
     name: 要塞每日
     type: 102
-    "": test
+    refresh: test
     title: test
     visable_rank: 100
     ranking_onlist_number: 120
@@ -123,7 +123,7 @@
     id: 112
     name: 指定要塞積分
     type: 112
-    "": test
+    refresh: test
     title: test
     top_rewards: 1:413201,2:413202,3:413203,4:413204,5:413205,6:413206,7:413207,8:413208,9:413209,10:413210,100:413211
     percentage_rewards: 5:413212,10:413213,15:413214,20:413215,30:413216,40:413217,50:413218,100:413219
@@ -136,7 +136,7 @@
     name: 末日魔犬
     type: 113
     sub_type: "1703"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -147,7 +147,7 @@
     name: 葉戈爾
     type: 113
     sub_type: "1704"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -158,7 +158,7 @@
     name: 失格異構體
     type: 113
     sub_type: "1705"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -169,7 +169,7 @@
     name: M16A1!
     type: 113
     sub_type: "1706"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -180,7 +180,7 @@
     name: 斷後中隊
     type: 113
     sub_type: "1707"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -191,7 +191,7 @@
     name: 末日魔犬
     type: 114
     sub_type: "1703"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -202,7 +202,7 @@
     name: 葉戈爾
     type: 114
     sub_type: "1704"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -213,7 +213,7 @@
     name: 失格異構體
     type: 114
     sub_type: "1705"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -224,7 +224,7 @@
     name: M16A1!
     type: 114
     sub_type: "1706"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -235,7 +235,7 @@
     name: 斷後中隊
     type: 114
     sub_type: "1707"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -246,7 +246,7 @@
     name: 模擬:雙聯亂數01
     type: 113
     sub_type: "1708"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -257,7 +257,7 @@
     name: 模擬:雙聯亂數02
     type: 113
     sub_type: "1709"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -268,7 +268,7 @@
     name: 模擬:雙聯亂數03
     type: 113
     sub_type: "1710"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -279,7 +279,7 @@
     name: 模擬:雙聯亂數01
     type: 114
     sub_type: "1708"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -290,7 +290,7 @@
     name: 模擬:雙聯亂數02
     type: 114
     sub_type: "1709"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -301,7 +301,7 @@
     name: 模擬:雙聯亂數03
     type: 114
     sub_type: "1710"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -312,7 +312,7 @@
     name: 模擬:雙聯亂數04
     type: 113
     sub_type: "1711"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -323,7 +323,7 @@
     name: 模擬:雙聯亂數05
     type: 113
     sub_type: "1712"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -334,7 +334,7 @@
     name: 模擬:雙聯亂數06
     type: 113
     sub_type: "1713"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -345,7 +345,7 @@
     name: 模擬:雙聯亂數04
     type: 114
     sub_type: "1711"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -356,7 +356,7 @@
     name: 模擬:雙聯亂數05
     type: 114
     sub_type: "1712"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -367,7 +367,7 @@
     name: 模擬:雙聯亂數06
     type: 114
     sub_type: "1713"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -378,7 +378,7 @@
     name: 必中謊言
     type: 113
     sub_type: "1715"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -389,7 +389,7 @@
     name: 必中謊言
     type: 114
     sub_type: "1715"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -400,7 +400,7 @@
     name: 01：燃燒狂獸
     type: 113
     sub_type: "1716"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -411,7 +411,7 @@
     name: 02：不倒鐵律
     type: 113
     sub_type: "1717"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -422,7 +422,7 @@
     name: 03：蜂鳥漩渦
     type: 113
     sub_type: "1718"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -433,7 +433,7 @@
     name: 01：燃燒狂獸
     type: 114
     sub_type: "1716"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -444,7 +444,7 @@
     name: 02：不倒鐵律
     type: 114
     sub_type: "1717"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -455,7 +455,7 @@
     name: 03：蜂鳥漩渦
     type: 114
     sub_type: "1718"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -466,7 +466,7 @@
     name: 04：奎烏
     type: 113
     sub_type: "1719"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -477,7 +477,7 @@
     name: 04：奎烏
     type: 114
     sub_type: "1719"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -488,7 +488,7 @@
     name: 異構體01
     type: 113
     sub_type: "1720"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -499,7 +499,7 @@
     name: 異構體02
     type: 113
     sub_type: "1721"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -510,7 +510,7 @@
     name: 異構體03
     type: 113
     sub_type: "1722"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -521,7 +521,7 @@
     name: 異構體01
     type: 114
     sub_type: "1720"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -532,7 +532,7 @@
     name: 異構體02
     type: 114
     sub_type: "1721"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -543,7 +543,7 @@
     name: 異構體03
     type: 114
     sub_type: "1722"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -554,7 +554,7 @@
     name: 黑白涅托
     type: 113
     sub_type: "1723"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -565,7 +565,7 @@
     name: 黑白涅托
     type: 114
     sub_type: "1723"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -575,7 +575,7 @@
     id: 162
     name: 頂級棋士
     type: 8
-    "": test
+    refresh: test
     title: 頂級棋士排行
     visable_rank: 100
     ranking_onlist_number: 20000
@@ -586,7 +586,7 @@
     name: 01：格雷夫人
     type: 113
     sub_type: "1724"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -597,7 +597,7 @@
     name: 02：娜希斯
     type: 113
     sub_type: "1725"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -608,7 +608,7 @@
     name: 03：默莉朵
     type: 113
     sub_type: "1726"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -619,7 +619,7 @@
     name: 01：格雷夫人
     type: 114
     sub_type: "1724"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -630,7 +630,7 @@
     name: 02：娜希斯
     type: 114
     sub_type: "1725"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -641,7 +641,7 @@
     name: 03：默莉朵
     type: 114
     sub_type: "1726"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -652,7 +652,7 @@
     name: 01：裂變
     type: 113
     sub_type: "1727"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -663,7 +663,7 @@
     name: 02：裂變
     type: 113
     sub_type: "1728"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -674,7 +674,7 @@
     name: 03：裂變
     type: 113
     sub_type: "1729"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -685,7 +685,7 @@
     name: 01：裂變
     type: 114
     sub_type: "1727"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -696,7 +696,7 @@
     name: 02：裂變
     type: 114
     sub_type: "1728"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -707,7 +707,7 @@
     name: 03：裂變
     type: 114
     sub_type: "1729"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -718,7 +718,7 @@
     name: 爆裂·魔女
     type: 113
     sub_type: "1730"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -729,7 +729,7 @@
     name: 爆裂·魔女
     type: 114
     sub_type: "1730"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -739,7 +739,7 @@
     id: 177
     name: 頂級棋士
     type: 9
-    "": test
+    refresh: test
     title: 頂級棋士排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -750,7 +750,7 @@
     name: 大地·赴罪之人
     type: 113
     sub_type: "1731"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -761,7 +761,7 @@
     name: 鐵血·厄勒克特拉
     type: 113
     sub_type: "1732"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -772,7 +772,7 @@
     name: 鐵血·無歸者
     type: 113
     sub_type: "1733"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -783,7 +783,7 @@
     name: 大地·赴罪之人
     type: 114
     sub_type: "1731"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -794,7 +794,7 @@
     name: 鐵血·厄勒克特拉
     type: 114
     sub_type: "1732"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -805,7 +805,7 @@
     name: 鐵血·無歸者
     type: 114
     sub_type: "1733"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -816,7 +816,7 @@
     name: 01焓變·刺霜
     type: 113
     sub_type: "1734"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -827,7 +827,7 @@
     name: 02焓變·夜靄
     type: 113
     sub_type: "1735"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -838,7 +838,7 @@
     name: 03焓變·冥霧
     type: 113
     sub_type: "1736"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -849,7 +849,7 @@
     name: 01焓變·刺霜
     type: 114
     sub_type: "1734"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -860,7 +860,7 @@
     name: 02焓變·夜靄
     type: 114
     sub_type: "1735"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -871,7 +871,7 @@
     name: 03焓變·冥霧
     type: 114
     sub_type: "1736"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -882,7 +882,7 @@
     name: I 颶風：蛻骨
     type: 113
     sub_type: "1737"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -893,7 +893,7 @@
     name: II 颶風：枯蛺
     type: 113
     sub_type: "1738"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -904,7 +904,7 @@
     name: I 颶風：蛻骨
     type: 114
     sub_type: "1737"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -915,7 +915,7 @@
     name: II 颶風：枯蛺
     type: 114
     sub_type: "1738"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -926,7 +926,7 @@
     name: 01：應變-逆罪者
     type: 113
     sub_type: "1739"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -937,7 +937,7 @@
     name: 02：應變-血誓者
     type: 113
     sub_type: "1740"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -948,7 +948,7 @@
     name: 03：應變-暗哮
     type: 113
     sub_type: "1741"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -959,7 +959,7 @@
     name: 04：應變-逆輝
     type: 113
     sub_type: "1742"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -970,7 +970,7 @@
     name: 01：應變-逆罪者
     type: 114
     sub_type: "1739"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -981,7 +981,7 @@
     name: 02：應變-血誓者
     type: 114
     sub_type: "1740"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -992,7 +992,7 @@
     name: 03：應變-暗哮
     type: 114
     sub_type: "1741"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -1003,7 +1003,7 @@
     name: 04：應變-逆輝
     type: 114
     sub_type: "1742"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -1014,7 +1014,7 @@
     name: 熾灼：白色風暴
     type: 113
     sub_type: "1743"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -1025,7 +1025,7 @@
     name: 熾灼：撲火者
     type: 113
     sub_type: "1744"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -1036,7 +1036,7 @@
     name: 熾灼：還魂者
     type: 113
     sub_type: "1745"
-    "": test
+    refresh: test
     title: 挑戰時長
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -1047,7 +1047,7 @@
     name: 熾灼：白色風暴
     type: 114
     sub_type: "1743"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -1058,7 +1058,7 @@
     name: 熾灼：撲火者
     type: 114
     sub_type: "1744"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -1069,7 +1069,7 @@
     name: 熾灼：還魂者
     type: 114
     sub_type: "1745"
-    "": test
+    refresh: test
     title: 承傷排行
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -1082,7 +1082,7 @@
     sub_type: "10105"
     sub_rank: 1
     sub_rank_name: 積分
-    "": test
+    refresh: test
     title: <墜入兔洞+>常駐積分榜
     visable_rank: 100
     ranking_onlist_number: 80000
@@ -1095,7 +1095,7 @@
     sub_type: "10158"
     sub_rank: 1
     sub_rank_name: 積分
-    "": test
+    refresh: test
     title: <虛數迷宮+>常駐積分榜
     visable_rank: 100
     ranking_onlist_number: 80000
@@ -1108,7 +1108,7 @@
     sub_type: "10508"
     sub_rank: 1
     sub_rank_name: 積分
-    "": test
+    refresh: test
     title: <馬蜂窩+>常駐積分榜
     visable_rank: 100
     ranking_onlist_number: 80000
@@ -1121,7 +1121,7 @@
     sub_type: "10766"
     sub_rank: 1
     sub_rank_name: 積分
-    "": test
+    refresh: test
     title: <颶風營救+>常駐積分榜
     visable_rank: 100
     ranking_onlist_number: 80000
@@ -1134,7 +1134,7 @@
     sub_type: "11116"
     sub_rank: 1
     sub_rank_name: 積分
-    "": test
+    refresh: test
     title: <混沌落幕+>常駐積分榜
     visable_rank: 100
     ranking_onlist_number: 80000
@@ -1147,7 +1147,7 @@
     sub_type: "11320"
     sub_rank: 1
     sub_rank_name: 積分
-    "": test
+    refresh: test
     title: <終焉花海+>常駐積分榜
     visable_rank: 100
     ranking_onlist_number: 80000
@@ -1160,7 +1160,7 @@
     sub_type: "11435"
     sub_rank: 1
     sub_rank_name: 積分
-    "": test
+    refresh: test
     title: <謎境守衛+>常駐積分榜
     visable_rank: 100
     ranking_onlist_number: 80000
@@ -1173,7 +1173,7 @@
     sub_type: "11497"
     sub_rank: 1
     sub_rank_name: 積分
-    "": test
+    refresh: test
     title: <秘密渦點+>常駐積分榜
     visable_rank: 100
     ranking_onlist_number: 80000
@@ -1186,7 +1186,7 @@
     sub_type: "11549"
     sub_rank: 1
     sub_rank_name: 積分
-    "": test
+    refresh: test
     title: <驅霧行動+>常駐積分榜
     visable_rank: 100
     ranking_onlist_number: 80000
@@ -1196,7 +1196,7 @@
     id: 1001
     name: 佐賀應援榜
     type: 1001
-    "": test
+    refresh: test
     title: 每日4點刷新
     visable_rank: 10
     ranking_onlist_number: 160000
@@ -1209,7 +1209,7 @@
     name: 點位探查數
     type: 2000
     sub_type: "1"
-    "": test
+    refresh: test
     title: 點位探查數
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -1220,7 +1220,7 @@
     name: 首領擊殺數
     type: 2000
     sub_type: "2"
-    "": test
+    refresh: test
     title: 首領擊殺數
     visable_rank: 100
     ranking_onlist_number: 160000
@@ -1231,7 +1231,7 @@
     name: 點位攻略數
     type: 2000
     sub_type: "3"
-    "": test
+    refresh: test
     title: 點位攻略數
     visable_rank: 100
     ranking_onlist_number: 160000

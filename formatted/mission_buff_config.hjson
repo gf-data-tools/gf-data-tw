@@ -97,7 +97,7 @@
   {
     id: 15
     name: 夜間照明
-    description: 夜間照明
+    description: 夜間照明提升視野範圍，同類效果取最大值
     code: buff
     type: 1
     duration_type: "1"
@@ -268,7 +268,7 @@
   {
     id: 1503
     name: 夜間照明
-    description: 提升1格視野，命中提升
+    description: 提升1格視野，命中提升，同類效果取最大值
     code: buff
     type: 1
     duration_type: "1"
@@ -281,7 +281,7 @@
   {
     id: 1504
     name: 夜間照明
-    description: 提升1格視野，命中提升
+    description: 提升1格視野，命中提升，同類效果取最大值
     code: buff
     type: 1
     duration_type: "1"
@@ -294,7 +294,7 @@
   {
     id: 1505
     name: 夜間照明
-    description: 提升1格視野，命中提升
+    description: 提升1格視野，命中提升，同類效果取最大值
     code: buff
     type: 1
     duration_type: "1"
@@ -307,7 +307,7 @@
   {
     id: 1506
     name: 夜間照明
-    description: 提升1格視野，命中提升
+    description: 提升1格視野，命中提升，同類效果取最大值
     code: buff
     type: 1
     duration_type: "1"
@@ -320,7 +320,7 @@
   {
     id: 1507
     name: 夜間照明
-    description: 提升1格視野，命中提升
+    description: 提升1格視野，命中提升，同類效果取最大值
     code: buff
     type: 1
     duration_type: "1"
@@ -333,7 +333,7 @@
   {
     id: 1508
     name: 夜間照明
-    description: 提升1格視野，命中提升
+    description: 提升1格視野，命中提升，同類效果取最大值
     code: buff
     type: 1
     duration_type: "1"
@@ -346,7 +346,7 @@
   {
     id: 1509
     name: 夜間照明
-    description: 提升1格視野，命中提升
+    description: 提升1格視野，命中提升，同類效果取最大值
     code: buff
     type: 1
     duration_type: "1"
@@ -359,7 +359,7 @@
   {
     id: 1510
     name: 夜間照明
-    description: 提升2格視野，命中提升
+    description: 提升2格視野，命中提升，同類效果取最大值
     code: buff
     type: 1
     duration_type: "1"
@@ -659,6 +659,18 @@
     exp_buff: "1"
     conflict_type: 20403
     ext_move: 3
+  }
+  {
+    id: 30012
+    name: 心音復甦
+    description: 下一場戰鬥開始時獲得護盾
+    code: gary_2
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 750962
+    conflict_type: 30012
   }
   {
     id: 50000
@@ -8513,6 +8525,96 @@
     exp_buff: "1"
     free_ap_move: 99
     conflict_type: 9713101
+  }
+  {
+    id: 9720401
+    name: 【標記】梯隊標記
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    conflict_type: 9720401
+    priority: 1
+    carry_mission_skill: "9720400,9720405,9720406,9720407,9720408"
+  }
+  {
+    id: 9720402
+    name: 【標記】梯隊標記_NPC
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    conflict_type: 9720402
+    priority: 1
+    carry_mission_skill: "9720400,9720409,9720410,9720411,9720412"
+  }
+  {
+    id: 9720403
+    name: 【標記】雜物堆選擇標記
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    special_spot_config_id: 9720402
+    conflict_type: 9720403
+    priority: 1
+  }
+  {
+    id: 9720404
+    name: 持有物資
+    description:
+      '''
+      攜帶物資中，不能拾取更多了。
+      可以將物資堆積在收集點上或其他沒有物資和雜物的無人的路徑點上。
+      '''
+    code: GunBox
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    conflict_type: 9720405
+    priority: 1
+  }
+  {
+    id: 9720405
+    name: 持有雜物
+    description:
+      '''
+      攜帶雜物中，不能拾取更多了。
+      可以將雜物放置在沒有物資和雜物的無人的路徑點上。
+      '''
+    code: GunBox
+    type: 2
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    conflict_type: 9720404
+    priority: 1
+  }
+  {
+    id: 9721401
+    name: 強化
+    description: 不會受到福音樞椎的效果影響
+    code: AK74M
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    conflict_type: 580120
+    priority: 2
+  }
+  {
+    id: 9721602
+    name: 【標記】BOSS · 4動
+    code: ExtraMove3
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    conditions_type: "1"
+    conflict_type: 9721602
+    priority: 3
+    ext_move: 3
   }
   {
     id: 10000021

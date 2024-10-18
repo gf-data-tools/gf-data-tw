@@ -7108,6 +7108,100 @@
     extra_language: 堅持到第3回合
   }
   {
+    id: 9720401
+    type: 1407
+    arguments: 9720404:3
+    extra_language:
+      '''
+      收集3個物資。
+      ·需拾取並搬運至雷達點。
+      '''
+  }
+  {
+    id: 9720402
+    type: 1404
+    arguments: "1"
+  }
+  {
+    id: 9720403
+    type: 1101
+    arguments: "900789"
+  }
+  {
+    id: 9720405
+    type: 1404
+    arguments: "2"
+    extra_language: ？？？
+    is_hidden: 1
+  }
+  {
+    id: 9720801
+    type: 1402
+    arguments: "4"
+    extra_language: 堅持到第4回合
+  }
+  {
+    id: 9721101
+    type: 1407
+    arguments: 1170101:2
+    extra_language:
+      '''
+      到達任意兩處雷達點位置並佈置爆炸物。
+      ·無需拾取、搬運爆炸物。
+      '''
+  }
+  {
+    id: 9721401
+    type: 1303
+    arguments: 9721401:1,9721402:1
+  }
+  {
+    id: 9721601
+    type: 1306
+    arguments: 9721601:1
+  }
+  {
+    id: 9722501
+    type: 1402
+    arguments: "2"
+    extra_language: 堅持到第2回合
+  }
+  {
+    id: 9722601
+    type: 1407
+    arguments: 9720404:3
+    extra_language:
+      '''
+      收集3個物資。
+      ·需拾取並搬運至雷達點。
+      '''
+  }
+  {
+    id: 9722602
+    type: 1101
+    arguments: "900851"
+  }
+  {
+    id: 9722801
+    type: 1407
+    arguments: 1170101:3
+    extra_language:
+      '''
+      到達三處雷達點位置並佈置爆炸物。
+      ·無需拾取、搬運爆炸物。
+      '''
+  }
+  {
+    id: 9722901
+    type: 1303
+    arguments: 9722901:1,9722902:1
+  }
+  {
+    id: 9723001
+    type: 1306
+    arguments: 9723001:1
+  }
+  {
     id: 58000101
     type: 1402
     arguments: "2"

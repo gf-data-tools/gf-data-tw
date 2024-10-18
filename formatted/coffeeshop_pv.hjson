@@ -153,4 +153,11 @@
     cost: 506-1000
     prize_id: "5032"
   }
+  {
+    id: "23"
+    title: 銀染顯影
+    description: 2024年限時活動PV
+    cost: 506-1000
+    prize_id: "5033"
+  }
 ]

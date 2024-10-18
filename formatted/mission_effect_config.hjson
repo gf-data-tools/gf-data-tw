@@ -1896,6 +1896,22 @@
     offset: "0,0"
   }
   {
+    id: 9720401
+    name: 物資
+    code: GunBox
+    description: 物資
+    size: 1
+    offset: "0,0"
+  }
+  {
+    id: 9720402
+    name: 堵路雜物
+    code: Sundries
+    description: 堵路雜物
+    size: 1
+    offset: "0,0"
+  }
+  {
     id: 9999999
     name: 【標記】通用打斷循環音效
     code: Empty

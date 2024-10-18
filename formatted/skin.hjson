@@ -154,6 +154,7 @@
     dialog: 好了~下注時間到了哦~指揮官您的勝算會有多少呢？
     order: 2
     class_id: 2
+    skin_source: 3
   }
   {
     id: 103
@@ -1847,7 +1848,7 @@
     dialog: 哼哼~指揮官您真是選了個趣味十足的款式呢，這下滿足了嗎？
     order: 12
     class_id: 11
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 1201
@@ -1952,6 +1953,7 @@
     dialog: 指揮官，可注意別喝太多了……醉了的話就交給我吧。
     order: 14
     class_id: 13
+    skin_source: 3
   }
   {
     id: 1401
@@ -5574,6 +5576,15 @@
     note: 原型裝扮
   }
   {
+    id: 5078
+    name: Zas M21-原型
+    fit_gun: 20196
+    voice: 4
+    is_hidden: 2
+    dialog: 原型裝扮
+    note: 原型裝扮
+  }
+  {
     id: 5101
     name: 劉氏步槍-垂枝夢狐影
     fit_gun: 316
@@ -7219,7 +7230,7 @@
     dialog: 好累……這些孩子是第一次看見大海嗎？前仆後繼地對大海發起自殺式襲擊，我只能挨個挨個地拉回來，已經這樣折騰一下午了。
     order: 88
     class_id: 77
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 7302
@@ -7678,6 +7689,7 @@
     illustrator_cv: 人力,大西沙織,
     order: 99
     class_id: 84
+    skin_source: 3
   }
   {
     id: 8001
@@ -7760,6 +7772,7 @@
     illustrator_cv: YoYo,筏井かなえ,
     order: 100
     class_id: 85
+    skin_source: 3
   }
   {
     id: 8101
@@ -7827,6 +7840,7 @@
     illustrator_cv: 小星,雨宮天,
     order: 103
     class_id: 86
+    skin_source: 3
   }
   {
     id: 8108
@@ -7986,6 +8000,7 @@
     illustrator_cv: skin-40008309
     order: 108
     class_id: 88
+    skin_source: 3
   }
   {
     id: 8401
@@ -8082,7 +8097,7 @@
     dialog: 海浪聲太過刺耳，山中清泉的叮咚聲卻能令我身心舒展……您也是出於同樣的理由才來到這裡的吧？看來我們品味相同呢。
     order: 113
     class_id: 90
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 8503
@@ -8092,7 +8107,7 @@
     dialog: 我在高處靜坐許久，發現一個奇怪的現象——只要看到夏日的陽光、沙灘和大海，人形似乎會變得莫名興奮……人類也會有同樣的感覺嗎，指揮官？
     order: 113
     class_id: 90
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 8504
@@ -8102,7 +8117,7 @@
     dialog: 海釣是追捕的遊戲，獵手與獵物只在一念之間。當凶悍的大魚被一條看似孤獨的「小魚」吸引時，它就註定會變成我的囊中之物。
     order: 113
     class_id: 90
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 8505
@@ -8112,7 +8127,7 @@
     dialog: 指揮官竟然沒有帶防曬物品嗎？唔，早知這樣我就多備一份了……那，請您快點坐到我身邊。這裡有樹影，還有我的遮陽帽！
     order: 113
     class_id: 90
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 8506
@@ -8122,7 +8137,7 @@
     dialog: 傳球比賽獲得冠軍的秘訣？很簡單呀！只要像這樣平躺下來，身體就會自動漂浮，然後雙手接球——咦咦咦？指揮官您怎麼沉了？！
     order: 113
     class_id: 90
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 8507
@@ -8261,6 +8276,7 @@
     illustrator_cv: ditto,白砂沙帆,
     order: 114
     class_id: 91
+    skin_source: 3
   }
   {
     id: 8701
@@ -9262,6 +9278,78 @@
     order: 139
     class_id: 105
     skin_source: 2
+  }
+  {
+    id: 10901
+    name: HS.50-深海獄使
+    fit_gun: 348
+    voice: 4
+    dialog: 聽說先以凶殘的方式將人囚禁起來，再施以微不足道的恩惠，可憐的人質便會不可自拔地愛上綁匪……那，您願意成為我的第一位囚徒嗎？
+    order: 141
+    class_id: 106
+    skin_source: 2
+  }
+  {
+    id: 10902
+    name: M1887-血色荊棘
+    fit_gun: 151
+    voice: 4
+    dialog: 在打我的地盤和長官的主意之前，最好先掂量掂量自己的實力。不想照做？那就怪不得我的利刃和槍口了。
+    illustrator_cv: 二花,生天目仁美,
+    order: 141
+    class_id: 106
+    skin_source: 1
+  }
+  {
+    id: 10903
+    name: SPAS-15-潘神的低語
+    fit_gun: 366
+    voice: 4
+    dialog: 比起乾脆利落地處決戰俘，果然還是慢慢消磨意志、目睹他們陷入絕望癲狂來得更美妙吧？指揮官，你也很中意我的提議對不對？
+    order: 141
+    class_id: 106
+    skin_source: 2
+  }
+  {
+    id: 10904
+    name: SR-2-蝰鱗之吻
+    fit_gun: 347
+    voice: 4
+    dialog: 我聽見了——是撕咬、掙扎、咀嚼和破裂交織而成的美妙聲響！唉，多麼乏味的捕獵生活……何時才會遇見有趣的傢伙呢？
+    order: 141
+    class_id: 106
+    skin_source: 2
+  }
+  {
+    id: 10905
+    name: 維爾德MkⅡ-垂絲傀儡謠
+    fit_gun: 114
+    voice: 4
+    dialog: 芸芸眾生不過是被名為「命運」的絲線操縱的傀儡……而我，將成為那個斬斷絲線的反叛者。
+    gift_position: "-100.3,113.7"
+    order: 141
+    class_id: 106
+    skin_source: 1
+  }
+  {
+    id: 10906
+    name: ST AR-15-我，即混沌
+    fit_gun: 57
+    voice: 4
+    dialog: 拆卸、肢解、陳列……下一步，你又想做什麼？如果錯以為秩序等同一切，那我會讓你意識到每片金屬都足以掀起風暴。
+    order: 141
+    class_id: 106
+    skin_source: 2
+  }
+  {
+    id: 10907
+    name: C14-幽冥曼姝
+    fit_gun: 308
+    voice: 4
+    dialog: 我為你帶來了盛放於冥府之路的艷麗花卉，有了她們的陪伴，你上路的時候就不再是孤寂一人……準備好了嗎？我要動手囉~
+    gift_position: "-278.9,-38.6"
+    order: 141
+    class_id: 106
   }
   {
     id: 30001
