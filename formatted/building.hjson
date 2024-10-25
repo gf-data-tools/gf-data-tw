@@ -52027,7 +52027,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 【標記】兔子
+    name: 【標記】兔子_己方梯隊掛Buff
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -52157,12 +52157,55 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
+    name: building-19720407
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "1000100"
+    type: 5
+    is_focus: "-1,0"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: building-49720407
+    des: building-29720407
+    confront_des: building-39720407
+  }
+  {
+    id: 9720408
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
     name: 【標記】兔子_收集點
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
     battle_assist_range: "0,0"
-    inherent_mission_skill: "9720402,1000100"
+    inherent_mission_skill: "1000100,9720422"
+    type: 5
+    is_focus: "-1,0"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+  }
+  {
+    id: 9720409
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 【標記】兔子_NPC掛buff
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "9720402"
     type: 5
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
@@ -52632,7 +52675,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 【標記】兔子
+    name: building-19722701
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -52642,6 +52685,9 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
+    active_building_info: building-49722701
+    des: building-29722701
+    confront_des: building-39722701
   }
   {
     id: 43130001

@@ -17968,6 +17968,16 @@
     item_ids: 2556-1
   }
   {
+    id: 4327
+    name: 融合勢力：格雷
+    sangvis: "1027"
+  }
+  {
+    id: 4328
+    name: 頭像：格雷頭像
+    item_ids: 2582-1
+  }
+  {
     id: 5001
     name: 咖啡廳PV獎勵-魔方行動
     furniture: "2004"
@@ -40162,12 +40172,12 @@
   }
   {
     id: 17762
-    name: 凋亡序曲-任務獎勵
+    name: 1-凋亡序曲-任務獎勵
     core: 5
   }
   {
     id: 17763
-    name: 骷髏一般的秘密-任務獎勵
+    name: 2-骷髏一般的秘密-任務獎勵
     mp: 500
     ammo: 500
     mre: 500
@@ -40175,22 +40185,22 @@
   }
   {
     id: 17764
-    name: 忿怒之果-任務獎勵
+    name: 3-忿怒之果-任務獎勵
     item_ids: 46-50
   }
   {
     id: 17765
-    name: 握緊暴風雨的響聲-任務獎勵
+    name: 4-握緊暴風雨的響聲-任務獎勵
     coins: 1-300
   }
   {
     id: 17766
-    name: 碧綠色的寂靜-任務獎勵
+    name: 5-碧綠色的寂靜-任務獎勵
     core: 5
   }
   {
     id: 17767
-    name: 時間廢墟-任務獎勵
+    name: 6-時間廢墟-任務獎勵
     mp: 500
     ammo: 500
     mre: 500
@@ -40198,22 +40208,22 @@
   }
   {
     id: 17768
-    name: 黑房間-任務獎勵
+    name: 7-黑房間-任務獎勵
     item_ids: 9-50
   }
   {
     id: 17769
-    name: 聚攏潰敗的生命-任務獎勵
+    name: 8-聚攏潰敗的生命-任務獎勵
     coins: 2-300
   }
   {
     id: 17770
-    name: 夜的肉體擱淺在歧路-任務獎勵
+    name: 9-夜的肉體擱淺在歧路-任務獎勵
     core: 5
   }
   {
     id: 17771
-    name: 荒野在我身邊醒來-任務獎勵
+    name: 10-荒野在我身邊醒來-任務獎勵
     mp: 500
     ammo: 500
     mre: 500
@@ -40221,27 +40231,27 @@
   }
   {
     id: 17772
-    name: 橡樹在林中倒下-任務獎勵
+    name: 11-橡樹在林中倒下-任務獎勵
     coins: 3-300
   }
   {
     id: 17773
-    name: 死亡王國的火-任務獎勵
+    name: 12-死亡王國的火-任務獎勵
     item_ids: 44-50
   }
   {
     id: 17774
-    name: 被蒼白撲打-任務獎勵
+    name: 13-被蒼白撲打-任務獎勵
     sangvis: "1027"
   }
   {
     id: 17775
-    name: 刀子的最後一扭-任務獎勵
+    name: 14-刀子的最後一扭-任務獎勵
     item_ids: 45-100
   }
   {
     id: 17776
-    name: 迷路的血跡-任務獎勵
+    name: 15-迷路的血跡-任務獎勵
     mp: 500
     ammo: 500
     mre: 500
@@ -40249,22 +40259,22 @@
   }
   {
     id: 17777
-    name: 驅趕到邊緣的鹿-任務獎勵
+    name: 16-驅趕到邊緣的鹿-任務獎勵
     item_ids: 51-2
   }
   {
     id: 17778
-    name: 她在時間的盡頭-任務獎勵
+    name: 17-她在時間的盡頭-任務獎勵
     item_ids: 2580-1
   }
   {
     id: 17779
-    name: 生者保守秘密-任務獎勵
+    name: 18-生者保守秘密-任務獎勵
     item_ids: 2577-1
   }
   {
     id: 17780
-    name: 世界一片寂靜-任務獎勵
+    name: 19-世界一片寂靜-任務獎勵
     item_ids: 142-1
     furniture: "20152"
   }
@@ -40316,27 +40326,27 @@
   }
   {
     id: 17787
-    name: 握緊暴風雨的響聲EX-任務獎勵
+    name: 4-握緊暴風雨的響聲EX-任務獎勵
     item_ids: 506-100
   }
   {
     id: 17788
-    name: 聚攏潰敗的生命EX-任務獎勵
+    name: 8-聚攏潰敗的生命EX-任務獎勵
     gift: 200001-100
   }
   {
     id: 17789
-    name: 橡樹在林中倒下EX-任務獎勵
+    name: 11-橡樹在林中倒下EX-任務獎勵
     item_ids: 9-50
   }
   {
     id: 17790
-    name: 刀子的最後一扭EX-任務獎勵
+    name: 14-刀子的最後一扭EX-任務獎勵
     item_ids: 51-2
   }
   {
     id: 17791
-    name: 驅趕到邊緣的鹿EX-任務獎勵
+    name: 16-驅趕到邊緣的鹿EX-任務獎勵
     item_ids: 100244-1
   }
   {
@@ -49999,6 +50009,194 @@
     gift: 200001-500
     icon: Bumdle_yellow
     fairy_ids: 29-0
+  }
+  {
+    id: 40749
+    name: 階段獎勵I
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gift: 200001-100
+    coins: 1-100,2-100
+    icon: Bumdle_black
+  }
+  {
+    id: 40750
+    name: 階段獎勵II
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gem: 50
+    gift: 200001-100
+    coins: 1-200,2-200
+    icon: Bumdle_blue
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 40751
+    name: 階段獎勵III
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gift: 200001-200
+    coins: 2-200,3-100
+    icon: Bumdle_brown
+  }
+  {
+    id: 40752
+    name: 階段獎勵IV
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gem: 50
+    gift: 200001-200,400001-200
+    equip_ids: "249"
+    coins: 3-200
+    icon: Bumdle_purple
+  }
+  {
+    id: 40753
+    name: 階段獎勵V
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    item_ids: 514-150,515-150
+    gift: 400001-200
+    icon: Bumdle_red
+  }
+  {
+    id: 40754
+    name: 階段獎勵VI
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    gem: 100
+    item_ids: 514-250,515-250,516-200
+    icon: Bumdle_ruby
+    commander_uniform: "3820"
+  }
+  {
+    id: 40755
+    name: 階段獎勵VII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    item_ids: 515-300,516-400
+    icon: Bumdle_white
+  }
+  {
+    id: 40756
+    name: 階段獎勵VIII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    gem: 100
+    item_ids: 45-500
+    gift: 200001-500
+    icon: Bumdle_yellow
+    fairy_ids: 30-0
+  }
+  {
+    id: 40757
+    name: 階段獎勵I
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gift: 200001-100
+    coins: 1-100,2-100
+    icon: Bumdle_black
+  }
+  {
+    id: 40758
+    name: 階段獎勵II
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gem: 50
+    gift: 200001-100
+    coins: 1-200,2-200
+    icon: Bumdle_blue
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 40759
+    name: 階段獎勵III
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gift: 200001-200
+    coins: 2-200,3-100
+    icon: Bumdle_brown
+  }
+  {
+    id: 40760
+    name: 階段獎勵IV
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gem: 50
+    gift: 200001-200,400001-200
+    equip_ids: "271"
+    coins: 3-200
+    icon: Bumdle_purple
+  }
+  {
+    id: 40761
+    name: 階段獎勵V
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    item_ids: 514-150,515-150
+    gift: 400001-200
+    icon: Bumdle_red
+  }
+  {
+    id: 40762
+    name: 階段獎勵VI
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    gem: 100
+    item_ids: 514-250,515-250,516-200
+    icon: Bumdle_ruby
+    commander_uniform: "4310"
+  }
+  {
+    id: 40763
+    name: 階段獎勵VII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    item_ids: 515-300,516-400
+    icon: Bumdle_white
+  }
+  {
+    id: 40764
+    name: 階段獎勵VIII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    gem: 100
+    item_ids: 45-500
+    gift: 200001-500
+    icon: Bumdle_yellow
+    fairy_ids: 31-0
   }
   {
     id: 44001

@@ -7113,7 +7113,7 @@
     arguments: 9720404:3
     extra_language:
       '''
-      收集3個物資。
+      收集1個物資。
       ·需拾取並搬運至雷達點。
       '''
   }
@@ -7159,6 +7159,7 @@
     id: 9721601
     type: 1306
     arguments: 9721601:1
+    extra_language: 擊敗默莉朵。
   }
   {
     id: 9722501
@@ -7200,6 +7201,7 @@
     id: 9723001
     type: 1306
     arguments: 9723001:1
+    extra_language: 擊敗默莉朵。
   }
   {
     id: 58000101

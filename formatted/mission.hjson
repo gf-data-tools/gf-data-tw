@@ -36230,8 +36230,8 @@
   {
     id: 11002
     integration_switch: 1-1;4-40:80:160
-    campaign: -51
-    sub: 38
+    campaign: -40401
+    sub: 1
     if_emergency: -1
     name: 一維流形
     difficulty: 10000
@@ -36251,21 +36251,20 @@
     fog_length: "0,1000"
     fog_color: "#000000FF"
     drop_mission_key: "0,0,1100200:1;0,0,1100201:1"
-    mission_group_id: 21
+    mission_group_id: 404
     round_config: 1:1,2:4,3:3
     limit_squad: 2
     win_type: 1100201|1100202
     difficulty_recommend: "10000,75;0,0;0,0;0,0;0,0"
     limit_sangvis: 6
     event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510017:10000;6510018:10000,,8000,20000,10000,5000
-    score_prize: 1-0|110100:1
     recommended_team_ids: "2,1"
   }
   {
     id: 11003
     integration_switch: 1-1;4-40:80:160
-    campaign: -51
-    sub: 39
+    campaign: -40401
+    sub: 2
     if_emergency: -1
     name: 二維環面-1
     difficulty: 20000
@@ -36285,21 +36284,21 @@
     fog_length: "0,1000"
     fog_color: "#000000FF"
     drop_mission_key: "0,0,1100300:1;0,0,1100301:1;0,0,1100302:1;0,0,1100303:1"
-    mission_group_id: 21
+    mission_group_id: 404
+    open_mission_keys: 1100200:1
     round_config: 1:1,2:4,3:3
     limit_squad: 3
     win_type: 1100304|1100301|1100302|1100303
     difficulty_recommend: "20000,95;0,0;0,0;0,0;0,0"
     limit_sangvis: -1
     event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510023:10000;6510024:10000,,8000,20000,10000,5000
-    score_prize: 1-0|110100:1
     recommended_team_ids: "6,2,1"
   }
   {
     id: 11004
     integration_switch: 1-1;4-40:80:160
-    campaign: -51
-    sub: 40
+    campaign: -40401
+    sub: 3
     if_emergency: -1
     name: 二維環面-2
     difficulty: 20000
@@ -36320,22 +36319,22 @@
     fog_color: "#000000FF"
     expect_hostage_num: "3,3"
     drop_mission_key: "0,0,1100400:1;0,0,1100401:1"
-    mission_group_id: 21
+    mission_group_id: 404
+    open_mission_keys: 1100201:1
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     win_type: 1100401|1100402
     difficulty_recommend: "20000,95;0,0;0,0;0,0;0,0"
     limit_sangvis: 6
     event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510023:10000;6510024:10000,,8000,20000,10000,5000
-    score_prize: 1-0|110100:1
     recommended_team_ids: "6,2,1"
     limit_vehicle: -1
   }
   {
     id: 11005
     integration_switch: 1-1;4-40:80:160
-    campaign: -51
-    sub: 41
+    campaign: -40401
+    sub: 4
     if_emergency: -1
     endless_mode: 1
     name: 三維流形G-1
@@ -36353,20 +36352,20 @@
     map_information: "10000,10000|10000,10000|0,0"
     fog_length: "0,1000"
     fog_color: "#000000FF"
-    mission_group_id: 21
+    mission_group_id: 404
+    open_mission_keys: 1100301:1
     round_config: 1:1,2:4,3:3
     limit_squad: 4
     difficulty_recommend: "34000,125;0,0;0,0;0,0;0,0"
     limit_sangvis: -1
     event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510026:10000;6510027:10000;6510028:10000;6510029:20000;6510030:20000;6510041:10000;6510042:10000;6510043:10000;6510044:20000;6510045:20000;6510046:2000;6510047:5000;6510048:3000;6510049:5000;6510050:10000;6510071:2000;6510072:3000;6510073:3000;6510074:5000;6510075:5000;6510087:10000,,8000,20000,10000,5000
-    score_prize: 1-0|110100:1
     recommended_team_ids: "4,5,2"
   }
   {
     id: 11006
     integration_switch: 1-1;4-40:80:160
-    campaign: -51
-    sub: 43
+    campaign: -40401
+    sub: 5
     if_emergency: -1
     endless_mode: 1
     name: 三維流形G-2
@@ -36384,20 +36383,20 @@
     map_information: "10000,10000|10000,10000|0,0"
     fog_length: "0,1000"
     fog_color: "#000000FF"
-    mission_group_id: 21
+    mission_group_id: 404
+    open_mission_keys: 1100302:1
     round_config: 1:1,2:4,3:3
     limit_squad: 4
     difficulty_recommend: "34000,125;0,0;0,0;0,0;0,0"
     limit_sangvis: -1
     event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510026:10000;6510027:10000;6510028:10000;6510029:20000;6510030:20000;6510041:10000;6510042:10000;6510043:10000;6510044:20000;6510045:20000;6510046:2000;6510047:5000;6510048:3000;6510049:5000;6510050:10000;6510071:2000;6510072:3000;6510073:3000;6510074:5000;6510075:5000;6510087:10000,,8000,20000,10000,5000
-    score_prize: 1-0|110100:1
     recommended_team_ids: "4,5,6"
   }
   {
     id: 11007
     integration_switch: 1-1;4-40:80:160
-    campaign: -51
-    sub: 44
+    campaign: -40401
+    sub: 6
     if_emergency: -1
     endless_mode: 1
     name: 三維流形G-3
@@ -36415,20 +36414,20 @@
     map_information: "10000,10000|10000,10000|0,0"
     fog_length: "0,1000"
     fog_color: "#000000FF"
-    mission_group_id: 21
+    mission_group_id: 404
+    open_mission_keys: 1100303:1
     round_config: 1:1,2:4,3:3
     limit_squad: 4
     difficulty_recommend: "34000,125;0,0;0,0;0,0;0,0"
     limit_sangvis: -1
     event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510026:10000;6510027:10000;6510028:10000;6510029:20000;6510030:20000;6510041:10000;6510042:10000;6510043:10000;6510044:20000;6510045:20000;6510046:2000;6510047:5000;6510048:3000;6510049:5000;6510050:10000;6510071:2000;6510072:3000;6510073:3000;6510074:5000;6510075:5000;6510087:10000,,8000,20000,10000,5000
-    score_prize: 1-0|110100:1
     recommended_team_ids: "6,2,1"
   }
   {
     id: 11008
     integration_switch: 1-1;4-40:80:160
-    campaign: -51
-    sub: 42
+    campaign: -40401
+    sub: 7
     if_emergency: -1
     endless_mode: 1
     name: 三維流形G-4
@@ -36446,20 +36445,20 @@
     map_information: "10000,10000|10000,10000|0,0"
     fog_length: "0,1000"
     fog_color: "#000000FF"
-    mission_group_id: 21
+    mission_group_id: 404
+    open_mission_keys: 1100300:1
     round_config: 1:1,2:4,3:3
     limit_squad: 4
     difficulty_recommend: "42000,145;0,0;0,0;0,0;0,0"
     limit_sangvis: -1
     event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510026:10000;6510027:10000;6510028:10000;6510029:20000;6510030:20000;6510041:10000;6510042:10000;6510043:10000;6510044:20000;6510045:20000;6510046:2000;6510047:5000;6510048:3000;6510049:5000;6510050:10000;6510071:2000;6510072:3000;6510073:3000;6510074:5000;6510075:5000;6510089:20000,,8000,20000,10000,5000
-    score_prize: 1-0|110100:1
     recommended_team_ids: "6,2,1"
   }
   {
     id: 11009
     integration_switch: 1-1;4-40:80:160
-    campaign: -51
-    sub: 45
+    campaign: -40401
+    sub: 8
     if_emergency: -1
     endless_mode: 1
     name: 三維流形S-1
@@ -36477,21 +36476,21 @@
     map_information: "10000,10000|-10000,-10000|0,0"
     fog_length: "0,1000"
     fog_color: "#000000FF"
-    mission_group_id: 21
+    mission_group_id: 404
+    open_mission_keys: 1100400:1
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "34000,125;0,0;0,0;0,0;0,0"
     limit_sangvis: 6
     event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000;6510023:1:10000;6510024:1:10000;6510025:1:10000,10,0,1000,5000,6510031:10000;6510032:10000;6510033:20000;6510034:10000;6510035:10000;6510036:10000;6510037:10000;6510038:20000;6510039:20000;6510040:20000;6510051:2000;6510052:4000;6510053:4000;6510054:4000;6510055:6000;6510056:6000;6510057:6000;6510065:2000;6510066:4000;6510067:6000;6510089:20000,,8000,20000,10000,5000
-    score_prize: 1-0|110100:1
     recommended_team_ids: "4,6,2"
     limit_vehicle: -1
   }
   {
     id: 11010
     integration_switch: 1-1;4-40:80:160
-    campaign: -51
-    sub: 46
+    campaign: -40401
+    sub: 9
     if_emergency: -1
     endless_mode: 1
     name: 三維流形S-2
@@ -36509,13 +36508,13 @@
     map_information: "10000,10000|-10000,-10000|0,0"
     fog_length: "0,1000"
     fog_color: "#000000FF"
-    mission_group_id: 21
+    mission_group_id: 404
+    open_mission_keys: 1100401:1
     round_config: 1:1,2:4,3:3
     limit_squad: 4
     difficulty_recommend: "42000,145;0,0;0,0;0,0;0,0"
     limit_sangvis: 8
     event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,2000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6510001:1:10000;6510002:1:10000,10,0,1000,5000,6510031:10000;6510032:10000;6510033:20000;6510034:10000;6510035:10000;6510036:10000;6510037:10000;6510038:20000;6510039:20000;6510040:20000;6510051:2000;6510052:4000;6510053:4000;6510054:4000;6510055:6000;6510056:6000;6510057:6000;6510065:2000;6510066:4000;6510067:6000;6510087:10000,,8000,20000,10000,5000
-    score_prize: 1-0|110100:1
     recommended_team_ids: "5,2,6"
   }
   {
@@ -54835,7 +54834,7 @@
     sub: 1
     if_emergency: -1
     special_type: 9
-    name: 凋亡序曲
+    name: 1-凋亡序曲
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -54859,7 +54858,7 @@
     sub: 2
     if_emergency: -1
     special_type: 9
-    name: 骷髏一般的秘密
+    name: 2-骷髏一般的秘密
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -54884,7 +54883,7 @@
     sub: 3
     if_emergency: -1
     special_type: 9
-    name: 忿怒之果
+    name: 3-忿怒之果
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -54908,7 +54907,7 @@
     campaign: -72
     sub: 4
     if_emergency: -1
-    name: 握緊暴風雨的響聲
+    name: 4-握緊暴風雨的響聲
     difficulty: 3500
     recommend_gun_level: 35
     exp_parameter: 28
@@ -54944,7 +54943,7 @@
     sub: 5
     if_emergency: -1
     special_type: 9
-    name: 碧綠色的寂靜
+    name: 5-碧綠色的寂靜
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -54969,7 +54968,7 @@
     sub: 6
     if_emergency: -1
     special_type: 9
-    name: 時間廢墟
+    name: 6-時間廢墟
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -54994,7 +54993,7 @@
     sub: 7
     if_emergency: -1
     special_type: 9
-    name: 黑房間
+    name: 7-黑房間
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -55018,7 +55017,7 @@
     campaign: -72
     sub: 8
     if_emergency: -1
-    name: 聚攏潰敗的生命
+    name: 8-聚攏潰敗的生命
     difficulty: 5000
     recommend_gun_level: 50
     exp_parameter: 32
@@ -55049,7 +55048,7 @@
     sub: 9
     if_emergency: -1
     special_type: 9
-    name: 夜的肉體擱淺在歧路
+    name: 9-夜的肉體擱淺在歧路
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -55074,7 +55073,7 @@
     sub: 10
     if_emergency: -1
     special_type: 9
-    name: 荒野在我身邊醒來
+    name: 10-荒野在我身邊醒來
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -55098,7 +55097,7 @@
     campaign: -72
     sub: 11
     if_emergency: -1
-    name: 橡樹在林中倒下
+    name: 11-橡樹在林中倒下
     difficulty: 7000
     recommend_gun_level: 65
     exp_parameter: 36
@@ -55129,7 +55128,7 @@
     sub: 12
     if_emergency: -1
     special_type: 9
-    name: 死亡王國的火
+    name: 12-死亡王國的火
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -55154,7 +55153,7 @@
     sub: 13
     if_emergency: -1
     special_type: 9
-    name: 被蒼白撲打
+    name: 13-被蒼白撲打
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -55178,7 +55177,7 @@
     campaign: -72
     sub: 14
     if_emergency: -1
-    name: 刀子的最後一扭
+    name: 14-刀子的最後一扭
     difficulty: 12000
     recommend_gun_level: 81
     exp_parameter: 42
@@ -55209,7 +55208,7 @@
     sub: 15
     if_emergency: -1
     special_type: 9
-    name: 迷路的血跡
+    name: 15-迷路的血跡
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -55233,7 +55232,7 @@
     campaign: -72
     sub: 16
     if_emergency: -1
-    name: 驅趕到邊緣的鹿
+    name: 16-驅趕到邊緣的鹿
     difficulty: 14000
     recommend_gun_level: 87
     exp_parameter: 44
@@ -55265,7 +55264,7 @@
     sub: 17
     if_emergency: -1
     special_type: 9
-    name: 她在時間的盡頭
+    name: 17-她在時間的盡頭
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -55290,7 +55289,7 @@
     sub: 18
     if_emergency: -1
     special_type: 9
-    name: 生者保守秘密
+    name: 18-生者保守秘密
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -55315,7 +55314,7 @@
     sub: 19
     if_emergency: -1
     special_type: 9
-    name: 世界一片寂靜
+    name: 19-世界一片寂靜
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -55494,7 +55493,7 @@
     campaign: -72
     sub: 26
     if_emergency: -1
-    name: 握緊暴風雨的響聲EX
+    name: 4-握緊暴風雨的響聲EX
     difficulty: 26000
     recommend_gun_level: 110
     exp_parameter: 51
@@ -55529,7 +55528,7 @@
     campaign: -72
     sub: 27
     if_emergency: -1
-    name: 聚攏潰敗的生命EX
+    name: 8-聚攏潰敗的生命EX
     difficulty: 30000
     recommend_gun_level: 120
     exp_parameter: 53
@@ -55559,7 +55558,7 @@
     campaign: -72
     sub: 28
     if_emergency: -1
-    name: 橡樹在林中倒下EX
+    name: 11-橡樹在林中倒下EX
     difficulty: 34000
     recommend_gun_level: 120
     exp_parameter: 55
@@ -55589,7 +55588,7 @@
     campaign: -72
     sub: 29
     if_emergency: -1
-    name: 刀子的最後一扭EX
+    name: 14-刀子的最後一扭EX
     difficulty: 38000
     recommend_gun_level: 120
     exp_parameter: 57
@@ -55619,7 +55618,7 @@
     campaign: -72
     sub: 30
     if_emergency: -1
-    name: 驅趕到邊緣的鹿EX
+    name: 16-驅趕到邊緣的鹿EX
     difficulty: 40000
     recommend_gun_level: 120
     exp_parameter: 58

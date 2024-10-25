@@ -23758,7 +23758,7 @@
     ai_content: 0;0;0
     enemy_panel_type: 1
     no_battle_damage: -1
-    sangvis: 9720031-8,9720032-18,9720033-138,9720034-7,9720035-9
+    sangvis: 9720031-8,9720032-18,9720033-13,9720034-7,9720035-9
   }
   {
     id: 9721601
@@ -23771,7 +23771,7 @@
     betray_number: "2"
     betray_result: "2"
     icon: Army
-    betray_result_enemy: "9723001"
+    betray_result_enemy: "9721601"
     enemy_panel_type: 1
     no_battle_damage: -1
   }
@@ -23909,7 +23909,7 @@
     ai_content: 0;0;0
     enemy_panel_type: 1
     no_battle_damage: -1
-    sangvis: 9720041-8,9720042-18,9720043-138,9720044-7,9720045-9,9720046-12,9720047-14
+    sangvis: 9720041-8,9720042-18,9720043-13,9720044-7,9720045-9,9720046-12,9720047-14
   }
   {
     id: 9723001

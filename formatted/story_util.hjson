@@ -13285,153 +13285,172 @@
   {
     id: 1348
     mission_id: "11762"
-    description: 劇情關1
+    description: 對人形的禁令並未能挽救動盪的局面，波詭雲譎的法蘭克福之下，更大的陰謀正在浮出水面。
     scripts: -72-A-2
     campaign: -72
+    title: 凋亡序曲
     start: -72-A-2
   }
   {
     id: 1349
     mission_id: "11763"
-    description: 劇情關2
+    description: 對於斯塔西而言，混亂就是上升的階梯。
     scripts: -72-A-4
     campaign: -72
+    title: 骷髏一般的秘密
     start: -72-A-4
   }
   {
     id: 1350
     mission_id: "11764"
-    description: 劇情關3
+    description: 棋手之間的博弈越發兇狠，而棋子也開始不再甘心於終將被放棄的命運。
     scripts: -72-A-6
     campaign: -72
+    title: 忿怒之果
     start: -72-A-6
   }
   {
     id: 1351
     mission_id: "11766"
-    description: 劇情關4
+    description: 當黑暗推開你們的窗時，記住，你們是來改變這個世界，而不是被這個世界改變的。
     scripts: -72-A-8
     campaign: -72
+    title: 碧綠色的寂靜
     start: -72-A-8
   }
   {
     id: 1352
     mission_id: "11767"
-    description: 劇情關5
+    description: 在迷茫和猜忌達到頂端時，指揮官決定再賭一把。
     scripts: -72-A-10
     campaign: -72
+    title: 時間廢墟
     start: -72-A-10
   }
   {
     id: 1353
     mission_id: "11768"
-    description: 劇情關6
+    description: 在美因茲大學的實驗室，阿瑪瑞絲見到了她的新搭檔。
     scripts: -72-A-12
     campaign: -72
+    title: 黑房間
     start: -72-A-12
   }
   {
     id: 1354
     mission_id: "11770"
-    description: 劇情關7
+    description: 一場交易在暗中進行，雙方都獲得了彼此想要的東西。
     scripts: -72-A-14
     campaign: -72
+    title: 夜的肉體擱淺在歧路
     start: -72-A-14
   }
   {
     id: 1355
     mission_id: "11771"
-    description: 劇情關8
+    description: 重新回到艾莫號，指揮官的心裡思緒萬千，但這只是一個開始。
     scripts: -72-A-16
     campaign: -72
+    title: 荒野在我身邊醒來
     start: -72-A-16
   }
   {
     id: 1356
     mission_id: "11773"
-    description: 劇情關9
+    description: 露尼西亞找回了部分過去的記憶，也喚醒了隱藏在黑暗中的血腥往事。
     scripts: -72-A-18
     campaign: -72
+    title: 死亡王國的火
     start: -72-A-18
   }
   {
     id: 1357
     mission_id: "11774"
-    description: 劇情關10
+    description: 背負著復仇使命從死亡王國中重回人間的她，來到了帕拉蒂斯面前。
     scripts: -72-A-20
     campaign: -72
+    title: 被蒼白撲打
     start: -72-A-20
   }
   {
     id: 1358
     mission_id: "11776"
-    description: 劇情關11
+    description: 在黑暗的地下隧道，默莉朵和曾經的仇人重逢。
     scripts: -72-A-22
     campaign: -72
+    title: 迷路的血跡
     start: -72-A-22
   }
   {
     id: 1359
     mission_id: "11778"
-    description: 劇情關12
+    description: 從馬卡洛夫中發射的子彈，歷經了漫長的歲月，完美擊中了目標。
     scripts: -72-A-24
     campaign: -72
+    title: 她在時間的盡頭
     start: -72-A-24
   }
   {
     id: 1360
     mission_id: "11779"
-    description: 劇情關13
+    description: 演出落幕，演員們也領到了各自的獎賞走下舞台。
     scripts: -72-A-26
     campaign: -72
+    title: 生者保守秘密
     start: -72-A-26
   }
   {
     id: 1361
     mission_id: "11780"
-    description: 劇情關14
+    description: 在寂靜的夜晚，天邊劃過一道道火光……
     scripts: -72-A-28
     campaign: -72
+    title: 世界一片寂靜
     start: -72-A-28
   }
   {
     id: 1362
     mission_id: "11781"
-    description: 檔案1
+    description: 媽媽已經什麼都沒有了，我想跟媽媽一起。
     scripts: -72-S-1
     campaign: -72
+    title: 未曾綻放的一生Ⅰ
     start: -72-S-1
   }
   {
     id: 1363
     mission_id: "11782"
-    description: 檔案2
+    description: 現在是紗那最快樂的時刻，因為她正走在去安娜姐姐家的路上。
     scripts: -72-S-2
     campaign: -72
+    title: 未曾綻放的一生Ⅱ
     start: -72-S-2
   }
   {
     id: 1364
     mission_id: "11783"
-    description: 檔案3
+    description: 對紗那來說，真正的路邊野餐遠比晦澀難懂的書籍有趣得多。
     scripts: -72-S-3
     campaign: -72
+    title: 未曾綻放的一生Ⅲ
     start: -72-S-3
   }
   {
     id: 1365
     mission_id: "11784"
-    description: 檔案4
+    description: 紗那虔誠地閉上眼，對著面前的蛋糕許下心願。
     scripts: -72-S-4
     campaign: -72
+    title: 未曾綻放的一生Ⅳ
     start: -72-S-4
   }
   {
     id: 1366
     mission_id: "11785"
-    description: 檔案5
+    description: 在那場災難後，一個蛋糕被永遠地遺忘在了冰櫃。
     scripts: -72-S-5
     campaign: -72
+    title: 未曾綻放的一生Ⅴ
     start: -72-S-5
   }
 ]

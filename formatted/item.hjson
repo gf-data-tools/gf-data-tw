@@ -15530,6 +15530,15 @@
     detail_introduction: item-30002581
   }
   {
+    id: 2582
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Mrsgray
+    item_name: 頭像：格雷頭像
+    introduction: 頭像：格雷頭像
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
