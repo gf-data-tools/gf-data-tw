@@ -16961,6 +16961,16 @@
     rank: 1
   }
   {
+    id: 10721
+    type: 18
+    arg: "10721"
+    code: daily_points
+    item_name: item-10010721
+    introduction: item-20010721
+    rank: 1
+    detail_introduction: item-30010721
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"
