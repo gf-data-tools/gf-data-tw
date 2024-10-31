@@ -561,6 +561,14 @@
     description: 常駐活動【熵減焓增】中救援獲得
   }
   {
+    obtain_id: "429"
+    description: 常駐活動【靜風點】中救援獲得
+  }
+  {
+    obtain_id: "430"
+    description: 常駐活動【縱向應變】中救援獲得
+  }
+  {
     obtain_id: "502"
     description: 常駐活動【有序紊流】中限時積分模式【颶風營救】獎勵
   }

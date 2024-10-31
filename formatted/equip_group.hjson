@@ -343,4 +343,22 @@
     group_skill: 2:1003103
     fit_gun: "20154"
   }
+  {
+    id: 39
+    name: 頭號玩家
+    des: 為RFB量身訂製的套裝，明明是為了戰鬥設計的，但怎麼又在打電動！
+    code: EgroupRFB
+    equip_unit: "169,0,422"
+    group_skill: 2:1003303
+    fit_gun: "172"
+  }
+  {
+    id: 40
+    name: 西部可樂
+    des: 為柯爾特左輪量身訂製的套裝，喝完可樂才有力量進行決鬥！
+    code: EgroupM1873
+    equip_unit: "122,423,0"
+    group_skill: 2:1003403
+    fit_gun: "20001"
+  }
 ]

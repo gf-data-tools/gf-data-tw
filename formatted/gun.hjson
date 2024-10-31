@@ -5423,7 +5423,6 @@
     type_equip3: 1;1,2,3,4,13
     ai: 59
     launch_time: 2018-02-08 00:00:00
-    obtain_ids: "212"
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10203
@@ -6830,7 +6829,6 @@
     type_equip3: 3;9,10
     ai: 73
     launch_time: 2018-05-16 00:00:00
-    obtain_ids: "207"
     rank_display: 5
     explore_tag: "9,14,46,51"
     org_id: 10402
@@ -8959,7 +8957,7 @@
     type_equip3: 3;10
     ai: 97
     launch_time: 2016-05-20 00:00:00
-    obtain_ids: "1,236"
+    obtain_ids: "1"
     rank_display: 5
     mindupdate_consume: 10:25,45:200,51:2;10:50,45:1200,51:3;10:75,45:2400,51:5
     explore_tag: "65,77"
@@ -9401,7 +9399,6 @@
     type_equip3: 1;1,2,3,4,13
     ai: 102
     launch_time: 2017-07-27 00:00:00
-    obtain_ids: "26"
     rank_display: 4
     explore_tag: "31"
     gun_detail_bg: nation_German
@@ -10071,7 +10068,7 @@
     type_equip3: 3;14,21
     ai: 109
     launch_time: 2016-05-20 00:00:00
-    obtain_ids: "1,3,2,236"
+    obtain_ids: "1,3,2"
     rank_display: 5
     explore_tag: "19,35,41"
     gun_detail_bg: nation_German
@@ -11016,7 +11013,6 @@
     type_equip3: 3;9,10
     ai: 119
     launch_time: 2016-08-11 00:00:00
-    obtain_ids: "202"
     rank_display: 5
     explore_tag: "41,51"
     gun_detail_bg: nation_Russia
@@ -11869,7 +11865,7 @@
     type_equip3: 3;15,23
     ai: 128
     launch_time: 2016-09-29 00:00:00
-    obtain_ids: "1,2,236"
+    obtain_ids: "1,2"
     rank_display: 5
     explore_tag: "41,53,58"
     gun_detail_bg: nation_China
@@ -13124,7 +13120,6 @@
     type_equip3: 3;10
     ai: 142
     launch_time: 2017-01-25 00:00:00
-    obtain_ids: "234"
     rank_display: 5
     explore_tag: "16,36,49,51,57,85"
     gun_detail_bg: nation_Belgium
@@ -13832,7 +13827,6 @@
     type_equip3: 1;1,2,3,4,22
     ai: 151
     launch_time: 2017-01-25 00:00:00
-    obtain_ids: "239"
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10202
@@ -15059,7 +15053,6 @@
     type_equip3: 3;10
     ai: 166
     launch_time: 2017-03-30 00:00:00
-    obtain_ids: "239"
     rank_display: 5
     explore_tag: "19,34"
     org_id: 10401
@@ -15781,7 +15774,6 @@
     type_equip3: 3;9,10
     ai: 175
     launch_time: 2017-06-01 00:00:00
-    obtain_ids: "234"
     rank_display: 5
     explore_tag: "8,11,30,52,81"
     org_id: 10203
@@ -16093,7 +16085,6 @@
     type_equip3: 3;15,23,20
     ai: 179
     launch_time: 2017-07-27 00:00:00
-    obtain_ids: "25"
     rank_display: 5
     explore_tag: "71"
     gun_detail_bg: nation_German
@@ -16648,7 +16639,7 @@
     type_equip3: 3;10
     ai: 186
     launch_time: 2017-09-21 00:00:00
-    obtain_ids: "1709,403"
+    obtain_ids: "403"
     rank_display: 3
     gun_detail_bg: nation_German
     org_id: 10703
@@ -17051,7 +17042,7 @@
     type_equip3: 1;1,2,3,4,13
     ai: 191
     launch_time: 2017-09-28 00:00:00
-    obtain_ids: "1710,403"
+    obtain_ids: "403"
     rank_display: 3
     explore_tag: "52"
     gun_detail_bg: nation_Italy
@@ -17124,7 +17115,6 @@
     type_equip3: 3;15,23
     ai: 192
     launch_time: 2017-09-28 00:00:00
-    obtain_ids: "301,234"
     rank_display: 5
     explore_tag: "15,29,53,68,79"
     gun_detail_bg: nation_China
@@ -17201,7 +17191,7 @@
     type_equip3: 3;9,10
     ai: 193
     launch_time: 2017-11-01 00:00:00
-    obtain_ids: "1711,403"
+    obtain_ids: "403"
     rank_display: 3
     explore_tag: "53"
     org_id: 10704
@@ -17362,7 +17352,7 @@
     type_equip3: 3;14,21
     ai: 195
     launch_time: 2017-12-21 00:00:00
-    obtain_ids: "1712,403"
+    obtain_ids: "403"
     rank_display: 3
     explore_tag: "8"
     gun_detail_bg: nation_German
@@ -18026,7 +18016,6 @@
     type_equip3: 1;1,2,3,4,13
     ai: 203
     launch_time: 2018-02-08 00:00:00
-    obtain_ids: "204,234"
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10703
@@ -18123,7 +18112,6 @@
     type_equip3: 3;15
     ai: 204
     launch_time: 2018-02-08 00:00:00
-    obtain_ids: "205"
     rank_display: 5
     gun_detail_bg: nation_Belgium
     org_id: 10202
@@ -18400,7 +18388,6 @@
     type_equip3: 3;9,10
     ai: 207
     launch_time: 2018-02-08 00:00:00
-    obtain_ids: "204"
     rank_display: 4
     org_id: 10703
     related_story_id: 100207
@@ -18481,7 +18468,6 @@
     type_equip3: 3;14,21
     ai: 208
     launch_time: 2018-02-08 00:00:00
-    obtain_ids: "204"
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10501
@@ -18727,7 +18713,6 @@
     type_equip3: 3;15
     ai: 211
     launch_time: 2018-03-08 00:00:00
-    obtain_ids: "310"
     rank_display: 5
     explore_tag: "37"
     gun_detail_bg: nation_US
@@ -18894,7 +18879,7 @@
     type_equip3: 1;1,2,3,4,13
     ai: 213
     launch_time: 2018-03-22 00:00:00
-    obtain_ids: "1,2,241"
+    obtain_ids: "1,2"
     rank_display: 5
     explore_tag: "39"
     org_id: 10203
@@ -19531,7 +19516,6 @@
     type_equip3: 3;15,23
     ai: 222
     launch_time: 2018-06-11 00:00:00
-    obtain_ids: "209"
     rank_display: 5
     explore_tag: "1,81"
     gun_detail_bg: nation_US
@@ -19689,7 +19673,6 @@
     type_equip3: 1;1,2,3,4,13
     ai: 224
     launch_time: 2018-07-12 00:00:00
-    obtain_ids: "210"
     rank_display: 5
     explore_tag: "52"
     org_id: 10403
@@ -19775,7 +19758,6 @@
     type_equip3: 1;1,2,3,4,13
     ai: 225
     launch_time: 2017-12-07 00:00:00
-    obtain_ids: "212,239"
     rank_display: 4
     gun_detail_bg: nation_Italy
     org_id: 10301
@@ -20252,7 +20234,6 @@
     type_equip3: 3;15,23
     ai: 231
     launch_time: 2018-06-11 00:00:00
-    obtain_ids: "213"
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10402
@@ -20484,7 +20465,6 @@
     type_equip3: 1;1,2,3,4,13
     ai: 234
     launch_time: 2018-09-22 00:00:00
-    obtain_ids: "214"
     rank_display: 5
     explore_tag: "53,73"
     gun_detail_bg: nation_China
@@ -21647,7 +21627,6 @@
     type_equip3: 3;10,20
     ai: 96
     launch_time: 2018-11-29 00:00:00
-    obtain_ids: "217,234"
     rank_display: 5
     org_id: 10203
     related_story_id: 100250
@@ -21842,7 +21821,6 @@
     type_equip3: 3;15,23
     ai: 184
     launch_time: 2018-11-29 00:00:00
-    obtain_ids: "216,239"
     rank_display: 4
     mindupdate_consume: 10:20,45:200;10:40,45:1000;10:60,45:2000
     gun_detail_bg: nation_Russia
@@ -21924,7 +21902,6 @@
     type_equip3: 3;14,21
     ai: 238
     launch_time: 2018-11-29 00:00:00
-    obtain_ids: "216,239"
     rank_display: 5
     explore_tag: "51"
     gun_detail_bg: nation_US
@@ -22381,7 +22358,6 @@
     type_equip3: 1;1,2,3,4,13
     ai: 224
     launch_time: 2019-04-11 00:00:00
-    obtain_ids: "218"
     rank_display: 5
     org_id: 10203
     show_damage_skin: ",0,6201,"
@@ -22530,7 +22506,7 @@
     type_equip3: 3;15,23
     ai: 222
     launch_time: 2019-04-29 00:00:00
-    obtain_ids: "1,2,241"
+    obtain_ids: "1,2"
     rank_display: 5
     gun_detail_bg: nation_China
     org_id: 10203
@@ -22976,7 +22952,6 @@
     type_equip3: 3;15
     ai: 48
     launch_time: 2019-05-20 00:00:00
-    obtain_ids: "219"
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10201
@@ -23443,7 +23418,6 @@
     type_equip3: 3;10
     ai: 4
     launch_time: 2019-08-08 00:00:00
-    obtain_ids: "225,234"
     rank_display: 5
     org_id: 10803
     related_story_id: 100272
@@ -23500,7 +23474,7 @@
     effect_grid_pos: "18,19"
     effect_grid_effect: "6,15"
     type_equip1: 2;5
-    type_equip2: 1;1,2,3,13
+    type_equip2: 1;1,2,3,13,18
     type_equip3: 3;15
     ai: 48
     launch_time: 2019-08-08 00:00:00
@@ -23580,7 +23554,6 @@
     type_equip3: 3;9,10
     ai: 73
     launch_time: 2019-08-08 00:00:00
-    obtain_ids: "226"
     rank_display: 5
     explore_tag: "9,14,46,51"
     gun_detail_bg: nation_US
@@ -23653,7 +23626,6 @@
     type_equip3: 3;14,21
     ai: 238
     launch_time: 2019-08-08 00:00:00
-    obtain_ids: "225"
     rank_display: 4
     explore_tag: "51"
     gun_detail_bg: nation_US
@@ -24066,7 +24038,7 @@
     type_equip3: 1;1,2,3,4,22
     ai: 163
     launch_time: 2019-11-19 00:00:00
-    obtain_ids: "2,241"
+    obtain_ids: "2"
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10203
@@ -24131,7 +24103,7 @@
     type_equip3: 1;1,2,3,4,22
     ai: 164
     launch_time: 2019-11-19 00:00:00
-    obtain_ids: "2,236"
+    obtain_ids: "2"
     rank_display: 5
     mindupdate_consume: 10:25,45:200,51:2;10:50,45:1200,51:3;10:75,45:2400,51:5
     gun_detail_bg: nation_US
@@ -24452,7 +24424,7 @@
     type_equip3: 3;9,10
     ai: 73
     launch_time: 2019-12-26 00:00:00
-    obtain_ids: "1,2,236"
+    obtain_ids: "1,2"
     rank_display: 5
     org_id: 10403
     gun_tag_ids: "125,124"
@@ -24573,7 +24545,6 @@
     type_equip3: 3;9,10
     ai: 215
     launch_time: 2019-12-28 00:00:00
-    obtain_ids: "227"
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10803
@@ -24759,7 +24730,7 @@
     type_equip3: 3;14,21
     ai: 238
     launch_time: 2020-01-16 00:00:00
-    obtain_ids: "1,2,241"
+    obtain_ids: "1,2"
     rank_display: 5
     explore_tag: "44"
     gun_detail_bg: team_defy
@@ -24825,7 +24796,7 @@
     type_equip3: 3;9,10,20
     ai: 215
     launch_time: 2020-01-16 00:00:00
-    obtain_ids: "1,2,241"
+    obtain_ids: "1,2"
     rank_display: 5
     mindupdate_consume: 10:25,45:200,51:2;10:50,45:1200,51:3;10:75,45:2400,51:5
     gun_detail_bg: team_defy
@@ -24891,7 +24862,6 @@
     type_equip3: 3;10,20
     ai: 96
     launch_time: 2020-01-16 00:00:00
-    obtain_ids: "229"
     rank_display: 5
     org_id: 10201
     related_story_id: 100294
@@ -25013,7 +24983,6 @@
     type_equip3: 3;15
     ai: 222
     launch_time: 2020-01-16 00:00:00
-    obtain_ids: "230,239"
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10401
@@ -25937,7 +25906,6 @@
     type_equip3: 1;1,2,3,4,13
     ai: 224
     launch_time: 2020-07-23 00:00:00
-    obtain_ids: "312"
     rank_display: 5
     org_id: 10802
     show_damage_skin: ",5902,0,6703,7802,8501,"
@@ -26178,7 +26146,6 @@
     type_equip3: 1;1,2,3,4,13
     ai: 224
     launch_time: 2020-08-20 00:00:00
-    obtain_ids: "236,239"
     rank_display: 5
     org_id: 10303
     related_story_id: 100315
@@ -26370,7 +26337,6 @@
     type_equip3: 3;9,10
     ai: 73
     launch_time: 2020-08-20 00:00:00
-    obtain_ids: "235"
     rank_display: 5
     org_id: 10403
     related_story_id: 100318
@@ -26433,7 +26399,6 @@
     type_equip3: 3;14,21
     ai: 238
     launch_time: 2020-08-20 00:00:00
-    obtain_ids: "235"
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10402
@@ -27178,7 +27143,6 @@
     type_equip3: 3;10
     ai: 96
     launch_time: 2021-02-04 00:00:00
-    obtain_ids: "240"
     rank_display: 5
     org_id: 10401
     related_story_id: 100331
@@ -27297,7 +27261,6 @@
     type_equip3: 1;1,2,3,4,13
     ai: 224
     launch_time: 2021-02-04 00:00:00
-    obtain_ids: "241"
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10201
@@ -27430,7 +27393,6 @@
     type_equip3: 3;9,10
     ai: 48
     launch_time: 2021-02-04 00:00:00
-    obtain_ids: "240"
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10202
@@ -27753,7 +27715,6 @@
     type_equip3: 3;9,10
     ai: 48
     launch_time: 2021-04-22 00:00:00
-    obtain_ids: "313"
     rank_display: 5
     gun_detail_bg: nation_Russia
     org_id: 10402
@@ -27811,7 +27772,6 @@
     type_equip3: 1;1,2,3,4,13
     ai: 150
     launch_time: 2021-08-26 00:00:00
-    obtain_ids: "247"
     rank_display: 5
     org_id: 10202
     related_story_id: 100341
@@ -27939,7 +27899,6 @@
     type_equip3: 3;9,10
     ai: 48
     launch_time: 2021-08-26 00:00:00
-    obtain_ids: "246"
     rank_display: 4
     org_id: 10402
     related_story_id: 100343
@@ -28066,7 +28025,6 @@
     type_equip3: 3;14,21
     ai: 238
     launch_time: 2021-08-26 00:00:00
-    obtain_ids: "246"
     rank_display: 5
     org_id: 10202
     related_story_id: 100345
@@ -28826,7 +28784,6 @@
     type_equip3: 3;10
     ai: 4
     launch_time: 2022-01-13 00:00:00
-    obtain_ids: "250"
     rank_display: 5
     gun_detail_bg: nation_Italy
     org_id: 10203
@@ -28891,7 +28848,7 @@
     type_equip3: 3;10
     ai: 212
     launch_time: 2022-01-13 00:00:00
-    obtain_ids: "248"
+    obtain_ids: "429"
     rank_display: 4
     gun_detail_bg: nation_German
     org_id: 10202
@@ -28956,7 +28913,7 @@
     type_equip3: 1;1,2,3,4,13
     ai: 150
     launch_time: 2022-01-13 00:00:00
-    obtain_ids: "248"
+    obtain_ids: "429"
     rank_display: 5
     org_id: 10402
     related_story_id: 100359
@@ -29015,7 +28972,6 @@
     type_equip3: 3;15
     ai: 241
     launch_time: 2022-01-13 00:00:00
-    obtain_ids: "249"
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10802
@@ -29078,7 +29034,6 @@
     type_equip3: 3;9,10
     ai: 48
     launch_time: 2022-01-13 00:00:00
-    obtain_ids: "249"
     rank_display: 5
     gun_detail_bg: nation_China
     org_id: 10402
@@ -29144,7 +29099,7 @@
     type_equip3: 3;14,21
     ai: 238
     launch_time: 2022-01-13 00:00:00
-    obtain_ids: "248"
+    obtain_ids: "429"
     rank_display: 4
     org_id: 10403
     related_story_id: 100362
@@ -29584,7 +29539,6 @@
     type_equip3: 3;10
     ai: 4
     launch_time: 2022-09-06 00:00:00
-    obtain_ids: "252"
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10703
@@ -29644,7 +29598,6 @@
     type_equip3: 3;10
     ai: 212
     launch_time: 2022-09-06 00:00:00
-    obtain_ids: "252"
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10402
@@ -29710,7 +29663,7 @@
     type_equip3: 3;15
     ai: 241
     launch_time: 2022-09-06 00:00:00
-    obtain_ids: "251"
+    obtain_ids: "430"
     rank_display: 4
     gun_detail_bg: nation_Russia
     org_id: 10302
@@ -29776,7 +29729,6 @@
     type_equip3: 3;9,10
     ai: 372
     launch_time: 2022-09-06 00:00:00
-    obtain_ids: "253"
     rank_display: 5
     gun_detail_bg: nation_US
     org_id: 10202
@@ -29835,7 +29787,7 @@
     type_equip3: 3;9,10
     ai: 48
     launch_time: 2022-09-06 00:00:00
-    obtain_ids: "251"
+    obtain_ids: "430"
     rank_display: 4
     gun_detail_bg: nation_US
     org_id: 10802
@@ -29906,7 +29858,7 @@
     type_equip3: 3;14,21
     ai: 238
     launch_time: 2022-09-06 00:00:00
-    obtain_ids: "251"
+    obtain_ids: "430"
     rank_display: 5
     gun_detail_bg: nation_Belgium
     org_id: 10402
@@ -31521,7 +31473,6 @@
     type_equip3: 3;10
     ai: 96
     launch_time: 2024-02-06 00:00:00
-    obtain_ids: "320"
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10402
@@ -32099,7 +32050,6 @@
     ai: 1009
     is_additional: 1
     launch_time: 2018-03-22 00:00:00
-    obtain_ids: "206"
     rank_display: 7
     gun_detail_bg: collab
     show_damage_skin: ",0,509,"
@@ -32147,7 +32097,6 @@
     ai: 1010
     is_additional: 1
     launch_time: 2018-03-22 00:00:00
-    obtain_ids: "306"
     rank_display: 7
     gun_detail_bg: collab
     show_damage_skin: ",0,510,"

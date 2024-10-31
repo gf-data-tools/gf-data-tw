@@ -16364,7 +16364,6 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "-1"
     cd_time_type: 1
     start_range: 100
     is_airborne: 2
@@ -16379,7 +16378,6 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "-1"
     cd_time_type: 1
     start_range: 100
     is_airborne: 2
@@ -16394,7 +16392,6 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
-    spot_echelon: "-1"
     cd_time_type: 1
     start_range: 100
     is_airborne: 2
@@ -49263,7 +49260,7 @@
     spot_echelon: "4,5,6"
     cd_time_type: 1
     start_range: 3
-    trigger_id: "651002101"
+    trigger_id: 651002101&&1
     special_spot_add: 6510041:1
     subsidiary_mission_skill: "6510058"
     is_manual: 6510012
@@ -49284,7 +49281,7 @@
     spot_echelon: "4,5,6"
     cd_time_type: 1
     start_range: 4
-    trigger_id: "651002201"
+    trigger_id: 651002201&&1
     special_spot_add: 6510042:1
     mission_buff_add: 6510001:1
     subsidiary_mission_skill: "6510059"
@@ -49306,7 +49303,7 @@
     spot_echelon: "4,5,6"
     cd_time_type: 1
     start_range: 4
-    trigger_id: "651002301"
+    trigger_id: 651002301&&1
     special_spot_add: 6510043:1
     subsidiary_mission_skill: "6510060"
     is_manual: 6510014
@@ -49327,7 +49324,7 @@
     spot_echelon: "4,5,6"
     cd_time_type: 1
     start_range: 5
-    trigger_id: "651002401"
+    trigger_id: 651002401&&1
     special_spot_add: 6510044:1
     mission_buff_add: 6510001:1
     subsidiary_mission_skill: "6510061"
@@ -49349,7 +49346,7 @@
     spot_echelon: "4,5,6"
     cd_time_type: 1
     start_range: 5
-    trigger_id: "651002501"
+    trigger_id: 651002501&&1
     special_spot_add: 6510045:1
     subsidiary_mission_skill: "6510062"
     is_manual: 6510016
@@ -49581,7 +49578,7 @@
     spot_echelon: "8"
     cd_time_type: 1
     start_range: 3
-    trigger_id: "651002601"
+    trigger_id: 651002601&&1
     mission_buff_add: 6510002:1
     subsidiary_mission_skill: "6510068,6510194"
     is_manual: 6510024
@@ -49598,7 +49595,7 @@
     spot_echelon: "8"
     cd_time_type: 1
     start_range: 4
-    trigger_id: "651002701"
+    trigger_id: 651002701&&1
     mission_buff_add: 6510003:1
     subsidiary_mission_skill: "6510069,6510195"
     is_manual: 6510025
@@ -49615,7 +49612,7 @@
     spot_echelon: "8"
     cd_time_type: 1
     start_range: 5
-    trigger_id: "651002801"
+    trigger_id: 651002801&&1
     mission_buff_add: 6510004:1
     subsidiary_mission_skill: "6510070,6510196"
     is_manual: 6510026
@@ -49674,7 +49671,7 @@
     spot_echelon: "1,2,3,301,10,305,304,302,303,8"
     cd_time_type: 1
     start_range: 3
-    trigger_id: "651003601"
+    trigger_id: 651003601&&1
     mission_buff_add: 6510005:1
     subsidiary_mission_skill: "6510076"
     is_manual: 6510027
@@ -49691,7 +49688,7 @@
     spot_echelon: "1,2,3,301,10,305,304,302,303,8"
     cd_time_type: 1
     start_range: 4
-    trigger_id: "651003701"
+    trigger_id: 651003701&&1
     mission_buff_add: 6510006:1
     subsidiary_mission_skill: "6510077"
     is_manual: 6510028
@@ -49708,7 +49705,7 @@
     spot_echelon: "1,2,3,301,10,305,304,302,303,8"
     cd_time_type: 1
     start_range: 4
-    trigger_id: "651003801"
+    trigger_id: 651003801&&1
     mission_buff_add: 6510008:1
     subsidiary_mission_skill: "6510078"
     is_manual: 6510029
@@ -49725,7 +49722,7 @@
     spot_echelon: "1,2,3,301,10,305,304,302,303,8"
     cd_time_type: 1
     start_range: 5
-    trigger_id: "651003901"
+    trigger_id: 651003901&&1
     mission_buff_add: 6510007:1
     subsidiary_mission_skill: "6510079"
     is_manual: 6510030
@@ -49742,7 +49739,7 @@
     spot_echelon: "1,2,3,301,10,305,304,302,303,8"
     cd_time_type: 1
     start_range: 5
-    trigger_id: "651004001"
+    trigger_id: 651004001&&1
     mission_buff_add: 6510009:1
     subsidiary_mission_skill: "6510080"
     is_manual: 6510031
@@ -50280,7 +50277,7 @@
     spot_echelon: "1,2,3,301,10,305,304,302,303,7,8"
     cd_time_type: 1
     start_range: 5
-    trigger_id: "651007301"
+    trigger_id: 651007301&&1
     special_spot_minus: 6510073:1
     mission_buff_add: 6510007:1
     subsidiary_mission_skill: "6510121"
@@ -50298,7 +50295,7 @@
     spot_echelon: "1,2,3,301,10,305,304,302,303,7,8"
     cd_time_type: 1
     start_range: 5
-    trigger_id: "651007401"
+    trigger_id: 651007401&&1
     special_spot_minus: 6510074:1
     mission_buff_add: 6510009:1
     subsidiary_mission_skill: "6510122"
@@ -50356,7 +50353,7 @@
     spot_echelon: "4,5,6"
     cd_time_type: 1
     start_range: 5
-    trigger_id: "651007501"
+    trigger_id: 651007501&&1
     special_spot_add: 6510079:1
     subsidiary_mission_skill: "6510117"
     is_manual: 6510039
@@ -50387,7 +50384,7 @@
     spot_echelon: "1,2,3,301,10,305,304,302,303,7,8"
     cd_time_type: 1
     start_range: 5
-    trigger_id: "651007601"
+    trigger_id: 651007601&&1
     mission_buff_add: 6510016:1
     subsidiary_mission_skill: "6510119"
     is_manual: 6510040
@@ -50418,7 +50415,7 @@
     spot_echelon: "1,2,3,301,10,305,304,302,303,7,8"
     cd_time_type: 1
     start_range: 5
-    trigger_id: "651007801"
+    trigger_id: 651007801&&1
     special_spot_minus: 6510078:1
     mission_buff_add: 6510007:1
     subsidiary_mission_skill: "6510123"
@@ -50482,7 +50479,7 @@
     spot_echelon: "4,5,6"
     cd_time_type: 1
     start_range: 5
-    trigger_id: "651007701"
+    trigger_id: 651007701&&1
     special_spot_add: 6510086:1
     subsidiary_mission_skill: "6510125"
     is_manual: 6510039
@@ -53580,7 +53577,7 @@
     skill_group_id: 6540102
     level: 1
     spot_type: "-1"
-    spot_belong: "-1"
+    spot_belong: "0,1,2,3"
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 99
@@ -53597,7 +53594,7 @@
     skill_group_id: 6540103
     level: 1
     spot_type: "-1"
-    spot_belong: "-1"
+    spot_belong: "0,1,2,3"
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 99
@@ -53614,7 +53611,7 @@
     skill_group_id: 6540104
     level: 1
     spot_type: "-1"
-    spot_belong: "-1"
+    spot_belong: "0,1,2,3"
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 99
