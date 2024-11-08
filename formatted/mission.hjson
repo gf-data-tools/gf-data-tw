@@ -48520,7 +48520,6 @@
     map_information: "15000,15000|15000,15000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1181"
     drop_mission_key: "0,0,1143600:1;0,0,1143600:1"
     mission_group_id: 28
     round_config: 1:1,2:4,3:3
@@ -48550,7 +48549,6 @@
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1181"
     drop_mission_key: "0,0,1143700:1"
     mission_group_id: 28
     open_mission_keys: 1143600:1
@@ -48577,13 +48575,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "343"
     limit_team: "0,2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1200"
     drop_mission_key: "0,0,1143800:1"
     mission_group_id: 28
     open_mission_keys: 1143700:1
@@ -48613,13 +48609,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "333"
     limit_team: "0,2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1203"
     drop_mission_key: "0,0,1143900:1"
     mission_group_id: 28
     open_mission_keys: 1143800:1;1144100:1
@@ -48648,13 +48642,11 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 14
-    limit_gun_pool: "317"
     limit_team: "0,*5"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#00000000"
-    draw_event_s_id: "1202"
     drop_mission_key: "0,0,1144000:1"
     mission_group_id: 28
     open_mission_keys: 1143900:1;1144200:1;1144400:1
@@ -48682,13 +48674,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "331"
     limit_team: "0,2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1201"
     drop_mission_key: "0,0,1144100:1"
     mission_group_id: 28
     open_mission_keys: 1143700:1
@@ -48716,13 +48706,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "343"
     limit_team: "0,2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1202"
     drop_mission_key: "0,0,1144200:1"
     mission_group_id: 28
     open_mission_keys: 1143800:1;1144100:1
@@ -48752,13 +48740,11 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 14
-    limit_gun_pool: "333"
     limit_team: "0,*5"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#00000000"
-    draw_event_s_id: "1203"
     drop_mission_key: "0,0,1144300:1"
     mission_group_id: 28
     open_mission_keys: 1143900:1;1144200:1;1144400:1
@@ -48786,13 +48772,11 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 14
-    limit_gun_pool: "317"
     limit_team: "0,*2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#00000000"
-    draw_event_s_id: "1202"
     drop_mission_key: "0,0,1144400:1"
     mission_group_id: 28
     open_mission_keys: 1143800:1;1144100:1
@@ -48821,13 +48805,11 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 6
-    limit_gun_pool: "331"
     limit_team: "0,3"
     map_res_name: OPS67_Y
     map_information: "15000,15000|15000,15000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1190"
     drop_mission_key: "0,0,1144500:1|1144501:1;0,0,1144500:1|1144502:1;0,0,1144500:1|1144503:1"
     mission_group_id: 28
     open_mission_keys: 1144000:1;1144300:1
@@ -48838,7 +48820,7 @@
     difficulty_recommend: "20000,99;20000,99;0,0;0,0;0,0"
     win_step: "1144501"
     event_score: 1|10,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,610002:1000;610003:1000,0,0,0,0,0
-    score_prize: 1-0|9048:1
+    score_prize: 1-0|9049:1
     limit_vehicle: -1
   }
   {
@@ -48857,13 +48839,11 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "343,317"
     limit_team: "0,1"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1189"
     drop_mission_key: "0,0,1144600:1"
     mission_group_id: 28
     open_mission_keys: 1144000:1;1144300:1
@@ -48890,13 +48870,11 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "333,331"
     limit_team: "0,1"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1191"
     drop_mission_key: "0,0,1144700:1"
     mission_group_id: 28
     open_mission_keys: 1144000:1;1144300:1
@@ -49016,13 +48994,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "343"
     limit_team: "0,2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1187"
     drop_mission_key: "0,0,1143800:1"
     mission_group_id: 28
     open_mission_keys: 1143700:1
@@ -49052,13 +49028,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "333"
     limit_team: "0,2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1193"
     drop_mission_key: "0,0,1143900:1"
     mission_group_id: 28
     open_mission_keys: 1143800:1;1144100:1
@@ -49087,13 +49061,11 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 14
-    limit_gun_pool: "317"
     limit_team: "0,*5"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#00000000"
-    draw_event_s_id: "1192"
     drop_mission_key: "0,0,1144000:1"
     mission_group_id: 28
     open_mission_keys: 1143900:1;1144200:1;1144400:1
@@ -49121,13 +49093,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "331"
     limit_team: "0,2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1188"
     drop_mission_key: "0,0,1144100:1"
     mission_group_id: 28
     open_mission_keys: 1143700:1
@@ -49155,13 +49125,11 @@
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "343"
     limit_team: "0,2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1192"
     drop_mission_key: "0,0,1144200:1"
     mission_group_id: 28
     open_mission_keys: 1143800:1;1144100:1
@@ -49191,13 +49159,11 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 14
-    limit_gun_pool: "333"
     limit_team: "0,*5"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#00000000"
-    draw_event_s_id: "1193"
     drop_mission_key: "0,0,1144300:1"
     mission_group_id: 28
     open_mission_keys: 1143900:1;1144200:1;1144400:1
@@ -49225,13 +49191,11 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 14
-    limit_gun_pool: "317"
     limit_team: "0,*2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#00000000"
-    draw_event_s_id: "1192"
     drop_mission_key: "0,0,1144400:1"
     mission_group_id: 28
     open_mission_keys: 1143800:1;1144100:1
@@ -49260,13 +49224,11 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 6
-    limit_gun_pool: "331"
     limit_team: "0,3"
     map_res_name: OPS67_Y
     map_information: "15000,15000|15000,15000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1195"
     drop_mission_key: "0,0,1144500:1|1144501:1;0,0,1144500:1|1144502:1;0,0,1144500:1|1144503:1"
     mission_group_id: 28
     open_mission_keys: 1144000:1;1144300:1
@@ -49277,7 +49239,7 @@
     difficulty_recommend: "34000,99;34000,99;40,2;0,0;0,0"
     win_step: "1144501"
     event_score: 1|10,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,610002:2000;610003:2000,0,0,0,0,0
-    score_prize: 1-0|9048:1
+    score_prize: 1-0|9049:1
     limit_vehicle: -1
   }
   {
@@ -49296,13 +49258,11 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "343,317"
     limit_team: "0,1"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1194"
     drop_mission_key: "0,0,1144600:1"
     mission_group_id: 28
     open_mission_keys: 1144000:1;1144300:1
@@ -49329,13 +49289,11 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "333,331"
     limit_team: "0,1"
     map_res_name: OPS5_Y
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
-    draw_event_s_id: "1196"
     drop_mission_key: "0,0,1144700:1"
     mission_group_id: 28
     open_mission_keys: 1144000:1;1144300:1
@@ -55651,6 +55609,1114 @@
     round_config: 1:1,2:4,3:3
     mapped_mission_id: 72006
     win_type: "9722501"
+  }
+  {
+    id: 11801
+    integration_switch: 1-1;4-40:80:160
+    campaign: -73
+    sub: 2
+    if_emergency: -1
+    name: mission-10011801
+    difficulty: 3500
+    recommend_gun_level: 35
+    exp_parameter: 28
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "344"
+    limit_team: "0,2"
+    map_res_name: OPS306_Y
+    map_information: "5600,5600|5600,5600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "1273"
+    drop_mission_key: "0,0,1180100:1"
+    mission_group_id: 38
+    open_mission_keys: 1181200:1
+    mission_describe: mission-20011801
+    force_type: "1"
+    round_config: 1:1,2:30,3:44
+    limit_squad: -1
+    mapped_mission_id: 73001
+    win_type: "1180100"
+    medal_type_silver: "1180101"
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011801
+    mission_tip: mission-40011801
+    guide_cdn: mission-50011801
+  }
+  {
+    id: 11802
+    integration_switch: 1-1;4-40:80:160
+    campaign: -73
+    sub: 4
+    if_emergency: -1
+    name: mission-10011802
+    difficulty: 5500
+    recommend_gun_level: 55
+    exp_parameter: 33
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "207"
+    limit_team: "0,1"
+    map_res_name: OPS306_Y
+    map_information: "5600,5600|5600,5600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "1274"
+    drop_mission_key: "0,0,1180200:1"
+    mission_group_id: 38
+    open_mission_keys: 1181500:1
+    mission_describe: mission-20011802
+    force_type: "1"
+    round_config: 1:1,2:39,3:43
+    limit_squad: -1
+    mapped_mission_id: 73002
+    win_type: "1180201"
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011802
+    mission_tip: mission-40011802
+    guide_cdn: mission-50011802
+  }
+  {
+    id: 11803
+    integration_switch: 1-1;4-40:80:160
+    campaign: -73
+    sub: 6
+    if_emergency: -1
+    name: mission-10011803
+    difficulty: 10000
+    recommend_gun_level: 75
+    exp_parameter: 40
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "296"
+    limit_team: "0,3"
+    map_res_name: OPS307_Y
+    map_information: "16000,16000|8000,3000|-2000,200"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "1276"
+    drop_mission_key: "0,0,1180300:1"
+    mission_group_id: 38
+    open_mission_keys: 1181800:1
+    mission_describe: mission-20011803
+    round_config: 1:1,2:39,3:43
+    limit_squad: -1
+    mapped_mission_id: 73003
+    win_type: "1180301"
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011803
+    mission_tip: mission-40011803
+    guide_cdn: mission-50011803
+  }
+  {
+    id: 11804
+    integration_switch: 1-1;4-40:80:160
+    campaign: -73
+    sub: 8
+    if_emergency: -1
+    name: mission-10011804
+    difficulty: 14000
+    recommend_gun_level: 87
+    exp_parameter: 44
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "318"
+    limit_team: "0,3"
+    map_res_name: OPS307_Y
+    map_information: "16000,16000|8000,3000|-2000,200"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "1278"
+    drop_mission_key: "0,0,1180400:1"
+    mission_group_id: 38
+    open_mission_keys: 1182000:1
+    mission_describe: mission-20011804
+    round_config: 1:1,2:42,3:40
+    limit_squad: -1
+    mapped_mission_id: 73004
+    win_type: "1180201"
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011804
+    mission_tip: mission-40011804
+    guide_cdn: mission-50011804
+  }
+  {
+    id: 11805
+    integration_switch: 1-1;4-40:80:160
+    campaign: -73
+    sub: 3
+    if_emergency: -1
+    name: mission-10011805
+    difficulty: 20000
+    recommend_gun_level: 100
+    exp_parameter: 48
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "344"
+    limit_team: "0,2"
+    map_res_name: OPS308_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "1275"
+    drop_mission_key: "0,0,1180100:1"
+    mission_group_id: 38
+    open_mission_keys: 1181200:1
+    mission_describe: mission-20011805
+    force_type: "1"
+    round_config: 1:1,2:30,3:44
+    limit_squad: -1
+    mapped_mission_id: 73001
+    win_type: "1180100,1180501"
+    medal_type_silver: "1180101"
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011805
+    mission_tip: mission-40011805
+    lose_type: "1180502"
+    guide_cdn: mission-50011805
+  }
+  {
+    id: 11806
+    integration_switch: 1-1;4-40:80:160
+    campaign: -73
+    sub: 5
+    if_emergency: -1
+    name: mission-10011806
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS308_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "1284"
+    drop_mission_key: "0,0,1180200:1"
+    mission_group_id: 38
+    open_mission_keys: 1181500:1
+    mission_describe: mission-20011806
+    force_type: "1"
+    round_config: 1:1,2:39,3:43
+    limit_squad: -1
+    mapped_mission_id: 73002
+    win_type: "1180201"
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011806
+    mission_tip: mission-40011806
+    guide_cdn: mission-50011806
+  }
+  {
+    id: 11807
+    integration_switch: 1-1;4-40:80:160
+    campaign: -73
+    sub: 7
+    if_emergency: -1
+    name: mission-10011807
+    difficulty: 26000
+    recommend_gun_level: 110
+    exp_parameter: 51
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "296"
+    limit_team: "0,3"
+    map_res_name: OPS309_Y
+    map_information: "7200,7200|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "1279"
+    drop_mission_key: "0,0,1180300:1"
+    mission_group_id: 38
+    open_mission_keys: 1181800:1
+    mission_describe: mission-20011807
+    round_config: 1:1,2:39,3:43
+    limit_squad: -1
+    mapped_mission_id: 73003
+    win_type: "1180701"
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011807
+    mission_tip: mission-40011807
+    guide_cdn: mission-50011807
+  }
+  {
+    id: 11808
+    integration_switch: 1-1;4-40:80:160
+    campaign: -73
+    sub: 9
+    if_emergency: -1
+    name: mission-10011808
+    difficulty: 30000
+    recommend_gun_level: 120
+    exp_parameter: 53
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "318"
+    limit_team: "0,3"
+    map_res_name: OPS309_Y
+    map_information: "7200,7200|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "1280"
+    drop_mission_key: "0,0,1180400:1"
+    mission_group_id: 38
+    open_mission_keys: 1182000:1
+    mission_describe: mission-20011808
+    round_config: 1:1,2:42,3:40
+    limit_squad: -1
+    mapped_mission_id: 73004
+    win_type: "1180201"
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011808
+    mission_tip: mission-40011808
+    guide_cdn: mission-50011808
+  }
+  {
+    id: 11809
+    integration_switch: 1-1;4-40:80:160
+    campaign: -73
+    sub: 10
+    if_emergency: -1
+    name: mission-10011809
+    difficulty: 10000
+    recommend_gun_level: 75
+    exp_parameter: 40
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "344,207,296,318"
+    limit_team: "0,3"
+    map_res_name: OPS307_Y
+    map_information: "12000,12000|8000,4000|-1500,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "1277"
+    drop_mission_key: "0,0,1180900:1"
+    mission_group_id: 38
+    open_mission_keys: 1180100:1
+    mission_describe: mission-20011809
+    round_config: 1:1,2:39,3:43
+    limit_squad: -1
+    mapped_mission_id: 73005
+    win_type: "1180901"
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011809
+    mission_tip: mission-40011809
+    guide_cdn: mission-50011809
+  }
+  {
+    id: 11810
+    integration_switch: 1-1;4-40:80:160
+    campaign: -73
+    sub: 11
+    if_emergency: -1
+    name: mission-10011810
+    difficulty: 26000
+    recommend_gun_level: 110
+    exp_parameter: 51
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "344,207,296,318"
+    limit_team: "0,3"
+    map_res_name: OPS307_Y
+    map_information: "12000,12000|8000,4000|-1500,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "1281"
+    drop_mission_key: "0,0,1180900:1"
+    mission_group_id: 38
+    open_mission_keys: 1180100:1
+    mission_describe: mission-20011810
+    round_config: 1:1,2:39,3:43
+    limit_squad: -1
+    mapped_mission_id: 73005
+    win_type: "1180901"
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011810
+    mission_tip: mission-40011810
+    guide_cdn: mission-50011810
+  }
+  {
+    id: 11811
+    integration_switch: 1-1
+    campaign: -73
+    sub: 1
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011811
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1181100:1"
+    mission_group_id: 38
+    mission_describe: mission-20011811
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011811
+    mission_tip: mission-40011811
+    guide_cdn: mission-50011811
+  }
+  {
+    id: 11812
+    integration_switch: 1-1
+    campaign: -73
+    sub: 12
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011812
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1181200:1"
+    mission_group_id: 38
+    open_mission_keys: 1181100:1
+    mission_describe: mission-20011812
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011812
+    mission_tip: mission-40011812
+    guide_cdn: mission-50011812
+  }
+  {
+    id: 11813
+    integration_switch: 1-1
+    campaign: -73
+    sub: 13
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011813
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1181300:1"
+    mission_group_id: 38
+    open_mission_keys: 1180100:1
+    mission_describe: mission-20011813
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011813
+    mission_tip: mission-40011813
+    guide_cdn: mission-50011813
+  }
+  {
+    id: 11814
+    integration_switch: 1-1
+    campaign: -73
+    sub: 14
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011814
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1181400:1"
+    mission_group_id: 38
+    open_mission_keys: 1181300:1
+    mission_describe: mission-20011814
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011814
+    mission_tip: mission-40011814
+    guide_cdn: mission-50011814
+  }
+  {
+    id: 11815
+    integration_switch: 1-1
+    campaign: -73
+    sub: 15
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011815
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1181500:1"
+    mission_group_id: 38
+    open_mission_keys: 1181400:1
+    mission_describe: mission-20011815
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011815
+    mission_tip: mission-40011815
+    guide_cdn: mission-50011815
+  }
+  {
+    id: 11816
+    integration_switch: 1-1
+    campaign: -73
+    sub: 16
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011816
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1181600:1"
+    mission_group_id: 38
+    open_mission_keys: 1180200:1
+    mission_describe: mission-20011816
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011816
+    mission_tip: mission-40011816
+    guide_cdn: mission-50011816
+  }
+  {
+    id: 11817
+    integration_switch: 1-1
+    campaign: -73
+    sub: 17
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011817
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1181700:1"
+    mission_group_id: 38
+    open_mission_keys: 1181600:1
+    mission_describe: mission-20011817
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011817
+    mission_tip: mission-40011817
+    guide_cdn: mission-50011817
+  }
+  {
+    id: 11818
+    integration_switch: 1-1
+    campaign: -73
+    sub: 18
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011818
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1181800:1"
+    mission_group_id: 38
+    open_mission_keys: 1181700:1
+    mission_describe: mission-20011818
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011818
+    mission_tip: mission-40011818
+    guide_cdn: mission-50011818
+  }
+  {
+    id: 11819
+    integration_switch: 1-1
+    campaign: -73
+    sub: 19
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011819
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1181900:1"
+    mission_group_id: 38
+    open_mission_keys: 1180300:1
+    mission_describe: mission-20011819
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011819
+    mission_tip: mission-40011819
+    guide_cdn: mission-50011819
+  }
+  {
+    id: 11820
+    integration_switch: 1-1
+    campaign: -73
+    sub: 20
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011820
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1182000:1"
+    mission_group_id: 38
+    open_mission_keys: 1181900:1
+    mission_describe: mission-20011820
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011820
+    mission_tip: mission-40011820
+    guide_cdn: mission-50011820
+  }
+  {
+    id: 11821
+    integration_switch: 1-1
+    campaign: -73
+    sub: 21
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011821
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1182100:1"
+    mission_group_id: 38
+    open_mission_keys: 1180400:1
+    mission_describe: mission-20011821
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011821
+    mission_tip: mission-40011821
+    guide_cdn: mission-50011821
+  }
+  {
+    id: 11822
+    integration_switch: 1-1
+    campaign: -73
+    sub: 22
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011822
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1182200:1"
+    mission_group_id: 38
+    open_mission_keys: 1182100:1
+    mission_describe: mission-20011822
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011822
+    mission_tip: mission-40011822
+    guide_cdn: mission-50011822
+  }
+  {
+    id: 11823
+    integration_switch: 1-1
+    campaign: -73
+    sub: 23
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011823
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 38
+    open_mission_keys: 1182300:1
+    mission_describe: mission-20011823
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011823
+    mission_tip: mission-40011823
+    guide_cdn: mission-50011823
+  }
+  {
+    id: 11824
+    integration_switch: 1-1
+    campaign: -73
+    sub: 24
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011824
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 38
+    open_mission_keys: 1182400:1
+    mission_describe: mission-20011824
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011824
+    mission_tip: mission-40011824
+    guide_cdn: mission-50011824
+  }
+  {
+    id: 11825
+    integration_switch: 1-1
+    campaign: -73
+    sub: 25
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011825
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 38
+    open_mission_keys: 1182500:1
+    mission_describe: mission-20011825
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011825
+    mission_tip: mission-40011825
+    guide_cdn: mission-50011825
+  }
+  {
+    id: 11826
+    integration_switch: 1-1
+    campaign: -73
+    sub: 26
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011826
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 38
+    open_mission_keys: 1182600:1
+    mission_describe: mission-20011826
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011826
+    mission_tip: mission-40011826
+    guide_cdn: mission-50011826
+  }
+  {
+    id: 11827
+    integration_switch: 1-1
+    campaign: -73
+    sub: 27
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011827
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 38
+    open_mission_keys: 1182700:1
+    mission_describe: mission-20011827
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011827
+    mission_tip: mission-40011827
+    guide_cdn: mission-50011827
+  }
+  {
+    id: 11828
+    integration_switch: 1-1
+    campaign: -73
+    sub: 28
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011828
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 38
+    open_mission_keys: 1182800:1
+    mission_describe: mission-20011828
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011828
+    mission_tip: mission-40011828
+    guide_cdn: mission-50011828
+  }
+  {
+    id: 11829
+    integration_switch: 1-1
+    campaign: -73
+    sub: 29
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011829
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 38
+    open_mission_keys: 1182900:1
+    mission_describe: mission-20011829
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011829
+    mission_tip: mission-40011829
+    guide_cdn: mission-50011829
+  }
+  {
+    id: 11830
+    integration_switch: 1-1
+    campaign: -73
+    sub: 30
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011830
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 38
+    open_mission_keys: 1183000:1
+    mission_describe: mission-20011830
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011830
+    mission_tip: mission-40011830
+    guide_cdn: mission-50011830
+  }
+  {
+    id: 11831
+    integration_switch: 1-1
+    campaign: -73
+    sub: 31
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011831
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 38
+    open_mission_keys: 1183100:1
+    mission_describe: mission-20011831
+    round_config: 1:1,2:4,3:3
+    limit_squad: -1
+    difficulty_recommend: "1000,15;1000,15;0,0;0,0"
+    difficulty_recommend_addendum: mission-30011831
+    mission_tip: mission-40011831
+    guide_cdn: mission-50011831
+  }
+  {
+    id: 11832
+    integration_switch: 1-1
+    campaign: -73
+    sub: 32
+    if_emergency: -1
+    special_type: 7
+    name: mission-10011832
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS205_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 38
+    open_mission_keys: 1181200:1
+    mission_describe: mission-20011832
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend_addendum: mission-30011832
+    limit_sangvis: -1
+    mission_tip: mission-40011832
+    limit_vehicle: -1
+    guide_cdn: mission-50011832
+  }
+  {
+    id: 11833
+    integration_switch: 1-1
+    campaign: -73
+    sub: 33
+    if_emergency: -1
+    special_type: 7
+    name: mission-10011833
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS205_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 38
+    open_mission_keys: 1181900:1
+    mission_describe: mission-20011833
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend_addendum: mission-30011833
+    limit_sangvis: -1
+    mission_tip: mission-40011833
+    limit_vehicle: -1
+    guide_cdn: mission-50011833
+  }
+  {
+    id: 11834
+    integration_switch: 1-1
+    campaign: -73
+    sub: 34
+    if_emergency: -1
+    special_type: 7
+    name: mission-10011834
+    difficulty: 1000
+    recommend_gun_level: 15
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS205_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 38
+    open_mission_keys: 1182100:1
+    mission_describe: mission-20011834
+    round_config: 1:1,2:2,3:3
+    limit_squad: -1
+    difficulty_recommend_addendum: mission-30011834
+    limit_sangvis: -1
+    mission_tip: mission-40011834
+    limit_vehicle: -1
+    guide_cdn: mission-50011834
   }
   {
     id: 90001

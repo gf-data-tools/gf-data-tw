@@ -1524,6 +1524,38 @@
       '''
   }
   {
+    item_id: 1500172
+    type: 1
+    prize_id: 140001
+    due_time: 2025/01/05 23:59:59
+    due_prize_id: 140016
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1500173
+    type: 1
+    prize_id: 140004
+    due_time: 2025/01/05 23:59:59
+    due_prize_id: 140016
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1500174
+    type: 2
+    drop_package_id: 2521
+    due_time: 2025/01/05 23:59:59
+    due_prize_id: 140016
+    present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
+  }
+  {
+    item_id: 1500175
+    type: 2
+    drop_package_id: 945
+    due_time: 2025/01/05 23:59:59
+    due_prize_id: 140016
+    present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089
@@ -1856,6 +1888,30 @@
     type: 1
     prize_id: 150130
     due_time: 2024/12/29  00:00:00
+    due_prize_id: 140075
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700043
+    type: 1
+    prize_id: 150131
+    due_time: 2025/01/27  00:00:00
+    due_prize_id: 140073
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700044
+    type: 1
+    prize_id: 150132
+    due_time: 2025/01/27  00:00:00
+    due_prize_id: 140074
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700045
+    type: 1
+    prize_id: 150133
+    due_time: 2025/01/27  00:00:00
     due_prize_id: 140075
     present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
   }

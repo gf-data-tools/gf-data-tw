@@ -5585,6 +5585,15 @@
     note: 原型裝扮
   }
   {
+    id: 5079
+    name: CR-21-原型
+    fit_gun: 20288
+    voice: 4
+    is_hidden: 2
+    dialog: 原型裝扮
+    note: 原型裝扮
+  }
+  {
     id: 5101
     name: 劉氏步槍-垂枝夢狐影
     fit_gun: 316
@@ -9545,6 +9554,16 @@
     order: 140
   }
   {
+    id: 30024
+    name: skin-10030024
+    fit_gun: 188
+    voice: 4
+    dialog: skin-20030024
+    note: skin-30030024
+    illustrator_cv: skin-40030024
+    order: 143
+  }
+  {
     id: 50001
     name: 漢陽造88式-致群星
     fit_gun: 95
@@ -9553,6 +9572,58 @@
     gift_position: "-231.9,39.7"
     order: 132
     class_id: 99
+    skin_source: 1
+  }
+  {
+    id: 50002
+    name: skin-10050002
+    fit_gun: 1045
+    voice: 4
+    dialog: skin-20050002
+    note: skin-30050002
+    gift_position: "-12.8,63.7"
+    illustrator_cv: skin-40050002
+    order: 142
+    class_id: 53
+    skin_source: 1
+  }
+  {
+    id: 50003
+    name: skin-10050003
+    fit_gun: 1046
+    voice: 4
+    dialog: skin-20050003
+    note: skin-30050003
+    gift_position: "-67,71"
+    illustrator_cv: skin-40050003
+    order: 142
+    class_id: 53
+    skin_source: 1
+  }
+  {
+    id: 50004
+    name: skin-10050004
+    fit_gun: 245
+    voice: 4
+    dialog: skin-20050004
+    note: skin-30050004
+    gift_position: "-130.8,-38.7"
+    illustrator_cv: skin-40050004
+    order: 142
+    class_id: 53
+    skin_source: 1
+  }
+  {
+    id: 50005
+    name: skin-10050005
+    fit_gun: 215
+    voice: 4
+    dialog: skin-20050005
+    note: skin-30050005
+    gift_position: "-127.5,-85.9"
+    illustrator_cv: skin-40050005
+    order: 142
+    class_id: 53
     skin_source: 1
   }
 ]

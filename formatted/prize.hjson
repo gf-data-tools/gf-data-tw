@@ -16430,6 +16430,184 @@
     furniture: "3118"
   }
   {
+    id: 2671
+    name: prize-10002671
+    item_ids: 100247-6,100245-1
+    content: prize-20002671
+  }
+  {
+    id: 2672
+    name: prize-10002672
+    item_ids: 100247-8,100245-1
+    content: prize-20002672
+  }
+  {
+    id: 2673
+    name: prize-10002673
+    item_ids: 100247-8,100245-2
+    content: prize-20002673
+  }
+  {
+    id: 2674
+    name: prize-10002674
+    item_ids: 100247-10,100245-1
+    content: prize-20002674
+  }
+  {
+    id: 2675
+    name: prize-10002675
+    item_ids: 100247-10,100245-1,100246-1
+    content: prize-20002675
+  }
+  {
+    id: 2676
+    name: prize-10002676
+    item_ids: 100247-12,100246-1
+    content: prize-20002676
+  }
+  {
+    id: 2677
+    name: prize-10002677
+    item_ids: 100247-12,100246-2
+    content: prize-20002677
+  }
+  {
+    id: 2678
+    name: prize-10002678
+    item_ids: 100247-15,100246-2
+    content: prize-20002678
+  }
+  {
+    id: 2679
+    name: prize-10002679
+    item_ids: 100247-15,100245-2,100246-2
+    content: prize-20002679
+  }
+  {
+    id: 2680
+    name: prize-10002680
+    item_ids: 100247-6
+    content: prize-20002680
+  }
+  {
+    id: 2681
+    name: prize-10002681
+    item_ids: 100247-8
+    content: prize-20002681
+  }
+  {
+    id: 2682
+    name: prize-10002682
+    item_ids: 100247-10
+    content: prize-20002682
+  }
+  {
+    id: 2683
+    name: prize-10002683
+    item_ids: 100247-12
+    content: prize-20002683
+  }
+  {
+    id: 2684
+    name: prize-10002684
+    item_ids: 100247-15
+    content: prize-20002684
+  }
+  {
+    id: 2685
+    name: prize-10002685
+    item_ids: 100245-1
+    content: prize-20002685
+  }
+  {
+    id: 2686
+    name: prize-10002686
+    item_ids: 100246-1
+    content: prize-20002686
+  }
+  {
+    id: 2687
+    name: prize-10002687
+    item_ids: 100245-2
+    content: prize-20002687
+  }
+  {
+    id: 2688
+    name: prize-10002688
+    item_ids: 100246-2
+    content: prize-20002688
+  }
+  {
+    id: 2689
+    name: prize-10002689
+    equip_ids: "429"
+    content: prize-20002689
+  }
+  {
+    id: 2690
+    name: prize-10002690
+    equip_ids: "430"
+    content: prize-20002690
+  }
+  {
+    id: 2691
+    name: prize-10002691
+    furniture: "3119"
+    content: prize-20002691
+  }
+  {
+    id: 2692
+    name: prize-10002692
+    furniture: "3120"
+    content: prize-20002692
+  }
+  {
+    id: 2693
+    name: prize-10002693
+    furniture: "3121"
+    content: prize-20002693
+  }
+  {
+    id: 2694
+    name: prize-10002694
+    furniture: "3122"
+    content: prize-20002694
+  }
+  {
+    id: 2695
+    name: prize-10002695
+    gift: 50002-1
+    content: prize-20002695
+    icon: Bumdle_ArenaBreakout_Evita
+  }
+  {
+    id: 2696
+    name: prize-10002696
+    gift: 50003-1
+    content: prize-20002696
+    icon: Bumdle_ArenaBreakout_Hecate
+  }
+  {
+    id: 2697
+    name: prize-10002697
+    gift: 50004-1
+    content: prize-20002697
+    icon: Bumdle_ArenaBreakout_P90
+  }
+  {
+    id: 2698
+    name: prize-10002698
+    gift: 50005-1
+    content: prize-20002698
+    icon: Bumdle_ArenaBreakout_MDR
+  }
+  {
+    id: 2699
+    name: prize-10002699
+    gun_id: "1046"
+    content: prize-20002699
+  }
+  {
     id: 3001
     name: 柯爾特左輪
     item_ids: 1318-1
@@ -17043,6 +17221,14 @@
     item_ids: 2276-1,200003-1
     equip_ids: "336"
     skin: 5069
+    content: 心智升級贈送
+  }
+  {
+    id: 3288
+    name: CR-21
+    item_ids: 3503-1
+    equip_ids: "431"
+    skin: 5079
     content: 心智升級贈送
   }
   {
@@ -17992,6 +18178,18 @@
     id: 4328
     name: 頭像：格雷頭像
     item_ids: 2582-1
+  }
+  {
+    id: 4329
+    name: prize-10004329
+    sangvis: "1029"
+    content: prize-20004329
+  }
+  {
+    id: 4330
+    name: prize-10004330
+    item_ids: 2590-1
+    content: prize-20004330
   }
   {
     id: 5001
@@ -27852,6 +28050,31 @@
     gift: 30001-1
   }
   {
+    id: 8585
+    name: 通行證68-24
+    item_ids: 140047-1
+  }
+  {
+    id: 8586
+    name: 通行證98-24
+    item_ids: 140048-1,10606-300,200049-1,2600-1
+  }
+  {
+    id: 8587
+    name: 通行證30-24
+    item_ids: 140048-1,10606-300,200049-1,2600-1
+  }
+  {
+    id: 8588
+    name: 通行證復刻-24(13)
+    gift: 30012-1
+  }
+  {
+    id: 8589
+    name: 通行證復刻-24(2)
+    gift: 578-1
+  }
+  {
     id: 9101
     name: 來自2016年耶誕節的照片
     item_ids: 1212-1
@@ -29331,6 +29554,74 @@
     content:
       '''
       恭喜你在「代號拾肆：弛豫」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勳章*60，指揮官經驗*2000，頭像「機略推演」
+      初次領取元帥榮譽郵件將解鎖頭像框·將星閃耀
+      '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10813
+    name: 少校榮譽
+    user_exp: 30
+    item_ids: 106-5,2583-1,200008-1
+    content:
+      '''
+      恭喜你在「代號拾伍：銀冕」賽季中，獲得少校榮譽，獎勵：拉弗伯雷勳章*5，指揮官經驗*30，頭像「辰星群系」
+      初次領取少校榮譽郵件將解鎖頭像框·決勝火線
+      '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10814
+    name: 中校榮譽
+    user_exp: 60
+    item_ids: 106-10
+    content: 恭喜你在「代號拾伍：銀冕」賽季中，獲得中校榮譽，獎勵：拉弗伯雷勳章*10，指揮官經驗*60
+    icon: Medal_Chess
+  }
+  {
+    id: 10815
+    name: 上校榮譽
+    user_exp: 100
+    item_ids: 106-20
+    content: 恭喜你在「代號拾伍：銀冕」賽季中，獲得上校榮譽，獎勵：拉弗伯雷勳章*20，指揮官經驗*100
+    icon: Medal_Chess
+  }
+  {
+    id: 10816
+    name: 少將榮譽
+    user_exp: 200
+    item_ids: 106-30,2584-1,200007-1
+    content:
+      '''
+      恭喜你在「代號拾伍：銀冕」賽季中，獲得少將榮譽，獎勵：拉弗伯雷勳章*30，指揮官經驗*200，頭像「衛月潮汐」
+      初次領取少將榮譽郵件將解鎖頭像框·運籌帷幄
+      '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10817
+    name: 中將榮譽
+    user_exp: 500
+    item_ids: 106-40
+    content: 恭喜你在「代號拾伍：銀冕」賽季中，獲得中將榮譽，獎勵：拉弗伯雷勳章*40，指揮官經驗*500
+    icon: Medal_Chess
+  }
+  {
+    id: 10818
+    name: 上將榮譽
+    user_exp: 1000
+    item_ids: 106-50
+    content: 恭喜你在「代號拾伍：銀冕」賽季中，獲得上將榮譽，獎勵：拉弗伯雷勳章*50，指揮官經驗*1000
+    icon: Medal_Chess
+  }
+  {
+    id: 10819
+    name: 元帥榮譽
+    user_exp: 2000
+    item_ids: 106-60,2585-1,200006-1
+    content:
+      '''
+      恭喜你在「代號拾伍：銀冕」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勳章*60，指揮官經驗*2000，頭像「聚變核心」
       初次領取元帥榮譽郵件將解鎖頭像框·將星閃耀
       '''
     icon: Medal_Chess
@@ -40372,6 +40663,241 @@
     ammo: 500
     mre: 500
     part: 500
+  }
+  {
+    id: 17801
+    name: prize-10017801
+    coins: 1-300
+    content: prize-20017801
+  }
+  {
+    id: 17802
+    name: prize-10017802
+    coins: 2-300
+    content: prize-20017802
+  }
+  {
+    id: 17803
+    name: prize-10017803
+    coins: 3-300
+    content: prize-20017803
+  }
+  {
+    id: 17804
+    name: prize-10017804
+    gun_id: "1045"
+    content: prize-20017804
+  }
+  {
+    id: 17805
+    name: prize-10017805
+    item_ids: 9-50
+    content: prize-20017805
+  }
+  {
+    id: 17806
+    name: prize-10017806
+    item_ids: 506-100
+    content: prize-20017806
+  }
+  {
+    id: 17807
+    name: prize-10017807
+    gift: 200001-100
+    content: prize-20017807
+  }
+  {
+    id: 17808
+    name: prize-10017808
+    item_ids: 45-100
+    content: prize-20017808
+  }
+  {
+    id: 17809
+    name: prize-10017809
+    core: 10
+    content: prize-20017809
+  }
+  {
+    id: 17810
+    name: prize-10017810
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20017810
+  }
+  {
+    id: 17811
+    name: prize-10017811
+    core: 5
+    content: prize-20017811
+  }
+  {
+    id: 17812
+    name: prize-10017812
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20017812
+  }
+  {
+    id: 17813
+    name: prize-10017813
+    core: 5
+    content: prize-20017813
+  }
+  {
+    id: 17814
+    name: prize-10017814
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20017814
+  }
+  {
+    id: 17815
+    name: prize-10017815
+    item_ids: 46-50
+    content: prize-20017815
+  }
+  {
+    id: 17816
+    name: prize-10017816
+    core: 5
+    content: prize-20017816
+  }
+  {
+    id: 17817
+    name: prize-10017817
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20017817
+  }
+  {
+    id: 17818
+    name: prize-10017818
+    item_ids: 9-50
+    content: prize-20017818
+  }
+  {
+    id: 17819
+    name: prize-10017819
+    sangvis: "1029"
+    content: prize-20017819
+  }
+  {
+    id: 17820
+    name: prize-10017820
+    furniture: "3126"
+    content: prize-20017820
+  }
+  {
+    id: 17821
+    name: prize-10017821
+    furniture: "3127"
+    content: prize-20017821
+  }
+  {
+    id: 17822
+    name: prize-10017822
+    item_ids: 143-1
+    furniture: "20154"
+    content: prize-20017822
+  }
+  {
+    id: 17823
+    name: prize-10017823
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20017823
+  }
+  {
+    id: 17824
+    name: prize-10017824
+    item_ids: 506-100
+    content: prize-20017824
+  }
+  {
+    id: 17825
+    name: prize-10017825
+    furniture: "3123"
+    content: prize-20017825
+  }
+  {
+    id: 17826
+    name: prize-10017826
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20017826
+  }
+  {
+    id: 17827
+    name: prize-10017827
+    gift: 200001-50
+    content: prize-20017827
+  }
+  {
+    id: 17828
+    name: prize-10017828
+    furniture: "3124"
+    content: prize-20017828
+  }
+  {
+    id: 17829
+    name: prize-10017829
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20017829
+  }
+  {
+    id: 17830
+    name: prize-10017830
+    item_ids: 46-50
+    content: prize-20017830
+  }
+  {
+    id: 17831
+    name: prize-10017831
+    furniture: "3125"
+    content: prize-20017831
+  }
+  {
+    id: 17832
+    name: prize-10017832
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017832
+  }
+  {
+    id: 17833
+    name: prize-10017833
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017833
+  }
+  {
+    id: 17834
+    name: prize-10017834
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017834
   }
   {
     id: 20001
@@ -55429,6 +55955,28 @@
     item_ids: 1500162-1
   }
   {
+    id: 120134
+    name: 增量補給-15級-24
+    item_ids: 41-30,1500172-1
+  }
+  {
+    id: 120135
+    name: 增量補給-25級-24
+    item_ids: 41-30
+    gift: 30024-1
+  }
+  {
+    id: 120136
+    name: 增量補給-35級-24
+    item_ids: 41-30,1500173-1
+  }
+  {
+    id: 120137
+    name: 增量補給-45級-24
+    gem: 680
+    item_ids: 1500174-1
+  }
+  {
     id: 121001
     name: 喧鬧之石
     furniture: "7240"
@@ -55617,6 +56165,12 @@
     id: 121038
     name: 風暴醞釀地
     furniture: "20072"
+  }
+  {
+    id: 121039
+    name: prize-10121039
+    furniture: "20105"
+    content: prize-20121039
   }
   {
     id: 130001
@@ -55962,6 +56516,21 @@
     id: 130069
     name: 進階付費展示獎勵-23
     item_ids: 10606-300,200048-1,2567-1
+  }
+  {
+    id: 130070
+    name: 前線協議額外獎勵-24
+    item_ids: 1500175-1
+  }
+  {
+    id: 130071
+    name: 基礎付費展示獎勵-24
+    item_ids: 602-1,1500172-1,30024-1,1500173-1,1500174-1,505-680
+  }
+  {
+    id: 130072
+    name: 進階付費展示獎勵-24
+    item_ids: 10606-300,200049-1,2600-1
   }
   {
     id: 140001
@@ -57000,6 +57569,46 @@
     gun_id: "196"
   }
   {
+    id: 140205
+    name: 必得未解鎖人形序標-PA-15
+    gun_id: "260"
+  }
+  {
+    id: 140206
+    name: 必得未解鎖人形序標-馬提尼‧亨利
+    gun_id: "402"
+  }
+  {
+    id: 140207
+    name: 必得未解鎖人形序標-HK433
+    gun_id: "390"
+  }
+  {
+    id: 140208
+    name: 必得未解鎖人形序標-QBU-191
+    gun_id: "388"
+  }
+  {
+    id: 140209
+    name: 必得未解鎖人形序標-AK-Alfa
+    gun_id: "306"
+  }
+  {
+    id: 140210
+    name: 必得未解鎖人形序標-P90
+    gun_id: "245"
+  }
+  {
+    id: 140211
+    name: 必得未解鎖人形序標-HP-35
+    gun_id: "303"
+  }
+  {
+    id: 140212
+    name: 必得未解鎖人形序標-柯爾特沃克
+    gun_id: "375"
+  }
+  {
     id: 150001
     name: 日常玩法-首通bonus獎勵1
     gift: 200001-300
@@ -57583,6 +58192,24 @@
     id: 150130
     name: 日常玩法-第19期-5星人形專屬裝備自選池子
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399,321,406,332,409,339,414,347,419,350,422"
+  }
+  {
+    id: 150131
+    name: prize-10150131
+    equip_ids: "16,20,32,44,66,72,90"
+    content: prize-20150131
+  }
+  {
+    id: 150132
+    name: prize-10150132
+    equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359,365,366,368,369,264,372,374,375,216,385,246,390,250,393,218,398,94,407,265,410,276,415,259,420,288,423,108,428"
+    content: prize-20150132
+  }
+  {
+    id: 150133
+    name: prize-10150133
+    equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399,321,406,332,409,339,414,347,419,350,422,354,427"
+    content: prize-20150133
   }
   {
     id: 200001

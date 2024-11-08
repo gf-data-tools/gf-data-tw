@@ -673,6 +673,19 @@
     conflict_type: 30012
   }
   {
+    id: 30015
+    name: mission_buff_config-10030015
+    description: mission_buff_config-20030015
+    code: M16A1_2
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 760012
+    conflict_type: 30015
+    priority: 1
+  }
+  {
     id: 50000
     name: 充足燃料
     description: 梯隊可額外攜帶2份彈藥口糧。
@@ -4716,6 +4729,46 @@
     cannot_move: "1"
     battle_skill_config_id: 778225
     conflict_type: 690813
+    priority: 1
+  }
+  {
+    id: 730001
+    name: mission_buff_config-10730001
+    description: mission_buff_config-20730001
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryBoomerIcon#EC4702
+    conflict_type: 730001
+    priority: -1
+    carry_mission_skill: "730011"
+  }
+  {
+    id: 730011
+    name: mission_buff_config-10730011
+    description: mission_buff_config-20730011
+    code: Theresa_Back
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    cannot_move: "1"
+    conflict_type: 730011
+    priority: 1
+  }
+  {
+    id: 730101
+    name: mission_buff_config-10730101
+    description: mission_buff_config-20730101
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    special_spot_config_id: 730101
+    conditions_type: "1"
+    conditions_time: 0-1
+    conflict_type: 730101
     priority: 1
   }
   {

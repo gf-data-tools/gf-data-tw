@@ -1283,9 +1283,19 @@
     description: M16生命值降低時會獲得護盾，對我方區域造成十字型燃燒傷害，並且每隔12s投擲一枚閃光彈對我方全體單位造成暈眩效果。
   }
   {
+    id: 8103
+    name: enemy_illustration_skill-10008103
+    description: enemy_illustration_skill-20008103
+  }
+  {
     id: 8201
     name: 場地限制
     description: 我方場上地面會持續燃燒。
+  }
+  {
+    id: 8202
+    name: enemy_illustration_skill-10008202
+    description: enemy_illustration_skill-20008202
   }
   {
     id: 8301
@@ -1426,6 +1436,61 @@
     id: 10058
     name: 傷殘恐懼
     description: 進入RPG模式，擊殺單位能獲得護盾。
+  }
+  {
+    id: 10059
+    name: enemy_illustration_skill-10010059
+    description: enemy_illustration_skill-20010059
+  }
+  {
+    id: 10060
+    name: enemy_illustration_skill-10010060
+    description: enemy_illustration_skill-20010060
+  }
+  {
+    id: 10061
+    name: enemy_illustration_skill-10010061
+    description: enemy_illustration_skill-20010061
+  }
+  {
+    id: 10062
+    name: enemy_illustration_skill-10010062
+    description: enemy_illustration_skill-20010062
+  }
+  {
+    id: 10063
+    name: enemy_illustration_skill-10010063
+    description: enemy_illustration_skill-20010063
+  }
+  {
+    id: 10064
+    name: enemy_illustration_skill-10010064
+    description: enemy_illustration_skill-20010064
+  }
+  {
+    id: 10065
+    name: enemy_illustration_skill-10010065
+    description: enemy_illustration_skill-20010065
+  }
+  {
+    id: 10066
+    name: enemy_illustration_skill-10010066
+    description: enemy_illustration_skill-20010066
+  }
+  {
+    id: 10067
+    name: enemy_illustration_skill-10010067
+    description: enemy_illustration_skill-20010067
+  }
+  {
+    id: 10068
+    name: enemy_illustration_skill-10010068
+    description: enemy_illustration_skill-20010068
+  }
+  {
+    id: 10069
+    name: enemy_illustration_skill-10010069
+    description: enemy_illustration_skill-20010069
   }
   {
     id: 10087

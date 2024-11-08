@@ -43,11 +43,13 @@
     type: 2:1027
     name: 酣戰
     code: NPC-MrsGray/7
+    obtain_txt: 獲取格雷解鎖
   }
   {
     id: 1016
     type: 2:1027
     name: 祈告
     code: NPC-MrsGray/8
+    obtain_txt: 獲取格雷解鎖
   }
 ]

@@ -3312,6 +3312,32 @@
     is_manual_target: 2
   }
   {
+    id: 730001
+    code_a: Boomer
+    description_a: manual_ui-10730001
+    description_b: manual_ui-20730001
+    description_c: manual_ui-30730001
+    code_b: Console_Icon
+  }
+  {
+    id: 730011
+    code_a: Golyat
+    description_a: manual_ui-10730011
+    description_b: manual_ui-20730011
+    description_c: manual_ui-30730011
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 730411
+    code_a: Griffin
+    description_a: manual_ui-10730411
+    description_b: manual_ui-20730411
+    description_c: manual_ui-30730411
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 我方梯隊
