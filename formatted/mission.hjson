@@ -39579,7 +39579,7 @@
   {
     id: 11117
     integration_switch: 1-1;4-40:80:160
-    campaign: -54
+    campaign: -40402
     sub: 2
     if_emergency: -1
     special_type: 1
@@ -39611,11 +39611,12 @@
     event_score: 1|10,10000,8000,5000,1000,0,5000,10000,8000,10000,1000,4000,1:10000;2:0;3:2000;5:0;6:0;7:5000,6540001:1:10000;6540002:1:10000;6540003:1:10000;6540004:1:10000,10,,1000,5000,6540012:20000;6540013:20000;6540014:20000;6540015:20000;6540030:20000;6540031:20000;6540032:20000;6540033:20000;6540018:20000,,8000,20000,10000,5000
     score_prize: 1-0|110053:1
     recommended_team_ids: "2,1,6"
+    limit_vehicle: -1
   }
   {
     id: 11118
     integration_switch: 1-1;4-40:80:160
-    campaign: -54
+    campaign: -40402
     sub: 3
     if_emergency: -1
     endless_mode: 1
@@ -39648,6 +39649,7 @@
     score_prize: 1-0|110053:1
     environment_transform_config: "1111801"
     recommended_team_ids: "1,3,9"
+    limit_vehicle: -1
   }
   {
     id: 11119
@@ -49320,7 +49322,6 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "275"
     limit_team: "2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|5035,3582|370,0"
@@ -49356,7 +49357,6 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "311"
     limit_team: "2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|3312,3199|-14,0"
@@ -49391,7 +49391,6 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "335"
     limit_team: "2"
     map_res_name: OPS5_Y
     map_information: "6000,6000|3691,3241|207,0"
@@ -49429,7 +49428,6 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "361"
     limit_team: "2,*2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|5000,3500|0,1200"
@@ -49466,7 +49464,6 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "275"
     limit_team: "2,*2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|6000,5000|1000,800"
@@ -49504,7 +49501,6 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "311"
     limit_team: "2,*2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|7000,5500|-500,500"
@@ -49540,7 +49536,6 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "275"
     limit_team: "2"
     map_res_name: BloodNetwork_Y
     map_information: "6000,6000|4922,3393|74,0"
@@ -49576,7 +49571,6 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "311"
     limit_team: "2"
     map_res_name: BloodNetwork_Y
     map_information: "6000,6000|4514,3962|338,-170"
@@ -49611,7 +49605,6 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "335"
     limit_team: "2"
     map_res_name: BloodNetwork_Y
     map_information: "6000,6000|4584,3421|-275,0"
@@ -49649,7 +49642,6 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "361"
     limit_team: "2,*2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|6000,5500|0,1000"
@@ -49686,7 +49678,6 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "275"
     limit_team: "2,*2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|7000,6000|0,800"
@@ -49723,7 +49714,6 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 9
-    limit_gun_pool: "311"
     limit_team: "2,*2"
     map_res_name: OPS5_Y
     map_information: "10000,10000|7500,6000|-800,1200"
@@ -49760,7 +49750,6 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "361"
     limit_team: "3"
     map_res_name: OPS5_Y
     map_information: "6000,6000|5020,4350|539,462"
@@ -49798,7 +49787,6 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 12
-    limit_gun_pool: "361"
     limit_team: "3,*3"
     map_res_name: OPS5_Y
     map_information: "10000,10000|8500,7600|-300,800"
@@ -49834,7 +49822,6 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "275,335"
     map_res_name: OPS5_Y
     map_information: "6000,6000|5035,3582|370,0"
     fog_length: "0,500"
@@ -49867,7 +49854,6 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "311,361"
     map_res_name: OPS5_Y
     map_information: "6000,6000|5035,3582|370,0"
     fog_length: "0,500"
@@ -49900,7 +49886,6 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "275,335"
     map_res_name: OPS5_Y
     map_information: "6000,6000|5035,3582|370,0"
     fog_length: "0,500"
@@ -49933,7 +49918,6 @@
     expect_gun_die_num: 9
     expect_turn: 15
     turn_duration: 360000000
-    limit_gun_pool: "311,361"
     map_res_name: OPS5_Y
     map_information: "6000,6000|5035,3582|370,0"
     fog_length: "0,500"
@@ -55616,13 +55600,13 @@
     campaign: -73
     sub: 2
     if_emergency: -1
-    name: mission-10011801
+    name: 3-第一枚子彈
     difficulty: 3500
     recommend_gun_level: 35
     exp_parameter: 28
     type: "3"
     enemy_ai_type: 4
-    expect_turn: 9
+    expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
     limit_gun_pool: "344"
@@ -55635,7 +55619,6 @@
     drop_mission_key: "0,0,1180100:1"
     mission_group_id: 38
     open_mission_keys: 1181200:1
-    mission_describe: mission-20011801
     force_type: "1"
     round_config: 1:1,2:30,3:44
     limit_squad: -1
@@ -55643,9 +55626,6 @@
     win_type: "1180100"
     medal_type_silver: "1180101"
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011801
-    mission_tip: mission-40011801
-    guide_cdn: mission-50011801
   }
   {
     id: 11802
@@ -55653,35 +55633,32 @@
     campaign: -73
     sub: 4
     if_emergency: -1
-    name: mission-10011802
+    name: 7-陷入旋渦
     difficulty: 5500
     recommend_gun_level: 55
     exp_parameter: 33
     type: "3"
     enemy_ai_type: 4
-    expect_turn: 9
+    expect_turn: 5
     boss_team_id: "1"
     turn_duration: 360000000
     limit_gun_pool: "207"
     limit_team: "0,1"
-    map_res_name: OPS306_Y
-    map_information: "5600,5600|5600,5600|0,0"
+    map_res_name: OPS307_Y
+    map_information: "16000,16000|8000,3000|-2000,200"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "1274"
     drop_mission_key: "0,0,1180200:1"
     mission_group_id: 38
     open_mission_keys: 1181500:1
-    mission_describe: mission-20011802
     force_type: "1"
     round_config: 1:1,2:39,3:43
     limit_squad: -1
     mapped_mission_id: 73002
     win_type: "1180201"
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011802
-    mission_tip: mission-40011802
-    guide_cdn: mission-50011802
+    lose_type: "1180202"
   }
   {
     id: 11803
@@ -55689,34 +55666,31 @@
     campaign: -73
     sub: 6
     if_emergency: -1
-    name: mission-10011803
+    name: 11-敬玫瑰凋零
     difficulty: 10000
     recommend_gun_level: 75
     exp_parameter: 40
     type: "3"
     enemy_ai_type: 4
-    expect_turn: 9
+    expect_enemy_die_num: 1
+    expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
     limit_gun_pool: "296"
     limit_team: "0,3"
-    map_res_name: OPS307_Y
-    map_information: "16000,16000|8000,3000|-2000,200"
+    map_res_name: OPS308_Y
+    map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "1276"
     drop_mission_key: "0,0,1180300:1"
     mission_group_id: 38
     open_mission_keys: 1181800:1
-    mission_describe: mission-20011803
     round_config: 1:1,2:39,3:43
     limit_squad: -1
     mapped_mission_id: 73003
     win_type: "1180301"
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011803
-    mission_tip: mission-40011803
-    guide_cdn: mission-50011803
   }
   {
     id: 11804
@@ -55724,34 +55698,32 @@
     campaign: -73
     sub: 8
     if_emergency: -1
-    name: mission-10011804
+    name: 14-無注的賭徒
     difficulty: 14000
     recommend_gun_level: 87
     exp_parameter: 44
     type: "3"
     enemy_ai_type: 4
-    expect_turn: 9
+    expect_enemy_die_num: 1
+    expect_turn: 7
     boss_team_id: "1"
     turn_duration: 360000000
     limit_gun_pool: "318"
     limit_team: "0,3"
-    map_res_name: OPS307_Y
-    map_information: "16000,16000|8000,3000|-2000,200"
+    map_res_name: OPS309_Y
+    map_information: "7200,7200|8000,8000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "1278"
     drop_mission_key: "0,0,1180400:1"
     mission_group_id: 38
     open_mission_keys: 1182000:1
-    mission_describe: mission-20011804
     round_config: 1:1,2:42,3:40
     limit_squad: -1
     mapped_mission_id: 73004
     win_type: "1180201"
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011804
-    mission_tip: mission-40011804
-    guide_cdn: mission-50011804
+    lose_type: "1180202"
   }
   {
     id: 11805
@@ -55759,26 +55731,25 @@
     campaign: -73
     sub: 3
     if_emergency: -1
-    name: mission-10011805
+    name: 3-第一枚子彈EX
     difficulty: 20000
     recommend_gun_level: 100
     exp_parameter: 48
     type: "3"
     enemy_ai_type: 4
-    expect_turn: 9
+    expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
     limit_gun_pool: "344"
     limit_team: "0,2"
-    map_res_name: OPS308_Y
-    map_information: "8000,8000|8000,8000|0,0"
+    map_res_name: OPS306_Y
+    map_information: "5600,5600|5600,5600|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "1275"
     drop_mission_key: "0,0,1180100:1"
     mission_group_id: 38
     open_mission_keys: 1181200:1
-    mission_describe: mission-20011805
     force_type: "1"
     round_config: 1:1,2:30,3:44
     limit_squad: -1
@@ -55786,10 +55757,7 @@
     win_type: "1180100,1180501"
     medal_type_silver: "1180101"
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011805
-    mission_tip: mission-40011805
     lose_type: "1180502"
-    guide_cdn: mission-50011805
   }
   {
     id: 11806
@@ -55797,34 +55765,31 @@
     campaign: -73
     sub: 5
     if_emergency: -1
-    name: mission-10011806
+    name: 7-陷入旋渦EX
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
     type: "3"
     enemy_ai_type: 4
-    expect_turn: 9
+    expect_turn: 5
     boss_team_id: "1"
     turn_duration: 360000000
     limit_team: "-1"
-    map_res_name: OPS308_Y
-    map_information: "8000,8000|8000,8000|0,0"
+    map_res_name: OPS307_Y
+    map_information: "16000,16000|8000,3000|-2000,200"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "1284"
     drop_mission_key: "0,0,1180200:1"
     mission_group_id: 38
     open_mission_keys: 1181500:1
-    mission_describe: mission-20011806
     force_type: "1"
     round_config: 1:1,2:39,3:43
     limit_squad: -1
     mapped_mission_id: 73002
     win_type: "1180201"
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011806
-    mission_tip: mission-40011806
-    guide_cdn: mission-50011806
+    lose_type: "1180202"
   }
   {
     id: 11807
@@ -55832,34 +55797,31 @@
     campaign: -73
     sub: 7
     if_emergency: -1
-    name: mission-10011807
+    name: 11-敬玫瑰凋零EX
     difficulty: 26000
     recommend_gun_level: 110
     exp_parameter: 51
     type: "3"
     enemy_ai_type: 4
-    expect_turn: 9
+    expect_enemy_die_num: 1
+    expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
     limit_gun_pool: "296"
     limit_team: "0,3"
-    map_res_name: OPS309_Y
-    map_information: "7200,7200|8000,8000|0,0"
+    map_res_name: OPS308_Y
+    map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "1279"
     drop_mission_key: "0,0,1180300:1"
     mission_group_id: 38
     open_mission_keys: 1181800:1
-    mission_describe: mission-20011807
     round_config: 1:1,2:39,3:43
     limit_squad: -1
     mapped_mission_id: 73003
     win_type: "1180701"
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011807
-    mission_tip: mission-40011807
-    guide_cdn: mission-50011807
   }
   {
     id: 11808
@@ -55867,13 +55829,14 @@
     campaign: -73
     sub: 9
     if_emergency: -1
-    name: mission-10011808
+    name: 14-無注的賭徒EX
     difficulty: 30000
     recommend_gun_level: 120
     exp_parameter: 53
     type: "3"
     enemy_ai_type: 4
-    expect_turn: 9
+    expect_enemy_die_num: 1
+    expect_turn: 7
     boss_team_id: "1"
     turn_duration: 360000000
     limit_gun_pool: "318"
@@ -55886,15 +55849,12 @@
     drop_mission_key: "0,0,1180400:1"
     mission_group_id: 38
     open_mission_keys: 1182000:1
-    mission_describe: mission-20011808
     round_config: 1:1,2:42,3:40
     limit_squad: -1
     mapped_mission_id: 73004
     win_type: "1180201"
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011808
-    mission_tip: mission-40011808
-    guide_cdn: mission-50011808
+    lose_type: "1180202"
   }
   {
     id: 11809
@@ -55902,12 +55862,13 @@
     campaign: -73
     sub: 10
     if_emergency: -1
-    name: mission-10011809
+    name: 特殊的派遣
     difficulty: 10000
     recommend_gun_level: 75
     exp_parameter: 40
     type: "3"
     enemy_ai_type: 4
+    expect_enemy_die_num: 4
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
@@ -55921,15 +55882,11 @@
     drop_mission_key: "0,0,1180900:1"
     mission_group_id: 38
     open_mission_keys: 1180100:1
-    mission_describe: mission-20011809
     round_config: 1:1,2:39,3:43
     limit_squad: -1
     mapped_mission_id: 73005
     win_type: "1180901"
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011809
-    mission_tip: mission-40011809
-    guide_cdn: mission-50011809
   }
   {
     id: 11810
@@ -55937,12 +55894,13 @@
     campaign: -73
     sub: 11
     if_emergency: -1
-    name: mission-10011810
+    name: 特殊的派遣EX
     difficulty: 26000
     recommend_gun_level: 110
     exp_parameter: 51
     type: "3"
     enemy_ai_type: 4
+    expect_enemy_die_num: 4
     expect_turn: 9
     boss_team_id: "1"
     turn_duration: 360000000
@@ -55956,15 +55914,11 @@
     drop_mission_key: "0,0,1180900:1"
     mission_group_id: 38
     open_mission_keys: 1180100:1
-    mission_describe: mission-20011810
     round_config: 1:1,2:39,3:43
     limit_squad: -1
     mapped_mission_id: 73005
     win_type: "1180901"
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011810
-    mission_tip: mission-40011810
-    guide_cdn: mission-50011810
   }
   {
     id: 11811
@@ -55973,7 +55927,7 @@
     sub: 1
     if_emergency: -1
     special_type: 9
-    name: mission-10011811
+    name: 1-無光的區域
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -55989,13 +55943,9 @@
     fog_color: "#000000FF"
     drop_mission_key: "0,0,1181100:1"
     mission_group_id: 38
-    mission_describe: mission-20011811
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011811
-    mission_tip: mission-40011811
-    guide_cdn: mission-50011811
   }
   {
     id: 11812
@@ -56004,7 +55954,7 @@
     sub: 12
     if_emergency: -1
     special_type: 9
-    name: mission-10011812
+    name: 2-扮演盲目
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56021,13 +55971,9 @@
     drop_mission_key: "0,0,1181200:1"
     mission_group_id: 38
     open_mission_keys: 1181100:1
-    mission_describe: mission-20011812
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011812
-    mission_tip: mission-40011812
-    guide_cdn: mission-50011812
   }
   {
     id: 11813
@@ -56036,7 +55982,7 @@
     sub: 13
     if_emergency: -1
     special_type: 9
-    name: mission-10011813
+    name: 4-不和諧音符
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56053,13 +55999,9 @@
     drop_mission_key: "0,0,1181300:1"
     mission_group_id: 38
     open_mission_keys: 1180100:1
-    mission_describe: mission-20011813
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011813
-    mission_tip: mission-40011813
-    guide_cdn: mission-50011813
   }
   {
     id: 11814
@@ -56068,7 +56010,7 @@
     sub: 14
     if_emergency: -1
     special_type: 9
-    name: mission-10011814
+    name: 5-何處吹來的風
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56085,13 +56027,9 @@
     drop_mission_key: "0,0,1181400:1"
     mission_group_id: 38
     open_mission_keys: 1181300:1
-    mission_describe: mission-20011814
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011814
-    mission_tip: mission-40011814
-    guide_cdn: mission-50011814
   }
   {
     id: 11815
@@ -56100,7 +56038,7 @@
     sub: 15
     if_emergency: -1
     special_type: 9
-    name: mission-10011815
+    name: 6-協奏
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56117,13 +56055,9 @@
     drop_mission_key: "0,0,1181500:1"
     mission_group_id: 38
     open_mission_keys: 1181400:1
-    mission_describe: mission-20011815
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011815
-    mission_tip: mission-40011815
-    guide_cdn: mission-50011815
   }
   {
     id: 11816
@@ -56132,7 +56066,7 @@
     sub: 16
     if_emergency: -1
     special_type: 9
-    name: mission-10011816
+    name: 8-第四顆石頭
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56149,13 +56083,9 @@
     drop_mission_key: "0,0,1181600:1"
     mission_group_id: 38
     open_mission_keys: 1180200:1
-    mission_describe: mission-20011816
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011816
-    mission_tip: mission-40011816
-    guide_cdn: mission-50011816
   }
   {
     id: 11817
@@ -56164,7 +56094,7 @@
     sub: 17
     if_emergency: -1
     special_type: 9
-    name: mission-10011817
+    name: 9-熟悉的刀
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56181,13 +56111,9 @@
     drop_mission_key: "0,0,1181700:1"
     mission_group_id: 38
     open_mission_keys: 1181600:1
-    mission_describe: mission-20011817
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011817
-    mission_tip: mission-40011817
-    guide_cdn: mission-50011817
   }
   {
     id: 11818
@@ -56196,7 +56122,7 @@
     sub: 18
     if_emergency: -1
     special_type: 9
-    name: mission-10011818
+    name: 10-月光下的駝鈴聲
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56213,13 +56139,9 @@
     drop_mission_key: "0,0,1181800:1"
     mission_group_id: 38
     open_mission_keys: 1181700:1
-    mission_describe: mission-20011818
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011818
-    mission_tip: mission-40011818
-    guide_cdn: mission-50011818
   }
   {
     id: 11819
@@ -56228,7 +56150,7 @@
     sub: 19
     if_emergency: -1
     special_type: 9
-    name: mission-10011819
+    name: 12-第二次變奏
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56245,13 +56167,9 @@
     drop_mission_key: "0,0,1181900:1"
     mission_group_id: 38
     open_mission_keys: 1180300:1
-    mission_describe: mission-20011819
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011819
-    mission_tip: mission-40011819
-    guide_cdn: mission-50011819
   }
   {
     id: 11820
@@ -56260,7 +56178,7 @@
     sub: 20
     if_emergency: -1
     special_type: 9
-    name: mission-10011820
+    name: 13-最後一條路
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56277,13 +56195,9 @@
     drop_mission_key: "0,0,1182000:1"
     mission_group_id: 38
     open_mission_keys: 1181900:1
-    mission_describe: mission-20011820
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011820
-    mission_tip: mission-40011820
-    guide_cdn: mission-50011820
   }
   {
     id: 11821
@@ -56292,7 +56206,7 @@
     sub: 21
     if_emergency: -1
     special_type: 9
-    name: mission-10011821
+    name: 15-蛛絲
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56309,13 +56223,9 @@
     drop_mission_key: "0,0,1182100:1"
     mission_group_id: 38
     open_mission_keys: 1180400:1
-    mission_describe: mission-20011821
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011821
-    mission_tip: mission-40011821
-    guide_cdn: mission-50011821
   }
   {
     id: 11822
@@ -56324,7 +56234,7 @@
     sub: 22
     if_emergency: -1
     special_type: 9
-    name: mission-10011822
+    name: 16-顫動的蝶翼
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56341,13 +56251,9 @@
     drop_mission_key: "0,0,1182200:1"
     mission_group_id: 38
     open_mission_keys: 1182100:1
-    mission_describe: mission-20011822
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011822
-    mission_tip: mission-40011822
-    guide_cdn: mission-50011822
   }
   {
     id: 11823
@@ -56356,7 +56262,7 @@
     sub: 23
     if_emergency: -1
     special_type: 9
-    name: mission-10011823
+    name: E-1 意外的嫌疑人
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56372,13 +56278,9 @@
     fog_color: "#000000FF"
     mission_group_id: 38
     open_mission_keys: 1182300:1
-    mission_describe: mission-20011823
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011823
-    mission_tip: mission-40011823
-    guide_cdn: mission-50011823
   }
   {
     id: 11824
@@ -56387,7 +56289,7 @@
     sub: 24
     if_emergency: -1
     special_type: 9
-    name: mission-10011824
+    name: E-2 不褪色的白衣
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56403,13 +56305,9 @@
     fog_color: "#000000FF"
     mission_group_id: 38
     open_mission_keys: 1182400:1
-    mission_describe: mission-20011824
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011824
-    mission_tip: mission-40011824
-    guide_cdn: mission-50011824
   }
   {
     id: 11825
@@ -56418,7 +56316,7 @@
     sub: 25
     if_emergency: -1
     special_type: 9
-    name: mission-10011825
+    name: E-3 晶瑩的灰燼
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56434,13 +56332,9 @@
     fog_color: "#000000FF"
     mission_group_id: 38
     open_mission_keys: 1182500:1
-    mission_describe: mission-20011825
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011825
-    mission_tip: mission-40011825
-    guide_cdn: mission-50011825
   }
   {
     id: 11826
@@ -56449,7 +56343,7 @@
     sub: 26
     if_emergency: -1
     special_type: 9
-    name: mission-10011826
+    name: D-1 吸金的老鼠
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56465,13 +56359,9 @@
     fog_color: "#000000FF"
     mission_group_id: 38
     open_mission_keys: 1182600:1
-    mission_describe: mission-20011826
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011826
-    mission_tip: mission-40011826
-    guide_cdn: mission-50011826
   }
   {
     id: 11827
@@ -56480,7 +56370,7 @@
     sub: 27
     if_emergency: -1
     special_type: 9
-    name: mission-10011827
+    name: D-2 執行官
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56496,13 +56386,9 @@
     fog_color: "#000000FF"
     mission_group_id: 38
     open_mission_keys: 1182700:1
-    mission_describe: mission-20011827
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011827
-    mission_tip: mission-40011827
-    guide_cdn: mission-50011827
   }
   {
     id: 11828
@@ -56511,7 +56397,7 @@
     sub: 28
     if_emergency: -1
     special_type: 9
-    name: mission-10011828
+    name: D-3 誰才是魚
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56527,13 +56413,9 @@
     fog_color: "#000000FF"
     mission_group_id: 38
     open_mission_keys: 1182800:1
-    mission_describe: mission-20011828
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011828
-    mission_tip: mission-40011828
-    guide_cdn: mission-50011828
   }
   {
     id: 11829
@@ -56542,7 +56424,7 @@
     sub: 29
     if_emergency: -1
     special_type: 9
-    name: mission-10011829
+    name: H-1 私人處決
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56558,13 +56440,9 @@
     fog_color: "#000000FF"
     mission_group_id: 38
     open_mission_keys: 1182900:1
-    mission_describe: mission-20011829
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011829
-    mission_tip: mission-40011829
-    guide_cdn: mission-50011829
   }
   {
     id: 11830
@@ -56573,7 +56451,7 @@
     sub: 30
     if_emergency: -1
     special_type: 9
-    name: mission-10011830
+    name: H-2 無法冒犯
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56589,13 +56467,9 @@
     fog_color: "#000000FF"
     mission_group_id: 38
     open_mission_keys: 1183000:1
-    mission_describe: mission-20011830
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011830
-    mission_tip: mission-40011830
-    guide_cdn: mission-50011830
   }
   {
     id: 11831
@@ -56604,7 +56478,7 @@
     sub: 31
     if_emergency: -1
     special_type: 9
-    name: mission-10011831
+    name: H-3 彈孔永不癒合
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56620,13 +56494,9 @@
     fog_color: "#000000FF"
     mission_group_id: 38
     open_mission_keys: 1183100:1
-    mission_describe: mission-20011831
     round_config: 1:1,2:4,3:3
     limit_squad: -1
     difficulty_recommend: "1000,15;1000,15;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011831
-    mission_tip: mission-40011831
-    guide_cdn: mission-50011831
   }
   {
     id: 11832
@@ -56635,7 +56505,7 @@
     sub: 32
     if_emergency: -1
     special_type: 7
-    name: mission-10011832
+    name: 新鋒行錄I
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56649,14 +56519,10 @@
     fog_color: "#000000FF"
     mission_group_id: 38
     open_mission_keys: 1181200:1
-    mission_describe: mission-20011832
     round_config: 1:1,2:2,3:3
     limit_squad: -1
-    difficulty_recommend_addendum: mission-30011832
     limit_sangvis: -1
-    mission_tip: mission-40011832
     limit_vehicle: -1
-    guide_cdn: mission-50011832
   }
   {
     id: 11833
@@ -56665,7 +56531,7 @@
     sub: 33
     if_emergency: -1
     special_type: 7
-    name: mission-10011833
+    name: 新鋒行錄II
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56679,14 +56545,10 @@
     fog_color: "#000000FF"
     mission_group_id: 38
     open_mission_keys: 1181900:1
-    mission_describe: mission-20011833
     round_config: 1:1,2:2,3:3
     limit_squad: -1
-    difficulty_recommend_addendum: mission-30011833
     limit_sangvis: -1
-    mission_tip: mission-40011833
     limit_vehicle: -1
-    guide_cdn: mission-50011833
   }
   {
     id: 11834
@@ -56695,7 +56557,7 @@
     sub: 34
     if_emergency: -1
     special_type: 7
-    name: mission-10011834
+    name: 新鋒行錄III
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -56709,14 +56571,10 @@
     fog_color: "#000000FF"
     mission_group_id: 38
     open_mission_keys: 1182100:1
-    mission_describe: mission-20011834
     round_config: 1:1,2:2,3:3
     limit_squad: -1
-    difficulty_recommend_addendum: mission-30011834
     limit_sangvis: -1
-    mission_tip: mission-40011834
     limit_vehicle: -1
-    guide_cdn: mission-50011834
   }
   {
     id: 90001

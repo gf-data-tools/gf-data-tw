@@ -26012,7 +26012,7 @@
     mission_skill: 0;0;0;2000017
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-10730001
+    name: 冒煙的歌利亞
     code: Boomer
     shifting_spot: "45,100"
     shifting_team: "-30,0"
@@ -26024,9 +26024,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-40730001
-    des: building-20730001
-    confront_des: building-30730001
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 730002
@@ -26037,7 +26035,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10730002
+    name: 【標記】敵方2動
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -26046,9 +26044,27 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-40730002
-    des: building-20730002
-    confront_des: building-30730002
+    confront_des: 本次戰役中無法破壞該設施
+  }
+  {
+    id: 730003
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 【標記】我方2動
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "20301"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 730101
@@ -26059,7 +26075,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10730101
+    name: 【標記】平民檢測
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -26068,9 +26084,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-40730101
-    des: building-20730101
-    confront_des: building-30730101
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 730201
@@ -26081,7 +26095,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10730201
+    name: 【標記】NPC檢測
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -26090,9 +26104,8 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-40730201
-    des: building-20730201
-    confront_des: building-30730201
+    confront_des: 本次戰役中無法破壞該設施
+    missionskill_on_death: "2,730001,730221,0"
   }
   {
     id: 730401
@@ -26103,7 +26116,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10730401
+    name: 【標記】傳送點1
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -26113,9 +26126,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-40730401
-    des: building-20730401
-    confront_des: building-30730401
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 730402
@@ -26126,7 +26137,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10730402
+    name: 【標記】傳送點2
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -26136,9 +26147,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-40730402
-    des: building-20730402
-    confront_des: building-30730402
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 730403
@@ -26149,7 +26158,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10730403
+    name: 【標記】傳送點3
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -26159,9 +26168,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-40730403
-    des: building-20730403
-    confront_des: building-30730403
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 730404
@@ -26172,7 +26179,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-10730404
+    name: 【標記】傳送點4
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -26182,9 +26189,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-40730404
-    des: building-20730404
-    confront_des: building-30730404
+    confront_des: 本次戰役中無法破壞該設施
   }
   {
     id: 1144001

@@ -674,8 +674,7 @@
   }
   {
     id: 30015
-    name: mission_buff_config-10030015
-    description: mission_buff_config-20030015
+    name: 共生
     code: M16A1_2
     type: 1
     duration_type: "4"
@@ -879,6 +878,18 @@
     exp_buff: "1"
     free_ap_move: 1
     conflict_type: 78003
+    priority: 1
+  }
+  {
+    id: 300151
+    name: 共生
+    description: 對地圖內我方梯隊有增益效
+    code: M16A1_2
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 300151
     priority: 1
   }
   {
@@ -4733,8 +4744,8 @@
   }
   {
     id: 730001
-    name: mission_buff_config-10730001
-    description: mission_buff_config-20730001
+    name: 攜帶冒煙的歌利亞
+    description: 攜帶冒煙的歌利亞
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4746,8 +4757,8 @@
   }
   {
     id: 730011
-    name: mission_buff_config-10730011
-    description: mission_buff_config-20730011
+    name: 視線受阻
+    description: 視線受到阻礙，無法移動
     code: Theresa_Back
     type: 1
     duration_type: "1"
@@ -4759,8 +4770,7 @@
   }
   {
     id: 730101
-    name: mission_buff_config-10730101
-    description: mission_buff_config-20730101
+    name: 驚嚇檢測
     type: 1
     duration_type: "1"
     duration_time: "999"

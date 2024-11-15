@@ -19039,8 +19039,8 @@
     gun_detail_bg: nation_US
     org_id: 10802
     related_story_id: 100215
-    show_damage_skin: ",2603,3305,0,"
-    gun_tag_ids: "108,10102,113,50005"
+    show_damage_skin: ",2603,3305,0,50005,"
+    gun_tag_ids: "108,10102,113"
     atk_speed_max: 150
     ratio_rec: 108
     recommended_team_ids: "1"
@@ -33577,12 +33577,10 @@
   }
   {
     id: 1045
-    name: gun-10001045
+    name: 艾薇塔
     en_name: Evita
     code: Evita
-    extra: gun-40001045
-    en_introduce: gun-50001045
-    character: gun-60001045
+    extra: 脆片,,
     type: 1
     rank: 5
     develop_duration: 3600
@@ -33627,12 +33625,10 @@
   }
   {
     id: 1046
-    name: gun-10001046
+    name: 黑卡蒂
     en_name: Hecate
     code: Hecate
-    extra: gun-40001046
-    en_introduce: gun-50001046
-    character: gun-60001046
+    extra: 二花,,
     type: 2
     rank: 5
     develop_duration: 9300

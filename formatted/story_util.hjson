@@ -13456,169 +13456,148 @@
   {
     id: 1367
     mission_id: "11811"
-    description: story_util-10001367
     campaign: -73
-    title: story_util-20001367
+    title: 無光的區域
     start: -73-A-2
   }
   {
     id: 1368
     mission_id: "11812"
-    description: story_util-10001368
     campaign: -73
-    title: story_util-20001368
+    title: 扮演盲目
     start: -73-A-4
   }
   {
     id: 1369
     mission_id: "11813"
-    description: story_util-10001369
     campaign: -73
-    title: story_util-20001369
+    title: 不和諧音符
     start: -73-A-6
   }
   {
     id: 1370
     mission_id: "11814"
-    description: story_util-10001370
     campaign: -73
-    title: story_util-20001370
+    title: 何處吹來的風
     start: -73-A-8
   }
   {
     id: 1371
     mission_id: "11815"
-    description: story_util-10001371
     campaign: -73
-    title: story_util-20001371
+    title: 協奏
     start: -73-A-10
   }
   {
     id: 1372
     mission_id: "11816"
-    description: story_util-10001372
     campaign: -73
-    title: story_util-20001372
+    title: 第四顆石頭
     start: -73-A-12
   }
   {
     id: 1373
     mission_id: "11817"
-    description: story_util-10001373
     campaign: -73
-    title: story_util-20001373
+    title: 熟悉的刀
     start: -73-A-14
   }
   {
     id: 1374
     mission_id: "11818"
-    description: story_util-10001374
     campaign: -73
-    title: story_util-20001374
+    title: 月光下的駝鈴聲
     start: -73-A-16
   }
   {
     id: 1375
     mission_id: "11819"
-    description: story_util-10001375
     campaign: -73
-    title: story_util-20001375
+    title: 第二次變奏
     start: -73-A-18
   }
   {
     id: 1376
     mission_id: "11820"
-    description: story_util-10001376
     campaign: -73
-    title: story_util-20001376
+    title: 最後一條路
     start: -73-A-20
   }
   {
     id: 1377
     mission_id: "11821"
-    description: story_util-10001377
     campaign: -73
-    title: story_util-20001377
+    title: 蛛絲
     start: -73-A-22
   }
   {
     id: 1378
     mission_id: "11822"
-    description: story_util-10001378
     campaign: -73
-    title: story_util-20001378
+    title: 顫動的蝶翼
     start: -73-A-24
   }
   {
     id: 1379
     mission_id: "11823"
-    description: story_util-10001379
     campaign: -73
-    title: story_util-20001379
+    title: 意外的嫌疑人
     start: -73-E-2
   }
   {
     id: 1380
     mission_id: "11824"
-    description: story_util-10001380
     campaign: -73
-    title: story_util-20001380
+    title: 不褪色的白衣
     start: -73-E-4
   }
   {
     id: 1381
     mission_id: "11825"
-    description: story_util-10001381
     campaign: -73
-    title: story_util-20001381
+    title: 晶瑩的灰燼
     start: -73-E-6
   }
   {
     id: 1382
     mission_id: "11826"
-    description: story_util-10001382
     campaign: -73
-    title: story_util-20001382
+    title: 吸金的老鼠
     start: -73-D-2
   }
   {
     id: 1383
     mission_id: "11827"
-    description: story_util-10001383
     campaign: -73
-    title: story_util-20001383
+    title: 執行官
     start: -73-D-4
   }
   {
     id: 1384
     mission_id: "11828"
-    description: story_util-10001384
     campaign: -73
-    title: story_util-20001384
+    title: 誰才是魚
     start: -73-D-6
   }
   {
     id: 1385
     mission_id: "11829"
-    description: story_util-10001385
     campaign: -73
-    title: story_util-20001385
+    title: 私人處決
     start: -73-H-2
   }
   {
     id: 1386
     mission_id: "11830"
-    description: story_util-10001386
     campaign: -73
-    title: story_util-20001386
+    title: 無法冒犯
     start: -73-H-4
   }
   {
     id: 1387
     mission_id: "11831"
-    description: story_util-10001387
     campaign: -73
-    title: story_util-20001387
+    title: 彈孔永不癒合
     start: -73-H-6
   }
 ]

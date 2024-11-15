@@ -1365,8 +1365,7 @@
   }
   {
     id: 2400
-    name: special_spot_config-10002400
-    description: special_spot_config-20002400
+    name: 【標記】16哥光環
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15676,8 +15675,7 @@
   }
   {
     id: 730011
-    name: special_spot_config-10730011
-    description: special_spot_config-20730011
+    name: 煙霧彌漫
     priority: 1
     duration_type: "1"
     duration_time: "2"
@@ -15697,8 +15695,7 @@
   }
   {
     id: 730101
-    name: special_spot_config-10730101
-    description: special_spot_config-20730101
+    name: 【標記】平民
     priority: 1
     duration_type: "3"
     duration_time: "1"
@@ -15718,8 +15715,7 @@
   }
   {
     id: 730111
-    name: special_spot_config-10730111
-    description: special_spot_config-20730111
+    name: "[avg_loop]-73-EXT-1"
     code: Spe_misisonskill
     priority: 1
     duration_type: "1"
@@ -15738,8 +15734,7 @@
   }
   {
     id: 730201
-    name: special_spot_config-10730201
-    description: special_spot_config-20730201
+    name: 【標記】NPC檢測
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15758,8 +15753,7 @@
   }
   {
     id: 730211
-    name: special_spot_config-10730211
-    description: special_spot_config-20730211
+    name: 【標記】NPC抵達
     code: TargetPoint_Radar
     priority: 1
     duration_type: "1"
@@ -15778,8 +15772,7 @@
   }
   {
     id: 730221
-    name: special_spot_config-10730221
-    description: special_spot_config-20730221
+    name: 【標記】NPC死亡
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15797,8 +15790,7 @@
   }
   {
     id: 730401
-    name: special_spot_config-10730401
-    description: special_spot_config-20730401
+    name: 【標記】傳送點1
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15817,8 +15809,7 @@
   }
   {
     id: 730402
-    name: special_spot_config-10730402
-    description: special_spot_config-20730402
+    name: 【標記】傳送點2
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15837,8 +15828,7 @@
   }
   {
     id: 730403
-    name: special_spot_config-10730403
-    description: special_spot_config-20730403
+    name: 【標記】傳送點3
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15857,8 +15847,7 @@
   }
   {
     id: 730404
-    name: special_spot_config-10730404
-    description: special_spot_config-20730404
+    name: 【標記】傳送點4
     priority: 1
     duration_type: "1"
     duration_time: "99"

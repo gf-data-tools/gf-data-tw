@@ -3,11 +3,15 @@
     id: 1
     mission: 11832
     order: 1
-    name: breakout_phase-20000001
+    name: 新鋒行錄I-I
     breakout_gun_inshop: "1,16"
     breakout_item_inshop: 101:1,102:1
     breakout_mre_reg: 20
-    goal: breakout_phase-10000001
+    goal:
+      '''
+      擊退16個敵人
+      <#INFO#$COUNT$>
+      '''
     enemy_show: "110101,110201,110301"
     item_drop: 2-9301:1
     drop_missionkey: 1182300:1
@@ -28,11 +32,15 @@
     id: 2
     mission: 11832
     order: 2
-    name: breakout_phase-20000002
+    name: 新鋒行錄I-II
     breakout_gun_inshop: "1,4,11,16,17,18"
     breakout_item_inshop: 101:1,102:1,103:1
     breakout_mre_reg: 15
-    goal: breakout_phase-10000002
+    goal:
+      '''
+      擊退3個殘暴遊蕩者
+      <#INFO#$COUNT$>
+      '''
     enemy_show: "120101,120201,121501,121601"
     item_drop: 2-9302:1
     drop_missionkey: 1182400:1
@@ -52,11 +60,15 @@
     id: 3
     mission: 11832
     order: 3
-    name: breakout_phase-20000003
+    name: 新鋒行錄I-III
     breakout_gun_inshop: "1,2,4,6,10,11,16,17,18"
     breakout_item_inshop: 102:1,104:1,301:1
     breakout_mre_reg: 30
-    goal: breakout_phase-10000003
+    goal:
+      '''
+      獲得醫療補給箱
+      <#INFO#$COUNT$>
+      '''
     enemy_show: "130101,130201,130301,131501,131601,131701"
     item_drop: 2-9303:1
     drop_missionkey: 1182500:1
@@ -78,11 +90,15 @@
     id: 4
     mission: 11833
     order: 1
-    name: breakout_phase-20000004
+    name: 新鋒行錄II-I
     breakout_gun_inshop: "2,6,7,10,12,13,16,17,18"
     breakout_item_inshop: 101:1,102:1
     breakout_mre_reg: 50
-    goal: breakout_phase-10000004
+    goal:
+      '''
+      從道具箱中獲得1個燃燒瓶
+      <#INFO#$COUNT$>
+      '''
     enemy_show: "210301,210401,210501,211801"
     item_drop: 2-9304:1
     drop_missionkey: 1182600:1
@@ -103,11 +119,15 @@
     id: 5
     mission: 11833
     order: 2
-    name: breakout_phase-20000005
+    name: 新鋒行錄II-II
     breakout_gun_inshop: "2,6,7,10,12,13,16,17,18"
     breakout_item_inshop: 101:1,102:1,103:1,104:1,301:2
     breakout_mre_reg: 30
-    goal: breakout_phase-10000005
+    goal:
+      '''
+      擊退20個敵人
+      <#INFO#$COUNT$>
+      '''
     enemy_show: "220401,220501,220601,221701,221801,221901"
     item_drop: 2-9305:1
     drop_missionkey: 1182700:1
@@ -128,11 +148,15 @@
     id: 6
     mission: 11833
     order: 3
-    name: breakout_phase-20000006
+    name: 新鋒行錄II-III
     breakout_gun_inshop: "2,3,5,6,7,8,10,12,13,14,16,17,18"
     breakout_item_inshop: 101:2,102:2,103:1,104:1,301:1
     breakout_mre_reg: 40
-    goal: breakout_phase-10000006
+    goal:
+      '''
+      擊退3個精英多斯打手
+      <#INFO#$COUNT$>
+      '''
     enemy_show: "230401,230501,230601,231801,231901,232001"
     main: 12
     breakout_ammo_ini: 20
@@ -151,11 +175,15 @@
     id: 7
     mission: 11833
     order: 4
-    name: breakout_phase-20000007
+    name: 新鋒行錄II-IV
     breakout_gun_inshop: "2,3,5,6,7,8,10,12,13,14,16,17,18"
     breakout_item_inshop: 101:2,102:2,103:2,104:2
     breakout_mre_reg: 50
-    goal: breakout_phase-10000007
+    goal:
+      '''
+      擊退委託人
+      <#INFO#$COUNT$>
+      '''
     enemy_show: "240401,240501,240601,241000,241801,241901,242001"
     item_drop: 2-9306:1
     drop_missionkey: 1182800:1
@@ -177,11 +205,15 @@
     id: 8
     mission: 11834
     order: 1
-    name: breakout_phase-20000008
+    name: 新鋒行錄III-I
     breakout_gun_inshop: "3,5,8,11,12,14,16,17,18"
     breakout_item_inshop: 101:1,102:1
     breakout_mre_reg: 65
-    goal: breakout_phase-10000008
+    goal:
+      '''
+      擊退15個敵人
+      <#INFO#$COUNT$>
+      '''
     enemy_show: "310301,310701,310801,310901"
     item_drop: 2-9307:1
     drop_missionkey: 1182900:1
@@ -202,11 +234,15 @@
     id: 9
     mission: 11834
     order: 2
-    name: breakout_phase-20000009
+    name: 新鋒行錄III-II
     breakout_gun_inshop: "3,5,8,11,12,14,16,17,18"
     breakout_item_inshop: 101:1,102:2,103:1,104:1,301:2
     breakout_mre_reg: 35
-    goal: breakout_phase-10000009
+    goal:
+      '''
+      拾取1個金獅雕像
+      <#INFO#$COUNT$>
+      '''
     enemy_show: "320301,320701,320801,320901,322301"
     item_drop: 2-9308:1
     drop_missionkey: 1183000:1
@@ -227,11 +263,15 @@
     id: 10
     mission: 11834
     order: 3
-    name: breakout_phase-20000010
+    name: 新鋒行錄III-III
     breakout_gun_inshop: "1,3,4,5,8,9,10,11,12,14,15,16,17,18"
     breakout_item_inshop: 101:2,102:3,103:2,104:2,301:2
     breakout_mre_reg: 40
-    goal: breakout_phase-10000010
+    goal:
+      '''
+      攻破巨大障礙物
+      <#INFO#$COUNT$>
+      '''
     enemy_show: "330301,330701,330801,330901,332101,332201,332301"
     main: 12
     breakout_ammo_ini: 20
@@ -250,11 +290,15 @@
     id: 11
     mission: 11834
     order: 4
-    name: breakout_phase-20000011
+    name: 新鋒行錄III-IV
     breakout_gun_inshop: "1,3,4,5,8,9,10,11,12,14,15,16,17,18"
     breakout_item_inshop: 101:3,102:3,103:2,104:2,301:1
     breakout_mre_reg: 50
-    goal: breakout_phase-10000011
+    goal:
+      '''
+      擊退神秘隊員
+      <#INFO#$COUNT$>
+      '''
     enemy_show: "340701,340801,340901,341100,342101,342201,342301"
     item_drop: 2-9309:1
     drop_missionkey: 1183100:1
@@ -274,11 +318,15 @@
     id: 12
     mission: 11834
     order: 5
-    name: breakout_phase-20000012
+    name: 新鋒行錄III-V
     breakout_gun_inshop: "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18"
     breakout_item_inshop: 101:5,102:5,103:5,104:5
     breakout_mre_reg: 60
-    goal: breakout_phase-10000012
+    goal:
+      '''
+      獲得裝有證據的保險箱
+      <#INFO#$COUNT$>
+      '''
     enemy_show: "350701,350801,350901,352101,352201,352301"
     main: 12
     breakout_ammo_ini: 30

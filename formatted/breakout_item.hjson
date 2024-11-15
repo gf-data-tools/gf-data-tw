@@ -1,12 +1,12 @@
 [
   {
     id: 101
-    name: 燃烧瓶
+    name: 燃燒瓶
     icon: breakout_useitem1
     dec:
       '''
-      <color=#E4A821>可投掷造成高额爆炸伤害并点燃范围内的敌方目标，造成持续伤害</color>
-      自制简易燃烧瓶，装满了液态燃料。是一种能制造范围性燃烧区域的远程投掷武器，对敌我双方都很危险。
+      <color=#E4A821>可投擲造成高額爆炸傷害並點燃範圍內的敵方目標，造成持續傷害</color>
+      自製簡易燃燒瓶，裝滿了液態燃料。是一種能製造範圍性燃燒區域的遠程投擲武器，對敵我雙方都很危險。
       '''
     type: 1
     cost_part: 120
@@ -15,12 +15,12 @@
   }
   {
     id: 102
-    name: 医疗包
+    name: 醫療包
     icon: breakout_useitem2
     dec:
       '''
-      <color=#E4A821>可为范围内的友方单位恢复生命</color>
-      在暗区广受欢迎的军用医疗包，比生活常用药物配置更加齐全，可以应付大部分常见伤情的紧急处理。
+      <color=#E4A821>可為範圍內的友方單位恢復生命</color>
+      在暗區廣受歡迎的軍用醫療包，比生活常用藥物配置更加齊全，可以應付大部分常見傷情的緊急處理。
       '''
     type: 1
     cost_part: 100
@@ -29,12 +29,12 @@
   }
   {
     id: 103
-    name: 震撼弹
+    name: 震撼彈
     icon: breakout_useitem3
     dec:
       '''
-      <color=#E4A821>可投掷对范围内的敌方目标施加眩晕及减速效果</color>
-      单兵携行型高性能震撼弹，能够有效地削减震爆范围内敌人的防卫能力和行动力。
+      <color=#E4A821>可投擲對範圍內的敵方目標施加暈眩及減速效果</color>
+      單兵攜行型高性能震撼彈，能夠有效地削減震爆範圍內敵人的防衛能力和行動力。
       '''
     type: 1
     cost_part: 180
@@ -43,12 +43,12 @@
   }
   {
     id: 104
-    name: 强心剂
+    name: 強心劑
     icon: breakout_useitem4
     dec:
       '''
-      <color=#E4A821>可为范围内的友方单位施加护盾</color>
-      经过特殊设计的强心注射剂，填装的药物能够抑制疼痛，在一段时间内提升使用者的作战能力。
+      <color=#E4A821>可為範圍內的友方單位施加護盾</color>
+      經過特殊設計的強心注射劑，填裝的藥物能夠抑制疼痛，在一段時間內提升使用者的作戰能力。
       '''
     type: 1
     cost_part: 220
@@ -59,23 +59,23 @@
     id: 201
     name: 火柴
     icon: breakout_otheritem1
-    dec: 一盒容易受潮的火柴。卖不出的时候划一根，可获得短暂的圣诞节体验卡。
+    dec: 一盒容易受潮的火柴。賣不出的時候劃一根，可獲得短暫的聖誕節體驗卡。
     type: 2
     sold_part: 20
   }
   {
     id: 202
-    name: 金属火机
+    name: 金屬火機
     icon: breakout_otheritem2
-    dec: 大部分时候比火柴更可靠的生火工具。方便快捷不易受潮，有时候也会表演一个原地爆炸。
+    dec: 大部分時候比火柴更可靠的生火工具。方便快捷不易受潮，有時候也會表演一個原地爆炸。
     type: 2
     sold_part: 36
   }
   {
     id: 203
-    name: 蓝色火药
+    name: 藍色火藥
     icon: breakout_otheritem3
-    dec: 含有锡的火药，分量不大。对于重要行动的爆破任务来说，威力可能不太够……
+    dec: 含有錫的火藥，分量不大。對於重要行動的爆破任務來說，威力可能不太夠……
     type: 2
     sold_part: 42
   }
@@ -83,7 +83,7 @@
     id: 204
     name: 油桶
     icon: breakout_otheritem4
-    dec: 油气燃料固然值钱，使用后剩下的空油桶也有它自己的回收价。
+    dec: 油氣燃料固然值錢，使用後剩下的空油桶也有它自己的回收價。
     type: 2
     sold_part: 73
   }
@@ -91,7 +91,7 @@
     id: 205
     name: 丙烷罐
     icon: breakout_otheritem5
-    dec: 一种易燃易爆气体的储存罐，不建议对它进行改装和二次加工，更不要用于自制武器。
+    dec: 一種易燃易爆氣體的儲存罐，不建議對它進行改裝和二次加工，更不要用於自製武器。
     type: 2
     sold_part: 94
   }
@@ -99,31 +99,31 @@
     id: 206
     name: 燃料桶
     icon: breakout_otheritem6
-    dec: 金属燃料桶，敲打起来叮当作响，比塑料油桶更值钱。
+    dec: 金屬燃料桶，敲打起來叮噹作響，比塑料油桶更值錢。
     type: 2
     sold_part: 91
   }
   {
     id: 207
-    name: 螺钉
+    name: 螺釘
     icon: breakout_otheritem7
-    dec: 各种尺寸的螺钉，装床架和造火箭都会用到。
+    dec: 各種尺寸的螺釘，裝床架和造火箭都會用到。
     type: 2
     sold_part: 26
   }
   {
     id: 208
-    name: 有机玻璃
+    name: 有機玻璃
     icon: breakout_otheritem8
-    dec: 一种高分子透明材料，俗称亚克力。如果流弹打碎了窗玻璃，用它也能凑合。
+    dec: 一種高分子透明材料，俗稱壓克力。如果流彈打碎了窗玻璃，用它也能湊合。
     type: 2
     sold_part: 36
   }
   {
     id: 209
-    name: 防弹胶
+    name: 防彈膠
     icon: breakout_otheritem9
-    dec: 一种可以防弹的热塑性工程塑料，能为暗区生活增添一点聊胜于无的安全保障。
+    dec: 一種可以防彈的熱塑性工程塑料，能為暗區生活增添一點聊勝於無的安全保障。
     type: 2
     sold_part: 47
   }
@@ -131,135 +131,135 @@
     id: 210
     name: 吸音板材
     icon: breakout_otheritem10
-    dec: 高级吸音装饰板材，可以有效缓和噪声。总觉得有些头盔里可能也塞了这个，戴上就降低听力……
+    dec: 高級吸音裝飾板材，可以有效緩和噪聲。總覺得有些頭盔裡可能也塞了這個，戴上就降低聽力……
     type: 2
     sold_part: 72
   }
   {
     id: 211
-    name: 耐冲击硬胶
+    name: 耐衝擊硬膠
     icon: breakout_otheritem11
-    dec: 耐冲击级塑料硬胶，可用于制作电器外壳。虽然很牢固，但用来防弹还是有点难为它。
+    dec: 耐衝擊級塑料硬膠，可用於製作電器外殼。雖然很牢固，但用來防彈還是有點難為它。
     type: 2
     sold_part: 99
   }
   {
     id: 212
-    name: 钛合金板
+    name: 鈦合金板
     icon: breakout_otheritem12
-    dec: 一款高强度TC4钛合金板。危急时刻也可以用来防御冲击，但还是售出更有性价比。
+    dec: 一款高強度TC4鈦合金板。危急時刻也可以用來防禦衝擊，但還是售出更有性價比。
     type: 2
     sold_part: 112
   }
   {
     id: 213
-    name: 电容
+    name: 電容
     icon: breakout_otheritem13
-    dec: 各种类型的电容器，常用于电机工程。请在技术人员指导下使用，以免尝到短路的焦香。
+    dec: 各種類型的電容器，常用於電機工程。請在技術人員指導下使用，以免嚐到短路的焦香。
     type: 2
     sold_part: 42
   }
   {
     id: 214
-    name: 软盘
+    name: 磁片
     icon: breakout_otheritem14
-    dec: 用于储存数据的高性价比选择。听说在某个世界，也有人用它储存作战经验……
+    dec: 用於儲存資料的高性價比選擇。聽說在某個世界，也有人用它儲存作戰經驗……
     type: 2
     sold_part: 48
   }
   {
     id: 215
-    name: 机械硬盘
+    name: 機械硬碟
     icon: breakout_otheritem15
-    dec: 已经彻底损坏的机械硬盘。如果里面存有机密数据，至少再也不用担心泄密了。
+    dec: 已經徹底損壞的機械硬碟。如果裡面存有機密資料，至少再也不用擔心洩密了。
     type: 2
     sold_part: 51
   }
   {
     id: 216
-    name: 固态硬盘
+    name: 固態硬碟
     icon: breakout_otheritem16
-    dec: 固态硬盘，具有极强的读写性能。同样作为储存数据的工具，它比机械硬盘值钱得多。
+    dec: 固態硬碟，具有極強的讀寫性能。同樣作為儲存資料的工具，它比機械硬碟值錢得多。
     type: 2
     sold_part: 39
   }
   {
     id: 217
-    name: PSU电源
+    name: PSU電源
     icon: breakout_otheritem17
-    dec: 电脑的供电单元，是一种电能转换类的电源。再弄到一些其他的必要部件，说不定能自组出一台电脑。
+    dec: 電腦的供電單元，是一種電能轉換類的電源。再弄到一些其他的必要部件，說不定能自組出一台電腦。
     type: 2
     sold_part: 78
   }
   {
     id: 218
-    name: 显卡
+    name: 顯示卡
     icon: breakout_otheritem18
-    dec: 民用的显卡，性能方面只能说见仁见智。有了它，电脑可以流畅地运行扫雷游戏。
+    dec: 民用的顯示卡，性能方面只能說見仁見智。有了它，電腦可以流暢地玩踩地雷。
     type: 2
     sold_part: 96
   }
   {
     id: 219
-    name: 电池
+    name: 電池
     icon: breakout_otheritem19
-    dec: 广泛用于各种便携设备的电池。虽然不怎么值钱，但为环境着想，还是正常回收比较好。
+    dec: 廣泛用於各種便攜設備的電池。雖然不怎麼值錢，但為環境著想，還是正常回收比較好。
     type: 2
     sold_part: 36
   }
   {
     id: 220
-    name: D型电池
+    name: 一號電池
     icon: breakout_otheritem20
-    dec: 大号D型电池，常用于功率比较大的设备。很多设备就算彻底坏了，电池抠下来也还能换点钱。
+    dec: 大號一號電池，常用於功率比較大的設備。很多設備就算徹底壞了，電池摳下來也還能換點錢。
     type: 2
     sold_part: 43
   }
   {
     id: 221
-    name: 移动电源
+    name: 行動電源
     icon: breakout_otheritem21
-    dec: 可充电的大容量电池，能用于很多小型便携设备。适用范围很广，一有机会就应该给它蓄上电。
+    dec: 可充電的大容量電池，能用於很多小型便攜設備。適用範圍很廣，一有機會就應該給它蓄上電。
     type: 2
     sold_part: 39
   }
   {
     id: 222
-    name: 太阳能板
+    name: 太陽能板
     icon: breakout_otheritem22
-    dec: 太阳能发电系统中的核心部分。电网出问题的时候很多事都靠它，阴天就得看运气了。
+    dec: 太陽能發電系統中的核心部分。電網出問題的時候很多事都靠它，陰天就得看運氣了。
     type: 2
     sold_part: 68
   }
   {
     id: 223
-    name: 汽车蓄电池
+    name: 汽車蓄電池
     icon: breakout_otheritem23
-    dec: 汽车蓄电池，是市场上常见的转售物品。不知道人形能不能用……奇怪，人形是什么？
+    dec: 汽車蓄電池，是市場上常見的轉售物品。不知道人形能不能用……奇怪，人形是什麼？
     type: 2
     sold_part: 94
   }
   {
     id: 224
-    name: 专用电池组
+    name: 專用電池組
     icon: breakout_otheritem24
-    dec: 专用的电池组，价格昂贵。据说续航十分持久，不过移动起来也相对不那么方便。
+    dec: 專用的電池組，價格昂貴。據說續航十分持久，不過移動起來也相對不那麼方便。
     type: 2
     sold_part: 166
   }
   {
     id: 225
-    name: 磁铁
+    name: 磁鐵
     icon: breakout_otheritem25
-    dec: 手工制作的磁铁，用途非常广泛，但不包括自制磁悬浮列车。
+    dec: 手工製作的磁鐵，用途非常廣泛，但不包括自製磁懸浮列車。
     type: 2
     sold_part: 39
   }
   {
     id: 226
-    name: 管钳
+    name: 管子鉗
     icon: breakout_otheritem26
-    dec: 用于切割水管的管钳。无论是助人为乐还是给人添堵，只要找到管道就能轻松做到。
+    dec: 用於切割水管的管鉗。無論是助人為樂還是給人添堵，只要找到管道就能輕鬆做到。
     type: 2
     sold_part: 46
   }
@@ -267,159 +267,159 @@
     id: 227
     name: 工具箱
     icon: breakout_otheritem27
-    dec: 一个常用的多功能工具包。里面没有什么贵重器具，但大大小小的事总能派上用场。
+    dec: 一個常用的多功能工具包。裡面沒有什麼貴重器具，但大大小小的事總能派上用場。
     type: 2
     sold_part: 49
   }
   {
     id: 228
-    name: 便携式千斤顶
+    name: 便攜式千斤頂
     icon: breakout_otheritem28
-    dec: 小型液压千斤顶，比很多临时组来的队友更靠得住。你永远可以放心地对它说：“帮我顶一会儿”。
+    dec: 小型液壓千斤頂，比很多臨時組來的隊友更靠得住。你永遠可以放心地對它說：「幫我頂一會兒」。
     type: 2
     sold_part: 62
   }
   {
     id: 229
-    name: 液压电动钢筋剪
+    name: 液壓電動鋼筋剪
     icon: breakout_otheritem29
-    dec: 内置电动液压装置，当地建筑工人用其剪断钢筋。这年头有个稳定施工的工地并不容易，大家都很珍惜。
+    dec: 內置電動液壓裝置，當地建築工人用其剪斷鋼筋。這年頭有個穩定施工的工地並不容易，大家都很珍惜。
     type: 2
     sold_part: 85
   }
   {
     id: 230
-    name: 液压扳手
+    name: 液壓扳手
     icon: breakout_otheritem30
-    dec: 使用高强度合金制作的液压扳手，能够在小空间内快速紧固螺栓，拯救摇摇欲坠的栖身处。
+    dec: 使用高強度合金製作的液壓扳手，能夠在小空間內快速緊固螺栓，拯救搖搖欲墜的棲身處。
     type: 2
     sold_part: 101
   }
   {
     id: 231
-    name: 灯泡
+    name: 燈泡
     icon: breakout_otheritem31
-    dec: 常见的白炽灯泡。制造成本和发光效率都不高，是很多地区平民的常用照明工具。
+    dec: 常見的白熾燈泡。製造成本和發光效率都不高，是很多地區平民的常用照明工具。
     type: 2
     sold_part: 29
   }
   {
     id: 232
-    name: 节能灯
+    name: 節能燈
     icon: breakout_otheritem32
-    dec: 现代节能灯泡，与白炽灯相比有更高的发光效率，使用寿命更长，市场售价也更高。
+    dec: 現代節能燈泡，與白熾燈相比有更高的發光效率，使用壽命更長，市場售價也更高。
     type: 2
     sold_part: 36
   }
   {
     id: 233
-    name: 露营灯
+    name: 露營燈
     icon: breakout_otheritem33
-    dec: 防水露营灯，在夜晚提供一个可靠的光源。和太阳能板一样，总在无电力供应的时候默默提供支援。
+    dec: 防水露營燈，在夜晚提供一個可靠的光源。和太陽能板一樣，總在無電力供應的時候默默提供支援。
     type: 2
     sold_part: 52
   }
   {
     id: 234
-    name: 高能手电筒
+    name: 高功率手電筒
     icon: breakout_otheritem34
-    dec: 比露营灯更便携的照明设备，蓄电略弱于露营灯，但使用场景更广泛。
+    dec: 比露營燈更便攜的照明設備，蓄電略弱於露營燈，但使用場景更廣泛。
     type: 2
     sold_part: 55
   }
   {
     id: 235
-    name: 手持补光灯
+    name: 手持補光燈
     icon: breakout_otheritem35
-    dec: 手持型补光灯，在缺乏光照度的环境下进行灯光补偿。不如常见灯具方便，但拍照取证时很好用。
+    dec: 手持型補光燈，在缺乏光照度的環境下進行燈光補償。不如常見燈具方便，但拍照取證時很好用。
     type: 2
     sold_part: 66
   }
   {
     id: 236
-    name: X300U-A战术手手电
+    name: X300U-A戰術手電筒
     icon: breakout_otheritem36
-    dec: 深受欢迎的战术手电，可以瞬间照亮黑暗的角落，也能在作战中暂时压制敌方行动。
+    dec: 深受歡迎的戰術手電筒，可以瞬間照亮黑暗的角落，也能在作戰中暫時壓制敵方行動。
     type: 2
     sold_part: 98
   }
   {
     id: 237
-    name: 怀表
+    name: 懷錶
     icon: breakout_otheritem37
-    dec: 工艺复杂的链式怀表，真正还在把这种东西当计时工具使用的人已经不多了。
+    dec: 工藝複雜的鏈式懷錶，真正還在把這種東西當計時工具使用的人已經不多了。
     type: 2
     sold_part: 43
   }
   {
     id: 238
-    name: 纪念硬币
+    name: 紀念硬幣
     icon: breakout_otheritem38
-    dec: 有一定纪念价值的硬币，看起来很像那么回事，真拿到古董市场就换不到几个钱了。
+    dec: 有一定紀念價值的硬幣，看起來很像那麼回事，真拿到古董市場就換不到多少錢了。
     type: 2
     sold_part: 40
   }
   {
     id: 239
-    name: 银徽章
+    name: 銀徽章
     icon: breakout_otheritem39
-    dec: 银色的徽章，上面带有精致浮雕。虽然制作精巧，但离价值连城还差得很远。
+    dec: 銀色的徽章，上面帶有精緻浮雕。雖然製作精巧，但離價值連城還差得很遠。
     type: 2
     sold_part: 52
   }
   {
     id: 240
-    name: 座钟
+    name: 座鐘
     icon: breakout_otheritem40
-    dec: 工艺极其精巧的座钟。对于富贵人家来说是上等的装饰，危难关头就只是带不走的一件家具罢了。
+    dec: 工藝極其精巧的座鐘。對於富貴人家來說是上等的裝飾，危難關頭就只是帶不走的一件傢具罷了。
     type: 2
     sold_part: 59
   }
   {
     id: 241
-    name: 金手镯
+    name: 金手鐲
     icon: breakout_otheritem41
-    dec: 做工粗糙的金手镯。虽然工艺不怎么样，但毕竟金子才是硬通货……
+    dec: 做工粗糙的金手鐲。雖然工藝不怎麼樣，但畢竟金子才是硬通貨……
     type: 2
     sold_part: 99
   }
   {
     id: 242
-    name: 金手表
+    name: 金手錶
     icon: breakout_otheritem42
-    dec: 价值昂贵的金手表。指针貌似有些问题，但很容易就能修好，是很值得打包的随身财物。
+    dec: 價值昂貴的金手錶。指針貌似有些問題，但很容易就能修好，是很值得打包的隨身財物。
     type: 2
     sold_part: 101
   }
   {
     id: 243
-    name: 胸针
+    name: 胸針
     icon: breakout_otheritem43
-    dec: 当地工匠制作的宝石胸针，价格不菲。在轻工业制品已经泛滥的时代，高级匠人的手工才是奢侈的象征。
+    dec: 當地工匠製作的寶石胸針，價格不菲。在輕工業製品已經泛濫的時代，高級匠人的手工才是奢侈的象徵。
     type: 2
     sold_part: 105
   }
   {
     id: 244
-    name: 钻戒
+    name: 鑽戒
     icon: breakout_otheritem44
-    dec: 昂贵的钻石戒指，戒指表面镶有一颗大块的整钻，在任何地方都能卖个好价钱。
+    dec: 昂貴的鑽石戒指，戒指表面鑲有一顆大塊的整鑽，在任何地方都能賣個好價錢。
     type: 2
     sold_part: 113
   }
   {
     id: 245
-    name: 宫廷银器
+    name: 宮廷銀器
     icon: breakout_otheritem45
-    dec: 海外流入的宫廷银器，保存完好、做工精良，光是拿在手上就能体会到贵族的快乐。
+    dec: 海外流入的宮廷銀器，保存完好、做工精良，光是拿在手上就能體會到貴族的快樂。
     type: 2
     sold_part: 140
   }
   {
     id: 246
-    name: 金块
+    name: 金塊
     icon: breakout_otheritem46
-    dec: 原材料来自欧特斯金矿场，经由当地专业的工坊冶炼而成。比起金制品，当然是纯粹的金块更值得收藏。
+    dec: 原材料來自歐特斯金礦場，經由當地專業的工坊冶煉而成。比起金製品，當然是純粹的金塊更值得收藏。
     type: 2
     sold_part: 120
   }
@@ -427,122 +427,122 @@
     id: 247
     name: 花瓶
     icon: breakout_otheritem47
-    dec: 看起来很昂贵的花瓶，上面的繁复花样记载了一个贵族的生活。有多美丽，就有多脆弱。
+    dec: 看起來很昂貴的花瓶，上面的繁複花樣記載了一個貴族的生活。有多美麗，就有多脆弱。
     type: 2
     sold_part: 218
   }
   {
     id: 248
-    name: 金狮雕像
+    name: 金獅雕像
     icon: breakout_otheritem48
-    dec: 一尊价值不菲的金狮雕像。听说它可是个人人心动的大宝贝……就因为是纯金的吗？
+    dec: 一尊價值不菲的金獅雕像。聽說它可是個人人心動的大寶貝……就因為是純金的嗎？
     type: 2
     sold_part: 296
   }
   {
     id: 249
-    name: BP机
+    name: BB.Call
     icon: breakout_otheritem49
-    dec: 一台小巧的寻呼机。不如手机功能复杂，但单向接收信息十分好用。
+    dec: 一台小巧的尋呼機。不如手機功能複雜，但單向接收資訊十分好用。
     type: 2
     sold_part: 38
   }
   {
     id: 250
-    name: 手机
+    name: 手機
     icon: breakout_otheritem50
-    dec: 看起来很便宜的手机，只有一些最基础的功能。
+    dec: 看起來很便宜的手機，只有一些最基礎的功能。
     type: 2
     sold_part: 46
   }
   {
     id: 251
-    name: 照相机
+    name: 照相機
     icon: breakout_otheritem51
-    dec: 沉重的光学装置，型号比较老旧，所携带的闪光灯可用于夜间拍照。
+    dec: 沉重的光學裝置，型號比較老舊，所攜帶的閃光燈可用於夜間拍照。
     type: 2
     sold_part: 64
   }
   {
     id: 252
-    name: 金色手机
+    name: 金色手機
     icon: breakout_otheritem52
-    dec: 看起来很昂贵的金色手机，性能优越，还增加了值钱的装饰材料。
+    dec: 看起來很昂貴的金色手機，性能優越，還增加了值錢的裝飾材料。
     type: 2
     sold_part: 101
   }
   {
     id: 253
-    name: 笔记本电脑
+    name: 筆記型電腦
     icon: breakout_otheritem53
-    dec: 风靡海外的新型电脑，是身份与财力的象征。在想要变卖资产的时候，最先卖掉的也总是它。
+    dec: 風靡海外的新型電腦，是身份與財力的象徵。在想要變賣資產的時候，最先賣掉的也總是它。
     type: 2
     sold_part: 129
   }
   {
     id: 254
-    name: 摄像机
+    name: 攝影機
     icon: breakout_otheritem54
-    dec: 来自海外的民用摄像机，略显老旧但相当耐用。二手市场淘来的摄像机里有时能看到一些陌生的幸福时光。
+    dec: 來自海外的民用攝影機，略顯老舊但相當耐用。二手市場買來的攝影機裡有時能看到一些陌生的幸福時光。
     type: 2
     sold_part: 143
   }
   {
     id: 255
-    name: 军用罗盘
+    name: 軍用羅盤
     icon: breakout_otheritem55
-    dec: 军用罗盘仪，用于指示方向。比民用的工具要可靠得多，但不能指明人生的方向。
+    dec: 軍用羅盤儀，用於指示方向。比民用的工具要可靠得多，但不能指明人生的方向。
     type: 2
     sold_part: 46
   }
   {
     id: 256
-    name: 测距望远镜
+    name: 測距望遠鏡
     icon: breakout_otheritem56
-    dec: 具有激光测距功能的望远镜，观测战场情形的实用工具，不过也没有更多功能了。
+    dec: 具有雷射測距功能的望遠鏡，觀測戰場情形的實用工具，不過也沒有更多功能了。
     type: 2
     sold_part: 60
   }
   {
     id: 257
-    name: 炮队镜
+    name: 潛望鏡
     icon: breakout_otheritem57
-    dec: 潜望式双目光学仪器，能够在不暴露自身位置的情况下进行观测，安全性更上一个台阶。
+    dec: 潛望式雙目光學儀器，能夠在不暴露自身位置的情況下進行觀測，安全性更上一個台階。
     type: 2
     sold_part: 72
   }
   {
     id: 258
-    name: 军用电台
+    name: 軍用收音機
     icon: breakout_otheritem58
-    dec: 年代久远的电台，经过学习就能上手使用。如果运气好，或许还能截获有用情报。
+    dec: 年代久遠的收音機，經過學習就能上手使用。如果運氣好，或許還能截獲有用情報。
     type: 2
     sold_part: 98
   }
   {
     id: 259
-    name: 激光指示器模块
+    name: 雷射指示器模組
     icon: breakout_otheritem59
-    dec: 军用激光测距仪的组件之一，负责激光指示的装置模块。自己留着大概率用不上，但能卖个好价钱。
+    dec: 軍用雷射測距儀的組件之一，負責雷射指示的裝置模組。自己留著大概用不上，但能賣個好價錢。
     type: 2
     sold_part: 138
   }
   {
     id: 260
-    name: 目标定位器模块
+    name: 目標定位器模組
     icon: breakout_otheritem60
-    dec: 军用激光测距仪的组件之一，负责目标定位的装置模块。自己留着大概率用不上，但能卖个好价钱。
+    dec: 軍用雷射測距儀的組件之一，負責目標定位的裝置模組。自己留著大概用不上，但能賣個好價錢。
     type: 2
     sold_part: 270
   }
   {
     id: 301
-    name: 随身背包
+    name: 隨身背包
     icon: breakout_backpack
     dec:
       '''
-      <color=#E4A821>可扩充背包容量+3</color>
-      单兵作战能携带的物资有限，一个品质优良的背包是先锋们的必备之选。
+      <color=#E4A821>可擴充背包容量+3</color>
+      單兵作戰能攜帶的物資有限，一個品質優良的背包是先鋒們的必備之選。
       '''
     type: 3
     cost_part: 288

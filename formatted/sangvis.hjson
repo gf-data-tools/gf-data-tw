@@ -1699,13 +1699,13 @@
   }
   {
     id: 1029
-    name: sangvis-10001029
+    name: 白燁戈
     en_name: Beluga
     code: M16A1_Boss
-    introduce: sangvis-40001029
+    introduce: 白燁戈，原是帕斯卡實驗室產出的精銳戰術人形，後因受「傘」病毒感染而離開格里芬，先後輾轉於多地，但她從未忘記自己的使命。M16A1，雷納德•卡加，Белуга，白燁戈……於她而言，都不過是一個代號，一段經歷，真正的她從未改變。除了素體的累累傷痕，豐富的閱歷還提升了她的見識和能力，讓現在的她能夠游刃有餘地和不同的隊友一起應對敵人。
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
-    en_introduce: sangvis-30001029
+    en_introduce: 待定
     forces: 1
     type: 1
     character: "2,4,6"

@@ -3,7 +3,7 @@
     id: -1
     code: CommanderSelf
     icon: CommanderSelf
-    name: 指挥官
+    name: 指揮官
     type: 1
     hp: "200"
     atk: "200"
@@ -38,7 +38,7 @@
     speed: "10,11,12"
     shield: "0,0,0"
     skills: "100,101"
-    skill_dec: 战斗中会交替提高自身伤害及射速，每3秒替换一次
+    skill_dec: 戰鬥中會交替提高自身傷害及射速，每3秒替換一次
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_MDR
   }
@@ -61,7 +61,7 @@
     speed: "10,11,12"
     shield: "0,0,0"
     skills: "100,102"
-    skill_dec: 发射榴弹对落点附近的敌人造成伤害，冷却时间6秒
+    skill_dec: 發射榴彈對落點附近的敵人造成傷害，冷卻時間6秒
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_G3
   }
@@ -86,8 +86,8 @@
     skills: "103,104"
     skill_dec:
       '''
-      攻击时使目标减速，持续2秒，冷却时间6秒
-      普通攻击对被减速的目标造成的伤害提高
+      攻擊時使目標減速，持續2秒，冷卻時間6秒
+      普通攻擊對被減速的目標造成的傷害提高
       '''
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_ACR
@@ -111,7 +111,7 @@
     speed: "8,9,10"
     shield: "0,0,0"
     skills: "200,201"
-    skill_dec: 提升自身射速，持续时间3秒，冷却时间6秒
+    skill_dec: 提升自身射速，持續時間3秒，冷卻時間6秒
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_wz.29
   }
@@ -119,7 +119,7 @@
     id: 5
     code: M1
     icon: M1
-    name: M1加兰德
+    name: M1加蘭德
     type: 3
     cost_deploy: 4
     cost_upgrade: "50,100"
@@ -134,7 +134,7 @@
     speed: "8,9,10"
     shield: "0,0,0"
     skills: "200,202"
-    skill_dec: 对射程内的随机目标发动一次狙击，冷却时间3秒，可跨行攻击
+    skill_dec: 對射程內的隨機目標發動一次狙擊，冷卻時間3秒，可跨行攻擊
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_M1
   }
@@ -157,7 +157,7 @@
     speed: "8,9,10"
     shield: "0,0,0"
     skills: "203"
-    skill_dec: 攻击时可以贯穿第1个目标，对射程内的第2个目标造成一半的伤害
+    skill_dec: 攻擊時可以貫穿第1個目標，對射程內的第2個目標造成一半的傷害
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_Type4
   }
@@ -180,7 +180,7 @@
     speed: "9,10,11"
     shield: "0,0,0"
     skills: "301"
-    skill_dec: 自身攻击提高，但会攻击射程内的随机目标，可跨行
+    skill_dec: 自身攻擊提高，但會攻擊射程內的隨機目標，可跨行
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_RPD
   }
@@ -203,7 +203,7 @@
     speed: "9,10,11"
     shield: "0,0,0"
     skills: "302"
-    skill_dec: 每3次攻击后下一次攻击伤害提高
+    skill_dec: 每3次攻擊後下一次攻擊傷害提高
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_MG5
   }
@@ -226,7 +226,7 @@
     speed: "9,10,11"
     shield: "0,0,0"
     skills: "303"
-    skill_dec: 每次攻击时提高自身伤害，换弹时清零
+    skill_dec: 每次攻擊時提高自身傷害，換彈時清零
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_MG338
   }
@@ -249,7 +249,7 @@
     speed: "10,11,12"
     shield: "0,0,0"
     skills: "400,401"
-    skill_dec: 在场时使同一行的所有敌人伤害小幅下降，不可叠加
+    skill_dec: 在場時使同一行的所有敵人傷害小幅下降，不可疊加
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_AK74U
   }
@@ -272,7 +272,7 @@
     speed: "10,11,12"
     shield: "0,0,0"
     skills: "400,402"
-    skill_dec: 投掷燃烧瓶对落点附近的敌人造成伤害并将其点燃，持续时间5秒，冷却时间6秒
+    skill_dec: 投擲燃燒瓶對落點附近的敵人造成傷害並將其點燃，持續時間5秒，冷卻時間6秒
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_Vz.61
   }
@@ -295,7 +295,7 @@
     speed: "10,11,12"
     shield: "0,0,0"
     skills: "400,403"
-    skill_dec: 战斗中持续提高自身闪避，达到最大层数后清零
+    skill_dec: 戰鬥中持續提高自身閃避，達到最大層數後清零
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_P90
   }
@@ -318,7 +318,7 @@
     speed: "9,10,11"
     shield: "0,0,0"
     skills: "500,501"
-    skill_dec: 提升自身护甲，持续时间3秒，冷却时间6秒
+    skill_dec: 提升自身護甲，持續時間3秒，冷卻時間6秒
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_KSG
   }
@@ -341,7 +341,7 @@
     speed: "9,10,11"
     shield: "0,0,0"
     skills: "502"
-    skill_dec: 攻击时击退目标并将其减速，持续时间1秒
+    skill_dec: 攻擊時擊退目標並將其減速，持續時間1秒
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_Type97S
   }
@@ -364,7 +364,7 @@
     speed: "9,10,11"
     shield: "0,0,0"
     skills: "503"
-    skill_dec: 同时攻击最近的3个目标，但射程降低
+    skill_dec: 同時攻擊最近的3個目標，但射程降低
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_MK3A1
   }
@@ -372,7 +372,7 @@
     id: 16
     code: M1873
     icon: M1873
-    name: 柯尔特左轮
+    name: 柯爾特左輪
     type: 1
     cost_deploy: 3
     cost_upgrade: "50,100"
@@ -387,7 +387,7 @@
     speed: "12,13,14"
     shield: "0,0,0"
     skills: "600,601"
-    skill_dec: 在场时使同一行的所有友军伤害小幅提升，不可叠加
+    skill_dec: 在場時使同一行的所有友軍傷害小幅提升，不可疊加
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_M1873
   }
@@ -395,7 +395,7 @@
     id: 17
     code: "357"
     icon: "357"
-    name: 阿斯特拉左轮
+    name: 阿斯特拉左輪
     type: 1
     cost_deploy: 3
     cost_upgrade: "50,100"
@@ -410,7 +410,7 @@
     speed: "12,13,14"
     shield: "0,0,0"
     skills: "600,602"
-    skill_dec: 在场时使同一行的所有友军射速小幅提升，不可叠加
+    skill_dec: 在場時使同一行的所有友軍射速小幅提升，不可疊加
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_357
   }
@@ -433,7 +433,7 @@
     speed: "12,13,14"
     shield: "0,0,0"
     skills: "600,603"
-    skill_dec: 在场时使同一行的所有友军回避小幅提升，不可叠加
+    skill_dec: 在場時使同一行的所有友軍迴避小幅提升，不可疊加
     deployment_cd: 60
     bt_tree: Tarkov/Units/Guns/GunAI_TT33
   }

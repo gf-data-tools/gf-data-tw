@@ -8998,13 +8998,13 @@
   }
   {
     id: 3119
-    name: furniture-10003119
+    name: 武器陳列牆
     classes: 31
     type: 202
     space: "9,8,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20003119
+    description: 在卡莫納，擁有武器的人才有選擇的權利。哪怕只是一顆子彈，也能為自己在黑暗叢林裡贏來發聲的機會。
     code: aqtw2024_deco_02_A,aqtw2024_deco_02_B
     texture_type: "1,1"
     sorting: "0,5"
@@ -9015,13 +9015,13 @@
   }
   {
     id: 3120
-    name: furniture-10003120
+    name: 戰利品藏桌
     classes: 31
     type: 201
     space: "18,4,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20003120
+    description: 為什麼沒有像往常那樣賣掉這些戰利品？是為了記住什麼，還是想要忘記什麼？
     code: aqtw2024_deco_03_A,aqtw2024_deco_03_B
     texture_type: "1,1"
     sorting: "0,0"
@@ -9030,13 +9030,13 @@
   }
   {
     id: 3121
-    name: furniture-10003121
+    name: 榮譽獎章
     classes: 31
     type: 302
     space: "3,5,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20003121
+    description: 每個特遣隊員都有自己的榮譽等級，並希望通過完成更多的委託去提升它。其實很多人都有獲得「傳說」榮譽的潛力，只是缺點運氣去撐到那個時候。
     code: aqtw2024_deco_04
     texture_type: "1"
     offset: "0,0,0"
@@ -9044,13 +9044,13 @@
   }
   {
     id: 3122
-    name: furniture-10003122
+    name: 士氣章收藏
     classes: 31
     type: 302
     space: "7,3,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20003122
+    description: 這些士氣章裡，有敵人的，也有故人的。每次看到它們被放在一起，都會讓人有一瞬間的恍惚。
     code: aqtw2024_deco_05
     texture_type: "1"
     offset: "0,0.09,0"
@@ -9058,13 +9058,13 @@
   }
   {
     id: 3123
-    name: furniture-10003123
+    name: 貓爪武器架
     classes: 31
     type: 201
     space: "7,6,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20003123
+    description: 沒人會嫌棄自己的武器太多，無論是槍支、彈藥、防具……還是貓咪藏在肉墊裡的利爪。
     code: aqtw2024_deco_06,ArenaBreakout_weaponrack
     texture_type: "1,2"
     sorting: "0,5"
@@ -9073,13 +9073,13 @@
   }
   {
     id: 3124
-    name: furniture-10003124
+    name: 高壓電箱
     classes: 31
     type: 302
     space: "3,5,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20003124
+    description: 雖然被掛上了「危險」的標誌，但危險程度遠遠不及「高壓線」：比如某個男性boss的墨鏡是否是用來掩藏魚尾紋的。
     code: aqtw2024_deco_07
     texture_type: "1"
     offset: "0,0,0"
@@ -9087,13 +9087,13 @@
   }
   {
     id: 3125
-    name: furniture-10003125
+    name: 實用吊燈
     classes: 31
     type: 201
     space: "1,1,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20003125
+    description: 摒除華麗的外表與複雜的功能；帶來光明——這是一台吊燈最重要的意義。
     code: ArenaBreakout_lamp
     texture_type: "2"
     offset: "0,3.806,0"
@@ -9102,13 +9102,13 @@
   }
   {
     id: 3126
-    name: furniture-10003126
+    name: 迷霧沼澤
     classes: 31
     type: 101
     space: "1,1,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20003126
+    description: 前路與歸處，總要看得清一個；盯緊它，從下陷的沼澤中拔出腿，即便是蝸牛也有爬到終點的資格。
     code: aqtw2024_floor
     texture_type: "1"
     offset: "0,0,0"
@@ -9116,13 +9116,13 @@
   }
   {
     id: 3127
-    name: furniture-10003127
+    name: 鴉色叢林
     classes: 31
     type: 301
     space: "1,1,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20003127
+    description: 一隻烏鴉飛入黑暗的叢林，你看不到它的羽翼。當黑色成為唯一的保護色，請給自己掛上一盞燈。
     code: aqtw2024_wall
     texture_type: "1"
     offset: "0,0,0"
@@ -30627,13 +30627,13 @@
   }
   {
     id: 20154
-    name: furniture-10020154
+    name: 追光者勳章
     classes: 19
     type: 302
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020154
+    description: 表彰該指揮官及其麾下的戰術人形在「蝴蝶星雲」活動中的卓越戰績，「暗區的迷霧從未真正湮沒光亮，因為光，是來自天上的。」
     code: 2024ArenaBreakout_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -46890,13 +46890,13 @@
   }
   {
     id: 330024
-    name: furniture-10330024
+    name: S.A.T.8-暮野花謠
     classes: 300
     type: 303
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
-    description: furniture-20330024
+    description: S.A.T.8的海報。
     code: poster_BattlePass_SAT8
     texture_type: "1"
     sorting: "5"
@@ -46920,13 +46920,13 @@
   }
   {
     id: 350002
-    name: furniture-10350002
+    name: 艾薇塔-複合呼吸
     classes: 300
     type: 303
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
-    description: furniture-20350002
+    description: 艾薇塔的海報。
     code: poster_ArenaBreakout_Evita
     texture_type: "1"
     sorting: "5"
@@ -46935,13 +46935,13 @@
   }
   {
     id: 350003
-    name: furniture-10350003
+    name: 黑卡蒂-致命焦點
     classes: 300
     type: 303
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
-    description: furniture-20350003
+    description: 黑卡蒂的海報。
     code: poster_ArenaBreakout_Hecate
     texture_type: "1"
     sorting: "5"
@@ -46950,13 +46950,13 @@
   }
   {
     id: 350004
-    name: furniture-10350004
+    name: P90-幻影尖兵
     classes: 300
     type: 303
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
-    description: furniture-20350004
+    description: P90的海報。
     code: poster_ArenaBreakout_P90
     texture_type: "1"
     sorting: "5"
@@ -46965,13 +46965,13 @@
   }
   {
     id: 350005
-    name: furniture-10350005
+    name: MDR-DDOS特工隊
     classes: 300
     type: 303
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
-    description: furniture-20350005
+    description: MDR的海報。
     code: poster_ArenaBreakout_MDR
     texture_type: "1"
     sorting: "5"

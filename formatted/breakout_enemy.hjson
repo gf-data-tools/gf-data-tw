@@ -3,44 +3,44 @@
     id: 4101
     code: breakout_barricade4
     icon: breakout_barricade4
-    name: breakout_enemy-10004101
+    name: 路障1
     hp: 3000
     atk: 60
     rate: 75
     skills: "9001"
-    skill_dec: breakout_enemy-20004101
+    skill_dec: 路障：敵方單位位於其後方時移動速度降低，射程提高
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Block
   }
   {
     id: 4102
     code: breakout_barricade5
     icon: breakout_barricade5
-    name: breakout_enemy-10004102
+    name: 路障2
     hp: 3000
     atk: 60
     rate: 75
     skills: "9001"
-    skill_dec: breakout_enemy-20004102
+    skill_dec: 路障：敵方單位位於其後方時移動速度降低，射程提高
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Block
   }
   {
     id: 4103
     code: breakout_barricade6
     icon: breakout_barricade6
-    name: breakout_enemy-10004103
+    name: 大路障
     hp: 50000
     atk: 100
     rate: 100
     armor: 200
     skills: "9001"
-    skill_dec: breakout_enemy-20004103
+    skill_dec: 路障：敵方單位位於其後方時移動速度降低，射程提高
     bt_tree: Tarkov/Units/Enemies/EnemyAI_BlockB
   }
   {
     id: 110101
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10110101
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -48,7 +48,7 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20110101
+    skill_dec: 無甲：該單位沒有護甲
     drop: " "
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -56,7 +56,7 @@
     id: 110102
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10110102
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -64,7 +64,7 @@
     range: 95
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20110102
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11111"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -72,7 +72,7 @@
     id: 110103
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10110103
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -80,14 +80,14 @@
     range: 99
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20110103
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 110104
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10110104
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -95,7 +95,7 @@
     range: 96
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20110104
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11111"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -103,7 +103,7 @@
     id: 110105
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10110105
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -111,7 +111,7 @@
     range: 96
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20110105
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11111"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -119,7 +119,7 @@
     id: 110106
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10110106
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -127,7 +127,7 @@
     range: 100
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20110106
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11111"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -135,7 +135,7 @@
     id: 110201
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10110201
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -143,7 +143,7 @@
     range: 91
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20110201
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -151,7 +151,7 @@
     id: 110202
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10110202
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -159,14 +159,14 @@
     range: 90
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20110202
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 110203
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10110203
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -174,7 +174,7 @@
     range: 92
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20110203
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -182,7 +182,7 @@
     id: 110204
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10110204
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -190,14 +190,14 @@
     range: 86
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20110204
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 110205
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10110205
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -205,7 +205,7 @@
     range: 87
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20110205
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -213,7 +213,7 @@
     id: 110206
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10110206
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -221,7 +221,7 @@
     range: 90
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20110206
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -229,7 +229,7 @@
     id: 110207
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10110207
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -237,7 +237,7 @@
     range: 86
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20110207
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -245,7 +245,7 @@
     id: 110208
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10110208
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -253,7 +253,7 @@
     range: 89
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20110208
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -261,7 +261,7 @@
     id: 110209
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10110209
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -269,7 +269,7 @@
     range: 90
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20110209
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -277,28 +277,28 @@
     id: 110301
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10110301
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 103
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20110301
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
   {
     id: 110302
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10110302
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 102
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20110302
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21011"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -306,14 +306,14 @@
     id: 110303
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10110303
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 102
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20110303
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21011"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -321,14 +321,14 @@
     id: 110304
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10110304
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 97
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20110304
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21011"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -336,7 +336,7 @@
     id: 120101
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10120101
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -344,14 +344,14 @@
     range: 100
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20120101
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 120102
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10120102
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -359,14 +359,14 @@
     range: 100
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20120102
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 120103
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10120103
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -374,7 +374,7 @@
     range: 96
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20120103
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11111"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -382,7 +382,7 @@
     id: 120104
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10120104
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -390,7 +390,7 @@
     range: 98
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20120104
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11111"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -398,7 +398,7 @@
     id: 120105
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10120105
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -406,14 +406,14 @@
     range: 95
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20120105
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 120106
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10120106
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -421,14 +421,14 @@
     range: 98
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20120106
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 120107
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10120107
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -436,7 +436,7 @@
     range: 103
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20120107
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11121"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -444,7 +444,7 @@
     id: 120108
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10120108
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -452,7 +452,7 @@
     range: 100
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20120108
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11121"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -460,7 +460,7 @@
     id: 120201
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10120201
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -468,14 +468,14 @@
     range: 93
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20120201
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 120202
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10120202
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -483,7 +483,7 @@
     range: 89
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20120202
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -491,7 +491,7 @@
     id: 120203
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10120203
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -499,7 +499,7 @@
     range: 86
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20120203
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -507,7 +507,7 @@
     id: 120204
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10120204
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -515,7 +515,7 @@
     range: 86
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20120204
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -523,7 +523,7 @@
     id: 120205
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10120205
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -531,14 +531,14 @@
     range: 86
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20120205
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 120206
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10120206
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -546,7 +546,7 @@
     range: 85
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20120206
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -554,7 +554,7 @@
     id: 120207
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10120207
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -562,7 +562,7 @@
     range: 87
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20120207
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -570,7 +570,7 @@
     id: 120208
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10120208
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -578,7 +578,7 @@
     range: 89
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20120208
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -586,7 +586,7 @@
     id: 121501
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10121501
+    name: 殘暴遊蕩者HG
     hp: 2500
     atk: 60
     rate: 90
@@ -594,7 +594,11 @@
     range: 107
     speed: 10
     skills: "9115"
-    skill_dec: breakout_enemy-20121501
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      弱化：該單位攻擊時可降低目標的傷害
+      '''
     drop: "12111"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_115
   }
@@ -602,7 +606,7 @@
     id: 121502
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10121502
+    name: 殘暴遊蕩者HG
     hp: 2500
     atk: 60
     rate: 90
@@ -610,7 +614,11 @@
     range: 111
     speed: 10
     skills: "9115"
-    skill_dec: breakout_enemy-20121502
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      弱化：該單位攻擊時可降低目標的傷害
+      '''
     drop: "12111"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_115
   }
@@ -618,7 +626,7 @@
     id: 121503
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10121503
+    name: 殘暴遊蕩者HG
     hp: 2500
     atk: 60
     rate: 90
@@ -626,14 +634,18 @@
     range: 111
     speed: 10
     skills: "9115"
-    skill_dec: breakout_enemy-20121503
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      弱化：該單位攻擊時可降低目標的傷害
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_115
   }
   {
     id: 121504
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10121504
+    name: 殘暴遊蕩者HG
     hp: 2500
     atk: 60
     rate: 90
@@ -641,7 +653,11 @@
     range: 110
     speed: 10
     skills: "9115"
-    skill_dec: breakout_enemy-20121504
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      弱化：該單位攻擊時可降低目標的傷害
+      '''
     drop: "12121"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_115
   }
@@ -649,7 +665,7 @@
     id: 121505
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10121505
+    name: 殘暴遊蕩者HG
     hp: 2500
     atk: 60
     rate: 90
@@ -657,7 +673,11 @@
     range: 105
     speed: 10
     skills: "9115"
-    skill_dec: breakout_enemy-20121505
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      弱化：該單位攻擊時可降低目標的傷害
+      '''
     drop: "12121"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_115
   }
@@ -665,7 +685,7 @@
     id: 121601
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10121601
+    name: 殘暴遊蕩者SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -673,7 +693,11 @@
     range: 101
     speed: 11
     skills: "9116"
-    skill_dec: breakout_enemy-20121601
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      干擾：該單位攻擊時可降低目標的攻擊速度
+      '''
     drop: "12221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_116
   }
@@ -681,7 +705,7 @@
     id: 130101
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10130101
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -689,14 +713,14 @@
     range: 98
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20130101
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 130102
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10130102
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -704,14 +728,14 @@
     range: 100
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20130102
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 130103
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10130103
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -719,7 +743,7 @@
     range: 96
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20130103
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11121"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -727,7 +751,7 @@
     id: 130104
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10130104
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -735,7 +759,7 @@
     range: 99
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20130104
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11121"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -743,7 +767,7 @@
     id: 130105
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10130105
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -751,14 +775,14 @@
     range: 98
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20130105
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 130106
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10130106
+    name: 遊蕩者HG
     hp: 1000
     atk: 30
     rate: 90
@@ -766,7 +790,7 @@
     range: 95
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20130106
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11121"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -774,7 +798,7 @@
     id: 130201
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10130201
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -782,14 +806,14 @@
     range: 87
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20130201
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 130202
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10130202
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -797,14 +821,14 @@
     range: 92
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20130202
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 130203
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10130203
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -812,7 +836,7 @@
     range: 85
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20130203
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -820,7 +844,7 @@
     id: 130204
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10130204
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -828,7 +852,7 @@
     range: 85
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20130204
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -836,7 +860,7 @@
     id: 130205
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10130205
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -844,14 +868,14 @@
     range: 87
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20130205
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 130206
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10130206
+    name: 遊蕩者SMG
     hp: 1200
     atk: 20
     rate: 100
@@ -859,7 +883,7 @@
     range: 85
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20130206
+    skill_dec: 無甲：該單位沒有護甲
     drop: "11221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -867,84 +891,84 @@
     id: 130301
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10130301
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 96
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20130301
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
   {
     id: 130302
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10130302
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 104
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20130302
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
   {
     id: 130303
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10130303
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 96
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20130303
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
   {
     id: 130304
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10130304
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 100
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20130304
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
   {
     id: 130305
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10130305
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 96
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20130305
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
   {
     id: 130306
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10130306
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 100
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20130306
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21011"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -952,14 +976,14 @@
     id: 130307
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10130307
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 98
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20130307
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21011"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -967,14 +991,14 @@
     id: 130308
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10130308
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 99
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20130308
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21011"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -982,28 +1006,28 @@
     id: 130309
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10130309
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 103
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20130309
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
   {
     id: 130310
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10130310
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 98
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20130310
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21011"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -1011,7 +1035,7 @@
     id: 131501
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10131501
+    name: 殘暴遊蕩者HG
     hp: 2500
     atk: 60
     rate: 90
@@ -1019,14 +1043,18 @@
     range: 114
     speed: 10
     skills: "9115"
-    skill_dec: breakout_enemy-20131501
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      弱化：該單位攻擊時可降低目標的傷害
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_115
   }
   {
     id: 131502
     code: refugee_hg
     icon: refugee_hg
-    name: breakout_enemy-10131502
+    name: 殘暴遊蕩者HG
     hp: 2500
     atk: 60
     rate: 90
@@ -1034,7 +1062,11 @@
     range: 114
     speed: 10
     skills: "9115"
-    skill_dec: breakout_enemy-20131502
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      弱化：該單位攻擊時可降低目標的傷害
+      '''
     drop: "12121"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_115
   }
@@ -1042,7 +1074,7 @@
     id: 131601
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10131601
+    name: 殘暴遊蕩者SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -1050,14 +1082,18 @@
     range: 97
     speed: 11
     skills: "9116"
-    skill_dec: breakout_enemy-20131601
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      干擾：該單位攻擊時可降低目標的攻擊速度
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_116
   }
   {
     id: 131602
     code: refugee_smg
     icon: refugee_smg
-    name: breakout_enemy-10131602
+    name: 殘暴遊蕩者SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -1065,7 +1101,11 @@
     range: 101
     speed: 11
     skills: "9116"
-    skill_dec: breakout_enemy-20131602
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      干擾：該單位攻擊時可降低目標的攻擊速度
+      '''
     drop: "12221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_116
   }
@@ -1073,28 +1113,36 @@
     id: 131701
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10131701
+    name: 亡命徒
     hp: 2500
     atk: 80
     rate: 75
     range: 114
     speed: 12
     skills: "9117"
-    skill_dec: breakout_enemy-20131701
+    skill_dec:
+      '''
+      高速：該單位擁有較高的移動速度
+      點燃：該單位攻擊時可點燃目標，持續造成傷害
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_117
   }
   {
     id: 131702
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10131702
+    name: 亡命徒
     hp: 2500
     atk: 80
     rate: 75
     range: 107
     speed: 12
     skills: "9117"
-    skill_dec: breakout_enemy-20131702
+    skill_dec:
+      '''
+      高速：該單位擁有較高的移動速度
+      點燃：該單位攻擊時可點燃目標，持續造成傷害
+      '''
     drop: "22011"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_117
   }
@@ -1102,14 +1150,18 @@
     id: 131703
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10131703
+    name: 亡命徒
     hp: 2500
     atk: 80
     rate: 75
     range: 113
     speed: 12
     skills: "9117"
-    skill_dec: breakout_enemy-20131703
+    skill_dec:
+      '''
+      高速：該單位擁有較高的移動速度
+      點燃：該單位攻擊時可點燃目標，持續造成傷害
+      '''
     drop: "22011"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_117
   }
@@ -1117,28 +1169,36 @@
     id: 131704
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10131704
+    name: 亡命徒
     hp: 2500
     atk: 80
     rate: 75
     range: 106
     speed: 12
     skills: "9117"
-    skill_dec: breakout_enemy-20131704
+    skill_dec:
+      '''
+      高速：該單位擁有較高的移動速度
+      點燃：該單位攻擊時可點燃目標，持續造成傷害
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_117
   }
   {
     id: 131705
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10131705
+    name: 亡命徒
     hp: 2500
     atk: 80
     rate: 75
     range: 113
     speed: 12
     skills: "9117"
-    skill_dec: breakout_enemy-20131705
+    skill_dec:
+      '''
+      高速：該單位擁有較高的移動速度
+      點燃：該單位攻擊時可點燃目標，持續造成傷害
+      '''
     drop: "22011"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_117
   }
@@ -1146,14 +1206,18 @@
     id: 131706
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10131706
+    name: 亡命徒
     hp: 2500
     atk: 80
     rate: 75
     range: 113
     speed: 12
     skills: "9117"
-    skill_dec: breakout_enemy-20131706
+    skill_dec:
+      '''
+      高速：該單位擁有較高的移動速度
+      點燃：該單位攻擊時可點燃目標，持續造成傷害
+      '''
     drop: "22011"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_117
   }
@@ -1161,42 +1225,42 @@
     id: 210301
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10210301
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 104
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20210301
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
   {
     id: 210302
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10210302
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 95
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20210302
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
   {
     id: 210303
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10210303
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 103
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20210303
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21021"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -1204,7 +1268,7 @@
     id: 210401
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10210401
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1214,14 +1278,14 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20210401
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 210402
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10210402
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1231,14 +1295,14 @@
     range: 101
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20210402
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 210403
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10210403
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1248,14 +1312,14 @@
     range: 96
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20210403
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 210404
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10210404
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1265,7 +1329,7 @@
     range: 102
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20210404
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1273,7 +1337,7 @@
     id: 210405
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10210405
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1283,7 +1347,7 @@
     range: 99
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20210405
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1291,7 +1355,7 @@
     id: 210406
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10210406
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1301,7 +1365,7 @@
     range: 100
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20210406
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1309,7 +1373,7 @@
     id: 210407
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10210407
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1319,14 +1383,14 @@
     range: 96
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20210407
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 210408
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10210408
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1336,14 +1400,14 @@
     range: 103
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20210408
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 210409
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10210409
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1353,14 +1417,14 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20210409
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 210410
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10210410
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1370,7 +1434,7 @@
     range: 96
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20210410
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1378,7 +1442,7 @@
     id: 210411
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10210411
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1388,7 +1452,7 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20210411
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1396,7 +1460,7 @@
     id: 210412
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10210412
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1406,7 +1470,7 @@
     range: 101
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20210412
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1414,7 +1478,7 @@
     id: 210501
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10210501
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1424,14 +1488,14 @@
     range: 118
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20210501
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 210502
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10210502
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1441,14 +1505,14 @@
     range: 123
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20210502
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 210503
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10210503
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1458,14 +1522,14 @@
     range: 117
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20210503
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 210504
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10210504
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1475,7 +1539,7 @@
     range: 118
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20210504
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1483,7 +1547,7 @@
     id: 210505
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10210505
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1493,7 +1557,7 @@
     range: 123
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20210505
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1501,7 +1565,7 @@
     id: 210506
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10210506
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1511,7 +1575,7 @@
     range: 124
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20210506
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1519,7 +1583,7 @@
     id: 210507
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10210507
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1529,14 +1593,14 @@
     range: 124
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20210507
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 210508
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10210508
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1546,14 +1610,14 @@
     range: 120
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20210508
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 210509
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10210509
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1563,14 +1627,14 @@
     range: 122
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20210509
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 210510
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10210510
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1580,7 +1644,7 @@
     range: 115
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20210510
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1588,7 +1652,7 @@
     id: 210511
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10210511
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1598,7 +1662,7 @@
     range: 119
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20210511
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1606,7 +1670,7 @@
     id: 210512
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10210512
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1616,7 +1680,7 @@
     range: 124
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20210512
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1624,7 +1688,7 @@
     id: 211801
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10211801
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -1634,7 +1698,11 @@
     range: 106
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20211801
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -1642,7 +1710,7 @@
     id: 220401
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10220401
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1652,14 +1720,14 @@
     range: 101
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20220401
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 220402
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10220402
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1669,14 +1737,14 @@
     range: 98
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20220402
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 220403
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10220403
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1686,7 +1754,7 @@
     range: 96
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20220403
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1694,7 +1762,7 @@
     id: 220404
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10220404
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1704,7 +1772,7 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20220404
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1712,7 +1780,7 @@
     id: 220405
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10220405
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1722,7 +1790,7 @@
     range: 95
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20220405
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1730,7 +1798,7 @@
     id: 220406
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10220406
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -1740,7 +1808,7 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20220406
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1748,7 +1816,7 @@
     id: 220501
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10220501
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1758,14 +1826,14 @@
     range: 121
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20220501
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 220502
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10220502
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1775,14 +1843,14 @@
     range: 119
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20220502
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 220503
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10220503
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1792,7 +1860,7 @@
     range: 115
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20220503
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1800,7 +1868,7 @@
     id: 220504
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10220504
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1810,7 +1878,7 @@
     range: 119
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20220504
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1818,7 +1886,7 @@
     id: 220505
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10220505
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1828,7 +1896,7 @@
     range: 119
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20220505
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1836,7 +1904,7 @@
     id: 220506
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10220506
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1846,7 +1914,7 @@
     range: 119
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20220506
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1854,7 +1922,7 @@
     id: 220507
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10220507
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1864,14 +1932,14 @@
     range: 120
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20220507
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 220508
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10220508
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1881,14 +1949,14 @@
     range: 116
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20220508
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 220509
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10220509
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -1898,7 +1966,7 @@
     range: 121
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20220509
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -1906,156 +1974,160 @@
     id: 220601
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10220601
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 92
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20220601
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 220602
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10220602
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 91
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20220602
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 220603
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10220603
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 86
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20220603
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "32611"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 220604
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10220604
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 87
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20220604
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "32611"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 220605
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10220605
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 91
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20220605
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "32611"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 220606
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10220606
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 93
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20220606
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "32611"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 220607
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10220607
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 89
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20220607
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "32611"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 220608
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10220608
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 93
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20220608
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "32611"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 220609
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10220609
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 91
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20220609
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "32611"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 221701
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10221701
+    name: 亡命徒
     hp: 2500
     atk: 80
     rate: 75
     range: 114
     speed: 12
     skills: "9117"
-    skill_dec: breakout_enemy-20221701
+    skill_dec:
+      '''
+      高速：該單位擁有較高的移動速度
+      點燃：該單位攻擊時可點燃目標，持續造成傷害
+      '''
     drop: "22021"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_117
   }
@@ -2063,7 +2135,7 @@
     id: 221801
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10221801
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2073,14 +2145,18 @@
     range: 108
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20221801
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
   {
     id: 221802
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10221802
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2090,14 +2166,18 @@
     range: 106
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20221802
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
   {
     id: 221803
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10221803
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2107,7 +2187,11 @@
     range: 105
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20221803
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -2115,7 +2199,7 @@
     id: 221804
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10221804
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2125,7 +2209,11 @@
     range: 108
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20221804
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -2133,7 +2221,7 @@
     id: 221805
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10221805
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2143,7 +2231,11 @@
     range: 112
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20221805
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -2151,7 +2243,7 @@
     id: 221806
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10221806
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2161,7 +2253,11 @@
     range: 114
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20221806
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -2169,7 +2265,7 @@
     id: 221901
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10221901
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -2179,7 +2275,11 @@
     range: 130
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20221901
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     drop: "32311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -2187,7 +2287,7 @@
     id: 230401
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10230401
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -2197,14 +2297,14 @@
     range: 98
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20230401
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 230402
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10230402
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -2214,14 +2314,14 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20230402
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 230403
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10230403
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -2231,7 +2331,7 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20230403
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2239,7 +2339,7 @@
     id: 230404
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10230404
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -2249,7 +2349,7 @@
     range: 98
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20230404
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2257,7 +2357,7 @@
     id: 230405
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10230405
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -2267,7 +2367,7 @@
     range: 96
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20230405
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2275,7 +2375,7 @@
     id: 230406
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10230406
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -2285,7 +2385,7 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20230406
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2293,7 +2393,7 @@
     id: 230501
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10230501
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -2303,14 +2403,14 @@
     range: 123
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20230501
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 230502
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10230502
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -2320,14 +2420,14 @@
     range: 117
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20230502
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 230503
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10230503
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -2337,7 +2437,7 @@
     range: 117
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20230503
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2345,7 +2445,7 @@
     id: 230504
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10230504
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -2355,7 +2455,7 @@
     range: 121
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20230504
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2363,7 +2463,7 @@
     id: 230505
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10230505
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -2373,7 +2473,7 @@
     range: 120
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20230505
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2381,7 +2481,7 @@
     id: 230506
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10230506
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -2391,7 +2491,7 @@
     range: 116
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20230506
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2399,102 +2499,102 @@
     id: 230601
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10230601
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 92
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20230601
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 230602
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10230602
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 93
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20230602
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "31621"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 230603
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10230603
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 93
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20230603
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "31621"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 230604
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10230604
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 89
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20230604
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "31621"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 230605
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10230605
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 88
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20230605
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "31621"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 230606
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10230606
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 89
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20230606
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "31621"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 231801
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10231801
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2504,7 +2604,11 @@
     range: 105
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20231801
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -2512,7 +2616,7 @@
     id: 231802
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10231802
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2522,14 +2626,18 @@
     range: 112
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20231802
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
   {
     id: 231803
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10231803
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2539,14 +2647,18 @@
     range: 105
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20231803
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
   {
     id: 231804
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10231804
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2556,7 +2668,11 @@
     range: 114
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20231804
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -2564,7 +2680,7 @@
     id: 231805
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10231805
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2574,7 +2690,11 @@
     range: 113
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20231805
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -2582,7 +2702,7 @@
     id: 231806
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10231806
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2592,7 +2712,11 @@
     range: 106
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20231806
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -2600,7 +2724,7 @@
     id: 231807
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10231807
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -2610,7 +2734,11 @@
     range: 110
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20231807
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -2618,7 +2746,7 @@
     id: 231901
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10231901
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -2628,14 +2756,18 @@
     range: 138
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20231901
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
   {
     id: 231902
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10231902
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -2645,7 +2777,11 @@
     range: 131
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20231902
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     drop: "32321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -2653,7 +2789,7 @@
     id: 231903
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10231903
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -2663,7 +2799,11 @@
     range: 130
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20231903
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     drop: "32321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -2671,7 +2811,7 @@
     id: 231904
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10231904
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -2681,7 +2821,11 @@
     range: 130
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20231904
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     drop: "32321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -2689,7 +2833,7 @@
     id: 231905
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10231905
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -2699,7 +2843,11 @@
     range: 133
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20231905
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     drop: "32321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -2707,7 +2855,7 @@
     id: 231906
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10231906
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -2717,7 +2865,11 @@
     range: 130
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20231906
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     drop: "32321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -2725,7 +2877,7 @@
     id: 232001
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10232001
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -2733,7 +2885,11 @@
     range: 97
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20232001
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     drop: "32621"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
@@ -2741,7 +2897,7 @@
     id: 232002
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10232002
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -2749,7 +2905,11 @@
     range: 96
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20232002
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     drop: "32621"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
@@ -2757,7 +2917,7 @@
     id: 232003
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10232003
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -2765,7 +2925,11 @@
     range: 103
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20232003
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     drop: "32621"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
@@ -2773,7 +2937,7 @@
     id: 240401
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10240401
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -2783,14 +2947,14 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20240401
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 240402
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10240402
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -2800,14 +2964,14 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20240402
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 240403
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10240403
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -2817,14 +2981,14 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20240403
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 240404
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10240404
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -2834,7 +2998,7 @@
     range: 103
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20240404
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2842,7 +3006,7 @@
     id: 240405
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10240405
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -2852,7 +3016,7 @@
     range: 101
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20240405
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2860,7 +3024,7 @@
     id: 240406
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10240406
+    name: 多斯打手AR
     hp: 1000
     atk: 60
     rate: 90
@@ -2870,7 +3034,7 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20240406
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2878,7 +3042,7 @@
     id: 240501
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10240501
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -2888,14 +3052,14 @@
     range: 123
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20240501
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 240502
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10240502
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -2905,14 +3069,14 @@
     range: 121
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20240502
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 240503
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10240503
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -2922,14 +3086,14 @@
     range: 124
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20240503
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 240504
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10240504
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -2939,7 +3103,7 @@
     range: 120
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20240504
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2947,7 +3111,7 @@
     id: 240505
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10240505
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -2957,7 +3121,7 @@
     range: 115
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20240505
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2965,7 +3129,7 @@
     id: 240506
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10240506
+    name: 多斯打手RF
     hp: 800
     atk: 70
     rate: 75
@@ -2975,7 +3139,7 @@
     range: 124
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20240506
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "31321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -2983,54 +3147,54 @@
     id: 240601
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10240601
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 88
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20240601
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 240602
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10240602
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 90
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20240602
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "31621"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 240603
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10240603
+    name: 多斯打手SG
     hp: 1200
     atk: 50
     rate: 60
     armor: 100
     range: 87
     speed: 11
-    skills: "9001"
-    skill_dec: breakout_enemy-20240603
+    skills: "9004"
+    skill_dec: 重甲：該單位擁有厚重的護甲
     drop: "31621"
-    bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
+    bt_tree: Tarkov/Units/Enemies/EnemyAI_SG
   }
   {
     id: 241000
     code: EliteGuardBreakout
     icon: EliteGuardBreakout
-    name: breakout_enemy-10241000
+    name: 委託人
     hp: 50000
     atk: 100
     rate: 100
@@ -3038,7 +3202,12 @@
     range: 98
     speed: 9
     skills: "9003,9110"
-    skill_dec: breakout_enemy-20241000
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      首領：該單位攻擊時會連續攻擊2次
+      手雷：該單位可投擲手雷，造成範圍傷害
+      '''
     drop: "33000"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Boss1
   }
@@ -3046,7 +3215,7 @@
     id: 241801
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10241801
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -3056,14 +3225,18 @@
     range: 105
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20241801
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
   {
     id: 241802
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10241802
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -3073,7 +3246,11 @@
     range: 107
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20241802
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -3081,7 +3258,7 @@
     id: 241803
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10241803
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -3091,7 +3268,11 @@
     range: 112
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20241803
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -3099,7 +3280,7 @@
     id: 241804
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10241804
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -3109,14 +3290,18 @@
     range: 105
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20241804
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
   {
     id: 241805
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10241805
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -3126,14 +3311,18 @@
     range: 112
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20241805
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
   {
     id: 241806
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10241806
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -3143,7 +3332,11 @@
     range: 107
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20241806
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -3151,7 +3344,7 @@
     id: 241807
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10241807
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -3161,7 +3354,11 @@
     range: 114
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20241807
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -3169,7 +3366,7 @@
     id: 241808
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10241808
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -3179,7 +3376,11 @@
     range: 108
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20241808
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -3187,7 +3388,7 @@
     id: 241809
     code: Guard1Breakout
     icon: Guard1Breakout
-    name: breakout_enemy-10241809
+    name: 精英多斯打手AR
     hp: 2500
     atk: 60
     rate: 90
@@ -3197,7 +3398,11 @@
     range: 107
     speed: 10
     skills: "9001,9118"
-    skill_dec: breakout_enemy-20241809
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      榴彈：該單位可發射榴彈，造成範圍傷害
+      '''
     drop: "32421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_118
   }
@@ -3205,7 +3410,7 @@
     id: 241901
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10241901
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -3215,14 +3420,18 @@
     range: 134
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20241901
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
   {
     id: 241902
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10241902
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -3232,7 +3441,11 @@
     range: 133
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20241902
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     drop: "32321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -3240,7 +3453,7 @@
     id: 241903
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10241903
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -3250,7 +3463,11 @@
     range: 138
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20241903
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     drop: "32321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -3258,7 +3475,7 @@
     id: 241904
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10241904
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -3268,14 +3485,18 @@
     range: 131
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20241904
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
   {
     id: 241905
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10241905
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -3285,14 +3506,18 @@
     range: 134
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20241905
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
   {
     id: 241906
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10241906
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -3302,7 +3527,11 @@
     range: 136
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20241906
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     drop: "32321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -3310,7 +3539,7 @@
     id: 241907
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10241907
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -3320,7 +3549,11 @@
     range: 138
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20241907
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     drop: "32321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -3328,7 +3561,7 @@
     id: 241908
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10241908
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -3338,7 +3571,11 @@
     range: 131
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20241908
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     drop: "32321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -3346,7 +3583,7 @@
     id: 241909
     code: Guard2Breakout
     icon: Guard2Breakout
-    name: breakout_enemy-10241909
+    name: 精英多斯打手RF
     hp: 2000
     atk: 70
     rate: 75
@@ -3356,7 +3593,11 @@
     range: 133
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20241909
+    skill_dec:
+      '''
+      輕甲：該單位擁有較低的護甲
+      穿甲：該單位擁有較高的穿甲
+      '''
     drop: "32321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -3364,7 +3605,7 @@
     id: 242001
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10242001
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -3372,14 +3613,18 @@
     range: 95
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20242001
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
   {
     id: 242002
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10242002
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -3387,14 +3632,18 @@
     range: 99
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20242002
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
   {
     id: 242003
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10242003
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -3402,7 +3651,11 @@
     range: 103
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20242003
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     drop: "32621"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
@@ -3410,7 +3663,7 @@
     id: 242004
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10242004
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -3418,7 +3671,11 @@
     range: 98
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20242004
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     drop: "32621"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
@@ -3426,7 +3683,7 @@
     id: 242005
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10242005
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -3434,14 +3691,18 @@
     range: 95
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20242005
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
   {
     id: 242006
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10242006
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -3449,14 +3710,18 @@
     range: 101
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20242006
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
   {
     id: 242007
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10242007
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -3464,7 +3729,11 @@
     range: 98
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20242007
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     drop: "32621"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
@@ -3472,7 +3741,7 @@
     id: 242008
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10242008
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -3480,7 +3749,11 @@
     range: 101
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20242008
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     drop: "32621"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
@@ -3488,7 +3761,7 @@
     id: 242009
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10242009
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -3496,7 +3769,11 @@
     range: 103
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20242009
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     drop: "32621"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
@@ -3504,7 +3781,7 @@
     id: 242010
     code: Guard3Breakout
     icon: Guard3Breakout
-    name: breakout_enemy-10242010
+    name: 精英多斯打手SG
     hp: 3000
     atk: 50
     rate: 60
@@ -3512,7 +3789,11 @@
     range: 101
     speed: 11
     skills: "9120"
-    skill_dec: breakout_enemy-20242010
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      散射：該單位可同時攻擊多個目標
+      '''
     drop: "32621"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_120
   }
@@ -3520,28 +3801,28 @@
     id: 310301
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10310301
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 95
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20310301
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
   {
     id: 310302
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10310302
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 104
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20310302
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21031"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -3549,14 +3830,14 @@
     id: 310303
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10310303
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 98
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20310303
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21031"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -3564,7 +3845,7 @@
     id: 310701
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10310701
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -3574,14 +3855,14 @@
     range: 95
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20310701
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 310702
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10310702
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -3591,7 +3872,7 @@
     range: 103
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20310702
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3599,7 +3880,7 @@
     id: 310703
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10310703
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -3609,7 +3890,7 @@
     range: 101
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20310703
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3617,7 +3898,7 @@
     id: 310704
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10310704
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -3627,14 +3908,14 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20310704
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 310705
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10310705
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -3644,7 +3925,7 @@
     range: 102
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20310705
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3652,7 +3933,7 @@
     id: 310706
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10310706
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -3662,7 +3943,7 @@
     range: 100
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20310706
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3670,7 +3951,7 @@
     id: 310801
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10310801
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -3679,14 +3960,14 @@
     range: 94
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20310801
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 310802
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10310802
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -3695,14 +3976,14 @@
     range: 94
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20310802
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 310803
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10310803
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -3711,14 +3992,14 @@
     range: 93
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20310803
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 310804
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10310804
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -3727,7 +4008,7 @@
     range: 89
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20310804
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3735,7 +4016,7 @@
     id: 310805
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10310805
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -3744,7 +4025,7 @@
     range: 86
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20310805
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3752,7 +4033,7 @@
     id: 310806
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10310806
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -3761,7 +4042,7 @@
     range: 87
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20310806
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3769,7 +4050,7 @@
     id: 310807
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10310807
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -3778,14 +4059,14 @@
     range: 91
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20310807
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 310808
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10310808
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -3794,14 +4075,14 @@
     range: 88
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20310808
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 310809
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10310809
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -3810,7 +4091,7 @@
     range: 86
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20310809
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3818,7 +4099,7 @@
     id: 310810
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10310810
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -3827,7 +4108,7 @@
     range: 93
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20310810
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3835,7 +4116,7 @@
     id: 310811
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10310811
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -3844,7 +4125,7 @@
     range: 85
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20310811
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3852,7 +4133,7 @@
     id: 310812
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10310812
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -3861,7 +4142,7 @@
     range: 87
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20310812
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3869,7 +4150,7 @@
     id: 310901
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10310901
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -3879,14 +4160,14 @@
     range: 123
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20310901
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 310902
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10310902
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -3896,7 +4177,7 @@
     range: 122
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20310902
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3904,7 +4185,7 @@
     id: 310903
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10310903
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -3914,7 +4195,7 @@
     range: 124
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20310903
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3922,7 +4203,7 @@
     id: 310904
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10310904
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -3932,14 +4213,14 @@
     range: 118
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20310904
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 310905
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10310905
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -3949,7 +4230,7 @@
     range: 123
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20310905
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3957,7 +4238,7 @@
     id: 310906
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10310906
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -3967,7 +4248,7 @@
     range: 117
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20310906
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -3975,28 +4256,28 @@
     id: 320301
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10320301
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 102
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20320301
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
   {
     id: 320302
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10320302
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 102
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20320302
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21031"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -4004,14 +4285,14 @@
     id: 320303
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10320303
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 103
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20320303
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21031"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -4019,7 +4300,7 @@
     id: 320701
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10320701
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4029,14 +4310,14 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20320701
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 320702
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10320702
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4046,14 +4327,14 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20320702
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 320703
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10320703
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4063,7 +4344,7 @@
     range: 95
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20320703
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4071,7 +4352,7 @@
     id: 320704
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10320704
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4081,7 +4362,7 @@
     range: 96
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20320704
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4089,7 +4370,7 @@
     id: 320705
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10320705
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4099,7 +4380,7 @@
     range: 95
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20320705
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4107,7 +4388,7 @@
     id: 320706
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10320706
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4117,14 +4398,14 @@
     range: 101
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20320706
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 320707
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10320707
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4134,14 +4415,14 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20320707
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 320708
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10320708
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4151,7 +4432,7 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20320708
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4159,7 +4440,7 @@
     id: 320709
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10320709
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4169,7 +4450,7 @@
     range: 100
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20320709
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4177,7 +4458,7 @@
     id: 320801
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10320801
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4186,14 +4467,14 @@
     range: 88
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20320801
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 320802
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10320802
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4202,14 +4483,14 @@
     range: 88
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20320802
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 320803
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10320803
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4218,7 +4499,7 @@
     range: 87
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20320803
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4226,7 +4507,7 @@
     id: 320804
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10320804
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4235,7 +4516,7 @@
     range: 91
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20320804
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4243,7 +4524,7 @@
     id: 320805
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10320805
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4252,7 +4533,7 @@
     range: 85
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20320805
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4260,7 +4541,7 @@
     id: 320806
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10320806
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4269,14 +4550,14 @@
     range: 89
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20320806
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 320807
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10320807
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4285,7 +4566,7 @@
     range: 94
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20320807
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4293,7 +4574,7 @@
     id: 320808
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10320808
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4302,7 +4583,7 @@
     range: 88
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20320808
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4310,7 +4591,7 @@
     id: 320809
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10320809
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4319,7 +4600,7 @@
     range: 92
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20320809
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4327,7 +4608,7 @@
     id: 320901
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10320901
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4337,14 +4618,14 @@
     range: 124
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20320901
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 320902
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10320902
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4354,14 +4635,14 @@
     range: 115
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20320902
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 320903
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10320903
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4371,14 +4652,14 @@
     range: 117
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20320903
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 320904
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10320904
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4388,7 +4669,7 @@
     range: 124
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20320904
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4396,7 +4677,7 @@
     id: 320905
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10320905
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4406,7 +4687,7 @@
     range: 117
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20320905
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4414,7 +4695,7 @@
     id: 320906
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10320906
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4424,14 +4705,14 @@
     range: 115
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20320906
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 320907
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10320907
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4441,7 +4722,7 @@
     range: 122
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20320907
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4449,7 +4730,7 @@
     id: 320908
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10320908
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4459,7 +4740,7 @@
     range: 120
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20320908
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4467,7 +4748,7 @@
     id: 320909
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10320909
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4477,7 +4758,7 @@
     range: 118
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20320909
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4485,7 +4766,7 @@
     id: 322301
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10322301
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -4495,7 +4776,11 @@
     range: 131
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20322301
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -4503,7 +4788,7 @@
     id: 322302
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10322302
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -4513,7 +4798,11 @@
     range: 137
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20322302
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -4521,7 +4810,7 @@
     id: 322303
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10322303
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -4531,14 +4820,18 @@
     range: 136
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20322303
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
   {
     id: 322304
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10322304
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -4548,7 +4841,11 @@
     range: 139
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20322304
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -4556,7 +4853,7 @@
     id: 322305
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10322305
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -4566,7 +4863,11 @@
     range: 136
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20322305
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -4574,7 +4875,7 @@
     id: 322306
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10322306
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -4584,7 +4885,11 @@
     range: 131
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20322306
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -4592,7 +4897,7 @@
     id: 322307
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10322307
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -4602,7 +4907,11 @@
     range: 139
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20322307
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -4610,7 +4919,7 @@
     id: 322308
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10322308
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -4620,7 +4929,11 @@
     range: 133
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20322308
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -4628,28 +4941,28 @@
     id: 330301
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10330301
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 99
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20330301
+    skill_dec: 無甲：該單位沒有護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
   {
     id: 330302
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10330302
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 103
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20330302
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21041"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -4657,14 +4970,14 @@
     id: 330303
     code: Mobster
     icon: Mobster
-    name: breakout_enemy-10330303
+    name: 暴徒
     hp: 1000
     atk: 80
     rate: 75
     range: 98
     speed: 11
     skills: "9002"
-    skill_dec: breakout_enemy-20330303
+    skill_dec: 無甲：該單位沒有護甲
     drop: "21041"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Mobster
   }
@@ -4672,7 +4985,7 @@
     id: 330701
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10330701
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4682,14 +4995,14 @@
     range: 98
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20330701
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 330702
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10330702
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4699,14 +5012,14 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20330702
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 330703
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10330703
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4716,7 +5029,7 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20330703
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4724,7 +5037,7 @@
     id: 330704
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10330704
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4734,7 +5047,7 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20330704
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4742,7 +5055,7 @@
     id: 330705
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10330705
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4752,7 +5065,7 @@
     range: 101
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20330705
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4760,7 +5073,7 @@
     id: 330706
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10330706
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -4770,14 +5083,14 @@
     range: 98
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20330706
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 330801
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10330801
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4786,14 +5099,14 @@
     range: 88
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20330801
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 330802
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10330802
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4802,14 +5115,14 @@
     range: 92
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20330802
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 330803
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10330803
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4818,7 +5131,7 @@
     range: 91
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20330803
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41211"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4826,7 +5139,7 @@
     id: 330804
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10330804
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4835,7 +5148,7 @@
     range: 87
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20330804
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4843,7 +5156,7 @@
     id: 330805
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10330805
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4852,7 +5165,7 @@
     range: 90
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20330805
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4860,7 +5173,7 @@
     id: 330806
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10330806
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4869,14 +5182,14 @@
     range: 85
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20330806
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 330807
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10330807
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4885,7 +5198,7 @@
     range: 87
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20330807
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4893,7 +5206,7 @@
     id: 330808
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10330808
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4902,7 +5215,7 @@
     range: 89
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20330808
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4910,7 +5223,7 @@
     id: 330809
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10330809
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -4919,7 +5232,7 @@
     range: 91
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20330809
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4927,7 +5240,7 @@
     id: 330901
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10330901
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4937,14 +5250,14 @@
     range: 120
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20330901
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 330902
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10330902
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4954,7 +5267,7 @@
     range: 115
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20330902
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4962,7 +5275,7 @@
     id: 330903
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10330903
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4972,7 +5285,7 @@
     range: 121
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20330903
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4980,7 +5293,7 @@
     id: 330904
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10330904
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -4990,7 +5303,7 @@
     range: 120
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20330904
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -4998,7 +5311,7 @@
     id: 330905
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10330905
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -5008,14 +5321,14 @@
     range: 123
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20330905
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 330906
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10330906
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -5025,14 +5338,14 @@
     range: 115
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20330906
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 330907
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10330907
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -5042,7 +5355,7 @@
     range: 118
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20330907
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5050,7 +5363,7 @@
     id: 330908
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10330908
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -5060,7 +5373,7 @@
     range: 116
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20330908
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5068,7 +5381,7 @@
     id: 330909
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10330909
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -5078,7 +5391,7 @@
     range: 117
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20330909
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5086,7 +5399,7 @@
     id: 332101
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10332101
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5096,7 +5409,11 @@
     range: 109
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20332101
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5104,7 +5421,7 @@
     id: 332102
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10332102
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5114,7 +5431,11 @@
     range: 105
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20332102
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5122,7 +5443,7 @@
     id: 332103
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10332103
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5132,7 +5453,11 @@
     range: 112
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20332103
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42411"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5140,7 +5465,7 @@
     id: 332104
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10332104
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5150,7 +5475,11 @@
     range: 112
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20332104
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5158,7 +5487,7 @@
     id: 332105
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10332105
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5168,7 +5497,11 @@
     range: 109
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20332105
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5176,7 +5509,7 @@
     id: 332106
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10332106
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5186,7 +5519,11 @@
     range: 114
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20332106
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5194,7 +5531,7 @@
     id: 332201
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10332201
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -5203,7 +5540,11 @@
     range: 95
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20332201
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42212"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -5211,7 +5552,7 @@
     id: 332202
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10332202
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -5220,7 +5561,11 @@
     range: 101
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20332202
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -5228,7 +5573,7 @@
     id: 332301
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10332301
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -5238,7 +5583,11 @@
     range: 138
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20332301
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -5246,7 +5595,7 @@
     id: 332302
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10332302
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -5256,7 +5605,11 @@
     range: 135
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20332302
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -5264,7 +5617,7 @@
     id: 332303
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10332303
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -5274,7 +5627,11 @@
     range: 134
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20332303
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -5282,7 +5639,7 @@
     id: 332304
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10332304
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -5292,7 +5649,11 @@
     range: 134
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20332304
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42311"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -5300,7 +5661,7 @@
     id: 332305
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10332305
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -5310,7 +5671,11 @@
     range: 134
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20332305
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -5318,7 +5683,7 @@
     id: 332306
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10332306
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -5328,7 +5693,11 @@
     range: 132
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20332306
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -5336,7 +5705,7 @@
     id: 332307
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10332307
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -5346,7 +5715,11 @@
     range: 138
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20332307
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -5354,7 +5727,7 @@
     id: 340701
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10340701
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -5364,14 +5737,14 @@
     range: 100
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20340701
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 340702
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10340702
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -5381,14 +5754,14 @@
     range: 95
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20340702
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 340703
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10340703
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -5398,14 +5771,14 @@
     range: 102
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20340703
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 340704
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10340704
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -5415,7 +5788,7 @@
     range: 100
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20340704
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5423,7 +5796,7 @@
     id: 340705
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10340705
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -5433,7 +5806,7 @@
     range: 103
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20340705
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5441,7 +5814,7 @@
     id: 340706
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10340706
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -5451,7 +5824,7 @@
     range: 101
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20340706
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5459,7 +5832,7 @@
     id: 340707
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10340707
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -5469,7 +5842,7 @@
     range: 96
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20340707
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5477,7 +5850,7 @@
     id: 340708
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10340708
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -5487,14 +5860,14 @@
     range: 103
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20340708
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 340709
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10340709
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -5504,14 +5877,14 @@
     range: 102
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20340709
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 340710
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10340710
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -5521,7 +5894,7 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20340710
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5529,7 +5902,7 @@
     id: 340711
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10340711
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -5539,7 +5912,7 @@
     range: 98
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20340711
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5547,7 +5920,7 @@
     id: 340712
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10340712
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -5557,7 +5930,7 @@
     range: 100
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20340712
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5565,7 +5938,7 @@
     id: 340801
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10340801
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -5574,14 +5947,14 @@
     range: 89
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20340801
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 340802
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10340802
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -5590,14 +5963,14 @@
     range: 94
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20340802
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 340803
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10340803
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -5606,14 +5979,14 @@
     range: 92
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20340803
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 340804
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10340804
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -5622,7 +5995,7 @@
     range: 87
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20340804
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5630,7 +6003,7 @@
     id: 340805
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10340805
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -5639,7 +6012,7 @@
     range: 94
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20340805
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5647,7 +6020,7 @@
     id: 340806
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10340806
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -5656,7 +6029,7 @@
     range: 92
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20340806
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5664,7 +6037,7 @@
     id: 340901
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10340901
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -5674,14 +6047,14 @@
     range: 120
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20340901
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 340902
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10340902
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -5691,14 +6064,14 @@
     range: 119
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20340902
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 340903
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10340903
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -5708,7 +6081,7 @@
     range: 117
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20340903
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5716,7 +6089,7 @@
     id: 340904
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10340904
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -5726,7 +6099,7 @@
     range: 118
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20340904
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -5734,7 +6107,7 @@
     id: 340905
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10340905
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -5744,14 +6117,14 @@
     range: 122
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20340905
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 340906
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10340906
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -5761,14 +6134,14 @@
     range: 122
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20340906
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 341100
     code: EliteBGBreakout
     icon: EliteBGBreakout
-    name: breakout_enemy-10341100
+    name: 神秘隊員
     hp: 50000
     atk: 100
     rate: 90
@@ -5776,7 +6149,12 @@
     range: 103
     speed: 9
     skills: "9003,9111"
-    skill_dec: breakout_enemy-20341100
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      首領：該單位攻擊時會連續攻擊2次
+      轟炸：該單位會轟炸自身前方的敵人，造成範圍傷害
+      '''
     drop: "43000"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Boss2
   }
@@ -5784,7 +6162,7 @@
     id: 342101
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10342101
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5794,14 +6172,18 @@
     range: 114
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20342101
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
   {
     id: 342102
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10342102
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5811,7 +6193,11 @@
     range: 112
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20342102
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5819,7 +6205,7 @@
     id: 342103
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10342103
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5829,7 +6215,11 @@
     range: 108
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20342103
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5837,7 +6227,7 @@
     id: 342104
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10342104
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5847,7 +6237,11 @@
     range: 113
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20342104
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5855,7 +6249,7 @@
     id: 342105
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10342105
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5865,7 +6259,11 @@
     range: 114
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20342105
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5873,7 +6271,7 @@
     id: 342106
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10342106
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5883,7 +6281,11 @@
     range: 108
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20342106
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5891,7 +6293,7 @@
     id: 342107
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10342107
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5901,7 +6303,11 @@
     range: 111
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20342107
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5909,7 +6315,7 @@
     id: 342108
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10342108
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5919,7 +6325,11 @@
     range: 113
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20342108
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5927,7 +6337,7 @@
     id: 342109
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10342109
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -5937,7 +6347,11 @@
     range: 108
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20342109
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -5945,7 +6359,7 @@
     id: 342201
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10342201
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -5954,14 +6368,18 @@
     range: 96
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20342201
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
   {
     id: 342202
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10342202
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -5970,7 +6388,11 @@
     range: 98
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20342202
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -5978,7 +6400,7 @@
     id: 342203
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10342203
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -5987,7 +6409,11 @@
     range: 103
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20342203
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -5995,7 +6421,7 @@
     id: 342204
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10342204
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -6004,7 +6430,11 @@
     range: 102
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20342204
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -6012,7 +6442,7 @@
     id: 342205
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10342205
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -6021,7 +6451,11 @@
     range: 100
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20342205
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -6029,7 +6463,7 @@
     id: 342206
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10342206
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -6038,7 +6472,11 @@
     range: 101
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20342206
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -6046,7 +6484,7 @@
     id: 342207
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10342207
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -6055,7 +6493,11 @@
     range: 101
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20342207
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -6063,7 +6505,7 @@
     id: 342208
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10342208
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -6072,7 +6514,11 @@
     range: 98
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20342208
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -6080,7 +6526,7 @@
     id: 342209
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10342209
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -6089,7 +6535,11 @@
     range: 103
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20342209
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -6097,7 +6547,7 @@
     id: 342210
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10342210
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -6106,7 +6556,11 @@
     range: 101
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20342210
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -6114,7 +6568,7 @@
     id: 342301
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10342301
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -6124,7 +6578,11 @@
     range: 132
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20342301
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -6132,7 +6590,7 @@
     id: 342302
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10342302
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -6142,7 +6600,11 @@
     range: 133
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20342302
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -6150,7 +6612,7 @@
     id: 342303
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10342303
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -6160,7 +6622,11 @@
     range: 139
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20342303
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -6168,7 +6634,7 @@
     id: 342304
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10342304
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -6178,7 +6644,11 @@
     range: 137
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20342304
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -6186,7 +6656,7 @@
     id: 342305
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10342305
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -6196,7 +6666,11 @@
     range: 137
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20342305
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -6204,7 +6678,7 @@
     id: 342306
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10342306
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -6214,7 +6688,11 @@
     range: 137
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20342306
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -6222,7 +6700,7 @@
     id: 350701
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10350701
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -6232,14 +6710,14 @@
     range: 98
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20350701
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350702
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10350702
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -6249,14 +6727,14 @@
     range: 97
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20350702
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350703
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10350703
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -6266,7 +6744,7 @@
     range: 95
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20350703
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6274,7 +6752,7 @@
     id: 350704
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10350704
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -6284,7 +6762,7 @@
     range: 96
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20350704
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6292,7 +6770,7 @@
     id: 350705
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10350705
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -6302,14 +6780,14 @@
     range: 101
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20350705
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350706
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10350706
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -6319,14 +6797,14 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20350706
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350707
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10350707
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -6336,14 +6814,14 @@
     range: 95
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20350707
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350708
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10350708
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -6353,14 +6831,14 @@
     range: 99
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20350708
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350709
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10350709
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -6370,14 +6848,14 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20350709
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350710
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10350710
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -6387,7 +6865,7 @@
     range: 104
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20350710
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6395,7 +6873,7 @@
     id: 350711
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10350711
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -6405,7 +6883,7 @@
     range: 98
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20350711
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6413,7 +6891,7 @@
     id: 350712
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10350712
+    name: 黑金隊員AR
     hp: 1000
     atk: 60
     rate: 90
@@ -6423,7 +6901,7 @@
     range: 103
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20350712
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6431,7 +6909,7 @@
     id: 350801
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10350801
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -6440,14 +6918,14 @@
     range: 94
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20350801
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350802
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10350802
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -6456,14 +6934,14 @@
     range: 92
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20350802
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350803
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10350803
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -6472,7 +6950,7 @@
     range: 88
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20350803
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6480,7 +6958,7 @@
     id: 350804
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10350804
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -6489,7 +6967,7 @@
     range: 94
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20350804
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6497,7 +6975,7 @@
     id: 350805
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10350805
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -6506,14 +6984,14 @@
     range: 94
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20350805
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350806
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10350806
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -6522,14 +7000,14 @@
     range: 93
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20350806
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350807
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10350807
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -6538,14 +7016,14 @@
     range: 93
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20350807
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350808
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10350808
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -6554,14 +7032,14 @@
     range: 92
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20350808
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350809
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10350809
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -6570,14 +7048,14 @@
     range: 87
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20350809
+    skill_dec: 輕甲：該單位擁有較低的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350810
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10350810
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -6586,7 +7064,7 @@
     range: 91
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20350810
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6594,7 +7072,7 @@
     id: 350811
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10350811
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -6603,7 +7081,7 @@
     range: 89
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20350811
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6611,7 +7089,7 @@
     id: 350812
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10350812
+    name: 黑金隊員SMG
     hp: 1200
     atk: 50
     rate: 100
@@ -6620,7 +7098,7 @@
     range: 94
     speed: 11
     skills: "9001"
-    skill_dec: breakout_enemy-20350812
+    skill_dec: 輕甲：該單位擁有較低的護甲
     drop: "41221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6628,7 +7106,7 @@
     id: 350901
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10350901
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -6638,14 +7116,14 @@
     range: 123
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20350901
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350902
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10350902
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -6655,7 +7133,7 @@
     range: 121
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20350902
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6663,7 +7141,7 @@
     id: 350903
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10350903
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -6673,7 +7151,7 @@
     range: 115
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20350903
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6681,7 +7159,7 @@
     id: 350904
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10350904
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -6691,14 +7169,14 @@
     range: 116
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20350904
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
   {
     id: 350905
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10350905
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -6708,7 +7186,7 @@
     range: 120
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20350905
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6716,7 +7194,7 @@
     id: 350906
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10350906
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -6726,7 +7204,7 @@
     range: 116
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20350906
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6734,7 +7212,7 @@
     id: 350907
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10350907
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -6744,7 +7222,7 @@
     range: 122
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20350907
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6752,7 +7230,7 @@
     id: 350908
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10350908
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -6762,7 +7240,7 @@
     range: 122
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20350908
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6770,7 +7248,7 @@
     id: 350909
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10350909
+    name: 黑金隊員RF
     hp: 800
     atk: 70
     rate: 75
@@ -6780,7 +7258,7 @@
     range: 123
     speed: 9
     skills: "9001"
-    skill_dec: breakout_enemy-20350909
+    skill_dec: 裝甲：該單位擁有一般水準的護甲
     drop: "41321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Prototype
   }
@@ -6788,7 +7266,7 @@
     id: 351100
     code: EliteBGBreakout
     icon: EliteBGBreakout
-    name: breakout_enemy-10351100
+    name: 神秘隊員
     hp: 50000
     atk: 100
     rate: 90
@@ -6796,14 +7274,19 @@
     range: 103
     speed: 9
     skills: "9003,9111"
-    skill_dec: breakout_enemy-20351100
+    skill_dec:
+      '''
+      重甲：該單位擁有厚重的護甲
+      首領：該單位攻擊時會連續攻擊2次
+      轟炸：該單位會轟炸自身前方的敵人，造成範圍傷害
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Boss2
   }
   {
     id: 352101
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352101
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -6813,14 +7296,18 @@
     range: 106
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352101
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
   {
     id: 352102
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352102
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -6830,14 +7317,18 @@
     range: 113
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352102
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
   {
     id: 352103
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352103
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -6847,14 +7338,18 @@
     range: 111
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352103
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
   {
     id: 352104
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352104
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -6864,7 +7359,11 @@
     range: 109
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352104
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -6872,7 +7371,7 @@
     id: 352105
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352105
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -6882,7 +7381,11 @@
     range: 109
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352105
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -6890,7 +7393,7 @@
     id: 352106
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352106
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -6900,7 +7403,11 @@
     range: 106
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352106
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -6908,7 +7415,7 @@
     id: 352107
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352107
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -6918,7 +7425,11 @@
     range: 110
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352107
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -6926,7 +7437,7 @@
     id: 352108
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352108
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -6936,7 +7447,11 @@
     range: 111
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352108
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -6944,7 +7459,7 @@
     id: 352109
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352109
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -6954,7 +7469,11 @@
     range: 109
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352109
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -6962,7 +7481,7 @@
     id: 352110
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352110
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -6972,7 +7491,11 @@
     range: 114
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352110
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -6980,7 +7503,7 @@
     id: 352111
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352111
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -6990,7 +7513,11 @@
     range: 108
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352111
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -6998,7 +7525,7 @@
     id: 352112
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352112
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -7008,7 +7535,11 @@
     range: 108
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352112
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -7016,7 +7547,7 @@
     id: 352113
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352113
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -7026,7 +7557,11 @@
     range: 114
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352113
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -7034,7 +7569,7 @@
     id: 352114
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352114
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -7044,7 +7579,11 @@
     range: 109
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352114
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -7052,7 +7591,7 @@
     id: 352115
     code: BG1Breakout
     icon: BG1Breakout
-    name: breakout_enemy-10352115
+    name: 精英黑金隊員AR
     hp: 2500
     atk: 60
     rate: 120
@@ -7062,7 +7601,11 @@
     range: 106
     speed: 10
     skills: "9001"
-    skill_dec: breakout_enemy-20352115
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      連發：該單位擁有較高的攻速
+      '''
     drop: "42421"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_Elite
   }
@@ -7070,7 +7613,7 @@
     id: 352201
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10352201
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -7079,14 +7622,18 @@
     range: 98
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20352201
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
   {
     id: 352202
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10352202
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -7095,14 +7642,18 @@
     range: 95
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20352202
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
   {
     id: 352203
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10352203
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -7111,7 +7662,11 @@
     range: 104
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20352203
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -7119,7 +7674,7 @@
     id: 352204
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10352204
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -7128,7 +7683,11 @@
     range: 102
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20352204
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -7136,7 +7695,7 @@
     id: 352205
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10352205
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -7145,7 +7704,11 @@
     range: 104
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20352205
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -7153,7 +7716,7 @@
     id: 352206
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10352206
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -7162,14 +7725,18 @@
     range: 99
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20352206
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
   {
     id: 352207
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10352207
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -7178,7 +7745,11 @@
     range: 102
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20352207
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -7186,7 +7757,7 @@
     id: 352208
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10352208
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -7195,7 +7766,11 @@
     range: 100
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20352208
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -7203,7 +7778,7 @@
     id: 352209
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10352209
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -7212,7 +7787,11 @@
     range: 99
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20352209
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -7220,7 +7799,7 @@
     id: 352210
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10352210
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -7229,7 +7808,11 @@
     range: 104
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20352210
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -7237,7 +7820,7 @@
     id: 352211
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10352211
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -7246,7 +7829,11 @@
     range: 95
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20352211
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -7254,7 +7841,7 @@
     id: 352212
     code: BG2Breakout
     icon: BG2Breakout
-    name: breakout_enemy-10352212
+    name: 精英黑金隊員SMG
     hp: 3000
     atk: 50
     rate: 100
@@ -7263,7 +7850,11 @@
     range: 104
     speed: 11
     skills: "9122"
-    skill_dec: breakout_enemy-20352212
+    skill_dec:
+      '''
+      機巧：該單位擁有較高的閃避
+      壓制：該單位攻擊時可降低目標的移動速度
+      '''
     drop: "42221"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_122
   }
@@ -7271,7 +7862,7 @@
     id: 352301
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10352301
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -7281,14 +7872,18 @@
     range: 131
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20352301
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
   {
     id: 352302
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10352302
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -7298,7 +7893,11 @@
     range: 131
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20352302
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -7306,7 +7905,7 @@
     id: 352303
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10352303
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -7316,7 +7915,11 @@
     range: 134
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20352303
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -7324,7 +7927,7 @@
     id: 352307
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10352307
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -7334,7 +7937,11 @@
     range: 135
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20352307
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -7342,7 +7949,7 @@
     id: 352308
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10352308
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -7352,7 +7959,11 @@
     range: 130
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20352308
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -7360,7 +7971,7 @@
     id: 352309
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10352309
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -7370,7 +7981,11 @@
     range: 133
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20352309
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -7378,7 +7993,7 @@
     id: 352310
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10352310
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -7388,7 +8003,11 @@
     range: 135
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20352310
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -7396,7 +8015,7 @@
     id: 352311
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10352311
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -7406,7 +8025,11 @@
     range: 138
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20352311
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }
@@ -7414,7 +8037,7 @@
     id: 352312
     code: BG3Breakout
     icon: BG3Breakout
-    name: breakout_enemy-10352312
+    name: 精英黑金隊員RF
     hp: 2000
     atk: 70
     rate: 75
@@ -7424,7 +8047,11 @@
     range: 131
     speed: 9
     skills: "9001,9123"
-    skill_dec: breakout_enemy-20352312
+    skill_dec:
+      '''
+      裝甲：該單位擁有一般水準的護甲
+      支援：該單位可攻擊其他路線的目標
+      '''
     drop: "42321"
     bt_tree: Tarkov/Units/Enemies/EnemyAI_123
   }

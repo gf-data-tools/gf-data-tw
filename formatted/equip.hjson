@@ -13524,8 +13524,12 @@
   }
   {
     id: 429
-    name: equip-10000429
-    description: equip-20000429
+    name: 醫療包
+    description:
+      '''
+      傷害<pow>
+      迴避+<dodge>技能增強$艾薇塔專用
+      '''
     rank: 5
     category: 3
     type: 20
@@ -13538,7 +13542,7 @@
     develop_duration: 3600
     company: IOP
     fit_guns: "1045"
-    equip_introduction: equip-30000429
+    equip_introduction: 艾薇塔經常使用的醫療包，裡面除了常見的急救用品，聽說還有些別的東西。
     powerup_mp: 0.3
     powerup_ammo: 0.23
     powerup_mre: 0.15
@@ -13551,13 +13555,16 @@
     is_addition: 1
     is_show: 1
     obtain_ids: "3118"
-    sp_description: equip-40000429
     description_skill: 1003511
   }
   {
     id: 430
-    name: equip-10000430
-    description: equip-20000430
+    name: 合金登山扣具
+    description:
+      '''
+      傷害+<pow> 射速+<rate>
+      暴擊傷害<critical_harm_rate><%>技能增強$黑卡蒂專用
+      '''
     rank: 5
     category: 3
     type: 20
@@ -13571,7 +13578,7 @@
     develop_duration: 3120
     company: IOP
     fit_guns: "1046"
-    equip_introduction: equip-30000430
+    equip_introduction: 黑卡蒂隨身攜帶的攀岩工具，即使沒有什麼使用痕跡，還是經常被她翻新維護。
     powerup_mp: 0.3
     powerup_ammo: 0.25
     powerup_mre: 0.12
@@ -13584,7 +13591,6 @@
     is_addition: 1
     is_show: 1
     obtain_ids: "3118"
-    sp_description: equip-40000430
     description_skill: 1003618
   }
   {

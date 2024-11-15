@@ -15768,7 +15768,7 @@
   }
   {
     id: 730001
-    name: ally_team-10730001
+    name: 指揮官
     guns: "570011"
     enemy_team_id: 1
     initial_type: 1
@@ -15779,7 +15779,7 @@
   }
   {
     id: 730106
-    name: ally_team-10730106
+    name: 平民
     guns: "1"
     enemy_team_id: 730106
     ai: 0;0;0
@@ -15789,7 +15789,7 @@
   }
   {
     id: 730203
-    name: ally_team-10730203
+    name: ？？？
     guns: "1"
     enemy_team_id: 730203
     ai: 102;1;102
@@ -15799,7 +15799,7 @@
   }
   {
     id: 730204
-    name: ally_team-10730204
+    name: ？？？
     guns: "1"
     enemy_team_id: 730204
     ai: 102;1;102
@@ -15809,7 +15809,7 @@
   }
   {
     id: 730507
-    name: ally_team-10730507
+    name: 平民
     guns: "1"
     enemy_team_id: 730507
     ai: 101;1;101
@@ -15819,7 +15819,7 @@
   }
   {
     id: 730508
-    name: ally_team-10730508
+    name: 平民
     guns: "1"
     enemy_team_id: 730508
     ai: 101;1;101
@@ -15829,7 +15829,7 @@
   }
   {
     id: 730509
-    name: ally_team-10730509
+    name: 平民
     guns: "1"
     enemy_team_id: 730509
     ai: 101;1;101
@@ -15839,7 +15839,7 @@
   }
   {
     id: 730604
-    name: ally_team-10730604
+    name: ？？？
     guns: "1"
     enemy_team_id: 730604
     ai: 101;1;101
@@ -15849,7 +15849,7 @@
   }
   {
     id: 730605
-    name: ally_team-10730605
+    name: ？？？
     guns: "1"
     enemy_team_id: 730605
     ai: 101;1;101
@@ -15859,7 +15859,7 @@
   }
   {
     id: 730606
-    name: ally_team-10730606
+    name: ？？？
     guns: "1"
     enemy_team_id: 730606
     ai: 101;1;101
@@ -15869,7 +15869,7 @@
   }
   {
     id: 730607
-    name: ally_team-10730607
+    name: ？？？
     guns: "1"
     enemy_team_id: 730607
     ai: 102;1;102

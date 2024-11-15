@@ -41906,7 +41906,7 @@
     id: "12196"
     type: "8"
     quota: "2001"
-    giftbag_name: mall-10012196
+    giftbag_name: 黑卡蒂
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2699"
@@ -41918,7 +41918,7 @@
     id: "12197"
     type: "8"
     quota: "2001"
-    giftbag_name: mall-10012197
+    giftbag_name: 艾薇塔專屬：醫療包
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2689"
@@ -41930,7 +41930,7 @@
     id: "12198"
     type: "8"
     quota: "2001"
-    giftbag_name: mall-10012198
+    giftbag_name: 黑卡蒂專屬：合金登山扣具
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2690"
@@ -41943,7 +41943,7 @@
     type: "8"
     item_ids: 2591-1
     quota: "2001"
-    giftbag_name: mall-10012199
+    giftbag_name: 頭像：流浪的刀
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
@@ -41955,7 +41955,7 @@
     type: "8"
     item_ids: 2592-1
     quota: "2001"
-    giftbag_name: mall-10012200
+    giftbag_name: 頭像：追隨你
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
@@ -41967,7 +41967,7 @@
     type: "8"
     item_ids: 2593-1
     quota: "2001"
-    giftbag_name: mall-10012201
+    giftbag_name: 頭像：攀登者
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
@@ -41979,7 +41979,7 @@
     type: "8"
     item_ids: 2594-1
     quota: "2001"
-    giftbag_name: mall-10012202
+    giftbag_name: 頭像：一個考驗
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
@@ -41991,7 +41991,7 @@
     type: "8"
     item_ids: 2595-1
     quota: "2001"
-    giftbag_name: mall-10012203
+    giftbag_name: 頭像：他鄉來客
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
@@ -42003,7 +42003,7 @@
     type: "8"
     item_ids: 2596-1
     quota: "2001"
-    giftbag_name: mall-10012204
+    giftbag_name: 名片：紛亂槍火
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
@@ -42015,7 +42015,7 @@
     type: "8"
     item_ids: 2597-1
     quota: "2001"
-    giftbag_name: mall-10012205
+    giftbag_name: 名片：16號金標
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
@@ -42027,7 +42027,7 @@
     type: "8"
     item_ids: 2598-1
     quota: "2001"
-    giftbag_name: mall-10012206
+    giftbag_name: 基地背景：銀月孤舟
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
@@ -42038,7 +42038,7 @@
     id: "12207"
     type: "8"
     quota: "2001"
-    giftbag_name: mall-10012207
+    giftbag_name: 傢具：武器陳列牆
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2691"
@@ -42050,7 +42050,7 @@
     id: "12208"
     type: "8"
     quota: "2001"
-    giftbag_name: mall-10012208
+    giftbag_name: 傢具：戰利品藏桌
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2692"
@@ -42062,7 +42062,7 @@
     id: "12209"
     type: "8"
     quota: "2001"
-    giftbag_name: mall-10012209
+    giftbag_name: 傢具：榮譽獎章
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2693"
@@ -42074,7 +42074,7 @@
     id: "12210"
     type: "8"
     quota: "2001"
-    giftbag_name: mall-10012210
+    giftbag_name: 傢具：士氣章收藏
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "2694"
@@ -42087,7 +42087,7 @@
     type: "8"
     gift: 200023-1
     quota: "2050"
-    giftbag_name: mall-10012211
+    giftbag_name: 鋼芯子彈
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
@@ -42099,7 +42099,7 @@
     type: "8"
     gift: 100023-1
     quota: "2050"
-    giftbag_name: mall-10012212
+    giftbag_name: 穀物餅乾
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
@@ -42110,7 +42110,7 @@
     id: "12213"
     type: "8"
     quota: "2001"
-    giftbag_name: mall-10012213
+    giftbag_name: FARA 83
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "1288"
@@ -42122,7 +42122,7 @@
     id: "12214"
     type: "8"
     quota: "2001"
-    giftbag_name: mall-10012214
+    giftbag_name: CZ2000
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "588"
@@ -42134,7 +42134,7 @@
     id: "12215"
     type: "8"
     quota: "2001"
-    giftbag_name: mall-10012215
+    giftbag_name: SL8
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "40205"
@@ -42146,7 +42146,7 @@
     id: "12216"
     type: "8"
     quota: "2001"
-    giftbag_name: mall-10012216
+    giftbag_name: VHS
     event_code: dailyGiftbag
     discount: "1.00"
     prize_id: "1290"
@@ -42159,7 +42159,7 @@
     type: "8"
     gift: 100003-1
     quota: "2200"
-    giftbag_name: mall-10012217
+    giftbag_name: 蛋奶草莓芝士
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"
@@ -42171,7 +42171,7 @@
     type: "8"
     gift: 100003-1
     quota: "2200"
-    giftbag_name: mall-10012218
+    giftbag_name: 蛋奶草莓芝士
     event_code: dailyGiftbag
     discount: "1.00"
     pay_type: "1"

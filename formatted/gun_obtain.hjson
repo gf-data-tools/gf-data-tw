@@ -450,11 +450,11 @@
   }
   {
     obtain_id: 263
-    description: gun_obtain-10000263
+    description: 限時活動【蝴蝶星雲】商店兌換
   }
   {
     obtain_id: 264
-    description: gun_obtain-10000264
+    description: 限時活動【蝴蝶星雲】通關獎勵
   }
   {
     obtain_id: 301
@@ -1359,6 +1359,6 @@
   }
   {
     obtain_id: 3118
-    description: gun_obtain-10003118
+    description: 限時活動<蝴蝶星雲>代幣兌換
   }
 ]

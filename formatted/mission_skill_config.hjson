@@ -29364,9 +29364,8 @@
   }
   {
     id: 730001
-    name: mission_skill_config-10730001
-    description: mission_skill_config-20730001
-    lvup_description: mission_skill_config-30730001
+    name: 拾取
+    description: 拾取一個冒煙的歌利亞
     skill_group_id: 730001
     level: 1
     spot_type: "-1"
@@ -29381,9 +29380,8 @@
   }
   {
     id: 730011
-    name: mission_skill_config-10730011
-    description: mission_skill_config-20730011
-    lvup_description: mission_skill_config-30730011
+    name: 投擲
+    description: 將冒煙的歌利亞投擲出去形成一片煙霧。煙霧持續2個回合，期間進入的敵方單位無法走出來直至煙霧散去
     skill_group_id: 730011
     level: 1
     spot_type: "-1"
@@ -29398,9 +29396,7 @@
   }
   {
     id: 730021
-    name: mission_skill_config-10730021
-    description: mission_skill_config-20730021
-    lvup_description: mission_skill_config-30730021
+    name: 【標記】清buff
     skill_group_id: 730021
     level: 1
     spot_type: "-1"
@@ -29412,9 +29408,7 @@
   }
   {
     id: 730101
-    name: mission_skill_config-10730101
-    description: mission_skill_config-20730101
-    lvup_description: mission_skill_config-30730101
+    name: 【標記】NPC初始化
     skill_group_id: 730101
     level: 1
     spot_type: "-1"
@@ -29427,9 +29421,7 @@
   }
   {
     id: 730201
-    name: mission_skill_config-10730201
-    description: mission_skill_config-20730201
-    lvup_description: mission_skill_config-30730201
+    name: 【標記】NPC檢測
     skill_group_id: 730201
     level: 1
     spot_type: "-1"
@@ -29441,9 +29433,7 @@
   }
   {
     id: 730221
-    name: mission_skill_config-10730221
-    description: mission_skill_config-20730221
-    lvup_description: mission_skill_config-30730221
+    name: 【標記】NPC死亡檢測
     skill_group_id: 730221
     level: 1
     spot_type: "-1"
@@ -29455,9 +29445,7 @@
   }
   {
     id: 730401
-    name: mission_skill_config-10730401
-    description: mission_skill_config-20730401
-    lvup_description: mission_skill_config-30730401
+    name: 【標記】山洞初始化
     skill_group_id: 730401
     level: 1
     spot_type: "-1"
@@ -29469,9 +29457,7 @@
   }
   {
     id: 730402
-    name: mission_skill_config-10730402
-    description: mission_skill_config-20730402
-    lvup_description: mission_skill_config-30730402
+    name: 【標記】山洞初始化
     skill_group_id: 730402
     level: 1
     spot_type: "-1"
@@ -29483,9 +29469,7 @@
   }
   {
     id: 730403
-    name: mission_skill_config-10730403
-    description: mission_skill_config-20730403
-    lvup_description: mission_skill_config-30730403
+    name: 【標記】山洞初始化
     skill_group_id: 730403
     level: 1
     spot_type: "-1"
@@ -29497,9 +29481,7 @@
   }
   {
     id: 730404
-    name: mission_skill_config-10730404
-    description: mission_skill_config-20730404
-    lvup_description: mission_skill_config-30730404
+    name: 【標記】山洞初始化
     skill_group_id: 730404
     level: 1
     spot_type: "-1"
@@ -29511,9 +29493,8 @@
   }
   {
     id: 730411
-    name: mission_skill_config-10730411
-    description: mission_skill_config-20730411
-    lvup_description: mission_skill_config-30730411
+    name: 攀登
+    description: 移動到山道的另一端
     skill_group_id: 730411
     level: 1
     spot_type: "-1"
@@ -29526,9 +29507,8 @@
   }
   {
     id: 730412
-    name: mission_skill_config-10730412
-    description: mission_skill_config-20730412
-    lvup_description: mission_skill_config-30730412
+    name: 攀登
+    description: 移動到山道的另一端
     skill_group_id: 730412
     level: 1
     spot_type: "-1"
@@ -29541,9 +29521,8 @@
   }
   {
     id: 730413
-    name: mission_skill_config-10730413
-    description: mission_skill_config-20730413
-    lvup_description: mission_skill_config-30730413
+    name: 攀登
+    description: 移動到山道的另一端
     skill_group_id: 730413
     level: 1
     spot_type: "-1"
@@ -29556,9 +29535,8 @@
   }
   {
     id: 730414
-    name: mission_skill_config-10730414
-    description: mission_skill_config-20730414
-    lvup_description: mission_skill_config-30730414
+    name: 攀登
+    description: 移動到山道的另一端
     skill_group_id: 730414
     level: 1
     spot_type: "-1"
@@ -40720,10 +40698,10 @@
   }
   {
     id: 3001501
-    name: mission_skill_config-13001501
+    name: 共生
     code: M16A1_2
-    description: mission_skill_config-23001501
-    lvup_description: mission_skill_config-33001501
+    description: 白燁戈梯隊存活時,提升地圖內己方格里芬梯隊傷害1%和迴避10%,提升己方融合勢力梯隊暴擊率30%和護甲10%。
+    lvup_description: 傷害提升:1%,迴避提升:10%,暴擊率提升:30%,護甲提升:10%
     skill_group_id: 30015
     level: 1
     train_coin_type: 4
@@ -40733,13 +40711,14 @@
     cd_time: 99
     cd_time_type: 1
     special_spot_add: 2400:1
+    mission_buff_add: 300151:1
   }
   {
     id: 3001502
-    name: mission_skill_config-13001502
+    name: 共生
     code: M16A1_2
-    description: mission_skill_config-23001502
-    lvup_description: mission_skill_config-33001502
+    description: 白燁戈梯隊存活時,提升地圖內己方格里芬梯隊傷害2%和迴避12%,提升己方融合勢力梯隊暴擊率32%和護甲11%。
+    lvup_description: 傷害提升:2%,迴避提升:12%,暴擊率提升:32%,護甲提升:11%
     skill_group_id: 30015
     level: 2
     train_coin_type: 4
@@ -40750,13 +40729,14 @@
     cd_time: 99
     cd_time_type: 1
     special_spot_add: 2400:1
+    mission_buff_add: 300151:1
   }
   {
     id: 3001503
-    name: mission_skill_config-13001503
+    name: 共生
     code: M16A1_2
-    description: mission_skill_config-23001503
-    lvup_description: mission_skill_config-33001503
+    description: 白燁戈梯隊存活時,提升地圖內己方格里芬梯隊傷害3%和迴避14%,提升己方融合勢力梯隊暴擊率34%和護甲12%。
+    lvup_description: 傷害提升:3%,迴避提升:14%,暴擊率提升:34%,護甲提升:12%
     skill_group_id: 30015
     level: 3
     train_coin_type: 4
@@ -40767,13 +40747,14 @@
     cd_time: 99
     cd_time_type: 1
     special_spot_add: 2400:1
+    mission_buff_add: 300151:1
   }
   {
     id: 3001504
-    name: mission_skill_config-13001504
+    name: 共生
     code: M16A1_2
-    description: mission_skill_config-23001504
-    lvup_description: mission_skill_config-33001504
+    description: 白燁戈梯隊存活時,提升地圖內己方格里芬梯隊傷害4%和迴避17%,提升己方融合勢力梯隊暴擊率37%和護甲13%。
+    lvup_description: 傷害提升:4%,迴避提升:17%,暴擊率提升:37%,護甲提升:13%
     skill_group_id: 30015
     level: 4
     train_coin_type: 4
@@ -40784,13 +40765,14 @@
     cd_time: 99
     cd_time_type: 1
     special_spot_add: 2400:1
+    mission_buff_add: 300151:1
   }
   {
     id: 3001505
-    name: mission_skill_config-13001505
+    name: 共生
     code: M16A1_2
-    description: mission_skill_config-23001505
-    lvup_description: mission_skill_config-33001505
+    description: 白燁戈梯隊存活時,提升地圖內己方格里芬梯隊傷害5%和迴避19%,提升己方融合勢力梯隊暴擊率39%和護甲14%。
+    lvup_description: 傷害提升:5%,迴避提升:19%,暴擊率提升:39%,護甲提升:14%
     skill_group_id: 30015
     level: 5
     train_coin_type: 4
@@ -40801,13 +40783,14 @@
     cd_time: 99
     cd_time_type: 1
     special_spot_add: 2400:1
+    mission_buff_add: 300151:1
   }
   {
     id: 3001506
-    name: mission_skill_config-13001506
+    name: 共生
     code: M16A1_2
-    description: mission_skill_config-23001506
-    lvup_description: mission_skill_config-33001506
+    description: 白燁戈梯隊存活時,提升地圖內己方格里芬梯隊傷害6%和迴避21%,提升己方融合勢力梯隊暴擊率41%和護甲16%。
+    lvup_description: 傷害提升:6%,迴避提升:21%,暴擊率提升:41%,護甲提升:16%
     skill_group_id: 30015
     level: 6
     train_coin_type: 4
@@ -40819,13 +40802,14 @@
     cd_time: 99
     cd_time_type: 1
     special_spot_add: 2400:1
+    mission_buff_add: 300151:1
   }
   {
     id: 3001507
-    name: mission_skill_config-13001507
+    name: 共生
     code: M16A1_2
-    description: mission_skill_config-23001507
-    lvup_description: mission_skill_config-33001507
+    description: 白燁戈梯隊存活時,提升地圖內己方格里芬梯隊傷害7%和迴避23%,提升己方融合勢力梯隊暴擊率43%和護甲17%。
+    lvup_description: 傷害提升:7%,迴避提升:23%,暴擊率提升:43%,護甲提升:17%
     skill_group_id: 30015
     level: 7
     train_coin_type: 5
@@ -40837,13 +40821,14 @@
     cd_time: 99
     cd_time_type: 1
     special_spot_add: 2400:1
+    mission_buff_add: 300151:1
   }
   {
     id: 3001508
-    name: mission_skill_config-13001508
+    name: 共生
     code: M16A1_2
-    description: mission_skill_config-23001508
-    lvup_description: mission_skill_config-33001508
+    description: 白燁戈梯隊存活時,提升地圖內己方格里芬梯隊傷害8%和迴避26%,提升己方融合勢力梯隊暴擊率46%和護甲18%。
+    lvup_description: 傷害提升:8%,迴避提升:26%,暴擊率提升:46%,護甲提升:18%
     skill_group_id: 30015
     level: 8
     train_coin_type: 5
@@ -40855,13 +40840,14 @@
     cd_time: 99
     cd_time_type: 1
     special_spot_add: 2400:1
+    mission_buff_add: 300151:1
   }
   {
     id: 3001509
-    name: mission_skill_config-13001509
+    name: 共生
     code: M16A1_2
-    description: mission_skill_config-23001509
-    lvup_description: mission_skill_config-33001509
+    description: 白燁戈梯隊存活時,提升地圖內己方格里芬梯隊傷害9%和迴避28%,提升己方融合勢力梯隊暴擊率48%和護甲19%。
+    lvup_description: 傷害提升:9%,迴避提升:28%,暴擊率提升:48%,護甲提升:19%
     skill_group_id: 30015
     level: 9
     train_coin_type: 5
@@ -40873,13 +40859,14 @@
     cd_time: 99
     cd_time_type: 1
     special_spot_add: 2400:1
+    mission_buff_add: 300151:1
   }
   {
     id: 3001510
-    name: mission_skill_config-13001510
+    name: 共生
     code: M16A1_2
-    description: mission_skill_config-23001510
-    lvup_description: mission_skill_config-33001510
+    description: 白燁戈梯隊存活時,提升地圖內己方格里芬梯隊傷害10%和迴避30%,提升己方融合勢力梯隊暴擊率50%和護甲20%。
+    lvup_description: 傷害提升:10%,迴避提升:30%,暴擊率提升:50%,護甲提升:20%
     skill_group_id: 30015
     level: 10
     train_coin_type: 5
@@ -40891,6 +40878,7 @@
     cd_time: 99
     cd_time_type: 1
     special_spot_add: 2400:1
+    mission_buff_add: 300151:1
   }
   {
     id: 3179011

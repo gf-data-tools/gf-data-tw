@@ -6751,11 +6751,11 @@
   {
     sub_id: 100060001
     id: 100060
-    name: enemy_illustration-110060001
-    sub_name: enemy_illustration-150060001
+    name: 多斯保鏢
+    sub_name: 多斯保鏢-AR
     type: 3
     code: Guard1Breakout
-    introduce: enemy_illustration-120060001
+    introduce: 常年在多斯身邊護衛的保鏢，擁有地下勢力的狠辣。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6764,19 +6764,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130060001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "106"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140060001
   }
   {
     sub_id: 100061001
     id: 100061
-    name: enemy_illustration-110061001
-    sub_name: enemy_illustration-150061001
+    name: 多斯保鏢
+    sub_name: 多斯保鏢-RF
     type: 3
     code: Guard2Breakout
-    introduce: enemy_illustration-120061001
+    introduce: 常年在多斯身邊護衛的保鏢，擁有地下勢力的狠辣。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6785,19 +6784,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130061001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "106"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140061001
   }
   {
     sub_id: 100062001
     id: 100062
-    name: enemy_illustration-110062001
-    sub_name: enemy_illustration-150062001
+    name: 多斯保鏢
+    sub_name: 多斯保鏢-SG
     type: 3
     code: Guard3Breakout
-    introduce: enemy_illustration-120062001
+    introduce: 常年在多斯身邊護衛的保鏢，擁有地下勢力的狠辣。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6806,19 +6804,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130062001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "106"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140062001
   }
   {
     sub_id: 100063001
     id: 100063
-    name: enemy_illustration-110063001
-    sub_name: enemy_illustration-150063001
+    name: 黑金隊員
+    sub_name: 黑金隊員-AR
     type: 3
     code: BG1Breakout
-    introduce: enemy_illustration-120063001
+    introduce: 黑金國際深淵小隊隊員，是被嚴格訓練的戰鬥精英。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6827,19 +6824,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130063001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "107"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140063001
   }
   {
     sub_id: 100064001
     id: 100064
-    name: enemy_illustration-110064001
-    sub_name: enemy_illustration-150064001
+    name: 黑金隊員
+    sub_name: 黑金隊員-SMG
     type: 3
     code: BG2Breakout
-    introduce: enemy_illustration-120064001
+    introduce: 黑金國際深淵小隊隊員，是被嚴格訓練的戰鬥精英。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6848,19 +6844,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130064001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "107"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140064001
   }
   {
     sub_id: 100065001
     id: 100065
-    name: enemy_illustration-110065001
-    sub_name: enemy_illustration-150065001
+    name: 黑金隊員
+    sub_name: 黑金隊員-RF
     type: 3
     code: BG3Breakout
-    introduce: enemy_illustration-120065001
+    introduce: 黑金國際深淵小隊隊員，是被嚴格訓練的戰鬥精英。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6869,19 +6864,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130065001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "107"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140065001
   }
   {
     sub_id: 100066001
     id: 100066
-    name: enemy_illustration-110066001
-    sub_name: enemy_illustration-150066001
+    name: 多斯殺手
+    sub_name: 多斯殺手
     type: 3
     code: DisGuardBreakout
-    introduce: enemy_illustration-120066001
+    introduce: 多斯派出的殺手，奉命為多斯鏟除目標。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6890,19 +6884,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130066001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "106"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140066001
   }
   {
     sub_id: 100067001
     id: 100067
-    name: enemy_illustration-110067001
-    sub_name: enemy_illustration-150067001
+    name: 特種兵
+    sub_name: 特種兵
     type: 3
     code: DisBGBreakout
-    introduce: enemy_illustration-120067001
+    introduce: 來歷不明的特種兵，看戰鬥風格，似乎受過正規訓練。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6911,19 +6904,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130067001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "107"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140067001
   }
   {
     sub_id: 100068001
     id: 100068
-    name: enemy_illustration-110068001
-    sub_name: enemy_illustration-150068001
+    name: 多斯精英保鏢
+    sub_name: 多斯精英保鏢
     type: 3
     code: EliteGuardBreakout
-    introduce: enemy_illustration-120068001
+    introduce: 多斯的保鏢頭目，因擁有更強的能力而備受多斯信賴。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6932,19 +6924,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130068001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "1001,106"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140068001
   }
   {
     sub_id: 100069001
     id: 100069
-    name: enemy_illustration-110069001
-    sub_name: enemy_illustration-150069001
+    name: 黑金精英隊員
+    sub_name: 黑金精英隊員
     type: 3
     code: EliteBGBreakout
-    introduce: enemy_illustration-120069001
+    introduce: 黑金國際深淵小隊中的精英隊員，能力更為出眾。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6953,19 +6944,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130069001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "1001,107"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140069001
   }
   {
     sub_id: 100070001
     id: 100070
-    name: enemy_illustration-110070001
-    sub_name: enemy_illustration-150070001
+    name: 多斯
+    sub_name: 多斯
     type: 1
     code: DosBreakout
-    introduce: enemy_illustration-120070001
+    introduce: 暗區本土勢力安東尼家族的領頭人，經營各類地下生意，為人精明狠絕，身邊常年圍繞著保鏢護衛，是暗區裡不可小覷的地頭毒蛇。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6974,20 +6964,19 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130070001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "1001,106"
     enemy_skill: "10059,10060,10061,10062"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140070001
   }
   {
     sub_id: 100071001
     id: 100071
-    name: enemy_illustration-110071001
-    sub_name: enemy_illustration-150071001
+    name: 白燁戈
+    sub_name: 白燁戈
     type: 1
     code: M16A1Arena
-    introduce: enemy_illustration-120071001
+    introduce: 來歷不詳，目的不明。表面身份是多斯新近招攬的得力干將。對指揮官護送的箱子尤為在意，似乎知曉內情。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6996,20 +6985,19 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130071001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "1001,1004"
     enemy_skill: "8103,8202,8301"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140071001
   }
   {
     sub_id: 100072001
     id: 100072
-    name: enemy_illustration-110072001
-    sub_name: enemy_illustration-150072001
+    name: 黑卡蒂
+    sub_name: 黑卡蒂
     type: 1
     code: HecateBoss
-    introduce: enemy_illustration-120072001
+    introduce: 黑金國際深淵小隊隊長，擅長攀爬與隱秘行動，同時擁有高智商與出色的作戰能力，是暗區裡令人聞之色變的部隊領袖。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -7018,11 +7006,10 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130072001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "1001,107"
     enemy_skill: "10063,10064,10065,10066,10067,10068,10069"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140072001
   }
   {
     sub_id: 100082001

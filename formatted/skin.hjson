@@ -9467,6 +9467,7 @@
     fit_gun: 369
     voice: 4
     dialog: 呼、呼……老闆，沒想到可愛竟然交了這麼多朋友，我快遛不過來了……作為可愛的二號主人，你也來搭把手吧？
+    gift_position: "32.6,44.1"
     order: 117
   }
   {
@@ -9555,12 +9556,11 @@
   }
   {
     id: 30024
-    name: skin-10030024
+    name: S.A.T.8-暮野花謠
     fit_gun: 188
     voice: 4
-    dialog: skin-20030024
-    note: skin-30030024
-    illustrator_cv: skin-40030024
+    dialog: 在綠野上與小羊漫步，一同沐浴夕暮的餘暉，在木推車上載滿雛菊，向您分享我的心意……指揮官，這就是我能想到的最溫暖、最幸福的畫面！
+    illustrator_cv: 豆芽,淺倉杏美,
     order: 143
   }
   {
@@ -9576,52 +9576,46 @@
   }
   {
     id: 50002
-    name: skin-10050002
+    name: 艾薇塔-複合呼吸
     fit_gun: 1045
     voice: 4
-    dialog: skin-20050002
-    note: skin-30050002
+    dialog: 「傷勢不重，不用簽訂捐贈協議了——軍醫配槍是很普通的事，不要大驚小怪，你也不希望我用它給你麻醉吧。」
     gift_position: "-12.8,63.7"
-    illustrator_cv: skin-40050002
     order: 142
     class_id: 53
     skin_source: 1
   }
   {
     id: 50003
-    name: skin-10050003
+    name: 黑卡蒂-致命焦點
     fit_gun: 1046
     voice: 4
-    dialog: skin-20050003
-    note: skin-30050003
+    dialog: 「打仗，不是別人死，就是自己死，活久了，都會有一兩個聽起來很嚇人的外號，習慣就好，不用被嚇到。」
     gift_position: "-67,71"
-    illustrator_cv: skin-40050003
     order: 142
     class_id: 53
     skin_source: 1
   }
   {
     id: 50004
-    name: skin-10050004
+    name: P90-幻影尖兵
     fit_gun: 245
     voice: 4
-    dialog: skin-20050004
-    note: skin-30050004
+    dialog: 「支援這種事，交給我吧，我最擅長的就是迷惑對手了——就算看到千軍萬馬也別驚訝哦？覺得頭暈也是正常的，畢竟看到幻覺了嘛。」
     gift_position: "-130.8,-38.7"
-    illustrator_cv: skin-40050004
+    illustrator_cv: RIRE,諸星すみれ,
     order: 142
     class_id: 53
     skin_source: 1
   }
   {
     id: 50005
-    name: skin-10050005
+    name: MDR-DDOS特工隊
     fit_gun: 215
     voice: 4
-    dialog: skin-20050005
-    note: skin-30050005
+    dialog: 「哈哈哈！沒錯！又是我！MDR駕到！任務都安心交給我吧——欸？我跟P90組隊的原因？指揮官，你聽過DDOS攻擊嗎？我和她，可以各自從網路和現實發起相似的進攻哦……你也很期待看到對面被資料淹沒的樣子，對吧？」
     gift_position: "-127.5,-85.9"
-    illustrator_cv: skin-40050005
+    illustrator_cv: 小槍,愛美,
     order: 142
     class_id: 53
     skin_source: 1

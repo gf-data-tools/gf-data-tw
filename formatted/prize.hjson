@@ -16431,181 +16431,152 @@
   }
   {
     id: 2671
-    name: prize-10002671
+    name: 蝴蝶星雲6+a
     item_ids: 100247-6,100245-1
-    content: prize-20002671
   }
   {
     id: 2672
-    name: prize-10002672
+    name: 蝴蝶星雲8+a
     item_ids: 100247-8,100245-1
-    content: prize-20002672
   }
   {
     id: 2673
-    name: prize-10002673
+    name: 蝴蝶星雲8+2a
     item_ids: 100247-8,100245-2
-    content: prize-20002673
   }
   {
     id: 2674
-    name: prize-10002674
-    item_ids: 100247-10,100245-1
-    content: prize-20002674
+    name: 蝴蝶星雲10+b
+    item_ids: 100247-10,100246-1
   }
   {
     id: 2675
-    name: prize-10002675
+    name: 蝴蝶星雲10+a+b
     item_ids: 100247-10,100245-1,100246-1
-    content: prize-20002675
   }
   {
     id: 2676
-    name: prize-10002676
+    name: 蝴蝶星雲12+b
     item_ids: 100247-12,100246-1
-    content: prize-20002676
   }
   {
     id: 2677
-    name: prize-10002677
+    name: 蝴蝶星雲12+2b
     item_ids: 100247-12,100246-2
-    content: prize-20002677
   }
   {
     id: 2678
-    name: prize-10002678
+    name: 蝴蝶星雲15+2b
     item_ids: 100247-15,100246-2
-    content: prize-20002678
   }
   {
     id: 2679
-    name: prize-10002679
+    name: 蝴蝶星雲15+2a+2b
     item_ids: 100247-15,100245-2,100246-2
-    content: prize-20002679
   }
   {
     id: 2680
-    name: prize-10002680
+    name: 蝴蝶星雲6
     item_ids: 100247-6
-    content: prize-20002680
   }
   {
     id: 2681
-    name: prize-10002681
+    name: 蝴蝶星雲8
     item_ids: 100247-8
-    content: prize-20002681
   }
   {
     id: 2682
-    name: prize-10002682
+    name: 蝴蝶星雲10
     item_ids: 100247-10
-    content: prize-20002682
   }
   {
     id: 2683
-    name: prize-10002683
+    name: 蝴蝶星雲12
     item_ids: 100247-12
-    content: prize-20002683
   }
   {
     id: 2684
-    name: prize-10002684
+    name: 蝴蝶星雲15
     item_ids: 100247-15
-    content: prize-20002684
   }
   {
     id: 2685
-    name: prize-10002685
+    name: 蝴蝶星雲a
     item_ids: 100245-1
-    content: prize-20002685
   }
   {
     id: 2686
-    name: prize-10002686
+    name: 蝴蝶星雲b
     item_ids: 100246-1
-    content: prize-20002686
   }
   {
     id: 2687
-    name: prize-10002687
+    name: 蝴蝶星雲2a
     item_ids: 100245-2
-    content: prize-20002687
   }
   {
     id: 2688
-    name: prize-10002688
+    name: 蝴蝶星雲2b
     item_ids: 100246-2
-    content: prize-20002688
   }
   {
     id: 2689
-    name: prize-10002689
+    name: 艾薇塔專屬：醫療包
     equip_ids: "429"
-    content: prize-20002689
   }
   {
     id: 2690
-    name: prize-10002690
+    name: 黑卡蒂專屬：合金登山扣具
     equip_ids: "430"
-    content: prize-20002690
   }
   {
     id: 2691
-    name: prize-10002691
+    name: 傢具：武器陳列牆
     furniture: "3119"
-    content: prize-20002691
   }
   {
     id: 2692
-    name: prize-10002692
+    name: 傢具：戰利品藏桌
     furniture: "3120"
-    content: prize-20002692
   }
   {
     id: 2693
-    name: prize-10002693
+    name: 傢具：榮譽獎章
     furniture: "3121"
-    content: prize-20002693
   }
   {
     id: 2694
-    name: prize-10002694
+    name: 傢具：士氣章收藏
     furniture: "3122"
-    content: prize-20002694
   }
   {
     id: 2695
-    name: prize-10002695
+    name: 艾薇塔-複合呼吸
     gift: 50002-1
-    content: prize-20002695
     icon: Bumdle_ArenaBreakout_Evita
   }
   {
     id: 2696
-    name: prize-10002696
+    name: 黑卡蒂-致命焦點
     gift: 50003-1
-    content: prize-20002696
     icon: Bumdle_ArenaBreakout_Hecate
   }
   {
     id: 2697
-    name: prize-10002697
+    name: P90-幻影尖兵
     gift: 50004-1
-    content: prize-20002697
     icon: Bumdle_ArenaBreakout_P90
   }
   {
     id: 2698
-    name: prize-10002698
+    name: MDR-DDOS特工隊
     gift: 50005-1
-    content: prize-20002698
     icon: Bumdle_ArenaBreakout_MDR
   }
   {
     id: 2699
-    name: prize-10002699
+    name: 黑卡蒂
     gun_id: "1046"
-    content: prize-20002699
   }
   {
     id: 3001
@@ -18181,15 +18152,13 @@
   }
   {
     id: 4329
-    name: prize-10004329
+    name: 融合勢力：白燁戈
     sangvis: "1029"
-    content: prize-20004329
   }
   {
     id: 4330
-    name: prize-10004330
+    name: 頭像：白燁戈頭像
     item_ids: 2590-1
-    content: prize-20004330
   }
   {
     id: 5001
@@ -40666,238 +40635,204 @@
   }
   {
     id: 17801
-    name: prize-10017801
+    name: 3-第一枚子彈-任務獎勵
     coins: 1-300
-    content: prize-20017801
   }
   {
     id: 17802
-    name: prize-10017802
+    name: 7-陷入旋渦-任務獎勵
     coins: 2-300
-    content: prize-20017802
   }
   {
     id: 17803
-    name: prize-10017803
+    name: 11-敬玫瑰凋零-任務獎勵
     coins: 3-300
-    content: prize-20017803
   }
   {
     id: 17804
-    name: prize-10017804
+    name: 14-無注的賭徒-任務獎勵
     gun_id: "1045"
-    content: prize-20017804
   }
   {
     id: 17805
-    name: prize-10017805
+    name: 3-第一枚子彈EX-任務獎勵
     item_ids: 9-50
-    content: prize-20017805
   }
   {
     id: 17806
-    name: prize-10017806
+    name: 7-陷入旋渦EX-任務獎勵
     item_ids: 506-100
-    content: prize-20017806
   }
   {
     id: 17807
-    name: prize-10017807
+    name: 11-敬玫瑰凋零EX-任務獎勵
     gift: 200001-100
-    content: prize-20017807
   }
   {
     id: 17808
-    name: prize-10017808
+    name: 14-無注的賭徒EX-任務獎勵
     item_ids: 45-100
-    content: prize-20017808
   }
   {
     id: 17809
-    name: prize-10017809
+    name: 特殊的派遣-任務獎勵
     core: 10
-    content: prize-20017809
   }
   {
     id: 17810
-    name: prize-10017810
+    name: 特殊的派遣EX-任務獎勵
     mp: 500
     ammo: 500
     mre: 500
     part: 500
-    content: prize-20017810
   }
   {
     id: 17811
-    name: prize-10017811
+    name: 1-無光的區域-任務獎勵
     core: 5
-    content: prize-20017811
   }
   {
     id: 17812
-    name: prize-10017812
+    name: 2-扮演盲目-任務獎勵
     mp: 500
     ammo: 500
     mre: 500
     part: 500
-    content: prize-20017812
   }
   {
     id: 17813
-    name: prize-10017813
+    name: 4-不和諧音符-任務獎勵
     core: 5
-    content: prize-20017813
   }
   {
     id: 17814
-    name: prize-10017814
+    name: 5-何處吹來的風-任務獎勵
     mp: 500
     ammo: 500
     mre: 500
     part: 500
-    content: prize-20017814
   }
   {
     id: 17815
-    name: prize-10017815
+    name: 6-協奏-任務獎勵
     item_ids: 46-50
-    content: prize-20017815
   }
   {
     id: 17816
-    name: prize-10017816
+    name: 8-第四顆石頭-任務獎勵
     core: 5
-    content: prize-20017816
   }
   {
     id: 17817
-    name: prize-10017817
+    name: 9-熟悉的刀-任務獎勵
     mp: 500
     ammo: 500
     mre: 500
     part: 500
-    content: prize-20017817
   }
   {
     id: 17818
-    name: prize-10017818
+    name: 10-月光下的駝鈴聲-任務獎勵
     item_ids: 9-50
-    content: prize-20017818
   }
   {
     id: 17819
-    name: prize-10017819
+    name: 12-第二次變奏-任務獎勵
     sangvis: "1029"
-    content: prize-20017819
   }
   {
     id: 17820
-    name: prize-10017820
+    name: 13-最後一條路-任務獎勵
     furniture: "3126"
-    content: prize-20017820
   }
   {
     id: 17821
-    name: prize-10017821
+    name: 15-蛛絲-任務獎勵
     furniture: "3127"
-    content: prize-20017821
   }
   {
     id: 17822
-    name: prize-10017822
+    name: 16-顫動的蝶翼-任務獎勵
     item_ids: 143-1
     furniture: "20154"
-    content: prize-20017822
   }
   {
     id: 17823
-    name: prize-10017823
+    name: E-1 意外的嫌疑人-任務獎勵
     mp: 500
     ammo: 500
     mre: 500
     part: 500
-    content: prize-20017823
   }
   {
     id: 17824
-    name: prize-10017824
+    name: E-2 不褪色的白衣-任務獎勵
     item_ids: 506-100
-    content: prize-20017824
   }
   {
     id: 17825
-    name: prize-10017825
+    name: E-3 晶瑩的灰燼-任務獎勵
     furniture: "3123"
-    content: prize-20017825
   }
   {
     id: 17826
-    name: prize-10017826
+    name: H-1 私人處決-任務獎勵
     mp: 500
     ammo: 500
     mre: 500
     part: 500
-    content: prize-20017826
   }
   {
     id: 17827
-    name: prize-10017827
+    name: H-2 無法冒犯-任務獎勵
     gift: 200001-50
-    content: prize-20017827
   }
   {
     id: 17828
-    name: prize-10017828
+    name: H-3 彈孔永不癒合-任務獎勵
     furniture: "3124"
-    content: prize-20017828
   }
   {
     id: 17829
-    name: prize-10017829
+    name: D-1 吸金的老鼠-任務獎勵
     mp: 500
     ammo: 500
     mre: 500
     part: 500
-    content: prize-20017829
   }
   {
     id: 17830
-    name: prize-10017830
+    name: D-2 執行官-任務獎勵
     item_ids: 46-50
-    content: prize-20017830
   }
   {
     id: 17831
-    name: prize-10017831
+    name: D-3 誰才是魚-任務獎勵
     furniture: "3125"
-    content: prize-20017831
   }
   {
     id: 17832
-    name: prize-10017832
+    name: 新鋒行錄I-任務獎勵
     mp: 200
     ammo: 200
     mre: 200
     part: 200
-    content: prize-20017832
   }
   {
     id: 17833
-    name: prize-10017833
+    name: 新鋒行錄II-任務獎勵
     mp: 200
     ammo: 200
     mre: 200
     part: 200
-    content: prize-20017833
   }
   {
     id: 17834
-    name: prize-10017834
+    name: 新鋒行錄III-任務獎勵
     mp: 200
     ammo: 200
     mre: 200
     part: 200
-    content: prize-20017834
   }
   {
     id: 20001
@@ -51386,6 +51321,100 @@
     fairy_ids: 31-0
   }
   {
+    id: 40765
+    name: 階段獎勵I
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gift: 200001-100
+    coins: 1-100,2-100
+    icon: Bumdle_black
+  }
+  {
+    id: 40766
+    name: 階段獎勵II
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gem: 50
+    gift: 200001-100
+    coins: 1-200,2-200
+    icon: Bumdle_blue
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 40767
+    name: 階段獎勵III
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gift: 200001-200
+    coins: 2-200,3-100
+    icon: Bumdle_brown
+  }
+  {
+    id: 40768
+    name: 階段獎勵IV
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gem: 50
+    gift: 200001-200,400001-200
+    equip_ids: "300"
+    coins: 3-200
+    icon: Bumdle_purple
+  }
+  {
+    id: 40769
+    name: 階段獎勵V
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    item_ids: 514-150,515-150
+    gift: 400001-200
+    icon: Bumdle_red
+  }
+  {
+    id: 40770
+    name: 階段獎勵VI
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    gem: 100
+    item_ids: 514-250,515-250,516-200
+    icon: Bumdle_ruby
+    commander_uniform: "4810"
+  }
+  {
+    id: 40771
+    name: 階段獎勵VII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    item_ids: 515-300,516-400
+    icon: Bumdle_white
+  }
+  {
+    id: 40772
+    name: 階段獎勵VIII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    gem: 100
+    item_ids: 45-500
+    gift: 200001-500
+    icon: Bumdle_yellow
+    fairy_ids: 32-0
+  }
+  {
     id: 44001
     name: 戰區3000積分獎勵
     mp: 500
@@ -56168,9 +56197,23 @@
   }
   {
     id: 121039
-    name: prize-10121039
+    name: 「全都要」攪拌機
     furniture: "20105"
-    content: prize-20121039
+  }
+  {
+    id: 121040
+    name: DIY特供中心
+    furniture: "20107"
+  }
+  {
+    id: 121041
+    name: 好勝黑洞
+    furniture: "20108"
+  }
+  {
+    id: 121042
+    name: 考前衝刺夜
+    furniture: "20109"
   }
   {
     id: 130001
@@ -58195,21 +58238,18 @@
   }
   {
     id: 150131
-    name: prize-10150131
+    name: 日常玩法-第20期-五星裝備自選池子
     equip_ids: "16,20,32,44,66,72,90"
-    content: prize-20150131
   }
   {
     id: 150132
-    name: prize-10150132
+    name: 日常玩法-第20期-4星及以下人形專屬裝備自選池子
     equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359,365,366,368,369,264,372,374,375,216,385,246,390,250,393,218,398,94,407,265,410,276,415,259,420,288,423,108,428"
-    content: prize-20150132
   }
   {
     id: 150133
-    name: prize-10150133
+    name: 日常玩法-第20期-5星人形專屬裝備自選池子
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399,321,406,332,409,339,414,347,419,350,422,354,427"
-    content: prize-20150133
   }
   {
     id: 200001
