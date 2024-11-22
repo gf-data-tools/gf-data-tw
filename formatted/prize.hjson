@@ -44722,7 +44722,7 @@
   {
     id: 37210
     name: 36 光之聲-通關獎勵
-    item_ids: 45-100
+    item_ids: 45-100,161000-1
   }
   {
     id: 37211
@@ -44851,6 +44851,531 @@
     id: 37232
     name: 35-P3 愛的贊禮-通關獎勵
     item_ids: 45-100
+  }
+  {
+    id: 37333
+    name: 黑色鳶尾花-任務獎勵
+    core: 10
+  }
+  {
+    id: 37334
+    name: WTR 在荒野的北方-任務獎勵
+    item_ids: 9-30
+  }
+  {
+    id: 37335
+    name: WTR 冬獵-任務獎勵
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+  }
+  {
+    id: 37336
+    name: WTR 山毛櫸林Ⅰ-任務獎勵
+    coins: 1-200
+  }
+  {
+    id: 37337
+    name: WTR 構圖第Ⅱ號-任務獎勵
+    gift: 200001-200
+  }
+  {
+    id: 37338
+    name: WTR 鍬甲-任務獎勵
+    item_ids: 506-200
+  }
+  {
+    id: 37339
+    name: WTR 雪地上的晨光-任務獎勵
+    coins: 1-200
+  }
+  {
+    id: 37340
+    name: SPR 夜晚：紅樹-任務獎勵
+    coins: 2-200
+  }
+  {
+    id: 37341
+    name: SPR 構圖第6號-任務獎勵
+    item_ids: 45-100
+  }
+  {
+    id: 37342
+    name: SPR 灰色的樹-任務獎勵
+    item_ids: 514-30
+  }
+  {
+    id: 37343
+    name: SPR 帶紅色的構圖B-任務獎勵
+    item_ids: 44-300
+  }
+  {
+    id: 37344
+    name: SPR 場景 no.1-任務獎勵
+    core: 10
+  }
+  {
+    id: 37345
+    name: SPR 藍胸佛法僧的翅膀-任務獎勵
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 37346
+    name: SUM 天鵝，第九組第一號-任務獎勵
+    coins: 2-200
+  }
+  {
+    id: 37347
+    name: SUM 森林中的小徑-任務獎勵
+    coins: 1-600
+  }
+  {
+    id: 37348
+    name: SUM 藍色房間裡的陽光-任務獎勵
+    item_ids: 14-100
+  }
+  {
+    id: 37349
+    name: SUM 生活是一場鬥爭-任務獎勵
+    item_ids: 506-100
+  }
+  {
+    id: 37350
+    name: SUM 晚禱-任務獎勵
+    coins: 1-200
+  }
+  {
+    id: 37351
+    name: SUM 被風吹散-任務獎勵
+    gift: 400001-50
+  }
+  {
+    id: 37352
+    name: AUT 藍色與銀色的和諧-任務獎勵
+    item_ids: 9-30
+  }
+  {
+    id: 37353
+    name: AUT 死亡與生命-任務獎勵
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37354
+    name: AUT 屋頂上的提琴手-任務獎勵
+    item_ids: 15-100
+  }
+  {
+    id: 37355
+    name: AUT 死島-任務獎勵
+    coins: 2-600
+  }
+  {
+    id: 37356
+    name: AUT 浪潮-任務獎勵
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 37357
+    name: AUT 藍翅膀的鐘-任務獎勵
+    item_ids: 525-30
+  }
+  {
+    id: 37358
+    name: L1 生命之樹-任務獎勵
+    item_ids: 15-100
+  }
+  {
+    id: 37359
+    name: L4 圓圈中的圓圈-任務獎勵
+    item_ids: 51-2
+  }
+  {
+    id: 37360
+    name: L2 中控室顯示器-任務獎勵
+    item_ids: 525-30
+  }
+  {
+    id: 37361
+    name: L3 手術台-任務獎勵
+    coins: 2-200
+  }
+  {
+    id: 37362
+    name: F1 紅色騎士-任務獎勵
+    coins: 1-200
+  }
+  {
+    id: 37363
+    name: F2 霧海中的漫游者-任務獎勵
+    item_ids: 514-30
+  }
+  {
+    id: 37364
+    name: F3 黑色正方形-任務獎勵
+    item_ids: 506-100
+  }
+  {
+    id: 37365
+    name: F4 灰與黑的排列-任務獎勵
+    core: 10
+  }
+  {
+    id: 37366
+    name: F6 遲鈍的紅色-任務獎勵
+    coins: 3-600
+  }
+  {
+    id: 37367
+    name: F5 雕像的寓意-任務獎勵
+    item_ids: 9-30
+  }
+  {
+    id: 37368
+    name: F9 炮聲-任務獎勵
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37369
+    name: F7 人類之子-任務獎勵
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 37370
+    name: F12 晚鐘-任務獎勵
+    item_ids: 45-150
+  }
+  {
+    id: 37371
+    name: F8 記憶的永恆-任務獎勵
+    item_ids: 45-100
+  }
+  {
+    id: 37372
+    name: F15 格爾尼卡-任務獎勵
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 37373
+    name: F10 白色之上的白色-任務獎勵
+    item_ids: 14-100
+  }
+  {
+    id: 37374
+    name: F18 最後的審判-任務獎勵
+    item_ids: 51-2
+  }
+  {
+    id: 37375
+    name: F11 穿越紅海-任務獎勵
+    coins: 1-200
+  }
+  {
+    id: 37377
+    name: WTR 冬獵-UX-任務獎勵
+    item_ids: 45-200
+  }
+  {
+    id: 37378
+    name: WTR 構圖第Ⅱ號-UX-任務獎勵
+    item_ids: 51-2
+  }
+  {
+    id: 37379
+    name: SPR 構圖第6號-UX-任務獎勵
+    item_ids: 44-500
+  }
+  {
+    id: 37380
+    name: SPR 帶紅色的構圖B-UX-任務獎勵
+    item_ids: 9-120
+  }
+  {
+    id: 37381
+    name: SUM 森林中的小徑-UX-任務獎勵
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37382
+    name: SUM 生活是一場鬥爭-UX-任務獎勵
+    item_ids: 45-200
+  }
+  {
+    id: 37383
+    name: AUT 死亡與生命-UX-任務獎勵
+    item_ids: 51-2
+  }
+  {
+    id: 37384
+    name: AUT 死島-UX-任務獎勵
+    item_ids: 46-400
+  }
+  {
+    id: 37385
+    name: L4 圓圈中的圓圈-UX-任務獎勵
+    core: 10
+  }
+  {
+    id: 37386
+    name: F3 黑色正方形-EX-任務獎勵
+    coins: 1-800
+  }
+  {
+    id: 37387
+    name: F6 遲鈍的紅色-EX-任務獎勵
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37388
+    name: F9 炮聲-EX-任務獎勵
+    coins: 2-800
+  }
+  {
+    id: 37389
+    name: F12 晚鐘-EX-任務獎勵
+    mp: 1500
+    ammo: 1500
+    mre: 1500
+    part: 1500
+  }
+  {
+    id: 37390
+    name: F15 格爾尼卡-EX-任務獎勵
+    coins: 3-800
+  }
+  {
+    id: 37391
+    name: F18 最後的審判-EX-任務獎勵
+    item_ids: 51-2
+  }
+  {
+    id: 37392
+    name: F3 黑色正方形-UX-任務獎勵
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+  }
+  {
+    id: 37393
+    name: F6 遲鈍的紅色-UX-任務獎勵
+    item_ids: 45-200
+  }
+  {
+    id: 37394
+    name: F9 炮聲-UX-任務獎勵
+    mp: 600
+    ammo: 600
+    mre: 600
+    part: 600
+  }
+  {
+    id: 37395
+    name: F12 晚鐘-UX-任務獎勵
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37396
+    name: F15 格爾尼卡-UX-任務獎勵
+    core: 10
+  }
+  {
+    id: 37397
+    name: F18 最後的審判-UX-任務獎勵
+    core: 10
+  }
+  {
+    id: 37398
+    name: 四點透視-Ⅰ-任務獎勵
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37399
+    name: 四點透視-Ⅱ-任務獎勵
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+  }
+  {
+    id: 37400
+    name: 五點透視-Ⅰ-任務獎勵
+    gift: 200001-200
+  }
+  {
+    id: 37401
+    name: 五點透視-Ⅱ-任務獎勵
+    item_ids: 46-200
+  }
+  {
+    id: 37404
+    name: 鹿角棕-任務獎勵
+    core: 10
+  }
+  {
+    id: 37405
+    name: 牛骨黑-任務獎勵
+    core: 10
+  }
+  {
+    id: 37406
+    name: WTR 日落時的蓬廷沼澤-任務獎勵
+    coins: 2-200
+  }
+  {
+    id: 37407
+    name: SUM 金翅雀-任務獎勵
+    coins: 3-200
+  }
+  {
+    id: 37408
+    name: SUM 天鵝，第九組第六號-任務獎勵
+    core: 10
+  }
+  {
+    id: 37409
+    name: L5 向右轉-向左轉-任務獎勵
+    core: 10
+  }
+  {
+    id: 37410
+    name: L6 傳遞窗-任務獎勵
+    core: 10
+  }
+  {
+    id: 37411
+    name: L7 淨化裝置-任務獎勵
+    item_ids: 45-100
+  }
+  {
+    id: 37412
+    name: L8 鏡前的少女-任務獎勵
+    item_ids: 9-30
+  }
+  {
+    id: 37413
+    name: F13 大洪水-任務獎勵
+    item_ids: 506-200
+  }
+  {
+    id: 37414
+    name: F14 騎士、死神與魔鬼-任務獎勵
+    core: 10
+  }
+  {
+    id: 37415
+    name: F16 死與火-任務獎勵
+    item_ids: 9-30
+  }
+  {
+    id: 37416
+    name: F17 黑色十字-任務獎勵
+    gift: 400001-50
+  }
+  {
+    id: 37417
+    name: F19 第十組第一號祭壇畫-任務獎勵
+    coins: 1-200
+  }
+  {
+    id: 37418
+    name: F20 日落-任務獎勵
+    item_ids: 525-30,161001-1
+  }
+  {
+    id: 37419
+    name: SSE01 平台-任務獎勵
+    coins: 1-200
+  }
+  {
+    id: 37420
+    name: SSE01-1 平台下方通道-任務獎勵
+    item_ids: 14-100
+  }
+  {
+    id: 37421
+    name: SSE02 東塔大廳-任務獎勵
+    coins: 1-200
+  }
+  {
+    id: 37422
+    name: SSE02-1 東塔2層（東）-任務獎勵
+    core: 10
+  }
+  {
+    id: 37423
+    name: SSE02-2 東塔3層（西）-任務獎勵
+    coins: 3-200
+  }
+  {
+    id: 37424
+    name: SSE03 蜂針系統-任務獎勵
+    item_ids: 9-30
+  }
+  {
+    id: 37425
+    name: SSE03-1 東塔32層-任務獎勵
+    coins: 2-200
+  }
+  {
+    id: 37426
+    name: SSE03-2 東塔37層-任務獎勵
+    item_ids: 525-30
+  }
+  {
+    id: 37427
+    name: SSE03-3 東塔40層-任務獎勵
+    coins: 3-200
+  }
+  {
+    id: 37428
+    name: SSE04 遺跡試驗區-任務獎勵
+    coins: 3-200
+  }
+  {
+    id: 37429
+    name: SSE04-1 控制中心-任務獎勵
+    coins: 2-200
+  }
+  {
+    id: 37430
+    name: SSE04-2 模擬影像區-任務獎勵
+    item_ids: 15-100
+  }
+  {
+    id: 37431
+    name: SSE04-3 投射實驗區-任務獎勵
+    coins: 3-200
+  }
+  {
+    id: 37432
+    name: SSE05 手術層-任務獎勵
+    core: 10
+  }
+  {
+    id: 37433
+    name: SSE06 秘密走廊-任務獎勵
+    coins: 3-200
+  }
+  {
+    id: 37434
+    name: AUT 頓河之夜-任務獎勵
+    item_ids: 46-200
   }
   {
     id: 40001
@@ -56214,6 +56739,51 @@
     id: 121042
     name: 考前衝刺夜
     furniture: "20109"
+  }
+  {
+    id: 121043
+    name: 冬夜造訪
+    furniture: "20092"
+  }
+  {
+    id: 121044
+    name: 百萬玫瑰
+    furniture: "20093"
+  }
+  {
+    id: 121045
+    name: 灰燼穹頂
+    furniture: "20094"
+  }
+  {
+    id: 121046
+    name: 自由枷鎖
+    furniture: "20095"
+  }
+  {
+    id: 121047
+    name: 聖杯號
+    furniture: "20096"
+  }
+  {
+    id: 121048
+    name: 往昔之影
+    furniture: "20097"
+  }
+  {
+    id: 121049
+    name: 群狼環伺
+    furniture: "20098"
+  }
+  {
+    id: 121050
+    name: 天際晨暉
+    furniture: "20099"
+  }
+  {
+    id: 121051
+    name: 無名之輩
+    furniture: "20100"
   }
   {
     id: 130001

@@ -225,12 +225,9 @@
   }
   {
     id: 36
-    type: 1
+    type: 2
     mission_campaign: "-58"
     event_name: 慢休克
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2023-04-28 10:00:00
-    end_time: 2023-06-09 10:00:00
     init_mission_id: "11333"
   }
   {
@@ -269,12 +266,9 @@
   }
   {
     id: 42
-    type: 1
+    type: 2
     mission_campaign: "-62"
     event_name: 允許！重新載入
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2024-06-03 10:00:00
-    end_time: 2024-06-21 10:00:00
     init_mission_id: "11479"
   }
   {
@@ -393,5 +387,23 @@
     mission_campaign: "-40401"
     event_name: 貝蒂數
     init_mission_id: "11002"
+  }
+  {
+    id: 58
+    type: 1
+    mission_campaign: "-73"
+    event_name: 蝴蝶星雲
+    draw_event_id: "400,401,402,403,404"
+    start_time: 2024-11-22 10:00:00
+    end_time: 2024-12-13 10:00:00
+    init_mission_id: "11811"
+    token_item_id: "100247"
+  }
+  {
+    id: 59
+    type: 2
+    mission_campaign: "-40402"
+    event_name: 逃亡聖詠
+    init_mission_id: "11117"
   }
 ]

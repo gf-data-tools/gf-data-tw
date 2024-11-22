@@ -9361,6 +9361,79 @@
     class_id: 106
   }
   {
+    id: 11001
+    name: 博斯-獄門魔女
+    fit_gun: 389
+    voice: 4
+    dialog: 地獄之門上鐫刻的警示是「進入者當放棄一切希望」，而我的門楣上還有另外一句，叫作——「離開者將重獲新生」。
+    gift_position: "-66.5,-12.3"
+    order: 144
+    class_id: 107
+    skin_source: 1
+  }
+  {
+    id: 11002
+    name: Kar98k-純白祭祀詩
+    fit_gun: 46
+    voice: 4
+    dialog: 世人皆受困於苦難的牢籠，救贖本就遙不可及。然而，如果是為了您的話，我願將己身作為祭禮。
+    illustrator_cv: RIRE,中惠光城,
+    order: 144
+    class_id: 107
+    skin_source: 2
+  }
+  {
+    id: 11003
+    name: MK3A1-箱庭童話
+    fit_gun: 367
+    voice: 4
+    dialog: 隱藏著神秘力量的魔典呀，請幫我打掃指揮官的屋子吧，和你訂下契約的MK3A1命令你——唔欸欸！怎麼刮起大風來啦？是我的咒語不合格嗎？！
+    order: 144
+    class_id: 107
+    skin_source: 2
+  }
+  {
+    id: 11004
+    name: ZB-26-魘夢萬花筒
+    fit_gun: 307
+    voice: 4
+    dialog: 歡迎來到夢境萬花筒，這裡是安睡的樂園，享樂的天堂。跟隨藍蝴蝶的指引……您將在無盡的幻象中愉悅沉淪，永無迷途。
+    order: 144
+    class_id: 107
+    skin_source: 2
+  }
+  {
+    id: 11005
+    name: 柯爾特M1851N-豐穰安眠曲
+    fit_gun: 400
+    voice: 4
+    dialog: 就是這樣，輕輕搖晃香薰的瓶身，讓芬芳在田野間流淌……嘿嘿，果然植物孕育豐收的過程也需要補充睡眠呢。
+    order: 144
+    class_id: 107
+    skin_source: 2
+  }
+  {
+    id: 11006
+    name: Mk 12-虛空駭靈
+    fit_gun: 226
+    voice: 4
+    dialog: 資料海洋中的觸手正在蔓延……如果必須有人犧牲，那就讓我來化作這片虛空中最璀璨的幽靈吧。
+    illustrator_cv: 小星,市ノ瀬加那,
+    order: 144
+    class_id: 107
+    skin_source: 2
+  }
+  {
+    id: 11007
+    name: 托卡列夫-濡鴉魅影
+    fit_gun: 6
+    voice: 4
+    is_hidden: 2
+    dialog: 星光閃爍的夜晚總是令人心生嚮往呢，不過，我已經不需要許願了……因為最珍貴的那個願望，此刻就在我的身邊。
+    order: 144
+    class_id: 107
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57

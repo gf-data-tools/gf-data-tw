@@ -1,5 +1,12 @@
 [
   {
+    id: -26
+    name: 白燁戈
+    code: M16A1_Boss
+    title: 白燁戈
+    ai: 9999
+  }
+  {
     id: -25
     name: 卡特
     code: NPC-Carter

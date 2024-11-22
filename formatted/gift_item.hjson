@@ -12556,6 +12556,118 @@
     type_sort: 6
   }
   {
+    id: 11001
+    name: 博斯-獄門魔女
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 389
+    skin: 11001
+    poster: 311001
+    code: gift_bundle_Mahoushaojiu2024_BoysAntiTank
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11002
+    name: Kar98k-純白祭祀詩
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 46
+    skin: 11002
+    poster: 311002
+    code: gift_bundle_Mahoushaojiu2024_98K
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11003
+    name: MK3A1-箱庭童話
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 367
+    skin: 11003
+    poster: 311003
+    code: gift_bundle_Mahoushaojiu2024_MK3A1
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11004
+    name: ZB-26-魘夢萬花筒
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 307
+    skin: 11004
+    poster: 311004
+    code: gift_bundle_Mahoushaojiu2024_ZB26
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11005
+    name: 柯爾特M1851N-豐穰安眠曲
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 400
+    skin: 11005
+    poster: 311005
+    code: gift_bundle_Mahoushaojiu2024_M1851N
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11006
+    name: Mk 12-虛空駭靈
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 226
+    skin: 11006
+    poster: 311006
+    code: gift_bundle_Mahoushaojiu2024_Mk12
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11007
+    name: 托卡列夫-濡鴉魅影
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 6
+    skin: 11007
+    poster: 311007
+    code: gift_bundle_Mahoushaojiu2024_TT33
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     type: 2
@@ -12909,7 +13021,7 @@
   }
   {
     id: 30024
-    name: 馬提尼‧亨利-莓果色的悸動
+    name: S.A.T.8-暮野花謠
     type: 2
     rank: 6
     favor: 50000

@@ -19966,7 +19966,7 @@ Evita|OPERATIONOVER|艾薇塔已歸隊。
 Evita|FIX|不用管我，我自己就是醫生。
 Evita|COMBINE|責任也更大了。
 Evita|BLACKACTION|我會帶回令你滿意的結果。
-"Evita|SOULCONTRACT|戴上這枚指環？<>你知道的，我不被允許佩戴來歷不明的物品，不過……<>沒關係，不被那些人發現就好了。<>我也想做一些自己真正想做的事，比方說……戴上它。"
+Evita|SOULCONTRACT|戴上這枚指環？<>你知道的，我不被允許佩戴來歷不明的物品，不過……<>沒關係，不被那些人發現就好了。<>我也想做一些自己真正想做的事，比方說……戴上它。
 Evita|TITLECALL|少女前線
 Evita|PHRASE|我知道了。
 Evita|DIALOGUEWEDDING|我有一個新的任務要交給你。街口的那家蛋糕店……不，那裡沒有間諜。我想問的是，你能帶塊蛋糕給我嗎？
