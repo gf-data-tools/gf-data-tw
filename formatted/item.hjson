@@ -24526,11 +24526,10 @@
     type: 15
     arg: "1500172"
     code: package_choose
-    item_name: item-11500172
-    introduction: item-21500172
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-牧羊村物語，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31500172
     type_sort: 1
   }
   {
@@ -24538,11 +24537,10 @@
     type: 15
     arg: "1500173"
     code: package_choose
-    item_name: item-11500173
-    introduction: item-21500173
+    item_name: 人形類裝備自選包
+    introduction: 來自於前線協議-牧羊村物語，可從該指定投遞配給序標內選擇獲取一件人形類裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31500173
     type_sort: 1
   }
   {
@@ -24550,11 +24548,10 @@
     type: 15
     arg: "1500174"
     code: package_random
-    item_name: item-11500174
-    introduction: item-21500174
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-牧羊村物語，可必定獲得該序標內圖鑒未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
-    detail_introduction: item-31500174
     type_sort: 1
   }
   {
@@ -24562,11 +24559,10 @@
     type: 15
     arg: "1500175"
     code: package_random
-    item_name: item-11500175
-    introduction: item-21500175
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-牧羊村物語，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
-    detail_introduction: item-31500175
     type_sort: 1
   }
   {
@@ -25063,11 +25059,10 @@
     type: 15
     arg: "1700043"
     code: package_choose
-    item_name: item-11700043
-    introduction: item-21700043
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31700043
     type_sort: 1
   }
   {
@@ -25075,11 +25070,10 @@
     type: 15
     arg: "1700044"
     code: package_choose
-    item_name: item-11700044
-    introduction: item-21700044
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31700044
     type_sort: 1
   }
   {
@@ -25087,11 +25081,10 @@
     type: 15
     arg: "1700045"
     code: package_choose
-    item_name: item-11700045
-    introduction: item-21700045
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
     rank: 1
     sort: -1
-    detail_introduction: item-31700045
     type_sort: 1
   }
   {
