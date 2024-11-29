@@ -17373,6 +17373,15 @@
     rank: 1
   }
   {
+    id: 10722
+    type: 18
+    arg: "10722"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"
@@ -21706,6 +21715,96 @@
     code: LaserSup_1012
     item_name: 64年式-銀河-雷射壓制裝置
     introduction: 銀河的配套雷射壓制裝置，干擾敵方的火力瞄準。
+    rank: 5
+  }
+  {
+    id: 133136
+    type: 13
+    arg: "46"
+    code: ShotgunVehicle_1001
+    item_name: 沙漠黃-車載霰彈槍
+    introduction: 應對近距離集群的霰彈武器，塗裝了和圖紙配套的沙漠黃風格。
+    rank: 5
+  }
+  {
+    id: 133137
+    type: 13
+    arg: "47"
+    code: MortarVehicle_1001
+    item_name: 沙漠黃-小型迫擊炮
+    introduction: 可進行小範圍區域轟炸的迫擊炮，塗裝了和圖紙配套的沙漠黃風格。
+    rank: 5
+  }
+  {
+    id: 133138
+    type: 13
+    arg: "48"
+    code: LaserRangefinder_1001
+    item_name: 沙漠黃-雷射測距儀
+    introduction: 提升遠程攻擊精度的支援設備，塗裝了和圖紙配套的沙漠黃風格。
+    rank: 5
+  }
+  {
+    id: 133139
+    type: 13
+    arg: "49"
+    code: CamouflageNet_1001
+    item_name: 沙漠黃-迷彩網
+    introduction: 有效在戰場上隱藏行蹤的偽裝組件，塗裝了和圖紙配套的沙漠黃風格。
+    rank: 5
+  }
+  {
+    id: 133140
+    type: 13
+    arg: "50"
+    code: GrilleArmor_1001
+    item_name: 沙漠黃-頂部格柵裝甲
+    introduction: 應對戰場新形勢的多功能防護裝甲，塗裝了和圖紙配套的沙漠黃風格。
+    rank: 5
+  }
+  {
+    id: 133141
+    type: 13
+    arg: "51"
+    code: ShotgunVehicle_1002
+    item_name: 城市迷彩-車載霰彈槍
+    introduction: 應對近距離集群的霰彈武器，塗裝了和圖紙配套的城市迷彩。
+    rank: 5
+  }
+  {
+    id: 133142
+    type: 13
+    arg: "52"
+    code: MortarVehicle_1002
+    item_name: 城市迷彩-小型迫擊炮
+    introduction: 可進行小範圍區域轟炸的迫擊炮，塗裝了和圖紙配套的城市迷彩。
+    rank: 5
+  }
+  {
+    id: 133143
+    type: 13
+    arg: "46"
+    code: LaserRangefinder_1002
+    item_name: 城市迷彩-鐳射測距儀
+    introduction: 提升遠程攻擊精度的支援設備，塗裝了和圖紙配套的城市迷彩。
+    rank: 5
+  }
+  {
+    id: 133144
+    type: 13
+    arg: "47"
+    code: CamouflageNet_1002
+    item_name: 城市迷彩-迷彩網
+    introduction: 有效在戰場上隱藏行蹤的偽裝組件，塗裝了和圖紙配套的城市迷彩。
+    rank: 5
+  }
+  {
+    id: 133145
+    type: 13
+    arg: "48"
+    code: GrilleArmor_1002
+    item_name: 城市迷彩-頂部格柵裝甲
+    introduction: 應對戰場新形勢的多功能防護裝甲，塗裝了和圖紙配套的城市迷彩。
     rank: 5
   }
   {
