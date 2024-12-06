@@ -406,4 +406,11 @@
     event_name: 逃亡聖詠
     init_mission_id: "11117"
   }
+  {
+    id: 60
+    type: 2
+    mission_campaign: "-40403"
+    event_name: 自畫像
+    init_mission_id: "11402,11403"
+  }
 ]

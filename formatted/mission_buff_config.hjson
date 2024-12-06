@@ -4617,6 +4617,7 @@
   {
     id: 690504
     name: 攜帶歌利亞
+    description: 攜帶歌利亞
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4720,6 +4721,7 @@
   {
     id: 690804
     name: 攜帶EMP手雷
+    description: 攜帶EMP手榴彈
     type: 1
     duration_type: "1"
     duration_time: "999"

@@ -1232,6 +1232,19 @@
     visable_count: 100
   }
   {
+    id: 313
+    name: 自畫像常駐
+    type: 10
+    sub_type: "11402,11403"
+    sub_rank: 1
+    sub_rank_name: 積分
+    refresh: test
+    title: <自畫像>常駐積分榜
+    visable_rank: 100
+    ranking_onlist_number: 80000
+    visable_count: 100
+  }
+  {
     id: 1001
     name: 佐賀應援榜
     type: 1001

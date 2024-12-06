@@ -9428,10 +9428,10 @@
     name: 托卡列夫-濡鴉魅影
     fit_gun: 6
     voice: 4
-    is_hidden: 2
     dialog: 星光閃爍的夜晚總是令人心生嚮往呢，不過，我已經不需要許願了……因為最珍貴的那個願望，此刻就在我的身邊。
     order: 144
     class_id: 107
+    skin_source: 2
   }
   {
     id: 30001
