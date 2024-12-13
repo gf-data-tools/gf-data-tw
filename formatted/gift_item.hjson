@@ -12668,6 +12668,23 @@
     type_sort: 6
   }
   {
+    id: 11107
+    name: gift_item-10011107
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 2
+    skin: 11107
+    poster: 311107
+    code: gift_bundle_Christmas2024_M1911
+    normal_description: gift_item-20011107
+    bonus_description: gift_item-30011107
+    description: gift_item-50011107
+    detail_introduction: gift_item-40011107
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     type: 2
@@ -13032,6 +13049,23 @@
     normal_description: 贈送獲得相應好感度
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 30025
+    name: gift_item-10030025
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 85
+    skin: 30025
+    poster: 330025
+    code: gift_bundle_BattlePass_PK
+    normal_description: gift_item-20030025
+    bonus_description: gift_item-30030025
+    description: gift_item-50030025
+    detail_introduction: gift_item-40030025
     sort: 2000
     type_sort: 6
   }

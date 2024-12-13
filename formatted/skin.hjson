@@ -5594,6 +5594,15 @@
     note: 原型裝扮
   }
   {
+    id: 5080
+    name: MP41-原型
+    fit_gun: 20267
+    voice: 4
+    is_hidden: 2
+    dialog: 原型裝扮
+    note: 原型裝扮
+  }
+  {
     id: 5101
     name: 劉氏步槍-垂枝夢狐影
     fit_gun: 316
@@ -9434,6 +9443,18 @@
     skin_source: 2
   }
   {
+    id: 11107
+    name: skin-10011107
+    fit_gun: 2
+    voice: 4
+    dialog: skin-20011107
+    note: skin-30011107
+    gift_position: "-105.7,46.8"
+    illustrator_cv: skin-40011107
+    order: 141
+    class_id: 106
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57
@@ -9635,6 +9656,17 @@
     dialog: 在綠野上與小羊漫步，一同沐浴夕暮的餘暉，在木推車上載滿雛菊，向您分享我的心意……指揮官，這就是我能想到的最溫暖、最幸福的畫面！
     illustrator_cv: 豆芽,淺倉杏美,
     order: 143
+  }
+  {
+    id: 30025
+    name: skin-10030025
+    fit_gun: 85
+    voice: 4
+    is_hidden: 1
+    dialog: skin-20030025
+    note: skin-30030025
+    illustrator_cv: skin-40030025
+    order: 145
   }
   {
     id: 50001

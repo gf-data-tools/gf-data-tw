@@ -3728,6 +3728,17 @@
     color_icon_id: "959"
   }
   {
+    id: 6133
+    name: commander_uniform-10006133
+    description: commander_uniform-20006133
+    code: Body
+    icon: commander_6133_icon
+    type: 3
+    uniform_class: "11"
+    color_normal: Commander_6133_N
+    color_icon_id: "960"
+  }
+  {
     id: 9920
     name: 活力偽裝
     description: 永遠展現最好的我。

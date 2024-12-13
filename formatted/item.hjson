@@ -839,6 +839,26 @@
     rank: 1
   }
   {
+    id: 144
+    type: 3
+    arg: "45"
+    code: Medal_202412Activity
+    item_name: item-10000144
+    introduction: item-20000144
+    rank: 1
+    detail_introduction: item-30000144
+  }
+  {
+    id: 145
+    type: 3
+    arg: "46"
+    code: Medal_202412Activity_rank
+    item_name: item-10000145
+    introduction: item-20000145
+    rank: 1
+    detail_introduction: item-30000145
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -15773,6 +15793,176 @@
     rank: 1
   }
   {
+    id: 2608
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_PK
+    item_name: item-10002608
+    introduction: item-20002608
+    rank: 1
+    detail_introduction: item-30002608
+  }
+  {
+    id: 2609
+    type: 5
+    arg: "1"
+    code: card_BattlePass_PK
+    item_name: item-10002609
+    introduction: item-20002609
+    rank: 1
+    detail_introduction: item-30002609
+  }
+  {
+    id: 2610
+    type: 5
+    arg: "1"
+    code: profilePic_202412Activity_01
+    item_name: item-10002610
+    introduction: item-20002610
+    rank: 1
+    detail_introduction: item-30002610
+  }
+  {
+    id: 2611
+    type: 5
+    arg: "1"
+    code: profilePic_202412Activity_02
+    item_name: item-10002611
+    introduction: item-20002611
+    rank: 1
+    detail_introduction: item-30002611
+  }
+  {
+    id: 2612
+    type: 5
+    arg: "1"
+    code: profilePic_202412Activity_03
+    item_name: item-10002612
+    introduction: item-20002612
+    rank: 1
+    detail_introduction: item-30002612
+  }
+  {
+    id: 2613
+    type: 5
+    arg: "1"
+    code: profilePic_202412Activity_04
+    item_name: item-10002613
+    introduction: item-20002613
+    rank: 1
+    detail_introduction: item-30002613
+  }
+  {
+    id: 2614
+    type: 5
+    arg: "1"
+    code: profilePic_202412Activity_05
+    item_name: item-10002614
+    introduction: item-20002614
+    rank: 1
+    detail_introduction: item-30002614
+  }
+  {
+    id: 2615
+    type: 5
+    arg: "1"
+    code: card_202412Activity_01
+    item_name: item-10002615
+    introduction: item-20002615
+    rank: 1
+    detail_introduction: item-30002615
+  }
+  {
+    id: 2616
+    type: 5
+    arg: "1"
+    code: card_202412Activity_02
+    item_name: item-10002616
+    introduction: item-20002616
+    rank: 1
+    detail_introduction: item-30002616
+  }
+  {
+    id: 2617
+    type: 5
+    arg: "1"
+    code: card_202412Activity_03
+    item_name: item-10002617
+    introduction: item-20002617
+    rank: 1
+    detail_introduction: item-30002617
+  }
+  {
+    id: 2618
+    type: 5
+    arg: "1"
+    code: card_202412Activity_04
+    item_name: item-10002618
+    introduction: item-20002618
+    rank: 1
+    detail_introduction: item-30002618
+  }
+  {
+    id: 2619
+    type: 5
+    arg: "1"
+    code: cg_202412Activity_01
+    item_name: item-10002619
+    introduction: item-20002619
+    rank: 1
+    detail_introduction: item-30002619
+  }
+  {
+    id: 2620
+    type: 5
+    arg: "1"
+    code: cg_202412Activity_02
+    item_name: item-10002620
+    introduction: item-20002620
+    rank: 1
+    detail_introduction: item-30002620
+  }
+  {
+    id: 2621
+    type: 5
+    arg: "1"
+    code: cg_202412Activity_03
+    item_name: item-10002621
+    introduction: item-20002621
+    rank: 1
+    detail_introduction: item-30002621
+  }
+  {
+    id: 2622
+    type: 5
+    arg: "1"
+    code: profilePic_202412Activity_coremask
+    item_name: item-10002622
+    introduction: item-20002622
+    rank: 1
+    detail_introduction: item-30002622
+  }
+  {
+    id: 2623
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2024_M1911
+    item_name: item-10002623
+    introduction: item-20002623
+    rank: 1
+    detail_introduction: item-30002623
+  }
+  {
+    id: 2624
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025JP_coremask
+    item_name: item-10002624
+    introduction: item-20002624
+    rank: 1
+    detail_introduction: item-30002624
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -15798,6 +15988,15 @@
     code: profilePic_rank5_CR21Mod
     item_name: CR-21心智升級頭像
     introduction: CR-21心智升級頭像
+    rank: 1
+  }
+  {
+    id: 3504
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_MP41Mod
+    item_name: MP41心智升級頭像
+    introduction: MP41心智升級頭像
     rank: 1
   }
   {
@@ -17398,6 +17597,16 @@
     item_name: S.A.T.8-暮野花謠
     introduction: 在綠野上與小羊漫步，一同沐浴夕暮的餘暉，在木推車上載滿雛菊，向您分享我的心意……指揮官，這就是我能想到的最溫暖、最幸福的畫面！
     rank: 1
+  }
+  {
+    id: 30025
+    type: 1
+    arg: "30025"
+    code: gift_bundle_BattlePass_PK
+    item_name: item-10030025
+    introduction: item-20030025
+    rank: 1
+    detail_introduction: item-30030025
   }
   {
     id: 100001
@@ -19670,6 +19879,67 @@
     daily_limit: 60;180
   }
   {
+    id: 100248
+    type: 4
+    arg: "100248"
+    code: Nova_medal
+    item_name: item-10100248
+    introduction: item-20100248
+    rank: 1
+    detail_introduction: item-30100248
+  }
+  {
+    id: 100249
+    type: 4
+    arg: "100249"
+    code: Platinum_medal
+    item_name: item-10100249
+    introduction: item-20100249
+    rank: 1
+    detail_introduction: item-30100249
+  }
+  {
+    id: 100250
+    type: 9
+    arg: "100250"
+    code: Coin_202412ConvolutionalKernel
+    item_name: item-10100250
+    introduction: item-20100250
+    rank: 1
+    daily_limit: 60;180
+    detail_introduction: item-30100250
+  }
+  {
+    id: 100251
+    type: 4
+    arg: "100251"
+    code: coremask2_202412ConvolutionalKernel
+    item_name: item-10100251
+    introduction: item-20100251
+    rank: 1
+    detail_introduction: item-30100251
+  }
+  {
+    id: 100252
+    type: 4
+    arg: "100252"
+    code: coremask_202412ConvolutionalKernel
+    item_name: item-10100252
+    introduction: item-20100252
+    rank: 1
+    detail_introduction: item-30100252
+  }
+  {
+    id: 100253
+    type: 4
+    arg: "100253"
+    code: core_mask_NewYear2025_JP
+    item_name: item-10100253
+    introduction: item-20100253
+    rank: 1
+    detail_introduction: item-30100253
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -20334,6 +20604,16 @@
     item_name: 活動點數
     introduction: 活動點數
     rank: 1
+  }
+  {
+    id: 110075
+    type: 4
+    arg: "110075"
+    code: EventPT10
+    item_name: item-10110075
+    introduction: item-20110075
+    rank: 1
+    detail_introduction: item-30110075
   }
   {
     id: 120001
@@ -22201,6 +22481,26 @@
     rank: 1
   }
   {
+    id: 140049
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140049
+    introduction: item-20140049
+    rank: 1
+    detail_introduction: item-30140049
+  }
+  {
+    id: 140050
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140050
+    introduction: item-20140050
+    rank: 1
+    detail_introduction: item-30140050
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -22653,6 +22953,16 @@
     item_name: 頭像框·牧羊煦曲
     introduction: 頭像框·牧羊煦曲
     rank: 1
+  }
+  {
+    id: 200050
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_PK
+    item_name: item-10200050
+    introduction: item-20200050
+    rank: 1
+    detail_introduction: item-30200050
   }
   {
     id: 900030
@@ -24671,6 +24981,54 @@
     introduction: 來自於前線協議-牧羊村物語，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500176
+    type: 15
+    arg: "1500176"
+    code: package_choose
+    item_name: item-11500176
+    introduction: item-21500176
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500176
+    type_sort: 1
+  }
+  {
+    id: 1500177
+    type: 15
+    arg: "1500177"
+    code: package_choose
+    item_name: item-11500177
+    introduction: item-21500177
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500177
+    type_sort: 1
+  }
+  {
+    id: 1500178
+    type: 15
+    arg: "1500178"
+    code: package_random
+    item_name: item-11500178
+    introduction: item-21500178
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500178
+    type_sort: 1
+  }
+  {
+    id: 1500179
+    type: 15
+    arg: "1500179"
+    code: package_random
+    item_name: item-11500179
+    introduction: item-21500179
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500179
     type_sort: 1
   }
   {

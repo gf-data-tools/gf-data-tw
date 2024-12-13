@@ -283,6 +283,64 @@
     offset: "0,0"
   }
   {
+    id: 660001
+    name: mission_effect_config-10660001
+    code: TZD_jh
+    description: mission_effect_config-20660001
+    priority: 1
+    size: 1.8
+    offset: "0,-50"
+  }
+  {
+    id: 660002
+    name: mission_effect_config-10660002
+    code: TZD_cs_box
+    description: mission_effect_config-20660002
+    priority: 1
+    duration: 99999
+    size: 2
+    offset: "0,0"
+  }
+  {
+    id: 660003
+    name: mission_effect_config-10660003
+    code: TZD_kxz
+    description: mission_effect_config-20660003
+    priority: 1
+    size: 2
+    offset: "0,0"
+  }
+  {
+    id: 740001
+    name: mission_effect_config-10740001
+    code: Fly_tornado
+    description: mission_effect_config-20740001
+    priority: 1
+    duration: 4
+    size: 2
+    sound: Blackjack_flying
+    if_starting: 4
+    relative_position: "0,0;0,0;0,0;1,1"
+    offset: "-5500,5500;6500,-6500"
+    rotation_offset: "0,0,-45;0,0,-45"
+    is_focus: 2|0.5,2
+  }
+  {
+    id: 740002
+    name: mission_effect_config-10740002
+    code: Fly_tu95
+    description: mission_effect_config-20740002
+    priority: 1
+    duration: 4
+    size: 2
+    sound: Blackjack_flying
+    if_starting: 4
+    relative_position: "0,0;0,0;0,0;1,1"
+    offset: "-5500,-5500;6500,6500"
+    rotation_offset: "0,0,45;0,0,45"
+    is_focus: 2|0.5,2
+  }
+  {
     id: 900001
     name: 機場出兵圖標
     code: effectPowerup
