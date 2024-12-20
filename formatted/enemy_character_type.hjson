@@ -24874,7 +24874,7 @@
     level: 100
     character: 精英,召喚者,竊取者
     normal_attack: 117701
-    passive_skill: "117702,117703,117704,117705,117707,117708,117709,117716,117717,117718,117719,117720,117721,117722,117723,117724,117735,117738,117802,117803,755083,755084,755085,755086,755087,755089,119029,407302,770042"
+    passive_skill: "117702,117703,117704,117705,117707,117708,117709,117716,117717,117718,117719,117720,117721,117722,117723,117724,117735,117738,117802,117803,755083,755084,755085,755086,755087,755089,119029,407302,770042,450100"
     effect_ratio: 1
     unable_buff_type: "104"
     voice: "1,2,3"
@@ -25138,7 +25138,7 @@
   {
     id: 900851
     type: 1
-    name: enemy_character_type-20900851
+    name: 斯提克斯
     enemy_info: 斯提克斯70（半血撤退）
     code: StyxBoss
     maxlife: 38000
@@ -25153,13 +25153,12 @@
     boss_hp: 38000
     def: 800
     level: 100
-    character: enemy_character_type-10900851
+    character: 精英
     normal_attack: 450090
     passive_skill: "450091,450092,450093,450094,450095,450096,450097,119029,407302,770042,755187"
     effect_ratio: 1.1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900851
     enemy_illustration_id: 248
     danger: 1000
     enemy_illustration_sub_id: 248001
@@ -25167,7 +25166,7 @@
   {
     id: 900852
     type: 1
-    name: enemy_character_type-20900852
+    name: 斯提克斯
     enemy_info: 斯提克斯120（半血撤退）
     code: StyxBoss
     maxlife: 320000
@@ -25182,13 +25181,12 @@
     boss_hp: 320000
     def: 4000
     level: 100
-    character: enemy_character_type-10900852
+    character: 精英
     normal_attack: 450090
     passive_skill: "450091,450092,450093,450094,450095,450096,450097,119029,407302,770042,755187"
     effect_ratio: 1.1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900852
     enemy_illustration_id: 248
     danger: 1000
     enemy_illustration_sub_id: 248001
@@ -25196,7 +25194,7 @@
   {
     id: 900853
     type: 1
-    name: enemy_character_type-20900853
+    name: 斯提克斯
     enemy_info: 斯提克斯80
     code: StyxBoss
     maxlife: 45000
@@ -25211,13 +25209,12 @@
     boss_hp: 45000
     def: 800
     level: 100
-    character: enemy_character_type-10900853
+    character: 精英
     normal_attack: 450090
     passive_skill: "450091,450092,450093,450094,450095,450096,450097,119029,407302,770042"
     effect_ratio: 1.1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900853
     enemy_illustration_id: 248
     danger: 1000
     enemy_illustration_sub_id: 248001
@@ -25225,7 +25222,7 @@
   {
     id: 900854
     type: 1
-    name: enemy_character_type-20900854
+    name: 斯提克斯
     enemy_info: 斯提克斯130
     code: StyxBoss
     maxlife: 380000
@@ -25240,13 +25237,12 @@
     boss_hp: 380000
     def: 5000
     level: 100
-    character: enemy_character_type-10900854
+    character: 精英
     normal_attack: 450090
     passive_skill: "450091,450092,450093,450094,450095,450096,450097,119029,407302,770042"
     effect_ratio: 1.1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900854
     enemy_illustration_id: 248
     danger: 1000
     enemy_illustration_sub_id: 248001
@@ -25254,7 +25250,7 @@
   {
     id: 900855
     type: 1
-    name: enemy_character_type-20900855
+    name: 赫柏
     enemy_info: 赫柏30级（半血撤退）
     code: HebeBoss
     maxlife: 22000
@@ -25269,13 +25265,12 @@
     boss_hp: 22000
     def: 400
     level: 100
-    character: enemy_character_type-10900855
+    character: 精英,必殺,義體
     normal_attack: 450054
     passive_skill: "450055,450056,450057,450059,450060,119029,407302,770042,755187"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900855
     enemy_illustration_id: 247
     danger: 1000
     enemy_illustration_sub_id: 247001
@@ -25283,7 +25278,7 @@
   {
     id: 900856
     type: 1
-    name: enemy_character_type-20900856
+    name: 赫柏
     enemy_info: 赫柏100级（半血撤退）
     code: HebeBoss
     maxlife: 165000
@@ -25298,13 +25293,12 @@
     boss_hp: 165000
     def: 2000
     level: 100
-    character: enemy_character_type-10900856
+    character: 精英,必殺,義體
     normal_attack: 450054
     passive_skill: "450055,450056,450057,450059,450060,119029,407302,770042,755187"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900856
     enemy_illustration_id: 247
     danger: 1000
     enemy_illustration_sub_id: 247001
@@ -25312,7 +25306,7 @@
   {
     id: 900857
     type: 1
-    name: enemy_character_type-20900857
+    name: 赫柏
     enemy_info: 赫柏70级
     code: HebeBoss
     maxlife: 75000
@@ -25327,13 +25321,12 @@
     boss_hp: 75000
     def: 800
     level: 100
-    character: enemy_character_type-10900857
+    character: 精英,必殺,義體
     normal_attack: 450054
     passive_skill: "450055,450056,450057,450059,450060,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900857
     enemy_illustration_id: 247
     danger: 1000
     enemy_illustration_sub_id: 247001
@@ -25341,7 +25334,7 @@
   {
     id: 900858
     type: 1
-    name: enemy_character_type-20900858
+    name: 赫柏
     enemy_info: 赫柏120级
     code: HebeBoss
     maxlife: 270000
@@ -25356,13 +25349,12 @@
     boss_hp: 270000
     def: 4000
     level: 100
-    character: enemy_character_type-10900858
+    character: 精英,必殺,義體
     normal_attack: 450054
     passive_skill: "450055,450056,450057,450059,450060,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900858
     enemy_illustration_id: 247
     danger: 1000
     enemy_illustration_sub_id: 247001
@@ -25370,7 +25362,7 @@
   {
     id: 900859
     type: 1
-    name: enemy_character_type-20900859
+    name: 尼梅蘭
     enemy_info: 尼梅兰30
     code: Nimeylan
     maxlife: 22000
@@ -25386,13 +25378,12 @@
     boss_hp: 22000
     def: 800
     level: 100
-    character: enemy_character_type-10900859
+    character: 精英
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,119029,407302,119029,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900859
     enemy_illustration_id: 155
     danger: 1000
     enemy_illustration_sub_id: 155001
@@ -25400,7 +25391,7 @@
   {
     id: 900860
     type: 1
-    name: enemy_character_type-20900860
+    name: 尼梅蘭
     enemy_info: 尼梅兰100
     code: Nimeylan
     maxlife: 125000
@@ -25416,13 +25407,12 @@
     boss_hp: 125000
     def: 1200
     level: 100
-    character: enemy_character_type-10900860
+    character: 精英
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,119029,407302,119029,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900860
     enemy_illustration_id: 155
     danger: 1000
     enemy_illustration_sub_id: 155001
@@ -25430,7 +25420,7 @@
   {
     id: 900861
     type: 1
-    name: enemy_character_type-20900861
+    name: 默莉朵
     enemy_info: 默莉朵80级
     code: Morridow
     maxlife: 9000
@@ -25445,13 +25435,12 @@
     boss_hp: 9000
     def: 800
     level: 100
-    character: enemy_character_type-10900861
+    character: 精英,弱化,必殺
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900861
     enemy_illustration_id: 112
     danger: 1000
     enemy_illustration_sub_id: 112001
@@ -25459,7 +25448,7 @@
   {
     id: 900862
     type: 1
-    name: enemy_character_type-20900862
+    name: 默莉朵
     enemy_info: 默莉朵130
     code: Morridow
     maxlife: 36000
@@ -25474,13 +25463,12 @@
     boss_hp: 36000
     def: 5000
     level: 100
-    character: enemy_character_type-10900862
+    character: 精英,弱化,必殺
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900862
     enemy_illustration_id: 112
     danger: 1000
     enemy_illustration_sub_id: 112001
@@ -25488,7 +25476,7 @@
   {
     id: 900863
     type: 1
-    name: enemy_character_type-20900863
+    name: 斯提克斯
     enemy_info: 斯提克斯【秃洞150】
     code: StyxBoss
     maxlife: 560000
@@ -25503,13 +25491,12 @@
     boss_hp: 560000
     def: 6000
     level: 100
-    character: enemy_character_type-10900863
+    character: 精英
     normal_attack: 450090
     passive_skill: "450091,450092,450093,450094,450095,450096,450097,119029,407302,770042"
     effect_ratio: 1.1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900863
     enemy_illustration_id: 248
     danger: 1000
     enemy_illustration_sub_id: 248001
@@ -25517,7 +25504,7 @@
   {
     id: 900864
     type: 1
-    name: enemy_character_type-20900864
+    name: 赫柏
     enemy_info: 赫柏【秃洞135】
     code: HebeBoss
     maxlife: 370000
@@ -25532,13 +25519,12 @@
     boss_hp: 370000
     def: 4000
     level: 100
-    character: enemy_character_type-10900864
+    character: 精英,必殺,義體
     normal_attack: 450054
     passive_skill: "450055,450056,450057,450059,450060,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900864
     enemy_illustration_id: 247
     danger: 1000
     enemy_illustration_sub_id: 247001
@@ -25546,7 +25532,7 @@
   {
     id: 900865
     type: 1
-    name: enemy_character_type-20900865
+    name: 尼梅蘭
     enemy_info: 尼梅兰【秃洞135】
     code: Nimeylan
     maxlife: 420000
@@ -25562,13 +25548,12 @@
     boss_hp: 420000
     def: 7000
     level: 100
-    character: enemy_character_type-10900865
+    character: 精英
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900865
     enemy_illustration_id: 155
     danger: 1000
     enemy_illustration_sub_id: 155002
@@ -25576,7 +25561,7 @@
   {
     id: 900866
     type: 1
-    name: enemy_character_type-20900866
+    name: 布拉梅德
     enemy_info: 布拉梅德【秃洞120】
     code: Bramede
     maxlife: 180000
@@ -25592,14 +25577,13 @@
     boss_hp: 180000
     def: 4000
     level: 100
-    character: enemy_character_type-10900866
+    character: 精英,召喚者,竊取者
     normal_attack: 117701
-    passive_skill: "117702,117703,117704,117705,117707,117708,117709,117716,117717,117718,117719,117720,117721,117722,117723,117724,117735,117738,117802,117803,755083,755084,755085,755086,755087,755089,119029,407302,770042"
+    passive_skill: "117702,117703,117704,117705,117707,117708,117709,117716,117717,117718,117719,117720,117721,117722,117723,117724,117735,117738,117802,117803,755083,755084,755085,755086,755087,755089,119029,407302,770042,450100"
     effect_ratio: 1
     unable_buff_type: "104"
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900866
     enemy_illustration_id: 139
     danger: 1000
     enemy_illustration_sub_id: 139001
@@ -25607,7 +25591,7 @@
   {
     id: 900867
     type: 1
-    name: enemy_character_type-20900867
+    name: 默莉朵
     enemy_info: 默莉朵【秃洞100】
     code: Morridow
     maxlife: 32000
@@ -25622,13 +25606,12 @@
     boss_hp: 32000
     def: 1200
     level: 100
-    character: enemy_character_type-10900867
+    character: 精英,弱化,必殺
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,407302,770042"
     effect_ratio: 1
     voice: "1,2,3"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30900867
     enemy_illustration_id: 112
     danger: 1000
     enemy_illustration_sub_id: 112001

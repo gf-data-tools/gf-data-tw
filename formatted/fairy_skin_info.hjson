@@ -1243,8 +1243,8 @@
   }
   {
     id: "146"
-    name: fairy_skin-10000146
-    skin_name: fairy_skin-20000146
+    name: 治癒妖精
+    skin_name: 1階預設裝扮
     pic_id: heal_1
     gift_fairy: "36"
     ai: "1000"
@@ -1252,8 +1252,8 @@
   }
   {
     id: "147"
-    name: fairy_skin-10000147
-    skin_name: fairy_skin-20000147
+    name: 治癒妖精
+    skin_name: 2階預設裝扮
     pic_id: heal_2
     gift_fairy: "36"
     ai: "1000"
@@ -1261,8 +1261,8 @@
   }
   {
     id: "148"
-    name: fairy_skin-10000148
-    skin_name: fairy_skin-20000148
+    name: 治癒妖精
+    skin_name: 3階預設裝扮
     pic_id: heal_3
     gift_fairy: "36"
     ai: "1000"

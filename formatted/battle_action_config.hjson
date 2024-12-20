@@ -25787,6 +25787,14 @@
     creation_delay: "0,0,0,9,4,7 "
   }
   {
+    id: 9227
+    name: Erma圣诞皮肤普攻
+    action_order: "1"
+    action_playspeed: "100"
+    creation_order: "3750,3749,3747,3748"
+    creation_delay: "0,9,4,7 "
+  }
+  {
     id: 9995
     name: 战区boss特效
     creation_order: "386,10000,238"
@@ -26416,7 +26424,7 @@
     action_playspeed: "100"
     creation_order: "7181,718101,718102,718103,718104,718105,718106"
     creation_delay: "45,45,55,60,65,70,50"
-    effect_order: 3(StyxBoss;蓄电雷暴;Electrical Storm;Styx)
+    effect_order: 3(StyxBoss;蓄電雷暴;Electrical Storm;Styx)
     effect_duration: "1"
   }
   {
@@ -26426,7 +26434,7 @@
     action_playspeed: "100"
     creation_order: "7182,718101,718102,718103,718104,718105,718106,718201,718202,718203,718204,718205,718206"
     creation_delay: "45,45,55,60,65,70,50,45,55,60,65,70,50"
-    effect_order: 3(StyxBoss;蓄电雷暴;Electrical Storm;Styx)
+    effect_order: 3(StyxBoss;蓄電雷暴;Electrical Storm;Styx)
     effect_duration: "1"
   }
   {
@@ -26436,7 +26444,7 @@
     action_playspeed: "100"
     creation_order: "7182,718101,718102,718103,718104,718105,718106,718201,718202,718203,718204,718205,718206,718301,718302,718303,718304,718305,718306"
     creation_delay: "45,45,55,60,65,70,50,45,55,60,65,70,50,45,55,60,65,70,50"
-    effect_order: 3(StyxBoss;蓄电雷暴;Electrical Storm;Styx)
+    effect_order: 3(StyxBoss;蓄電雷暴;Electrical Storm;Styx)
     effect_duration: "1"
   }
   {
@@ -26446,7 +26454,7 @@
     action_playspeed: "100"
     creation_order: "7182,718101,718102,718103,718104,718105,718106,718201,718202,718203,718204,718205,718206,718301,718302,718303,718304,718305,718306,718401,718402,718403,718404,718405,718406"
     creation_delay: "45,45,55,60,65,70,50,45,55,60,65,70,50,45,55,60,65,70,50,45,55,60,65,70,50"
-    effect_order: 3(StyxBoss;蓄电雷暴;Electrical Storm;Styx)
+    effect_order: 3(StyxBoss;蓄電雷暴;Electrical Storm;Styx)
     effect_duration: "1"
   }
   {

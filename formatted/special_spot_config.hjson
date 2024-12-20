@@ -1384,8 +1384,6 @@
   }
   {
     id: 2401
-    name: special_spot_config-10002401
-    description: special_spot_config-20002401
     priority: 1
     duration_type: "1"
     detect_target_type: "-1"
@@ -1401,8 +1399,6 @@
   }
   {
     id: 2402
-    name: special_spot_config-10002402
-    description: special_spot_config-20002402
     priority: 1
     duration_type: "1"
     detect_target_type: "-1"
@@ -1418,8 +1414,6 @@
   }
   {
     id: 2403
-    name: special_spot_config-10002403
-    description: special_spot_config-20002403
     priority: 1
     duration_type: "1"
     detect_target_type: "-1"
@@ -1435,8 +1429,6 @@
   }
   {
     id: 2404
-    name: special_spot_config-10002404
-    description: special_spot_config-20002404
     priority: 1
     duration_type: "1"
     detect_target_type: "-1"
@@ -1452,8 +1444,6 @@
   }
   {
     id: 2405
-    name: special_spot_config-10002405
-    description: special_spot_config-20002405
     priority: 1
     duration_type: "1"
     detect_target_type: "-1"
@@ -14525,8 +14515,7 @@
   }
   {
     id: 660000
-    name: special_spot_config-10660000
-    description: special_spot_config-20660000
+    name: "[avg]-74-EXT-01"
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -14826,12 +14815,13 @@
     conditions_type: 0;0
     conditions_time: 0-0;0-0
     skill_config_id_on_birth: "0,0,0"
-    skill_config_id_on_death: "0,0,660071"
+    skill_config_id_on_death: "0,0,660072"
     death_effect_target_type: "-1"
     effect_duration: 1013
   }
   {
     id: 660080
+    name: 數據補丁
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -14972,7 +14962,6 @@
     name: 計數1
     priority: 1
     duration_type: "1"
-    duration_time: "1"
     detect_target_type: "-1"
     effect_target_type: "-1"
     effect_spotbelong_type: "0,1,2,3"
@@ -14980,7 +14969,7 @@
     conflict_type: 660091
     conditions_type: 0;0
     conditions_time: 0-0;0-0
-    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_birth: "660091,0,0"
     skill_config_id_on_death: "0,0,0"
     death_effect_target_type: "-1"
   }
@@ -14989,7 +14978,6 @@
     name: 計數2
     priority: 1
     duration_type: "1"
-    duration_time: "1"
     detect_target_type: "-1"
     effect_target_type: "-1"
     effect_spotbelong_type: "0,1,2,3"
@@ -14997,7 +14985,7 @@
     conflict_type: 660092
     conditions_type: 0;0
     conditions_time: 0-0;0-0
-    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_birth: "660092,0,0"
     skill_config_id_on_death: "0,0,0"
     death_effect_target_type: "-1"
   }
@@ -15006,7 +14994,6 @@
     name: 計數3
     priority: 1
     duration_type: "1"
-    duration_time: "1"
     detect_target_type: "-1"
     effect_target_type: "-1"
     effect_spotbelong_type: "0,1,2,3"
@@ -15014,14 +15001,12 @@
     conflict_type: 660093
     conditions_type: 0;0
     conditions_time: 0-0;0-0
-    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_birth: "660093,0,0"
     skill_config_id_on_death: "0,0,0"
     death_effect_target_type: "-1"
   }
   {
     id: 669800
-    name: special_spot_config-10669800
-    description: special_spot_config-20669800
     priority: 1
     duration_type: "1"
     duration_time: "3"
@@ -15038,8 +15023,6 @@
   }
   {
     id: 669801
-    name: special_spot_config-10669801
-    description: special_spot_config-20669801
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15056,8 +15039,7 @@
   }
   {
     id: 669900
-    name: special_spot_config-10669900
-    description: special_spot_config-20669900
+    name: 機場
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -15074,8 +15056,6 @@
   }
   {
     id: 669910
-    name: special_spot_config-10669910
-    description: special_spot_config-20669910
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -28203,6 +28183,7 @@
   {
     id: 6449974
     name: 【標記】炸彈8生效標記
+    description: 拆除
     code: iaso
     priority: 6449974
     duration_type: "1"
@@ -48162,8 +48143,8 @@
   }
   {
     id: 9740109
-    name: special_spot_config-19740109
-    description: special_spot_config-29740109
+    name: 【標記】轟炸_狂風_特效
+    description: 收集
     code: GunBox
     priority: 1
     duration_type: "1"
@@ -48179,13 +48160,11 @@
     skill_config_id_on_death: "0,0,0"
     death_effect_target_type: "-1"
     effect_process_star: 740001
-    effect_process_end: 1000149
     effect_process_duration: 1000150
   }
   {
     id: 9740110
-    name: special_spot_config-19740110
-    description: special_spot_config-29740110
+    name: 【標記】轟炸_狂風_特效
     priority: 1
     duration_type: "1"
     duration_time: "2"
@@ -48193,20 +48172,17 @@
     effect_target_type: "-1"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
-    conflict_type: 9740109
+    conflict_type: 9740110
     conditions_type: 0;0
     conditions_time: 0-0;0-0
     skill_config_id_on_birth: "0,0,0"
     skill_config_id_on_death: "0,0,0"
     death_effect_target_type: "-1"
-    effect_process_star: 740001
-    effect_process_end: 1000149
-    effect_process_duration: 1000150
   }
   {
     id: 9740116
-    name: special_spot_config-19740116
-    description: special_spot_config-29740116
+    name: 【標記】轟炸_狂風_特效
+    description: 收集
     code: GunBox
     priority: 1
     duration_type: "1"
@@ -48215,20 +48191,37 @@
     effect_target_type: "-1"
     effect_spotbelong_type: "0,1,2,3"
     effect_range_type: 1
-    conflict_type: 9740109
+    conflict_type: 9740116
     conditions_type: 0;0
     conditions_time: 0-0;0-0
     skill_config_id_on_birth: "0,0,0"
     skill_config_id_on_death: "0,0,0"
     death_effect_target_type: "-1"
     effect_process_star: 740001
-    effect_process_end: 1000149
     effect_process_duration: 1000150
   }
   {
+    id: 9740402
+    name: 【標記】物資標記
+    priority: 1
+    duration_type: "1"
+    duration_time: "99"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: -1
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "0,0,0"
+    skill_config_id_on_death: "0,0,0"
+    effect_duration: 9720401
+    effect_process_duration: 900002
+    spot_buff_config_id: 3
+  }
+  {
     id: 9740700
-    name: special_spot_config-19740700
-    description: special_spot_config-29740700
+    name: 【标记】挂警戒触发器
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -48247,8 +48240,8 @@
   }
   {
     id: 9740701
-    name: special_spot_config-19740701
-    description: special_spot_config-29740701
+    name: "[avg]-74-EXT-2-4"
+    description: 警戒
     code: Mission_tip
     priority: 1
     duration_type: "1"
@@ -48267,8 +48260,7 @@
   }
   {
     id: 9740703
-    name: special_spot_config-19740703
-    description: special_spot_config-29740703
+    name: 【標記】擊殺標識
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -48286,8 +48278,7 @@
   }
   {
     id: 9740709
-    name: special_spot_config-19740709
-    description: special_spot_config-29740709
+    name: "[avg]-74-EXT-2-1"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -48305,8 +48296,7 @@
   }
   {
     id: 9740710
-    name: special_spot_config-19740710
-    description: special_spot_config-29740710
+    name: "[avg]-74-EXT-2-2"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -48324,8 +48314,7 @@
   }
   {
     id: 9740711
-    name: special_spot_config-19740711
-    description: special_spot_config-29740711
+    name: "[avg]-74-EXT-2-3"
     priority: 1
     duration_type: "1"
     duration_time: "1"
@@ -48343,8 +48332,7 @@
   }
   {
     id: 9741101
-    name: special_spot_config-19741101
-    description: special_spot_config-29741101
+    name: 【標記】轟炸_圖95_特效
     priority: 1
     duration_type: "1"
     duration_time: "2"
@@ -48359,13 +48347,12 @@
     skill_config_id_on_death: "0,0,0"
     death_effect_target_type: "-1"
     effect_process_star: 740002
-    effect_process_end: 1000149
     effect_process_duration: 1000150
   }
   {
     id: 9741902
-    name: special_spot_config-19741902
-    description: special_spot_config-29741902
+    name: 【標記】要道還沒修復標記
+    description: 修復
     code: Birdge_Left_1
     priority: 1
     duration_type: "1"
@@ -48384,8 +48371,7 @@
   }
   {
     id: 9741903
-    name: special_spot_config-19741903
-    description: special_spot_config-29741903
+    name: 【標記】亂石堆還沒清理標記
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -48403,8 +48389,7 @@
   }
   {
     id: 9741911
-    name: special_spot_config-19741911
-    description: special_spot_config-29741911
+    name: 【標記】檢測梯隊掛標記buff
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -48423,8 +48408,7 @@
   }
   {
     id: 9741912
-    name: special_spot_config-19741912
-    description: special_spot_config-29741912
+    name: 【標記】掛標記buff
     priority: 1
     duration_type: "1"
     duration_time: "99"
@@ -48442,8 +48426,7 @@
   }
   {
     id: 9742401
-    name: special_spot_config-19742401
-    description: special_spot_config-29742401
+    description: 遭遇
     code: StyxBoss
     priority: 9742401
     duration_type: "1"
@@ -48458,6 +48441,60 @@
     skill_config_id_on_birth: "0,0,0"
     skill_config_id_on_death: "0,0,0"
     death_effect_target_type: "-1"
+  }
+  {
+    id: 9742906
+    name: 【標記】掛離線buff
+    priority: 1
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 9742906
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "9742906,0,9742910"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+    effect_conditions: "1"
+  }
+  {
+    id: 9742910
+    name: 【標記】頂掉免費AP BUFF①
+    priority: 1
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 9742910
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "9742910,0,9742911"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+    effect_conditions: "1"
+  }
+  {
+    id: 9742911
+    name: 【標記】頂掉免費AP BUFF②
+    priority: 1
+    duration_type: "1"
+    duration_time: "1"
+    detect_target_type: "-1"
+    effect_target_type: "-1"
+    effect_spotbelong_type: "0,1,2,3"
+    effect_range_type: 1
+    conflict_type: 9742911
+    conditions_type: 0;0
+    conditions_time: 0-0;0-0
+    skill_config_id_on_birth: "9742911,0,0"
+    skill_config_id_on_death: "0,0,0"
+    death_effect_target_type: "-1"
+    effect_conditions: "1"
   }
   {
     id: 44350001

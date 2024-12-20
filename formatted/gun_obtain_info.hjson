@@ -642,7 +642,7 @@
   }
   {
     obtain_id: "518"
-    description: gun_obtain-10000518
+    description: 限時活動【卷積核】積分模式獎勵
   }
   {
     obtain_id: "1701"
@@ -1367,10 +1367,10 @@
   }
   {
     obtain_id: "3119"
-    description: gun_obtain-10003119
+    description: 限時活動<卷積核>代幣兌換
   }
   {
     obtain_id: "3120"
-    description: gun_obtain-10003120
+    description: <卷積核>積分榜650000積分獎勵
   }
 ]

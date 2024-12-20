@@ -4205,10 +4205,15 @@
   }
   {
     id: 2401
-    name: mission_skill_config-10002401
+    name: 癒心聖頌
     code: heal
-    description: mission_skill_config-20002401
-    lvup_description: mission_skill_config-30002401
+    description:
+      '''
+      本回合內,該梯隊前五場戰鬥結束時分別回復各個單位10%/15%/20%/25%/30%最大生命值。
+      從第六場戰鬥開始該梯隊獲得聖佑效果,持續至本回合結束。
+      聖佑效果:本場戰鬥我方全體獲得10%的傷害減免效果,並且每隔15秒我方全體清除屬性減益效果並且免疫傷害2秒。
+      '''
+    lvup_description: 傷害減免:10%
     skill_group_id: 24
     level: 1
     spot_type: "-1"
@@ -4221,10 +4226,15 @@
   }
   {
     id: 2402
-    name: mission_skill_config-10002402
+    name: 癒心聖頌
     code: heal
-    description: mission_skill_config-20002402
-    lvup_description: mission_skill_config-30002402
+    description:
+      '''
+      本回合內,該梯隊前五場戰鬥結束時分別回復各個單位10%/15%/20%/25%/30%最大生命值。
+      從第六場戰鬥開始該梯隊獲得聖佑效果,持續至本回合結束。
+      聖佑效果:本場戰鬥我方全體獲得13%的傷害減免效果,並且每隔15秒我方全體清除屬性減益效果並且免疫傷害2秒。
+      '''
+    lvup_description: 傷害減免:13%
     skill_group_id: 24
     level: 2
     train_coin_type: 1
@@ -4239,10 +4249,15 @@
   }
   {
     id: 2403
-    name: mission_skill_config-10002403
+    name: 癒心聖頌
     code: heal
-    description: mission_skill_config-20002403
-    lvup_description: mission_skill_config-30002403
+    description:
+      '''
+      本回合內,該梯隊前五場戰鬥結束時分別回復各個單位10%/15%/20%/25%/30%最大生命值。
+      從第六場戰鬥開始該梯隊獲得聖佑效果,持續至本回合結束。
+      聖佑效果:本場戰鬥我方全體獲得16%的傷害減免效果,並且每隔15秒我方全體清除屬性減益效果並且免疫傷害2秒。
+      '''
+    lvup_description: 傷害減免:16%
     skill_group_id: 24
     level: 3
     train_coin_type: 1
@@ -4257,10 +4272,15 @@
   }
   {
     id: 2404
-    name: mission_skill_config-10002404
+    name: 癒心聖頌
     code: heal
-    description: mission_skill_config-20002404
-    lvup_description: mission_skill_config-30002404
+    description:
+      '''
+      本回合內,該梯隊前五場戰鬥結束時分別回復各個單位10%/15%/20%/25%/30%最大生命值。
+      從第六場戰鬥開始該梯隊獲得聖佑效果,持續至本回合結束。
+      聖佑效果:本場戰鬥我方全體獲得18%的傷害減免效果,並且每隔15秒我方全體清除屬性減益效果並且免疫傷害2秒。
+      '''
+    lvup_description: 傷害減免:18%
     skill_group_id: 24
     level: 4
     train_coin_type: 1
@@ -4275,10 +4295,15 @@
   }
   {
     id: 2405
-    name: mission_skill_config-10002405
+    name: 癒心聖頌
     code: heal
-    description: mission_skill_config-20002405
-    lvup_description: mission_skill_config-30002405
+    description:
+      '''
+      本回合內,該梯隊前五場戰鬥結束時分別回復各個單位10%/15%/20%/25%/30%最大生命值。
+      從第六場戰鬥開始該梯隊獲得聖佑效果,持續至本回合結束。
+      聖佑效果:本場戰鬥我方全體獲得21%的傷害減免效果,並且每隔15秒我方全體清除屬性減益效果並且免疫傷害2秒。
+      '''
+    lvup_description: 傷害減免:21%
     skill_group_id: 24
     level: 5
     train_coin_type: 2
@@ -4293,10 +4318,15 @@
   }
   {
     id: 2406
-    name: mission_skill_config-10002406
+    name: 癒心聖頌
     code: heal
-    description: mission_skill_config-20002406
-    lvup_description: mission_skill_config-30002406
+    description:
+      '''
+      本回合內,該梯隊前五場戰鬥結束時分別回復各個單位10%/15%/20%/25%/30%最大生命值。
+      從第六場戰鬥開始該梯隊獲得聖佑效果,持續至本回合結束。
+      聖佑效果:本場戰鬥我方全體獲得24%的傷害減免效果,並且每隔15秒我方全體清除屬性減益效果並且免疫傷害2秒。
+      '''
+    lvup_description: 傷害減免:24%
     skill_group_id: 24
     level: 6
     train_coin_type: 2
@@ -4312,10 +4342,15 @@
   }
   {
     id: 2407
-    name: mission_skill_config-10002407
+    name: 癒心聖頌
     code: heal
-    description: mission_skill_config-20002407
-    lvup_description: mission_skill_config-30002407
+    description:
+      '''
+      本回合內,該梯隊前五場戰鬥結束時分別回復各個單位10%/15%/20%/25%/30%最大生命值。
+      從第六場戰鬥開始該梯隊獲得聖佑效果,持續至本回合結束。
+      聖佑效果:本場戰鬥我方全體獲得27%的傷害減免效果,並且每隔15秒我方全體清除屬性減益效果並且免疫傷害2秒。
+      '''
+    lvup_description: 傷害減免:27%
     skill_group_id: 24
     level: 7
     train_coin_type: 2
@@ -4331,10 +4366,15 @@
   }
   {
     id: 2408
-    name: mission_skill_config-10002408
+    name: 癒心聖頌
     code: heal
-    description: mission_skill_config-20002408
-    lvup_description: mission_skill_config-30002408
+    description:
+      '''
+      本回合內,該梯隊前五場戰鬥結束時分別回復各個單位10%/15%/20%/25%/30%最大生命值。
+      從第六場戰鬥開始該梯隊獲得聖佑效果,持續至本回合結束。
+      聖佑效果:本場戰鬥我方全體獲得29%的傷害減免效果,並且每隔15秒我方全體清除屬性減益效果並且免疫傷害2秒。
+      '''
+    lvup_description: 傷害減免:29%
     skill_group_id: 24
     level: 8
     train_coin_type: 2
@@ -4350,10 +4390,15 @@
   }
   {
     id: 2409
-    name: mission_skill_config-10002409
+    name: 癒心聖頌
     code: heal
-    description: mission_skill_config-20002409
-    lvup_description: mission_skill_config-30002409
+    description:
+      '''
+      本回合內,該梯隊前五場戰鬥結束時分別回復各個單位10%/15%/20%/25%/30%最大生命值。
+      從第六場戰鬥開始該梯隊獲得聖佑效果,持續至本回合結束。
+      聖佑效果:本場戰鬥我方全體獲得32%的傷害減免效果,並且每隔15秒我方全體清除屬性減益效果並且免疫傷害2秒。
+      '''
+    lvup_description: 傷害減免:32%
     skill_group_id: 24
     level: 9
     train_coin_type: 3
@@ -4369,10 +4414,15 @@
   }
   {
     id: 2410
-    name: mission_skill_config-10002410
+    name: 癒心聖頌
     code: heal
-    description: mission_skill_config-20002410
-    lvup_description: mission_skill_config-30002410
+    description:
+      '''
+      本回合內,該梯隊前五場戰鬥結束時分別回復各個單位10%/15%/20%/25%/30%最大生命值。
+      從第六場戰鬥開始該梯隊獲得聖佑效果,持續至本回合結束。
+      聖佑效果:本場戰鬥我方全體獲得35%的傷害減免效果,並且每隔15秒我方全體清除屬性減益效果並且免疫傷害2秒。
+      '''
+    lvup_description: 傷害減免:35%
     skill_group_id: 24
     level: 10
     train_coin_type: 3
@@ -28994,7 +29044,7 @@
     spot_echelon: "-1"
     cd_time_type: 1
     target_id: "1"
-    subsidiary_mission_skill: "660095,660096,660097,660092,660093,660094"
+    subsidiary_mission_skill: "660092,660093,660094"
     use_arbitrary: 1
   }
   {
@@ -29083,9 +29133,7 @@
   }
   {
     id: 660098
-    name: mission_skill_config-10660098
-    description: mission_skill_config-20660098
-    lvup_description: mission_skill_config-30660098
+    name: 初始化
     skill_group_id: 660098
     level: 1
     spot_type: "-1"
@@ -29098,9 +29146,7 @@
   }
   {
     id: 669800
-    name: mission_skill_config-10669800
-    description: mission_skill_config-20669800
-    lvup_description: mission_skill_config-30669800
+    name: 刷怪初始化
     skill_group_id: 669800
     level: 1
     spot_type: "-1"
@@ -29223,9 +29269,7 @@
   }
   {
     id: 669811
-    name: mission_skill_config-10669811
-    description: mission_skill_config-20669811
-    lvup_description: mission_skill_config-30669811
+    name: 內圈刷怪
     skill_group_id: 669811
     level: 1
     spot_type: "-1"
@@ -29237,9 +29281,7 @@
   }
   {
     id: 669812
-    name: mission_skill_config-10669812
-    description: mission_skill_config-20669812
-    lvup_description: mission_skill_config-30669812
+    name: 中圈機場上方巡邏
     skill_group_id: 669812
     level: 1
     spot_type: "-1"
@@ -29251,9 +29293,7 @@
   }
   {
     id: 669813
-    name: mission_skill_config-10669813
-    description: mission_skill_config-20669813
-    lvup_description: mission_skill_config-30669813
+    name: 中圈機場左側巡邏
     skill_group_id: 669813
     level: 1
     spot_type: "-1"
@@ -29265,9 +29305,7 @@
   }
   {
     id: 669814
-    name: mission_skill_config-10669814
-    description: mission_skill_config-20669814
-    lvup_description: mission_skill_config-30669814
+    name: 中圈機場右下巡邏
     skill_group_id: 669814
     level: 1
     spot_type: "-1"
@@ -29279,9 +29317,7 @@
   }
   {
     id: 669815
-    name: mission_skill_config-10669815
-    description: mission_skill_config-20669815
-    lvup_description: mission_skill_config-30669815
+    name: 中圈機場上方警戒
     skill_group_id: 669815
     level: 1
     spot_type: "-1"
@@ -29293,9 +29329,7 @@
   }
   {
     id: 669816
-    name: mission_skill_config-10669816
-    description: mission_skill_config-20669816
-    lvup_description: mission_skill_config-30669816
+    name: 中圈機場左下警戒
     skill_group_id: 669816
     level: 1
     spot_type: "-1"
@@ -29307,9 +29341,7 @@
   }
   {
     id: 669817
-    name: mission_skill_config-10669817
-    description: mission_skill_config-20669817
-    lvup_description: mission_skill_config-30669817
+    name: 中圈機場右側警戒
     skill_group_id: 669817
     level: 1
     spot_type: "-1"
@@ -29321,9 +29353,7 @@
   }
   {
     id: 669818
-    name: mission_skill_config-10669818
-    description: mission_skill_config-20669818
-    lvup_description: mission_skill_config-30669818
+    name: 外圈機場正三角組巡邏
     skill_group_id: 669818
     level: 1
     spot_type: "-1"
@@ -29336,9 +29366,7 @@
   }
   {
     id: 669819
-    name: mission_skill_config-10669819
-    description: mission_skill_config-20669819
-    lvup_description: mission_skill_config-30669819
+    name: 外圈機場倒三角組巡邏
     skill_group_id: 669819
     level: 1
     spot_type: "-1"
@@ -29351,9 +29379,7 @@
   }
   {
     id: 669821
-    name: mission_skill_config-10669821
-    description: mission_skill_config-20669821
-    lvup_description: mission_skill_config-30669821
+    name: 內圈刷怪
     skill_group_id: 669821
     level: 1
     spot_type: "-1"
@@ -29365,9 +29391,7 @@
   }
   {
     id: 669822
-    name: mission_skill_config-10669822
-    description: mission_skill_config-20669822
-    lvup_description: mission_skill_config-30669822
+    name: 中圈機場上方巡邏
     skill_group_id: 669822
     level: 1
     spot_type: "-1"
@@ -29379,9 +29403,7 @@
   }
   {
     id: 669823
-    name: mission_skill_config-10669823
-    description: mission_skill_config-20669823
-    lvup_description: mission_skill_config-30669823
+    name: 中圈機場左側巡邏
     skill_group_id: 669823
     level: 1
     spot_type: "-1"
@@ -29393,9 +29415,7 @@
   }
   {
     id: 669824
-    name: mission_skill_config-10669824
-    description: mission_skill_config-20669824
-    lvup_description: mission_skill_config-30669824
+    name: 中圈機場右下巡邏
     skill_group_id: 669824
     level: 1
     spot_type: "-1"
@@ -29407,9 +29427,7 @@
   }
   {
     id: 669825
-    name: mission_skill_config-10669825
-    description: mission_skill_config-20669825
-    lvup_description: mission_skill_config-30669825
+    name: 中圈機場上方警戒
     skill_group_id: 669825
     level: 1
     spot_type: "-1"
@@ -29421,9 +29439,7 @@
   }
   {
     id: 669826
-    name: mission_skill_config-10669826
-    description: mission_skill_config-20669826
-    lvup_description: mission_skill_config-30669826
+    name: 中圈機場左下警戒
     skill_group_id: 669826
     level: 1
     spot_type: "-1"
@@ -29435,9 +29451,7 @@
   }
   {
     id: 669827
-    name: mission_skill_config-10669827
-    description: mission_skill_config-20669827
-    lvup_description: mission_skill_config-30669827
+    name: 中圈機場右側警戒
     skill_group_id: 669827
     level: 1
     spot_type: "-1"
@@ -29449,9 +29463,7 @@
   }
   {
     id: 669828
-    name: mission_skill_config-10669828
-    description: mission_skill_config-20669828
-    lvup_description: mission_skill_config-30669828
+    name: 外圈機場正三角組巡邏
     skill_group_id: 669828
     level: 1
     spot_type: "-1"
@@ -29464,9 +29476,7 @@
   }
   {
     id: 669829
-    name: mission_skill_config-10669829
-    description: mission_skill_config-20669829
-    lvup_description: mission_skill_config-30669829
+    name: 外圈機場倒三角組巡邏
     skill_group_id: 669829
     level: 1
     spot_type: "-1"
@@ -29479,9 +29489,7 @@
   }
   {
     id: 669901
-    name: mission_skill_config-10669901
-    description: mission_skill_config-20669901
-    lvup_description: mission_skill_config-30669901
+    name: 晉升計數顯示
     skill_group_id: 669901
     level: 1
     spot_type: "-1"
@@ -29496,9 +29504,7 @@
   }
   {
     id: 669902
-    name: mission_skill_config-10669902
-    description: mission_skill_config-20669902
-    lvup_description: mission_skill_config-30669902
+    name: 晉升計數顯示
     skill_group_id: 669902
     level: 1
     spot_type: "-1"
@@ -29513,9 +29519,7 @@
   }
   {
     id: 669903
-    name: mission_skill_config-10669903
-    description: mission_skill_config-20669903
-    lvup_description: mission_skill_config-30669903
+    name: 晉升計數顯示
     skill_group_id: 669903
     level: 1
     spot_type: "-1"
@@ -29530,9 +29534,7 @@
   }
   {
     id: 669904
-    name: mission_skill_config-10669904
-    description: mission_skill_config-20669904
-    lvup_description: mission_skill_config-30669904
+    name: 晉升計數顯示
     skill_group_id: 669904
     level: 1
     spot_type: "-1"
@@ -29547,9 +29549,7 @@
   }
   {
     id: 669905
-    name: mission_skill_config-10669905
-    description: mission_skill_config-20669905
-    lvup_description: mission_skill_config-30669905
+    name: 晉升計數顯示
     skill_group_id: 669905
     level: 1
     spot_type: "-1"
@@ -29564,35 +29564,57 @@
   }
   {
     id: 669910
-    name: mission_skill_config-10669910
-    description: mission_skill_config-20669910
-    lvup_description: mission_skill_config-30669910
+    name: 躍遷
     skill_group_id: 669910
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
     cd_time_type: 1
     start_range: 2
-    is_airborne: 2
     special_spot_add: 669910:1
     subsidiary_mission_skill: "669911"
     is_manual: 669910
   }
   {
     id: 669911
-    name: mission_skill_config-10669911
-    description: mission_skill_config-20669911
-    lvup_description: mission_skill_config-30669911
+    name: 躍遷標記
     skill_group_id: 669911
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
     cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 660051:1
+    subsidiary_mission_skill: "669912"
+  }
+  {
+    id: 669912
+    name: 躍遷
+    skill_group_id: 669912
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 2
-    target_id: 1||66991001
+    is_airborne: 2
+    target_id: "66991001"
+    subsidiary_mission_skill: "669913"
+  }
+  {
+    id: 669913
+    name: 躍遷解除
+    skill_group_id: 669913
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: 66005101||66991001
     special_spot_minus: 669910:1
-    mission_buff_minus: 660050:1
+    mission_buff_minus: 660050:1,660051:1
   }
   {
     id: 670101
@@ -78815,9 +78837,7 @@
   }
   {
     id: 9740101
-    name: mission_skill_config-19740101
-    description: mission_skill_config-29740101
-    lvup_description: mission_skill_config-39740101
+    name: 【標識】掛多動buff · 3步 · 己方梯隊
     skill_group_id: 9740101
     level: 1
     spot_type: "-1"
@@ -78828,9 +78848,7 @@
   }
   {
     id: 9740102
-    name: mission_skill_config-19740102
-    description: mission_skill_config-29740102
-    lvup_description: mission_skill_config-39740102
+    name: 【標識】物資標記
     skill_group_id: 9740102
     level: 1
     spot_type: "-1"
@@ -78838,13 +78856,12 @@
     spot_echelon: "-1"
     cd_time_type: 1
     target_id: "1"
-    special_spot_add: 9720402:1
+    special_spot_add: 9740402:1
   }
   {
     id: 9740103
-    name: mission_skill_config-19740103
-    description: mission_skill_config-29740103
-    lvup_description: mission_skill_config-39740103
+    name: 拾取物資
+    description: ※每個梯隊最多只能攜帶一份物資或者雜物。
     skill_group_id: 9740103
     level: 1
     spot_type: "-1"
@@ -78852,17 +78869,20 @@
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 1
-    trigger_id: 974010680&&972040580&&974010181
-    target_id: "972040291"
-    special_spot_minus: 9720402:1,1020101:1,1010201:1,9720404:1
+    trigger_id: 974010680&&972040580&&974010181&&1
+    target_id: "974040291"
+    special_spot_minus: 9740402:1,1020101:1,1010201:1,9720404:1
     subsidiary_mission_skill: "9740106"
     is_manual: 9720405
   }
   {
     id: 9740104
-    name: mission_skill_config-19740104
-    description: mission_skill_config-29740104
-    lvup_description: mission_skill_config-39740104
+    name: 放置物資
+    description:
+      '''
+      選擇一處沒有物資或雜物的沒人的路徑點放置。
+      ※可重複堆積在回收點（雷達點）上。
+      '''
     skill_group_id: 9740104
     level: 1
     spot_type: "-1"
@@ -78870,28 +78890,26 @@
     cd_time_type: 1
     start_range: 1
     trigger_id: 974010681&&974010181
-    target_id: (972040290&&972040390)||101010191
-    special_spot_add: 9720402:1,1020101:1
+    target_id: 974040290||101010191
+    special_spot_add: 9740402:1,1020101:1
     subsidiary_mission_skill: "9740107,9740110"
     is_manual: 9720406
   }
   {
     id: 9740105
-    name: mission_skill_config-19740105
-    description: mission_skill_config-29740105
-    lvup_description: mission_skill_config-39740105
+    name: 【標識】復用_檢測/爆炸
+    description: 將物資放置在回收點上。
     skill_group_id: 9740105
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
     cd_time_type: 1
+    subsidiary_mission_skill: "9740119,9740120"
   }
   {
     id: 9740106
-    name: mission_skill_config-19740106
-    description: mission_skill_config-29740106
-    lvup_description: mission_skill_config-39740106
+    name: 【標識】持有物資
     skill_group_id: 9740106
     level: 1
     spot_type: "-1"
@@ -78903,9 +78921,7 @@
   }
   {
     id: 9740107
-    name: mission_skill_config-19740107
-    description: mission_skill_config-29740107
-    lvup_description: mission_skill_config-39740107
+    name: 【標識】消除物資持有
     skill_group_id: 9740107
     level: 1
     spot_type: "-1"
@@ -78917,9 +78933,7 @@
   }
   {
     id: 9740108
-    name: mission_skill_config-19740108
-    description: mission_skill_config-29740108
-    lvup_description: mission_skill_config-39740108
+    name: 【標識】回收點達標檢測
     skill_group_id: 9740108
     level: 1
     spot_type: "-1"
@@ -78927,29 +78941,25 @@
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 99
-    target_id: 101010191&&972040492
+    target_id: 101010191&&974040292
     special_spot_minus: 1040100:1
+    subsidiary_mission_skill: "9740124"
   }
   {
     id: 9740109
-    name: mission_skill_config-19740109
-    description: mission_skill_config-29740109
-    lvup_description: mission_skill_config-39740109
+    name: 【標識】播放轟炸特效
     skill_group_id: 9740109
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
     cd_time_type: 1
-    target_id: "1"
-    special_spot_add: 9740109:1
-    subsidiary_mission_skill: "9740111"
+    target_id: "101010091"
+    subsidiary_mission_skill: "9740123"
   }
   {
     id: 9740110
-    name: mission_skill_config-19740110
-    description: mission_skill_config-29740110
-    lvup_description: mission_skill_config-39740110
+    name: 【標識】回收點物資數量檢測
     skill_group_id: 9740110
     level: 1
     spot_type: "-1"
@@ -78958,7 +78968,7 @@
     cd_time_type: 1
     start_range: 99
     target_id: 101010191&&102010191
-    special_spot_add: 1010201:1,9720404:1
+    special_spot_add: 1010201:1
     special_spot_minus: 1020101:1
     subsidiary_mission_skill: "9740108"
   }
@@ -78975,7 +78985,7 @@
     cd_time_type: 1
     start_range: 5
     target_id: 102050191||974010181
-    special_spot_add: 6630021:1
+    special_spot_add: 9130610:1,6630021:1
   }
   {
     id: 9740112
@@ -79046,7 +79056,7 @@
     cd_time_type: 1
     target_id: 105010091&&104010091
     special_spot_add: 9740110:1
-    subsidiary_mission_skill: "9740111,9740118"
+    subsidiary_mission_skill: "9740118"
   }
   {
     id: 9740117
@@ -79060,7 +79070,7 @@
     spot_echelon: "-1"
     cd_time_type: 1
     target_id: 105010091&&104010090
-    subsidiary_mission_skill: "9740109"
+    special_spot_add: 9720404:1
   }
   {
     id: 9740118
@@ -79075,13 +79085,86 @@
     cd_time_type: 1
     target_id: "1"
     special_spot_add: 9740116:1
+  }
+  {
+    id: 9740119
+    name: 【標識】實際爆炸
+    skill_group_id: 9740119
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "101010091"
     subsidiary_mission_skill: "9740111"
   }
   {
+    id: 9740120
+    name: 【標識】預埋延遲
+    skill_group_id: 9740120
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 1010100:1
+  }
+  {
+    id: 9740121
+    name: 【標識】實際爆炸-棄用
+    skill_group_id: 9740121
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    data_pool: "100"
+    target_id: 974110791||974110792
+    special_spot_add: 9130610:1,6630021:1
+  }
+  {
+    id: 9740122
+    name: 【標識】空襲延遲
+    skill_group_id: 9740122
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "9740113,9740109,9740120"
+  }
+  {
+    id: 9740123
+    name: 【標識】在中心放空襲
+    skill_group_id: 9740123
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    target_id: "101010191"
+    special_spot_add: 9740109:1
+  }
+  {
+    id: 9740124
+    name: 【標識】收集完去掉NPC buff
+    skill_group_id: 9740124
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    target_id: "974010181"
+    mission_buff_minus: 9740101:1,20301:1,20302:1
+  }
+  {
     id: 9740701
-    name: mission_skill_config-19740701
-    description: mission_skill_config-29740701
-    lvup_description: mission_skill_config-39740701
+    name: 【標識】警戒標識
     skill_group_id: 9740701
     level: 1
     spot_type: "-1"
@@ -79093,9 +79176,7 @@
   }
   {
     id: 9740702
-    name: mission_skill_config-19740702
-    description: mission_skill_config-29740702
-    lvup_description: mission_skill_config-39740702
+    name: 【標識】擊殺數滿足_清除警戒標識
     skill_group_id: 9740702
     level: 1
     spot_type: "-1"
@@ -79108,9 +79189,7 @@
   }
   {
     id: 9740703
-    name: mission_skill_config-19740703
-    description: mission_skill_config-29740703
-    lvup_description: mission_skill_config-39740703
+    name: 【標識】擊殺目標添加標記_N
     skill_group_id: 9740703
     level: 1
     spot_type: "-1"
@@ -79124,9 +79203,7 @@
   }
   {
     id: 9740704
-    name: mission_skill_config-19740704
-    description: mission_skill_config-29740704
-    lvup_description: mission_skill_config-39740704
+    name: 【標識】擊殺數足夠_開門
     skill_group_id: 9740704
     level: 1
     spot_type: "-1"
@@ -79140,9 +79217,7 @@
   }
   {
     id: 9740705
-    name: mission_skill_config-19740705
-    description: mission_skill_config-29740705
-    lvup_description: mission_skill_config-39740705
+    name: 【標識】擊殺數檢測_4
     skill_group_id: 9740705
     level: 1
     spot_type: "-1"
@@ -79154,9 +79229,7 @@
   }
   {
     id: 9740706
-    name: mission_skill_config-19740706
-    description: mission_skill_config-29740706
-    lvup_description: mission_skill_config-39740706
+    name: 【標識】擊殺數檢測_2
     skill_group_id: 9740706
     level: 1
     spot_type: "-1"
@@ -79168,9 +79241,7 @@
   }
   {
     id: 9740707
-    name: mission_skill_config-19740707
-    description: mission_skill_config-29740707
-    lvup_description: mission_skill_config-39740707
+    name: 【標識】擊殺目標添加標記_H
     skill_group_id: 9740707
     level: 1
     spot_type: "-1"
@@ -79184,9 +79255,7 @@
   }
   {
     id: 9740708
-    name: mission_skill_config-19740708
-    description: mission_skill_config-29740708
-    lvup_description: mission_skill_config-39740708
+    name: 【標識】目標敵人標識
     skill_group_id: 9740708
     level: 1
     spot_type: "-1"
@@ -79200,9 +79269,7 @@
   }
   {
     id: 9740709
-    name: mission_skill_config-19740709
-    description: mission_skill_config-29740709
-    lvup_description: mission_skill_config-39740709
+    name: 【標識】開局提示文本
     skill_group_id: 9740709
     level: 1
     spot_type: "-1"
@@ -79214,9 +79281,7 @@
   }
   {
     id: 9740710
-    name: mission_skill_config-19740710
-    description: mission_skill_config-29740710
-    lvup_description: mission_skill_config-39740710
+    name: 【標識】擊殺敵人後第一次提示進度
     skill_group_id: 9740710
     level: 1
     spot_type: "-1"
@@ -79228,9 +79293,7 @@
   }
   {
     id: 9740711
-    name: mission_skill_config-19740711
-    description: mission_skill_config-29740711
-    lvup_description: mission_skill_config-39740711
+    name: 【標識】滿足擊殺數後提示
     skill_group_id: 9740711
     level: 1
     spot_type: "-1"
@@ -79242,9 +79305,7 @@
   }
   {
     id: 9741101
-    name: mission_skill_config-19741101
-    description: mission_skill_config-29741101
-    lvup_description: mission_skill_config-39741101
+    name: 【標識】播放轟炸特效
     skill_group_id: 9741101
     level: 1
     spot_type: "-1"
@@ -79256,9 +79317,7 @@
   }
   {
     id: 9741102
-    name: mission_skill_config-19741102
-    description: mission_skill_config-29741102
-    lvup_description: mission_skill_config-39741102
+    name: 【標識】兔子腳下_炸設施
     skill_group_id: 9741102
     level: 1
     spot_type: "-1"
@@ -79270,9 +79329,7 @@
   }
   {
     id: 9741103
-    name: mission_skill_config-19741103
-    description: mission_skill_config-29741103
-    lvup_description: mission_skill_config-39741103
+    name: 【標識】指揮塔描述
     skill_group_id: 9741103
     level: 1
     spot_type: "-1"
@@ -79284,9 +79341,7 @@
   }
   {
     id: 9741104
-    name: mission_skill_config-19741104
-    description: mission_skill_config-29741104
-    lvup_description: mission_skill_config-39741104
+    name: 【標識】發電站描述
     skill_group_id: 9741104
     level: 1
     spot_type: "-1"
@@ -79298,9 +79353,7 @@
   }
   {
     id: 9741105
-    name: mission_skill_config-19741105
-    description: mission_skill_config-29741105
-    lvup_description: mission_skill_config-39741105
+    name: 【標識】實際爆炸
     skill_group_id: 9741105
     level: 1
     spot_type: "-1"
@@ -79313,9 +79366,7 @@
   }
   {
     id: 9741106
-    name: mission_skill_config-19741106
-    description: mission_skill_config-29741106
-    lvup_description: mission_skill_config-39741106
+    name: 【標識】預埋延遲
     skill_group_id: 9741106
     level: 1
     spot_type: "-1"
@@ -79343,9 +79394,7 @@
   }
   {
     id: 9741401
-    name: mission_skill_config-19741401
-    description: mission_skill_config-29741401
-    lvup_description: mission_skill_config-39741401
+    name: 拆彈
     skill_group_id: 9741401
     level: 1
     spot_type: "-1"
@@ -79358,9 +79407,7 @@
   }
   {
     id: 9741402
-    name: mission_skill_config-19741402
-    description: mission_skill_config-29741402
-    lvup_description: mission_skill_config-39741402
+    name: 【標記】歌利亞初始化
     skill_group_id: 9741402
     level: 1
     spot_type: "-1"
@@ -79372,9 +79419,7 @@
   }
   {
     id: 9741901
-    name: mission_skill_config-19741901
-    description: mission_skill_config-29741901
-    lvup_description: mission_skill_config-39741901
+    name: 【標識】物資標記
     skill_group_id: 9741901
     level: 1
     spot_type: "-1"
@@ -79386,9 +79431,7 @@
   }
   {
     id: 9741902
-    name: mission_skill_config-19741902
-    description: mission_skill_config-29741902
-    lvup_description: mission_skill_config-39741902
+    name: 【標識】要道初始
     skill_group_id: 9741902
     level: 1
     spot_type: "-1"
@@ -79400,9 +79443,7 @@
   }
   {
     id: 9741903
-    name: mission_skill_config-19741903
-    description: mission_skill_config-29741903
-    lvup_description: mission_skill_config-39741903
+    name: 【標識】亂石堆/要道初始
     skill_group_id: 9741903
     level: 1
     spot_type: "-1"
@@ -79414,9 +79455,8 @@
   }
   {
     id: 9741904
-    name: mission_skill_config-19741904
-    description: mission_skill_config-29741904
-    lvup_description: mission_skill_config-39741904
+    name: 拾取物資
+    description: ※每個梯隊最多只能攜帶一份物資或者雜物。
     skill_group_id: 9741904
     level: 1
     spot_type: "-1"
@@ -79424,7 +79464,7 @@
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 1
-    trigger_id: 974190480&&974190780&&974191181
+    trigger_id: 974190480&&974190780&&974191181&&1
     target_id: "972040291"
     special_spot_minus: 9720402:1
     subsidiary_mission_skill: "9741911"
@@ -79432,9 +79472,12 @@
   }
   {
     id: 9741905
-    name: mission_skill_config-19741905
-    description: mission_skill_config-29741905
-    lvup_description: mission_skill_config-39741905
+    name: 放置物資
+    description:
+      '''
+      選擇一處沒有物資或雜物的沒人的路徑點放置。
+      ※可重複堆積在回收點（雷達點）上。
+      '''
     skill_group_id: 9741905
     level: 1
     spot_type: "-1"
@@ -79449,9 +79492,8 @@
   }
   {
     id: 9741906
-    name: mission_skill_config-19741906
-    description: mission_skill_config-29741906
-    lvup_description: mission_skill_config-39741906
+    name: 修復要道
+    description: 消耗一份物資修復要道。
     skill_group_id: 9741906
     level: 1
     spot_type: "-1"
@@ -79466,9 +79508,8 @@
   }
   {
     id: 9741907
-    name: mission_skill_config-19741907
-    description: mission_skill_config-29741907
-    lvup_description: mission_skill_config-39741907
+    name: 拾取
+    description: ※每個梯隊最多只能攜帶一份棄置歌利亞。
     skill_group_id: 9741907
     level: 1
     spot_type: "-1"
@@ -79483,9 +79524,8 @@
   }
   {
     id: 9741908
-    name: mission_skill_config-19741908
-    description: mission_skill_config-29741908
-    lvup_description: mission_skill_config-39741908
+    name: 丟出
+    description: 對敵人使用並引爆棄置歌利亞。
     skill_group_id: 9741908
     level: 1
     spot_type: "-1"
@@ -79499,9 +79539,8 @@
   }
   {
     id: 9741909
-    name: mission_skill_config-19741909
-    description: mission_skill_config-29741909
-    lvup_description: mission_skill_config-39741909
+    name: 丟出
+    description: 對亂石堆使用並引爆棄置歌利亞。
     skill_group_id: 9741909
     level: 1
     spot_type: "-1"
@@ -79517,9 +79556,7 @@
   }
   {
     id: 9741910
-    name: mission_skill_config-19741910
-    description: mission_skill_config-29741910
-    lvup_description: mission_skill_config-39741910
+    name: 【標識】對梯隊掛標記buff
     skill_group_id: 9741910
     level: 1
     spot_type: "-1"
@@ -79532,9 +79569,7 @@
   }
   {
     id: 9741911
-    name: mission_skill_config-19741911
-    description: mission_skill_config-29741911
-    lvup_description: mission_skill_config-39741911
+    name: 【標識】持有物資
     skill_group_id: 9741911
     level: 1
     spot_type: "-1"
@@ -79546,9 +79581,7 @@
   }
   {
     id: 9741912
-    name: mission_skill_config-19741912
-    description: mission_skill_config-29741912
-    lvup_description: mission_skill_config-39741912
+    name: 【標識】消除物資持有
     skill_group_id: 9741912
     level: 1
     spot_type: "-1"
@@ -79560,9 +79593,7 @@
   }
   {
     id: 9741913
-    name: mission_skill_config-19741913
-    description: mission_skill_config-29741913
-    lvup_description: mission_skill_config-39741913
+    name: 【標識】持有歌利亞
     skill_group_id: 9741913
     level: 1
     spot_type: "-1"
@@ -79574,9 +79605,7 @@
   }
   {
     id: 9741914
-    name: mission_skill_config-19741914
-    description: mission_skill_config-29741914
-    lvup_description: mission_skill_config-39741914
+    name: 【標識】消除歌利亞持有
     skill_group_id: 9741914
     level: 1
     spot_type: "-1"
@@ -79602,9 +79631,7 @@
   }
   {
     id: 9742401
-    name: mission_skill_config-19742401
-    description: mission_skill_config-29742401
-    lvup_description: mission_skill_config-39742401
+    name: 【標識】擊殺目標添加標記
     skill_group_id: 9742401
     level: 1
     spot_type: "-1"
@@ -79613,6 +79640,85 @@
     cd_time_type: 1
     target_id: "1"
     special_spot_add: 9742401:1
+  }
+  {
+    id: 9742901
+    name: 【標識】布拉梅德開機掛Buff-說明用
+    skill_group_id: 9742901
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 9742901:1
+  }
+  {
+    id: 9742902
+    name: 【標識】NPC漸凍debuff/對布拉梅德特攻buff
+    skill_group_id: 9742902
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    target_id: 974290161||974290261||974290361||974740161||974740261||974740361||974450161||974450261||974450361
+    mission_buff_add: 20301:1,20302:1
+  }
+  {
+    id: 9742903
+    name: 【標記】漸動debuff-前置計數2/付說明
+    skill_group_id: 9742903
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    target_id: 974290161||974740161||974450161
+    mission_buff_add: 9742907:1,9742903:1
+  }
+  {
+    id: 9742904
+    name: 【標記】漸動debuff-前置計數3/付說明
+    skill_group_id: 9742904
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    target_id: 974290261||974740261||974450261
+    mission_buff_add: 9742908:1,9742904:1
+  }
+  {
+    id: 9742905
+    name: 【標記】漸動debuff-前置計數6/付說明
+    skill_group_id: 9742905
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    target_id: 974290361||974740361||974450361
+    mission_buff_add: 9742909:1,9742902:1,9742905:1
+  }
+  {
+    id: 9742906
+    name: 【標識】布拉梅德被擊敗，去除debuff
+    skill_group_id: 9742906
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: 974290161||974290261||974290361||974740161||974740261||974740361||974450161||974450261||974450361
+    special_spot_minus: 9742906:1
+    mission_buff_add: 20301:1,20302:1
+    mission_buff_minus: 9742906:1,9742902:1,9742903:1,9742904:1,9742905:1
   }
   {
     id: 40400001

@@ -284,18 +284,18 @@
   }
   {
     id: 660001
-    name: mission_effect_config-10660001
+    name: 晉升
     code: TZD_jh
-    description: mission_effect_config-20660001
+    description: 晉升
     priority: 1
     size: 1.8
     offset: "0,-50"
   }
   {
     id: 660002
-    name: mission_effect_config-10660002
+    name: 數據補丁
     code: TZD_cs_box
-    description: mission_effect_config-20660002
+    description: 數據補丁
     priority: 1
     duration: 99999
     size: 2
@@ -303,18 +303,18 @@
   }
   {
     id: 660003
-    name: mission_effect_config-10660003
+    name: 數據補丁開啟
     code: TZD_kxz
-    description: mission_effect_config-20660003
+    description: 數據補丁開啟
     priority: 1
     size: 2
     offset: "0,0"
   }
   {
     id: 740001
-    name: mission_effect_config-10740001
+    name: 狂風
     code: Fly_tornado
-    description: mission_effect_config-20740001
+    description: 狂風
     priority: 1
     duration: 4
     size: 2
@@ -327,9 +327,9 @@
   }
   {
     id: 740002
-    name: mission_effect_config-10740002
+    name: 圖95
     code: Fly_tu95
-    description: mission_effect_config-20740002
+    description: 圖95
     priority: 1
     duration: 4
     size: 2

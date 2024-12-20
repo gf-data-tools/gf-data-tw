@@ -55,7 +55,7 @@
   }
   {
     id: 2401
-    name: mission_hurt_config-10002401
+    name: 【標記】治癒妖精負數傷害
     target_type: 2
     type: 2
     life_type: 2
@@ -63,7 +63,7 @@
   }
   {
     id: 2402
-    name: mission_hurt_config-10002402
+    name: 【標記】治癒妖精負數傷害
     target_type: 2
     type: 2
     life_type: 2
@@ -71,7 +71,7 @@
   }
   {
     id: 2403
-    name: mission_hurt_config-10002403
+    name: 【標記】治癒妖精負數傷害
     target_type: 2
     type: 2
     life_type: 2
@@ -79,7 +79,7 @@
   }
   {
     id: 2404
-    name: mission_hurt_config-10002404
+    name: 【標記】治癒妖精負數傷害
     target_type: 2
     type: 2
     life_type: 2
@@ -87,7 +87,7 @@
   }
   {
     id: 2405
-    name: mission_hurt_config-10002405
+    name: 【標記】治癒妖精負數傷害
     target_type: 2
     type: 2
     life_type: 2

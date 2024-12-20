@@ -30641,13 +30641,13 @@
   }
   {
     id: 20155
-    name: furniture-10020155
+    name: 地下避難所
     classes: 19
     type: 301
     space: "1,1,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020155
+    description: 一場災難迫使人類離開家園，來到地下三十公尺處建立起簡陋的避難所，爭吵分裂是永恆的主題，但間或的人性閃光亦能開啟新的篇章。
     code: 202412Activity_wall
     texture_type: "1"
     offset: "0,0,0"
@@ -30655,13 +30655,13 @@
   }
   {
     id: 20156
-    name: furniture-10020156
+    name: 稜形格地板
     classes: 19
     type: 101
     space: "1,1,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020156
+    description: 在清潔人員的不懈努力下，總算將血跡、水漬、汙痕等都從凹凸不平的地板上鏟除。
     code: 202412Activity_floor
     texture_type: "1"
     offset: "0,0,0"
@@ -30669,13 +30669,13 @@
   }
   {
     id: 20157
-    name: furniture-10020157
+    name: 診療床上的呢喃
     classes: 19
     type: 202
     space: "8,6,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020157
+    description: 躺在病榻上的人類是脆弱的，而在半夢半醒的浮沉間，他們呢喃的主題總是媽媽。
     code: 202412Activity_deco_01
     texture_type: "1"
     offset: "0,0,0"
@@ -30685,13 +30685,13 @@
   }
   {
     id: 20158
-    name: furniture-10020158
+    name: 冷酷注視
     classes: 19
     type: 201
     space: "1,1,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020158
+    description: 白熾燈持續地散發著青冷的光，絲毫不在意燈下人的喜怒哀樂。
     code: 202412Activity_deco_02
     texture_type: "1"
     offset: "0.000,3.149,0.000"
@@ -30700,13 +30700,13 @@
   }
   {
     id: 20159
-    name: furniture-10020159
+    name: 垃圾桶心緒
     classes: 19
     type: 201
     space: "4,3,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020159
+    description: 檢查報告、過期藥品、染血的棉片、使用過的器具……大家一股腦地扔進來，連同自己破碎的心和迷茫的情緒。
     code: 202412Activity_deco_03
     texture_type: "1"
     offset: "0,0,0"
@@ -30714,13 +30714,13 @@
   }
   {
     id: 20160
-    name: furniture-10020160
+    name: 世界的傳送門
     classes: 19
     type: 201
     space: "8,1,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020160
+    description: 看似破舊殘敗的一扇門卻是通向兩個世界的大門。一邊是充滿希望的等候，一邊是緊張的時間爭奪賽。
     code: 202412Activity_deco_04
     texture_type: "1"
     offset: "0,0,0"
@@ -30728,13 +30728,13 @@
   }
   {
     id: 20161
-    name: furniture-10020161
+    name: 落寞導診台
     classes: 19
     type: 201
     space: "12,5,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020161
+    description: 陳舊的導診台前總是無人問津，桌面也蒙上一層薄薄的灰。
     code: 202412Activity_deco_05
     texture_type: "1"
     offset: "0.156,-0.302,0.000"
@@ -30742,13 +30742,13 @@
   }
   {
     id: 20162
-    name: furniture-10020162
+    name: 無常推車
     classes: 19
     type: 201
     space: "3,3,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020162
+    description: 乖乖吃下苦澀藥丸後，有一定機率可以獲得甜蜜糖丸的獎賞，當然更大機率是只剩彌漫在嘴裡的苦澀，就像人生。
     code: 202412Activity_deco_06
     texture_type: "1"
     offset: "0,0,0"
@@ -30756,13 +30756,13 @@
   }
   {
     id: 20163
-    name: furniture-10020163
+    name: 傷痛阻隔簾
     classes: 19
     type: 201
     space: "10,3,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020163
+    description: 視線的遮蔽在此刻帶來的卻是安寧，看不見簾後的真實，或許可以短暫地欺騙自己痛苦的不存在。
     code: 202412Activity_deco_07
     texture_type: "1"
     offset: "0,0,0"
@@ -30770,13 +30770,13 @@
   }
   {
     id: 20164
-    name: furniture-10020164
+    name: 點滴椅的敘事
     classes: 19
     type: 202
     space: "8,4,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020164
+    description: 接下來的數小時，你的活動範圍都將被侷限在這張椅子上，可供你解讀的內容只剩下輸液袋、點滴速度和鄰座的隻言片語。
     code: 202412Activity_deco_08
     texture_type: "1"
     offset: "0.000,-0.188,0.000"
@@ -30786,13 +30786,13 @@
   }
   {
     id: 20165
-    name: furniture-10020165
+    name: 燼中火勳章
     classes: 19
     type: 302
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020165
+    description: 表彰該指揮官及其麾下的戰術人形在「卷積核」活動中的卓越戰績，「你走向死亡的國度，在灰燼中尋找火焰，在世界的盡頭尋找開端。」
     code: 202412Activity_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -46838,14 +46838,104 @@
     rotate: "3"
   }
   {
-    id: 311107
-    name: furniture-10311107
+    id: 311101
+    name: Erma-聖夜之鑰
     classes: 300
     type: 303
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
-    description: furniture-20311107
+    description: Erma的海報
+    code: poster_Christmas2024_Erma
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311102
+    name: M99-遙仰月華
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M99的海報
+    code: poster_Christmas2024_M99
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311103
+    name: MP7-冬鹿特遣
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MP7的海報
+    code: poster_Christmas2024_MP7
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311104
+    name: P50-星光，於絲緞搖曳
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: P50的海報
+    code: poster_Christmas2024_P50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311105
+    name: EM-2-暖藏醇香
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: EM-2的海報
+    code: poster_Christmas2024_EM2
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311106
+    name: 隼-霜鈴響叮噹
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 隼的海報
+    code: poster_Christmas2024_Falcon
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311107
+    name: M1911-甜心兔廚娘
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1911的海報。
     code: poster_Christmas2024_M1911
     texture_type: "1"
     sorting: "5"

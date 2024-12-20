@@ -1249,28 +1249,28 @@
   }
   {
     id: 246
-    name: enemy_illustration_skill-10000246
-    description: enemy_illustration_skill-20000246
+    name: 麻痺毒素
+    description: 每次攻擊會給目標留下麻痺毒素，降低其射速和移速，累計5層後額外造成高額傷害。
   }
   {
     id: 247
-    name: enemy_illustration_skill-10000247
-    description: enemy_illustration_skill-20000247
+    name: 超載
+    description: 每攻擊5次會發生一次超載，對隨機位置發射飛彈造成編制傷害。
   }
   {
     id: 248
-    name: enemy_illustration_skill-10000248
-    description: enemy_illustration_skill-20000248
+    name: 蓄電雷暴
+    description: 將積蓄的電能在自身周圍不斷甩出，對周邊單位造成多段傷害。超載次數越多，雷暴範圍越大。
   }
   {
     id: 249
-    name: enemy_illustration_skill-10000249
-    description: enemy_illustration_skill-20000249
+    name: 蓄電場
+    description: 在我方生命值上限最高的單位所在位置產生一個持續攻擊的蓄電場，打擊附近單位。
   }
   {
     id: 250
-    name: enemy_illustration_skill-10000250
-    description: enemy_illustration_skill-20000250
+    name: 纏繞鞭
+    description: 揮鞭對目標進行直線攻擊，並且會用電流纏繞住被命中的敵人。
   }
   {
     id: 999

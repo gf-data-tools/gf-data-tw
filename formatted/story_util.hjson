@@ -13603,262 +13603,260 @@
   {
     id: 1388
     mission_id: "11881"
-    description: story_util-10001388
     scripts: -52-e-4
     campaign: -52
-    title: story_util-20001388
+    title: 純真筆尖
     start: -52-e-4
   }
   {
     id: 1389
     mission_id: "11882"
-    description: story_util-10001389
     scripts: -52-e-5
     campaign: -52
-    title: story_util-20001389
+    title: 美夢捕網
     start: -52-e-5
   }
   {
     id: 1390
     mission_id: "11835"
-    description: story_util-10001390
+    description: 此時此刻，整座法蘭克福正在燃燒。
     scripts: -74-A-0
     campaign: -74
-    title: story_util-20001390
+    title: 燃燒的苦海
     start: -74-A-0
   }
   {
     id: 1391
     mission_id: "11838"
-    description: story_util-10001391
+    description: 突如其來的轟炸讓整座城市癱瘓，被困的指揮官向市民們伸出了援手。
     scripts: -74-A-2
     campaign: -74
-    title: story_util-20001391
+    title: 如焚風呼嘯
     start: -74-A-2
   }
   {
     id: 1392
     mission_id: "11839"
-    description: story_util-10001392
+    description: 拉普拉斯的遺言還回響在奈樂的耳邊，雙手沾滿鮮血的她卻又一次面臨困境。
     scripts: -74-A-4
     campaign: -74
-    title: story_util-20001392
+    title: 寂靜的褶皺
     start: -74-A-4
   }
   {
     id: 1393
     mission_id: "11840"
-    description: story_util-10001393
+    description: 為了這一刻，格羅斯已經等待了太久。
     scripts: -74-A-6
     campaign: -74
-    title: story_util-20001393
+    title: 徒然之路
     start: -74-A-6
   }
   {
     id: 1394
     mission_id: "11843"
-    description: story_util-10001394
+    description: 她撫摸著冰冷的培養艙，這誕生她的子宮，也終將成為她的墓穴。
     scripts: -74-A-8
     campaign: -74
-    title: story_util-20001394
+    title: 潰敗的悲傷騎士
     start: -74-A-8
   }
   {
     id: 1395
     mission_id: "11844"
-    description: story_util-10001395
+    description: 我要代替他，繼續看清這個血淋淋的世界。
     scripts: -74-A-10
     campaign: -74
-    title: story_util-20001395
+    title: 不會停歇的雨
     start: -74-A-10
   }
   {
     id: 1396
     mission_id: "11847"
-    description: story_util-10001396
+    description: 轟炸仍在繼續，沉悶的轟鳴像是永遠不會停下。
     scripts: -74-A-12
     campaign: -74
-    title: story_util-20001396
+    title: 為你舉起火把
     start: -74-A-12
   }
   {
     id: 1397
     mission_id: "11850"
-    description: story_util-10001397
+    description: 人既然活著，就總要做一點自己覺得非做不可的事情。
     scripts: -74-A-14
     campaign: -74
-    title: story_util-20001397
+    title: 被遺忘的誓言
     start: -74-A-14
   }
   {
     id: 1398
     mission_id: "11851"
-    description: story_util-10001398
+    description: 災難當前，總會有一些人站出來，擋在前方。
     scripts: -74-A-16
     campaign: -74
-    title: story_util-20001398
+    title: 通向新世界
     start: -74-A-16
   }
   {
     id: 1399
     mission_id: "11852"
-    description: story_util-10001399
+    description: 疲勞一天后，指揮官在夢中回到了多年前的那一天……
     scripts: -74-A-18
     campaign: -74
-    title: story_util-20001399
+    title: 長夜攪動著荒蕪
     start: -74-A-18
   }
   {
     id: 1400
     mission_id: "11855"
-    description: story_util-10001400
+    description: 沒人在意平民的死活，總得有個人站出來，做點什麼吧。這就是我拿起槍的意義。
     scripts: -74-A-20
     campaign: -74
-    title: story_util-20001400
+    title: 洞穿時光之牆
     start: -74-A-20
   }
   {
     id: 1401
     mission_id: "11856"
-    description: story_util-10001401
+    description: 我們能做的，不過洗一個人間的浴，接受自己的命運。行過去，做自己能做的事。
     scripts: -74-A-22
     campaign: -74
-    title: story_util-20001401
+    title: 岸邊的沙與海水
     start: -74-A-22
   }
   {
     id: 1402
     mission_id: "11857"
-    description: story_util-10001402
+    description: 如果有一天我死了，請為我在墓誌銘上寫一句——這裡埋著一個勇敢的人。
     scripts: -74-A-24
     campaign: -74
-    title: story_util-20001402
+    title: 一個勇敢的人
     start: -74-A-24
   }
   {
     id: 1403
     mission_id: "11860"
-    description: story_util-10001403
+    description: 一道尼德霍格協議，將停止IOP全部人形的運作，強制收回指揮權限。
     scripts: -74-A-26
     campaign: -74
-    title: story_util-20001403
+    title: 啃噬樹根的惡龍
     start: -74-A-26
   }
   {
     id: 1404
     mission_id: "11861"
-    description: story_util-10001404
+    description: 全世界都沉浸在羅聯成立的喜悅，奈樂卻注意到一則草案背後的陰謀……
     scripts: -74-A-28
     campaign: -74
-    title: story_util-20001404
+    title: 字句之外世界冰冷
     start: -74-A-28
   }
   {
     id: 1405
     mission_id: "11862"
-    description: story_util-10001405
+    description: 為了阻止瓦爾基麗計劃的成功，指揮官帶領著剩餘的人形們衝向了最後一台手術的所在地。
     scripts: -74-A-30
     campaign: -74
-    title: story_util-20001405
+    title: 紅色的穿透
     start: -74-A-30
   }
   {
     id: 1406
     mission_id: "11865"
-    description: story_util-10001406
+    description: 代號「安潔莉婭」的特工，在任何世界，任何選擇下，和你從始至終都是戰友。
     scripts: -74-A-32
     campaign: -74
-    title: story_util-20001406
+    title: 孤獨靈魂的禱告
     start: -74-A-32
   }
   {
     id: 1407
     mission_id: "11866"
-    description: story_util-10001407
+    description: 做出了勇敢選擇的奈樂遭到追捕，在外祖父最後的幫助下，她得以安全地走出險境。
     scripts: -74-A-34
     campaign: -74
-    title: story_util-20001407
+    title: 在荒涼世界燃燒的火
     start: -74-A-34
   }
   {
     id: 1408
     mission_id: "11867"
-    description: story_util-10001408
+    description: 恭喜你，也恭喜我，終於得到了一個結局。
     scripts: -74-A-36
     campaign: -74
-    title: story_util-20001408
+    title: 最後的落子
     start: -74-A-36
   }
   {
     id: 1409
     mission_id: "11868"
-    description: story_util-10001409
+    description: 指揮官，請允許我任性一次……這是我唯一的選擇……
     scripts: -74-A-38
     campaign: -74
-    title: story_util-20001409
+    title: 捍衛之歌
     start: -74-A-38
   }
   {
     id: 1410
     mission_id: "11837"
-    description: story_util-10001410
+    description: 新任務來了，黎明將要到來。
     scripts: -74-S-1
     campaign: -74
-    title: story_util-20001410
+    title: 你一生的故事Ⅰ
     start: -74-S-1
   }
   {
     id: 1411
     mission_id: "11842"
-    description: story_util-10001411
+    description: 一退再退，直到現在，我們已經沒有退路。
     scripts: -74-S-2
     campaign: -74
-    title: story_util-20001411
+    title: 你一生的故事Ⅱ
     start: -74-S-2
   }
   {
     id: 1412
     mission_id: "11846"
-    description: story_util-10001412
+    description: 這是天性，人類永遠不可能真正團結，真正團結的只有金錢。
     scripts: -74-S-3
     campaign: -74
-    title: story_util-20001412
+    title: 你一生的故事Ⅲ
     start: -74-S-3
   }
   {
     id: 1413
     mission_id: "11849"
-    description: story_util-10001413
+    description: 我們只是站在了不同的陣營裡，大家同樣熱愛祖國。
     scripts: -74-S-4
     campaign: -74
-    title: story_util-20001413
+    title: 你一生的故事Ⅳ
     start: -74-S-4
   }
   {
     id: 1414
     mission_id: "11854"
-    description: story_util-10001414
+    description: 這是拯救祖國的最後一次機會，我們要麼讓新蘇聯重生，要麼為新蘇聯殉葬。
     scripts: -74-S-5
     campaign: -74
-    title: story_util-20001414
+    title: 你一生的故事Ⅴ
     start: -74-S-5
   }
   {
     id: 1415
     mission_id: "11859"
-    description: story_util-10001415
+    description: 今天是我人生中最漫長的一場惡戰。而我可恥地活了下來。
     scripts: -74-S-6
     campaign: -74
-    title: story_util-20001415
+    title: 你一生的故事Ⅵ
     start: -74-S-6
   }
   {
     id: 1416
     mission_id: "11864"
-    description: story_util-10001416
+    description: 這是我們的祖國，這是我們的土地。
     scripts: -74-S-7
     campaign: -74
-    title: story_util-20001416
+    title: 你一生的故事Ⅶ
     start: -74-S-7
   }
 ]

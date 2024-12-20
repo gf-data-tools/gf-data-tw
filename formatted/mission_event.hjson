@@ -198,12 +198,9 @@
   }
   {
     id: 33
-    type: 1
+    type: 2
     mission_campaign: "-49"
     event_name: 一幣之遙
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2023-11-20 10:00:00
-    end_time: 2023-12-15 10:00:00
     init_mission_id: "10988"
   }
   {
@@ -417,9 +414,9 @@
     id: 61
     type: 1
     mission_campaign: "-74"
-    event_name: mission_event-10000061
+    event_name: 卷積核
     draw_event_id: "400,401,402,403,404"
-    start_time: 2024-12-20 10:00:00
+    start_time: 2024-12-16 10:00:00
     end_time: 2025-01-10 10:00:00
     init_mission_id: "11835"
     token_item_id: "100250"

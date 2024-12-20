@@ -9443,16 +9443,77 @@
     skin_source: 2
   }
   {
+    id: 11101
+    name: Erma-聖夜之鑰
+    fit_gun: 376
+    voice: 4
+    dialog: 昨晚我夢到一個閃閃發光的禮物盒，卻在打開的瞬間消散於虛空……希望它是那種，不會給人帶來沉重或痛苦的禮物。
+    order: 146
+    class_id: 108
+    skin_source: 2
+  }
+  {
+    id: 11102
+    name: M99-遙仰月華
+    fit_gun: 128
+    voice: 4
+    dialog: 長官！快看快看，我在月亮上捕捉到了聖誕老人的足跡！欸？您說那只是望遠鏡上的斑點？唔……好像有道理！
+    illustrator_cv: 小星,大久保瑠美,
+    order: 146
+    class_id: 108
+    skin_source: 2
+  }
+  {
+    id: 11103
+    name: MP7-冬鹿特遣
+    fit_gun: 28
+    voice: 4
+    dialog: 啊，「飼養員」，聖誕快樂。剛巧從聖誕樹上摘了些糖果，正打算派送給大家——給，您是我送達的「第一站」。
+    gift_position: "-117.7,-85.9"
+    order: 146
+    class_id: 108
+    skin_source: 1
+  }
+  {
+    id: 11104
+    name: P50-星光，於絲緞搖曳
+    fit_gun: 401
+    voice: 4
+    dialog: 把自己用絲帶綁起來，包裝成禮物什麼的……比起作為聖誕驚喜，應該更適合拿來迷惑對手吧？
+    order: 146
+    class_id: 108
+    skin_source: 2
+  }
+  {
+    id: 11105
+    name: EM-2-暖藏醇香
+    fit_gun: 262
+    voice: 4
+    dialog: 聽說您的聖誕晚宴還沒有安排，我準備了一瓶醇香的紅酒，還烤了些蔓越莓餅乾……指揮官，您會有興趣嗎？
+    order: 146
+    class_id: 108
+  }
+  {
+    id: 11106
+    name: 隼-霜鈴響叮噹
+    fit_gun: 256
+    voice: 4
+    dialog: 叮叮噹~叮叮噹~叮鈴響叮噹♪~很好很好，大家的節奏非常合拍哦！小羊羔，別只顧著看啦，快來和大家一起跳吧！
+    illustrator_cv: 脆片,大空直美,
+    order: 146
+    class_id: 108
+    skin_source: 2
+  }
+  {
     id: 11107
-    name: skin-10011107
+    name: M1911-甜心兔廚娘
     fit_gun: 2
     voice: 4
-    dialog: skin-20011107
-    note: skin-30011107
+    dialog: Darling，偷偷告訴你♪其實這塊蛋糕被我施下了墜入戀愛的魔法哦……嘻嘻，騙你的啦！是我許願Darling來年的每一天都能開心幸福！
     gift_position: "-105.7,46.8"
-    illustrator_cv: skin-40011107
-    order: 141
-    class_id: 106
+    illustrator_cv: Alize,松井惠理子,
+    order: 146
+    class_id: 108
   }
   {
     id: 30001
@@ -9659,13 +9720,12 @@
   }
   {
     id: 30025
-    name: skin-10030025
+    name: PK-夜雪巡弋
     fit_gun: 85
     voice: 4
     is_hidden: 1
-    dialog: skin-20030025
-    note: skin-30030025
-    illustrator_cv: skin-40030025
+    dialog: 聽說雪夜時會有巨獸出沒，困住每一位迷途的旅人。然而這條並不適用於我……因為我就是那個能為其套上韁繩的強者。
+    illustrator_cv: --,名塚佳織,
     order: 145
   }
   {

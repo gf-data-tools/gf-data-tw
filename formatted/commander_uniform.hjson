@@ -3729,8 +3729,8 @@
   }
   {
     id: 6133
-    name: commander_uniform-10006133
-    description: commander_uniform-20006133
+    name: 金星勳章
+    description: 在另一條世界線，格琳娜等到了你，克魯格為你佩戴上金星勳章，你回到了格里芬基地。
     code: Body
     icon: commander_6133_icon
     type: 3

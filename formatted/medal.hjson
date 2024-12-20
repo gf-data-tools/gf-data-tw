@@ -518,24 +518,24 @@
   }
   {
     id: 45
-    name: medal-10000045
+    name: 燼中火勳章
     order: 55
     evo_step: "1"
     appearance_id: "253"
     item_id: 144
-    medal_obtain: medal-20000045
+    medal_obtain: 授予在大型限時活動卷積核中完成所有戰役挑戰的指揮官。
     medal_color: "#ff0000"
     is_date: 2
     decorate_code: Logo_Events
   }
   {
     id: 46
-    name: medal-10000046
+    name: 火中金勳章
     order: 54
     evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
     appearance_id: "254,255,256,257,258,259,260,261,262,263,264,265"
     item_id: 145
-    medal_obtain: medal-20000046
+    medal_obtain: 授予在大型限時活動卷積核中，在積分模式「從潘洛斯階梯躍下」取得卓越成績的指揮官。
     medal_color: "#ff0000"
     is_date: 2
     decorate_code: Logo_Events

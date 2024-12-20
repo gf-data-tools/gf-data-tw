@@ -17550,13 +17550,12 @@
     mre: 1000
     part: 1000
     core: 5
-    title: achievement-10001228
-    content: achievement-20001228
+    title: 阿克索的光輝
+    content: 卷積核-戰鬥關4：摧毀所有伊阿索之匣
     type_sort: 100
     sort: 332
     icon_code: 12月隐藏1
     condition: 11848:9741405,11871:9741405,11876:9741405
-    commander_title: achievement-30001228
   }
   {
     identity: 1229
@@ -17568,12 +17567,11 @@
     mre: 1000
     part: 1000
     core: 5
-    title: achievement-10001229
-    content: achievement-20001229
+    title: 隱藏成就2
+    content: 完整瀏覽卷積核製作人員名單
     type_sort: 100
     sort: 333
     icon_code: 12月隐藏2
     condition: "11868"
-    commander_title: achievement-30001229
   }
 ]

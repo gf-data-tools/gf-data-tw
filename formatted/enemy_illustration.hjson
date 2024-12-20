@@ -5732,11 +5732,11 @@
   {
     sub_id: 248001
     id: 248
-    name: enemy_illustration-10248001
-    sub_name: enemy_illustration-50248001
+    name: 斯提克斯
+    sub_name: 斯提克斯
     type: 1
     code: StyxBoss
-    introduce: enemy_illustration-20248001
+    introduce: 妖冶美艷的外表下潛藏著掩飾不住的危險氣息，難以捉摸的鞭子軌跡正如毒舌的吐信……小心，你的氣息已被她捕捉。
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -5746,11 +5746,10 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30248001
+    counter: 情報不明,謹慎應對!
     character: "1001,216"
     enemy_skill: "246,247,248,249,250"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40248001
     spine_scale: "50,50,1"
   }
   {

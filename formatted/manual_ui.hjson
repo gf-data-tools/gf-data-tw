@@ -3134,17 +3134,17 @@
   {
     id: 660080
     code_a: datapatch
-    description_a: manual_ui-10660080
-    description_b: manual_ui-20660080
-    description_c: manual_ui-30660080
+    description_a: 格里芬
+    description_b: 空投補給
+    description_c: 拾取
     code_b: Console_Icon
   }
   {
     id: 669910
     code_a: Griffin
-    description_a: manual_ui-10669910
-    description_b: manual_ui-20669910
-    description_c: manual_ui-30669910
+    description_a: 格里芬
+    description_b: 躍遷
+    description_c: 啟動
     code_b: Console_Icon
     is_manual_target: 2
   }
