@@ -379,4 +379,22 @@
     group_skill: 2:1003903
     fit_gun: "20093"
   }
+  {
+    id: 43
+    name: 夢幻閃蝶
+    des: 為ZB-26量身訂製的套裝，夢幻般的裝備性能可以幫助她更好地去完成工作。
+    code: EgroupZB26
+    equip_unit: "321,433,0"
+    group_skill: 2:1004103
+    fit_gun: "307"
+  }
+  {
+    id: 44
+    name: 攻守易型
+    des: 為防衛者量身訂製的套裝，最好的防衛手段就是進攻！
+    code: EgroupColtDefender
+    equip_unit: "434,216,0"
+    group_skill: 2:1004203
+    fit_gun: "302"
+  }
 ]

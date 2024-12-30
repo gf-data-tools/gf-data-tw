@@ -1406,8 +1406,8 @@
     id: 108
     name: 鐵血工造終末核心
     type: 1
-    start_time: 2025-12-19 10:00:00
-    end_time: 2025-12-31 10:00:00
+    start_time: 2024-12-27 10:00:00
+    end_time: 2025-01-17 10:00:00
     tab_code: banner_collection47_s.jpg
     banner: banner_collection47_s.jpg
     refresh_rate: 259200
@@ -1419,8 +1419,8 @@
     id: 109
     name: SP5NANO區凜冽冰原
     type: 1
-    start_time: 2025-12-19 10:00:00
-    end_time: 2025-12-31 10:00:00
+    start_time: 2024-12-27 10:00:00
+    end_time: 2025-01-17 10:00:00
     tab_code: banner_collection47_s.jpg
     banner: banner_collection47_s.jpg
     refresh_rate: 259200

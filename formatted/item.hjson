@@ -12430,7 +12430,6 @@
     item_name: DP28-朝顏蔓
     introduction: DP28-朝顏蔓
     rank: 1
-    detail_introduction: item-30002234
   }
   {
     id: 2235
@@ -15998,6 +15997,70 @@
     rank: 1
   }
   {
+    id: 2631
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_SPAS15
+    item_name: SPAS-15-椒花典彩
+    introduction: SPAS-15-椒花典彩
+    rank: 1
+  }
+  {
+    id: 2632
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_Python
+    item_name: 蟒蛇-斬，鶴羽之舞
+    introduction: 蟒蛇-斬，鶴羽之舞
+    rank: 1
+  }
+  {
+    id: 2633
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_Savage99
+    item_name: Savage 99-春霞出遊記
+    introduction: Savage 99-春霞出遊記
+    rank: 1
+  }
+  {
+    id: 2634
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_Ithaca37
+    item_name: M37-伏見曦狐
+    introduction: M37-伏見曦狐
+    rank: 1
+  }
+  {
+    id: 2635
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_ZIP22
+    item_name: ZiP .22-朧霧香藹
+    introduction: ZiP .22-朧霧香藹
+    rank: 1
+  }
+  {
+    id: 2636
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_357
+    item_name: 阿斯特拉左輪-紅梅憐我意
+    introduction: 阿斯特拉左輪-紅梅憐我意
+    rank: 1
+  }
+  {
+    id: 2637
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_Type100_JP
+    item_name: item-10002637
+    introduction: item-20002637
+    rank: 1
+    detail_introduction: item-30002637
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -17610,6 +17673,15 @@
     id: 10722
     type: 18
     arg: "10722"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10723
+    type: 18
+    arg: "10723"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
@@ -20834,7 +20906,6 @@
     item_name: 仙靈舞曲
     introduction: 街區的燈火熄滅，歡慶的野獸們隨停息的音樂一同散去，只有守望黑夜的獨狼與對月祈禱的羔羊於此見證：那些比老街還要久遠的住民們從藏身的隱世角落中飛出，跳起那不知承載了多少歲月的微光之舞。
     rank: 1
-    detail_introduction: item-30130012
   }
   {
     id: 130013

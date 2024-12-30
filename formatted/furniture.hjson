@@ -46943,6 +46943,96 @@
     rotate: "3"
   }
   {
+    id: 311201
+    name: SPAS-15-椒花典彩
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SPAS-15的海報
+    code: poster_NewYear2025_SPAS15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311202
+    name: 蟒蛇-斬，鶴羽之舞
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 蟒蛇的海報
+    code: poster_NewYear2025_Python
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311203
+    name: Savage 99-春霞出遊記
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Savage 99的海報
+    code: poster_NewYear2025_Savage99
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311204
+    name: M37-伏見曦狐
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M37的海報
+    code: poster_NewYear2025_Ithaca37
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311205
+    name: ZiP .22-朧霧香藹
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ZiP的海報
+    code: poster_NewYear2025_ZIP22
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311206
+    name: 阿斯特拉左輪-紅梅憐我意
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 阿斯特拉左輪的海報
+    code: poster_NewYear2025_357
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 330001
     name: ST AR-15-午夏憩風
     classes: 300

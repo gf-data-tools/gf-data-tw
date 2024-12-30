@@ -60269,6 +60269,37 @@
     boss_available: 1
   }
   {
+    id: 9729
+    name: 菲德洛夫装备
+    conflict_type: 9729
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9730
+    name: 效果显示通用
+    conflict_type: 9730
+    max_tier: 8
+    type: 401
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 9731
+    name: 菲德洛夫免疫伤害
+    conflict_type: 9731
+    max_tier: 1
+    type: 402
+    duration_type: 1
+    duration: "150"
+    boss_available: 1
+    fix_damage: 1000002455
+  }
+  {
     id: 10000
     name: 主动技能用
     conflict_type: 101

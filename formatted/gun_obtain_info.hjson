@@ -1373,4 +1373,52 @@
     obtain_id: "3120"
     description: <卷積核>積分榜650000積分獎勵
   }
+  {
+    obtain_id: "3121"
+    description: 2025年1月簽到獎勵
+  }
+  {
+    obtain_id: "3122"
+    description: 2025年2月簽到獎勵
+  }
+  {
+    obtain_id: "3123"
+    description: 2025年3月簽到獎勵
+  }
+  {
+    obtain_id: "3124"
+    description: 2025年4月簽到獎勵
+  }
+  {
+    obtain_id: "3125"
+    description: 2025年5月簽到獎勵
+  }
+  {
+    obtain_id: "3126"
+    description: 2025年6月簽到獎勵
+  }
+  {
+    obtain_id: "3127"
+    description: 2025年7月簽到獎勵
+  }
+  {
+    obtain_id: "3128"
+    description: 2025年8月簽到獎勵
+  }
+  {
+    obtain_id: "3129"
+    description: 2025年9月簽到獎勵
+  }
+  {
+    obtain_id: "3130"
+    description: 2025年10月簽到獎勵
+  }
+  {
+    obtain_id: "3131"
+    description: 2025年11月簽到獎勵
+  }
+  {
+    obtain_id: "3132"
+    description: 2025年12月簽到獎勵
+  }
 ]

@@ -522,18 +522,6 @@ vehicle_component-10000024,戰術人型機甲
 vehicle_component-20000024,索敵範圍<search_range> 輕武器係數<l_weapon_ratio> 命中係數<hit_ratio> 射速係數<atk_speed_ratio> 裝填係數<reload_ratio> 精確係數<precision_ratio>
 vehicle_component-40000024,
 vehicle_component-50000024,組件包裝test1
-vehicle_component-10000101,塔奇克馬
-vehicle_component-20000101,重武器係數<h_weapon_ratio> 命中係數<hit_ratio> 射速係數<atk_speed_ratio> 裝填係數<reload_ratio> 精確係數<precision_ratio>
-vehicle_component-40000101,
-vehicle_component-50000101,
-vehicle_component-10000102,塔奇克馬
-vehicle_component-20000102,索敵範圍<search_range> 輕武器係數<l_weapon_ratio> 命中係數<hit_ratio> 射速係數<atk_speed_ratio> 裝填係數<reload_ratio> 精確係數<precision_ratio>
-vehicle_component-40000102,
-vehicle_component-50000102,
-vehicle_component-10000103,塔奇克馬
-vehicle_component-20000103,
-vehicle_component-40000103,
-vehicle_component-50000103,
 vehicle_component-10001130,車載霰彈槍
 vehicle_component-20001130,對最近的3個目標造成傷害有有概率擊退目標，5範圍內每有一組敵人傷害命中提升
 vehicle_component-40001130,
@@ -595,5 +583,14 @@ vehicle_component-20003134,被動：開場後獲得保護，受到的傷害最�
 vehicle_component-40003134,
 vehicle_component-50003134,
 vehicle_component-10000101,攻殼車
+vehicle_component-20000101,重武器係數<h_weapon_ratio> 命中係數<hit_ratio> 射速係數<atk_speed_ratio> 裝填係數<reload_ratio> 精確係數<precision_ratio>
+vehicle_component-40000101,
+vehicle_component-50000101,
 vehicle_component-10000102,攻殼車
+vehicle_component-20000102,索敵範圍<search_range> 輕武器係數<l_weapon_ratio> 命中係數<hit_ratio> 射速係數<atk_speed_ratio> 裝填係數<reload_ratio> 精確係數<precision_ratio>
+vehicle_component-40000102,
+vehicle_component-50000102,
 vehicle_component-10000103,攻殼車
+vehicle_component-20000103,
+vehicle_component-40000103,
+vehicle_component-50000103,
