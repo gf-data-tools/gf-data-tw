@@ -35995,6 +35995,7 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "987"
+    support_available: 1
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "25000,100;0,0;0,0;0,0;0,0"
     recommended_team_ids: "6,1"
@@ -36043,6 +36044,7 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "987"
+    support_available: 1
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "25000,100;0,0;0,0;0,0;0,0"
     recommended_team_ids: "1"
@@ -36091,6 +36093,7 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "989"
+    support_available: 1
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "25000,100;0,0;0,0;0,0;0,0"
     recommended_team_ids: "8,1,6"
@@ -36139,6 +36142,7 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "989"
+    support_available: 1
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "25000,100;0,0;0,0;0,0;0,0"
     recommended_team_ids: "6"

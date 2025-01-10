@@ -16767,6 +16767,614 @@
     gun_id: "250"
   }
   {
+    id: 2737
+    name: 2025一月簽到
+    gem: 90
+    equip_ids: "438"
+  }
+  {
+    id: 2738
+    name: prize-10002738
+    item_ids: 1500180-1
+    content: prize-20002738
+    icon: Bumdle_Coupons3
+  }
+  {
+    id: 2739
+    name: prize-10002739
+    item_ids: 1500181-1
+    content: prize-20002739
+    icon: Bumdle_Coupons2
+  }
+  {
+    id: 2740
+    name: prize-10002740
+    item_ids: 1500182-1
+    content: prize-20002740
+    icon: Bumdle_Coupons1
+  }
+  {
+    id: 2741
+    name: prize-10002741
+    item_ids: 1500183-1
+    content: prize-20002741
+    icon: Bumdle_Coupons3
+  }
+  {
+    id: 2742
+    name: prize-10002742
+    item_ids: 1500184-1
+    content: prize-20002742
+    icon: Bumdle_Coupons2
+  }
+  {
+    id: 2743
+    name: prize-10002743
+    item_ids: 1500185-1
+    content: prize-20002743
+    icon: Bumdle_Coupons1
+  }
+  {
+    id: 2744
+    name: prize-10002744
+    gem: 300
+    item_ids: 41-600,45-1000,506-1000
+    gift: 100003-10
+    content: prize-20002744
+    icon: Bumdle_dragon01
+  }
+  {
+    id: 2745
+    name: prize-10002745
+    item_ids: 7-4
+    gift: 100003-10
+    content: prize-20002745
+    icon: Bumdle_dragon02
+  }
+  {
+    id: 2746
+    name: prize-10002746
+    item_ids: 41-200,10603-30
+    gift: 100003-5
+    content: prize-20002746
+    icon: Bumdle_dragon05
+    bp_pay: 30
+  }
+  {
+    id: 2747
+    name: prize-10002747
+    gift: 8005-1
+    content: prize-20002747
+  }
+  {
+    id: 2748
+    name: prize-10002748
+    gift: 8006-1
+    content: prize-20002748
+  }
+  {
+    id: 2749
+    name: prize-10002749
+    gift: 8007-1
+    content: prize-20002749
+  }
+  {
+    id: 2750
+    name: prize-10002750
+    gift: 8008-1
+    content: prize-20002750
+  }
+  {
+    id: 2751
+    name: prize-10002751
+    gift: 7905-1
+    content: prize-20002751
+  }
+  {
+    id: 2752
+    name: prize-10002752
+    gift: 7906-1
+    content: prize-20002752
+  }
+  {
+    id: 2753
+    name: prize-10002753
+    gift: 7907-1
+    content: prize-20002753
+  }
+  {
+    id: 2754
+    name: prize-10002754
+    gift: 8106-1
+    content: prize-20002754
+  }
+  {
+    id: 2755
+    name: prize-10002755
+    gift: 8107-1
+    content: prize-20002755
+  }
+  {
+    id: 2756
+    name: prize-10002756
+    gift: 8108-1
+    content: prize-20002756
+  }
+  {
+    id: 2757
+    name: prize-10002757
+    gift: 8204-1
+    content: prize-20002757
+  }
+  {
+    id: 2758
+    name: prize-10002758
+    gift: 8205-1
+    content: prize-20002758
+  }
+  {
+    id: 2759
+    name: prize-10002759
+    gift: 8206-1
+    content: prize-20002759
+  }
+  {
+    id: 2760
+    name: prize-10002760
+    gift: 595-1
+    content: prize-20002760
+  }
+  {
+    id: 2761
+    name: prize-10002761
+    gift: 8304-1
+    content: prize-20002761
+  }
+  {
+    id: 2762
+    name: prize-10002762
+    gift: 8306-1
+    content: prize-20002762
+  }
+  {
+    id: 2763
+    name: prize-10002763
+    gift: 8309-1
+    content: prize-20002763
+  }
+  {
+    id: 2764
+    name: prize-10002764
+    gift: 8405-1
+    content: prize-20002764
+  }
+  {
+    id: 2765
+    name: prize-10002765
+    gift: 8406-1
+    content: prize-20002765
+  }
+  {
+    id: 2766
+    name: prize-10002766
+    gift: 8506-1
+    content: prize-20002766
+  }
+  {
+    id: 2767
+    name: prize-10002767
+    gift: 8507-1
+    content: prize-20002767
+  }
+  {
+    id: 2768
+    name: prize-10002768
+    gift: 8609-1
+    content: prize-20002768
+  }
+  {
+    id: 2769
+    name: prize-10002769
+    gift: 8612-1
+    content: prize-20002769
+  }
+  {
+    id: 2770
+    name: prize-10002770
+    gift: 8704-1
+    content: prize-20002770
+  }
+  {
+    id: 2771
+    name: prize-10002771
+    gift: 8705-1
+    content: prize-20002771
+  }
+  {
+    id: 2772
+    name: prize-10002772
+    gift: 8706-1
+    content: prize-20002772
+  }
+  {
+    id: 2773
+    name: prize-10002773
+    gift: 8805-1
+    content: prize-20002773
+  }
+  {
+    id: 2774
+    name: prize-10002774
+    gift: 8806-1
+    content: prize-20002774
+  }
+  {
+    id: 2775
+    name: prize-10002775
+    gift: 8807-1
+    content: prize-20002775
+  }
+  {
+    id: 2776
+    name: prize-10002776
+    gift: 8901-1
+    content: prize-20002776
+  }
+  {
+    id: 2777
+    name: prize-10002777
+    gift: 8902-1
+    content: prize-20002777
+  }
+  {
+    id: 2778
+    name: prize-10002778
+    gift: 8903-1
+    content: prize-20002778
+  }
+  {
+    id: 2779
+    name: prize-10002779
+    gift: 8904-1
+    content: prize-20002779
+  }
+  {
+    id: 2780
+    name: prize-10002780
+    gift: 8908-1
+    content: prize-20002780
+  }
+  {
+    id: 2781
+    name: prize-10002781
+    gift: 9005-1
+    content: prize-20002781
+  }
+  {
+    id: 2782
+    name: prize-10002782
+    gift: 9006-1
+    content: prize-20002782
+  }
+  {
+    id: 2783
+    name: prize-10002783
+    gift: 9007-1
+    content: prize-20002783
+  }
+  {
+    id: 2784
+    name: prize-10002784
+    gift: 9008-1
+    content: prize-20002784
+  }
+  {
+    id: 2785
+    name: prize-10002785
+    gift: 7903-1
+    content: prize-20002785
+  }
+  {
+    id: 2786
+    name: prize-10002786
+    gift: 7904-1
+    content: prize-20002786
+  }
+  {
+    id: 2787
+    name: prize-10002787
+    gift: 8001-1
+    content: prize-20002787
+  }
+  {
+    id: 2788
+    name: prize-10002788
+    gift: 8002-1
+    content: prize-20002788
+  }
+  {
+    id: 2789
+    name: prize-10002789
+    gift: 8004-1
+    content: prize-20002789
+  }
+  {
+    id: 2790
+    name: prize-10002790
+    gift: 8102-1
+    content: prize-20002790
+  }
+  {
+    id: 2791
+    name: prize-10002791
+    gift: 8103-1
+    content: prize-20002791
+  }
+  {
+    id: 2792
+    name: prize-10002792
+    gift: 8105-1
+    content: prize-20002792
+  }
+  {
+    id: 2793
+    name: prize-10002793
+    gift: 8201-1
+    content: prize-20002793
+  }
+  {
+    id: 2794
+    name: prize-10002794
+    gift: 8202-1
+    content: prize-20002794
+  }
+  {
+    id: 2795
+    name: prize-10002795
+    gift: 8302-1
+    content: prize-20002795
+  }
+  {
+    id: 2796
+    name: prize-10002796
+    gift: 8303-1
+    content: prize-20002796
+  }
+  {
+    id: 2797
+    name: prize-10002797
+    gift: 8305-1
+    content: prize-20002797
+  }
+  {
+    id: 2798
+    name: prize-10002798
+    gift: 8307-1
+    content: prize-20002798
+  }
+  {
+    id: 2799
+    name: prize-10002799
+    gift: 8402-1
+    content: prize-20002799
+  }
+  {
+    id: 2800
+    name: prize-10002800
+    gift: 8403-1
+    content: prize-20002800
+  }
+  {
+    id: 2801
+    name: prize-10002801
+    gift: 8404-1
+    content: prize-20002801
+  }
+  {
+    id: 2802
+    name: prize-10002802
+    gift: 8501-1
+    content: prize-20002802
+  }
+  {
+    id: 2803
+    name: prize-10002803
+    gift: 8503-1
+    content: prize-20002803
+  }
+  {
+    id: 2804
+    name: prize-10002804
+    gift: 8504-1
+    content: prize-20002804
+  }
+  {
+    id: 2805
+    name: prize-10002805
+    gift: 8505-1
+    content: prize-20002805
+  }
+  {
+    id: 2806
+    name: prize-10002806
+    gift: 8602-1
+    content: prize-20002806
+  }
+  {
+    id: 2807
+    name: prize-10002807
+    gift: 8603-1
+    content: prize-20002807
+  }
+  {
+    id: 2808
+    name: prize-10002808
+    gift: 8604-1
+    content: prize-20002808
+  }
+  {
+    id: 2809
+    name: prize-10002809
+    gift: 8605-1
+    content: prize-20002809
+  }
+  {
+    id: 2810
+    name: prize-10002810
+    gift: 8606-1
+    content: prize-20002810
+  }
+  {
+    id: 2811
+    name: prize-10002811
+    gift: 8607-1
+    content: prize-20002811
+  }
+  {
+    id: 2812
+    name: prize-10002812
+    gift: 8608-1
+    content: prize-20002812
+  }
+  {
+    id: 2813
+    name: prize-10002813
+    gift: 8702-1
+    content: prize-20002813
+  }
+  {
+    id: 2814
+    name: prize-10002814
+    gift: 8703-1
+    content: prize-20002814
+  }
+  {
+    id: 2815
+    name: prize-10002815
+    gift: 8802-1
+    content: prize-20002815
+  }
+  {
+    id: 2816
+    name: prize-10002816
+    gift: 8803-1
+    content: prize-20002816
+  }
+  {
+    id: 2817
+    name: prize-10002817
+    gift: 8804-1
+    content: prize-20002817
+  }
+  {
+    id: 2818
+    name: prize-10002818
+    gift: 8905-1
+    content: prize-20002818
+  }
+  {
+    id: 2819
+    name: prize-10002819
+    gift: 8906-1
+    content: prize-20002819
+  }
+  {
+    id: 2820
+    name: prize-10002820
+    gift: 9003-1
+    content: prize-20002820
+  }
+  {
+    id: 2821
+    name: prize-10002821
+    gift: 9004-1
+    content: prize-20002821
+  }
+  {
+    id: 2822
+    name: prize-10002822
+    gift: 7902-1
+    content: prize-20002822
+  }
+  {
+    id: 2823
+    name: prize-10002823
+    gift: 8003-1
+    content: prize-20002823
+  }
+  {
+    id: 2824
+    name: prize-10002824
+    gift: 8101-1
+    content: prize-20002824
+  }
+  {
+    id: 2825
+    name: prize-10002825
+    gift: 8203-1
+    content: prize-20002825
+  }
+  {
+    id: 2826
+    name: prize-10002826
+    gift: 8301-1
+    content: prize-20002826
+  }
+  {
+    id: 2827
+    name: prize-10002827
+    gift: 8401-1
+    content: prize-20002827
+  }
+  {
+    id: 2828
+    name: prize-10002828
+    gift: 8502-1
+    content: prize-20002828
+  }
+  {
+    id: 2829
+    name: prize-10002829
+    gift: 8601-1
+    content: prize-20002829
+  }
+  {
+    id: 2830
+    name: prize-10002830
+    gift: 8610-1
+    content: prize-20002830
+  }
+  {
+    id: 2831
+    name: prize-10002831
+    gift: 8701-1
+    content: prize-20002831
+  }
+  {
+    id: 2832
+    name: prize-10002832
+    gift: 8801-1
+    content: prize-20002832
+  }
+  {
+    id: 2833
+    name: prize-10002833
+    gift: 9001-1
+    content: prize-20002833
+  }
+  {
+    id: 2834
+    name: prize-10002834
+    gift: 6608-1
+    content: prize-20002834
+  }
+  {
+    id: 2835
+    name: prize-10002835
+    gift: 7301-1
+    content: prize-20002835
+  }
+  {
     id: 3001
     name: 柯爾特左輪
     item_ids: 1318-1
