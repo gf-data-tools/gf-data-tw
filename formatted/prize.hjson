@@ -14703,97 +14703,97 @@
   {
     id: 2335
     name: 錯構之泉6+a
-    item_ids: 100214-6,100212-1
+    item_ids: 100256-6,100254-1
   }
   {
     id: 2336
     name: 錯構之泉8+a
-    item_ids: 100214-8,100212-1
+    item_ids: 100256-8,100254-1
   }
   {
     id: 2337
     name: 錯構之泉8+2a
-    item_ids: 100214-8,100212-2
+    item_ids: 100256-8,100254-2
   }
   {
     id: 2338
     name: 錯構之泉10+b
-    item_ids: 100214-10,100213-1
+    item_ids: 100256-10,100255-1
   }
   {
     id: 2339
     name: 錯構之泉10+2a
-    item_ids: 100214-10,100212-2
+    item_ids: 100256-10,100254-2
   }
   {
     id: 2340
     name: 錯構之泉10+a+b
-    item_ids: 100214-10,100212-1,100213-1
+    item_ids: 100256-10,100254-1,100255-1
   }
   {
     id: 2341
     name: 錯構之泉12+b
-    item_ids: 100214-12,100213-1
+    item_ids: 100256-12,100255-1
   }
   {
     id: 2342
     name: 錯構之泉12+2b
-    item_ids: 100214-12,100213-2
+    item_ids: 100256-12,100255-2
   }
   {
     id: 2343
     name: 錯構之泉15+2b
-    item_ids: 100214-15,100213-2
+    item_ids: 100256-15,100255-2
   }
   {
     id: 2344
     name: 錯構之泉15+2a+2b
-    item_ids: 100214-15,100212-2,100213-2
+    item_ids: 100256-15,100254-2,100255-2
   }
   {
     id: 2345
     name: 錯構之泉6
-    item_ids: 100214-6
+    item_ids: 100256-6
   }
   {
     id: 2346
     name: 錯構之泉8
-    item_ids: 100214-8
+    item_ids: 100256-8
   }
   {
     id: 2347
     name: 錯構之泉10
-    item_ids: 100214-10
+    item_ids: 100256-10
   }
   {
     id: 2348
     name: 錯構之泉12
-    item_ids: 100214-12
+    item_ids: 100256-12
   }
   {
     id: 2349
     name: 錯構之泉15
-    item_ids: 100214-15
+    item_ids: 100256-15
   }
   {
     id: 2350
     name: 錯構之泉a
-    item_ids: 100212-1
+    item_ids: 100254-1
   }
   {
     id: 2351
     name: 錯構之泉b
-    item_ids: 100213-1
+    item_ids: 100255-1
   }
   {
     id: 2352
     name: 錯構之泉2a
-    item_ids: 100212-2
+    item_ids: 100254-2
   }
   {
     id: 2353
     name: 錯構之泉2b
-    item_ids: 100213-2
+    item_ids: 100255-2
   }
   {
     id: 2354
@@ -16774,605 +16774,513 @@
   }
   {
     id: 2738
-    name: prize-10002738
+    name: 珍藏裝扮券·壹
     item_ids: 1500180-1
-    content: prize-20002738
     icon: Bumdle_Coupons3
   }
   {
     id: 2739
-    name: prize-10002739
+    name: 尊享裝扮券·壹
     item_ids: 1500181-1
-    content: prize-20002739
     icon: Bumdle_Coupons2
   }
   {
     id: 2740
-    name: prize-10002740
+    name: 致臻裝扮券·壹
     item_ids: 1500182-1
-    content: prize-20002740
     icon: Bumdle_Coupons1
   }
   {
     id: 2741
-    name: prize-10002741
+    name: 珍藏裝扮券·貳
     item_ids: 1500183-1
-    content: prize-20002741
-    icon: Bumdle_Coupons3
+    icon: Bumdle_CouponsNew1
   }
   {
     id: 2742
-    name: prize-10002742
+    name: 尊享裝扮券·貳
     item_ids: 1500184-1
-    content: prize-20002742
-    icon: Bumdle_Coupons2
+    icon: Bumdle_CouponsNew2
   }
   {
     id: 2743
-    name: prize-10002743
+    name: 致臻裝扮券·貳
     item_ids: 1500185-1
-    content: prize-20002743
-    icon: Bumdle_Coupons1
+    icon: Bumdle_CouponsNew3
   }
   {
     id: 2744
-    name: prize-10002744
+    name: 蛇年賀歲禮包
     gem: 300
     item_ids: 41-600,45-1000,506-1000
     gift: 100003-10
-    content: prize-20002744
-    icon: Bumdle_dragon01
+    icon: Bumdle_Snake3
   }
   {
     id: 2745
-    name: prize-10002745
+    name: 蛇年迎新禮包
     item_ids: 7-4
     gift: 100003-10
-    content: prize-20002745
-    icon: Bumdle_dragon02
+    icon: Bumdle_Snake2
   }
   {
     id: 2746
-    name: prize-10002746
+    name: 蛇年辭舊禮包
     item_ids: 41-200,10603-30
     gift: 100003-5
-    content: prize-20002746
-    icon: Bumdle_dragon05
+    icon: Bumdle_Snake1
     bp_pay: 30
   }
   {
     id: 2747
-    name: prize-10002747
+    name: Rex zero 1-滿庭芳
     gift: 8005-1
-    content: prize-20002747
   }
   {
     id: 2748
-    name: prize-10002748
+    name: 塔布克-福雙至
     gift: 8006-1
-    content: prize-20002748
   }
   {
     id: 2749
-    name: prize-10002749
+    name: APC556-木蘭謠
     gift: 8007-1
-    content: prize-20002749
   }
   {
     id: 2750
-    name: prize-10002750
+    name: DP28-朝顏蔓
     gift: 8008-1
-    content: prize-20002750
   }
   {
     id: 2751
-    name: prize-10002751
+    name: PPD-40-悠然見黛山
     gift: 7905-1
-    content: prize-20002751
   }
   {
     id: 2752
-    name: prize-10002752
+    name: OTs-39-幻畫杏桃
     gift: 7906-1
-    content: prize-20002752
   }
   {
     id: 2753
-    name: prize-10002753
+    name: 微型烏茲-新橙剪影
     gift: 7907-1
-    content: prize-20002753
   }
   {
     id: 2754
-    name: prize-10002754
+    name: TAR-21-迷途三月兔
     gift: 8106-1
-    content: prize-20002754
   }
   {
     id: 2755
-    name: prize-10002755
+    name: 阿斯特拉左輪-熏風蝶影
     gift: 8107-1
-    content: prize-20002755
   }
   {
     id: 2756
-    name: prize-10002756
+    name: MP-443-塵間心願
     gift: 8108-1
-    content: prize-20002756
   }
   {
     id: 2757
-    name: prize-10002757
+    name: PTRD-鴿血紅渦流
     gift: 8204-1
-    content: prize-20002757
   }
   {
     id: 2758
-    name: prize-10002758
+    name: TS12-紅髮的海上魔王
     gift: 8205-1
-    content: prize-20002758
   }
   {
     id: 2759
-    name: prize-10002759
+    name: MP41-最後的私掠者
     gift: 8206-1
-    content: prize-20002759
   }
   {
     id: 2760
-    name: prize-10002760
+    name: 解放者-鎏金收藏家
     gift: 595-1
-    content: prize-20002760
   }
   {
     id: 2761
-    name: prize-10002761
+    name: 9A-91-追藏的秘密
     gift: 8304-1
-    content: prize-20002761
   }
   {
     id: 2762
-    name: prize-10002762
+    name: Mk48-夜宴捕手
     gift: 8306-1
-    content: prize-20002762
   }
   {
     id: 2763
-    name: prize-10002763
+    name: M1加蘭德-耽溺星光
     gift: 8309-1
-    content: prize-20002763
   }
   {
     id: 2764
-    name: prize-10002764
+    name: C96-偷心魔術師
     gift: 8405-1
-    content: prize-20002764
   }
   {
     id: 2765
-    name: prize-10002765
+    name: M1911-錫兵奇妙日
     gift: 8406-1
-    content: prize-20002765
   }
   {
     id: 2766
-    name: prize-10002766
+    name: Super-Shorty-踏浪小墨燕
     gift: 8506-1
-    content: prize-20002766
   }
   {
     id: 2767
-    name: prize-10002767
+    name: 64式-背鰭麗影
     gift: 8507-1
-    content: prize-20002767
   }
   {
     id: 2768
-    name: prize-10002768
+    name: G36-摩卡合夥人
     gift: 8609-1
-    content: prize-20002768
   }
   {
     id: 2769
-    name: prize-10002769
+    name: StG44-神探特助
     gift: 8612-1
-    content: prize-20002769
   }
   {
     id: 2770
-    name: prize-10002770
+    name: G28-花與風的詩
     gift: 8704-1
-    content: prize-20002770
   }
   {
     id: 2771
-    name: prize-10002771
+    name: M14-曳雲霞旋舞時
     gift: 8705-1
-    content: prize-20002771
   }
   {
     id: 2772
-    name: prize-10002772
+    name: RMB-93-杯酒繾綣的吻
     gift: 8706-1
-    content: prize-20002772
   }
   {
     id: 2773
-    name: prize-10002773
+    name: 斯捷奇金-女巫藥水熱賣中
     gift: 8805-1
-    content: prize-20002773
   }
   {
     id: 2774
-    name: prize-10002774
+    name: 四式-魔法師的構想世界
     gift: 8806-1
-    content: prize-20002774
   }
   {
     id: 2775
-    name: prize-10002775
+    name: 微型烏茲-寒鴉鳴泣時
     gift: 8807-1
-    content: prize-20002775
   }
   {
     id: 2776
-    name: prize-10002776
+    name: M4A1-絲絨兔果茶
     gift: 8901-1
-    content: prize-20002776
   }
   {
     id: 2777
-    name: prize-10002777
+    name: M4 SOPMODII-疾行者百匯
     gift: 8902-1
-    content: prize-20002777
   }
   {
     id: 2778
-    name: prize-10002778
+    name: ST AR-15-貓頭鷹拿鐵
     gift: 8903-1
-    content: prize-20002778
   }
   {
     id: 2779
-    name: prize-10002779
+    name: M16A1-仙國精釀
     gift: 8904-1
-    content: prize-20002779
   }
   {
     id: 2780
-    name: prize-10002780
+    name: 隼-撫翎女侍
     gift: 8908-1
-    content: prize-20002780
   }
   {
     id: 2781
-    name: prize-10002781
+    name: Mk23-獻禮紅絲絨
     gift: 9005-1
-    content: prize-20002781
   }
   {
     id: 2782
-    name: prize-10002782
+    name: MP5-早安晨雀
     gift: 9006-1
-    content: prize-20002782
   }
   {
     id: 2783
-    name: prize-10002783
+    name: Zas M76-馴鹿軼事
     gift: 9007-1
-    content: prize-20002783
   }
   {
     id: 2784
-    name: prize-10002784
+    name: PPSh-41-純真花環
     gift: 9008-1
-    content: prize-20002784
   }
   {
     id: 2785
-    name: prize-10002785
+    name: SL8-青雪歸君
     gift: 7903-1
-    content: prize-20002785
   }
   {
     id: 2786
-    name: prize-10002786
+    name: FX-05-星野環遊記
     gift: 7904-1
-    content: prize-20002786
   }
   {
     id: 2787
-    name: prize-10002787
+    name: MK3A1-紅露醉
     gift: 8001-1
-    content: prize-20002787
   }
   {
     id: 2788
-    name: prize-10002788
+    name: Px4 風暴-金風嬈
     gift: 8002-1
-    content: prize-20002788
   }
   {
     id: 2789
-    name: prize-10002789
+    name: Savage 99-玉叢幽
     gift: 8004-1
-    content: prize-20002789
   }
   {
     id: 2790
-    name: prize-10002790
+    name: SP9-浮沫白雪
     gift: 8102-1
-    content: prize-20002790
   }
   {
     id: 2791
-    name: prize-10002791
+    name: AUG-藍色沉思曲
     gift: 8103-1
-    content: prize-20002791
   }
   {
     id: 2792
-    name: prize-10002792
+    name: 蒙德拉貢M1908-烏藤仙境
     gift: 8105-1
-    content: prize-20002792
   }
   {
     id: 2793
-    name: prize-10002793
+    name: Kord-寇德船長
     gift: 8201-1
-    content: prize-20002793
   }
   {
     id: 2794
-    name: prize-10002794
+    name: KH2002-黑色女爵士
     gift: 8202-1
-    content: prize-20002794
   }
   {
     id: 2795
-    name: prize-10002795
+    name: 沙漠之鷹-玫瑰鶯語
     gift: 8302-1
-    content: prize-20002795
   }
   {
     id: 2796
-    name: prize-10002796
+    name: HS.50-沉醉雪晶
     gift: 8303-1
-    content: prize-20002796
   }
   {
     id: 2797
-    name: prize-10002797
+    name: MG36-葛根薑騎士
     gift: 8305-1
-    content: prize-20002797
   }
   {
     id: 2798
-    name: prize-10002798
+    name: SR-2-浮沫終結者
     gift: 8307-1
-    content: prize-20002798
   }
   {
     id: 2799
-    name: prize-10002799
+    name: M240L-家有聖騎士
     gift: 8402-1
-    content: prize-20002799
   }
   {
     id: 2800
-    name: prize-10002800
+    name: AA-12-糖紙總動員
     gift: 8403-1
-    content: prize-20002800
   }
   {
     id: 2801
-    name: prize-10002801
+    name: PSG-1-喝啤酒的小犬星
     gift: 8404-1
-    content: prize-20002801
   }
   {
     id: 2802
-    name: prize-10002802
+    name: Lusa-濱海前鋒
     gift: 8501-1
-    content: prize-20002802
   }
   {
     id: 2803
-    name: prize-10002803
+    name: VP1915-弦歌晴空塔
     gift: 8503-1
-    content: prize-20002803
   }
   {
     id: 2804
-    name: prize-10002804
+    name: AR-18-路亞之餌
     gift: 8504-1
-    content: prize-20002804
   }
   {
     id: 2805
-    name: prize-10002805
+    name: LAMG-棕影輕搖
     gift: 8505-1
-    content: prize-20002805
   }
   {
     id: 2806
-    name: prize-10002806
+    name: LTLX7000-占線小姐
     gift: 8602-1
-    content: prize-20002806
   }
   {
     id: 2807
-    name: prize-10002807
+    name: 灰熊MkⅤ-勤區菁英
     gift: 8603-1
-    content: prize-20002807
   }
   {
     id: 2808
-    name: prize-10002808
+    name: Savage 99-繪夢日常
     gift: 8604-1
-    content: prize-20002808
   }
   {
     id: 2809
-    name: prize-10002809
+    name: AK-12-露契婭
     gift: 8605-1
-    content: prize-20002809
   }
   {
     id: 2810
-    name: prize-10002810
+    name: AN-94-安提婭
     gift: 8606-1
-    content: prize-20002810
   }
   {
     id: 2811
-    name: prize-10002811
+    name: AK-15-艾爾文
     gift: 8607-1
-    content: prize-20002811
   }
   {
     id: 2812
-    name: prize-10002812
+    name: RPK-16-蕾娜特
     gift: 8608-1
-    content: prize-20002812
   }
   {
     id: 2813
-    name: prize-10002813
+    name: QBU-191-為你而作的歌
     gift: 8702-1
-    content: prize-20002813
   }
   {
     id: 2814
-    name: prize-10002814
+    name: 劉氏步槍-東方有佳人
     gift: 8703-1
-    content: prize-20002814
   }
   {
     id: 2815
-    name: prize-10002815
+    name: NZ75-紅月夜行者
     gift: 8802-1
-    content: prize-20002815
   }
   {
     id: 2816
-    name: prize-10002816
+    name: 斯特林-透視（自畫像）
     gift: 8803-1
-    content: prize-20002816
   }
   {
     id: 2817
-    name: prize-10002817
+    name: 一〇〇式-計劃是糖果大豐收！
     gift: 8804-1
-    content: prize-20002817
   }
   {
     id: 2818
-    name: prize-10002818
+    name: RO635-櫻花霜奶昔
     gift: 8905-1
-    content: prize-20002818
   }
   {
     id: 2819
-    name: prize-10002819
+    name: A-545-銀鈴花騎士
     gift: 8906-1
-    content: prize-20002819
   }
   {
     id: 2820
-    name: prize-10002820
+    name: SPAS-15-茸白派對
     gift: 9003-1
-    content: prize-20002820
   }
   {
     id: 2821
-    name: prize-10002821
+    name: TKB-408-寫生平安果
     gift: 9004-1
-    content: prize-20002821
   }
   {
     id: 2822
-    name: prize-10002822
+    name: A-545-銀樹的致意
     gift: 7902-1
-    content: prize-20002822
   }
   {
     id: 2823
-    name: prize-10002823
+    name: Erma-暗香盈
     gift: 8003-1
-    content: prize-20002823
   }
   {
     id: 2824
-    name: prize-10002824
+    name: DP-12-霧敘十字星
     gift: 8101-1
-    content: prize-20002824
   }
   {
     id: 2825
-    name: prize-10002825
+    name: SIG MCX-克拉肯獵人
     gift: 8203-1
-    content: prize-20002825
   }
   {
     id: 2826
-    name: prize-10002826
+    name: Kar98K-轉角狐步舞
     gift: 8301-1
-    content: prize-20002826
   }
   {
     id: 2827
-    name: prize-10002827
+    name: G11-絨絨購物車
     gift: 8401-1
-    content: prize-20002827
   }
   {
     id: 2828
-    name: prize-10002828
+    name: HK433-青潭綺遇
     gift: 8502-1
-    content: prize-20002828
   }
   {
     id: 2829
-    name: prize-10002829
+    name: DP-12-危情使命
     gift: 8601-1
-    content: prize-20002829
   }
   {
     id: 2830
-    name: prize-10002830
+    name: 6P62-6P62的Offer
     gift: 8610-1
-    content: prize-20002830
   }
   {
     id: 2831
-    name: prize-10002831
+    name: PA-15-踏光而來的夜
     gift: 8701-1
-    content: prize-20002831
   }
   {
     id: 2832
-    name: prize-10002832
+    name: 蟒蛇-墓地麗影
     gift: 8801-1
-    content: prize-20002832
   }
   {
     id: 2833
-    name: prize-10002833
+    name: M26-MASS-星願嚮導
     gift: 9001-1
-    content: prize-20002833
   }
   {
     id: 2834
-    name: prize-10002834
+    name: FNC-聖夜精靈高高掛
     gift: 6608-1
-    content: prize-20002834
   }
   {
     id: 2835
-    name: prize-10002835
+    name: M6 ASW-狂海求生
     gift: 7301-1
-    content: prize-20002835
+  }
+  {
+    id: 2836
+    name: 2025二月簽到
+    gem: 90
+    equip_ids: "441"
   }
   {
     id: 3001
@@ -28032,6 +27940,22 @@
     id: 7792
     name: 日常玩法掉落
     item_ids: 10715-90
+  }
+  {
+    id: 7793
+    name: 2025春節簽到獎勵2
+    core: 50
+  }
+  {
+    id: 7794
+    name: 2025春節簽到獎勵3
+    item_ids: 10603-12
+    bp_pay: 12
+  }
+  {
+    id: 7795
+    name: 2025春節簽到獎勵6
+    commander_uniform: "5820"
   }
   {
     id: 8001
@@ -60693,6 +60617,21 @@
     id: 150136
     name: 日常玩法-第21期-5星人形專屬裝備自選池子
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399,321,406,332,409,339,414,347,419,350,422,354,427,357,433"
+  }
+  {
+    id: 150137
+    name: 日常玩法-第22期-五星裝備自選池子
+    equip_ids: "16,20,32,44,66,72,90"
+  }
+  {
+    id: 150138
+    name: 日常玩法-第22期-4星及以下人形專屬裝備自選池子
+    equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359,365,366,368,369,264,372,374,375,216,385,246,390,250,393,218,398,94,407,265,410,276,415,259,420,288,423,108,428,341,434,353,440"
+  }
+  {
+    id: 150139
+    name: 日常玩法-第22期-5星人形專屬裝備自選池子
+    equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399,321,406,332,409,339,414,347,419,350,422,354,427,357,433,364,439"
   }
   {
     id: 200001

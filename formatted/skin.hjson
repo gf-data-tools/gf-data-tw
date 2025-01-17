@@ -9531,6 +9531,7 @@
     fit_gun: 4
     voice: 4
     dialog: 哦？這把刀是給我的？開刃鋒利，握持也很順手，哼哼……我很滿意。既然如此，就用它為您獻上一曲正月之舞吧。
+    illustrator_cv: 八號地球,たかはし智秋,
     order: 147
     class_id: 109
     skin_source: 2

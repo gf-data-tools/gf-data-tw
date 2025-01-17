@@ -35374,6 +35374,232 @@
     voice_code: AGREE
   }
   {
+    id: 1120101
+    type: 101
+    motion_name: daiji_idle_01.mtn
+    probability: 1
+    name: 待機
+  }
+  {
+    id: 1120102
+    type: 102
+    motion_name: wait_1.mtn
+    hold_time: "13,15"
+    probability: 0.5
+    name: 特殊待機1
+    camera: 1
+  }
+  {
+    id: 1120103
+    type: 102
+    motion_name: wait_2.mtn
+    hold_time: "23,25"
+    probability: 0.5
+    name: 特殊待機2
+    camera: 1
+  }
+  {
+    id: 1120104
+    type: 200
+    motion_name: touch_1.mtn
+    touch_area: head
+    probability: 1
+    voice: GUN|SPAS15|FORMATION
+    text: GUN|SPAS15|FORMATION
+    name: 互動1
+    camera: 1
+    voice_code: FORMATION
+  }
+  {
+    id: 1120105
+    type: 200
+    motion_name: touch_2.mtn
+    touch_area: leg
+    probability: 1
+    voice: GUN|SPAS15|BREAK
+    text: GUN|SPAS15|BREAK
+    name: 互動2
+    camera: 1
+    delay: 1000
+    voice_code: BREAK
+  }
+  {
+    id: 1120106
+    type: 200
+    motion_name: touch_3.mtn
+    touch_area: body
+    probability: 1
+    voice: GUN|SPAS15|FIX
+    text: GUN|SPAS15|FIX
+    name: 互動3
+    camera: 1
+    voice_code: FIX
+  }
+  {
+    id: 1120107
+    type: 200
+    motion_name: touch_4.mtn
+    touch_area: body
+    probability: 1
+    voice: GUN|SPAS15|LOADING
+    text: GUN|SPAS15|LOADING
+    name: 互動4
+    camera: 1
+    voice_code: LOADING
+  }
+  {
+    id: 1120108
+    type: 200
+    motion_name: touch_5.mtn
+    touch_area: head
+    probability: 1
+    voice: GUN|SPAS15|MOOD1
+    name: 互動5
+    camera: 1
+    delay: 300
+    voice_code: MOOD1
+  }
+  {
+    id: 1120109
+    type: 200
+    motion_name: wedding_touch.mtn
+    touch_area: leg
+    probability: 1
+    voice: GUN|SPAS15|DIALOGUEWEDDING
+    text: GUN|SPAS15|DIALOGUEWEDDING
+    name: 結契後互動
+    camera: 1
+    voice_code: DIALOGUEWEDDING
+  }
+  {
+    id: 1120110
+    type: 1000
+    motion_name: login.mtn
+    probability: 1
+    voice: GUN|SPAS15|HELLO
+    text: GUN|SPAS15|HELLO
+    name: 上線響應
+    camera: 1
+    voice_code: HELLO
+  }
+  {
+    id: 1120111
+    type: 300
+    motion_name: shake.mtn
+    probability: 1
+    voice: GUN|SPAS15|LOWMOOD
+    name: 晃動響應
+    camera: 1
+    voice_code: LOWMOOD
+  }
+  {
+    id: 1120112
+    type: 500
+    motion_name: wedding.mtn
+    probability: 1
+    voice: GUN|SPAS15|SOULCONTRACT
+    text: GUN|SPAS15|SOULCONTRACT
+    name: 結契動作
+    camera: 1
+    voice_code: SOULCONTRACT
+  }
+  {
+    id: 1120113
+    type: 401
+    motion_name: daiji_idle_01.mtn
+    probability: 1
+    name: 待機
+    is_hurt: 1
+  }
+  {
+    id: 1120114
+    type: 402
+    motion_name: touch_1.mtn
+    touch_area: head
+    probability: 1
+    voice: GUN|SPAS15|BREAK
+    text: GUN|SPAS15|BREAK
+    name: 互動1
+    camera: 1
+    is_hurt: 1
+    delay: 3000
+    voice_code: BREAK
+  }
+  {
+    id: 1120115
+    type: 402
+    motion_name: touch_2.mtn
+    touch_area: body
+    probability: 1
+    voice: GUN|SPAS15|HELLO
+    text: GUN|SPAS15|HELLO
+    name: 互動2
+    camera: 1
+    is_hurt: 1
+    voice_code: HELLO
+  }
+  {
+    id: 1120116
+    type: 402
+    motion_name: touch_3.mtn
+    touch_area: body
+    probability: 1
+    voice: GUN|SPAS15|OPERATIONOVER
+    text: GUN|SPAS15|OPERATIONOVER
+    name: 互動3
+    camera: 1
+    is_hurt: 1
+    voice_code: OPERATIONOVER
+  }
+  {
+    id: 1120117
+    type: 402
+    motion_name: touch_4.mtn
+    touch_area: leg
+    probability: 1
+    voice: GUN|SPAS15|SKILL2
+    text: GUN|SPAS15|SKILL2
+    name: 互動4
+    camera: 1
+    is_hurt: 1
+    voice_code: SKILL2
+  }
+  {
+    id: 1120118
+    type: 402
+    motion_name: touch_5.mtn
+    touch_area: head
+    probability: 1
+    voice: GUN|SPAS15|FIX
+    text: GUN|SPAS15|FIX
+    name: 互動5
+    camera: 1
+    is_hurt: 1
+    voice_code: FIX
+  }
+  {
+    id: 1120119
+    type: 1001
+    motion_name: login.mtn
+    probability: 1
+    voice: GUN|SPAS15|LOADING
+    text: GUN|SPAS15|LOADING
+    name: 上線響應
+    camera: 1
+    is_hurt: 1
+    delay: 4000
+    voice_code: LOADING
+  }
+  {
+    id: 1120120
+    type: 301
+    motion_name: shake.mtn
+    probability: 1
+    name: 晃動響應
+    camera: 1
+    is_hurt: 1
+  }
+  {
     id: 5000101
     type: 101
     motion_name: daiji_idle_01.mtn
