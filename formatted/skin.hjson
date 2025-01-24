@@ -9579,6 +9579,88 @@
     skin_source: 1
   }
   {
+    id: 11301
+    name: 馬提尼亨利-朱燈垂
+    fit_gun: 402
+    voice: 4
+    dialog: 指揮官想約我逛夜市，還想吃蟹黃包子什麼的——全部都在我的預料之中！走啦走啦，我們現在就出發！
+    order: 148
+    class_id: 110
+    skin_source: 2
+  }
+  {
+    id: 11302
+    name: M950A-蒼竹吟
+    fit_gun: 97
+    voice: 4
+    dialog: 這身衣服配上竹林布景……會很奇怪嗎？雷電說，還挺適合我的來著……啊，你也這麼覺得？謝、謝謝誇獎……
+    illustrator_cv: 八號地球,古賀葵,
+    order: 148
+    class_id: 110
+    skin_source: 1
+  }
+  {
+    id: 11303
+    name: Lusa-黛葫提
+    fit_gun: 311
+    voice: 4
+    dialog: 呀呼，教練新年好！我正在給隊員們派發紅包……當然是用跑的了，體能訓練對於足球比賽也是很重要的喔！
+    order: 148
+    class_id: 110
+    skin_source: 1
+  }
+  {
+    id: 11304
+    name: 79式-離弦奏
+    fit_gun: 127
+    voice: 4
+    dialog: 我時常思索自己可以在新年伊始為您做些什麼，不知不覺就練習了很久……長官，希望這首曲子能給您帶來一絲慰藉。
+    order: 148
+    class_id: 110
+    skin_source: 2
+  }
+  {
+    id: 11305
+    name: C-MS-孟章彩
+    fit_gun: 213
+    voice: 4
+    dialog: 畫畫這種事情，果然還是大家共同完成的才有意義吧？……喂，你還愣著幹嘛，還不快過來陪我一起畫！
+    illustrator_cv: 小星,春野杏,
+    order: 148
+    class_id: 110
+    skin_source: 2
+  }
+  {
+    id: 11306
+    name: Ak 5-丹墨抄
+    fit_gun: 187
+    voice: 4
+    dialog: 碰巧撞見新年打折活動，所以我順道採購了一些紙墨和字畫回來——看樣子，您很中意這張「福」字呢。
+    illustrator_cv: 脆片,七瀬亜深,
+    order: 148
+    class_id: 110
+  }
+  {
+    id: 11307
+    name: A-91-芳醁醺
+    fit_gun: 227
+    voice: 4
+    dialog: 嗯哈~用罐子喝伏特加感覺更上頭了啊！……你說沒什麼區別？怎麼可能！再多喝兩罐你就懂啦~
+    order: 148
+    class_id: 110
+    skin_source: 2
+  }
+  {
+    id: 11308
+    name: M500-福箱至
+    fit_gun: 154
+    voice: 4
+    dialog: 開門開門，驚喜福箱送到嘍！……裡面沒有驚嚇！是驚喜啦——驚喜！
+    order: 148
+    class_id: 110
+    skin_source: 2
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     fit_gun: 57
@@ -9789,6 +9871,15 @@
     dialog: 聽說雪夜時會有巨獸出沒，困住每一位迷途的旅人。然而這條並不適用於我……因為我就是那個能為其套上韁繩的強者。
     illustrator_cv: --,名塚佳織,
     order: 145
+  }
+  {
+    id: 30026
+    name: CF05-沸騰的歲月
+    fit_gun: 295
+    voice: 4
+    dialog: 指揮官！快看，我終於找到個能吃旋風鑽麻辣鍋底的朋友了！雖然這位朋友不怎麼說話，但是吃相爽快得很！賬單？吃完再說咯~
+    order: 149
+    class_id: 111
   }
   {
     id: 50001

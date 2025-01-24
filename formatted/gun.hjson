@@ -1436,14 +1436,14 @@
     ratio_range: 85
     skill1: 116203
     normal_attack: 300102
-    passive_skill: "200421"
+    passive_skill: "200421,1004804,1004805,1004806,1004807"
     effect_grid_center: 13
     effect_guntype: "4"
     effect_grid_pos: "7,9"
     effect_grid_effect: "1,12;4,15"
     type_equip1: 3;9,10,20
     type_equip2: 2;6
-    type_equip3: 1;1,2,3,4,13
+    type_equip3: 1;1,2,3,4,13,18
     ai: 16
     launch_time: 2016-05-20 00:00:00
     obtain_ids: "1,2"
@@ -8964,7 +8964,7 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100097
-    show_damage_skin: ",0,702,808,2303,30014,"
+    show_damage_skin: ",0,702,808,2303,30014,11302,"
     gun_tag_ids: "10101"
     atk_speed_max: 130
     ratio_rec: 110
@@ -11783,7 +11783,7 @@
     gun_detail_bg: nation_China
     org_id: 10203
     related_story_id: 100127
-    show_damage_skin: ",1402,3306,6904,0,"
+    show_damage_skin: ",1402,3306,6904,0,11304,"
     gun_tag_ids: "110,105"
     atk_speed_max: 135
     ratio_rec: 110
@@ -14078,7 +14078,7 @@
     gun_detail_bg: nation_US
     org_id: 10802
     related_story_id: 100154
-    show_damage_skin: ",3707,"
+    show_damage_skin: ",3707,11308,"
     gun_tag_ids: "108"
     atk_speed_max: 60
     ratio_rec: 120
@@ -16730,7 +16730,7 @@
     obtain_ids: "3"
     rank_display: 4
     org_id: 10303
-    show_damage_skin: ",5906,7704,4707,"
+    show_damage_skin: ",5906,7704,4707,11306,"
     gun_tag_ids: "108"
     atk_speed_max: 120
     ratio_rec: 105
@@ -18281,7 +18281,7 @@
     skill1: 118003
     normal_attack: 108502
     passive_skill: "108503,200404,200426,201438,201003,702028,118013,750342,750314,750315,702041,200488"
-    dynamic_passive_skill: "992496"
+    dynamic_passive_skill: "992496,992512,992535,992536"
     effect_grid_center: 14
     effect_guntype: "2"
     effect_grid_pos: "20,18,19"
@@ -18884,7 +18884,7 @@
     explore_tag: "39"
     org_id: 10203
     related_story_id: 100213
-    show_damage_skin: ",0,3503,2205,6403,"
+    show_damage_skin: ",0,3503,2205,6403,11305,"
     gun_tag_ids: "125,115"
     atk_speed_max: 135
     ratio_rec: 105
@@ -19917,7 +19917,7 @@
     gun_detail_bg: nation_Russia
     org_id: 10802
     related_story_id: 100227
-    show_damage_skin: ",4403,0,"
+    show_damage_skin: ",4403,0,11307,"
     gun_tag_ids: "121,153"
     atk_speed_max: 120
     ratio_rec: 102
@@ -24929,7 +24929,7 @@
     gun_detail_bg: nation_China
     org_id: 10802
     related_story_id: 100295
-    show_damage_skin: ",5905,5104,"
+    show_damage_skin: ",5905,5104,30026,"
     gun_tag_ids: "129"
     atk_speed_max: 120
     ratio_rec: 108
@@ -25601,7 +25601,7 @@
     effect_grid_pos: "18,19,23"
     effect_grid_effect: "1,20;4,15"
     type_equip1: 1;1,2,3,4,13
-    type_equip2: 2;8
+    type_equip2: 2;8,19
     type_equip3: 3;9,10
     ai: 215
     launch_time: 2020-04-30 00:00:00
@@ -25911,7 +25911,7 @@
     launch_time: 2020-07-23 00:00:00
     rank_display: 5
     org_id: 10802
-    show_damage_skin: ",5902,0,6703,7802,8501,"
+    show_damage_skin: ",5902,0,6703,7802,8501,11303,"
     gun_tag_ids: "129,113,132"
     atk_speed_max: 135
     ratio_rec: 126
@@ -31663,7 +31663,7 @@
     obtain_ids: "1,2"
     rank_display: 5
     org_id: 10501
-    show_damage_skin: ",0,30023,"
+    show_damage_skin: ",0,30023,11301,"
     gun_tag_ids: "108,103"
     atk_speed_max: 125
     ratio_rec: 100
@@ -40463,14 +40463,14 @@
     skill1: 740040
     skill2: 740041
     normal_attack: 300101
-    passive_skill: "740044,200427,756161"
+    passive_skill: "740044,200427,756161,1004904"
     dynamic_passive_skill: "740042,740061"
     effect_grid_center: 13
     effect_grid_pos: "7,8,9,12,14,17,18,19"
     effect_grid_effect: "3,30;4,25"
     type_equip1: 1;4,13,16
     type_equip2: 2;6,19
-    type_equip3: 3;10
+    type_equip3: 3;10,20
     ai: 13
     launch_time: 2016-05-20 00:00:00
     obtain_ids: "35"
@@ -43782,7 +43782,7 @@
     explore_tag: "65,77"
     gun_detail_bg: nation_US
     related_story_id: 100097
-    show_damage_skin: ",702,808,2303,5031,30014,0,"
+    show_damage_skin: ",702,808,2303,5031,30014,0,11302,"
     gun_tag_ids: "103,111,137"
     atk_speed_max: 135
     ratio_rec: 110
@@ -44621,7 +44621,7 @@
     explore_tag: "53"
     gun_detail_bg: nation_China
     related_story_id: 100127
-    show_damage_skin: ",0,1402,3306,6904,"
+    show_damage_skin: ",0,1402,3306,6904,11304,"
     gun_tag_ids: "110,105,104,113,108,10101"
     atk_speed_max: 150
     ratio_rec: 110
@@ -45067,7 +45067,7 @@
     prize_id: 3154
     gun_detail_bg: nation_US
     related_story_id: 100154
-    show_damage_skin: ",0,3707,"
+    show_damage_skin: ",0,3707,11308,"
     gun_tag_ids: "108,113,10102"
     atk_speed_max: 60
     ratio_rec: 120
@@ -45979,7 +45979,7 @@
     skill2: 992501
     normal_attack: 108502
     passive_skill: "108504,200404,200426,201438,201003,702028,118013,750342,750314,750315,702041,992497,108505,200488"
-    dynamic_passive_skill: "992496"
+    dynamic_passive_skill: "992496,992512,992535,992536"
     effect_grid_center: 14
     effect_guntype: "2"
     effect_grid_pos: "18,14,19,15,20"

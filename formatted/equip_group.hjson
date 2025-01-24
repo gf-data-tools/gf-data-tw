@@ -397,4 +397,22 @@
     group_skill: 2:1004203
     fit_gun: "302"
   }
+  {
+    id: 45
+    name: BOSS
+    des: 為湯姆森量身訂製的套裝，可以幫助她更好地恪守工會規矩，完成老闆的命令。
+    code: EgroupM1928A1
+    equip_unit: "236,0,439"
+    group_skill: 2:1004803
+    fit_gun: "16"
+  }
+  {
+    id: 46
+    name: 簡行節流
+    des: 為92式量身訂製的套裝，最好的防衛手段就是進攻！
+    code: Egroup92type
+    equip_unit: "0,296,440"
+    group_skill: 2:1004903
+    fit_gun: "20013"
+  }
 ]

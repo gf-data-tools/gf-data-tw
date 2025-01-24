@@ -12876,6 +12876,134 @@
     type_sort: 6
   }
   {
+    id: 11301
+    name: 馬提尼亨利-朱燈垂
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 402
+    skin: 11301
+    poster: 311301
+    code: gift_bundle_SpringFestival2025_MartiniHenry
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11302
+    name: M950A-蒼竹吟
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 97
+    skin: 11302
+    poster: 311302
+    code: gift_bundle_SpringFestival2025_M950A
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11303
+    name: Lusa-黛葫提
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 311
+    skin: 11303
+    poster: 311303
+    code: gift_bundle_SpringFestival2025_Lusa
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11304
+    name: 79式-離弦奏
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 127
+    skin: 11304
+    poster: 311304
+    code: gift_bundle_SpringFestival2025_79type
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11305
+    name: C-MS-孟章彩
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 213
+    skin: 11305
+    poster: 311305
+    code: gift_bundle_SpringFestival2025_CBJMS
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11306
+    name: Ak 5-丹墨抄
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 187
+    skin: 11306
+    poster: 311306
+    code: gift_bundle_SpringFestival2025_Ak5
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11307
+    name: A-91-芳醁醺
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 227
+    skin: 11307
+    poster: 311307
+    code: gift_bundle_SpringFestival2025_A91
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11308
+    name: M500-福箱至
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 154
+    skin: 11308
+    poster: 311308
+    code: gift_bundle_SpringFestival2025_M500
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     type: 2
@@ -13253,6 +13381,22 @@
     skin: 30025
     poster: 330025
     code: gift_bundle_BattlePass_PK
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 30026
+    name: CF05-沸騰的歲月
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 295
+    skin: 30026
+    poster: 330026
+    code: gift_bundle_BattlePass_06TypeSMG
     normal_description: 贈送獲得相應好感度
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。

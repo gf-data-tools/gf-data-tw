@@ -3739,6 +3739,20 @@
     color_icon_id: "960"
   }
   {
+    id: 6240
+    name: 蛇影權杖
+    description: 象徵著智慧與長壽的蛇盤旋在做工精美的權杖上，似乎寄託了對指揮官的美好期盼。
+    code: BodyAcco
+    icon: commander_6240_icon
+    type: 4
+    uniform_class: "62"
+    color_normal: Commander_6240_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.161,-0.137"
+    color_icon_id: "961"
+  }
+  {
     id: 9920
     name: 活力偽裝
     description: 永遠展現最好的我。

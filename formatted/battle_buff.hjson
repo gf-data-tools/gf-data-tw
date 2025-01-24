@@ -33343,6 +33343,16 @@
     boss_available: 1
   }
   {
+    id: 5298
+    name: AK12隐身标识
+    conflict_type: 5298
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+  }
+  {
     id: 5300
     name: SPAS12一技能触发
     conflict_type: 5300
@@ -60300,6 +60310,178 @@
     fix_damage: 1000002455
   }
   {
+    id: 9732
+    name: 汤姆森套装装备1
+    conflict_type: 9732
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9733
+    name: 汤姆森套装装备2
+    conflict_type: 9733
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9734
+    name: 汤姆森套装
+    conflict_type: 9734
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9735
+    name: 92式套装装备1
+    conflict_type: 9735
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9736
+    name: 92式套装装备2
+    conflict_type: 9736
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9737
+    name: 92式套装
+    conflict_type: 9737
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9738
+    name: 汤姆森套装缩减前置冷却
+    conflict_type: 9738
+    max_tier: 1
+    type: 129
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    cdr_number: "75"
+  }
+  {
+    id: 9739
+    name: 汤姆森套装触发
+    conflict_type: 9739
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+  }
+  {
+    id: 9740
+    name: 汤姆森套装监视被攻击
+    conflict_type: 9740
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    watch_id: 1101
+  }
+  {
+    id: 9741
+    name: 汤姆森套装被攻击计数
+    conflict_type: 9741
+    max_tier: 999
+    type: 500
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+  }
+  {
+    id: 9742
+    name: 汤姆森套装增伤触发
+    conflict_type: 9742
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9743
+    name: 汤姆森套装增伤
+    conflict_type: 9743
+    max_tier: 999
+    type: 801
+    duration_type: 1
+    duration: "240"
+    boss_available: 1
+    pow_number: "1"
+  }
+  {
+    id: 9744
+    name: 92式套装提升暴击伤害
+    conflict_type: 9744
+    max_tier: 1
+    type: 112
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    critical_damage_number: "115"
+  }
+  {
+    id: 9745
+    name: 92式套装易伤
+    conflict_type: 9745
+    max_tier: 1
+    type: 110
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    damage_reduce_number: "120"
+  }
+  {
+    id: 9746
+    name: AK-阿尔法装备
+    conflict_type: 9746
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9747
+    name: AK-阿尔法专属火力提升
+    description: 火力上升
+    conflict_type: 9747
+    max_tier: 5
+    type: 101
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    pow_number: *201
+    trigger_creation_id: "201"
+    is_form_play: 1
+    buff_animation: YellowFlash
+    buff_description: PowBuffText
+    buff_sp_attributes: "1"
+  }
+  {
     id: 10000
     name: 主动技能用
     conflict_type: 101
@@ -62720,6 +62902,15 @@
     duration_type: 1
     duration: "9999"
     boss_available: 1
+  }
+  {
+    id: 71201
+    name: 噩梦标记人数计数-AK12隐身
+    conflict_type: 71201
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: *101
   }
   {
     id: 72001
@@ -66854,6 +67045,28 @@
     duration: "-1"
     boss_available: 1
     trigger_creation_id: "426810"
+  }
+  {
+    id: 529801
+    name: AK12监视离场
+    conflict_type: 529801
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+    watch_id: 4007
+  }
+  {
+    id: 529802
+    name: AK12监视死亡
+    conflict_type: 529802
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+    watch_id: 4008
   }
   {
     id: 533601

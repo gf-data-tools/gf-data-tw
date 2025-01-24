@@ -28271,6 +28271,231 @@
     interact_point_offset: *-0.613,2.874,-0.285
   }
   {
+    id: 11401
+    name: 寄望春櫻-落語繽紛
+    classes: 114
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 邁出步伐的下一刻，一陣微風迎面拂過。如霧般悉數紛飛的落櫻，掩蓋了灰黃草地的足跡。
+    code: NewYear2025_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11402
+    name: 寄望春櫻-澄空日和
+    classes: 114
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 碧波如洗的天色，一如你瞳眸中倒映而出的、一成不變的澄澈。
+    code: NewYear2025_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11403
+    name: 寄望春櫻-一樹繁櫻
+    classes: 114
+    type: 201
+    position: "0,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 聽聞櫻花飄落的速度，恰似心跳的間隙。如果用數字來衡量的話……大約是秒速五公分。
+    code: NewYear2025_deco_01_A,NewYear2025_deco_01_B,NewYear2025_deco_01_C,NewYear2025_deco_01_D,NewYear2025_deco_A
+    texture_type: "1,1,1,1,2"
+    sorting: "10,10,10,10,0"
+    offset: "0,-0.146,-0.031|0,4.338,1.001|4.608,4.338,1.001|4.608,-0.146,-0.031|0,2.398,0.553"
+    rotate: "2,2,2,2,2"
+  }
+  {
+    id: 11404
+    name: 寄望春櫻-和果鋪子
+    classes: 114
+    type: 201
+    position: "24,7"
+    space: "6,3,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 要來一串三色團子嗎？粉色代表春櫻，白色代表冬雪，綠色……代表接下來想要與你共度的夏天。
+    code: NewYear2025_deco_02
+    texture_type: "1"
+    sorting: "20"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "17"
+    interact_point_offset: *-0.350,0.285,-0.285
+  }
+  {
+    id: 11405
+    name: 寄望春櫻-第九年的追憶
+    classes: 114
+    type: 201
+    position: "7,13"
+    space: "4,1,1,1,1,0"
+    deco_rate: 950
+    decompose_gift: 100003
+    description: 「九年的春去秋來，還真是漫長」……你看著被細心裝點的照片牆，陷入了如夢似幻的回憶。
+    code: NewYear2025_deco_03
+    texture_type: "1"
+    offset: "0,-0.104,0"
+    rotate: "2"
+  }
+  {
+    id: 11406
+    name: 寄望春櫻-雨染碧塘
+    classes: 114
+    type: 201
+    position: "27,11"
+    space: "6,3,0,0,0,0"
+    deco_rate: 950
+    decompose_gift: 100003
+    description: 紛飛的花瓣緩緩飄落池水，泛起陣陣漣漪。一片一片，一圈一圈。
+    code: NewYear2025_deco_04
+    texture_type: "1"
+    sorting: "10"
+    offset: "0,-0.104,0"
+    rotate: "2"
+  }
+  {
+    id: 11407
+    name: 寄望春櫻-一樹紛櫻
+    classes: 114
+    type: 201
+    position: "32,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 聽聞櫻花飄落的速度，恰似心跳的間隙。如果用數字來衡量的話……大約是秒速五公分。
+    code: NewYear2025_deco_05_A,NewYear2025_deco_05_B,NewYear2025_deco_05_C,NewYear2025_deco_05_D,NewYear2025_deco_A
+    texture_type: "1,1,1,1,2"
+    sorting: "10,10,10,10,0"
+    offset: "-0.886,-0.156,-0.031|-0.886,4.327,1.001|3.721,4.327,1.001|3.721,-0.156,-0.031|-0.886,2.387,0.553"
+    rotate: "2,2,2,2,2"
+  }
+  {
+    id: 11408
+    name: 寄望春櫻-共賞春時
+    classes: 114
+    type: 201
+    position: "12,5"
+    space: "8,7,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 僅攜一方薄毯、一壺熱茶、三五知己，即可共賞春時——此情此景，又難得能有幾回呢？
+    code: NewYear2025_deco_06_A,NewYear2025_deco_06_B,NewYear2025_deco_06_C
+    texture_type: "1,1,1"
+    sorting: "0,10,10"
+    offset: "-0.146,-0.156,0|-1.157,0.083,0|0.980,0.083,0"
+    rotate: "2,2,2"
+    interact_point: "18,19"
+    interact_point_offset: *2.508,0.996,-0.285|*-3.063,0.996,-0.285
+  }
+  {
+    id: 11409
+    name: 寄望春櫻-品茗時分
+    classes: 114
+    type: 201
+    position: "1,3"
+    space: "8,7,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 終於有了可以一起賞櫻、一起品茶、一起傾訴心意的人……真是太好了。
+    code: NewYear2025_deco_07
+    texture_type: "1"
+    offset: "0,-0.313,0"
+    rotate: "2"
+    interact_point: "20"
+    interact_point_offset: *-1.167,0.000,-0.285
+  }
+  {
+    id: 11410
+    name: 寄望春櫻-花燈如夢
+    classes: 114
+    type: 201
+    position: "32,9"
+    space: "1,2,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 燈影與花影交織在一起，倒映的池水將這副畫面揉碎，宛如一幅幅流動的綺夢。
+    code: NewYear2025_deco_C
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    touch_area: "3,3,3"
+  }
+  {
+    id: 11411
+    name: 寄望春櫻-花見椿
+    classes: 114
+    type: 201
+    position: "9,2"
+    space: "3,2,1,1,1,0"
+    deco_rate: 950
+    decompose_gift: 100003
+    description: 印有櫻花祭圖樣的海報。即便無需如此張揚，春風中氤氳的芳香也會代為宣告。
+    code: NewYear2025_deco_08,NewYear2025_deco_08
+    texture_type: "1,1"
+    sorting: "0,10"
+    offset: "-0.521,0,0|0.104,0,0"
+    rotate: "2,2"
+  }
+  {
+    id: 11412
+    name: 寄望春櫻-駛向相遇
+    classes: 114
+    type: 201
+    position: "3,0"
+    space: "14,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 透過車窗的薄霧，遠遠望見站台邊駐足揮手的你。那一刻，我懂得了這趟旅途帶給我的意義。
+    code: NewYear2025_deco_09_A,NewYear2025_deco_09_B,NewYear2025_deco_B
+    texture_type: "1,1,2"
+    sorting: "0,0,10"
+    offset: "-0.085,-0.157,0|4.513,-0.157,0|0.886,1.376,0.349"
+    rotate: "2,2,2"
+  }
+  {
+    id: 11413
+    name: 寄望春櫻-優品鋪子
+    classes: 114
+    type: 201
+    position: "22,1"
+    space: "9,3,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 收下這串風鈴吧，當它叮咚作響的時候，便是微風攜來的、得以具象的思念。
+    code: NewYear2025_deco_10,NewYear2025_deco_D
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "0,-0.417,0|-0.782,1.001,0.315"
+    rotate: "2,2"
+  }
+  {
+    id: 11414
+    name: 寄望春櫻-元氣特飲
+    classes: 114
+    type: 201
+    position: "1,12"
+    space: "5,2,1,1,1,0"
+    deco_rate: 950
+    decompose_gift: 100003
+    description: 櫥窗裡擺滿了粉色包裝的汽水飲料，似乎是櫻花口味特供……你想像著那股奇妙的味道，不由打了個寒顫。
+    code: NewYear2025_deco_11
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
     id: 20000
     name: 名湯·拉王
     classes: 81
@@ -47033,6 +47258,126 @@
     rotate: "3"
   }
   {
+    id: 311301
+    name: 馬提尼亨利-朱燈垂
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 馬提尼亨利的海報
+    code: poster_SpringFestival2025_MartiniHenry
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311302
+    name: M950A-蒼竹吟
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M950A的海報
+    code: poster_SpringFestival2025_M950A
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311303
+    name: Lusa-黛葫提
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Lusa的海報
+    code: poster_SpringFestival2025_Lusa
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311304
+    name: 79式-離弦奏
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 79式的海報
+    code: poster_SpringFestival2025_79type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311305
+    name: C-MS-孟章彩
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: C-MS的海報
+    code: poster_SpringFestival2025_CBJMS
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311306
+    name: Ak 5-丹墨抄
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Ak 5的海報
+    code: poster_SpringFestival2025_Ak5
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311307
+    name: A-91-芳醁醺
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: A-91的海報
+    code: poster_SpringFestival2025_A91
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311308
+    name: M500-福箱至
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M500的海報
+    code: poster_SpringFestival2025_M500
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 330001
     name: ST AR-15-午夏憩風
     classes: 300
@@ -47387,6 +47732,21 @@
     decompose_gift: 100003
     description: PK的海報。
     code: poster_BattlePass_PK
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330026
+    name: CF05-沸騰的歲月
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: CF05的海報。
+    code: poster_BattlePass_06TypeSMG
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

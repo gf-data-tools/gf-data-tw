@@ -14357,10 +14357,9 @@
   }
   {
     id: 801106
-    type: 6
+    type: 18
     target: 1
-    parameter: "4"
-    buff_id: 712
+    parameter: "6051"
   }
   {
     id: 801108
@@ -15371,6 +15370,13 @@
     buff_id: 5292
   }
   {
+    id: 992512
+    type: 6
+    target: 1
+    parameter: "1"
+    buff_id: 5298
+  }
+  {
     id: 992513
     type: 18
     target: 1
@@ -16073,6 +16079,32 @@
     type: 18
     target: 1
     parameter: "9603"
+  }
+  {
+    id: 1004804
+    type: 18
+    target: 1
+    parameter: "9609"
+  }
+  {
+    id: 1004805
+    type: 6
+    target: 1
+    parameter: "1"
+    buff_id: 9734
+  }
+  {
+    id: 1004807
+    type: 6
+    target: 1
+    parameter: "1"
+    buff_id: 9742
+  }
+  {
+    id: 1004904
+    type: 18
+    target: 1
+    parameter: "9610"
   }
   {
     id: 7502461
@@ -24367,5 +24399,12 @@
     target: 1
     parameter: "3"
     buff_id: 9728
+  }
+  {
+    id: 100480701
+    type: 7
+    target: 1
+    parameter: "1"
+    buff_id: 9739
   }
 ]

@@ -615,6 +615,17 @@
     source_description: 2024十月簽到
   }
   {
+    id: 62
+    name: 靈韻蛇舞
+    description: 掃除舊歲，迎接新年，是時候拿起象徵新一年的權杖，在舞蹈中領悟生命律動。
+    group_id: "103"
+    code: commander_6240_icon
+    path: CLASS62
+    des_year: "2025"
+    source: 2
+    source_description: 韓台春節活動
+  }
+  {
     id: 99
     name: 謊言面具
     description: 埋藏我所思，塑化我所願

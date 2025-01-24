@@ -16061,6 +16061,132 @@
     detail_introduction: item-30002637
   }
   {
+    id: 2638
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_MartiniHenry
+    item_name: 馬提尼亨利-朱燈垂
+    introduction: 馬提尼亨利-朱燈垂
+    rank: 1
+  }
+  {
+    id: 2639
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_M950A
+    item_name: M950A-蒼竹吟
+    introduction: M950A-蒼竹吟
+    rank: 1
+  }
+  {
+    id: 2640
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_Lusa
+    item_name: Lusa-黛葫提
+    introduction: Lusa-黛葫提
+    rank: 1
+  }
+  {
+    id: 2641
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_79type
+    item_name: 79式-離弦奏
+    introduction: 79式-離弦奏
+    rank: 1
+  }
+  {
+    id: 2642
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_CBJMS
+    item_name: C-MS-孟章彩
+    introduction: C-MS-孟章彩
+    rank: 1
+  }
+  {
+    id: 2643
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_Ak5
+    item_name: Ak 5-丹墨抄
+    introduction: Ak 5-丹墨抄
+    rank: 1
+  }
+  {
+    id: 2644
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_A91
+    item_name: A-91-芳醁醺
+    introduction: A-91-芳醁醺
+    rank: 1
+  }
+  {
+    id: 2645
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_M500
+    item_name: M500-福箱至
+    introduction: M500-福箱至
+    rank: 1
+  }
+  {
+    id: 2646
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season18_1
+    item_name: 時空漣漪 · 代號拾陸：躍遷
+    introduction: 時空漣漪 · 代號拾陸：躍遷
+    rank: 1
+  }
+  {
+    id: 2647
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season18_2
+    item_name: 律動軌跡 · 代號拾陸：躍遷
+    introduction: 律動軌跡 · 代號拾陸：躍遷
+    rank: 1
+  }
+  {
+    id: 2648
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season18_3
+    item_name: 維度交織 · 代號拾陸：躍遷
+    introduction: 維度交織 · 代號拾陸：躍遷
+    rank: 1
+  }
+  {
+    id: 2649
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_06TypeSMG
+    item_name: CF05-沸騰的歲月
+    introduction: CF05-沸騰的歲月
+    rank: 1
+  }
+  {
+    id: 2650
+    type: 5
+    arg: "1"
+    code: card_BattlePass_CF05
+    item_name: 名片：最佳火鍋搭檔
+    introduction: 名片：最佳火鍋搭檔
+    rank: 1
+  }
+  {
+    id: 2651
+    type: 5
+    arg: "1"
+    code: profilePic_mask_NewYear2025_JP
+    item_name: 真核面具·新歲啟
+    introduction: 真核面具·新歲啟
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -17688,6 +17814,15 @@
     rank: 1
   }
   {
+    id: 10724
+    type: 18
+    arg: "10724"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"
@@ -17712,6 +17847,15 @@
     code: gift_bundle_BattlePass_PK
     item_name: PK-夜雪巡弋
     introduction: 聽說雪夜時會有巨獸出沒，困住每一位迷途的旅人。然而這條並不適用於我……因為我就是那個能為其套上韁繩的強者。
+    rank: 1
+  }
+  {
+    id: 30026
+    type: 1
+    arg: "30026"
+    code: gift_bundle_BattlePass_06TypeSMG
+    item_name: CF05-沸騰的歲月
+    introduction: 指揮官！快看，我終於找到個能吃旋風鑽麻辣鍋底的朋友了！雖然這位朋友不怎麼說話，但是吃相爽快得很！帳單？吃完再說囉~
     rank: 1
   }
   {
@@ -20074,6 +20218,15 @@
     code: core_mask_NewYear2025_JP
     item_name: 真核面具·新歲啟
     introduction: 真核面具·新歲啟
+    rank: 1
+  }
+  {
+    id: 100258
+    type: 4
+    arg: "100258"
+    code: Bumdle_2025NewYear_NA
+    item_name: 美服25新年紅包
+    introduction: 美服25新年紅包
     rank: 1
   }
   {
@@ -22632,6 +22785,22 @@
     rank: 1
   }
   {
+    id: 140051
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第26期前線協議
+    rank: 1
+  }
+  {
+    id: 140052
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第26期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -23092,6 +23261,15 @@
     code: profileFrame_BattlePass_PK
     item_name: 頭像框·極地獵影
     introduction: 頭像框·極地獵影
+    rank: 1
+  }
+  {
+    id: 200051
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_06TypeSMG
+    item_name: 頭像框·幸福，從舌尖蔓延
+    introduction: 頭像框·幸福，從舌尖蔓延
     rank: 1
   }
   {
@@ -25224,6 +25402,50 @@
     type_sort: 1
   }
   {
+    id: 1500186
+    type: 15
+    arg: "1500186"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-熱辣暖冬，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500187
+    type: 15
+    arg: "1500187"
+    code: package_choose
+    item_name: 彈匣類裝備自選包
+    introduction: 來自於前線協議-熱辣暖冬，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500188
+    type: 15
+    arg: "1500188"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-熱辣暖冬，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500189
+    type: 15
+    arg: "1500189"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-熱辣暖冬，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -25771,6 +25993,39 @@
     id: 1700048
     type: 15
     arg: "1700048"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700049
+    type: 15
+    arg: "1700049"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700050
+    type: 15
+    arg: "1700050"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700051
+    type: 15
+    arg: "1700051"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
