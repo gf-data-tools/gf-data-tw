@@ -17298,6 +17298,27 @@
     gun_id: "406"
   }
   {
+    id: 2840
+    name: prize-10002840
+    item_ids: 1500190-1
+    content: prize-20002840
+    icon: Bumdle_WhiteValentineCoupons1
+  }
+  {
+    id: 2841
+    name: prize-10002841
+    item_ids: 1500191-1
+    content: prize-20002841
+    icon: Bumdle_WhiteValentineCoupons2
+  }
+  {
+    id: 2842
+    name: prize-10002842
+    item_ids: 1500192-1
+    content: prize-20002842
+    icon: Bumdle_WhiteValentineCoupons3
+  }
+  {
     id: 3001
     name: 柯爾特左輪
     item_ids: 1318-1
