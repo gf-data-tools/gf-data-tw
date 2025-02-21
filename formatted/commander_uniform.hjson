@@ -3753,6 +3753,146 @@
     color_icon_id: "961"
   }
   {
+    id: 6311
+    name: 迎風徜徉
+    description: 把頭髮別到腦後，露出精心打理的眉毛和燈環。那個小圓圈可不會暴露你「不穩定」的狀況，畢竟你可是100%的人類……嗯，或許是80%？
+    code: Head1
+    icon: commander_6311_icon
+    type: 1
+    gender: 1
+    uniform_class: "63"
+    color_normal: Commander_6311_N
+    color_0: Commander_6311_0
+    color_1: Commander_6311_1
+    color_2: Commander_6311_2
+    color_3: Commander_6311_3
+    color_4: Commander_6311_4
+    color_icon_id: "962"
+  }
+  {
+    id: 6312
+    name: 逆風飛行
+    description: 露出額頭是什麼新的風尚嗎？我想主要是為了展示精緻的義體接縫。雖然最新技術足夠以假亂真，但如果不留接縫，別人怎麼知道你訂製了昂貴義體？
+    code: Head2
+    icon: commander_6312_icon
+    type: 1
+    gender: 2
+    uniform_class: "63"
+    color_normal: Commander_6312_N
+    color_0: Commander_6312_0
+    color_1: Commander_6312_1
+    color_2: Commander_6312_2
+    color_3: Commander_6312_3
+    color_4: Commander_6312_4
+    color_icon_id: "963"
+  }
+  {
+    id: 6320
+    name: 感知部件
+    description: 鋼鐵森林中最新潮也最可靠的科技部件，總是集探索照明、音樂播放、訊號入侵、環境勘察於一體……這種複合道具的價格？別問那麼多！
+    code: HeadAcco
+    icon: commander_6320_icon
+    type: 2
+    uniform_class: "63"
+    color_normal: Commander_6320_N
+    color_0: Commander_6320_0
+    color_1: Commander_6320_1
+    color_2: Commander_6320_2
+    color_3: Commander_6320_3
+    color_4: Commander_6320_4
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "-0.066,0.214"
+    color_icon_id: "964"
+  }
+  {
+    id: 6331
+    name: 賽博迷彩
+    description: 兜帽搭配防風外套的設計可以很好地展示運動風格，對待突如其來的暴雨也有轉圜餘地。作為城市漫步者，這樣的搭配就和豐富的配色一樣精妙。
+    code: Body1
+    icon: commander_6331_icon
+    type: 3
+    gender: 1
+    uniform_class: "63"
+    color_normal: Commander_6331_N
+    color_0: Commander_6331_0
+    color_1: Commander_6331_1
+    color_2: Commander_6331_2
+    color_3: Commander_6331_3
+    color_4: Commander_6331_4
+    color_icon_id: "965"
+  }
+  {
+    id: 6332
+    name: 疏水親膚
+    description: 外套裡的短上衣是行動靈活的象徵，在氣溫變化時穿脫外套即可實現體溫的恆定……你說體溫調節系統？那是最近不流行的配件！
+    code: Body2
+    icon: commander_6332_icon
+    type: 3
+    gender: 2
+    uniform_class: "63"
+    color_normal: Commander_6332_N
+    color_0: Commander_6332_0
+    color_1: Commander_6332_1
+    color_2: Commander_6332_2
+    color_3: Commander_6332_3
+    color_4: Commander_6332_4
+    color_icon_id: "966"
+  }
+  {
+    id: 6340
+    name: 行動部件
+    description: 出行道具需要好好挑選，這款色彩明艷輪廓方正而且自帶燈箱的背包就不錯！什麼？還有動能槍械和合金刀？啊哈哈……這種事就別在意啦。
+    code: BodyAcco
+    icon: commander_6340_icon
+    type: 4
+    uniform_class: "63"
+    color_normal: Commander_6340_N
+    color_0: Commander_6340_0
+    color_1: Commander_6340_1
+    color_2: Commander_6340_2
+    color_3: Commander_6340_3
+    color_4: Commander_6340_4
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "0.013,0.057"
+    color_icon_id: "967"
+  }
+  {
+    id: 6351
+    name: 抗寒強化
+    description: 雖然不知道最近的街頭小子們為什麼那麼愛穿九分運動褲，但無論什麼天氣都堅定地露腳脖子一定有它的道理。
+    code: Foot1
+    icon: commander_6351_icon
+    type: 5
+    gender: 1
+    uniform_class: "63"
+    color_normal: Commander_6351_N
+    color_0: Commander_6351_0
+    color_1: Commander_6351_1
+    color_2: Commander_6351_2
+    color_3: Commander_6351_3
+    color_4: Commander_6351_4
+    color_icon_id: "968"
+  }
+  {
+    id: 6352
+    name: 防曬強化
+    description: 豪華的腿部仿真皮膚不但可以均勻膚色，還有冬天保暖夏天防曬的效果！雖然貴一點，但這不正是都市帥潮需要的嗎？
+    code: Foot2
+    icon: commander_6352_icon
+    type: 5
+    gender: 2
+    uniform_class: "63"
+    color_normal: Commander_6352_N
+    color_0: Commander_6352_0
+    color_1: Commander_6352_1
+    color_2: Commander_6352_2
+    color_3: Commander_6352_3
+    color_4: Commander_6352_4
+    color_icon_id: "969"
+  }
+  {
     id: 9920
     name: 活力偽裝
     description: 永遠展現最好的我。

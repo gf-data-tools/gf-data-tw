@@ -626,6 +626,19 @@
     source_description: 韓台春節活動
   }
   {
+    id: 63
+    name: 未來前沿
+    description: 就這樣在街頭漫步嗎？當然可以。除了考慮極具科技感的時尚風向，還要記得應對多變的天氣……以及多帶點武器防身。
+    group_id: "104"
+    code: commander_6331_icon
+    bonus_plastic: "130025"
+    skill_id: 115
+    path: CLASS63
+    is_class: 1
+    des_year: "2025"
+    source: 2
+  }
+  {
     id: 99
     name: 謊言面具
     description: 埋藏我所思，塑化我所願

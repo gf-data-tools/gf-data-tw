@@ -17823,6 +17823,15 @@
     rank: 1
   }
   {
+    id: 10725
+    type: 18
+    arg: "10725"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"
@@ -20905,6 +20914,15 @@
     rank: 1
   }
   {
+    id: 110076
+    type: 4
+    arg: "110076"
+    code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -21203,6 +21221,15 @@
     code: Y_Z_zhihuiguan_baozhu
     item_name: 結彩雷動
     introduction: 俗話說爆竹聲聲除舊歲，用鞭炮慶祝新年的確很有年味，但在基地裡燃放鞭炮是誰的主意，誰就去解決那些被炮聲驚動的自動防禦機槍吧。
+    rank: 1
+  }
+  {
+    id: 130025
+    type: 12
+    arg: "130025"
+    code: Y_Z_zhihuiguan_huilu
+    item_name: 集成迴路
+    introduction: 你的駭客技術，你的義體驅動，你的作戰模組……一切的一切，都集中在這些小小的晶片裡。它能支持你走多遠？或許只有義體醫生知道了。
     rank: 1
   }
   {
@@ -25449,7 +25476,7 @@
     id: 1500190
     type: 15
     arg: "1500190"
-    code: Bumdle_CouponsNew1
+    code: Bumdle_WhiteValentineCoupons1
     item_name: item-11500190
     introduction: item-21500190
     rank: 1
@@ -25461,7 +25488,7 @@
     id: 1500191
     type: 15
     arg: "1500191"
-    code: Bumdle_CouponsNew2
+    code: Bumdle_WhiteValentineCoupons2
     item_name: item-11500191
     introduction: item-21500191
     rank: 1
@@ -25473,7 +25500,7 @@
     id: 1500192
     type: 15
     arg: "1500192"
-    code: Bumdle_CouponsNew3
+    code: Bumdle_WhiteValentineCoupons3
     item_name: item-11500192
     introduction: item-21500192
     rank: 1
@@ -26062,6 +26089,39 @@
     id: 1700051
     type: 15
     arg: "1700051"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700052
+    type: 15
+    arg: "1700052"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700053
+    type: 15
+    arg: "1700053"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700054
+    type: 15
+    arg: "1700054"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

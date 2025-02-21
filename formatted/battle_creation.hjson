@@ -51707,6 +51707,37 @@
     is_orb_effect: 1
   }
   {
+    id: 3801
+    name: MDR套装沉默特效
+    code: AQLD_debuff05
+    start_type: "3"
+    destination_type: "3"
+    is_form_offset: 1
+    is_form_offset_start: 1
+    is_tracing: 1
+    exist_duration: "150"
+    creation_type: 2
+    scale: "0.5,0.5,0.5"
+    is_die_delete: 1
+  }
+  {
+    id: 3802
+    name: M14套装子弹
+    code: bullet/bullet2
+    start_type: "1"
+    destination_type: "5"
+    is_form_offset: 1
+    is_form_offset_start: 1
+    route_type: 1
+    speed: 5000
+    effect_area: 1
+    hurt_id: "750"
+    is_form_play: 1
+    scale: "0.7,0.7"
+    sound_order: BT_rifle
+    is_orb_effect: 1
+  }
+  {
     id: 4000
     name: 白色boss普攻预警1
     start_type: "6"

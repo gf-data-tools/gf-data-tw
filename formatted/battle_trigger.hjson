@@ -16107,6 +16107,25 @@
     parameter: "9610"
   }
   {
+    id: 1005204
+    type: 18
+    target: 1
+    parameter: "9627"
+  }
+  {
+    id: 1005205
+    type: 6
+    target: 1
+    parameter: "1"
+    buff_id: 9752
+  }
+  {
+    id: 1005304
+    type: 18
+    target: 1
+    parameter: "9628"
+  }
+  {
     id: 7502461
     type: 6
     target: 1

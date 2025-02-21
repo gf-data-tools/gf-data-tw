@@ -1754,7 +1754,7 @@
   {
     item_id: 1500190
     type: 2
-    poster: PackageImage_3
+    poster: PackageImage_WhiteValentineCoupons1
     drop_package_id: 2556
     due_time: 2025/04/29  00:00:00
     due_prize_id: 7395
@@ -1763,7 +1763,7 @@
   {
     item_id: 1500191
     type: 2
-    poster: PackageImage_5
+    poster: PackageImage_WhiteValentineCoupons2
     drop_package_id: 2557
     due_time: 2025/04/29  00:00:00
     due_prize_id: 7396
@@ -1772,7 +1772,7 @@
   {
     item_id: 1500192
     type: 2
-    poster: PackageImage_8
+    poster: PackageImage_WhiteValentineCoupons3
     drop_package_id: 2558
     due_time: 2025/04/29  00:00:00
     due_prize_id: 7397
@@ -2183,6 +2183,30 @@
     type: 1
     prize_id: 150139
     due_time: 2025/03/21  00:00:00
+    due_prize_id: 140075
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700052
+    type: 1
+    prize_id: 150140
+    due_time: 2025/04/21  00:00:00
+    due_prize_id: 140073
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700053
+    type: 1
+    prize_id: 150141
+    due_time: 2025/04/21  00:00:00
+    due_prize_id: 140074
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700054
+    type: 1
+    prize_id: 150142
+    due_time: 2025/04/21  00:00:00
     due_prize_id: 140075
     present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
   }

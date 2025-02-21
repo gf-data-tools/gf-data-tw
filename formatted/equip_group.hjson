@@ -415,4 +415,22 @@
     group_skill: 2:1004903
     fit_gun: "20013"
   }
+  {
+    id: 47
+    name: 活網高手
+    des: 為MDR量身訂製的套裝，但願可以緩解一下每天高強度衝浪的暴躁感。
+    code: EgroupMDR
+    equip_unit: "175,0,442"
+    group_skill: 2:1005203
+    fit_gun: "215"
+  }
+  {
+    id: 48
+    name: 戰神本色
+    des: 為M14量身訂製的套裝，以現在的實力就算是和軍用武器比也有著絲毫不遜色的殺傷力。
+    code: EgroupM14
+    equip_unit: "0,129,443"
+    group_skill: 2:1005303
+    fit_gun: "20037"
+  }
 ]
