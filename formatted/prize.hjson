@@ -17299,24 +17299,27 @@
   }
   {
     id: 2840
-    name: prize-10002840
+    name: 珍藏裝扮券·白情
     item_ids: 1500190-1
-    content: prize-20002840
     icon: Bumdle_WhiteValentineCoupons1
   }
   {
     id: 2841
-    name: prize-10002841
+    name: 尊享裝扮券·白情
     item_ids: 1500191-1
-    content: prize-20002841
     icon: Bumdle_WhiteValentineCoupons2
   }
   {
     id: 2842
-    name: prize-10002842
+    name: 致臻裝扮券·白情
     item_ids: 1500192-1
-    content: prize-20002842
     icon: Bumdle_WhiteValentineCoupons3
+  }
+  {
+    id: 2843
+    name: 2025三月簽到
+    gem: 90
+    equip_ids: "444"
   }
   {
     id: 3001

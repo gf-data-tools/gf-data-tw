@@ -25477,11 +25477,10 @@
     type: 15
     arg: "1500190"
     code: Bumdle_WhiteValentineCoupons1
-    item_name: item-11500190
-    introduction: item-21500190
+    item_name: 珍藏裝扮券·白情
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
-    detail_introduction: item-31500190
     type_sort: 1
   }
   {
@@ -25489,11 +25488,10 @@
     type: 15
     arg: "1500191"
     code: Bumdle_WhiteValentineCoupons2
-    item_name: item-11500191
-    introduction: item-21500191
+    item_name: 尊享裝扮券·白情
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
-    detail_introduction: item-31500191
     type_sort: 1
   }
   {
@@ -25501,11 +25499,10 @@
     type: 15
     arg: "1500192"
     code: Bumdle_WhiteValentineCoupons3
-    item_name: item-11500192
-    introduction: item-21500192
+    item_name: 致臻裝扮券·白情
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
-    detail_introduction: item-31500192
     type_sort: 1
   }
   {
