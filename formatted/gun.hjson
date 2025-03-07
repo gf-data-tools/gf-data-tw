@@ -3428,7 +3428,7 @@
     gun_detail_bg: nation_US
     org_id: 10202
     related_story_id: 100037
-    show_damage_skin: ",0,303,8705,"
+    show_damage_skin: ",0,303,8705,30027,"
     gun_tag_ids: "108"
     atk_speed_max: 120
     ratio_rec: 95
@@ -41073,7 +41073,7 @@
     explore_tag: "31,45,67"
     gun_detail_bg: nation_US
     related_story_id: 100037
-    show_damage_skin: ",0,303,8705,"
+    show_damage_skin: ",0,303,8705,30027,"
     gun_tag_ids: "108"
     atk_speed_max: 120
     ratio_rec: 95

@@ -9882,6 +9882,16 @@
     class_id: 111
   }
   {
+    id: 30027
+    name: M14-決勝強援
+    fit_gun: 37
+    voice: 4
+    dialog: 突入行動圓滿成功！嘿嘿，M14也幫上忙了吧？欸，動靜太大了？
+    illustrator_cv: YoYo,大西沙織,
+    order: 150
+    class_id: 112
+  }
+  {
     id: 50001
     name: 漢陽造88式-致群星
     fit_gun: 95

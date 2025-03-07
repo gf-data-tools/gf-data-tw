@@ -16187,6 +16187,24 @@
     rank: 1
   }
   {
+    id: 2652
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M14
+    item_name: M14-決勝強援
+    introduction: M14-決勝強援
+    rank: 1
+  }
+  {
+    id: 2653
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M14
+    item_name: 名片：局面引爆者
+    introduction: 名片：局面引爆者
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -17865,6 +17883,15 @@
     code: gift_bundle_BattlePass_06TypeSMG
     item_name: CF05-沸騰的歲月
     introduction: 指揮官！快看，我終於找到個能吃旋風鑽麻辣鍋底的朋友了！雖然這位朋友不怎麼說話，但是吃相爽快得很！帳單？吃完再說囉~
+    rank: 1
+  }
+  {
+    id: 30027
+    type: 1
+    arg: "30027"
+    code: gift_bundle_BattlePass_M14
+    item_name: M14-決勝強援
+    introduction: 突入行動圓滿成功！嘿嘿，M14也幫上忙了吧？欸，動靜太大了？
     rank: 1
   }
   {
@@ -20237,6 +20264,34 @@
     item_name: 美服25新年紅包
     introduction: 美服25新年紅包
     rank: 1
+  }
+  {
+    id: 100259
+    type: 4
+    arg: "100259"
+    code: Nova_medal_black
+    item_name: 新星勳章·22重困境
+    introduction: 新星勳章·22重困境
+    rank: 1
+  }
+  {
+    id: 100260
+    type: 4
+    arg: "100260"
+    code: Platinum_medal_black
+    item_name: 白金勳章·22重困境
+    introduction: 白金勳章·22重困境
+    rank: 1
+  }
+  {
+    id: 100261
+    type: 9
+    arg: "100261"
+    code: Coin_202406CartesianTheatre
+    item_name: 命運之骰
+    introduction: 與其他任何骰子不同：正四面骰的抉擇藏匿於底面。只有洞悉所有的錯誤答案，方知命運真正的饋贈。
+    rank: 1
+    daily_limit: 60;180
   }
   {
     id: 110001
@@ -22828,6 +22883,22 @@
     rank: 1
   }
   {
+    id: 140053
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第27期前線協議
+    rank: 1
+  }
+  {
+    id: 140054
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第27期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -23297,6 +23368,15 @@
     code: profileFrame_BattlePass_06TypeSMG
     item_name: 頭像框·幸福，從舌尖蔓延
     introduction: 頭像框·幸福，從舌尖蔓延
+    rank: 1
+  }
+  {
+    id: 200052
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M14
+    item_name: 頭像框·空降堅兵
+    introduction: 頭像框·空降堅兵
     rank: 1
   }
   {
@@ -25500,6 +25580,83 @@
     arg: "1500192"
     code: Bumdle_WhiteValentineCoupons3
     item_name: 致臻裝扮券·白情
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500193
+    type: 15
+    arg: "1500193"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-硝煙彌光，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500194
+    type: 15
+    arg: "1500194"
+    code: package_choose
+    item_name: 人形類裝備自選包
+    introduction: 來自於前線協議-硝煙彌光，可從該指定投遞配給序標內選擇獲取一件人形類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500195
+    type: 15
+    arg: "1500195"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-硝煙彌光，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500196
+    type: 15
+    arg: "1500196"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-硝煙彌光，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500197
+    type: 15
+    arg: "1500197"
+    code: Bumdle_cartesiantheatre01
+    item_name: 22重困境限定裝扮券·壹
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500198
+    type: 15
+    arg: "1500198"
+    code: Bumdle_cartesiantheatre02
+    item_name: 22重困境限定裝扮券·貳
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500199
+    type: 15
+    arg: "1500199"
+    code: Bumdle_cartesiantheatre03
+    item_name: 22重困境限定裝扮券·參
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1

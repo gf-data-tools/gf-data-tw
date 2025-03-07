@@ -850,6 +850,7 @@ COMMON,1838,截图将保存至//n{0}(todo),,0
 COMMON,1839,每周首次截图可获得{0}(todo),,0
 COMMON,1840,截屏成功(todo),,0
 COMMON,1841,隐藏基地UI(todo),,0
+COMMON,1842,装扮/礼物(todo),,0
 BATTLE,10000,撤退,,0
 BATTLE,10001,全體撤退,,0
 BATTLE,10002,WITHDRAW,,0
@@ -3799,6 +3800,7 @@ MISSIONSELECTION,40510,已啟動技能,,0
 MISSIONSELECTION,40511,未啟動技能,,0
 MISSIONSELECTION,40512,已達單次掃蕩次數上限,,0
 MISSIONSELECTION,40513,動能/勢能不足，無法繼續掃蕩。,,0
+MISSIONSELECTION,40514,是否花费{0}钻石购买{1}(todo),,0
 REINFORCEMENT,50000,選擇角色,,0
 REINFORCEMENT,50001,未解鎖,,0
 REINFORCEMENT,50002,LOCKED,,0
@@ -6518,8 +6520,8 @@ PURCHASE_POOL,170000,機率說明,,0
 PURCHASE_POOL,170001,機率說明,,0
 PURCHASE_POOL,170002,//n稀有比例//n <Color=#EE798BFF>裝扮</Color>:2%//n <Color=#FFC600FF>5星傢俱</Color>:8%//n <Color=#8FC31F>4星傢俱</Color>:34.2%//n <Color=#8FC31F>4星禮物</Color>:1.8%//n <Color=#97C9C3>3星傢俱</Color>:54%//n,,0
 PURCHASE_POOL,170003,//n稀有比例//n <Color=#EE798BFF>裝扮</Color>:2%//n <Color=#FFC600FF>5星傢俱</Color>:8%//n <Color=#8FC31F>4星傢俱</Color>:34.2%//n <Color=#8FC31F>4星禮物</Color>:1.8%//n <Color=#97C9C3>3星傢俱</Color>:54%//n,,0
-PURCHASE_POOL,170004,3號採購池機率佔位用,,0
-PURCHASE_POOL,170005,4號採購池機率佔位用,,0
+PURCHASE_POOL,170004,//n稀有比例//n <Color=#EE798BFF>裝扮</Color>:2%//n <Color=#FFC600FF>5星傢俱</Color>:8%//n <Color=#8FC31F>4星傢俱</Color>:34.2%//n <Color=#8FC31F>4星禮物</Color>:1.8%//n <Color=#97C9C3>3星傢俱</Color>:54%//n,,0
+PURCHASE_POOL,170005,//n稀有比例//n <Color=#EE798BFF>裝扮</Color>:2%//n <Color=#FFC600FF>5星傢俱</Color>:8%//n <Color=#8FC31F>4星傢俱</Color>:34.2%//n <Color=#8FC31F>4星禮物</Color>:1.8%//n <Color=#97C9C3>3星傢俱</Color>:54%//n,,0
 ABOUT_RULE_JP,180000,我已知道條約內容並且同意,,0
 SQUAD,190000,情報解析,,0
 SQUAD,190001,原始樣本,,0
