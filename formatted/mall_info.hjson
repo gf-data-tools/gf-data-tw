@@ -45503,6 +45503,18 @@
     classification_id: "1007"
   }
   {
+    id: "12470"
+    type: "8"
+    item_ids: 7-2
+    gemprice: "998"
+    quota: "2005"
+    giftbag_name: 甜蜜誓約禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_ring
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
     id: "30001"
     type: "8"
     gift: 8611-1
