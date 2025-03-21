@@ -13004,6 +13004,102 @@
     type_sort: 6
   }
   {
+    id: 11401
+    name: DSR-50-秘密誓約
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 179
+    skin: 11401
+    poster: 311401
+    code: gift_bundle_WhiteValentina2025_DSR50
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11402
+    name: G41-摯誠花語
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 62
+    skin: 11402
+    poster: 311402
+    code: gift_bundle_WhiteValentina2025_G41
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11403
+    name: MG5-融霜綻蕊
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 109
+    skin: 11403
+    poster: 311403
+    code: gift_bundle_WhiteValentina2025_MG5
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11405
+    name: 9A-91-注目傾心
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 118
+    skin: 11405
+    poster: 311405
+    code: gift_bundle_WhiteValentina2025_9A91
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11406
+    name: 漢陽造88式-沁羽澄意
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 95
+    skin: 11406
+    poster: 311406
+    code: gift_bundle_WhiteValentina2025_88type
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11407
+    name: 納甘左輪-雋永之約
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 5
+    skin: 11407
+    poster: 311407
+    code: gift_bundle_WhiteValentina2025_M1895
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 30001
     name: ST AR-15-午夏憩風
     type: 2

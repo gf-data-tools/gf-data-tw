@@ -2299,7 +2299,7 @@
     prize_id: 150143
     due_time: 2025/05/18  00:00:00
     due_prize_id: 140073
-    present_info: present-11700055
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
   }
   {
     item_id: 1700056
@@ -2307,7 +2307,7 @@
     prize_id: 150144
     due_time: 2025/05/18  00:00:00
     due_prize_id: 140074
-    present_info: present-11700056
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
   }
   {
     item_id: 1700057
@@ -2315,7 +2315,7 @@
     prize_id: 150145
     due_time: 2025/05/18  00:00:00
     due_prize_id: 140075
-    present_info: present-11700057
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
   }
   {
     item_id: 1800001

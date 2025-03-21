@@ -13263,6 +13263,28 @@
     classification_id: 6003
   }
   {
+    id: 10610
+    type: 21
+    gem_pay: 425
+    gem: 425
+    double_gem_pay: 425
+    double_gem: 425
+    quota_num: 3
+    prize_id: 2844
+    classification_id: 6003
+  }
+  {
+    id: 10611
+    type: 21
+    gem_pay: 1610
+    gem: 1610
+    double_gem_pay: 1610
+    double_gem: 1610
+    quota_num: 1
+    prize_id: 2845
+    classification_id: 6003
+  }
+  {
     id: 10700
     type: 21
     gem_pay: 740
@@ -13367,6 +13389,28 @@
     double_gem: 1610
     quota_num: 1
     prize_id: 2442
+    classification_id: 6003
+  }
+  {
+    id: 10710
+    type: 21
+    gem_pay: 425
+    gem: 425
+    double_gem_pay: 425
+    double_gem: 425
+    quota_num: 3
+    prize_id: 2844
+    classification_id: 6003
+  }
+  {
+    id: 10711
+    type: 21
+    gem_pay: 1610
+    gem: 1610
+    double_gem_pay: 1610
+    double_gem: 1610
+    quota_num: 1
+    prize_id: 2845
     classification_id: 6003
   }
   {
@@ -16186,6 +16230,28 @@
     double_gem: 1700
     quota_num: 1
     prize_id: 2442
+    classification_id: 6003
+  }
+  {
+    id: 30271
+    type: 21
+    gem_pay: 470
+    gem: 470
+    double_gem_pay: 470
+    double_gem: 470
+    quota_num: 3
+    prize_id: 2844
+    classification_id: 6003
+  }
+  {
+    id: 30272
+    type: 21
+    gem_pay: 1680
+    gem: 1680
+    double_gem_pay: 1680
+    double_gem: 1680
+    quota_num: 1
+    prize_id: 2845
     classification_id: 6003
   }
   {
@@ -20754,6 +20820,58 @@
     quota_num: 10
     prize_id: 1448
     classification_id: 6003
+  }
+  {
+    id: 51292
+    type: 6
+    gem_pay: 800
+    gem: 800
+    double_gem_pay: 800
+    double_gem: 800
+    quota_num: 1
+    prize_id: 8580
+  }
+  {
+    id: 51293
+    type: 6
+    gem_pay: 1160
+    gem: 1160
+    double_gem_pay: 1160
+    double_gem: 1160
+    quota_num: 1
+    prize_id: 8581
+  }
+  {
+    id: 51294
+    type: 6
+    gem_pay: 330
+    gem: 330
+    double_gem_pay: 330
+    double_gem: 330
+    quota_num: 1
+    prize_id: 8582
+  }
+  {
+    id: 51295
+    type: 10
+    gem_pay: 800
+    gem: 800
+    double_gem_pay: 800
+    double_gem: 800
+    quota_num: 1
+    prize_id: 8593
+    classification_id: 3005
+  }
+  {
+    id: 51296
+    type: 10
+    gem_pay: 800
+    gem: 800
+    double_gem_pay: 800
+    double_gem: 800
+    quota_num: 1
+    prize_id: 8594
+    classification_id: 3005
   }
   {
     id: 60001

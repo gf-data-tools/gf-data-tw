@@ -9786,6 +9786,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_20halloween
+    event_id: 3713
   }
   {
     id: 742
@@ -9800,6 +9801,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_20halloween
+    event_id: 3714
   }
   {
     id: 743
@@ -11630,10 +11632,12 @@
     sub_type: 2
     gem: 400
     item_ids: 508-10000
+    onsale: 1
     code: card_5years_A
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3710
   }
   {
     id: 888
@@ -11809,6 +11813,7 @@
     order: 1
     rarity: 5
     filter_type: "1,2"
+    event_id: 3711
   }
   {
     id: 901
@@ -12416,6 +12421,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3712
   }
   {
     id: 949
@@ -12428,6 +12434,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3739
   }
   {
     id: 950
@@ -12440,6 +12447,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3740
   }
   {
     id: 951
@@ -12452,6 +12460,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3741
   }
   {
     id: 952
@@ -12464,6 +12473,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3863
   }
   {
     id: 953
@@ -12476,6 +12486,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3864
   }
   {
     id: 954
@@ -12985,6 +12996,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3865
   }
   {
     id: 993
@@ -20545,6 +20557,78 @@
     code: card_BattlePass_M14
     order: 1
     rarity: 5
+  }
+  {
+    id: 1654
+    item_id: 2654
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_WhiteValentina2025_DSR50
+    order: 1
+    rarity: 5
+    skin: 11401
+  }
+  {
+    id: 1655
+    item_id: 2655
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_WhiteValentina2025_G41
+    order: 1
+    rarity: 5
+    skin: 11402
+  }
+  {
+    id: 1656
+    item_id: 2656
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_WhiteValentina2025_MG5
+    order: 1
+    rarity: 5
+    skin: 11403
+  }
+  {
+    id: 1657
+    item_id: 2657
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_WhiteValentina2025_9A91
+    order: 1
+    rarity: 5
+    skin: 11405
+  }
+  {
+    id: 1658
+    item_id: 2658
+    sub_type: 1
+    gem: 80
+    item_ids: 508-2000
+    onsale: 1
+    code: profilePic_WhiteValentina2025_88type
+    order: 1
+    rarity: 5
+    skin: 11406
+  }
+  {
+    id: 1659
+    item_id: 2659
+    sub_type: 1
+    gem: 40
+    item_ids: 508-1000
+    onsale: 1
+    code: profilePic_WhiteValentina2025_M1895
+    order: 1
+    rarity: 5
+    skin: 11407
   }
   {
     id: 2501
