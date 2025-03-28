@@ -17338,6 +17338,12 @@
     icon: Bumdle_package
   }
   {
+    id: 2846
+    name: 2025四月簽到
+    gem: 90
+    equip_ids: "447"
+  }
+  {
     id: 3001
     name: 柯爾特左輪
     item_ids: 1318-1

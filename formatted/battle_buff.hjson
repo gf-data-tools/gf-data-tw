@@ -60699,6 +60699,39 @@
     arp_number: "300"
   }
   {
+    id: 9769
+    name: 刘易斯装备
+    conflict_type: 9769
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9770
+    name: 刘易斯专属伤害提升
+    conflict_type: 9770
+    max_tier: 2
+    type: 101
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    pow_number: *201
+    buff_sp_attributes: "1"
+  }
+  {
+    id: 9771
+    name: 刘易斯专属暴击伤害提升
+    conflict_type: 9771
+    max_tier: 3
+    type: 112
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+    critical_damage_number: "115"
+  }
+  {
     id: 10000
     name: 主动技能用
     conflict_type: 101

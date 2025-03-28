@@ -11619,12 +11619,14 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_mask_5years_A
     order: 1
     rarity: 5
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_5years
+    event_id: 3881
   }
   {
     id: 887
@@ -11675,6 +11677,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_21swim
+    event_id: 3882
   }
   {
     id: 891
@@ -11689,6 +11692,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_21swim
+    event_id: 3883
   }
   {
     id: 892
@@ -13528,6 +13532,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3878
   }
   {
     id: 1036
@@ -13540,6 +13545,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3879
   }
   {
     id: 1037
@@ -13552,6 +13558,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3880
   }
   {
     id: 1038
