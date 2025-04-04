@@ -15547,19 +15547,19 @@
   {
     id: 2501
     name: 零電荷限定裝扮券·壹
-    item_ids: 1500142-1
+    item_ids: 1500200-1
     icon: Bumdle_zerocharge01
   }
   {
     id: 2502
     name: 零電荷限定裝扮券·貳
-    item_ids: 1500143-1
+    item_ids: 1500201-1
     icon: Bumdle_zerocharge02
   }
   {
     id: 2503
     name: 零電荷限定裝扮券·忤逆特供
-    item_ids: 1500144-1
+    item_ids: 1500202-1
     icon: Bumdle_zerocharge03
   }
   {
@@ -30530,6 +30530,62 @@
       恭喜你在「代號拾陸：躍遷」賽季中，獲得元帥榮譽，獎勵：拉弗伯雷勳章*60，指揮官經驗*2000，頭像「維度交織」
       初次領取元帥榮譽郵件將解鎖頭像框·將星閃耀
       '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10827
+    name: prize-10010827
+    user_exp: 30
+    item_ids: 106-5,2660-1,200008-1
+    content: prize-20010827
+    icon: Medal_Chess
+  }
+  {
+    id: 10828
+    name: prize-10010828
+    user_exp: 60
+    item_ids: 106-10
+    content: prize-20010828
+    icon: Medal_Chess
+  }
+  {
+    id: 10829
+    name: prize-10010829
+    user_exp: 100
+    item_ids: 106-20
+    content: prize-20010829
+    icon: Medal_Chess
+  }
+  {
+    id: 10830
+    name: prize-10010830
+    user_exp: 200
+    item_ids: 106-30,2661-1,200007-1
+    content: prize-20010830
+    icon: Medal_Chess
+  }
+  {
+    id: 10831
+    name: prize-10010831
+    user_exp: 500
+    item_ids: 106-40
+    content: prize-20010831
+    icon: Medal_Chess
+  }
+  {
+    id: 10832
+    name: prize-10010832
+    user_exp: 1000
+    item_ids: 106-50
+    content: prize-20010832
+    icon: Medal_Chess
+  }
+  {
+    id: 10833
+    name: prize-10010833
+    user_exp: 2000
+    item_ids: 106-60,2662-1,200006-1
+    content: prize-20010833
     icon: Medal_Chess
   }
   {

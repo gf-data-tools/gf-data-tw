@@ -16279,6 +16279,36 @@
     rank: 1
   }
   {
+    id: 2660
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season19_1
+    item_name: item-10002660
+    introduction: item-20002660
+    rank: 1
+    detail_introduction: item-30002660
+  }
+  {
+    id: 2661
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season19_2
+    item_name: item-10002661
+    introduction: item-20002661
+    rank: 1
+    detail_introduction: item-30002661
+  }
+  {
+    id: 2662
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season19_3
+    item_name: item-10002662
+    introduction: item-20002662
+    rank: 1
+    detail_introduction: item-30002662
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -25743,6 +25773,42 @@
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500200
+    type: 15
+    arg: "1500200"
+    code: Bumdle_zerocharge01
+    item_name: item-11500200
+    introduction: item-21500200
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500200
+    type_sort: 1
+  }
+  {
+    id: 1500201
+    type: 15
+    arg: "1500201"
+    code: Bumdle_zerocharge02
+    item_name: item-11500201
+    introduction: item-21500201
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500201
+    type_sort: 1
+  }
+  {
+    id: 1500202
+    type: 15
+    arg: "1500202"
+    code: Bumdle_zerocharge03
+    item_name: item-11500202
+    introduction: item-21500202
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500202
     type_sort: 1
   }
   {
