@@ -53140,6 +53140,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 99
+    limit_gun_pool: "319"
     map_res_name: OPS301_Y;OPS62_Y
     map_information: "8000,8000|7300,4435|100,-900;8000,8000|7000,4435|-800,-2500"
     adaptive_gun: "293"
@@ -53172,6 +53173,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 99
+    limit_gun_pool: "383"
     map_res_name: OPS18_Y
     map_information: "6000,5100|7500,6000|0,-5300"
     adaptive_gun: "205,293"
@@ -53202,6 +53204,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 99
+    limit_gun_pool: "266"
     map_res_name: OPS302_Y
     map_information: "8000,8000|9000,6500|500,-200"
     adaptive_gun: "205,293,206"
@@ -53232,6 +53235,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 99
+    limit_gun_pool: "315"
     map_res_name: OPS56_Y
     map_information: "8000,8000|8500,8500|0,0"
     adaptive_gun: "205,293,206"
@@ -53262,6 +53266,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 99
+    limit_gun_pool: "386"
     map_res_name: BloodNetwork_Y;BloodNetwork_Y
     map_information: "10000,10000|5000,3400|1200,-1200;10000,10000|5000,3400|-2200,-1600"
     adaptive_gun: "206"
@@ -53292,6 +53297,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 99
+    limit_gun_pool: "319,383,266,315,386"
     map_res_name: OPS301_Y
     map_information: "8000,8000|6950,4435|0,300"
     adaptive_gun: "205,293,206"
@@ -53322,6 +53328,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 99
+    limit_gun_pool: "319"
     map_res_name: OPS301_Y;OPS62_Y
     map_information: "8000,8000|8000,5735|600,-800;8000,8000|8000,4435|-500,-2500"
     adaptive_gun: "293"
@@ -53355,6 +53362,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 99
+    limit_gun_pool: "383"
     map_res_name: OPS18_Y
     map_information: "6000,5100|7500,6000|0,-5300"
     adaptive_gun: "205,293"
@@ -53385,6 +53393,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 99
+    limit_gun_pool: "266"
     map_res_name: OPS302_Y
     map_information: "9000,9000|9000,6500|600,-200"
     adaptive_gun: "205,293,206"
@@ -53415,6 +53424,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 99
+    limit_gun_pool: "315"
     map_res_name: OPS56_Y
     map_information: "8000,8000|8500,8500|0,0"
     adaptive_gun: "205,293,206"
@@ -53445,6 +53455,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 99
+    limit_gun_pool: "386"
     map_res_name: BloodNetwork_Y;BloodNetwork_Y
     map_information: "10000,10000|5000,3400|1200,-1200;10000,10000|5000,3400|-2200,-1600"
     adaptive_gun: "206"
@@ -53475,6 +53486,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     turn_limit: 99
+    limit_gun_pool: "319,383,266,315,386"
     map_res_name: OPS301_Y
     map_information: "8000,8000|6950,4435|0,500"
     adaptive_gun: "205,293,206"

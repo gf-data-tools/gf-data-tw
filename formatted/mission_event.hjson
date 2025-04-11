@@ -355,9 +355,10 @@
     mission_campaign: "-70"
     event_name: 零電荷
     draw_event_id: "400,401,402,403,404"
-    start_time: 2024-07-24 10:00:00
-    end_time: 2024-08-16 10:00:00
+    start_time: 2025-04-11 10:00:00
+    end_time: 2025-05-02 10:00:00
     init_mission_id: "11712"
+    token_item_id: "100264"
   }
   {
     id: 55

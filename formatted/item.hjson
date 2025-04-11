@@ -16283,30 +16283,45 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season19_1
-    item_name: item-10002660
-    introduction: item-20002660
+    item_name: 桀驁之鋒 · 「代號拾柒：決意」
+    introduction: 桀驁之鋒 · 「代號拾柒：決意」
     rank: 1
-    detail_introduction: item-30002660
   }
   {
     id: 2661
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season19_2
-    item_name: item-10002661
-    introduction: item-20002661
+    item_name: 逆旅之輝 · 「代號拾柒：決意」
+    introduction: 逆旅之輝 · 「代號拾柒：決意」
     rank: 1
-    detail_introduction: item-30002661
   }
   {
     id: 2662
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season19_3
-    item_name: item-10002662
-    introduction: item-20002662
+    item_name: 絕境之光 · 「代號拾柒：決意」
+    introduction: 絕境之光 · 「代號拾柒：決意」
     rank: 1
-    detail_introduction: item-30002662
+  }
+  {
+    id: 2663
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_Beowulf
+    item_name: 貝武夫-海濱獵手
+    introduction: 貝武夫-海濱獵手
+    rank: 1
+  }
+  {
+    id: 2664
+    type: 5
+    arg: "1"
+    code: card_BattlePass_Beowulf
+    item_name: 名片：蹈浪者
+    introduction: 名片：蹈浪者
+    rank: 1
   }
   {
     id: 3501
@@ -18005,6 +18020,15 @@
     code: gift_bundle_BattlePass_M14
     item_name: M14-決勝強援
     introduction: 突入行動圓滿成功！嘿嘿，M14也幫上忙了吧？欸，動靜太大了？
+    rank: 1
+  }
+  {
+    id: 30028
+    type: 1
+    arg: "30028"
+    code: gift_bundle_BattlePass_Beowulf
+    item_name: 貝武夫-海濱獵手
+    introduction: 如果這片海邊有足夠激動人心的獵物……我一定會親手捕到的。
     rank: 1
   }
   {
@@ -20403,6 +20427,34 @@
     code: Coin_202406CartesianTheatre
     item_name: 命運之骰
     introduction: 與其他任何骰子不同：正四面骰的抉擇藏匿於底面。只有洞悉所有的錯誤答案，方知命運真正的饋贈。
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
+    id: 100262
+    type: 4
+    arg: "100262"
+    code: Nova_medal_black
+    item_name: 新星勳章·零電荷
+    introduction: 新星勳章·零電荷
+    rank: 1
+  }
+  {
+    id: 100263
+    type: 4
+    arg: "100263"
+    code: Platinum_medal_black
+    item_name: 白金勳章·零電荷
+    introduction: 白金勳章·零電荷
+    rank: 1
+  }
+  {
+    id: 100264
+    type: 9
+    arg: "100264"
+    code: Coin_202407ZeroCharge
+    item_name: 「潘朵拉」紀念幣
+    introduction: 一齣意外上演的歌劇，讓整個法蘭克福震顫。這枚紀念幣，承載著昔日的痛苦與喜悅，和一個夙願。
     rank: 1
     daily_limit: 60;180
   }
@@ -23012,6 +23064,22 @@
     rank: 1
   }
   {
+    id: 140055
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第28期前線協議
+    rank: 1
+  }
+  {
+    id: 140056
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第28期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -23490,6 +23558,15 @@
     code: profileFrame_BattlePass_M14
     item_name: 頭像框·空降堅兵
     introduction: 頭像框·空降堅兵
+    rank: 1
+  }
+  {
+    id: 200053
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_Beowulf
+    item_name: 頭像框·樹影潮聲
+    introduction: 頭像框·樹影潮聲
     rank: 1
   }
   {
@@ -25780,11 +25857,10 @@
     type: 15
     arg: "1500200"
     code: Bumdle_zerocharge01
-    item_name: item-11500200
-    introduction: item-21500200
+    item_name: 零電荷限定裝扮券·壹
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
-    detail_introduction: item-31500200
     type_sort: 1
   }
   {
@@ -25792,11 +25868,10 @@
     type: 15
     arg: "1500201"
     code: Bumdle_zerocharge02
-    item_name: item-11500201
-    introduction: item-21500201
+    item_name: 零電荷限定裝扮券·貳
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
-    detail_introduction: item-31500201
     type_sort: 1
   }
   {
@@ -25804,11 +25879,87 @@
     type: 15
     arg: "1500202"
     code: Bumdle_zerocharge03
-    item_name: item-11500202
-    introduction: item-21500202
+    item_name: 零電荷限定裝扮券·忤逆特供
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
-    detail_introduction: item-31500202
+    type_sort: 1
+  }
+  {
+    id: 1500203
+    type: 15
+    arg: "1500203"
+    code: Bumdle_AnniversaryCoupons1
+    item_name: 珍藏裝扮券·周年慶
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500204
+    type: 15
+    arg: "1500204"
+    code: Bumdle_AnniversaryCoupons2
+    item_name: 尊享裝扮券·周年慶
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500205
+    type: 15
+    arg: "1500205"
+    code: Bumdle_AnniversaryCoupons3
+    item_name: 致臻裝扮券·周年慶
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500206
+    type: 15
+    arg: "1500176"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-日光砂浴，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500207
+    type: 15
+    arg: "1500177"
+    code: package_choose
+    item_name: 配件類裝備自選包
+    introduction: 來自於前線協議-日光砂浴，可從該指定投遞配給序標內選擇獲取一件配件類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500208
+    type: 15
+    arg: "1500178"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-日光砂浴，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500209
+    type: 15
+    arg: "1500179"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-日光砂浴，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
     type_sort: 1
   }
   {
@@ -26458,6 +26609,39 @@
     id: 1700057
     type: 15
     arg: "1700057"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700058
+    type: 15
+    arg: "1700058"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700059
+    type: 15
+    arg: "1700059"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700060
+    type: 15
+    arg: "1700060"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

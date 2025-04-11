@@ -25803,6 +25803,17 @@
     creation_delay: "0,0,0"
   }
   {
+    id: 9301
+    name: 伯莱塔38型套装烟雾弹
+    action_order: "2"
+    action_delay: "15"
+    action_playspeed: "100"
+    creation_order: "3811"
+    creation_delay: "60"
+    sound_order: BT_gasbomb_woosh
+    sound_delay: "39"
+  }
+  {
     id: 9995
     name: 战区boss特效
     creation_order: "386,10000,238"

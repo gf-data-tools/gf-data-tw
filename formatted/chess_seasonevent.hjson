@@ -125,4 +125,11 @@
     end_time: 2025-03-28 10:04:00
     mission_id: 3
   }
+  {
+    id: 19
+    name: 「代號拾柒：決意」
+    start_time: 2025-04-11 10:04:00
+    end_time: 2025-06-13 10:04:00
+    mission_id: 1
+  }
 ]

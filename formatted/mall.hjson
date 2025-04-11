@@ -40010,7 +40010,7 @@
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
-    itemprice: 100231-150
+    itemprice: 100264-150
     classification_id: 1007
   }
   {
@@ -40022,7 +40022,7 @@
     discount: 1
     prize_id: 2549
     pay_type: 1
-    itemprice: 100231-80
+    itemprice: 100264-80
     classification_id: 1007
   }
   {
@@ -40034,7 +40034,7 @@
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
-    itemprice: 100231-50
+    itemprice: 100264-50
     classification_id: 1007
   }
   {
@@ -40046,7 +40046,7 @@
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
-    itemprice: 100231-30
+    itemprice: 100264-30
     classification_id: 1007
   }
   {
@@ -40058,7 +40058,7 @@
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
-    itemprice: 100231-30
+    itemprice: 100264-30
     classification_id: 1007
   }
   {
@@ -40070,7 +40070,7 @@
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
-    itemprice: 100231-80
+    itemprice: 100264-80
     classification_id: 1007
   }
   {
@@ -40082,7 +40082,7 @@
     discount: 1
     prize_id: 2550
     pay_type: 1
-    itemprice: 100231-50
+    itemprice: 100264-50
     classification_id: 1007
   }
   {
@@ -40094,7 +40094,7 @@
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
-    itemprice: 100231-3
+    itemprice: 100264-3
     classification_id: 1007
   }
   {
@@ -40106,7 +40106,7 @@
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
-    itemprice: 100231-2
+    itemprice: 100264-2
     classification_id: 1007
   }
   {
@@ -40118,7 +40118,7 @@
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
-    itemprice: 100231-2
+    itemprice: 100264-2
     classification_id: 1007
   }
   {
@@ -40130,7 +40130,7 @@
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
-    itemprice: 100231-2
+    itemprice: 100264-2
     classification_id: 1007
   }
   {
@@ -40142,7 +40142,7 @@
     discount: 1
     prize_id: 40288
     pay_type: 1
-    itemprice: 100230-500
+    itemprice: 100263-500
     classification_id: 1008
   }
   {
@@ -40154,7 +40154,7 @@
     discount: 1
     prize_id: 1944
     pay_type: 1
-    itemprice: 100230-500
+    itemprice: 100263-500
     classification_id: 1008
   }
   {
@@ -40166,7 +40166,7 @@
     discount: 1
     prize_id: 2551
     pay_type: 1
-    itemprice: 100229-400
+    itemprice: 100262-400
     classification_id: 1008
   }
   {
@@ -40178,7 +40178,7 @@
     discount: 1
     prize_id: 1289
     pay_type: 1
-    itemprice: 100229-400
+    itemprice: 100262-400
     classification_id: 1008
   }
   {
@@ -40190,7 +40190,7 @@
     discount: 1
     prize_id: 548
     pay_type: 1
-    itemprice: 100230-500
+    itemprice: 100263-500
     classification_id: 1008
   }
   {
@@ -40202,7 +40202,7 @@
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
-    itemprice: 100229-5
+    itemprice: 100262-5
     classification_id: 1008
   }
   {
@@ -40214,7 +40214,7 @@
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
-    itemprice: 100230-5
+    itemprice: 100263-5
     classification_id: 1008
   }
   {

@@ -7523,7 +7523,7 @@
   {
     mission_id: "11710"
     boss_hp_bars: "1"
-    prize_id: "37710"
+    prize_id: "17710"
   }
   {
     mission_id: "11711"
@@ -7583,7 +7583,7 @@
   {
     mission_id: "11722"
     boss_hp_bars: "1"
-    prize_id: "37722"
+    prize_id: "17722"
   }
   {
     mission_id: "11723"

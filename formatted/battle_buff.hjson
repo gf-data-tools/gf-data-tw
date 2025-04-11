@@ -60732,6 +60732,150 @@
     critical_damage_number: "115"
   }
   {
+    id: 9801
+    name: 灰熊MkV套装装备1
+    conflict_type: 9801
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9802
+    name: 灰熊MkV套装装备2
+    conflict_type: 9802
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9803
+    name: 灰熊MkV套装
+    conflict_type: 9803
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9804
+    name: 伯莱塔38型套装装备1
+    conflict_type: 9804
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9805
+    name: 伯莱塔38型套装装备2
+    conflict_type: 9805
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9806
+    name: 伯莱塔38型套装
+    conflict_type: 9806
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9807
+    name: 灰熊MkV套装暴击概率提升
+    conflict_type: 9807
+    max_tier: 1
+    type: 106
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    critical_number: "115"
+    trigger_creation_id: "201"
+    buff_animation: YellowFlash
+  }
+  {
+    id: 9808
+    name: 灰熊MkV套装移速提升
+    conflict_type: 9808
+    max_tier: 1
+    type: 105
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    move_number: "130"
+  }
+  {
+    id: 9809
+    name: 灰熊MkV套装回避提升
+    conflict_type: 9809
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    dodge_number: "140"
+    trigger_creation_id: "202"
+    is_form_play: 1
+    buff_animation: YellowFlash
+    buff_description: DodgeBuffText
+  }
+  {
+    id: 9810
+    name: 伯莱塔38型套装攻速下降
+    conflict_type: 9810
+    max_tier: 1
+    type: 204
+    duration_type: 1
+    duration: "30"
+    boss_available: 1
+    rate_number: "75"
+    trigger_creation_id: "208"
+    is_form_play: 1
+  }
+  {
+    id: 9811
+    name: 伯莱塔38型套装移速下降
+    conflict_type: 9811
+    max_tier: 1
+    type: 205
+    duration_type: 1
+    duration: "30"
+    boss_available: 1
+    move_number: "70"
+  }
+  {
+    id: 9812
+    name: 伯莱塔38型套装易伤
+    conflict_type: 9812
+    max_tier: 1
+    type: 110
+    duration_type: 1
+    duration: "30"
+    boss_available: 1
+    damage_reduce_number: "130"
+  }
+  {
+    id: 9813
+    name: 伯莱塔套装技能触发器
+    conflict_type: 9813
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "120"
+    boss_available: 1
+  }
+  {
     id: 10000
     name: 主动技能用
     conflict_type: 101
