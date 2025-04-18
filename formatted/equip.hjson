@@ -14257,11 +14257,11 @@
   }
   {
     id: 448
-    name: GMV信号枪
+    name: GMV信號槍
     description:
       '''
       命中+<hit>
-      梯队命中+20%$灰熊MkⅤ专用
+      梯隊命中+20%$灰熊MkⅤ專用
       '''
     rank: 5
     category: 2
@@ -14275,7 +14275,7 @@
     develop_duration: 3600
     company: IOP
     fit_guns: "96"
-    equip_introduction: 在原有设计基础上改装为运动升级版，可以有效地将信息传递给附近的队员。
+    equip_introduction: 在原有設計基礎上改裝為運動升級版，可以有效地將訊息傳遞給附近的隊員。
     powerup_mp: 0.48
     powerup_ammo: 0.48
     powerup_mre: 0.08
@@ -14288,15 +14288,15 @@
     group_id: "51"
     is_show: 1
     obtain_ids: "3096"
-    sp_description: 梯队命中+20%
+    sp_description: 梯隊命中+20%
   }
   {
     id: 449
-    name: 伯莱塔信号枪
+    name: 伯萊塔信號槍
     description:
       '''
       命中+<hit>
-      梯队命中+20%$伯莱塔38型改型专用
+      梯隊命中+20%$伯萊塔38型改型專用
       '''
     rank: 5
     category: 2
@@ -14310,7 +14310,7 @@
     develop_duration: 3600
     company: IOP
     fit_guns: "20031"
-    equip_introduction: 可以用于发射联络和遇险求救信号，是伯莱塔38型一直随身携带的信号手枪。
+    equip_introduction: 可以用於發射聯絡和遇險求救信號，是伯萊塔38型一直隨身攜帶的信號手槍。
     powerup_mp: 0.48
     powerup_ammo: 0.48
     powerup_mre: 0.08
@@ -14323,6 +14323,6 @@
     group_id: "52"
     is_show: 1
     obtain_ids: "3096"
-    sp_description: 梯队命中+20%
+    sp_description: 梯隊命中+20%
   }
 ]
