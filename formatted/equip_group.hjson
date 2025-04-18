@@ -451,4 +451,22 @@
     group_skill: 2:1005503
     fit_gun: "20199"
   }
+  {
+    id: 51
+    name: 運動達人
+    des: 為灰熊MkⅤ量身訂製的套裝，輕便實用是其最大的特色。
+    code: EgroupGrizzly
+    equip_unit: "0,448,237"
+    group_skill: 2:1006103
+    fit_gun: "96"
+  }
+  {
+    id: 52
+    name: 雛菊紅領
+    des: 為伯萊塔38型量身訂製的套裝，裝備後面對戰鬥將不再有任何迷茫。
+    code: EgroupMAB38
+    equip_unit: "0,449,166"
+    group_skill: 2:1006203
+    fit_gun: "20031"
+  }
 ]
