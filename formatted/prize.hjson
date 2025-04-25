@@ -17362,6 +17362,12 @@
     icon: Bumdle_AnniversaryCoupons3
   }
   {
+    id: 2850
+    name: 2025五月簽到
+    gem: 90
+    equip_ids: "450"
+  }
+  {
     id: 3001
     name: 柯爾特左輪
     item_ids: 1318-1

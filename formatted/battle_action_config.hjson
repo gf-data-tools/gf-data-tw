@@ -25803,6 +25803,11 @@
     creation_delay: "0,0,0"
   }
   {
+    id: 9254
+    name: 超级肖蒂专属伤害下降
+    creation_order: "3815"
+  }
+  {
     id: 9301
     name: 伯莱塔38型套装烟雾弹
     action_order: "2"

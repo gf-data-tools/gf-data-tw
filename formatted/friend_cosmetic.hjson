@@ -11663,6 +11663,7 @@
     rarity: 5
     filter_type: "1"
     frame_id: 200005
+    event_id: 3882
   }
   {
     id: 890
@@ -11677,7 +11678,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_21swim
-    event_id: 3882
+    event_id: 3883
   }
   {
     id: 891
@@ -11692,7 +11693,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_21swim
-    event_id: 3883
+    event_id: 3891
   }
   {
     id: 892
@@ -12329,6 +12330,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_21summer
+    event_id: 3892
   }
   {
     id: 942
@@ -12343,6 +12345,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_21summer
+    event_id: 3893
   }
   {
     id: 943
@@ -13571,6 +13574,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3888
   }
   {
     id: 1039
@@ -13899,6 +13903,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3889
   }
   {
     id: 1063
@@ -14227,6 +14232,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 3890
   }
   {
     id: 1090

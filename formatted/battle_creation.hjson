@@ -51808,6 +51808,23 @@
     scale: "1"
   }
   {
+    id: 3815
+    name: 超级肖蒂专属伤害下降
+    start_type: "3"
+    start_offset: "3"
+    destination_type: "3"
+    destination_offset: "3"
+    is_tracing: 1
+    exist_duration: *101
+    effect_type: 2
+    effect_area: 2
+    effect_param_1: "99"
+    effect_param_2: "99"
+    buff_id: 9794:1000009674
+    scale: "1,12,1"
+    is_die_delete: 1
+  }
+  {
     id: 4000
     name: 白色boss普攻预警1
     start_type: "6"

@@ -60732,6 +60732,61 @@
     critical_damage_number: "115"
   }
   {
+    id: 9791
+    name: 超级肖蒂装备
+    conflict_type: 9791
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9792
+    name: 超级肖蒂专属减前置冷却25%
+    conflict_type: 9792
+    max_tier: 1
+    type: 129
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    cdr_number: "75"
+  }
+  {
+    id: 9793
+    name: 超级肖蒂专属减前置冷却20%
+    conflict_type: 9793
+    max_tier: 1
+    type: 129
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    cdr_number: "80"
+  }
+  {
+    id: 9794
+    name: 超级肖蒂专属巨型伤害下降
+    conflict_type: 9794
+    max_tier: 1
+    type: 201
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    pow_number: "30"
+    trigger_creation_id: "205"
+    is_form_play: 1
+  }
+  {
+    id: 9795
+    name: 超级肖蒂技能触发
+    conflict_type: 9795
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+  }
+  {
     id: 9801
     name: 灰熊MkV套装装备1
     conflict_type: 9801
