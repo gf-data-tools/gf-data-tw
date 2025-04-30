@@ -15821,119 +15821,119 @@
   {
     id: 2555
     name: 銀染顯影6+a
-    item_ids: 100235-6,100233-1
+    item_ids: 100267-6,100265-1
   }
   {
     id: 2556
     name: 銀染顯影8+a
-    item_ids: 100235-8,100233-1
+    item_ids: 100267-8,100265-1
   }
   {
     id: 2557
     name: 銀染顯影8+2a
-    item_ids: 100235-8,100233-2
+    item_ids: 100267-8,100265-2
   }
   {
     id: 2558
     name: 銀染顯影10+b
-    item_ids: 100235-10,100233-1
+    item_ids: 100267-10,100265-1
   }
   {
     id: 2559
     name: 銀染顯影10+2a
-    item_ids: 100235-10,100233-2
+    item_ids: 100267-10,100265-2
   }
   {
     id: 2560
     name: 銀染顯影10+a+b
-    item_ids: 100235-10,100233-1,100234-1
+    item_ids: 100267-10,100265-1,100266-1
   }
   {
     id: 2561
     name: 銀染顯影12+b
-    item_ids: 100235-12,100234-1
+    item_ids: 100267-12,100266-1
   }
   {
     id: 2562
     name: 銀染顯影12+2b
-    item_ids: 100235-12,100234-2
+    item_ids: 100267-12,100266-2
   }
   {
     id: 2563
     name: 銀染顯影15+b
-    item_ids: 100235-15,100234-1
+    item_ids: 100267-15,100266-1
   }
   {
     id: 2564
     name: 銀染顯影15+2b
-    item_ids: 100235-15,100234-2
+    item_ids: 100267-15,100266-2
   }
   {
     id: 2565
     name: 銀染顯影15+2a+2b
-    item_ids: 100235-15,100233-2,100234-2
+    item_ids: 100267-15,100265-2,100266-2
   }
   {
     id: 2566
     name: 銀染顯影6
-    item_ids: 100235-6
+    item_ids: 100267-6
   }
   {
     id: 2567
     name: 銀染顯影8
-    item_ids: 100235-8
+    item_ids: 100267-8
   }
   {
     id: 2568
     name: 銀染顯影10
-    item_ids: 100235-10
+    item_ids: 100267-10
   }
   {
     id: 2569
     name: 銀染顯影12
-    item_ids: 100235-12
+    item_ids: 100267-12
   }
   {
     id: 2570
     name: 銀染顯影15
-    item_ids: 100235-15
+    item_ids: 100267-15
   }
   {
     id: 2571
     name: 銀染顯影a
-    item_ids: 100233-1
+    item_ids: 100265-1
   }
   {
     id: 2572
     name: 銀染顯影b
-    item_ids: 100234-1
+    item_ids: 100266-1
   }
   {
     id: 2573
     name: 銀染顯影2a
-    item_ids: 100233-2
+    item_ids: 100265-2
   }
   {
     id: 2574
     name: 銀染顯影2b
-    item_ids: 100234-2
+    item_ids: 100266-2
   }
   {
     id: 2575
     name: 銀染顯影限定裝扮券·壹
-    item_ids: 1500149-1
+    item_ids: 1500210-1
     icon: Bumdle_Angulargyrus01
   }
   {
     id: 2576
     name: 銀染顯影限定裝扮券·貳
-    item_ids: 1500150-1
+    item_ids: 1500211-1
     icon: Bumdle_Angulargyrus02
   }
   {
     id: 2577
     name: 銀染顯影限定裝扮券·參
-    item_ids: 1500151-1
+    item_ids: 1500212-1
     icon: Bumdle_Angulargyrus03
   }
   {
@@ -43509,6 +43509,63 @@
 
       格琳娜
       '''
+  }
+  {
+    id: 30070
+    name: 回歸簽到-三日簽到獎勵
+    item_ids: 41-30
+    content: 回歸簽到-三日簽到獎勵
+    icon: Bumdle_yellow
+  }
+  {
+    id: 30071
+    name: 回歸任務-活躍度2檔獎勵
+    item_ids: 1-10,2-10,3-10
+    furniture: "3128"
+    gift: 200001-500
+    icon: return_active_2
+  }
+  {
+    id: 30072
+    name: 回歸任務-活躍度4檔獎勵
+    item_ids: 45-300,41-20
+    icon: return_active_4
+  }
+  {
+    id: 30073
+    name: 回歸任務-活躍度5檔獎勵
+    gem: 100
+    item_ids: 1600001-1,148-1
+    icon: return_active_5
+  }
+  {
+    id: 30074
+    name: 回歸基金-購買返利
+    gem: 450
+    item_ids: 41-120,45-100
+  }
+  {
+    id: 30075
+    name: 回歸基金-活躍度4檔獎勵
+    gem: 120
+    item_ids: 605-1
+    gift: 400001-200
+  }
+  {
+    id: 30076
+    name: 回歸基金-活躍度5檔獎勵
+    gem: 120
+    item_ids: 601-5,506-100
+  }
+  {
+    id: 30077
+    name: 回歸簽到-初始獎勵
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gem: 200
+    icon: Gem
   }
   {
     id: 30099

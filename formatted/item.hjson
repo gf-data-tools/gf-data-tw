@@ -20468,6 +20468,34 @@
     daily_limit: 60;180
   }
   {
+    id: 100265
+    type: 4
+    arg: "100265"
+    code: Nova_medal
+    item_name: 新星勳章·銀染顯影
+    introduction: 新星勳章·銀染顯影
+    rank: 1
+  }
+  {
+    id: 100266
+    type: 4
+    arg: "100266"
+    code: Platinum_medal
+    item_name: 白金勳章·銀染顯影
+    introduction: 白金勳章·銀染顯影
+    rank: 1
+  }
+  {
+    id: 100267
+    type: 9
+    arg: "100267"
+    code: Coin_202408AngularGyrus
+    item_name: 致勝兵卒
+    introduction: 棋局之上，黑白之間，唯有小兵沒有後退的權利。
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -25967,6 +25995,87 @@
     code: package_random
     item_name: 前線協議-額外獎勵
     introduction: 來自於前線協議-日光砂浴，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500210
+    type: 15
+    arg: "1500210"
+    code: Bumdle_Angulargyrus01
+    item_name: 銀染顯影限定裝扮券·壹
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500211
+    type: 15
+    arg: "1500211"
+    code: Bumdle_Angulargyrus02
+    item_name: 銀染顯影限定裝扮券·貳
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500212
+    type: 15
+    arg: "1500212"
+    code: Bumdle_Angulargyrus03
+    item_name: 銀染顯影限定裝扮券·參
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500213
+    type: 15
+    arg: "1500213"
+    code: Bumdle_invocation_3
+    item_name: 四星人形調用函
+    introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500214
+    type: 15
+    arg: "1500214"
+    code: Bumdle_invocation_2
+    item_name: 五星人形調用函
+    introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位五星戰術人形。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500215
+    type: 15
+    arg: "1500215"
+    code: Bumdle_sangvischoose
+    item_name: 融合勢力定向收歸委託書
+    introduction:
+      '''
+      在倉庫中使用該委託書，即可從指定範圍內選擇獲得一位初始三星融合勢力單位。
+      *若指揮官未解鎖「融合勢力」系統，在獲得所選的初始三星融合勢力單位後將暫時無法使用，待後續指揮官解鎖了「融合勢力」系統後可正常使用。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500216
+    type: 15
+    arg: "1500216"
+    code: Bumdle_equipment
+    item_name: 五星裝備自選憑證
+    introduction: 在倉庫中使用該自選憑證，即可從指定範圍內選擇獲得一個非專屬五星裝備。
     rank: 1
     sort: -1
     type_sort: 1
