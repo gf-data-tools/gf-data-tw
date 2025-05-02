@@ -40640,7 +40640,7 @@
     discount: 1
     pay_type: 1
     itemprice: 100267-150
-    classification_id: 1004
+    classification_id: 1007
   }
   {
     id: 12089
@@ -40652,7 +40652,7 @@
     prize_id: 2600
     pay_type: 1
     itemprice: 100267-80
-    classification_id: 1004
+    classification_id: 1007
   }
   {
     id: 12090
@@ -40664,7 +40664,7 @@
     discount: 1
     pay_type: 1
     itemprice: 100267-30
-    classification_id: 1004
+    classification_id: 1007
   }
   {
     id: 12091
@@ -40676,7 +40676,7 @@
     discount: 1
     pay_type: 1
     itemprice: 100267-30
-    classification_id: 1004
+    classification_id: 1007
   }
   {
     id: 12092
@@ -40688,7 +40688,7 @@
     discount: 1
     pay_type: 1
     itemprice: 100267-30
-    classification_id: 1004
+    classification_id: 1007
   }
   {
     id: 12093
@@ -40700,7 +40700,7 @@
     discount: 1
     pay_type: 1
     itemprice: 100267-80
-    classification_id: 1004
+    classification_id: 1007
   }
   {
     id: 12094
@@ -40712,7 +40712,7 @@
     discount: 1
     pay_type: 1
     itemprice: 100267-80
-    classification_id: 1004
+    classification_id: 1007
   }
   {
     id: 12095
@@ -40724,7 +40724,7 @@
     prize_id: 2601
     pay_type: 1
     itemprice: 100267-50
-    classification_id: 1004
+    classification_id: 1007
   }
   {
     id: 12096
@@ -40736,7 +40736,7 @@
     discount: 1
     pay_type: 1
     itemprice: 100267-3
-    classification_id: 1004
+    classification_id: 1007
   }
   {
     id: 12097
@@ -40748,7 +40748,7 @@
     discount: 1
     pay_type: 1
     itemprice: 100267-2
-    classification_id: 1004
+    classification_id: 1007
   }
   {
     id: 12098
@@ -40760,7 +40760,7 @@
     discount: 1
     pay_type: 1
     itemprice: 100267-2
-    classification_id: 1004
+    classification_id: 1007
   }
   {
     id: 12099
@@ -40772,7 +40772,7 @@
     discount: 1
     pay_type: 1
     itemprice: 100267-2
-    classification_id: 1004
+    classification_id: 1007
   }
   {
     id: 12100
@@ -40784,7 +40784,7 @@
     prize_id: 1587
     pay_type: 1
     itemprice: 100265-400
-    classification_id: 1003
+    classification_id: 1008
   }
   {
     id: 12101
@@ -40796,7 +40796,7 @@
     prize_id: 2593
     pay_type: 1
     itemprice: 100265-400
-    classification_id: 1003
+    classification_id: 1008
   }
   {
     id: 12102
@@ -40808,7 +40808,7 @@
     prize_id: 40078
     pay_type: 1
     itemprice: 100266-500
-    classification_id: 1003
+    classification_id: 1008
   }
   {
     id: 12103
@@ -40820,7 +40820,7 @@
     prize_id: 1397
     pay_type: 1
     itemprice: 100266-500
-    classification_id: 1003
+    classification_id: 1008
   }
   {
     id: 12104
@@ -40832,7 +40832,7 @@
     prize_id: 1286
     pay_type: 1
     itemprice: 100266-500
-    classification_id: 1003
+    classification_id: 1008
   }
   {
     id: 12105
@@ -40844,7 +40844,7 @@
     discount: 1
     pay_type: 1
     itemprice: 100265-5
-    classification_id: 1003
+    classification_id: 1008
   }
   {
     id: 12106
@@ -40856,7 +40856,7 @@
     discount: 1
     pay_type: 1
     itemprice: 100266-5
-    classification_id: 1003
+    classification_id: 1008
   }
   {
     id: 12107
