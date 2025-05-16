@@ -20697,6 +20697,110 @@
     rarity: 5
   }
   {
+    id: 1665
+    item_id: 2665
+    sub_type: 1
+    code: profilePic_202505Activity_01
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    logo_code: logo_202505Activity
+  }
+  {
+    id: 1666
+    item_id: 2666
+    sub_type: 1
+    code: profilePic_202505Activity_02
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    logo_code: logo_202505Activity
+  }
+  {
+    id: 1667
+    item_id: 2667
+    sub_type: 1
+    code: profilePic_202505Activity_03
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    logo_code: logo_202505Activity
+  }
+  {
+    id: 1668
+    item_id: 2668
+    sub_type: 2
+    code: card_202505Activity_01
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1669
+    item_id: 2669
+    sub_type: 2
+    code: card_202505Activity_02
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1670
+    item_id: 2670
+    sub_type: 2
+    code: card_202505Activity_03
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1671
+    item_id: 2671
+    sub_type: 3
+    code: cg_202505Activity_01
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1672
+    item_id: 2672
+    sub_type: 3
+    code: cg_202505Activity_02
+    order: 1
+    rarity: 5
+    filter_type: "1"
+  }
+  {
+    id: 1673
+    item_id: 2673
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_BattlePass_LTLX7000
+    order: 1
+    rarity: 5
+    skin: 30029
+  }
+  {
+    id: 1674
+    item_id: 2674
+    sub_type: 2
+    code: card_BattlePass_LTLX7000
+    order: 1
+    rarity: 5
+  }
+  {
+    id: 1675
+    item_id: 2675
+    sub_type: 1
+    code: profilePic_Anniversary2025_Kalina
+    order: 1
+    rarity: 5
+    logo_code: logo_anniversary
+  }
+  {
     id: 2501
     item_id: 3501
     sub_type: 1
@@ -21228,6 +21332,15 @@
     item_id: 200053
     sub_type: 4
     code: profileFrame_BattlePass_Beowulf
+    order: 1
+    rarity: 5
+    filter_type: "5"
+  }
+  {
+    id: 100054
+    item_id: 200054
+    sub_type: 4
+    code: profileFrame_BattlePass_LTLX7000
     order: 1
     rarity: 5
     filter_type: "5"

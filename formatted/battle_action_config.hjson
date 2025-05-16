@@ -1368,7 +1368,7 @@
     creation_delay: "72,20,203,40,40,40,40,40,63"
     sound_order: BT_BOSS_skill,BT_Rotate
     sound_delay: "63,90"
-    effect_order: 3(Architect;狂歡終結;MISSILE LAUNCH;ARCHITECT),2(shakesrc),7(redshine)
+    effect_order: 3(Architect;파멸의 축제;MISSILE LAUNCH;ARCHITECT),2(shakesrc),7(redshine)
     effect_delay: "61,218,41"
     effect_duration: "30,43,10"
     stop_time_speed: "0,0"
@@ -1385,7 +1385,7 @@
     creation_delay: "176,0,0,0,70,262,262,262,262,262,286,286,286,286,286,105"
     sound_order: BT_BOSS_skill,BT_boss8_skill_1,BT_boss8_skill_2,BT_boss8_skill_3,BossGager_SKILL1
     sound_delay: "65,137,208,266,0"
-    effect_order: 3(GAGER;輝之牙;QUANTUM STING;GAGER),6(self:6),5,7(redshine),7(redshine)
+    effect_order: 3(GAGER;번뜩이는 송곳니;QUANTUM STING;GAGER),6(self:6),5,7(redshine),7(redshine)
     effect_delay: "95,180,173,85"
     effect_duration: "40,135,128,10"
     stop_time_speed: "0,0"
@@ -1402,7 +1402,7 @@
     creation_delay: "72,20,203,40,40,40,40,40,40,40,40,40,63"
     sound_order: BT_BOSS_skill,BT_Rotate
     sound_delay: "61,90"
-    effect_order: 3(Architect;狂歡終結;MISSILE LAUNCH;ARCHITECT),2(shakesrc),7(redshine)
+    effect_order: 3(Architect;파멸의 축제;MISSILE LAUNCH;ARCHITECT),2(shakesrc),7(redshine)
     effect_delay: "61,218,41"
     effect_duration: "30,43,10"
     stop_time_speed: "0,0"
@@ -1418,7 +1418,7 @@
     creation_delay: "0,36,66,120,123,126,129,132,135,138,141,66"
     sound_order: BT_BOSS_skill,BT_boss6_skill_1
     sound_delay: "0,66"
-    effect_order: 3(WeaverElite;惡毒綻放;MISSILE SALVO;KNITTER),7(redshine)
+    effect_order: 3(WeaverElite;꽃피는 지옥;MISSILE SALVO;KNITTER),7(redshine)
     effect_delay: "21,15"
     effect_duration: "30,10"
     stop_time_delay: "1"
@@ -1434,7 +1434,7 @@
     creation_delay: "162,202,216,219,222,256,265,271,246,255,261,216,246,254,260,137,246,90,0,10,20,30,40,50,32"
     sound_order: BT_BOSS_skill,BT_boss10_skill_chongci,BT_boss10_skill_luodi,BT_boss10_skill_badao,BT_boss10_skill_zhonghui,BT_boss10_skill_dianhuidao,BT_boss10_skill_jump
     sound_delay: "53,163,168,182,202,214,238"
-    effect_order: 3(ExcutionerElite;霧月處刑;HYBRID ATTACK;EXCUTIONER),7(redshine),7(redshine)
+    effect_order: 3(ExcutionerElite;브뤼메르의 처형식;HYBRID ATTACK;EXCUTIONER),7(redshine),7(redshine)
     effect_delay: "80,90,52"
     effect_duration: "30,25,15"
     stop_time_delay: "120"
@@ -1455,7 +1455,7 @@
     action_playspeed: "100"
     creation_order: "526,527"
     creation_delay: "42,69"
-    effect_order: 6(Dreamer/夢想家SP攻擊控制器:6)
+    effect_order: 6(Dreamer/梦想家SP攻击控制器:6)
     effect_delay: "43"
     effect_duration: "90"
     move_order: "201,202,203"
@@ -1468,7 +1468,7 @@
     action_playspeed: "100"
     creation_order: "528,529,530,528,529,530,528,529,530,528,529,530,528,529,530,528,529,530,528,529,530,528,529,530,527,526"
     creation_delay: "72,74,76,78,80,82,84,86,88,90,92,94,96,98,100,102,104,106,108,110,112,114,116,118,69,42"
-    effect_order: 6(Dreamer/夢想家SP攻擊控制器:6)
+    effect_order: 6(Dreamer/梦想家SP攻击控制器:6)
     effect_delay: "43"
     effect_duration: "90"
     move_order: "201,202,203"
@@ -1494,7 +1494,7 @@
     creation_delay: "0,149,40,101,92,49"
     sound_order: BT_boss10_skill_luodi,143,BT_BOSS_skill
     sound_delay: "39,149,60,39"
-    effect_order: 3(GG_elfeldt_SF;壓軸甜點;ROCKET LAUNCH;ELFELDT),7(redshine),7(redshine)
+    effect_order: 3(GG_elfeldt_SF;제누와즈;ROCKET LAUNCH;ELFELDT),7(redshine),7(redshine)
     effect_delay: "90,92,64"
     effect_duration: "30,10,10"
     stop_time_delay: "90"
@@ -1510,7 +1510,7 @@
     creation_delay: "0,7,7,7,7,14,14,14,14,14,14,14,14,195,199,203,207,211,215,219,223,227,231,235,239,243,267,268,269,270,257,258,259,260,261,262,263,264,265,285,122,79,290,375"
     sound_order: BT_BOSS_skill,BT_Sabotager_Jump,BT_Sabotager_Fire
     sound_delay: "85,164,182"
-    effect_order: 7(redshine),7(redshine),2(shakesrc),3(DestroyerPlus;蓋婭終結;ROCKET LAUNCH;GAIA)
+    effect_order: 7(redshine),7(redshine),2(shakesrc),3(DestroyerPlus;종말의 가이아;ROCKET LAUNCH;GAIA)
     effect_delay: "115,87,280,110"
     effect_duration: "10,10,100,1"
     stop_time_delay: "112"
@@ -1528,7 +1528,7 @@
     creation_delay: "222,60,102,0,0,0,0"
     sound_order: BT_BOSS_skill
     sound_delay: "65"
-    effect_order: 7(redshine),7(redshine),3(Cerberus;滅絕死光;HYPERBEAM;GARM),6(bosscerberus/razer:0)
+    effect_order: 7(redshine),7(redshine),3(Cerberus;파괴광선;HYPERBEAM;GARM),6(bosscerberus/razer:0)
     effect_delay: "95,67,90,222"
     effect_duration: "10,10,1,60"
     stop_time_delay: "90"
@@ -1607,7 +1607,7 @@
     creation_delay: "39,178,181,181,181,181,85,60"
     sound_order: BT_BOSS_skill
     sound_delay: "110"
-    effect_order: 3(SeeleVollerei;遮斷斬殺;SEELESBLINDER;SEELE),7(redshine),7(redshine),2(shakesrc)
+    effect_order: 3(SeeleVollerei;가로막는 참극;SEELESBLINDER;SEELE),7(redshine),7(redshine),2(shakesrc)
     effect_delay: "108,38,48,181"
     effect_duration: "60,10,10,10"
     stop_time_delay: "108"
@@ -1625,7 +1625,7 @@
     creation_delay: "39,178,181,181,181,181,85,60"
     sound_order: BT_BOSS_skill
     sound_delay: "110"
-    effect_order: 3(SeeleVollerei;遮斷斬殺;JUDAHSOATH;SEELE),7(redshine),7(redshine),2(shakesrc)
+    effect_order: 3(SeeleVollerei;가로막는 참극;JUDAHSOATH;SEELE),7(redshine),7(redshine),2(shakesrc)
     effect_delay: "108,38,48,181"
     effect_duration: "60,10,10,10"
     stop_time_delay: "108"
@@ -1643,7 +1643,7 @@
     creation_delay: "39,178,181,181,181,181,85,60"
     sound_order: BT_BOSS_skill
     sound_delay: "110"
-    effect_order: 3(SeeleVollerei;遮斷斬殺;JUDAHSOATH;SEELE),7(redshine),7(redshine),2(shakesrc)
+    effect_order: 3(SeeleVollerei;가로막는 참극;JUDAHSOATH;SEELE),7(redshine),7(redshine),2(shakesrc)
     effect_delay: "108,38,48,181"
     effect_duration: "60,10,10,10"
     stop_time_delay: "108"
@@ -1661,7 +1661,7 @@
     creation_delay: "39,178,181,181,181,181,85,60"
     sound_order: BT_BOSS_skill
     sound_delay: "110"
-    effect_order: 3(SeeleVollerei;遮斷斬殺;JUDAHSOATH;SEELE),7(redshine),7(redshine),2(shakesrc)
+    effect_order: 3(SeeleVollerei;가로막는 참극;JUDAHSOATH;SEELE),7(redshine),7(redshine),2(shakesrc)
     effect_delay: "108,38,48,181"
     effect_duration: "60,10,10,10"
     stop_time_delay: "108"
@@ -1692,7 +1692,7 @@
     creation_delay: "0,27"
     sound_order: BT_BOSS_skill
     sound_delay: "27"
-    effect_order: 3(TheresaApocalypse;聖潔束縛;JUDAH'S OATH;THERESA),7(redshine),7(redshine),7(redshine),7(redshine)
+    effect_order: 3(TheresaApocalypse;신성한 속박;JUDAH'S OATH;THERESA),7(redshine),7(redshine),7(redshine),7(redshine)
     effect_delay: "25,50,20,30,40"
     effect_duration: "20,7,7,7,7"
     stop_time_delay: "20"
@@ -1844,7 +1844,7 @@
     creation_delay: "0,60,0,43"
     sound_order: BT_BOSS_skill
     sound_delay: "43"
-    effect_order: 2(shakesrc),7(redshine),7(redshine),3(M16_Boss;至危警告;AIRSTRIKES;M16A1)
+    effect_order: 2(shakesrc),7(redshine),7(redshine),3(M16_Boss;위험경고;AIRSTRIKES;M16A1)
     effect_delay: "150,21,31,41"
     effect_duration: "30,10,10,1"
   }
@@ -1865,37 +1865,37 @@
   {
     id: 354
     name: E手枪
-    effect_order: 3(M16_Boss;HG-火力提升;DETECTOR;M16A1)
+    effect_order: 3(M16_Boss;HG-화력상승;DETECTOR;M16A1)
     effect_duration: "1"
   }
   {
     id: 355
     name: E冲锋枪
-    effect_order: 3(M16_Boss;SMG-命中提升;DETECTOR;M16A1)
+    effect_order: 3(M16_Boss;SMG-명중상승;DETECTOR;M16A1)
     effect_duration: "1"
   }
   {
     id: 356
     name: E步枪
-    effect_order: 3(M16_Boss;RF-射速提升;DETECTOR;M16A1)
+    effect_order: 3(M16_Boss;RF-사속상승;DETECTOR;M16A1)
     effect_duration: "1"
   }
   {
     id: 357
     name: E突击步枪
-    effect_order: 3(M16_Boss;AR-護甲提升;DETECTOR;M16A1)
+    effect_order: 3(M16_Boss;AR-장갑상승;DETECTOR;M16A1)
     effect_duration: "1"
   }
   {
     id: 358
     name: E机枪
-    effect_order: 3(M16_Boss;MG-回避提升;DETECTOR;M16A1)
+    effect_order: 3(M16_Boss;MG-회피상승;DETECTOR;M16A1)
     effect_duration: "1"
   }
   {
     id: 359
     name: E霰弹枪
-    effect_order: 3(M16_Boss;SG-穿甲提升;DETECTOR;M16A1)
+    effect_order: 3(M16_Boss;SG-관통상승;DETECTOR;M16A1)
     effect_duration: "1"
   }
   {
@@ -1910,7 +1910,7 @@
     action_playspeed: "100"
     creation_order: "870,386,386,386"
     creation_delay: "64,61,61,61"
-    effect_order: 3(M16_Boss;Empty-全幅提升;DETECTOR;M16A1)
+    effect_order: 3(M16_Boss;Empty-스탯상승;DETECTOR;M16A1)
   }
   {
     id: 362
@@ -1944,7 +1944,7 @@
     creation_delay: "160,160,30,73"
     sound_order: BT_Alarm
     sound_delay: "83"
-    effect_order: 3(M16_Boss;厭世者打擊;PBHUYRSSITC;M16A1),7(redshine),7(redshine)
+    effect_order: 3(M16_Boss;염세의 타격;PBHUYRSSITC;M16A1),7(redshine),7(redshine)
     effect_delay: "71,51,61"
     effect_duration: "1,10,10"
     stop_time_delay: "41"
@@ -1957,7 +1957,7 @@
   {
     id: 367
     name: FAILULT
-    effect_order: 3(M16_Boss;厭世者打擊;PBHUYRSSITC;M16A1),7(redshine),7(redshine)
+    effect_order: 3(M16_Boss;염세의 타격;PBHUYRSSITC;M16A1),7(redshine),7(redshine)
   }
   {
     id: 380
@@ -2076,7 +2076,7 @@
     creation_delay: "125,0,43,0"
     sound_order: BT_BOSS_skill,Agent_SKILL2_JP_0
     sound_delay: "3,90"
-    effect_order: 3(Agent;惡兆之鑰;SHIELD;AGENT),7(redshine),7(redshine)
+    effect_order: 3(Agent;흉조의 열쇠;SHIELD;AGENT),7(redshine),7(redshine)
     effect_delay: "41,31,21"
     effect_duration: "1,10,10"
   }
@@ -2211,7 +2211,7 @@
     creation_delay: "140,60,90,0,43,140,140"
     sound_order: BT_BOSS_skill
     sound_delay: "43"
-    effect_order: 3(FAIL_boss;湮滅的詠歎調;OBLIVION;FAIL),7(redshine),7(redshine)
+    effect_order: 3(FAIL_boss;망각의 아리아;OBLIVION;FAIL),7(redshine),7(redshine)
     effect_delay: "41,21,31"
     effect_duration: "1,10,10"
   }
@@ -2761,7 +2761,7 @@
     creation_delay: "92,49"
     sound_order: BT_BOSS_skill
     sound_delay: "39"
-    effect_order: 3(GAGER;壓軸甜點;FLASHBANG;M16A1),7(redshine),7(redshine)
+    effect_order: 3(GAGER;제누와즈;FLASHBANG;M16A1),7(redshine),7(redshine)
     effect_delay: "90,92,64"
   }
   {
@@ -4869,7 +4869,7 @@
     name: 涅托AR用召唤物-70
     action_order: spattack
     action_playspeed: "100"
-    effect_order: 3(Nyto_Silver;感召儀式-AR;Rally the Cults;Nyto)
+    effect_order: 3(Nyto_Silver;소환 의식-AR;Rally the Cults;Nyto)
     effect_duration: "1"
     summon_order: "741,742,744"
     summon_delay: "60,60,75"
@@ -4879,7 +4879,7 @@
     name: 涅托RF用召唤物-70
     action_order: spattack
     action_playspeed: "100"
-    effect_order: 3(Nyto_Silver;感召儀式-RF;Rally the Cults;Nyto)
+    effect_order: 3(Nyto_Silver;소환 의식-RF;Rally the Cults;Nyto)
     effect_duration: "1"
     summon_order: "741,742,744"
     summon_delay: "60,60,75"
@@ -4889,7 +4889,7 @@
     name: 涅托通用用召唤物-70
     action_order: spattack
     action_playspeed: "100"
-    effect_order: 3(Nyto_Silver;感召儀式-通用;Rally the Cults;Nyto)
+    effect_order: 3(Nyto_Silver;소환 의식 - 일반;Rally the Cults;Nyto)
     effect_duration: "1"
     summon_order: "741,742,744"
     summon_delay: "60,60,75"
@@ -4903,7 +4903,7 @@
     creation_delay: "4,47,0,30,35"
     sound_order: BT_BOSS_skill
     sound_delay: "47"
-    effect_order: 3(Nyto_Silver;行星之棺;Planetary Sarcophagus;NYTO),7(redshine),7(redshine)
+    effect_order: 3(Nyto_Silver;행성의 관;Planetary Sarcophagus;NYTO),7(redshine),7(redshine)
     effect_delay: "45,25,35"
     effect_duration: "1,10,10"
     move_order: "438"
@@ -4953,7 +4953,7 @@
     creation_delay: "20,62,105,0,0,0"
     sound_order: BT_BOSS_skill
     sound_delay: "62"
-    effect_order: 3(Nyto_Gold;血月潮汐;Tide of Apocalyptic Moon;NYTO),7(redshine),7(redshine)
+    effect_order: 3(Nyto_Gold;혈월 조석;Tide of Apocalyptic Moon;NYTO),7(redshine),7(redshine)
     effect_delay: "60,40,50"
     effect_duration: "20,30,30"
     move_order: "439"
@@ -5020,7 +5020,7 @@
     creation_delay: "20,62,105,0,0,0"
     sound_order: BT_BOSS_skill
     sound_delay: "62"
-    effect_order: 3(Nyto_Gold;血月潮汐;Tide of Apocalyptic Moon;NYTO),7(redshine),7(redshine)
+    effect_order: 3(Nyto_Gold;혈월 조석;Tide of Apocalyptic Moon;NYTO),7(redshine),7(redshine)
     effect_delay: "60,40,50"
     effect_duration: "20,30,30"
     move_order: "439"
@@ -5035,7 +5035,7 @@
     creation_delay: "20,62,105,0,0,0"
     sound_order: BT_BOSS_skill
     sound_delay: "62"
-    effect_order: 3(Nyto_Gold;血月潮汐;Tide of Apocalyptic Moon;NYTO),7(redshine),7(redshine)
+    effect_order: 3(Nyto_Gold;혈월 조석;Tide of Apocalyptic Moon;NYTO),7(redshine),7(redshine)
     effect_delay: "60,40,50"
     effect_duration: "20,30,30"
     move_order: "439"
@@ -5045,7 +5045,7 @@
     name: 涅托AR用召唤物-125
     action_order: spattack
     action_playspeed: "100"
-    effect_order: 3(Nyto_Silver;感召儀式-AR;Rally the Cults;Nyto)
+    effect_order: 3(Nyto_Silver;소환 의식-AR;Rally the Cults;Nyto)
     effect_duration: "1"
     summon_order: "761,762,764,746,747"
     summon_delay: "60,60,75,75,75"
@@ -5057,7 +5057,7 @@
     action_playspeed: "100"
     creation_order: "4250,4255"
     creation_delay: "60,60"
-    effect_order: 3(Nyto_Silver;感召儀式-RF;Rally the Cults;Nyto)
+    effect_order: 3(Nyto_Silver;소환 의식-RF;Rally the Cults;Nyto)
     effect_duration: "1"
     summon_order: "761,762"
     summon_delay: "60,60"
@@ -5069,7 +5069,7 @@
     action_playspeed: "100"
     creation_order: "4250"
     creation_delay: "60"
-    effect_order: 3(Nyto_Silver;感召儀式-通用;Rally the Cults;Nyto)
+    effect_order: 3(Nyto_Silver;소환 의식 - 일반;Rally the Cults;Nyto)
     effect_duration: "1"
     summon_order: "746,747"
     summon_delay: "60,60"
@@ -5079,7 +5079,7 @@
     name: 涅托AR用召唤物-140
     action_order: spattack
     action_playspeed: "100"
-    effect_order: 3(Nyto_Silver;感召儀式-AR;Rally the Cults;Nyto)
+    effect_order: 3(Nyto_Silver;소환 의식-AR;Rally the Cults;Nyto)
     effect_duration: "1"
     summon_order: "766,768,769,770,771"
     summon_delay: "60,60,75,75,75"
@@ -5091,7 +5091,7 @@
     action_playspeed: "100"
     creation_order: "4256,4257"
     creation_delay: "60,60"
-    effect_order: 3(Nyto_Silver;感召儀式-RF;Rally the Cults;Nyto)
+    effect_order: 3(Nyto_Silver;소환 의식-RF;Rally the Cults;Nyto)
     effect_duration: "1"
   }
   {
@@ -5101,7 +5101,7 @@
     action_playspeed: "100"
     creation_order: "4256"
     creation_delay: "60"
-    effect_order: 3(Nyto_Silver;感召儀式-通用;Rally the Cults;Nyto)
+    effect_order: 3(Nyto_Silver;소환 의식 - 일반;Rally the Cults;Nyto)
     effect_duration: "1"
     summon_order: "770,771"
     summon_delay: "60,60"
@@ -6055,7 +6055,7 @@
     creation_delay: "77,0,22"
     sound_order: BT_BOSS_skill,skill_dana_n_cast
     sound_delay: "22,55"
-    effect_order: 3(Dana_BOSS;紅色間歇泉;Red Geysir;Dana_BOSS),7(redshine),7(redshine)
+    effect_order: 3(Dana_BOSS;레드 게이저;Red Geysir;Dana_BOSS),7(redshine),7(redshine)
     effect_delay: "20,0,10"
     effect_duration: "1,10,10"
     move_order: "738,737,736"
@@ -6240,7 +6240,7 @@
     creation_delay: "20,62,105,0,0,0"
     sound_order: BT_BOSS_skill
     sound_delay: "62"
-    effect_order: 3(Nyto_Gold;血月潮汐;Tide of Apocalyptic Moon;NYTO),7(redshine),7(redshine)
+    effect_order: 3(Nyto_Gold;혈월 조석;Tide of Apocalyptic Moon;NYTO),7(redshine),7(redshine)
     effect_delay: "60,40,50"
     effect_duration: "20,30,30"
     move_order: "439"
@@ -6944,7 +6944,7 @@
     creation_delay: "60,60,60,0,43,0"
     sound_order: skill_nyto_ul_start
     sound_delay: "43"
-    effect_order: 3(Nyto_Isomer_White;曇花幻影;Epiphyllum illusion;Nyto_Isomer_White),7(redshine),7(redshine)
+    effect_order: 3(Nyto_Isomer_White;昙花幻影;Epiphyllum illusion;Nyto_Isomer_White),7(redshine),7(redshine)
     effect_delay: "41,21,31"
     effect_duration: "1,10,10"
   }
@@ -7121,7 +7121,7 @@
     creation_delay: "0,43"
     sound_order: BT_BOSS_skill
     sound_delay: "43"
-    effect_order: 3(M4A1_Boss;伸冤者印記;Seal of the Avenger;M4A1Mod),7(redshine),7(redshine)
+    effect_order: 3(M4A1_Boss;설한의 쐐기;Seal of the Avenger;M4A1Mod),7(redshine),7(redshine)
     effect_delay: "41,21,31"
     effect_duration: "1,10,10"
   }
@@ -7977,7 +7977,7 @@
     creation_delay: "0,43,107,120,0,0,0,0,0,0,0,0,0"
     sound_order: BT_BOSS_skill
     sound_delay: "43"
-    effect_order: 3(Ares;負罪者懲戒;Sinner's Punishment;Ares),7(redshine),7(redshine)
+    effect_order: 3(Ares;아레스징벌;Sinner's Punishment;Ares),7(redshine),7(redshine)
     effect_delay: "41,21,31"
     effect_duration: "1,10,10"
     stop_time_delay: "50"
@@ -8075,7 +8075,7 @@
     creation_delay: "140,2,2,2,0,0,0,0,0,0,0,0,0,0,20,63,82"
     sound_order: BT_BOSS_skill
     sound_delay: "73"
-    effect_order: 3(Eliza_boss;終末輝光;Glow of Termination;Eliza_boss),7(redshine),7(redshine)
+    effect_order: 3(Eliza_boss;종말의 광휘;Glow of Termination;Eliza_boss),7(redshine),7(redshine)
     effect_delay: "71,51,61"
     effect_duration: "1,10,10"
   }
@@ -8126,7 +8126,7 @@
     creation_delay: "140,2,2,2,0,0,0,0,0,0,0,0,0,0,20,63,82"
     sound_order: BT_BOSS_skill
     sound_delay: "73"
-    effect_order: 3(Eliza_boss;終末輝光;FGlow of Termination;Eliza_boss),7(redshine),7(redshine)
+    effect_order: 3(Eliza_boss;종말의 광휘;FGlow of Termination;Eliza_boss),7(redshine),7(redshine)
     effect_delay: "71,51,61"
     effect_duration: "1,10,10"
     avg_order: -36-specialbattletips
@@ -9390,7 +9390,7 @@
     creation_delay: "176,0,0,0,70,262,262,262,262,262,286,286,286,286,286,105"
     sound_order: BT_BOSS_skill,BT_boss8_skill_1,BT_boss8_skill_2,BT_boss8_skill_3,BossGager_SKILL1
     sound_delay: "65,137,208,266,0"
-    effect_order: 3(GAGER;輝之牙;QUANTUM STING;GAGER),6(self:6),5,7(redshine),7(redshine)
+    effect_order: 3(GAGER;번뜩이는 송곳니;QUANTUM STING;GAGER),6(self:6),5,7(redshine),7(redshine)
     effect_delay: "95,180,173,85"
     effect_duration: "40,135,128,10"
     stop_time_speed: "0,0"
@@ -9491,7 +9491,7 @@
     creation_delay: "0,36,66,120,123,126,129,132,135,138,141,66"
     sound_order: BT_BOSS_skill,BT_boss6_skill_1
     sound_delay: "0,66"
-    effect_order: 3(WeaverElite;惡毒綻放;MISSILE SALVO;KNITTER),7(redshine)
+    effect_order: 3(WeaverElite;꽃피는 지옥;MISSILE SALVO;KNITTER),7(redshine)
     effect_delay: "21,15"
     effect_duration: "30,10"
     stop_time_delay: "1"
@@ -9512,7 +9512,7 @@
     action_playspeed: "100"
     creation_order: "526,527"
     creation_delay: "42,69"
-    effect_order: 6(Dreamer/夢想家SP攻擊控制器:6)
+    effect_order: 6(Dreamer/梦想家SP攻击控制器:6)
     effect_delay: "43"
     effect_duration: "90"
     move_order: "201,202,203"
@@ -10315,7 +10315,7 @@
     creation_delay: "0,21,0"
     sound_order: BT_BOSS_skill
     sound_delay: "31"
-    effect_order: 3(Bramede;曼珠沙華舞;曼珠沙華舞;Bramede),7(redshine),7(redshine)
+    effect_order: 3(Bramede;피안화의 춤;피안화의 춤;Bramede),7(redshine),7(redshine)
     effect_delay: "20,0,10"
     effect_duration: "1,10,10"
     stop_time_duration: "30"
@@ -12098,7 +12098,7 @@
     creation_delay: "15"
     sound_order: 22Summer_Xskill
     sound_delay: "46"
-    effect_order: 3(summer_commander;轉圈圈;Kuru Kuru;I'm Commander!)
+    effect_order: 3(summer_commander;빙글빙글;Kuru Kuru;I'm Commander!)
     effect_duration: "1"
     stop_time_duration: "45"
   }
@@ -13144,7 +13144,7 @@
     creation_delay: "72,20,203,40,40,40,40,40,63,40,40,40,40"
     sound_order: BT_BOSS_skill,BT_Rotate
     sound_delay: "63,90"
-    effect_order: 3(Architect;狂歡終結;MISSILE LAUNCH;ARCHITECT),2(shakesrc),7(redshine)
+    effect_order: 3(Architect;파멸의 축제;MISSILE LAUNCH;ARCHITECT),2(shakesrc),7(redshine)
     effect_delay: "61,218,41"
     effect_duration: "30,43,10"
     stop_time_speed: "0,0"
@@ -13194,7 +13194,7 @@
     creation_delay: "0,7,7,7,7,14,14,14,14,14,14,14,14,195,199,203,207,211,215,219,223,227,231,235,239,243,267,268,269,270,257,258,259,260,261,262,263,264,265,285,122,79,290,375"
     sound_order: BT_BOSS_skill,BT_Sabotager_Jump,BT_Sabotager_Fire
     sound_delay: "85,164,182"
-    effect_order: 7(redshine),7(redshine),2(shakesrc),3(DestroyerPlus;蓋婭終結;ROCKET LAUNCH;GAIA)
+    effect_order: 7(redshine),7(redshine),2(shakesrc),3(DestroyerPlus;종말의 가이아;ROCKET LAUNCH;GAIA)
     effect_delay: "115,87,280,110"
     effect_duration: "10,10,100,1"
     stop_time_delay: "112"
@@ -14176,7 +14176,7 @@
     creation_delay: "75,4,47"
     sound_order: BT_BOSS_skill
     sound_delay: "47"
-    effect_order: 3(Nyto_white;純白之夜;POLARDAY;NYTO),7(redshine),7(redshine)
+    effect_order: 3(Nyto_white;백야강림;POLARDAY;NYTO),7(redshine),7(redshine)
     effect_delay: "45,25,35"
     effect_duration: "1,10,10"
     move_order: "410"
@@ -14216,7 +14216,7 @@
     creation_delay: "75,0,43"
     sound_order: BT_BOSS_skill
     sound_delay: "43"
-    effect_order: 3(Nyto_black;黑色方尖碑;OBELISK;NYTO),7(redshine),7(redshine)
+    effect_order: 3(Nyto_black;오벨리스크;OBELISK;NYTO),7(redshine),7(redshine)
     effect_delay: "41,21,31"
     effect_duration: "1,10,10"
   }
@@ -15049,7 +15049,7 @@
     creation_delay: "120,120,0,43"
     sound_order: BT_Alarm
     sound_delay: "53"
-    effect_order: 3(M16_Boss;厭世者打擊;PBHUYRSSITC;M16A1),7(redshine),7(redshine)
+    effect_order: 3(M16_Boss;염세의 타격;PBHUYRSSITC;M16A1),7(redshine),7(redshine)
     effect_delay: "41,21,31"
     effect_duration: "1,10,10"
     stop_time_delay: "41"
@@ -15344,7 +15344,7 @@
     creation_delay: "44,44,44,48,48,52,52,56,56,60,60,64,64,68,68,72,72,76,76,80,80,84,84,88,88,92,92,96,96,100,100,104,104,108,108,112,112,116,116,120,120,124,124,128,128,132,132,136,136,140,140,144,144,148,148,152,152,156,156,160,160,164,164,168,168,172,172,176,176,180,180,184,184"
     sound_order: ani_daocaoren
     sound_delay: "41"
-    effect_order: 3(Scarecrow_Ally;戰場清洗;Battlefield Purge;Scarecrow),10(SangvisScarecrow_test;0;0),11()
+    effect_order: 3(Scarecrow_Ally;전장 청소;Battlefield Purge;Scarecrow),10(SangvisScarecrow_test;0;0),11()
     effect_delay: "1,41,41"
     effect_duration: "1,90,39"
     stop_time_duration: "40"
@@ -15359,7 +15359,7 @@
     creation_delay: "44,44,44,48,48,52,52,56,56,60,60,64,64,68,68,72,72,76,76,80,80,84,84,88,88,92,92,96,96,100,100,104,104,108,108,112,112,116,116,120,120,124,124,128,128,132,132,136,136,140,140,144,144,148,148,152,152,156,156,160,160,164,164"
     sound_order: ani_daocaoren
     sound_delay: "41"
-    effect_order: 3(Scarecrow_Ally;戰場清洗;Battlefield Purge;Scarecrow),10(SangvisScarecrow_test;0;0),11()
+    effect_order: 3(Scarecrow_Ally;전장 청소;Battlefield Purge;Scarecrow),10(SangvisScarecrow_test;0;0),11()
     effect_delay: "1,41,41"
     effect_duration: "1,90,39"
     stop_time_duration: "40"
@@ -15848,7 +15848,7 @@
     creation_delay: "86"
     sound_order: ani_pohuaizhe,stop_cutin,BT_Sabotager_Fire
     sound_delay: "40,49,86"
-    effect_order: 3(Destroyer;指間風;Trigger Happy Storm;Destroyer),10(DestroyerTest;0;0),2(1.5)
+    effect_order: 3(Destroyer;내 손바닥 안이야;Trigger Happy Storm;Destroyer),10(DestroyerTest;0;0),2(1.5)
     effect_delay: "1,41,87"
     effect_duration: "1,90,4"
     stop_time_duration: "40"
@@ -15947,7 +15947,7 @@
     creation_delay: "58,60,90"
     sound_order: ani_jianzhushi,stop_cutin,BT_boss9_skill_1
     sound_delay: "40,49,60"
-    effect_order: 3(BossArchitect;啟動狂歡;Missile Fervor;Architect),10(BossArchitectTest;0;0),2(2)
+    effect_order: 3(BossArchitect;축제 시작이야!;Missile Fervor;Architect),10(BossArchitectTest;0;0),2(2)
     effect_delay: "1,41,72"
     effect_duration: "1,90,2"
     stop_time_duration: "40"
@@ -16029,7 +16029,7 @@
     action_playspeed: "150,100"
     sound_order: ani_xianweishe,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Weaver;熱毒墜落;Venomous Descent;Weaver),10(WeaveTest;0;0),2(0)
+    effect_order: 3(Weaver;맹독 추락;Venomous Descent;Weaver),10(WeaveTest;0;0),2(0)
     effect_delay: "1,41,42"
     effect_duration: "1,90,1"
     stop_time_duration: "40"
@@ -16261,7 +16261,7 @@
     creation_delay: "48,60,72"
     sound_order: ani_lianjinshushi,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Alchemist;大限;The End;Alchemist),10(AlchemistTest;0;0),11()
+    effect_order: 3(Alchemist;최종 선언;The End;Alchemist),10(AlchemistTest;0;0),11()
     effect_delay: "1,41,41"
     effect_duration: "1,90,25"
     stop_time_duration: "40"
@@ -16353,7 +16353,7 @@
     creation_delay: "52,56,56"
     sound_order: ani_mengxiangjia,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Dreamer;寂滅爆破;Silence-Piercing Blast;Dreamer),10(DreamerTest;0;0)
+    effect_order: 3(Dreamer;적멸의 섬광;Silence-Piercing Blast;Dreamer),10(DreamerTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -16488,7 +16488,7 @@
     creation_delay: "64,64,64,82,82"
     sound_order: ani_jiliangguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Gager;落月回返;Moon-Rending Slash;Gager),10(GagerTest;0;0),11()
+    effect_order: 3(Gager;낙월 찌르기;Moon-Rending Slash;Gager),10(GagerTest;0;0),11()
     effect_delay: "1,41,41"
     effect_duration: "1,90,30"
     stop_time_duration: "40"
@@ -17279,7 +17279,7 @@
     action_playspeed: "100"
     sound_order: Nyto_black_tk5_rt,stop_cutin,BT_Blackboss_Buff
     sound_delay: "40,49,50"
-    effect_order: 3(Nyto_black;謐亡碑文;Black Obelisk;Adeline),10(Nyto_black;0;0)
+    effect_order: 3(Nyto_black;에피타프;Black Obelisk;Adeline),10(Nyto_black;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -17463,7 +17463,7 @@
     action_playspeed: "100"
     sound_order: Nyto_white_tk4,stop_cutin,BT_Blackboss_Buff
     sound_delay: "40,49,50"
-    effect_order: 3(Nyto_white;純白之夜;White Night;Alina),10(Nyto_white;0;0)
+    effect_order: 3(Nyto_white;백야강림;White Night;Alina),10(Nyto_white;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -17838,7 +17838,7 @@
     creation_order: "8115,8116,8132,8138,8139,8142,8147,4062,4063"
     creation_delay: "90,115,25,80,115,90,85,0,21"
     sound_delay: "3"
-    effect_order: 3(Teal;落空蟬;Fallen Cicada;TEAL),7(redshine),7(redshine)
+    effect_order: 3(Teal;허물 떨구기;Fallen Cicada;TEAL),7(redshine),7(redshine)
     effect_delay: "20,0,10"
     effect_duration: "1,10,10"
     move_order: "1006"
@@ -18286,7 +18286,7 @@
     action_playspeed: "100"
     creation_order: "8567"
     sound_order: 21Summer_Light_Ball
-    effect_order: 3(Nimeylan;無上領域;Supreme Domain;NIMEYLAN),7(redshine),7(redshine)
+    effect_order: 3(Nimeylan;무상영역;Supreme Domain;NIMEYLAN),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,10,10"
   }
@@ -18547,7 +18547,7 @@
     id: 5825
     name: 老太大招
     sound_order: BT_BossCutin
-    effect_order: 3(Oldlady;狂暴;Rage Time;Ms.Valeriya)
+    effect_order: 3(Oldlady;폭주;Rage Time;Ms.Valeriya)
     effect_duration: "1"
     stop_time_duration: "45"
   }
@@ -18594,7 +18594,7 @@
     creation_order: "8886,8887"
     creation_delay: "51,51"
     sound_order: BT_BossCutin
-    effect_order: 3(Nyto_mecha;致盲射線;Blinding Laser;Tareus)
+    effect_order: 3(Nyto_mecha;실명광선;Blinding Laser;Tareus)
     effect_duration: "1"
     stop_time_duration: "45"
   }
@@ -18739,7 +18739,7 @@
     creation_delay: "0,43,88,88,0"
     sound_order: BT_BOSS_skill,ani_guizishou,stop_cutin
     sound_delay: "23,83,89"
-    effect_order: 7(redshine),7(redshine),10(ExcutionerTest;0;0),3(;命門屠戮;HYBRID ATTACK;Excutioner;11111),11()
+    effect_order: 7(redshine),7(redshine),10(ExcutionerTest;0;0),3(;정수리 치기;HYBRID ATTACK;Excutioner;11111),11()
     effect_delay: "21,31,84,41,84"
     effect_duration: "10,10,150,1,58"
     stop_time_duration: "83"
@@ -18771,7 +18771,7 @@
     creation_delay: "63,40,203,64,72,205"
     sound_order: BT_BOSS_skill,BT_Rotate
     sound_delay: "63,90"
-    effect_order: 3(Architect;狂歡終結;Missile Launch;Architect),7(redshine)
+    effect_order: 3(Architect;파멸의 축제;Missile Launch;Architect),7(redshine)
     effect_delay: "61,41"
     effect_duration: "30,10"
     stop_time_speed: "0,0"
@@ -18811,7 +18811,7 @@
     creation_delay: "0,43,89,89"
     sound_order: BT_BOSS_skill
     sound_delay: "23"
-    effect_order: 7(redshine),7(redshine),3(ExcutionerElite;霧月處刑;HYBRID ATTACK;Excutioner)
+    effect_order: 7(redshine),7(redshine),3(ExcutionerElite;브뤼메르의 처형식;HYBRID ATTACK;Excutioner)
     effect_delay: "21,31,41"
     effect_duration: "10,10,1"
     stop_time_speed: "85"
@@ -18828,7 +18828,7 @@
     creation_delay: "78,80,82,84,86,88,90,92,94,96,98,100,102,104,0,43"
     sound_order: BT_BOSS_skill
     sound_delay: "23"
-    effect_order: 7(redshine),7(redshine),3(Hunter;滅獄血彈;Crimson Bullet of Devastation;Hunter)
+    effect_order: 7(redshine),7(redshine),3(Hunter;멸망의 혈탄;Crimson Bullet of Devastation;Hunter)
     effect_delay: "21,31,41"
     effect_duration: "10,10,1"
   }
@@ -18877,7 +18877,7 @@
     action_playspeed: "100"
     creation_order: "6202,6202,6202,6202,620201,6203"
     creation_delay: "80,83,87,90,85,135"
-    effect_order: 3(GagerSwimwear;埃吉爾之錨;Aegir Anchor;Gager-VWV),10(Gager_summer;0;0)
+    effect_order: 3(GagerSwimwear;에기르의 닻;Aegir Anchor;Gager-VWV),10(Gager_summer;0;0)
     effect_delay: "1,41,41"
     effect_duration: "1,90,30"
     stop_time_duration: "40"
@@ -18890,7 +18890,7 @@
     action_playspeed: "100"
     creation_order: "6202,6202,6202,6202,620201,620201,620201,620201,6203"
     creation_delay: "80,92,82,96,84,88,86,90,135"
-    effect_order: 3(GagerSwimwear_1;埃吉爾之錨;Aegir Anchor;Gager-VWV),10(Gager_summer;0;0)
+    effect_order: 3(GagerSwimwear_1;에기르의 닻;Aegir Anchor;Gager-VWV),10(Gager_summer;0;0)
     effect_delay: "1,41,41"
     effect_duration: "1,90,30"
     stop_time_duration: "40"
@@ -18929,7 +18929,7 @@
     action_playspeed: "100"
     creation_order: "6209"
     creation_delay: "122"
-    effect_order: 3(M16A1_Boss;死亡陰翳;Shadow Of Death;Beluga),10(M16A1_Boss;0;0)
+    effect_order: 3(M16A1_Boss;죽음의 그늘;Shadow Of Death;Beluga),10(M16A1_Boss;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -18966,7 +18966,7 @@
     action_playspeed: "100"
     creation_order: "6209"
     creation_delay: "122"
-    effect_order: 3(M16A1_Boss_1;死亡陰翳;Shadow Of Death;Beluga),10(M16A1_Boss;0;0)
+    effect_order: 3(M16A1_Boss_1;죽음의 그늘;Shadow Of Death;Beluga),10(M16A1_Boss;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -19288,7 +19288,7 @@
     creation_delay: "150,145,200,250,20,20"
     sound_order: BT_BOSS_skill
     sound_delay: "3"
-    effect_order: 3(Dropkick_YurineBoss;爆裂真眼;Explosion Réel;YURINE),7(redshine),7(redshine)
+    effect_order: 3(Dropkick_YurineBoss;폭렬진안;Explosion Réel;YURINE),7(redshine),7(redshine)
     effect_delay: "10,21,31"
     effect_duration: "1,10,10"
   }
@@ -19461,7 +19461,7 @@
     creation_delay: "58,60,130,83"
     sound_order: ani_architectsummer,stop_cutin,BT_boss9_skill_1
     sound_delay: "40,49,60"
-    effect_order: 3(BossArchitect_Summer;水彈亂鬥;Shark Torpedo;Architect-NVW),10(ArchitectSummerSkill;0;0),2(2),11()
+    effect_order: 3(BossArchitect_Summer;물폭탄 대난투;Shark Torpedo;Architect-NVW),10(ArchitectSummerSkill;0;0),2(2),11()
     effect_delay: "1,41,83,41"
     effect_duration: "1,90,2,10"
     stop_time_duration: "40"
@@ -19960,7 +19960,7 @@
     creation_delay: "42,45,45,20,20"
     sound_order: Halloween_Intruder
     sound_delay: "40"
-    effect_order: 3(Intruder_Halloween;蠕行鬼霧;Ghost Mist;Intruder Witch),10(Intruder_Halloween;0;0)
+    effect_order: 3(Intruder_Halloween;꿈틀대는 안개;Ghost Mist;Intruder Witch),10(Intruder_Halloween;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -19975,7 +19975,7 @@
     creation_delay: "42,45,45,20,20"
     sound_order: Halloween_Intruder
     sound_delay: "40"
-    effect_order: 3(Intruder_Halloween;蠕行鬼霧;Ghost Mist;Intruder Witch),10(Intruder_Halloween;0;0)
+    effect_order: 3(Intruder_Halloween;꿈틀대는 안개;Ghost Mist;Intruder Witch),10(Intruder_Halloween;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -21008,7 +21008,7 @@
     action_playspeed: "100"
     creation_order: "8518,8532,8533,8532,8533,8532,8533,8532,8533,8532,8533,8519,8520,8519,8520,8519,8520,8519,8520,8520"
     creation_delay: "42,82,89,95,101,107,113,119,125,131,137,93,99,105,111,117,123,129,135,141"
-    effect_order: 3(Destroyer_Christmas;凜冬三重奏;Winter Trio;Destroyer-Xmas),10(Destroyer_Christmas;0;0)
+    effect_order: 3(Destroyer_Christmas;凛冬三重奏;Winter Trio;Destroyer-Xmas),10(Destroyer_Christmas;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -21021,7 +21021,7 @@
     action_playspeed: "100"
     creation_order: "8523,8527,8527,8524,8525,8526"
     creation_delay: "73,67,72,75,75,75"
-    effect_order: 3(Destroyer_Christmas;凜冬三重奏;Winter Trio;Destroyer-Xmas),10(Destroyer_Christmas;0;0)
+    effect_order: 3(Destroyer_Christmas;凛冬三重奏;Winter Trio;Destroyer-Xmas),10(Destroyer_Christmas;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -21034,7 +21034,7 @@
     action_playspeed: "100"
     creation_order: "8529,8530,8529,8531,8529,8530,8529,8531,8529,8530,8529,8531,8529,8530,8529,8531,8529,8530"
     creation_delay: "76,76,81,81,86,86,91,91,96,96,101,101,106,106,111,111,116,116"
-    effect_order: 3(Destroyer_Christmas;凜冬三重奏;Winter Trio;Destroyer-Xmas),10(Destroyer_Christmas;0;0)
+    effect_order: 3(Destroyer_Christmas;凛冬三重奏;Winter Trio;Destroyer-Xmas),10(Destroyer_Christmas;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -21283,7 +21283,7 @@
     action_playspeed: "100"
     creation_order: "8637,8641"
     creation_delay: "42,0"
-    effect_order: 3(Hunter_WhiteDay;血彈循香;Fragrance Bullet;Morpho Hunter),10(Hunter_WhiteDay;0;0)
+    effect_order: 3(Hunter_WhiteDay;향긋한 총알;Fragrance Bullet;Morpho Hunter),10(Hunter_WhiteDay;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -21295,7 +21295,7 @@
     action_playspeed: "100"
     creation_order: "8637,8641"
     creation_delay: "42,0"
-    effect_order: 3(Hunter_WhiteDay;血彈循香;Fragrance Bullet;Morpho Hunter),10(Hunter_WhiteDay;0;0)
+    effect_order: 3(Hunter_WhiteDay;향긋한 총알;Fragrance Bullet;Morpho Hunter),10(Hunter_WhiteDay;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -21435,7 +21435,7 @@
     action_playspeed: "100"
     creation_order: "8668,8669,8671,8675,8676,8677,8678,8679,8680,8681,8682,8683,8684,8685,8686"
     creation_delay: "42,71,70,71,0,42,74,78,82,86,100,104,108,112,116"
-    effect_order: 3(BossCerberus;滅絕死光;HYPERBEAM;Cerberus),10(BossCerberus;0;0)
+    effect_order: 3(BossCerberus;파괴광선;HYPERBEAM;Cerberus),10(BossCerberus;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -21447,7 +21447,7 @@
     action_playspeed: "100"
     creation_order: "8668,8669,8670,8671,8675,8676,8677,8678,8679,8680,8681,8682,8683,8684,8685,8686"
     creation_delay: "42,71,71,70,71,0,42,74,78,82,86,100,104,108,112,116"
-    effect_order: 3(BossCerberus;滅絕死光;HYPERBEAM;Cerberus),10(BossCerberus;0;0)
+    effect_order: 3(BossCerberus;파괴광선;HYPERBEAM;Cerberus),10(BossCerberus;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -21567,7 +21567,7 @@
     creation_delay: "75"
     sound_order: BT_Whiteboss_Skill
     sound_delay: "75"
-    effect_order: 3(Nyto_White_Summer;潮音斬;Wave Chop;Alina),10(Nyto_White_Summer;0;0)
+    effect_order: 3(Nyto_White_Summer;물결베기;Wave Chop;Alina),10(Nyto_White_Summer;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -21581,7 +21581,7 @@
     creation_delay: "75"
     sound_order: BT_Whiteboss_Skill
     sound_delay: "75"
-    effect_order: 3(Nyto_White_Summer;潮音斬;Wave Chop;Alina),10(Nyto_White_Summer;0;0)
+    effect_order: 3(Nyto_White_Summer;물결베기;Wave Chop;Alina),10(Nyto_White_Summer;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -22267,7 +22267,7 @@
     creation_delay: "41,60,120,70,120,170"
     sound_order: BT_boss10_skill_jump,BT_boss10_skill_luodi,BT_boss10_skill_jump,BT_boss10_skill_luodi,BT_boss10_skill_badao,BT_BOSS_zhansha,BT_boss10_skill_chongci,BT_RockExplo
     sound_delay: "45,70,140,170,85,120,67,65"
-    effect_order: 3(Excutioner_Halloween;噩兆崩落;Ominous Crack;Excutioner Pirate),10(Excutioner_Halloween;0;0)
+    effect_order: 3(Excutioner_Halloween;흉조붕괴;Ominous Crack;Excutioner Pirate),10(Excutioner_Halloween;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -22284,7 +22284,7 @@
     creation_delay: "41,60,120,70,120,170"
     sound_order: BT_boss10_skill_jump,BT_boss10_skill_luodi,BT_boss10_skill_jump,BT_boss10_skill_luodi,BT_boss10_skill_badao,BT_BOSS_zhansha,BT_boss10_skill_chongci,BT_RockExplo
     sound_delay: "45,70,140,170,85,120,67,65"
-    effect_order: 3(Excutioner_Halloween_1;噩兆崩落;Ominous Crack;Excutioner Pirate),10(Excutioner_Halloween;0;0)
+    effect_order: 3(Excutioner_Halloween_1;흉조붕괴;Ominous Crack;Excutioner Pirate),10(Excutioner_Halloween;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -22605,7 +22605,7 @@
     creation_delay: "0,53,64,85,58,69,90,93,58,69,90"
     sound_order: skill_hugerobot_enemy_white_explo,skill_hugerobot_enemy_white_explo,skill_hugerobot_enemy_white_explo,skill_isomer_disturbation
     sound_delay: "53,64,85,90"
-    effect_order: 3(Nyto_tareus;充能力場;Energy Absorber;Tareus),10(Nyto_tareus;0;0)
+    effect_order: 3(Nyto_tareus;충전 역장;Energy Absorber;Tareus),10(Nyto_tareus;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -22620,7 +22620,7 @@
     creation_delay: "0,53,64,85,58,69,90,93,58,69,90"
     sound_order: skill_hugerobot_enemy_white_explo,skill_hugerobot_enemy_white_explo,skill_hugerobot_enemy_white_explo,skill_isomer_disturbation
     sound_delay: "53,64,85,90"
-    effect_order: 3(Nyto_tareus_1;充能力場;Energy Absorber;Tareus),10(Nyto_tareus;0;0)
+    effect_order: 3(Nyto_tareus_1;충전 역장;Energy Absorber;Tareus),10(Nyto_tareus;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -23173,7 +23173,7 @@
     creation_delay: "100,100,60,48,42,45,48"
     sound_order: skill_eliza_ulrelease
     sound_delay: "80"
-    effect_order: 3(Scarecrow_SpringFes;轉輪強襲;Roulette Raid;Scarecrow SF),10(Scarecrow_SpringFes;0;0)
+    effect_order: 3(Scarecrow_SpringFes;룰렛 어썰트;Roulette Raid;Scarecrow SF),10(Scarecrow_SpringFes;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -23188,7 +23188,7 @@
     creation_delay: "100,100,60,48,42,45,48"
     sound_order: skill_eliza_ulrelease
     sound_delay: "80"
-    effect_order: 3(Scarecrow_SpringFes_1;轉輪強襲;Roulette Raid;Scarecrow SF),10(Scarecrow_SpringFes;0;0)
+    effect_order: 3(Scarecrow_SpringFes_1;룰렛 어썰트;Roulette Raid;Scarecrow SF),10(Scarecrow_SpringFes;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -23682,7 +23682,7 @@
     creation_delay: "100,120,104,106,108,110,112,114,92,94,96,98,100,102,92,94,96,98,100,102,104,106,108,110,112,114"
     sound_order: BT_BossCutin
     sound_delay: "45"
-    effect_order: 3(Nyto_mecha2;全彈發射;Full Fire;Sana)
+    effect_order: 3(Nyto_mecha2;전탄발사;Full Fire;Sana)
     effect_delay: "45"
     effect_duration: "1"
     stop_time_delay: "45"
@@ -23769,7 +23769,7 @@
     creation_delay: "0,150,70"
     sound_order: 21Summer_EN_Appear,BT_BossCutin
     sound_delay: "65,20"
-    effect_order: 3(pamzanboss;失控;Losing Control;Ganglati)
+    effect_order: 3(pamzanboss;통제 이탈;Losing Control;Ganglati)
     effect_duration: "1"
   }
   {
@@ -23912,7 +23912,7 @@
     action_playspeed: "100"
     creation_order: "9319,9354,9326,9327,9328,9329,9330,9331,9332,9333,9334,9335,9336,9343,9344,9345,9346,9347,9348,9349,9350,9351,9352,9353,9355"
     creation_delay: "100,104,106,108,110,112,114,92,94,96,98,100,102,92,94,96,98,100,102,104,106,108,110,112,114"
-    effect_order: 3(Nyto_mecha2;火樹銀花;Pyrotechnics;Sana),10(Nyto_sana;0;0)
+    effect_order: 3(Nyto_mecha2;불나무에 은색꽃;Pyrotechnics;Sana),10(Nyto_sana;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -23924,7 +23924,7 @@
     action_playspeed: "100"
     creation_order: "9319,9354,9326,9327,9328,9329,9330,9331,9332,9333,9334,9335,9336,9343,9344,9345,9346,9347,9348,9349,9350,9351,9352,9353,9355"
     creation_delay: "100,104,106,108,110,112,114,92,94,96,98,100,102,92,94,96,98,100,102,104,106,108,110,112,114"
-    effect_order: 3(Nyto_mecha2_1;火樹銀花;Pyrotechnics;Sana),10(Nyto_sana;0;0)
+    effect_order: 3(Nyto_mecha2_1;불나무에 은색꽃;Pyrotechnics;Sana),10(Nyto_sana;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -24839,7 +24839,7 @@
     action_playspeed: "100,200"
     creation_order: "9480,9480,9480"
     creation_delay: "41,81,121"
-    effect_order: 3(BossNarciss;七原罪;Seven Deadly Sins;Narciss),10(BossNarciss;0;0)
+    effect_order: 3(BossNarciss;칠대죄;Seven Deadly Sins;Narciss),10(BossNarciss;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -24852,7 +24852,7 @@
     action_playspeed: "100,200"
     creation_order: "9482,9482,9482"
     creation_delay: "41,81,121"
-    effect_order: 3(BossNarciss_1;七原罪;Seven Deadly Sins;Narciss),10(BossNarciss;0;0)
+    effect_order: 3(BossNarciss_1;칠대죄;Seven Deadly Sins;Narciss),10(BossNarciss;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -24943,7 +24943,7 @@
     action_playspeed: "100,100"
     creation_order: "9500,9504"
     creation_delay: "60,43"
-    effect_order: 3(Dreamer_Halloween;霧夜遊靈;Misty Night Wanderer;Halloween Dreamer),10(Dreamer_Halloween;0;0)
+    effect_order: 3(Dreamer_Halloween;안개밤 유령;Misty Night Wanderer;Halloween Dreamer),10(Dreamer_Halloween;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -24956,7 +24956,7 @@
     action_playspeed: "100,100"
     creation_order: "9500,9504"
     creation_delay: "60,43"
-    effect_order: 3(Dreamer_Halloween_1;霧夜遊靈;Misty Night Wanderer;Halloween Dreamer),10(Dreamer_Halloween;0;0)
+    effect_order: 3(Dreamer_Halloween_1;안개밤 유령;Misty Night Wanderer;Halloween Dreamer),10(Dreamer_Halloween;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -25209,7 +25209,7 @@
     action_playspeed: "100"
     creation_order: "9565,9566,9572,9573"
     creation_delay: "62,70,70,62"
-    effect_order: 3(Mrsgray;病灶穿刺;Poisonous Sting;Gray),10(Mrsgray;0;0)
+    effect_order: 3(Mrsgray;병소 꿰뚫기;Poisonous Sting;Gray),10(Mrsgray;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -25222,7 +25222,7 @@
     action_playspeed: "100"
     creation_order: "9565,9566,9572,9573"
     creation_delay: "62,70,70,62"
-    effect_order: 3(Mrsgray_1;病灶穿刺;Poisonous Sting;Gray),10(Mrsgray;0;0)
+    effect_order: 3(Mrsgray_1;병소 꿰뚫기;Poisonous Sting;Gray),10(Mrsgray;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -25803,6 +25803,30 @@
     creation_delay: "0,0,0"
   }
   {
+    id: 9251
+    name: HTI立姿普攻
+    action_order: attack
+    action_playspeed: "100"
+    creation_order: "3803,21,139"
+    creation_delay: "0,0,0"
+  }
+  {
+    id: 9252
+    name: HTI腰姿普攻
+    action_order: attack2
+    action_playspeed: "100"
+    creation_order: "3804,21,139,3805,21,139"
+    creation_delay: "0,0,0,4,4,4"
+  }
+  {
+    id: 9253
+    name: HTI卧姿普攻
+    action_order: attack3
+    action_playspeed: "100"
+    creation_order: "3806,3807,21,139"
+    creation_delay: "0,0,0,0"
+  }
+  {
     id: 9254
     name: 超级肖蒂专属伤害下降
     creation_order: "3815"
@@ -26045,7 +26069,7 @@
     name: 拉普拉斯妖-皇帝
     action_order: sp
     action_playspeed: "100"
-    effect_order: 3(LaplaceBoss;皇帝;The Emperor;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;황제;The Emperor;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
     summon_order: "5001,5002"
@@ -26056,7 +26080,7 @@
     name: 拉普拉斯妖-教皇
     action_order: sp
     action_playspeed: "100"
-    effect_order: 3(LaplaceBoss;教宗;The Hierophant;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;교황;The Hierophant;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
     summon_order: "5011,5012"
@@ -26067,7 +26091,7 @@
     name: 拉普拉斯妖-战车
     action_order: sp
     action_playspeed: "100"
-    effect_order: 3(LaplaceBoss;戰車;The Chariot;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;전차;The Chariot;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
     summon_order: "5102,5103"
@@ -26078,7 +26102,7 @@
     name: 拉普拉斯妖-力量
     action_order: sp
     action_playspeed: "100"
-    effect_order: 3(LaplaceBoss;力量;Strength;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;힘;Strength;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
     summon_order: "5104,5105"
@@ -26089,7 +26113,7 @@
     name: 拉普拉斯妖-恋人
     action_order: sp
     action_playspeed: "100"
-    effect_order: 3(LaplaceBoss;戀人;The Lovers;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;연인;The Lovers;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
     summon_order: "5015"
@@ -26100,7 +26124,7 @@
     name: 拉普拉斯妖-隐者
     action_order: sp
     action_playspeed: "100"
-    effect_order: 3(LaplaceBoss;隱者;The Hermit;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;은둔자;The Hermit;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
     summon_order: "5106,5107"
@@ -26111,7 +26135,7 @@
     name: 拉普拉斯妖-正义
     action_order: sp
     action_playspeed: "100"
-    effect_order: 3(LaplaceBoss;正義;Justice;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;정의;Justice;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
     summon_order: "5108,5109"
@@ -26122,7 +26146,7 @@
     name: 拉普拉斯妖-节制
     action_order: sp
     action_playspeed: "100"
-    effect_order: 3(LaplaceBoss;節制;Temperance;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;절제;Temperance;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
     summon_order: "5110,5111"
@@ -26135,7 +26159,7 @@
     action_playspeed: "100"
     creation_order: "7009,7010"
     creation_delay: "60,60"
-    effect_order: 3(LaplaceBoss;死神;Death;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;죽음;Death;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
   }
@@ -26144,7 +26168,7 @@
     name: 拉普拉斯妖-恶魔
     action_order: sp
     action_playspeed: "100"
-    effect_order: 3(LaplaceBoss;惡魔;The Devil;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;악마;The Devil;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
     summon_order: "5016,5017"
@@ -26155,7 +26179,7 @@
     name: 拉普拉斯妖-星星
     action_order: sp
     action_playspeed: "100"
-    effect_order: 3(LaplaceBoss;星星;The Star;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;별;The Star;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
   }
@@ -26164,7 +26188,7 @@
     name: 拉普拉斯妖-月亮
     action_order: sp
     action_playspeed: "100"
-    effect_order: 3(LaplaceBoss;月亮;The Moon;Démon de Laplace),7(redshine),7(redshine)
+    effect_order: 3(LaplaceBoss;달;The Moon;Démon de Laplace),7(redshine),7(redshine)
     effect_delay: "0,0,10"
     effect_duration: "1,30,30"
     summon_order: "5112,5113"
@@ -26319,7 +26343,7 @@
     action_playspeed: "60"
     creation_order: "7138"
     creation_delay: "60"
-    effect_order: 3(HebeBoss;劇毒荊棘;Venom Thorns;Hebe)
+    effect_order: 3(HebeBoss;맹독 가시덩굴;Venom Thorns;Hebe)
     effect_duration: "1"
   }
   {
@@ -26448,7 +26472,7 @@
     action_playspeed: "100"
     creation_order: "7181,718101,718102,718103,718104,718105,718106"
     creation_delay: "45,45,55,60,65,70,50"
-    effect_order: 3(StyxBoss;蓄電雷暴;Electrical Storm;Styx)
+    effect_order: 3(StyxBoss;차지 라이트닝;Electrical Storm;Styx)
     effect_duration: "1"
   }
   {
@@ -26458,7 +26482,7 @@
     action_playspeed: "100"
     creation_order: "7182,718101,718102,718103,718104,718105,718106,718201,718202,718203,718204,718205,718206"
     creation_delay: "45,45,55,60,65,70,50,45,55,60,65,70,50"
-    effect_order: 3(StyxBoss;蓄電雷暴;Electrical Storm;Styx)
+    effect_order: 3(StyxBoss;차지 라이트닝;Electrical Storm;Styx)
     effect_duration: "1"
   }
   {
@@ -26468,7 +26492,7 @@
     action_playspeed: "100"
     creation_order: "7182,718101,718102,718103,718104,718105,718106,718201,718202,718203,718204,718205,718206,718301,718302,718303,718304,718305,718306"
     creation_delay: "45,45,55,60,65,70,50,45,55,60,65,70,50,45,55,60,65,70,50"
-    effect_order: 3(StyxBoss;蓄電雷暴;Electrical Storm;Styx)
+    effect_order: 3(StyxBoss;차지 라이트닝;Electrical Storm;Styx)
     effect_duration: "1"
   }
   {
@@ -26478,7 +26502,7 @@
     action_playspeed: "100"
     creation_order: "7182,718101,718102,718103,718104,718105,718106,718201,718202,718203,718204,718205,718206,718301,718302,718303,718304,718305,718306,718401,718402,718403,718404,718405,718406"
     creation_delay: "45,45,55,60,65,70,50,45,55,60,65,70,50,45,55,60,65,70,50,45,55,60,65,70,50"
-    effect_order: 3(StyxBoss;蓄電雷暴;Electrical Storm;Styx)
+    effect_order: 3(StyxBoss;차지 라이트닝;Electrical Storm;Styx)
     effect_duration: "1"
   }
   {
@@ -26595,7 +26619,7 @@
     creation_delay: "0,7,7,7,7,14,14,14,14,14,14,14,14,195,199,203,207,211,215,219,223,227,231,235,239,243,267,268,269,270,257,258,259,260,261,262,263,264,265,285,122,79,290,375"
     sound_order: BT_BOSS_skill,BT_Sabotager_Jump,BT_Sabotager_Fire
     sound_delay: "85,164,182"
-    effect_order: 7(redshine),7(redshine),2(shakesrc),3(DestroyerPlus;蓋婭終結;ROCKET LAUNCH;GAIA)
+    effect_order: 7(redshine),7(redshine),2(shakesrc),3(DestroyerPlus;종말의 가이아;ROCKET LAUNCH;GAIA)
     effect_delay: "115,87,280,110"
     effect_duration: "10,10,100,1"
     stop_time_delay: "112"
@@ -27511,7 +27535,7 @@
     creation_delay: "120,120,0,43"
     sound_order: BT_Alarm
     sound_delay: "53"
-    effect_order: 3(M16_Boss;厭世者打擊;PBHUYRSSITC;M16A1),7(redshine),7(redshine)
+    effect_order: 3(M16_Boss;염세의 타격;PBHUYRSSITC;M16A1),7(redshine),7(redshine)
     effect_delay: "41,21,31"
     effect_duration: "1,10,10"
     stop_time_delay: "41"
@@ -27546,7 +27570,7 @@
     action_playspeed: "100"
     sound_order: ani_lieshou,stop_cutin
     sound_delay: "40,46"
-    effect_order: 3(Hunter;滅獄血彈;Crimson Bullet of Devastation;Hunter),10(HunterTest;0;0)
+    effect_order: 3(Hunter;멸망의 혈탄;Crimson Bullet of Devastation;Hunter),10(HunterTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27711,7 +27735,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27726,7 +27750,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27741,7 +27765,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27756,7 +27780,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27771,7 +27795,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27786,7 +27810,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27801,7 +27825,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27816,7 +27840,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27831,7 +27855,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27846,7 +27870,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27955,7 +27979,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27970,7 +27994,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -27985,7 +28009,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -28000,7 +28024,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -28015,7 +28039,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -28030,7 +28054,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -28045,7 +28069,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -28060,7 +28084,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -28075,7 +28099,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -28090,7 +28114,7 @@
     creation_delay: "41,42,43"
     sound_order: ani_ganraozhe
     sound_delay: "40"
-    effect_order: 3(Intruder;軍勢侵擾;Military Raid;Intruder),10(GanraoTest;0;0)
+    effect_order: 3(Intruder;교란 군세;Military Raid;Intruder),10(GanraoTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,90"
     stop_time_duration: "40"
@@ -28288,7 +28312,7 @@
     creation_delay: "52,56,56"
     sound_order: ani_mengxiangjia,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Dreamer;寂滅爆破;Silence-Piercing Blast;Dreamer),10(DreamerTest;0;0)
+    effect_order: 3(Dreamer;적멸의 섬광;Silence-Piercing Blast;Dreamer),10(DreamerTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -28305,7 +28329,7 @@
     creation_delay: "52,56,56"
     sound_order: ani_mengxiangjia,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Dreamer;寂滅爆破;Silence-Piercing Blast;Dreamer),10(DreamerTest;0;0)
+    effect_order: 3(Dreamer;적멸의 섬광;Silence-Piercing Blast;Dreamer),10(DreamerTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29312,7 +29336,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29329,7 +29353,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29346,7 +29370,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29363,7 +29387,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29380,7 +29404,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29397,7 +29421,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29414,7 +29438,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29431,7 +29455,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29448,7 +29472,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29465,7 +29489,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29482,7 +29506,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29499,7 +29523,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29516,7 +29540,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29533,7 +29557,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29550,7 +29574,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29567,7 +29591,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29584,7 +29608,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29601,7 +29625,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29618,7 +29642,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29635,7 +29659,7 @@
     creation_delay: "76,77,78,79,80,81"
     sound_order: ani_faguan,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Justice;裁決;Verdict;Justice),10(JusticeTest;0;0)
+    effect_order: 3(Justice;재판 선고;Verdict;Justice),10(JusticeTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29729,7 +29753,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29744,7 +29768,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29759,7 +29783,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29774,7 +29798,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29789,7 +29813,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29804,7 +29828,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29819,7 +29843,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29834,7 +29858,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29849,7 +29873,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29864,7 +29888,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29879,7 +29903,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29894,7 +29918,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29909,7 +29933,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29924,7 +29948,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29939,7 +29963,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29954,7 +29978,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29969,7 +29993,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29984,7 +30008,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -29999,7 +30023,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"
@@ -30014,7 +30038,7 @@
     creation_delay: "41,42"
     sound_order: ani_dailiren,stop_cutin
     sound_delay: "40,49"
-    effect_order: 3(Agent;血光映射;Bloody Gleam;Agent),10(AgentTest;0;0)
+    effect_order: 3(Agent;혈광영사;Bloody Gleam;Agent),10(AgentTest;0;0)
     effect_delay: "1,41"
     effect_duration: "1,60"
     stop_time_duration: "40"

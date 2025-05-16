@@ -16138,6 +16138,55 @@
     parameter: "9642"
   }
   {
+    id: 1005702
+    type: 6
+    target: 1
+    parameter: "3"
+    buff_id: 9786
+  }
+  {
+    id: 1005703
+    type: 6
+    target: 1
+    parameter: "3"
+    buff_id: 9787
+  }
+  {
+    id: 1005704
+    type: 6
+    target: 1
+    parameter: "1"
+    buff_id: 9781
+  }
+  {
+    id: 1005705
+    type: 7
+    target: 1
+    parameter: "1"
+    buff_id: 9772
+  }
+  {
+    id: 1005706
+    type: 6
+    target: 1
+    parameter: "5"
+    buff_id: 9786
+  }
+  {
+    id: 1005707
+    type: 6
+    target: 1
+    parameter: "3"
+    buff_id: 9788
+  }
+  {
+    id: 1005709
+    type: 6
+    target: 1
+    parameter: "1"
+    buff_id: 9780
+  }
+  {
     id: 1006104
     type: 18
     target: 1
@@ -16176,6 +16225,25 @@
     target: 1
     parameter: "1"
     buff_id: 9795
+  }
+  {
+    id: 1006404
+    type: 18
+    target: 1
+    parameter: "9804"
+  }
+  {
+    id: 1006504
+    type: 18
+    target: 1
+    parameter: "9805"
+  }
+  {
+    id: 1006505
+    type: 6
+    target: 1
+    parameter: "1"
+    buff_id: 9822
   }
   {
     id: 7502461
@@ -24477,6 +24545,13 @@
     target: 1
     parameter: "1"
     buff_id: 9739
+  }
+  {
+    id: 100570701
+    type: 7
+    target: 2
+    parameter: "1"
+    buff_id: 9782
   }
   {
     id: 100620501

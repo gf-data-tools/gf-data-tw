@@ -7542,7 +7542,7 @@
     fit_gun: 361
     voice: 4
     dialog: 長纓在手，雪漫弓刀。指揮官請放心，只要有我在，任何覬覦格里芬的宵小之徒都無法前進半步！
-    gift_position: "-158.7,595.5"
+    gift_position: "-88.6,26.4"
     order: 96
     class_id: 82
     skin_source: 1
@@ -9931,6 +9931,7 @@
     fit_gun: 85
     voice: 4
     dialog: 聽說雪夜時會有巨獸出沒，困住每一位迷途的旅人。然而這條並不適用於我……因為我就是那個能為其套上韁繩的強者。
+    gift_position: "-163,146.9"
     illustrator_cv: --,名塚佳織,
     order: 145
   }
@@ -9940,6 +9941,7 @@
     fit_gun: 295
     voice: 4
     dialog: 指揮官！快看，我終於找到個能吃旋風鑽麻辣鍋底的朋友了！雖然這位朋友不怎麼說話，但是吃相爽快得很！賬單？吃完再說咯~
+    gift_position: "79.6,190.1"
     order: 149
   }
   {
@@ -9948,6 +9950,7 @@
     fit_gun: 37
     voice: 4
     dialog: 突入行動圓滿成功！嘿嘿，M14也幫上忙了吧？欸，動靜太大了？
+    gift_position: "-196.3,372.3"
     illustrator_cv: YoYo,大西沙織,
     order: 150
   }
@@ -9957,7 +9960,17 @@
     fit_gun: 393
     voice: 4
     dialog: 如果這片海邊有足夠激動人心的獵物……我一定會親手捕到的。
+    gift_position: "-159.8,71.3"
     order: 152
+  }
+  {
+    id: 30029
+    name: LTLX7000-仲夏夜之約
+    fit_gun: 323
+    voice: 4
+    dialog: 森林的氣息真是令人心曠神怡……啊，指揮官，你怎麼在這？我只是在為大家準備野餐而已，才不是特意為你——算了，既然來了就坐下吧……
+    illustrator_cv: YoYo,田中理惠,
+    order: 153
   }
   {
     id: 50001

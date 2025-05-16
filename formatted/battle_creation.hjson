@@ -51738,6 +51738,89 @@
     is_orb_effect: 1
   }
   {
+    id: 3803
+    name: HTI立姿子弹
+    code: bullet/bullet2
+    start_type: "1"
+    destination_type: "5"
+    is_form_offset: 1
+    is_form_offset_start: 1
+    route_type: 1
+    speed: 5000
+    effect_area: 1
+    hurt_id: "751"
+    is_form_play: 1
+    scale: "0.7,0.7"
+    sound_order: BT_rifle
+    is_orb_effect: 1
+  }
+  {
+    id: 3804
+    name: HTI腰姿子弹1
+    code: bullet/bullet2
+    start_type: "1"
+    destination_type: "5"
+    is_form_offset: 1
+    is_form_offset_start: 1
+    route_type: 1
+    speed: 5000
+    effect_area: 1
+    hurt_id: "752"
+    is_form_play: 1
+    scale: "0.35,0.35,1"
+    sound_order: BT_rifle
+  }
+  {
+    id: 3805
+    name: HTI腰姿子弹2
+    code: bullet/bullet2
+    start_type: "1"
+    destination_type: "5"
+    is_form_offset: 1
+    is_form_offset_start: 1
+    route_type: 1
+    speed: 5000
+    effect_area: 1
+    hurt_id: "752"
+    is_form_play: 1
+    scale: "0.35,0.35,1"
+    sound_order: BT_rifle
+    is_orb_effect: 1
+  }
+  {
+    id: 3806
+    name: HTI卧姿子弹
+    code: bullet/bullet2
+    start_type: "1"
+    destination_type: "5"
+    is_form_offset: 1
+    is_form_offset_start: 1
+    route_type: 1
+    speed: 5000
+    effect_area: 1
+    hurt_id: "753"
+    is_form_play: 1
+    scale: "0.7,0.7"
+    sound_order: BT_rifle
+    is_orb_effect: 1
+  }
+  {
+    id: 3807
+    name: HTI卧姿子弹标记
+    start_type: "1"
+    destination_type: "5"
+    is_form_offset: 1
+    is_form_offset_start: 1
+    route_type: 1
+    speed: 5000
+    effect_area: 1
+    hurt_id: "754"
+    is_form_play: 1
+    scale: "0.7,0.7"
+    sound_order: BT_rifle
+    is_orb_effect: 1
+  }
+  {
     id: 3811
     name: 伯莱塔套装烟雾弹
     code: 烟雾弹
@@ -54499,7 +54582,7 @@
     rotate: "0,90,0"
     exist_duration: "30"
     effect_area: 1
-    hurt_id: "3"
+    hurt_id: "755"
     is_form_play: 1
     scale: "1"
     trigger_creation_id: "93"
@@ -54519,7 +54602,7 @@
     rotate: "0,90,0"
     exist_duration: "30"
     effect_area: 1
-    hurt_id: "3"
+    hurt_id: "755"
     is_form_play: 1
     scale: "1"
     trigger_creation_id: "267"

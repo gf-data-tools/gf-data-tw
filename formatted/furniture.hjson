@@ -31039,6 +31039,84 @@
     rotate: "3"
   }
   {
+    id: 20167
+    name: 家園溫柔如舊
+    classes: 81
+    type: 203
+    space: "12,6,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 歡迎回來，指揮官！在等待重逢的這段時間，我們可是把艾莫號養護打掃了一遍又一遍，每一根扶手都擦得鋥亮呢！
+    code: 2025SteamReturn_01,SteamReturn,2025SteamReturn_02
+    texture_type: "1,2,1"
+    sorting: "-20,-10,0"
+    offset: "0.000,-1.022,0.000|0.000,0.146,0.000|0.000,-1.001,0.000"
+    rotate: "2,2,2"
+    interact_point: "83128"
+    interact_point_offset: *0.292,0.1,0
+  }
+  {
+    id: 20168
+    name: 潛行之匣
+    classes: 19
+    type: 201
+    space: "8,4,0,0,0,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 平平無奇的紙箱。雖然尺寸足以容納一個人形，但除了貓大概沒人想鑽進去。「所以裡面為什麼會藏著托卡列夫啊……潛行道具？還可以這麼用的嗎？！」
+    code: 202505Activity_ 1
+    texture_type: "2"
+    sorting: "15"
+    offset: "-0.344,0.313,0.000"
+    rotate: "2"
+    touch_area: "3,3,3"
+  }
+  {
+    id: 20169
+    name: 禁錮之眼
+    classes: 19
+    type: 201
+    space: "3,3,0,0,0,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 配有禁錮效果的監視器。冰冷的電子眼可以將敵人牢牢鎖入其中，但這也無可厚非。畢竟在這裡，它的仁慈和你的自由，都是一種奢侈品。
+    code: 202505Activity_ 2
+    texture_type: "2"
+    sorting: "15"
+    offset: "-0.094,0.156,-0.031"
+    rotate: "2"
+    touch_area: "3,5,3"
+  }
+  {
+    id: 20170
+    name: 溯游歸墟勳章
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 表彰該指揮官及其麾下的戰術人形在「溯源回歸」活動中的卓越戰績，「原來硝煙消散的盡頭，您的身影依舊於此留駐。」
+    code: 202505Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20171
+    name: 海報-2024卷積核
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2024限時活動-卷積核的特典海報。
+    code: pv_202412activity
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
     id: 30001
     name: 馬卡洛夫-南瓜熊熊
     classes: 300
@@ -47867,6 +47945,21 @@
     decompose_gift: 100003
     description: 貝武夫的海報
     code: poster_BattlePass_Beowulf
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330029
+    name: LTLX7000-仲夏夜之約
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LTLX7000的海報
+    code: poster_BattlePass_LTLX7000
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

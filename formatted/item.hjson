@@ -877,6 +877,24 @@
     detail_introduction: item-30000147
   }
   {
+    id: 148
+    type: 3
+    arg: "49"
+    code: Medal_2025_steamreturn
+    item_name: 鎏金獅鷲紀念勳章
+    introduction: 表彰該指揮官及其麾下戰術人形在漫長等待中始終如一的守候，「停滯的秒針重新轉動，我們如願在新世界裡兌現了相逢的諾言。」
+    rank: 1
+  }
+  {
+    id: 149
+    type: 3
+    arg: "50"
+    code: Medal_202505Activity
+    item_name: 溯游歸墟勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在「溯源回歸」活動中的卓越戰績，「原來硝煙消散的盡頭，您的身影依舊於此留駐。」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -16324,6 +16342,105 @@
     rank: 1
   }
   {
+    id: 2665
+    type: 5
+    arg: "1"
+    code: profilePic_202505Activity_01
+    item_name: 頭像：真相的代價
+    introduction: 頭像：真相的代價
+    rank: 1
+  }
+  {
+    id: 2666
+    type: 5
+    arg: "1"
+    code: profilePic_202505Activity_02
+    item_name: 頭像：無言之慟
+    introduction: 頭像：無言之慟
+    rank: 1
+  }
+  {
+    id: 2667
+    type: 5
+    arg: "1"
+    code: profilePic_202505Activity_03
+    item_name: 頭像：至痛
+    introduction: 頭像：至痛
+    rank: 1
+  }
+  {
+    id: 2668
+    type: 5
+    arg: "1"
+    code: card_202505Activity_01
+    item_name: 名片：沉默的告別
+    introduction: 名片：沉默的告別
+    rank: 1
+  }
+  {
+    id: 2669
+    type: 5
+    arg: "1"
+    code: card_202505Activity_02
+    item_name: 名片：無法兌現的諾言
+    introduction: 名片：無法兌現的諾言
+    rank: 1
+  }
+  {
+    id: 2670
+    type: 5
+    arg: "1"
+    code: card_202505Activity_03
+    item_name: 名片：烽火後的塵埃
+    introduction: 名片：烽火後的塵埃
+    rank: 1
+  }
+  {
+    id: 2671
+    type: 5
+    arg: "1"
+    code: cg_202505Activity_01
+    item_name: 背景：戰後殘垣
+    introduction: 背景：戰後殘垣
+    rank: 1
+  }
+  {
+    id: 2672
+    type: 5
+    arg: "1"
+    code: cg_202505Activity_02
+    item_name: 背景：荒蕪樞紐
+    introduction: 背景：荒蕪樞紐
+    rank: 1
+  }
+  {
+    id: 2673
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_LTLX7000
+    item_name: LTLX7000-仲夏夜之約
+    introduction: LTLX7000-仲夏夜之約
+    rank: 1
+  }
+  {
+    id: 2674
+    type: 5
+    arg: "1"
+    code: card_BattlePass_LTLX7000
+    item_name: 名片：星光點綴的晚餐
+    introduction: 名片：星光點綴的晚餐
+    rank: 1
+  }
+  {
+    id: 2675
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary_Kalina
+    item_name: 頭像：歡慶九九
+    introduction: 頭像：歡慶九九
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -17987,6 +18104,15 @@
     rank: 1
   }
   {
+    id: 10728
+    type: 18
+    arg: "10728"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"
@@ -18038,6 +18164,15 @@
     code: gift_bundle_BattlePass_Beowulf
     item_name: 貝武夫-海濱獵手
     introduction: 如果這片海邊有足夠激動人心的獵物……我一定會親手捕到的。
+    rank: 1
+  }
+  {
+    id: 30029
+    type: 1
+    arg: "30029"
+    code: gift_bundle_BattlePass_LTLX7000
+    item_name: LTLX7000-仲夏夜之約
+    introduction: 森林的氣息真是令人心曠神怡……啊，指揮官，你怎麼在這？我只是在為大家準備野餐而已，才不是特意為你——算了，既然來了就坐下吧……
     rank: 1
   }
   {
@@ -20472,28 +20607,86 @@
     type: 4
     arg: "100265"
     code: Nova_medal
-    item_name: 新星勳章·銀染顯影
-    introduction: 新星勳章·銀染顯影
+    item_name: item-10100265
+    introduction: item-20100265
     rank: 1
+    detail_introduction: item-30100265
   }
   {
     id: 100266
     type: 4
     arg: "100266"
     code: Platinum_medal
-    item_name: 白金勳章·銀染顯影
-    introduction: 白金勳章·銀染顯影
+    item_name: item-10100266
+    introduction: item-20100266
     rank: 1
+    detail_introduction: item-30100266
   }
   {
     id: 100267
     type: 9
     arg: "100267"
     code: Coin_202408AngularGyrus
-    item_name: 致勝兵卒
-    introduction: 棋局之上，黑白之間，唯有小兵沒有後退的權利。
+    item_name: item-10100267
+    introduction: item-20100267
     rank: 1
     daily_limit: 60;180
+    detail_introduction: item-30100267
+  }
+  {
+    id: 100268
+    type: 4
+    arg: "100268"
+    code: Nova_medal
+    item_name: 新星勳章·溯源回歸
+    introduction: 新星勳章·溯源回歸
+    rank: 1
+  }
+  {
+    id: 100269
+    type: 4
+    arg: "100269"
+    code: Platinum_medal
+    item_name: 白金勳章·溯源回歸
+    introduction: 白金勳章·溯源回歸
+    rank: 1
+  }
+  {
+    id: 100270
+    type: 9
+    arg: "100270"
+    code: Coin_202505RocheLimit
+    item_name: 臨界星核
+    introduction: 星體崩解後形成的潰散粒子，於消亡與新生的臨界處，凝聚成璀璨不滅的星核。
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
+    id: 100271
+    type: 4
+    arg: "100271"
+    code: coremask2_202505RocheLimit
+    item_name: 蝕心面具·溯源回歸
+    introduction: 散發著詭譎氣息的面具，只有通過極為艱險的考驗才能獲得。留在手中似乎沒有什麼用，但能夠在商店換取到一個期望已久的相遇。
+    rank: 1
+  }
+  {
+    id: 100272
+    type: 4
+    arg: "100272"
+    code: core_mask_9year
+    item_name: 真核面具·九周年
+    introduction: 真核面具·九周年
+    rank: 1
+  }
+  {
+    id: 100273
+    type: 4
+    arg: "100273"
+    code: Bumdle_9thAnniversary
+    item_name: 奇想漫遊箱
+    introduction: 奇想漫遊箱
+    rank: 1
   }
   {
     id: 110001
@@ -21174,6 +21367,15 @@
     id: 110076
     type: 4
     arg: "110076"
+    code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
+    id: 110077
+    type: 4
+    arg: "110077"
     code: PT
     item_name: 活動點數
     introduction: 活動點數
@@ -23117,6 +23319,22 @@
     rank: 1
   }
   {
+    id: 140057
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第29期前線協議
+    rank: 1
+  }
+  {
+    id: 140058
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第29期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -23604,6 +23822,15 @@
     code: profileFrame_BattlePass_Beowulf
     item_name: 頭像框·樹影潮聲
     introduction: 頭像框·樹影潮聲
+    rank: 1
+  }
+  {
+    id: 200054
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_LTLX7000
+    item_name: 頭像框·怦然月色
+    introduction: 頭像框·怦然月色
     rank: 1
   }
   {
@@ -25958,7 +26185,7 @@
   {
     id: 1500206
     type: 15
-    arg: "1500176"
+    arg: "1500206"
     code: package_choose
     item_name: 基礎裝備自選序標
     introduction: 來自於前線協議-日光砂浴，可從該指定投遞配給序標內選擇獲取一件裝備
@@ -25969,7 +26196,7 @@
   {
     id: 1500207
     type: 15
-    arg: "1500177"
+    arg: "1500207"
     code: package_choose
     item_name: 配件類裝備自選包
     introduction: 來自於前線協議-日光砂浴，可從該指定投遞配給序標內選擇獲取一件配件類裝備
@@ -25980,7 +26207,7 @@
   {
     id: 1500208
     type: 15
-    arg: "1500178"
+    arg: "1500208"
     code: package_random
     item_name: 必得未解鎖人形序標
     introduction: 來自於前線協議-日光砂浴，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
@@ -25991,7 +26218,7 @@
   {
     id: 1500209
     type: 15
-    arg: "1500179"
+    arg: "1500209"
     code: package_random
     item_name: 前線協議-額外獎勵
     introduction: 來自於前線協議-日光砂浴，可從該區間空投序標內隨機獲取一項道具
@@ -26004,10 +26231,11 @@
     type: 15
     arg: "1500210"
     code: Bumdle_Angulargyrus01
-    item_name: 銀染顯影限定裝扮券·壹
-    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    item_name: item-11500210
+    introduction: item-21500210
     rank: 1
     sort: -1
+    detail_introduction: item-31500210
     type_sort: 1
   }
   {
@@ -26015,10 +26243,11 @@
     type: 15
     arg: "1500211"
     code: Bumdle_Angulargyrus02
-    item_name: 銀染顯影限定裝扮券·貳
-    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    item_name: item-11500211
+    introduction: item-21500211
     rank: 1
     sort: -1
+    detail_introduction: item-31500211
     type_sort: 1
   }
   {
@@ -26026,16 +26255,109 @@
     type: 15
     arg: "1500212"
     code: Bumdle_Angulargyrus03
-    item_name: 銀染顯影限定裝扮券·參
-    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    item_name: item-11500212
+    introduction: item-21500212
     rank: 1
     sort: -1
+    detail_introduction: item-31500212
     type_sort: 1
   }
   {
     id: 1500213
     type: 15
     arg: "1500213"
+    code: Bumdle_invocation_3
+    item_name: item-11500213
+    introduction: item-21500213
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500213
+    type_sort: 1
+  }
+  {
+    id: 1500214
+    type: 15
+    arg: "1500214"
+    code: Bumdle_invocation_2
+    item_name: item-11500214
+    introduction: item-21500214
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500214
+    type_sort: 1
+  }
+  {
+    id: 1500215
+    type: 15
+    arg: "1500215"
+    code: Bumdle_sangvischoose
+    item_name: item-11500215
+    introduction: item-21500215
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500215
+    type_sort: 1
+  }
+  {
+    id: 1500216
+    type: 15
+    arg: "1500216"
+    code: Bumdle_equipment
+    item_name: item-11500216
+    introduction: item-21500216
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500216
+    type_sort: 1
+  }
+  {
+    id: 1500217
+    type: 15
+    arg: "1500217"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-林間夜語，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500218
+    type: 15
+    arg: "1500218"
+    code: package_choose
+    item_name: 彈匣類裝備自選包
+    introduction: 來自於前線協議-林間夜語，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500219
+    type: 15
+    arg: "1500219"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-林間夜語，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500220
+    type: 15
+    arg: "1500220"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-林間夜語，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500221
+    type: 15
+    arg: "1500221"
     code: Bumdle_invocation_3
     item_name: 四星人形調用函
     introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
@@ -26044,9 +26366,9 @@
     type_sort: 1
   }
   {
-    id: 1500214
+    id: 1500222
     type: 15
-    arg: "1500214"
+    arg: "1500222"
     code: Bumdle_invocation_2
     item_name: 五星人形調用函
     introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位五星戰術人形。
@@ -26055,9 +26377,9 @@
     type_sort: 1
   }
   {
-    id: 1500215
+    id: 1500223
     type: 15
-    arg: "1500215"
+    arg: "1500223"
     code: Bumdle_sangvischoose
     item_name: 融合勢力定向收歸委託書
     introduction:
@@ -26070,12 +26392,56 @@
     type_sort: 1
   }
   {
-    id: 1500216
+    id: 1500224
     type: 15
-    arg: "1500216"
+    arg: "1500224"
     code: Bumdle_equipment
     item_name: 五星裝備自選憑證
     introduction: 在倉庫中使用該自選憑證，即可從指定範圍內選擇獲得一個非專屬五星裝備。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500225
+    type: 15
+    arg: "1500225"
+    code: Bumdle_equipment
+    item_name: 9周年裝扮券
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內選擇獲得一件裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500226
+    type: 15
+    arg: "1500226"
+    code: Bumdle_Coupons3
+    item_name: 珍藏裝扮券·周年慶
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500227
+    type: 15
+    arg: "1500227"
+    code: Bumdle_Coupons2
+    item_name: 尊享裝扮券·周年慶
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500228
+    type: 15
+    arg: "1500228"
+    code: Bumdle_Coupons1
+    item_name: 致臻裝扮券·周年慶
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
     type_sort: 1
@@ -26760,6 +27126,39 @@
     id: 1700060
     type: 15
     arg: "1700060"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700061
+    type: 15
+    arg: "1700061"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700062
+    type: 15
+    arg: "1700062"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700063
+    type: 15
+    arg: "1700063"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

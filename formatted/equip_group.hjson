@@ -469,4 +469,22 @@
     group_skill: 2:1006203
     fit_gun: "20031"
   }
+  {
+    id: 53
+    name: 黑夜天使
+    des: 為DSR-50量身訂製的套裝，據說在黑夜中會起到意料之外的作用。
+    code: EgroupDSR50
+    equip_unit: "0,452,405"
+    group_skill: 2:1006403
+    fit_gun: "179"
+  }
+  {
+    id: 54
+    name: 沙漠之虎
+    des: 為加利爾量身訂製的套裝，即使在極端環境下也能發揮出強大的性能。
+    code: EgroupAR
+    equip_unit: "0,453,205"
+    group_skill: 2:1006503
+    fit_gun: "20071"
+  }
 ]
