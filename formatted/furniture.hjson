@@ -28496,6 +28496,215 @@
     rotate: "2"
   }
   {
+    id: 11501
+    name: 九年如歌-遊艇地板
+    classes: 115
+    type: 101
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 「聽說甲板的防滑性能特別棒，怎麼樣都不會摔倒哎……」「所以這就是你在甲板上跳街舞的理由？！」
+    code: 2025Anniversay_floor
+    texture_type: "1"
+    sorting: "15"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11502
+    name: 九年如歌-燈火下的華都
+    classes: 115
+    type: 301
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 繁華都市的夜景。聳立的高樓鱗次櫛比，宛如並肩而立的巨人，守護著眼前灑落的點點星光。
+    code: 2025Anniversay_wall
+    texture_type: "1"
+    sorting: "15"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11503
+    name: 九年如歌-慶典的一隅
+    classes: 115
+    type: 201
+    position: "17,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 幾乎每場派對都有這種角落，還有在角落裡默默觀賞的人，共同組成點綴熱鬧不可或缺的一部分。
+    code: 2025Anniversay_deco_01
+    texture_type: "1"
+    sorting: "15"
+    offset: "0.021,-0.031,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11504
+    name: 九年如歌-觀光者船艙
+    classes: 115
+    type: 201
+    position: "26,1"
+    space: "9,12,1,1,1,0"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: 站在這裡向下看，可以俯視到波光粼粼的海面、熱鬧喧囂的甲板、還有一張張熟悉的笑臉……那一瞬間，你覺得眼前的一切珍貴無比。
+    code: 2025Anniversay_deco_02_A,2025Anniversay_deco_02_B,2025Anniversay_deco_02_C,2025Anniversay_deco_02_D,2025Anniversay_4,2025Anniversay_deco_02_E
+    texture_type: "1,1,1,1,2,1"
+    sorting: "0,0,0,0,0,10"
+    offset: "0.490,-0.058,0.000|0.490,4.424,0.000|5.088,-0.058,0.000|1.084,-0.261,-0.094|-1.112,3.062,0.768|0.488,-0.060,0.000"
+    rotate: "2,2,2,2,2,2"
+    interact_point: "27"
+    interact_point_offset: *-2.319,6.260,0.996
+  }
+  {
+    id: 11506
+    name: 九年如歌-步入湛藍
+    classes: 115
+    type: 201
+    position: "27,13"
+    space: "2,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 從甲板到泳池，一步步下沉的盡頭，我們終將於蔚藍的水色中相擁。
+    code: 2025Anniversay_deco_04
+    texture_type: "1"
+    offset: "0.021,-0.417,-0.189"
+    rotate: "2"
+  }
+  {
+    id: 11507
+    name: 九年如歌-晶亮彩燈
+    classes: 115
+    type: 201
+    position: "16,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 在這難得的時刻，我們祈求著，盼望這短暫的絢爛得以成為永恆。
+    code: 2025Anniversay_deco_05_A,2025Anniversay_deco_05_B,2025Anniversay_deco_05_C,2025Anniversay_deco_05_D
+    texture_type: "1,1,1,1"
+    sorting: "0,0,0,0"
+    offset: "-2.699,0.000,0.000|1.887,0.000,0.000|6.493,0.000,0.000|6.492,4.479,1.033"
+    rotate: "2,2,2,2"
+  }
+  {
+    id: 11508
+    name: 九年如歌-共享晚餐
+    classes: 115
+    type: 201
+    position: "18,7"
+    space: "5,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 鮮花、美食、座椅——一切都準備就緒。只要你一落座，我們的晚宴就可以開始了。
+    code: 2025Anniversay_deco_06_A,2025Anniversay_deco_06_B,2025Anniversay_deco_06_C
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "-0.073,-0.054,0.000|-0.970,-0.098,0.000|0.784,-0.054,0.000"
+    rotate: "2,2,2"
+  }
+  {
+    id: 11509
+    name: 九年如歌-椰樹之下（右）
+    classes: 115
+    type: 201
+    position: "32,0"
+    space: "3,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 遊艇當然不可能長出椰樹，椰樹也當然不可能長出彩燈——它會出現在這裡，只能作為某人精心佈置的證明。
+    code: 2025Anniversay_deco_07_A,2025Anniversay_deco_07_B
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.104,0.000,0.000|-0.104,4.466,1.043"
+    rotate: "2,2"
+  }
+  {
+    id: 11510
+    name: 九年如歌-椰樹之下（左）
+    classes: 115
+    type: 201
+    position: "1,0"
+    space: "3,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 遊艇當然不可能長出椰樹，椰樹也當然不可能長出彩燈——它會出現在這裡，只能作為某人精心佈置的證明。
+    code: 2025Anniversay_deco_08
+    texture_type: "1"
+    offset: "0.198,0.000,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11511
+    name: 九年如歌-拾光者泳池
+    classes: 115
+    type: 201
+    position: "0,1"
+    space: "9,13,0,0,0,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 載滿星光的游泳池。不會游泳也沒關係，人形們貼心地為你準備了游泳圈——只是造型有些搶眼而已。
+    code: 2025Anniversay_deco_09_B,2025Anniversay_deco_09_C,2025Anniversay_deco_09_E,2025Anniversay_2,2025Anniversay_deco_09_F
+    texture_type: "1,1,1,2,1"
+    sorting: "0,0,10,5,1"
+    offset: "3.786,-0.042,0.000|-0.820,-0.042,0.000|0.240,-0.042,0.000|-0.117,0.632,0.077|-2.065,-0.042,0.000"
+    rotate: "2,2,2,2,2"
+    interact_point: "45"
+    interact_point_offset: *-1.079,2.448,0.797
+    touch_area: "3,3,3"
+  }
+  {
+    id: 11512
+    name: 九年如歌-我們的九年
+    classes: 115
+    type: 201
+    position: "23,0"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 九是最圓滿的數字。何其有幸，我們能在彼此的陪伴下走過一段不可復得的青春。
+    code: 2025Anniversay_deco_10,2025Anniversay_3
+    texture_type: "1,2"
+    sorting: "0,0"
+    offset: "0.003,-0.083,0.358|-0.042,1.585,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 11513
+    name: 九年如歌-歡宴時分
+    classes: 115
+    type: 201
+    position: "20,10"
+    space: "5,4,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 華燈倒映在香檳的瓶身，晚風拂過瓶口，吹響悠揚的豎笛——我們在此刻舉起酒杯，慶祝相逢。
+    code: 2025Anniversay_deco_11_A,2025Anniversay_deco_11_B
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-1.220,0.014,0.000|0.164,0.014,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 11514
+    name: 九年如歌-休憩時分
+    classes: 115
+    type: 201
+    position: "9,4"
+    space: "6,9,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 星光灑落在傾斜的躺椅，水波拍打著池邊，奏響輕緩的夜曲——我們在此刻舒展身心，盡享愜意。
+    code: 2025Anniversay_deco_12_A,2025Anniversay_deco_12_B,2025Anniversay_deco_12_C,2025Anniversay_deco_12_D,2025Anniversay_deco_12_E
+    texture_type: "1,1,1,1,1"
+    sorting: "10,0,15,5,10"
+    offset: "-0.057,0.033,-0.514|-0.057,0.033,-0.514|-0.057,0.043,-0.514|-0.057,0.043,-0.514|-0.067,0.033,-0.514"
+    rotate: "2,2,2,2,2"
+  }
+  {
     id: 20000
     name: 名湯·拉王
     classes: 81
@@ -31115,6 +31324,21 @@
     sorting: "5"
     offset: "0,0.05,0"
     rotate: "3"
+  }
+  {
+    id: 20172
+    name: 熱烈歡迎
+    classes: 19
+    type: 201
+    space: "2,2,0,0,0,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 為了慶祝九周年的到來，格琳娜精心訂製了一套氣球裝置，作為本次慶典的迎賓道具。雖然成品好像和本人想象中的不太一樣……但既然經費已經花出去了，就要物盡其用！
+    code: Carnival202505
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    touch_area: "2,2,2"
   }
   {
     id: 30001
@@ -47540,6 +47764,126 @@
     decompose_gift: 100003
     description: 納甘左輪的海報
     code: poster_WhiteValentina2025_M1895
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311501
+    name: HK433-莫內的白晝
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HK433的海報
+    code: poster_Anniversary2025_HK433
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311502
+    name: 95式-流光韶羽
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 95式的海報
+    code: poster_Anniversary2025_95type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311503
+    name: QBZ-191-玄衣卷月
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: QBZ-191的海報
+    code: poster_Anniversary2025_QBZ191
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311504
+    name: SIG MCX-紅粉鐵拳
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SIG MCX的海報
+    code: poster_Anniversary2025_SIGMCX
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311505
+    name: TAR-21-蘭鳶花鈴
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: TAR-21的海報
+    code: poster_Anniversary2025_TAR21
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311506
+    name: G43-時砂之鏡
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G43的海報
+    code: poster_Anniversary2025_G43
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311507
+    name: Bren Ten-甜夢圓舞曲
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Bren Ten的海報
+    code: poster_Anniversary2025_BrenTen
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311508
+    name: 89式自-特調時分
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 89式自的海報
+    code: poster_Anniversary2025_HowaType89
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

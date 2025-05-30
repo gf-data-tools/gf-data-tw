@@ -412,6 +412,20 @@
     sort: 2000
   }
   {
+    id: 212
+    name: 格琳娜-正裝時刻
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 212
+    code: gift_bundle_kalina_212
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖格琳娜換裝
+    description: 在宿舍內贈送給對應NPC，可以解鎖裝扮
+    sort: 2000
+  }
+  {
     id: 301
     name: 柯爾特左輪-直達星星的願望
     type: 2
@@ -13093,6 +13107,134 @@
     skin: 11407
     poster: 311407
     code: gift_bundle_WhiteValentina2025_M1895
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11501
+    name: HK433-莫內的白晝
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 390
+    skin: 11501
+    poster: 311501
+    code: gift_bundle_Anniversary2025_HK433
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11502
+    name: 95式-流光韶羽
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 129
+    skin: 11502
+    poster: 311502
+    code: gift_bundle_Anniversary2025_95type
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11503
+    name: QBZ-191-玄衣卷月
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 361
+    skin: 11503
+    poster: 311503
+    code: gift_bundle_Anniversary2025_QBZ191
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11504
+    name: SIG MCX-紅粉鐵拳
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 338
+    skin: 11504
+    poster: 311504
+    code: gift_bundle_Anniversary2025_SIGMCX
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11505
+    name: TAR-21-蘭鳶花鈴
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 72
+    skin: 11505
+    poster: 311505
+    code: gift_bundle_Anniversary2025_TAR21
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11506
+    name: G43-時砂之鏡
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 47
+    skin: 11506
+    poster: 311506
+    code: gift_bundle_Anniversary2025_G43
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11507
+    name: Bren Ten-甜夢圓舞曲
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 139
+    skin: 11507
+    poster: 311507
+    code: gift_bundle_Anniversary2025_BrenTen
+    normal_description: 贈送獲得相應好感度
+    bonus_description: 可解鎖人形換裝
+    description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11508
+    name: 89式自-特調時分
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 290
+    skin: 11508
+    poster: 311508
+    code: gift_bundle_Anniversary2025_HowaType89
     normal_description: 贈送獲得相應好感度
     bonus_description: 可解鎖人形換裝
     description: 在宿舍內贈送給對應人形，可以獲得裝扮、海報以及好感度獎勵。

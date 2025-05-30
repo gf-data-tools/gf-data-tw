@@ -639,6 +639,17 @@
     source: 2
   }
   {
+    id: 64
+    name: 元氣焦點
+    description: 在熱鬧的周年派對上成為眾人矚目的焦點，讓所有人獲得元氣，就是你最為真摯的心願。
+    group_id: "103"
+    code: commander_6440_icon
+    path: CLASS64
+    des_year: "2025"
+    source: 2
+    source_description: 2025周年活動獎勵
+  }
+  {
     id: 99
     name: 謊言面具
     description: 埋藏我所思，塑化我所願

@@ -1507,6 +1507,19 @@
     description: 以春日賞櫻為主題的傢俱組合。 此刻，彼此默默許下的心願，唯有紛飛的櫻花知曉……惟盼花開不敗，歲歲年年。
     bonus_description: 集齊後宿舍內會出現意想不到的現象。
     code: NewYear2025_wall_icon
+    placement: 1
+    years: 2025
+  }
+  {
+    id: 115
+    name: 九年如歌
+    rank: 5
+    bonus_picture: "3111"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 以九周年慶典派對為主題的傢具組合。「歲月的音符在指尖流淌，你聆聽著宴會播放的背景音，將其譜寫為記憶的樂章。」
+    bonus_description: 集齊後宿舍內會出現意想不到的現象。
+    code: 2025Anniversay_deco_10_icon
     is_showed: 1
     placement: 1
     years: 2025

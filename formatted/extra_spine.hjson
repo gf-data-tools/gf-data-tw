@@ -908,4 +908,11 @@
     scale: 68
     ai: 3069
   }
+  {
+    id: 3111
+    name: 周年慶海鷗
+    spine_code: 2025Anniversay_1
+    scale: 50
+    ai: 3008
+  }
 ]

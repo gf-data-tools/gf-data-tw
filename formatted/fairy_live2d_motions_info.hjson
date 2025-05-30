@@ -4,6 +4,7 @@
     type: "1"
     motion_name: motions/daiji_idle.mtn
     probability: "1.00"
+    name: 待機
   }
   {
     id: "102"
@@ -11,6 +12,7 @@
     motion_name: motions/wait_01.mtn
     hold_time: "5,12"
     probability: "0.50"
+    name: 特殊待機1
   }
   {
     id: "103"
@@ -18,6 +20,7 @@
     motion_name: motions/wait_02.mtn
     hold_time: "15,22"
     probability: "0.50"
+    name: 特殊待機2
   }
   {
     id: "104"
@@ -25,6 +28,7 @@
     motion_name: motions/motou_01.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動1
   }
   {
     id: "105"
@@ -32,6 +36,7 @@
     motion_name: motions/motou_02.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動2
   }
   {
     id: "106"
@@ -39,12 +44,14 @@
     motion_name: motions/motou_03.mtn
     touch_area: body
     probability: "1.00"
+    name: 互動3
   }
   {
     id: "107"
     type: "1"
     motion_name: motions/daiji_idle_01.mtn
     probability: "1.00"
+    name: 待機
   }
   {
     id: "108"
@@ -52,6 +59,7 @@
     motion_name: motions/motou_01.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動1
   }
   {
     id: "109"
@@ -59,6 +67,7 @@
     motion_name: motions/motou_02.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動2
   }
   {
     id: "110"
@@ -66,12 +75,14 @@
     motion_name: motions/motou_03.mtn
     touch_area: body
     probability: "1.00"
+    name: 互動3
   }
   {
     id: "111"
     type: "1"
     motion_name: motions/daiji_idle.mtn
     probability: "1.00"
+    name: 待機
   }
   {
     id: "112"
@@ -79,6 +90,7 @@
     motion_name: motions/wait_01.mtn
     hold_time: "5,12"
     probability: "0.50"
+    name: 特殊待機1
   }
   {
     id: "113"
@@ -86,6 +98,7 @@
     motion_name: motions/wait_02.mtn
     hold_time: "15,22"
     probability: "0.50"
+    name: 特殊待機2
   }
   {
     id: "114"
@@ -93,6 +106,7 @@
     motion_name: motions/motou_01.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動1
   }
   {
     id: "115"
@@ -100,6 +114,7 @@
     motion_name: motions/motou_02.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動2
   }
   {
     id: "116"
@@ -107,12 +122,14 @@
     motion_name: motions/motou_03.mtn
     touch_area: body
     probability: "1.00"
+    name: 互動3
   }
   {
     id: "117"
     type: "1"
     motion_name: motions/daiji_idle_01.mtn
     probability: "1.00"
+    name: 待機
   }
   {
     id: "118"
@@ -120,6 +137,7 @@
     motion_name: motions/wait_01.mtn
     hold_time: "5,12"
     probability: "0.50"
+    name: 特殊待機1
   }
   {
     id: "119"
@@ -127,6 +145,7 @@
     motion_name: motions/wait_02.mtn
     hold_time: "15,22"
     probability: "0.50"
+    name: 特殊待機2
   }
   {
     id: "120"
@@ -134,6 +153,7 @@
     motion_name: motions/motou_01.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動1
   }
   {
     id: "121"
@@ -141,6 +161,7 @@
     motion_name: motions/motou_02.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動2
   }
   {
     id: "122"
@@ -148,12 +169,14 @@
     motion_name: motions/motou_03.mtn
     touch_area: body
     probability: "1.00"
+    name: 互動3
   }
   {
     id: "123"
     type: "1"
     motion_name: motions/daiji_idle.mtn
     probability: "1.00"
+    name: 待機
   }
   {
     id: "124"
@@ -161,6 +184,7 @@
     motion_name: motions/wait_01.mtn
     hold_time: "5,12"
     probability: "0.50"
+    name: 特殊待機1
   }
   {
     id: "125"
@@ -168,6 +192,7 @@
     motion_name: motions/wait_02.mtn
     hold_time: "15,22"
     probability: "0.50"
+    name: 特殊待機2
   }
   {
     id: "126"
@@ -175,6 +200,7 @@
     motion_name: motions/motou_01.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動1
   }
   {
     id: "127"
@@ -182,6 +208,7 @@
     motion_name: motions/motou_02.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動2
   }
   {
     id: "128"
@@ -189,12 +216,14 @@
     motion_name: motions/motou_03.mtn
     touch_area: body
     probability: "1.00"
+    name: 互動3
   }
   {
     id: "129"
     type: "1"
     motion_name: motions/daiji_idle.mtn
     probability: "1.00"
+    name: 待機
   }
   {
     id: "130"
@@ -202,6 +231,7 @@
     motion_name: motions/motou_01.mtn
     hold_time: "5,12"
     probability: "0.50"
+    name: 互動1
   }
   {
     id: "131"
@@ -209,6 +239,7 @@
     motion_name: motions/motou_03.mtn
     hold_time: "15,22"
     probability: "0.50"
+    name: 互動2
   }
   {
     id: "132"
@@ -216,6 +247,7 @@
     motion_name: motions/wait_01.mtn
     touch_area: head
     probability: "1.00"
+    name: 特殊待機1
   }
   {
     id: "133"
@@ -223,6 +255,7 @@
     motion_name: motions/motou_02.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動3
   }
   {
     id: "134"
@@ -230,12 +263,14 @@
     motion_name: motions/wait_02.mtn
     touch_area: body
     probability: "1.00"
+    name: 特殊待機2
   }
   {
     id: "135"
     type: "1"
     motion_name: motions/daiji_idle.mtn
     probability: "1.00"
+    name: 待機
   }
   {
     id: "136"
@@ -243,6 +278,7 @@
     motion_name: motions/motou_02.mtn
     hold_time: "5,12"
     probability: "0.50"
+    name: 互動1
   }
   {
     id: "137"
@@ -250,6 +286,7 @@
     motion_name: motions/motou_01.mtn
     hold_time: "15,22"
     probability: "0.50"
+    name: 互動2
   }
   {
     id: "138"
@@ -257,6 +294,7 @@
     motion_name: motions/motou_03.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動3
   }
   {
     id: "139"
@@ -264,6 +302,7 @@
     motion_name: motions/wait_02.mtn
     touch_area: head
     probability: "1.00"
+    name: 特殊待機1
   }
   {
     id: "140"
@@ -271,12 +310,14 @@
     motion_name: motions/wait_01.mtn
     touch_area: body
     probability: "1.00"
+    name: 特殊待機2
   }
   {
     id: "141"
     type: "1"
     motion_name: motions/daiji_idle.mtn
     probability: "1.00"
+    name: 待機
   }
   {
     id: "142"
@@ -284,6 +325,7 @@
     motion_name: motions/motou_02.mtn
     hold_time: "5,12"
     probability: "0.50"
+    name: 互動1
   }
   {
     id: "143"
@@ -291,6 +333,7 @@
     motion_name: motions/motou_01.mtn
     hold_time: "15,22"
     probability: "0.50"
+    name: 互動2
   }
   {
     id: "144"
@@ -298,6 +341,7 @@
     motion_name: motions/motou_03.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動3
   }
   {
     id: "145"
@@ -305,6 +349,7 @@
     motion_name: motions/wait_02.mtn
     touch_area: head
     probability: "1.00"
+    name: 特殊待機1
   }
   {
     id: "146"
@@ -312,12 +357,14 @@
     motion_name: motions/wait_01.mtn
     touch_area: body
     probability: "1.00"
+    name: 特殊待機2
   }
   {
     id: "147"
     type: "1"
     motion_name: motions/daiji_idle_01.mtn
     probability: "1.00"
+    name: 待機
   }
   {
     id: "148"
@@ -325,6 +372,7 @@
     motion_name: motions/motou_02.mtn
     hold_time: "5,12"
     probability: "0.50"
+    name: 互動1
   }
   {
     id: "149"
@@ -332,6 +380,7 @@
     motion_name: motions/motou_01.mtn
     hold_time: "15,22"
     probability: "0.50"
+    name: 互動2
   }
   {
     id: "150"
@@ -339,6 +388,7 @@
     motion_name: motions/motou_03.mtn
     touch_area: head
     probability: "1.00"
+    name: 互動3
   }
   {
     id: "151"
@@ -346,6 +396,7 @@
     motion_name: motions/wait_02.mtn
     touch_area: head
     probability: "1.00"
+    name: 特殊待機1
   }
   {
     id: "152"
@@ -353,5 +404,6 @@
     motion_name: motions/wait_01.mtn
     touch_area: body
     probability: "1.00"
+    name: 特殊待機2
   }
 ]

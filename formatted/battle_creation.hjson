@@ -2163,8 +2163,8 @@
     effect_area: 2
     effect_param_1: *103
     effect_param_2: *104
-    buff_id: 131:1,1222:1
-    buff_cd: "0,0"
+    buff_id: 131:1,1222:1,9832:1000009809
+    buff_cd: "0,0,0"
     is_form_play: 1
     scale: "2.4,1,14"
   }
@@ -22927,7 +22927,8 @@
     effect_area: 2
     effect_param_1: *103
     effect_param_2: *104
-    buff_id: "1388"
+    buff_id: 1388:1,9832:1000009809
+    buff_cd: "0,0"
     is_form_play: 1
     scale: "2.4,1,14"
   }

@@ -1,5 +1,14 @@
 [
   {
+    id: -27
+    name: npc-9999973
+    code: NPC-Lunasia
+    title: npc-19999973
+    ai: 9999
+    unlock_text: npc-29999973
+    org_introduction: npc-39999973
+  }
+  {
     id: -26
     name: 白燁戈
     code: M16A1_Boss

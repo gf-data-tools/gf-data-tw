@@ -537,6 +537,10 @@
     description: 限時活動【魚躍九霄】積分獎勵
   }
   {
+    obtain_id: 321
+    description: 限時活動【與你續寫的篇章】簽到獎勵
+  }
+  {
     obtain_id: 403
     description: 常駐活動【塌縮點】中救援獲得
   }
@@ -643,6 +647,10 @@
   {
     obtain_id: 518
     description: 限時活動【卷積核】積分模式獎勵
+  }
+  {
+    obtain_id: 519
+    description: 限時活動【溯源回歸】代幣兌換
   }
   {
     obtain_id: 1701
@@ -1420,5 +1428,9 @@
   {
     obtain_id: 3132
     description: 2025年12月簽到獎勵
+  }
+  {
+    obtain_id: 3133
+    description: 限時活動<溯源回歸>代幣兌換
   }
 ]

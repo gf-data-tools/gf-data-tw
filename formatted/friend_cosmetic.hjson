@@ -11341,6 +11341,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_mask_5years
     rarity: 5
     filter_type: "1"
@@ -14215,6 +14216,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_6years_A
     order: 1
     rarity: 5
@@ -14228,6 +14230,7 @@
     sub_type: 2
     gem: 400
     item_ids: 508-10000
+    onsale: 1
     code: card_6years_A
     order: 1
     rarity: 5
@@ -14240,6 +14243,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_mask_6years
     order: 1
     rarity: 5
@@ -16672,6 +16676,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_7years_A
     order: 1
     rarity: 5
@@ -16684,6 +16689,7 @@
     sub_type: 2
     gem: 400
     item_ids: 508-10000
+    onsale: 1
     code: card_7years_A
     order: 1
     rarity: 5
@@ -16695,6 +16701,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_mask_6years
     order: 1
     rarity: 5
@@ -20799,6 +20806,145 @@
     order: 1
     rarity: 5
     logo_code: logo_anniversary
+  }
+  {
+    id: 1676
+    item_id: 2676
+    sub_type: 1
+    code: profilePic_9years_01
+    order: 1
+    rarity: 5
+    logo_code: logo_9years
+  }
+  {
+    id: 1677
+    item_id: 2677
+    sub_type: 2
+    code: card_9years_01
+    order: 1
+    rarity: 5
+  }
+  {
+    id: 1678
+    item_id: 2678
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Anniversary2025_HK433
+    order: 1
+    rarity: 5
+    skin: 11501
+  }
+  {
+    id: 1679
+    item_id: 2679
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Anniversary2025_95type
+    order: 1
+    rarity: 5
+    skin: 11502
+  }
+  {
+    id: 1680
+    item_id: 2680
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Anniversary2025_QBZ191
+    order: 1
+    rarity: 5
+    skin: 11503
+  }
+  {
+    id: 1681
+    item_id: 2681
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Anniversary2025_SIGMCX
+    order: 1
+    rarity: 5
+    skin: 11504
+  }
+  {
+    id: 1682
+    item_id: 2682
+    sub_type: 1
+    gem: 160
+    item_ids: 508-4000
+    onsale: 1
+    code: profilePic_Anniversary2025_TAR21
+    order: 1
+    rarity: 5
+    skin: 11505
+  }
+  {
+    id: 1683
+    item_id: 2683
+    sub_type: 1
+    gem: 40
+    item_ids: 508-1000
+    onsale: 1
+    code: profilePic_Anniversary2025_G43
+    order: 1
+    rarity: 5
+    skin: 11506
+  }
+  {
+    id: 1684
+    item_id: 2684
+    sub_type: 1
+    gem: 40
+    item_ids: 508-1000
+    onsale: 1
+    code: profilePic_Anniversary2025_BrenTen
+    order: 1
+    rarity: 5
+    skin: 11507
+  }
+  {
+    id: 1685
+    item_id: 2685
+    sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
+    code: profilePic_Anniversary2025_HowaType89
+    order: 1
+    rarity: 5
+    skin: 11508
+  }
+  {
+    id: 1686
+    item_id: 2686
+    sub_type: 1
+    code: profilePic_202505Activity_04
+    order: 1
+    rarity: 5
+    logo_code: logo_202505Activity
+  }
+  {
+    id: 1687
+    item_id: 2687
+    sub_type: 2
+    code: card_202505Activity_04
+    order: 1
+    rarity: 5
+  }
+  {
+    id: 1688
+    item_id: 2688
+    sub_type: 1
+    code: profilePic_Return2025_coremask
+    order: 1
+    rarity: 5
+    logo_code: logo_9years
   }
   {
     id: 2501

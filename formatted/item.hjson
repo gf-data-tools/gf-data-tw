@@ -16435,9 +16435,126 @@
     id: 2675
     type: 5
     arg: "1"
-    code: profilePic_Anniversary_Kalina
+    code: profilePic_Anniversary2025_Kalina
     item_name: 頭像：歡慶九九
     introduction: 頭像：歡慶九九
+    rank: 1
+  }
+  {
+    id: 2676
+    type: 5
+    arg: "1"
+    code: profilePic_9years_01
+    item_name: 頭像：錢途無量
+    introduction: 頭像：錢途無量
+    rank: 1
+  }
+  {
+    id: 2677
+    type: 5
+    arg: "1"
+    code: card_9years_01
+    item_name: 名片：瞬息如光，永恆如鏡
+    introduction: 名片：瞬息如光，永恆如鏡
+    rank: 1
+  }
+  {
+    id: 2678
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_HK433
+    item_name: HK433-莫內的白晝
+    introduction: HK433-莫內的白晝
+    rank: 1
+  }
+  {
+    id: 2679
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_95type
+    item_name: 95式-流光韶羽
+    introduction: 95式-流光韶羽
+    rank: 1
+  }
+  {
+    id: 2680
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_QBZ191
+    item_name: QBZ-191-玄衣卷月
+    introduction: QBZ-191-玄衣卷月
+    rank: 1
+  }
+  {
+    id: 2681
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_SIGMCX
+    item_name: SIG MCX-紅粉鐵拳
+    introduction: SIG MCX-紅粉鐵拳
+    rank: 1
+  }
+  {
+    id: 2682
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_TAR21
+    item_name: TAR-21-蘭鳶花鈴
+    introduction: TAR-21-蘭鳶花鈴
+    rank: 1
+  }
+  {
+    id: 2683
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_G43
+    item_name: G43-時砂之鏡
+    introduction: G43-時砂之鏡
+    rank: 1
+  }
+  {
+    id: 2684
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_BrenTen
+    item_name: Bren Ten-甜夢圓舞曲
+    introduction: Bren Ten-甜夢圓舞曲
+    rank: 1
+  }
+  {
+    id: 2685
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_HowaType89
+    item_name: 89式自-特調時分
+    introduction: 89式自-特調時分
+    rank: 1
+  }
+  {
+    id: 2686
+    type: 5
+    arg: "1"
+    code: profilePic_202505Activity_04
+    item_name: 頭像：終成幻影
+    introduction: 頭像：終成幻影
+    rank: 1
+  }
+  {
+    id: 2687
+    type: 5
+    arg: "1"
+    code: card_202505Activity_04
+    item_name: 名片：以為會一直相伴的風景
+    introduction: 名片：以為會一直相伴的風景
+    rank: 1
+  }
+  {
+    id: 2688
+    type: 5
+    arg: "1"
+    code: profilePic_Return2025_coremask
+    item_name: 真核面具紀念頭像·九周年
+    introduction: 真核面具紀念頭像·九周年
     rank: 1
   }
   {
@@ -26406,7 +26523,7 @@
     id: 1500225
     type: 15
     arg: "1500225"
-    code: Bumdle_equipment
+    code: Bumdle_9yearCoupon
     item_name: 9周年裝扮券
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內選擇獲得一件裝扮。
     rank: 1
@@ -26441,7 +26558,51 @@
     arg: "1500228"
     code: Bumdle_Coupons1
     item_name: 致臻裝扮券·周年慶
-    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內選擇獲得一件裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500229
+    type: 15
+    arg: "1500229"
+    code: Bumdle_passport_1
+    item_name: 雪原來客協議物資補給
+    introduction: 在倉庫中使用該補給，即可獲得包含「PK-夜雪巡弋」在內的多項道具。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500230
+    type: 15
+    arg: "1500230"
+    code: Bumdle_passport_2
+    item_name: 熱辣暖冬協議物資補給
+    introduction: 在倉庫中使用該補給，即可獲得包含「CF05-沸騰的歲月」在內的多項道具。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500231
+    type: 15
+    arg: "1500231"
+    code: Bumdle_passport_3
+    item_name: 硝煙彌光協議物資補給
+    introduction: 在倉庫中使用該補給，即可獲得包含「M14-決勝強援」在內的多項道具。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500232
+    type: 15
+    arg: "1500232"
+    code: Bumdle_passport_4
+    item_name: 日光砂浴協議物資補給
+    introduction: 在倉庫中使用該補給，即可獲得包含「貝武夫-海濱獵手」在內的多項道具。
     rank: 1
     sort: -1
     type_sort: 1
