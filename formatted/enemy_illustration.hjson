@@ -5755,11 +5755,11 @@
   {
     sub_id: 249001
     id: 249
-    name: enemy_illustration-10249001
-    sub_name: enemy_illustration-50249001
+    name: 自律人形-Bren Ten
+    sub_name: 自律人形-Bren Ten
     type: 3
     code: BrenTen_enemy
-    introduce: enemy_illustration-20249001
+    introduce: 未曾設想的敵人。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5767,20 +5767,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30249001
+    counter: 情報不明,謹慎應對!
     character: "100"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40249001
     spine_scale: "70,70,1"
   }
   {
     sub_id: 250001
     id: 250
-    name: enemy_illustration-10250001
-    sub_name: enemy_illustration-50250001
+    name: 自律人形-FNP-9
+    sub_name: 自律人形-FNP-9
     type: 3
     code: FNP9_enemy
-    introduce: enemy_illustration-20250001
+    introduce: 未曾設想的敵人。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5788,20 +5787,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30250001
+    counter: 情報不明,謹慎應對!
     character: "100"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40250001
     spine_scale: "70,70,1"
   }
   {
     sub_id: 251001
     id: 251
-    name: enemy_illustration-10251001
-    sub_name: enemy_illustration-50251001
+    name: 自律人形-IDW
+    sub_name: 自律人形-IDW
     type: 3
     code: IDW_enemy
-    introduce: enemy_illustration-20251001
+    introduce: 未曾設想的敵人。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5809,20 +5807,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30251001
+    counter: 情報不明,謹慎應對!
     character: "100"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40251001
     spine_scale: "70,70,1"
   }
   {
     sub_id: 252001
     id: 252
-    name: enemy_illustration-10252001
-    sub_name: enemy_illustration-50252001
+    name: 自律人形-Spectre M4
+    sub_name: 自律人形-Spectre M4
     type: 3
     code: SpectreM4_enemy
-    introduce: enemy_illustration-20252001
+    introduce: 未曾設想的敵人。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5830,20 +5827,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30252001
+    counter: 情報不明,謹慎應對!
     character: "100"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40252001
     spine_scale: "70,70,1"
   }
   {
     sub_id: 253001
     id: 253
-    name: enemy_illustration-10253001
-    sub_name: enemy_illustration-50253001
+    name: 自律人形-63式
+    sub_name: 自律人形-63式
     type: 3
     code: 63type_enemy
-    introduce: enemy_illustration-20253001
+    introduce: 未曾設想的敵人。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5851,20 +5847,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30253001
+    counter: 情報不明,謹慎應對!
     character: "100"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40253001
     spine_scale: "70,70,1"
   }
   {
     sub_id: 254001
     id: 254
-    name: enemy_illustration-10254001
-    sub_name: enemy_illustration-50254001
+    name: 自律人形-L85A1
+    sub_name: 自律人形-L85A1
     type: 3
     code: L85A1_enemy
-    introduce: enemy_illustration-20254001
+    introduce: 未曾設想的敵人。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5872,10 +5867,9 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30254001
+    counter: 情報不明,謹慎應對!
     character: "100"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40254001
     spine_scale: "70,70,1"
   }
   {
@@ -5902,11 +5896,11 @@
   {
     sub_id: 100009001
     id: 100009
-    name: enemy_illustration-110009001
-    sub_name: enemy_illustration-150009001
+    name: 海邊的西瓜
+    sub_name: 海邊的西瓜
     type: 2
     code: Pathfinder_Small
-    introduce: enemy_illustration-120009001
+    introduce: 一顆普通的西瓜。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5915,16 +5909,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130009001
+    counter: 敲碎它！
     character: "903"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140009001
   }
   {
     sub_id: 100011001
     id: 100011
-    name: 持盾者
-    sub_name: 持盾者
+    name: enemy_illustration-110011001
+    sub_name: 盾牌娘
     type: 3
     code: GG_Elfeldt_SF
     introduce: 未曾設想的敵人。
@@ -6323,11 +6316,11 @@
   {
     sub_id: 100030002
     id: 100030
-    name: enemy_illustration-110030002
-    sub_name: enemy_illustration-150030002
+    name: 地獄火
+    sub_name: 地獄火-特別型
     type: 1
     code: HK416Boss
-    introduce: enemy_illustration-120030002
+    introduce: 擁有和維克托相同的樣貌，但似乎是隻存在於《全境封鎖》世界當中的AI。除了擁有能夠指揮淨化者陣營的能力之外，其他一切皆為謎團。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6336,16 +6329,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130030002
+    counter: 射擊！移動！面對強大的敵人並取勝吧！
     character: "1001,424,425"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-140030002
   }
   {
     sub_id: 100031001
     id: 100031
-    name: 小單眼
-    sub_name: 小單眼
+    name: 維克托
+    sub_name: 維克托
     type: 1
     code: VectorBoss
     introduce: 未曾設想的敵人。
@@ -6545,7 +6537,7 @@
   {
     sub_id: 100040001
     id: 100040
-    name: 貨車狂徒
+    name: 浴場刺客
     sub_name: 貨車狂徒
     type: 1
     code: Dropkick_MinosBoss
@@ -7223,11 +7215,11 @@
   {
     sub_id: 100073001
     id: 100073
-    name: enemy_illustration-110073001
-    sub_name: enemy_illustration-150073001
+    name: 多斯
+    sub_name: 多斯
     type: 3
     code: EliteBGBreakout
-    introduce: enemy_illustration-120073001
+    introduce: 暗區本土勢力安東尼家族的領頭人，經營各類地下生意，為人精明狠絕，身邊常年圍繞著保鏢護衛，是暗區裡不可小覷的地頭毒蛇。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -7236,19 +7228,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130073001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "1001,107"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-140073001
   }
   {
     sub_id: 100074001
     id: 100074
-    name: enemy_illustration-110074001
-    sub_name: enemy_illustration-150074001
+    name: 白燁戈
+    sub_name: 白燁戈
     type: 1
     code: DosBreakout
-    introduce: enemy_illustration-120074001
+    introduce: 來歷不詳，目的不明。表面身份是多斯新近招攬的得力干將。對指揮官護送的箱子尤為在意，似乎知曉內情。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -7257,20 +7248,19 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130074001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "1001,106"
     enemy_skill: "10059,10060,10061,10062"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-140074001
   }
   {
     sub_id: 100075001
     id: 100075
-    name: enemy_illustration-110075001
-    sub_name: enemy_illustration-150075001
+    name: 黑卡蒂
+    sub_name: 黑卡蒂
     type: 1
     code: M16A1Arena
-    introduce: enemy_illustration-120075001
+    introduce: 黑金國際深淵小隊隊長，擅長攀爬與隱秘行動，同時擁有高智商與出色的作戰能力，是暗區裡令人聞之色變的部隊領袖。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -7279,20 +7269,19 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130075001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "1001,1004"
     enemy_skill: "8103,8202,8301"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-140075001
   }
   {
     sub_id: 100076001
     id: 100076
-    name: enemy_illustration-110076001
-    sub_name: enemy_illustration-150076001
+    name: 黑卡蒂
+    sub_name: 黑卡蒂
     type: 1
     code: HecateBoss
-    introduce: enemy_illustration-120076001
+    introduce: 黑金國際深淵小隊隊長，擅長攀爬與隱秘行動，同時擁有高智商與出色的作戰能力，是暗區裡令人聞之色變的部隊領袖。
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -7301,11 +7290,10 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130076001
+    counter: 該單位能力均衡，請注意提高梯隊的整體作戰能力應對。
     character: "1001,107"
     enemy_skill: "10063,10064,10065,10066,10067,10068,10069"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-140076001
   }
   {
     sub_id: 100082001

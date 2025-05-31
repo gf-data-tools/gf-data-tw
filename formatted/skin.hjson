@@ -9724,97 +9724,87 @@
   }
   {
     id: 11501
-    name: skin-10011501
+    name: HK433-莫內的白晝
     fit_gun: 390
     voice: 4
-    dialog: skin-20011501
-    note: skin-30011501
-    illustrator_cv: skin-40011501
+    dialog: 過去的我是一幅靜止的黑白畫，直到您添上繽紛的色彩，我才能成為不斷綻放的永恆……
+    illustrator_cv: 豆芽,川澄綾子,
     order: 154
     class_id: 112
     skin_source: 2
   }
   {
     id: 11502
-    name: skin-10011502
+    name: 95式-流光韶羽
     fit_gun: 129
     voice: 4
-    dialog: skin-20011502
-    note: skin-30011502
+    dialog: 感謝您的邀請，指揮官——能與您一同欣賞這雀羽般絢爛的星空……對我來說，就是今晚最美的紀念了。
     gift_position: "-99.1,-79.5"
-    illustrator_cv: skin-40011502
+    illustrator_cv: 鳩山井鶴,大門香実,
     order: 154
     class_id: 112
     skin_source: 1
   }
   {
     id: 11503
-    name: skin-10011503
+    name: QBZ-191-玄衣卷月
     fit_gun: 361
     voice: 4
-    dialog: skin-20011503
-    note: skin-30011503
-    illustrator_cv: skin-40011503
+    dialog: 玄袞者，玄衣而畫以卷龍也，可我的衣衫卻不需要徒繪龍影。要說的話，這道月光色才是更好的裝點……好了，指揮官，你是想看我相邀明月，還是伸出手來，同我舞這一曲呢？
     order: 154
     class_id: 112
     skin_source: 2
   }
   {
     id: 11504
-    name: skin-10011504
+    name: SIG MCX-紅粉鐵拳
     fit_gun: 338
     voice: 4
-    dialog: skin-20011504
-    note: skin-30011504
+    dialog: 正義可不是只有在穿制服的時候才能伸張喲——套上這副機體去門口晃一晃，應該就沒人敢來打擾我們的宴會了吧？
     gift_position: "-133.9,-38"
-    illustrator_cv: skin-40011504
     order: 154
     class_id: 112
     skin_source: 1
   }
   {
     id: 11505
-    name: skin-10011505
+    name: TAR-21-蘭鳶花鈴
     fit_gun: 72
     voice: 4
-    dialog: skin-20011505
-    note: skin-30011505
-    illustrator_cv: skin-40011505
+    dialog: 周年宴並不僅僅只是回顧過去的時候。有我這樣的新型人形在您身邊，未來的成功……也是值得期待的一部分呢。
+    illustrator_cv: 鳩山井鶴,舞原ゆめ,
     order: 154
     class_id: 112
     skin_source: 2
   }
   {
     id: 11506
-    name: skin-10011506
+    name: G43-時砂之鏡
     fit_gun: 47
     voice: 4
-    dialog: skin-20011506
-    note: skin-30011506
-    illustrator_cv: skin-40011506
+    dialog: 時間如同砂礫一般，從指縫間匆匆不停地流走——好想留住與您共度的片段，置入光潔的鏡中永久珍藏……
+    illustrator_cv: 星迴,山根希美,
     order: 154
     class_id: 112
   }
   {
     id: 11507
-    name: skin-10011507
+    name: Bren Ten-甜夢圓舞曲
     fit_gun: 139
     voice: 4
-    dialog: skin-20011507
-    note: skin-30011507
-    illustrator_cv: skin-40011507
+    dialog: 指揮官，來陪我一起玩旋轉木馬吧！呼呼呼~越轉越快囉……哎呀！指揮官？你怎麼突然趴下了？現在可不是睡覺時間呀！
+    illustrator_cv: 小星,佐藤有世,
     order: 154
     class_id: 112
     skin_source: 2
   }
   {
     id: 11508
-    name: skin-10011508
+    name: 89式自-特調時分
     fit_gun: 290
     voice: 4
-    dialog: skin-20011508
-    note: skin-30011508
-    illustrator_cv: skin-40011508
+    dialog: 鏘鏘！周年特調來啦！裡面加了我新發明的冰塊，就算融化也不會讓酒味變淡哦~來，指揮官，快嚐一杯吧！
+    illustrator_cv: RIRE,渕上舞,
     order: 154
     class_id: 112
     skin_source: 2

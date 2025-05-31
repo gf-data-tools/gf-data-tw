@@ -1508,7 +1508,7 @@
   }
   {
     id: 116
-    name: sangvis_gasha-10000116
+    name: S09區鐵血據點外圍
     type: 1
     start_time: 2025-05-02 10:00:00
     end_time: 2025-06-06 10:00:00
@@ -1521,7 +1521,7 @@
   }
   {
     id: 117
-    name: sangvis_gasha-10000117
+    name: SP721指揮室
     type: 1
     start_time: 2025-05-02 10:00:00
     end_time: 2025-06-06 10:00:00
