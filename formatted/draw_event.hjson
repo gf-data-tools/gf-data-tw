@@ -9763,6 +9763,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 10:2402
     clear_cycle: 1
   }
   {
@@ -9770,6 +9771,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 8:2403
     clear_cycle: 1
   }
   {
@@ -9777,6 +9779,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 8:2404
     clear_cycle: 1
   }
   {
@@ -9784,6 +9787,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 6:2405
     clear_cycle: 1
   }
   {
@@ -9791,6 +9795,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 6:2406
     clear_cycle: 1
   }
   {
@@ -9798,6 +9803,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 6:2407
     clear_cycle: 1
   }
   {
@@ -9805,6 +9811,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 5:2408
     clear_cycle: 1
   }
   {
@@ -9812,6 +9819,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 5:2409
     clear_cycle: 1
   }
   {
@@ -9819,6 +9827,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 4:2410
     clear_cycle: 1
   }
   {
@@ -9826,6 +9835,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 4:2411
     clear_cycle: 1
   }
   {
@@ -9833,6 +9843,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 4:2412
     clear_cycle: 1
   }
   {
@@ -9840,6 +9851,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 10:2413
     clear_cycle: 1
   }
   {
@@ -9847,6 +9859,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 8:2414
     clear_cycle: 1
   }
   {
@@ -9854,6 +9867,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 6:2415
     clear_cycle: 1
   }
   {
@@ -9861,6 +9875,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 5:2416
     clear_cycle: 1
   }
   {
@@ -9868,6 +9883,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 4:2417
     clear_cycle: 1
   }
   {
@@ -9875,6 +9891,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 1000:2418
     clear_cycle: 1
   }
   {
@@ -9882,6 +9899,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 1000:2419
     clear_cycle: 1
   }
   {
@@ -9889,6 +9907,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 1000:2420
     clear_cycle: 1
   }
   {
@@ -9896,6 +9915,7 @@
     type: 1
     start_time: 2025-04-11 10:00:00
     end_time: 2025-05-02 10:00:00
+    drop_ids: 1000:2421
     clear_cycle: 1
   }
   {
@@ -10133,161 +10153,141 @@
   {
     id: 1253
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 10:2479
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1254
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 8:2480
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1255
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 8:2481
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1256
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 6:2482
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1257
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 6:2483
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1258
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 6:2484
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1259
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 5:2485
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1260
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 5:2486
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1261
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 4:2487
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1262
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 4:2488
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1263
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 4:2489
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1264
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 10:2490
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1265
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 8:2491
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1266
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 6:2492
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1267
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 5:2493
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1268
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 4:2494
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1269
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 1000:2495
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1270
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 1000:2496
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1271
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 1000:2497
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
     id: 1272
     type: 1
-    start_time: 2024-10-25 10:00:00
-    end_time: 2024-11-15 10:00:00
-    drop_ids: 1000:2498
+    start_time: 2025-06-06 10:00:00
+    end_time: 2025-06-27 10:00:00
     clear_cycle: 1
   }
   {
@@ -10645,163 +10645,163 @@
   {
     id: 1317
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1318
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1319
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1320
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1321
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1322
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1323
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1324
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1325
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1326
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1327
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1328
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1329
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1330
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1331
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1332
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1333
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1334
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1335
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1336
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1337
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1338
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
+    start_time: 2025-06-27 10:00:00
+    end_time: 2025-07-18 10:00:00
     clear_cycle: 1
   }
   {
     id: 1339
     item_id: 100273
     type: 1
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-19 23:59:59
+    start_time: 2025-06-13 10:00:00
+    end_time: 2025-06-26 23:59:59
     drop_ids: 99:2590,100:2591,101:2592
     title_res: 1adc78b0afd0ee63_draw_250513002.png
     amount_coordinate: "307.5,-184"
