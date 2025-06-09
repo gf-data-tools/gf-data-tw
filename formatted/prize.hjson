@@ -16252,25 +16252,25 @@
   {
     id: 2636
     name: 孤立叢林限定裝扮券·壹
-    item_ids: 1500164-1
+    item_ids: 1500233-1
     icon: Bumdle_IsolationForest01
   }
   {
     id: 2637
     name: 孤立叢林限定裝扮券·貳
-    item_ids: 1500165-1
+    item_ids: 1500234-1
     icon: Bumdle_IsolationForest02
   }
   {
     id: 2638
     name: 孤立叢林限定裝扮券·參
-    item_ids: 1500166-1
+    item_ids: 1500235-1
     icon: Bumdle_IsolationForest03
   }
   {
     id: 2639
     name: 孤立叢林限定裝扮券·肆
-    item_ids: 1500167-1
+    item_ids: 1500236-1
     icon: Bumdle_IsolationForest04
   }
   {
