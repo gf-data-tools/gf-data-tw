@@ -44435,11 +44435,10 @@
   }
   {
     id: 680501
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,374,100,75,60"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     draw_event_s_id: 1138
     enemy_leader: 900701
     if_stay: 1
-    limit_guns: "374"
     effect_ext: 20235
   }
   {
@@ -44546,11 +44545,10 @@
   }
   {
     id: 680901
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,374,100,75,60"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     draw_event_s_id: 1140
     enemy_leader: 900702
     if_stay: 1
-    limit_guns: "374"
     effect_ext: 67633
   }
   {
@@ -44584,139 +44582,122 @@
   }
   {
     id: 681001
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,161,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1137
     enemy_leader: 10098
     if_stay: 1
-    limit_guns: "161"
   }
   {
     id: 681002
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,335,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1137
     enemy_leader: 10098
     if_stay: 1
-    limit_guns: "335"
   }
   {
     id: 681003
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,387,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1138
     enemy_leader: 10098
     if_stay: 1
-    limit_guns: "387"
   }
   {
     id: 681004
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,374,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1138
     enemy_leader: 10098
     if_stay: 1
-    limit_guns: "374"
   }
   {
     id: 681005
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,161,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1137
     enemy_leader: 10099
     if_stay: 1
-    limit_guns: "161"
   }
   {
     id: 681006
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,335,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1137
     enemy_leader: 10099
     if_stay: 1
-    limit_guns: "335"
   }
   {
     id: 681007
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,387,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1138
     enemy_leader: 10099
     if_stay: 1
-    limit_guns: "387"
   }
   {
     id: 681008
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,374,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1138
     enemy_leader: 10099
     if_stay: 1
-    limit_guns: "374"
   }
   {
     id: 681101
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,161,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1139
     enemy_leader: 10098
     if_stay: 1
-    limit_guns: "161"
   }
   {
     id: 681102
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,335,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1139
     enemy_leader: 10098
     if_stay: 1
-    limit_guns: "335"
   }
   {
     id: 681103
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,387,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1140
     enemy_leader: 10098
     if_stay: 1
-    limit_guns: "387"
   }
   {
     id: 681104
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,374,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1140
     enemy_leader: 10098
     if_stay: 1
-    limit_guns: "374"
   }
   {
     id: 681105
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,161,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1139
     enemy_leader: 10099
     if_stay: 1
-    limit_guns: "161"
   }
   {
     id: 681106
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,335,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1139
     enemy_leader: 10099
     if_stay: 1
-    limit_guns: "335"
   }
   {
     id: 681107
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,387,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1140
     enemy_leader: 10099
     if_stay: 1
-    limit_guns: "387"
   }
   {
     id: 681108
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,374,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1140
     enemy_leader: 10099
     if_stay: 1
-    limit_guns: "374"
   }
   {
     id: 690101
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,371,150,99,1"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     draw_event_s_id: 1177
     enemy_leader: 900708
     if_stay: 1
-    limit_guns: "371"
     targettrain_cancollect: 1
   }
   {
@@ -44744,22 +44725,19 @@
   }
   {
     id: 690201
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,371,150,99,1"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1179
     enemy_leader: 900709
     if_stay: 1
-    limit_guns: "371"
     targettrain_cancollect: 1
   }
   {
     id: 690202
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
     enemy_leader: 900709
     targettrain_cancollect: 1
   }
   {
     id: 690203
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
     enemy_leader: 11007
     ai: 102
     ai_content: "9"
@@ -44882,10 +44860,9 @@
   }
   {
     id: 690501
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,179,66,69,42"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1178
     enemy_leader: 900705
-    limit_guns: "179"
     ai: 102
     ai_content: "9"
     targettrain_cancollect: 1
@@ -44927,10 +44904,9 @@
   }
   {
     id: 690601
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,179,66,69,42"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     draw_event_s_id: 1180
     enemy_leader: 900706
-    limit_guns: "179"
     ai: 102
     ai_content: "9"
     targettrain_cancollect: 1
@@ -45016,10 +44992,9 @@
   }
   {
     id: 690801
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,399,100,75,60"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     draw_event_s_id: 1178
     enemy_leader: 900703
-    limit_guns: "399"
     ai: 102
     ai_content: "3"
     targettrain_cancollect: 1
@@ -45064,17 +45039,15 @@
   }
   {
     id: 690901
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,399,100,75,60"
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     draw_event_s_id: 1180
     enemy_leader: 900704
-    limit_guns: "399"
     ai: 102
     ai_content: "3"
     targettrain_cancollect: 1
   }
   {
     id: 690902
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
     enemy_leader: 10109
     ai: 101
     ai_content: "601798,601799,601800,601779,601798"
@@ -45083,7 +45056,6 @@
   }
   {
     id: 690903
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
     enemy_leader: 10109
     ai: 101
     ai_content: "601764,601765,601778,601777,601764"
@@ -45092,7 +45064,6 @@
   }
   {
     id: 690904
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
     enemy_leader: 10109
     ai: 101
     ai_content: "601791,601790,601801,601802,601791"
@@ -45101,7 +45072,6 @@
   }
   {
     id: 690905
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
     enemy_leader: 10050
     ai: 101
     ai_content: "601768,601775,601805"
@@ -45110,7 +45080,6 @@
   }
   {
     id: 690906
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
     enemy_leader: 10050
     ai: 101
     ai_content: "601754,601783,601784"
@@ -45139,146 +45108,130 @@
   }
   {
     id: 691001
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,371,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1177
     enemy_leader: 10003
     if_stay: 1
-    limit_guns: "371"
     targettrain_cancollect: 1
   }
   {
     id: 691002
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,373,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1177
     enemy_leader: 10003
     if_stay: 1
-    limit_guns: "373"
     targettrain_cancollect: 1
   }
   {
     id: 691003
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,179,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1178
     enemy_leader: 10018
     if_stay: 1
-    limit_guns: "179"
     targettrain_cancollect: 1
   }
   {
     id: 691004
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,399,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1178
     enemy_leader: 10018
     if_stay: 1
-    limit_guns: "399"
     targettrain_cancollect: 1
   }
   {
     id: 691005
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,371,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1177
     enemy_leader: 10007
     if_stay: 1
-    limit_guns: "371"
     targettrain_cancollect: 1
   }
   {
     id: 691006
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,373,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1177
     enemy_leader: 10007
     if_stay: 1
-    limit_guns: "373"
     targettrain_cancollect: 1
   }
   {
     id: 691007
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,179,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1178
     enemy_leader: 10006
     if_stay: 1
-    limit_guns: "179"
     targettrain_cancollect: 1
   }
   {
     id: 691008
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,399,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1178
     enemy_leader: 10006
     if_stay: 1
-    limit_guns: "399"
     targettrain_cancollect: 1
   }
   {
     id: 691101
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,371,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1179
     enemy_leader: 10003
     if_stay: 1
-    limit_guns: "371"
     targettrain_cancollect: 1
   }
   {
     id: 691102
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,373,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1179
     enemy_leader: 10003
     if_stay: 1
-    limit_guns: "373"
     targettrain_cancollect: 1
   }
   {
     id: 691103
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,179,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1180
     enemy_leader: 10018
     if_stay: 1
-    limit_guns: "179"
     targettrain_cancollect: 1
   }
   {
     id: 691104
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,399,0"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1180
     enemy_leader: 10018
     if_stay: 1
-    limit_guns: "399"
     targettrain_cancollect: 1
   }
   {
     id: 691105
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,371,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1179
     enemy_leader: 10008
     if_stay: 1
-    limit_guns: "371"
     targettrain_cancollect: 1
   }
   {
     id: 691106
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,373,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1179
     enemy_leader: 10008
     if_stay: 1
-    limit_guns: "373"
     targettrain_cancollect: 1
   }
   {
     id: 691107
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,179,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1180
     enemy_leader: 10008
     if_stay: 1
-    limit_guns: "179"
     targettrain_cancollect: 1
   }
   {
     id: 691108
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,399,36,1,103"
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     draw_event_s_id: 1180
     enemy_leader: 10008
     if_stay: 1
-    limit_guns: "399"
     targettrain_cancollect: 1
   }
   {
@@ -45930,6 +45883,922 @@
     enemy_leader: 13322
     if_stay: 1
     limit_guns: "318"
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750201
+    enemy_leader: 13305
+    ai: 202
+    ai_content: 2|750000
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750201
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750202
+    enemy_leader: 13305
+    ai: 202
+    ai_content: 2|750000
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750202
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750301
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 11029
+    ai: 101
+    ai_content: "87307,87313,87319"
+    team_confrontfun_des: enemy_team-10750301
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750302
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 11029
+    ai: 101
+    ai_content: "87315,87316"
+    team_confrontfun_des: enemy_team-10750302
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750303
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 11029
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10750303
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750401
+    enemy_leader: 13302
+    ai: 201
+    ai_content: "87393,87394,87395|750000"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750401
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750402
+    enemy_leader: 13302
+    ai: 201
+    ai_content: "87383,87384,87385|750000"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750402
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750403
+    enemy_leader: 13302
+    ai: 201
+    ai_content: "87386,87387,87388|750000"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750403
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750404
+    enemy_leader: 13302
+    ai: 201
+    ai_content: "87396,87397,87389|750000"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750404
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750405
+    enemy_leader: 13302
+    ai: 201
+    ai_content: "87399,87400,87401|750000"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750405
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750406
+    enemy_leader: 13302
+    ai: 201
+    ai_content: "87386,87406,87402|750000"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750406
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750501
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13302
+    ai: 101
+    ai_content: "87427,87428,87424,87419,87418,87422,87427"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750501
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750502
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13305
+    ai: 102
+    ai_content: "1"
+    team_confrontfun_des: enemy_team-10750502
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750503
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13305
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10750503
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750504
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13305
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10750504
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750601
+    enemy_leader: 13305
+    ai: 201
+    ai_content: "87520,87521,87519,87518,87520|750000"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750601
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750602
+    enemy_leader: 13305
+    ai: 201
+    ai_content: "87514,87513,87512|750000"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750602
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750603
+    enemy_leader: 13305
+    ai: 201
+    ai_content: "87510,87509,87508,87505|750000"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750603
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750604
+    enemy_leader: 13305
+    ai: 201
+    ai_content: "87505,87504,87503,87502|750000"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750604
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750605
+    enemy_leader: 13305
+    ai: 201
+    ai_content: "87491,87492,87493|750000"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750605
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750606
+    enemy_leader: 13305
+    ai: 201
+    ai_content: "87500,87499,87498,87497,87506,87507,87500|750000"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750606
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750607
+    enemy_leader: 13305
+    ai: 202
+    ai_content: 2|750000
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750607
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750701
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87559,87554,87549,87544,87539"
+    team_confrontfun_des: enemy_team-10750701
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750702
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87561,87556,87551,87546"
+    team_confrontfun_des: enemy_team-10750702
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750703
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87549,87550,87551,87552,87553"
+    team_confrontfun_des: enemy_team-10750703
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750704
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87544,87545,87546,87547"
+    team_confrontfun_des: enemy_team-10750704
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750705
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87542,87541,87540,87539"
+    team_confrontfun_des: enemy_team-10750705
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750706
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87534,87535,87536,87537"
+    team_confrontfun_des: enemy_team-10750706
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750707
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87529,87530,87531,87532,87533"
+    team_confrontfun_des: enemy_team-10750707
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750708
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87533,87538,87543,87548,87553"
+    team_confrontfun_des: enemy_team-10750708
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750800
+    enemy_leader: 13337
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10750800
+  }
+  {
+    id: 750801
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 10117
+    ai: 102
+    ai_content: "2"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10750801
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750802
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13331
+    ai: 102
+    ai_content: "1"
+    team_confrontfun_des: enemy_team-10750802
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750803
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13333
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10750803
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750804
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13334
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10750804
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750805
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13333
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10750805
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750901
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 11029
+    ai: 101
+    ai_content: "87335,87341,87347"
+    team_confrontfun_des: enemy_team-10750901
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750902
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 11029
+    ai: 101
+    ai_content: "87343,87344"
+    team_confrontfun_des: enemy_team-10750902
+    targettrain_cancollect: 1
+  }
+  {
+    id: 750903
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    enemy_leader: 11029
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10750903
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751001
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 13302
+    ai: 101
+    ai_content: "87452,87453,87449,87444,87443,87447,87452"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10751001
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751002
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 13305
+    ai: 102
+    ai_content: "1"
+    team_confrontfun_des: enemy_team-10751002
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751003
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    enemy_leader: 13305
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10751003
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751004
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    enemy_leader: 13305
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10751004
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751101
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87600,87595,87590,87585,87580"
+    team_confrontfun_des: enemy_team-10751101
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751102
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87602,87597,87592,87587"
+    team_confrontfun_des: enemy_team-10751102
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751103
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87590,87591,87592,87593,87594"
+    team_confrontfun_des: enemy_team-10751103
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751104
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87585,87586,87587,87588"
+    team_confrontfun_des: enemy_team-10751104
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751105
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87583,87582,87581,87580"
+    team_confrontfun_des: enemy_team-10751105
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751106
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87575,87576,87577,87578"
+    team_confrontfun_des: enemy_team-10751106
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751107
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87570,87571,87572,87573,87574"
+    team_confrontfun_des: enemy_team-10751107
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751108
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87574,87579,87584,87589,87594"
+    team_confrontfun_des: enemy_team-10751108
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751201
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 10117
+    ai: 102
+    ai_content: "2"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10751201
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751202
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13331
+    ai: 102
+    ai_content: "1"
+    team_confrontfun_des: enemy_team-10751202
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751203
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13333
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10751203
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751204
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13334
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10751204
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751205
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13333
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10751205
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751301
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 10116
+    ai: 101
+    ai_content: "87367,87368"
+    team_confrontfun_des: enemy_team-10751301
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751302
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 10116
+    ai: 101
+    ai_content: "87376,87377"
+    team_confrontfun_des: enemy_team-10751302
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751303
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 10116
+    ai: 101
+    ai_content: "87373,87374"
+    team_confrontfun_des: enemy_team-10751303
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751304
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 10116
+    ai: 101
+    ai_content: "87379,87380"
+    team_confrontfun_des: enemy_team-10751304
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751305
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 10116
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10751305
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751401
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 13302
+    ai: 101
+    ai_content: "87488,87483,87479,87475,87487,87470,87469,87468,87467,87472,87477,87482,87488"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10751401
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751402
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,0"
+    enemy_leader: 13302
+    ai: 101
+    ai_content: "87489,87463,87467,87471,87486,87476,87477,87478,87479,87474,87469,87464,87489"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10751402
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751403
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    enemy_leader: 13310
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10751403
+    targettrain_cancollect: 1
+    show_color: 3
+  }
+  {
+    id: 751404
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
+    enemy_leader: 13310
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10751404
+    targettrain_cancollect: 1
+    show_color: 3
+  }
+  {
+    id: 751501
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13333
+    ai: 102
+    ai_content: "2"
+    team_confrontfun_des: enemy_team-10751501
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751502
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13333
+    ai: 102
+    ai_content: "2"
+    team_confrontfun_des: enemy_team-10751502
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751503
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87662,87667,87672,87668,87663,87662"
+    team_confrontfun_des: enemy_team-10751503
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751504
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87653,87654,87643,87642,87653"
+    team_confrontfun_des: enemy_team-10751504
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751505
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87641,87636,87631,87626"
+    team_confrontfun_des: enemy_team-10751505
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751506
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87638,87633,87628"
+    team_confrontfun_des: enemy_team-10751506
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751507
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87631,87632,87633,87634,87635"
+    team_confrontfun_des: enemy_team-10751507
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751508
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87626,87627,87628,87629"
+    team_confrontfun_des: enemy_team-10751508
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751509
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87624,87623,87622,87621"
+    team_confrontfun_des: enemy_team-10751509
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751510
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87616,87617,87618,87619"
+    team_confrontfun_des: enemy_team-10751510
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751511
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87611,87612,87613,87614,87615"
+    team_confrontfun_des: enemy_team-10751511
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751512
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87615,87620,87625,87630,87635"
+    team_confrontfun_des: enemy_team-10751512
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751601
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 10117
+    ai: 102
+    ai_content: "2"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10751601
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751602
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 10117
+    ai: 101
+    ai_content: "87863,87864,87861,87860,87863"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10751602
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751603
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,0"
+    enemy_leader: 10117
+    ai: 101
+    ai_content: "87868,87869,87866,87865,87868"
+    enemy_type_display: "1"
+    team_confrontfun_des: enemy_team-10751603
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751604
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13333
+    ai: 101
+    ai_content: "87863,87864,87861,87860,87863"
+    team_confrontfun_des: enemy_team-10751604
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751605
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13334
+    ai: 101
+    ai_content: "87868,87869,87866,87865,87868"
+    team_confrontfun_des: enemy_team-10751605
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751606
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13333
+    ai: 102
+    ai_content: "1"
+    team_confrontfun_des: enemy_team-10751606
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751607
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13333
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10751607
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751608
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
+    enemy_leader: 13333
+    if_stay: 1
+    team_confrontfun_des: enemy_team-10751608
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751701
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,343,0"
+    draw_event_s_id: 1335
+    enemy_leader: 13306
+    if_stay: 1
+    limit_guns: "343"
+    team_confrontfun_des: enemy_team-10751701
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751702
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,0"
+    draw_event_s_id: 1335
+    enemy_leader: 13306
+    if_stay: 1
+    limit_guns: "370"
+    team_confrontfun_des: enemy_team-10751702
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751703
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,179,0"
+    draw_event_s_id: 1336
+    enemy_leader: 13306
+    if_stay: 1
+    limit_guns: "179"
+    team_confrontfun_des: enemy_team-10751703
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751704
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,331,0"
+    draw_event_s_id: 1336
+    enemy_leader: 13306
+    if_stay: 1
+    limit_guns: "331"
+    team_confrontfun_des: enemy_team-10751704
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751705
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,343,36,1,103"
+    draw_event_s_id: 1335
+    enemy_leader: 13307
+    if_stay: 1
+    limit_guns: "343"
+    team_confrontfun_des: enemy_team-10751705
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751706
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,36,1,103"
+    draw_event_s_id: 1335
+    enemy_leader: 13307
+    if_stay: 1
+    limit_guns: "370"
+    team_confrontfun_des: enemy_team-10751706
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751707
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,179,36,1,103"
+    draw_event_s_id: 1336
+    enemy_leader: 13307
+    if_stay: 1
+    limit_guns: "179"
+    team_confrontfun_des: enemy_team-10751707
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751708
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,331,36,1,103"
+    draw_event_s_id: 1336
+    enemy_leader: 13307
+    if_stay: 1
+    limit_guns: "331"
+    team_confrontfun_des: enemy_team-10751708
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751801
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,343,0"
+    draw_event_s_id: 1337
+    enemy_leader: 13306
+    if_stay: 1
+    limit_guns: "343"
+    team_confrontfun_des: enemy_team-10751801
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751802
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,0"
+    draw_event_s_id: 1337
+    enemy_leader: 13306
+    if_stay: 1
+    limit_guns: "370"
+    team_confrontfun_des: enemy_team-10751802
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751803
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,179,0"
+    draw_event_s_id: 1338
+    enemy_leader: 13306
+    if_stay: 1
+    limit_guns: "179"
+    team_confrontfun_des: enemy_team-10751803
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751804
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,331,0"
+    draw_event_s_id: 1338
+    enemy_leader: 13306
+    if_stay: 1
+    limit_guns: "331"
+    team_confrontfun_des: enemy_team-10751804
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751805
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,343,36,1,103"
+    draw_event_s_id: 1337
+    enemy_leader: 13307
+    if_stay: 1
+    limit_guns: "343"
+    team_confrontfun_des: enemy_team-10751805
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751806
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,36,1,103"
+    draw_event_s_id: 1337
+    enemy_leader: 13307
+    if_stay: 1
+    limit_guns: "370"
+    team_confrontfun_des: enemy_team-10751806
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751807
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,179,36,1,103"
+    draw_event_s_id: 1338
+    enemy_leader: 13307
+    if_stay: 1
+    limit_guns: "179"
+    team_confrontfun_des: enemy_team-10751807
+    targettrain_cancollect: 1
+  }
+  {
+    id: 751808
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,331,36,1,103"
+    draw_event_s_id: 1338
+    enemy_leader: 13307
+    if_stay: 1
+    limit_guns: "331"
+    team_confrontfun_des: enemy_team-10751808
     targettrain_cancollect: 1
   }
   {
@@ -114710,20 +115579,16 @@
   }
   {
     id: 9700304
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,319,0"
-    draw_event_s_id: 1222
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10009
     if_stay: 1
-    limit_guns: "319"
     targettrain_cancollect: 1
   }
   {
     id: 9700305
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,319,150,99,1"
-    draw_event_s_id: 1222
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10003
     if_stay: 1
-    limit_guns: "319"
     targettrain_cancollect: 1
   }
   {
@@ -114754,20 +115619,16 @@
   }
   {
     id: 9700604
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,383,0"
-    draw_event_s_id: 1222
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "383"
     targettrain_cancollect: 1
   }
   {
     id: 9700605
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,383,88,118,26"
-    draw_event_s_id: 1222
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "383"
     targettrain_cancollect: 1
   }
   {
@@ -114782,10 +115643,8 @@
   }
   {
     id: 9700902
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,266,66,69,42"
-    draw_event_s_id: 1223
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10075
-    limit_guns: "266"
     ai: 102
     ai_content: "99"
     effect_ext: 5040
@@ -114793,10 +115652,8 @@
   }
   {
     id: 9700903
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,266,0"
-    draw_event_s_id: 1223
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10075
-    limit_guns: "266"
     ai: 102
     ai_content: "99"
     effect_ext: 5040
@@ -114831,20 +115688,16 @@
   }
   {
     id: 9701201
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,315,78,101,85"
-    draw_event_s_id: 1223
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 900711
     if_stay: 1
-    limit_guns: "315"
     effect_ext: 31994
     targettrain_cancollect: 1
   }
   {
     id: 9701202
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,315,0"
-    draw_event_s_id: 1223
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 900115
-    limit_guns: "315"
     ai: 102
     ai_content: "99"
     targettrain_cancollect: 1
@@ -114896,11 +115749,9 @@
   }
   {
     id: 9701501
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,386,100,75,60"
-    draw_event_s_id: 1223
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 900711
     if_stay: 1
-    limit_guns: "386"
     effect_ext: 36848
     targettrain_cancollect: 1
   }
@@ -114926,11 +115777,9 @@
   }
   {
     id: 9701504
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,386,0"
-    draw_event_s_id: 1223
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "386"
     effect_ext: 9095
     targettrain_cancollect: 1
   }
@@ -114952,10 +115801,8 @@
   }
   {
     id: 9701901
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,319,150,99,1"
-    draw_event_s_id: 1224
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 900711
-    limit_guns: "319"
     targettrain_cancollect: 1
   }
   {
@@ -114977,20 +115824,16 @@
   }
   {
     id: 9701904
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,319,0"
-    draw_event_s_id: 1224
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 11001
     if_stay: 1
-    limit_guns: "319"
     targettrain_cancollect: 1
   }
   {
     id: 9701905
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,319,150,99,1"
-    draw_event_s_id: 1224
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10021
     if_stay: 1
-    limit_guns: "319"
     targettrain_cancollect: 1
   }
   {
@@ -115023,21 +115866,17 @@
   }
   {
     id: 9702004
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,383,0"
-    draw_event_s_id: 1224
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "383"
     effect_ext: 27496
     targettrain_cancollect: 1
   }
   {
     id: 9702005
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,383,88,118,26"
-    draw_event_s_id: 1224
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10076
     if_stay: 1
-    limit_guns: "383"
     effect_ext: 31803
     targettrain_cancollect: 1
   }
@@ -115053,10 +115892,8 @@
   }
   {
     id: 9702102
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,266,66,69,42"
-    draw_event_s_id: 1225
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10075
-    limit_guns: "266"
     ai: 102
     ai_content: "99"
     effect_ext: 32220
@@ -115064,10 +115901,8 @@
   }
   {
     id: 9702103
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,266,0"
-    draw_event_s_id: 1225
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10075
-    limit_guns: "266"
     ai: 102
     ai_content: "99"
     effect_ext: 32220
@@ -115102,20 +115937,16 @@
   }
   {
     id: 9702201
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,315,78,101,85"
-    draw_event_s_id: 1225
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 900712
     if_stay: 1
-    limit_guns: "315"
     effect_ext: 126317
     targettrain_cancollect: 1
   }
   {
     id: 9702202
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,315,0"
-    draw_event_s_id: 1225
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 900124
-    limit_guns: "315"
     ai: 102
     ai_content: "99"
     enemy_type_display: "1"
@@ -115196,11 +116027,9 @@
   }
   {
     id: 9702301
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,386,100,75,60"
-    draw_event_s_id: 1225
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 900712
     if_stay: 1
-    limit_guns: "386"
     effect_ext: 193556
     targettrain_cancollect: 1
   }
@@ -115225,11 +116054,9 @@
   }
   {
     id: 9702304
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,386,0"
-    draw_event_s_id: 1225
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10089
     if_stay: 1
-    limit_guns: "386"
     effect_ext: 30340
     targettrain_cancollect: 1
   }
@@ -115251,248 +116078,194 @@
   }
   {
     id: 9708601
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,386,36,1,103"
-    draw_event_s_id: 1223
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "386"
     targettrain_cancollect: 1
   }
   {
     id: 9708602
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,315,36,1,103"
-    draw_event_s_id: 1223
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "315"
     targettrain_cancollect: 1
   }
   {
     id: 9708603
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,266,36,1,103"
-    draw_event_s_id: 1223
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10076
     if_stay: 1
-    limit_guns: "266"
     targettrain_cancollect: 1
   }
   {
     id: 9708604
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,383,36,1,103"
-    draw_event_s_id: 1222
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10086
     if_stay: 1
-    limit_guns: "383"
     targettrain_cancollect: 1
   }
   {
     id: 9708605
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,319,36,1,103"
-    draw_event_s_id: 1222
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10078
     if_stay: 1
-    limit_guns: "319"
     targettrain_cancollect: 1
   }
   {
     id: 9708606
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,386,0"
-    draw_event_s_id: 1223
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "386"
     targettrain_cancollect: 1
   }
   {
     id: 9708607
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,315,0"
-    draw_event_s_id: 1223
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "315"
     targettrain_cancollect: 1
   }
   {
     id: 9708608
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,266,0"
-    draw_event_s_id: 1223
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10076
     if_stay: 1
-    limit_guns: "266"
     targettrain_cancollect: 1
   }
   {
     id: 9708609
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,383,0"
-    draw_event_s_id: 1222
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10086
     if_stay: 1
-    limit_guns: "383"
     targettrain_cancollect: 1
   }
   {
     id: 9708610
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,319,0"
-    draw_event_s_id: 1222
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10086
     if_stay: 1
-    limit_guns: "319"
     targettrain_cancollect: 1
   }
   {
     id: 9708611
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,319,0"
-    draw_event_s_id: 1222
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10078
     if_stay: 1
-    limit_guns: "319"
     targettrain_cancollect: 1
   }
   {
     id: 9708612
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,266,0"
-    draw_event_s_id: 1223
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "266"
     targettrain_cancollect: 1
   }
   {
     id: 9708613
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,383,0"
-    draw_event_s_id: 1222
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "383"
     targettrain_cancollect: 1
   }
   {
     id: 9708614
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,319,0"
-    draw_event_s_id: 1222
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10076
     if_stay: 1
-    limit_guns: "319"
     targettrain_cancollect: 1
   }
   {
     id: 9709601
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,386,36,1,103"
-    draw_event_s_id: 1225
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "386"
     targettrain_cancollect: 1
   }
   {
     id: 9709602
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,315,36,1,103"
-    draw_event_s_id: 1225
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "315"
     effect_ext: 24110
     targettrain_cancollect: 1
   }
   {
     id: 9709603
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,266,36,1,103"
-    draw_event_s_id: 1225
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10076
     if_stay: 1
-    limit_guns: "266"
     targettrain_cancollect: 1
   }
   {
     id: 9709604
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,383,36,1,103"
-    draw_event_s_id: 1224
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10086
     if_stay: 1
-    limit_guns: "383"
     targettrain_cancollect: 1
   }
   {
     id: 9709605
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,319,36,1,103"
-    draw_event_s_id: 1224
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10078
     if_stay: 1
-    limit_guns: "319"
     targettrain_cancollect: 1
   }
   {
     id: 9709606
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,386,0"
-    draw_event_s_id: 1225
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "386"
     targettrain_cancollect: 1
   }
   {
     id: 9709607
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,315,0"
-    draw_event_s_id: 1225
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "315"
     effect_ext: 24110
     targettrain_cancollect: 1
   }
   {
     id: 9709608
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,266,0"
-    draw_event_s_id: 1225
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10076
     if_stay: 1
-    limit_guns: "266"
     targettrain_cancollect: 1
   }
   {
     id: 9709609
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,383,0"
-    draw_event_s_id: 1224
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10086
     if_stay: 1
-    limit_guns: "383"
     targettrain_cancollect: 1
   }
   {
     id: 9709610
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,386,0"
-    draw_event_s_id: 1225
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10086
     if_stay: 1
-    limit_guns: "386"
     effect_ext: 29264
     targettrain_cancollect: 1
   }
   {
     id: 9709611
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,315,0"
-    draw_event_s_id: 1225
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10078
     if_stay: 1
-    limit_guns: "315"
     targettrain_cancollect: 1
   }
   {
     id: 9709612
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,266,0"
-    draw_event_s_id: 1225
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "266"
     targettrain_cancollect: 1
   }
   {
     id: 9710601
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,343,150,99,1"
-    draw_event_s_id: 1242
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10023
     if_stay: 1
-    limit_guns: "343"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
@@ -115514,10 +116287,8 @@
   }
   {
     id: 9711001
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,162,88,118,26"
-    draw_event_s_id: 1242
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 900813
-    limit_guns: "162"
     ai: 102
     ai_content: "3"
     targettrain_cancollect: 1
@@ -115543,10 +116314,8 @@
   }
   {
     id: 9711004
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,162,0"
-    draw_event_s_id: 1242
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10112
-    limit_guns: "162"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
@@ -115570,20 +116339,16 @@
   }
   {
     id: 9711502
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,73,0"
-    draw_event_s_id: 1243
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10021
-    limit_guns: "73"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9711901
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,357,78,101,85"
-    draw_event_s_id: 1243
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 900813
-    limit_guns: "357"
     ai: 102
     ai_content: "8"
     targettrain_cancollect: 1
@@ -115609,10 +116374,8 @@
   }
   {
     id: 9711904
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,357,0"
-    draw_event_s_id: 1243
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10086
-    limit_guns: "357"
     ai: 102
     ai_content: "8"
     targettrain_cancollect: 1
@@ -115620,10 +116383,8 @@
   }
   {
     id: 9711905
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,357,0"
-    draw_event_s_id: 1243
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10041
-    limit_guns: "357"
     ai: 102
     ai_content: "8"
     targettrain_cancollect: 1
@@ -115668,10 +116429,8 @@
   }
   {
     id: 9712302
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,341,100,75,60"
-    draw_event_s_id: 1243
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 13310
-    limit_guns: "341"
     ai: 102
     ai_content: "8"
     targettrain_cancollect: 1
@@ -115679,10 +116438,8 @@
   }
   {
     id: 9712303
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,341,0"
-    draw_event_s_id: 1243
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 13305
-    limit_guns: "341"
     ai: 102
     ai_content: "8"
     targettrain_cancollect: 1
@@ -115726,21 +116483,17 @@
   }
   {
     id: 9712703
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,343,0"
-    draw_event_s_id: 1244
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 12103
     if_stay: 1
-    limit_guns: "343"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9712704
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,343,150,99,1"
-    draw_event_s_id: 1244
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 12105
     if_stay: 1
-    limit_guns: "343"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
@@ -115770,11 +116523,9 @@
   }
   {
     id: 9712801
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,162,88,118,26"
-    draw_event_s_id: 1244
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 900811
     if_stay: 1
-    limit_guns: "162"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
@@ -115798,10 +116549,8 @@
   }
   {
     id: 9712804
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,162,0"
-    draw_event_s_id: 1244
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10089
-    limit_guns: "162"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
@@ -115833,20 +116582,16 @@
   }
   {
     id: 9712902
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,73,0"
-    draw_event_s_id: 1245
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10021
-    limit_guns: "73"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713001
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,357,78,101,85"
-    draw_event_s_id: 1245
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 900812
-    limit_guns: "357"
     ai: 102
     ai_content: "8"
     targettrain_cancollect: 1
@@ -115872,10 +116617,8 @@
   }
   {
     id: 9713004
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,357,0"
-    draw_event_s_id: 1245
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10086
-    limit_guns: "357"
     ai: 102
     ai_content: "8"
     targettrain_cancollect: 1
@@ -115883,10 +116626,8 @@
   }
   {
     id: 9713005
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,357,0"
-    draw_event_s_id: 1245
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10041
-    limit_guns: "357"
     ai: 102
     ai_content: "8"
     targettrain_cancollect: 1
@@ -115931,10 +116672,8 @@
   }
   {
     id: 9713102
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,341,100,75,60"
-    draw_event_s_id: 1245
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 13310
-    limit_guns: "341"
     ai: 102
     ai_content: "8"
     targettrain_cancollect: 1
@@ -115942,10 +116681,8 @@
   }
   {
     id: 9713103
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,341,0"
-    draw_event_s_id: 1245
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 13305
-    limit_guns: "341"
     ai: 102
     ai_content: "8"
     targettrain_cancollect: 1
@@ -115971,181 +116708,145 @@
   }
   {
     id: 9713201
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,162,0"
-    draw_event_s_id: 1242
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "162"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713202
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,73,0"
-    draw_event_s_id: 1243
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "73"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713203
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,357,0"
-    draw_event_s_id: 1243
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10091
     if_stay: 1
-    limit_guns: "357"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713204
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,341,0"
-    draw_event_s_id: 1243
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10092
     if_stay: 1
-    limit_guns: "341"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713205
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,343,36,1,103"
-    draw_event_s_id: 1242
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10093
     if_stay: 1
-    limit_guns: "343"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713206
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,162,36,1,103"
-    draw_event_s_id: 1242
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10076
     if_stay: 1
-    limit_guns: "162"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713207
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,73,36,1,103"
-    draw_event_s_id: 1243
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10091
     if_stay: 1
-    limit_guns: "73"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713208
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,357,36,1,103"
-    draw_event_s_id: 1243
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10092
     if_stay: 1
-    limit_guns: "357"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713209
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,341,36,1,103"
-    draw_event_s_id: 1243
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10043
     if_stay: 1
-    limit_guns: "341"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713301
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,162,0"
-    draw_event_s_id: 1244
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "162"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713302
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,73,0"
-    draw_event_s_id: 1245
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "73"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713303
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,357,0"
-    draw_event_s_id: 1245
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10091
     if_stay: 1
-    limit_guns: "357"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713304
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,341,0"
-    draw_event_s_id: 1245
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10092
     if_stay: 1
-    limit_guns: "341"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713305
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,343,36,1,103"
-    draw_event_s_id: 1244
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10093
     if_stay: 1
-    limit_guns: "343"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713306
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,162,36,1,103"
-    draw_event_s_id: 1244
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10076
     if_stay: 1
-    limit_guns: "162"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713307
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,73,36,1,103"
-    draw_event_s_id: 1245
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10091
     if_stay: 1
-    limit_guns: "73"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713308
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,357,36,1,103"
-    draw_event_s_id: 1245
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10092
     if_stay: 1
-    limit_guns: "357"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9713309
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,341,36,1,103"
-    draw_event_s_id: 1245
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10043
     if_stay: 1
-    limit_guns: "341"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
@@ -116205,10 +116906,8 @@
   }
   {
     id: 9720407
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,252,0"
-    draw_event_s_id: 1269
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10076
-    limit_guns: "252"
     ai: 102
     ai_content: "5"
     targettrain_cancollect: 1
@@ -116216,10 +116915,8 @@
   }
   {
     id: 9720408
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,252,150,99,1"
-    draw_event_s_id: 1269
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10081
-    limit_guns: "252"
     ai: 101
     ai_content: "900782,900783"
     enemy_type_display: "1"
@@ -116228,10 +116925,8 @@
   }
   {
     id: 9720409
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,252,150,99,1"
-    draw_event_s_id: 1269
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10081
-    limit_guns: "252"
     ai: 101
     ai_content: "900785,900791"
     enemy_type_display: "1"
@@ -116240,10 +116935,8 @@
   }
   {
     id: 9720410
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,252,150,99,1"
-    draw_event_s_id: 1269
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10079
-    limit_guns: "252"
     ai: 101
     ai_content: "900794,900793"
     enemy_type_display: "1"
@@ -116252,10 +116945,8 @@
   }
   {
     id: 9720801
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,370,0"
-    draw_event_s_id: 1269
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10086
-    limit_guns: "370"
     ai: 101
     ai_content: "900886,900883,900861,900857"
     targettrain_cancollect: 1
@@ -116263,10 +116954,8 @@
   }
   {
     id: 9720802
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,370,88,118,26"
-    draw_event_s_id: 1269
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 900825
-    limit_guns: "370"
     ai: 101
     ai_content: "900878,900875,900864,900857"
     targettrain_cancollect: 1
@@ -116274,10 +116963,8 @@
   }
   {
     id: 9720803
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,370,0"
-    draw_event_s_id: 1269
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10034
-    limit_guns: "370"
     ai: 101
     ai_content: "900871,900870,900860,900857"
     targettrain_cancollect: 1
@@ -116285,10 +116972,8 @@
   }
   {
     id: 9720804
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,370,88,118,26"
-    draw_event_s_id: 1269
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10081
-    limit_guns: "370"
     ai: 101
     ai_content: "900891,900889,900858,900857"
     targettrain_cancollect: 1
@@ -116415,10 +117100,8 @@
   }
   {
     id: 9721105
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,66,69,42"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10087
-    limit_guns: "151"
     ai: 102
     ai_content: "2"
     targettrain_cancollect: 1
@@ -116426,10 +117109,8 @@
   }
   {
     id: 9721106
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10078
-    limit_guns: "151"
     ai: 102
     ai_content: "2"
     targettrain_cancollect: 1
@@ -116437,10 +117118,8 @@
   }
   {
     id: 9721107
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10079
-    limit_guns: "151"
     ai: 102
     ai_content: "2"
     targettrain_cancollect: 1
@@ -116467,20 +117146,16 @@
   }
   {
     id: 9721401
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,78,101,85"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 900822
-    limit_guns: "342"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9721402
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,78,101,85"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 900827
-    limit_guns: "342"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
@@ -116511,10 +117186,8 @@
   }
   {
     id: 9721406
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10078
-    limit_guns: "342"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
@@ -116561,10 +117234,8 @@
   }
   {
     id: 9721601
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,369,100,75,60"
-    draw_event_s_id: 1270
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 900829
-    limit_guns: "369"
     ai: 102
     ai_content: "1"
     targettrain_cancollect: 1
@@ -116602,30 +117273,24 @@
   }
   {
     id: 9721605
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,369,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10035
-    limit_guns: "369"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9721606
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,369,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10090
-    limit_guns: "369"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9721607
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,369,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10087
-    limit_guns: "369"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
@@ -116704,251 +117369,201 @@
   }
   {
     id: 9722501
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,369,36,1,103"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "369"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722502
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,369,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10035
     if_stay: 1
-    limit_guns: "369"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722503
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,369,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10035
     if_stay: 1
-    limit_guns: "369"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722504
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,369,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "369"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722505
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,369,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "369"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722506
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,36,1,103"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "342"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722507
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10035
     if_stay: 1
-    limit_guns: "342"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722508
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10035
     if_stay: 1
-    limit_guns: "342"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722509
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "342"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722510
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "342"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722511
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,36,1,103"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "151"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722512
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10035
     if_stay: 1
-    limit_guns: "151"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722513
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10035
     if_stay: 1
-    limit_guns: "151"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722514
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "151"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722515
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,0"
-    draw_event_s_id: 1270
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "151"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722516
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,36,1,103"
-    draw_event_s_id: 1269
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "370"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722517
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,0"
-    draw_event_s_id: 1269
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10035
     if_stay: 1
-    limit_guns: "370"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722518
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,0"
-    draw_event_s_id: 1269
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10035
     if_stay: 1
-    limit_guns: "370"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722519
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,0"
-    draw_event_s_id: 1269
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "370"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722520
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,0"
-    draw_event_s_id: 1269
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "370"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722521
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,36,1,103"
-    draw_event_s_id: 1269
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10034
     if_stay: 1
-    limit_guns: "252"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722522
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,0"
-    draw_event_s_id: 1269
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10035
     if_stay: 1
-    limit_guns: "252"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722523
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,0"
-    draw_event_s_id: 1269
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10035
     if_stay: 1
-    limit_guns: "252"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722524
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,0"
-    draw_event_s_id: 1269
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "252"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722525
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,0"
-    draw_event_s_id: 1269
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "252"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
@@ -117008,10 +117623,8 @@
   }
   {
     id: 9722607
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,0"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 12078
-    limit_guns: "252"
     ai: 102
     ai_content: "5"
     targettrain_cancollect: 1
@@ -117019,10 +117632,8 @@
   }
   {
     id: 9722608
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,150,99,1"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 12110
-    limit_guns: "252"
     ai: 101
     ai_content: "900844,900845"
     enemy_type_display: "1"
@@ -117031,10 +117642,8 @@
   }
   {
     id: 9722609
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,150,99,1"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 12108
-    limit_guns: "252"
     ai: 101
     ai_content: "900847,900853"
     enemy_type_display: "1"
@@ -117043,10 +117652,8 @@
   }
   {
     id: 9722610
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,150,99,1"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 12078
-    limit_guns: "252"
     ai: 101
     ai_content: "900856,900855"
     enemy_type_display: "1"
@@ -117055,10 +117662,8 @@
   }
   {
     id: 9722701
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,0"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
-    limit_guns: "370"
     ai: 101
     ai_content: "900923,900920,900898,900894"
     targettrain_cancollect: 1
@@ -117066,10 +117671,8 @@
   }
   {
     id: 9722702
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,88,118,26"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 900823
-    limit_guns: "370"
     ai: 101
     ai_content: "900915,900912,900901,900894"
     targettrain_cancollect: 1
@@ -117077,10 +117680,8 @@
   }
   {
     id: 9722703
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,0"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
-    limit_guns: "370"
     ai: 101
     ai_content: "900908,900907,900897,900894"
     targettrain_cancollect: 1
@@ -117088,10 +117689,8 @@
   }
   {
     id: 9722704
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,88,118,26"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10094
-    limit_guns: "370"
     ai: 101
     ai_content: "900928,900926,900895,900894"
     targettrain_cancollect: 1
@@ -117220,10 +117819,8 @@
   }
   {
     id: 9722805
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,151,66,69,42"
-    draw_event_s_id: 1272
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 12078
-    limit_guns: "151"
     ai: 102
     ai_content: "2"
     targettrain_cancollect: 1
@@ -117231,10 +117828,8 @@
   }
   {
     id: 9722806
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,151,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 12070
-    limit_guns: "151"
     ai: 102
     ai_content: "2"
     targettrain_cancollect: 1
@@ -117242,10 +117837,8 @@
   }
   {
     id: 9722807
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,151,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10095
-    limit_guns: "151"
     ai: 102
     ai_content: "2"
     targettrain_cancollect: 1
@@ -117271,20 +117864,16 @@
   }
   {
     id: 9722901
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,342,78,101,85"
-    draw_event_s_id: 1272
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 900824
-    limit_guns: "342"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9722902
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,342,78,101,85"
-    draw_event_s_id: 1272
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 900828
-    limit_guns: "342"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
@@ -117315,10 +117904,8 @@
   }
   {
     id: 9722906
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,342,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10090
-    limit_guns: "342"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
@@ -117365,10 +117952,8 @@
   }
   {
     id: 9723001
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,369,100,75,60"
-    draw_event_s_id: 1272
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 900830
-    limit_guns: "369"
     ai: 102
     ai_content: "1"
     targettrain_cancollect: 1
@@ -117406,30 +117991,24 @@
   }
   {
     id: 9723005
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,369,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10090
-    limit_guns: "369"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723006
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,369,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10081
-    limit_guns: "369"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723007
-    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,369,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "5,10,91,141,21,25,33,93,94,40,47,52,68,74,133,82,110,6,11,13,3,22,29,34,44,61,105,80,89,0"
     enemy_leader: 10081
-    limit_guns: "369"
     ai: 103
     targettrain_cancollect: 1
     recommended_team_ids: "1"
@@ -117508,251 +118087,201 @@
   }
   {
     id: 9723101
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,369,36,1,103"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "369"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723102
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,369,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "369"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723103
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,369,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "369"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723104
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,369,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "369"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723105
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,369,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10088
     if_stay: 1
-    limit_guns: "369"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723106
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,36,1,103"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "342"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723107
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "342"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723108
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "342"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723109
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "342"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723110
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,342,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10088
     if_stay: 1
-    limit_guns: "342"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723111
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,36,1,103"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "151"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723112
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "151"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723113
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "151"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723114
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "151"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723115
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,151,0"
-    draw_event_s_id: 1272
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10088
     if_stay: 1
-    limit_guns: "151"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723116
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,36,1,103"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "370"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723117
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,0"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "370"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723118
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,0"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10081
     if_stay: 1
-    limit_guns: "370"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723119
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,0"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "370"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723120
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,370,0"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10088
     if_stay: 1
-    limit_guns: "370"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723121
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,36,1,103"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "252"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723122
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,0"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10089
     if_stay: 1
-    limit_guns: "252"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723123
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,0"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10089
     if_stay: 1
-    limit_guns: "252"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723124
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,0"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10090
     if_stay: 1
-    limit_guns: "252"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }
   {
     id: 9723125
-    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,252,0"
-    draw_event_s_id: 1271
+    reward_gun_pool: "2,9,90,139,17,24,31,92,94,41,51,63,71,107,81,87,111,3,8,12,14,18,27,32,37,58,70,77,86,0"
     enemy_leader: 10088
     if_stay: 1
-    limit_guns: "252"
     targettrain_cancollect: 1
     recommended_team_ids: "1"
   }

@@ -6315,6 +6315,79 @@
     extra_language: 堅持到第2回合
   }
   {
+    id: 1188401
+    type: 1407
+    arguments: 750212:2
+    extra_language:
+      '''
+      格琳娜和托卡列夫抵達雷達點並撤退
+      注意：本關卡中托卡列夫每個回合前2次移動不消耗行動點
+      '''
+  }
+  {
+    id: 1188402
+    type: 1407
+    arguments: 750018:1
+    extra_language: 我方人員死亡則戰鬥失敗
+    is_hidden: 2
+  }
+  {
+    id: 1188501
+    type: 1404
+    arguments: "1"
+  }
+  {
+    id: 1188502
+    type: 1404
+    arguments: "2"
+  }
+  {
+    id: 1188601
+    type: 1407
+    arguments: 750411:1
+    extra_language: 任意我方梯隊抵達雷達點
+  }
+  {
+    id: 1188701
+    type: 1405
+    arguments: "1"
+  }
+  {
+    id: 1188702
+    type: 1407
+    arguments: 1000072:1
+  }
+  {
+    id: 1188801
+    type: 1407
+    arguments: 750411:1
+    extra_language:
+      '''
+      格琳娜或托卡列夫抵達雷達點
+      注意：本關卡中格琳娜和托卡列夫每個回合第1次移動不消耗行動點
+      '''
+  }
+  {
+    id: 1189501
+    type: 1404
+    arguments: "2"
+  }
+  {
+    id: 1189502
+    type: 1404
+    arguments: "3"
+  }
+  {
+    id: 1189602
+    type: 1407
+    arguments: 751401:2
+  }
+  {
+    id: 1189901
+    type: 1301
+    arguments: "4"
+  }
+  {
     id: 1666101
     type: 1407
     arguments: 690311:2

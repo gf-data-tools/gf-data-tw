@@ -31536,6 +31536,432 @@
     is_manual: 730411
   }
   {
+    id: 750000
+    name: 鑽進箱子
+    description: 鑽進箱子，不被警戒和巡邏的敵人察覺，持續2個回合
+    skill_group_id: 750000
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 75000000&&100007201&&1
+    target_id: "1"
+    special_spot_minus: 1000072:1
+    mission_buff_add: 750000:1
+    subsidiary_mission_skill: "1000073"
+    is_manual: 750000
+  }
+  {
+    id: 750001
+    name: 陷阱1初始化
+    skill_group_id: 750001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 750001:1
+    mission_buff_add: 750001:1
+  }
+  {
+    id: 750002
+    name: 陷阱2初始化
+    skill_group_id: 750002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 750002:1
+    mission_buff_add: 750001:1
+  }
+  {
+    id: 750003
+    name: 陷阱3初始化
+    skill_group_id: 750003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 750003:1
+    mission_buff_add: 750001:1
+  }
+  {
+    id: 750004
+    name: 陷阱4初始化
+    skill_group_id: 750004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 750004:1
+    mission_buff_add: 750001:1
+  }
+  {
+    id: 750005
+    name: 陷阱5初始化
+    skill_group_id: 750005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 750005:1
+    mission_buff_add: 750001:1
+  }
+  {
+    id: 750006
+    name: 陷阱6初始化
+    skill_group_id: 750006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 750006:1
+    mission_buff_add: 750001:1
+  }
+  {
+    id: 750007
+    name: 禁錮之眼
+    description: 配有禁錮效果的監視器。冰冷的電子眼可以將敵人牢牢鎖入其中，但這也無可厚非。畢竟在這裡，它的仁慈和你的自由，都是一種奢侈品。
+    skill_group_id: 750007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+  }
+  {
+    id: 750008
+    name: 失敗判定
+    skill_group_id: 750008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 750018:1
+    subsidiary_mission_skill: "750018"
+  }
+  {
+    id: 750010
+    name: 潛行之匣
+    description: 平平無奇的紙箱。雖然尺寸足以容納一個人形，但除了貓大概沒人想鑽進去。「所以裡面為什麼會藏著托卡列夫啊……潛行道具？還可以這麼用的嗎？！」
+    skill_group_id: 750010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+  }
+  {
+    id: 750011
+    name: 關閉監控
+    description: 關閉目標禁錮之眼
+    skill_group_id: 750011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: 100007201&&1
+    target_id: 75000101||75001101
+    special_spot_minus: 750001:1,750011:1
+    mission_buff_minus: 750001:1
+    subsidiary_mission_skill: "1000073"
+    is_manual: 750011
+  }
+  {
+    id: 750012
+    name: 關閉監控
+    description: 關閉目標禁錮之眼
+    skill_group_id: 750012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: 100007201&&1
+    target_id: 75000201||75001201
+    special_spot_minus: 750002:1,750012:1
+    mission_buff_minus: 750001:1
+    subsidiary_mission_skill: "1000073"
+    is_manual: 750011
+  }
+  {
+    id: 750013
+    name: 關閉監控
+    description: 關閉目標禁錮之眼
+    skill_group_id: 750013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: 100007201&&1
+    target_id: 75000301||75001301
+    special_spot_minus: 750003:1,750013:1
+    mission_buff_minus: 750001:1
+    subsidiary_mission_skill: "1000073"
+    is_manual: 750011
+  }
+  {
+    id: 750014
+    name: 關閉監控
+    description: 關閉目標禁錮之眼
+    skill_group_id: 750014
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: 100007201&&1
+    target_id: 75000401||75001401
+    special_spot_minus: 750004:1,750014:1
+    mission_buff_minus: 750001:1
+    subsidiary_mission_skill: "1000073"
+    is_manual: 750011
+  }
+  {
+    id: 750015
+    name: 關閉監控
+    description: 關閉目標禁錮之眼
+    skill_group_id: 750015
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: 100007201&&1
+    target_id: 75000501||75001501
+    special_spot_minus: 750005:1,750015:1
+    mission_buff_minus: 750001:1
+    subsidiary_mission_skill: "1000073"
+    is_manual: 750011
+  }
+  {
+    id: 750016
+    name: 關閉監控
+    description: 關閉目標禁錮之眼
+    skill_group_id: 750016
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: 100007201&&1
+    target_id: 75000601||75001601
+    special_spot_minus: 750006:1,750016:1
+    mission_buff_minus: 750001:1
+    subsidiary_mission_skill: "1000073"
+    is_manual: 750011
+  }
+  {
+    id: 750017
+    name: 控制台
+    description: 可用於關閉對應的禁錮之眼
+    skill_group_id: 750017
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+  }
+  {
+    id: 750018
+    name: 標記清除
+    skill_group_id: 750018
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_minus: 750008:1
+  }
+  {
+    id: 750202
+    name: 撤離
+    skill_group_id: 750202
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 75000111&&1
+    target_id: "1"
+    special_spot_add: 750212:1,750008:1
+    is_manual: 750202
+  }
+  {
+    id: 750212
+    name: 撤離
+    skill_group_id: 750212
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 75000211&&1
+    target_id: "1"
+    special_spot_add: 750212:1,750008:1
+    is_manual: 750202
+  }
+  {
+    id: 750401
+    name: 撤離點
+    skill_group_id: 750401
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 750401:1
+  }
+  {
+    id: 750501
+    name: 停機！
+    description: 令巡邏的防火牆模組直接離線
+    skill_group_id: 750501
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100007201&&1
+    target_id: "1"
+    subsidiary_mission_skill: "1000073"
+    is_manual: 750501
+  }
+  {
+    id: 751401
+    name: 初始化
+    skill_group_id: 751401
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 751401:2
+  }
+  {
+    id: 751402
+    name: 【標記】2動
+    skill_group_id: 751402
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 20401:1
+  }
+  {
+    id: 751411
+    name: 待機！
+    description: 令巡邏的防火牆模組待機1回合，最多可使用2次
+    skill_group_id: 751411
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 75141100&&1
+    target_id: "75140101"
+    special_spot_add: 751411:1
+    special_spot_minus: 751401:1
+    subsidiary_mission_skill: "751421"
+    is_manual: 751411
+  }
+  {
+    id: 751421
+    name: 待機生效
+    skill_group_id: 751421
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 99
+    mission_buff_add: 751401:1
+  }
+  {
+    id: 751501
+    name: 亂石堆初始化
+    skill_group_id: 751501
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 751501:1
+  }
+  {
+    id: 751502
+    name: 拾取炸藥
+    description: 拾取特製炸藥，該炸藥可用於炸毀某些擋路的東西
+    skill_group_id: 751502
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100007201&&1
+    target_id: "1"
+    mission_buff_add: 751502:1
+    subsidiary_mission_skill: "1000073"
+    is_manual: 751502
+  }
+  {
+    id: 751512
+    name: 設置炸藥
+    description: 設置可快速引爆的炸藥，直接炸毀目標
+    skill_group_id: 751512
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    effect_target: "1000017"
+    target_id: "75150101"
+    special_spot_minus: 751501:1
+    subsidiary_mission_skill: "751522"
+    is_manual: 751512
+  }
+  {
+    id: 751522
+    name: 清除標記
+    skill_group_id: 751522
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_minus: 751502:1
+  }
+  {
     id: 900001
     name: 機場出兵
     code: "1"

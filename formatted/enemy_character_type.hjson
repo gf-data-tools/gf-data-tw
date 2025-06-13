@@ -3006,6 +3006,56 @@
     enemy_illustration_sub_id: 99001
   }
   {
+    id: 10116
+    type: 2
+    name: 歌利亞
+    enemy_info: 歌莉娅-射程加大
+    code: Golyat
+    maxlife: 15000
+    pow: 1000
+    hit: 10000
+    range: 2
+    speed: 40
+    number: 1
+    angle: 180
+    rate: 150
+    def: 99999
+    level: 100
+    character: 精英,高威脅,自爆,致命
+    normal_attack: 900107
+    passive_skill: "310325,119020,770044"
+    effect_ratio: 0.25
+    deployment_scale: 1
+    enemy_illustration_id: 31
+    danger: 60
+    enemy_illustration_sub_id: 31001
+  }
+  {
+    id: 10117
+    type: 2
+    name: 歌利亞Plus
+    enemy_info: 红色自爆怪-射程加大
+    code: GolyatPlus
+    maxlife: 150000
+    pow: 1000
+    hit: 10000
+    range: 2
+    speed: 40
+    number: 1
+    angle: 180
+    rate: 150
+    def: 99999
+    level: 100
+    character: 精英,高威脅,自爆,致命
+    normal_attack: 900107
+    passive_skill: "310325,119020,770044"
+    effect_ratio: 0.25
+    deployment_scale: 1
+    enemy_illustration_id: 32
+    danger: 60
+    enemy_illustration_sub_id: 32001
+  }
+  {
     id: 11001
     type: 2
     name: 巡遊者SWAP

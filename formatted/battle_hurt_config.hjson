@@ -2790,10 +2790,10 @@
     critical_hit_rate: "100"
     float_wide: 15
     beat_back_percent: "99"
-    buff_id_target: 4334:1
+    buff_id_target: 4334:1,9847:1000009811
     buff_rate: "100"
     target_move_percent: "100"
-    target_skill: 500104
+    target_skill: 1006805
     hit_type: 1
   }
   {

@@ -33196,6 +33196,8 @@
     duration: "150"
     boss_available: 1
     move_number: "75"
+    trigger_creation_id: "205"
+    is_form_play: 1
   }
   {
     id: 5286
@@ -61480,6 +61482,174 @@
     duration: "60"
     boss_available: 1
     damage_reduce_number: "1"
+  }
+  {
+    id: 9833
+    name: MG5套装装备1
+    conflict_type: 9833
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9834
+    name: MG5套装装备2
+    conflict_type: 9834
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9835
+    name: MG5套装
+    conflict_type: 9835
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9836
+    name: RMB-93套装装备1
+    conflict_type: 9836
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9837
+    name: RMB-93套装装备2
+    conflict_type: 9837
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9838
+    name: RMB-93套装
+    conflict_type: 9838
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9839
+    name: MG5套装变奏伤害提升
+    conflict_type: 9839
+    max_tier: 1
+    type: 101
+    duration_type: 1
+    duration: "120"
+    boss_available: 1
+    pow_number: "150"
+    trigger_creation_id: "3816"
+  }
+  {
+    id: 9840
+    name: MG5套装变奏暴击概率增加
+    conflict_type: 9840
+    max_tier: 1
+    type: 806
+    duration_type: 1
+    duration: "120"
+    boss_available: 1
+    critical_number: "50"
+    trigger_creation_id: "3817"
+  }
+  {
+    id: 9841
+    name: MG5套装变奏回避增加
+    conflict_type: 9841
+    max_tier: 1
+    type: 802
+    duration_type: 1
+    duration: "120"
+    boss_available: 1
+    dodge_number: "50"
+    trigger_creation_id: "3818"
+  }
+  {
+    id: 9842
+    name: MG5套装变奏护甲增加
+    conflict_type: 9842
+    max_tier: 1
+    type: 808
+    duration_type: 1
+    duration: "120"
+    boss_available: 1
+    armor_reduce_number: "50"
+    trigger_creation_id: "3819"
+  }
+  {
+    id: 9843
+    name: MG5套装变奏护盾
+    conflict_type: 9843
+    max_tier: 1
+    type: 109
+    duration_type: 1
+    duration: "120"
+    boss_available: 1
+    shield_number: "50"
+    trigger_creation_id: "220"
+    buff_animation: BlueFlash
+    buff_description: ShieldText
+  }
+  {
+    id: 9844
+    name: RMB-93套装眩晕
+    conflict_type: 9844
+    max_tier: 1
+    type: 221
+    duration_type: 1
+    duration: "90"
+    boss_available: 1
+    trigger_creation_id: "209"
+    is_form_play: 1
+  }
+  {
+    id: 9845
+    name: RMB-93套装护盾
+    conflict_type: 9845
+    max_tier: 3
+    type: 109
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    shield_number: "20"
+    trigger_creation_id: "220"
+    buff_animation: BlueFlash
+    buff_description: ShieldText
+  }
+  {
+    id: 9846
+    name: RMB-93套装屏蔽
+    conflict_type: 9846
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 9847
+    name: RMB-93套装标记
+    conflict_type: 9847
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
   }
   {
     id: 10000

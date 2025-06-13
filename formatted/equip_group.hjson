@@ -487,4 +487,22 @@
     group_skill: 2:1006503
     fit_gun: "20071"
   }
+  {
+    id: 55
+    name: 演奏之心
+    des: 為MG5量身訂製的套裝，出任務時可以攜帶更多的道具，可以滿足諸多需求。
+    code: EgroupMG5
+    equip_unit: "0,386,455"
+    group_skill: 2:1006703
+    fit_gun: "109"
+  }
+  {
+    id: 56
+    name: 公平條款
+    des: 為RMB-93量身訂製的套裝，可以讓不聽話的人好好遵守規矩。
+    code: EgroupRMB93
+    equip_unit: "240,0,456"
+    group_skill: 2:1006803
+    fit_gun: "20159"
+  }
 ]

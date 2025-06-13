@@ -1465,7 +1465,7 @@
     due_prize_id: 1993
     present_info:
       '''
-      指揮官可從截至2024年9月12日前實裝的四星戰術人形中選擇一位獲得。
+      指揮官可從截至2025年12月6日前實裝的四星戰術人形中選擇一位獲得。
       請指揮官前往【倉庫】中選擇戰術人形，各種類可獲得人形情況如下：
       【HG】：柯爾特左輪、斯捷奇金、Mk23、P7、SPP-1、Spitfire、雷電、K5、杰里科、P30、Rex Zero 1、德林加、CZ 100、ZiP .22、PPQ、P290、P10C、VP9
       【SMG】：MP5、UMP9、UMP45、PP-90、PP-19、希普卡、UMP40、KLIN、PP-19-01、Cx4 風暴、蜜獾、MAT-49、KAC-PDW、CF05、SAF、AR-57、PPD-40、維涅龍M2、MPL、MPK、APC9K、奧文
@@ -1484,7 +1484,7 @@
     due_prize_id: 1994
     present_info:
       '''
-      指揮官可從截至2024年9月12日前實裝的五星戰術人形中選擇一位獲得。
+      指揮官可從截至2025年12月6日前實裝的五星戰術人形中選擇一位獲得。
       請指揮官前往【倉庫】中選擇戰術人形，各種類可獲得人形情況如下：
       【HG】：灰熊MkⅤ、M950A、維爾德MkⅡ、NZ75、FN-57、CZ75、競爭者、蟒蛇、Px4 風暴、P22、HS2000、PA-15、沙漠之鷹、C-93、韋伯利、HP-35、蜂鳥、Rhino、M327、柯爾特沃克、P2000、柯爾特M1851N
       【SMG】：湯姆森、Vector、G36C、索米、79式、SR-3MP、MP7、C-MS、PM-06、AK-74U、JS 9、一〇〇式、P90、X95、PM-9、Lusa、AUG Para、VP1915、SP9、SR-2、斯特林、Erma、Jatimatic、82式、P50
@@ -1503,7 +1503,7 @@
     due_prize_id: 2598
     present_info:
       '''
-      指揮官可從截至2024年8月8日前實裝的初始三星融合勢力單位中選擇一位獲得。
+      指揮官可從截至2025年12月6日前實裝的初始三星融合勢力單位中選擇一位獲得。
       請指揮官前往【倉庫】中選擇初始三星融合勢力單位，可獲得初始三星融合勢力單位情況如下：
       稻草人、劊子手、獵手、干擾者、破壞者、建築師、銜尾蛇、煉金術士、夢想家、計量官、法官、代理人、艾德琳、埃莉諾、建築師-NVW型、干擾者-終幕魔女、破壞者-浮掠麋影、獵手-裳夜落蛾、末日魔犬、埃莉諾-滄龍掠騎者、劊子手-血魘獵狂、塔亞柔斯、稻草人-魘淵夕來、紗那、娜希斯、夢想家-霧月翼手
       *若指揮官未解鎖「融合勢力」系統，在獲得所選的初始三星融合勢力單位後將暫時無法使用，待後續指揮官解鎖了「融合勢力」系統後可正常使用。
@@ -1518,7 +1518,7 @@
     due_prize_id: 2599
     present_info:
       '''
-      指揮官可從截至2024年8月8日前實裝的非專屬五星裝備中選擇一個獲得。
+      指揮官可從截至2025年12月6日前實裝的非專屬五星裝備中選擇一個獲得。
       請指揮官前往【倉庫】中選擇非專屬五星裝備，可獲得非專屬五星裝備情況如下：
       「VFL 6-24X56」、「EOT 518」、「ITI MARS」、「PEQ-16A」、「Mk211高爆穿甲彈」、「APCR高速彈」、「IOP T4外骨骼」、「Type3防彈插板」、「IOP X4外骨骼」、「AC4消音器」、「IOP極限彈鏈箱」、「ILM空尖彈」、「#000獵鹿彈」、「SABOT獨頭彈」、「熱光學迷彩披風」、「RMR T4紅點」、「信號彈」、「M1022狙擊彈」、「Mk1000SLAP」、「#7.5鳥彈」、「#2運算晶片」、「霰彈用閃光彈」、「SF武器燈改」、「Mk0多用途喉縮管」、「專注晶片」、「M200X LRF」、「HD100腳架」
       '''
@@ -2179,7 +2179,7 @@
   {
     item_id: 1500225
     type: 1
-    poster: PackageImage_Equip
+    poster: PackageImage_9yearcoupon
     prize_id: 2884
     due_time: 2025/08/07  23:59:59
     due_prize_id: 2885
@@ -2194,7 +2194,7 @@
     type: 2
     poster: PackageImage_9thAnniversary_1
     drop_package_id: 2587
-    due_time: 2025/07/29  23:59:59
+    due_time: 2025/08/12  23:59:59
     due_prize_id: 7395
     present_info:
       '''
@@ -2207,7 +2207,7 @@
     type: 2
     poster: PackageImage_9thAnniversary_2
     drop_package_id: 2588
-    due_time: 2025/07/29  23:59:59
+    due_time: 2025/08/12  23:59:59
     due_prize_id: 7396
     present_info:
       '''
@@ -2217,10 +2217,10 @@
   }
   {
     item_id: 1500228
-    type: 2
+    type: 1
     poster: PackageImage_9thAnniversary_3
-    drop_package_id: 2589
-    due_time: 2025/07/29  23:59:59
+    prize_id: 2991
+    due_time: 2025/08/12  23:59:59
     due_prize_id: 2885
     present_info:
       '''
@@ -2889,6 +2889,30 @@
     type: 1
     prize_id: 150151
     due_time: 2025/07/13  00:00:00
+    due_prize_id: 140075
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700064
+    type: 1
+    prize_id: 150152
+    due_time: 2025/08/11  00:00:00
+    due_prize_id: 140073
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700065
+    type: 1
+    prize_id: 150153
+    due_time: 2025/08/11  00:00:00
+    due_prize_id: 140074
+    present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
+  }
+  {
+    item_id: 1700066
+    type: 1
+    prize_id: 150154
+    due_time: 2025/08/11  00:00:00
     due_prize_id: 140075
     present_info: 開通指定坐標投遞服務的序標，使用之後能從投遞清單中選擇一種道具作為配給
   }

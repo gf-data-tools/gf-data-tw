@@ -5597,6 +5597,59 @@
     priority: 1
   }
   {
+    id: 750000
+    name: 你看不見我
+    description: 躲在箱子裡，不會引起敵人注意
+    code: SAC2045_CamouflageSkill
+    type: 1
+    duration_type: "1"
+    duration_time: "2"
+    exp_buff: "1"
+    conflict_type: 750000
+    priority: 1
+    effect_birth: 1000072
+    effect_death: 1000072
+  }
+  {
+    id: 750001
+    name: 被禁錮
+    description: 被裝置圍困，無法移動
+    code: Theresa_Back
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    cannot_move: "1"
+    conflict_type: 750001
+    priority: 1
+  }
+  {
+    id: 751401
+    name: 待機
+    description: 無法移動
+    code: Theresa_Back
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    cannot_move: "1"
+    conflict_type: 751401
+    priority: 1
+  }
+  {
+    id: 751502
+    name: 攜帶炸藥
+    description: 攜帶特製炸藥
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryBoomerIcon#EC4702
+    conflict_type: 751502
+    priority: -1
+    carry_mission_skill: "751512"
+  }
+  {
     id: 910630
     name: 護盾
     description: 護盾增幅中

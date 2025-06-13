@@ -3354,6 +3354,63 @@
     code_b: Console_Icon
   }
   {
+    id: 750000
+    code_a: hideaway
+    description_a: 潛行之匣
+    description_b: 潛行之匣
+    description_c: 鑽進
+    code_b: Console_Icon
+  }
+  {
+    id: 750011
+    code_a: lighttrap
+    description_a: 禁錮之眼
+    description_b: 禁錮之眼
+    description_c: 關閉
+    code_b: Console_Icon
+  }
+  {
+    id: 750202
+    code_a: TargetPoint_Radar
+    description_a: 格里芬
+    description_b: 撤離點
+    description_c: 撤離
+    code_b: Console_Icon
+  }
+  {
+    id: 750501
+    code_a: Console_Icon
+    description_a: 保全系統
+    description_b: 防火牆模組
+    description_c: 停機
+    code_b: Console_Icon
+  }
+  {
+    id: 751411
+    code_a: Console_Icon
+    description_a: 保全系統
+    description_b: 防火牆模組
+    description_c: 待機
+    code_b: Console_Icon
+  }
+  {
+    id: 751502
+    code_a: Viscosity_Bomb
+    description_a: 特製炸藥
+    description_b: 特製炸藥
+    description_c: 拾取
+    code_b: Console_Icon
+  }
+  {
+    id: 751512
+    code_a: Viscosity_Bomb
+    description_a: 特製炸藥
+    description_b: 特製炸藥
+    description_c: 設置
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 我方梯隊
