@@ -16076,7 +16076,7 @@
     ratio_range: 100
     skill1: 105709
     normal_attack: 300104
-    passive_skill: "1006404,501033"
+    passive_skill: "1006404,501033,1006405"
     effect_grid_center: 18
     effect_guntype: "1"
     effect_grid_pos: "18,23"
@@ -17195,7 +17195,6 @@
     obtain_ids: "403"
     rank_display: 3
     explore_tag: "53"
-    gun_detail_bg: nation_China
     org_id: 10704
     related_story_id: 100193
     gun_tag_ids: "108,106"
@@ -17357,6 +17356,7 @@
     obtain_ids: "403"
     rank_display: 3
     explore_tag: "8"
+    gun_detail_bg: nation_German
     org_id: 10704
     related_story_id: 100195
     show_damage_skin: ",0,"
@@ -23007,7 +23007,7 @@
     ratio_range: 100
     skill1: 102402
     normal_attack: 300102
-    passive_skill: "999999"
+    passive_skill: "999999,9925368"
     effect_grid_center: 13
     effect_guntype: "4"
     effect_grid_pos: "7,8"
@@ -46999,7 +46999,7 @@
     skill1: 992529
     skill2: 992530
     normal_attack: 300102
-    passive_skill: "992534"
+    passive_skill: "992534,992538"
     effect_grid_center: 13
     effect_guntype: "4"
     effect_grid_pos: "7,8,9"

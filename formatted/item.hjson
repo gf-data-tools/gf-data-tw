@@ -16558,6 +16558,24 @@
     rank: 1
   }
   {
+    id: 2689
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_FO12
+    item_name: FO-12-百匯貝甜
+    introduction: FO-12-百匯貝甜
+    rank: 1
+  }
+  {
+    id: 2690
+    type: 5
+    arg: "1"
+    code: card_BattlePass_FO12
+    item_name: 名片：蜜糖兔兔町
+    introduction: 名片：蜜糖兔兔町
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -18299,6 +18317,15 @@
     code: gift_bundle_BattlePass_LTLX7000
     item_name: LTLX7000-仲夏夜之約
     introduction: 森林的氣息真是令人心曠神怡……啊，指揮官，你怎麼在這？我只是在為大家準備野餐而已，才不是特意為你——算了，既然來了就坐下吧……
+    rank: 1
+  }
+  {
+    id: 30030
+    type: 1
+    arg: "30030"
+    code: gift_bundle_BattlePass_FO12
+    item_name: FO-12-百匯貝甜
+    introduction: 我承認傑克工作時偷吃了一個甜甜圈……別、別這麼嚴肅嘛，畢竟這也是質量檢查的一部分！你說對吧，指揮官？
     rank: 1
   }
   {
@@ -23489,6 +23516,22 @@
     rank: 1
   }
   {
+    id: 140059
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第30期前線協議
+    rank: 1
+  }
+  {
+    id: 140060
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第30期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -23985,6 +24028,15 @@
     code: profileFrame_BattlePass_LTLX7000
     item_name: 頭像框·怦然月色
     introduction: 頭像框·怦然月色
+    rank: 1
+  }
+  {
+    id: 200055
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_FO12
+    item_name: 頭像框·糖霜蜜次方
+    introduction: 頭像框·糖霜蜜次方
     rank: 1
   }
   {
@@ -26732,6 +26784,61 @@
       在倉庫中使用該委託書，即可從指定範圍內選擇獲得一位初始三星融合勢力單位。
       *若指揮官未解鎖「融合勢力」系統，在獲得所選的初始三星融合勢力單位後將暫時無法使用，待後續指揮官解鎖了「融合勢力」系統後可正常使用。
       '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500241
+    type: 15
+    arg: "1500241"
+    code: Bumdle_passport_5
+    item_name: 林間夜語協議物資補給
+    introduction: 在倉庫中使用該補給，即可獲得包含「LTLX7000-仲夏夜之約」在內的多項道具。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500242
+    type: 15
+    arg: "1500242"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-遇見甜甜圈，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500243
+    type: 15
+    arg: "1500243"
+    code: package_choose
+    item_name: 人形類裝備自選包
+    introduction: 來自於前線協議-遇見甜甜圈，可從該指定投遞配給序標內選擇獲取一件人形類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500244
+    type: 15
+    arg: "1500244"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-遇見甜甜圈，可必定獲得該序標內圖鑒未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500245
+    type: 15
+    arg: "1500245"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-遇見甜甜圈，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
     type_sort: 1

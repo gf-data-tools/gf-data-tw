@@ -15,8 +15,8 @@
   }
   {
     day: "1"
-    start_time: 2026-05-30 00:00:00
-    end_time: 2026-06-26 23:59:59
+    start_time: 2025-06-20 00:00:00
+    end_time: 2025-07-17 23:59:59
     attendance_type: "2"
     mp: "5000"
     ammo: "5000"
@@ -40,8 +40,8 @@
   }
   {
     day: "2"
-    start_time: 2026-05-30 00:00:00
-    end_time: 2026-06-26 23:59:59
+    start_time: 2025-06-20 00:00:00
+    end_time: 2025-07-17 23:59:59
     attendance_type: "2"
     item_ids: 45-1000
   }
@@ -61,8 +61,8 @@
   }
   {
     day: "3"
-    start_time: 2026-05-30 00:00:00
-    end_time: 2026-06-26 23:59:59
+    start_time: 2025-06-20 00:00:00
+    end_time: 2025-07-17 23:59:59
     attendance_type: "2"
     prize_id: "2702"
   }
@@ -84,8 +84,8 @@
   }
   {
     day: "4"
-    start_time: 2026-05-30 00:00:00
-    end_time: 2026-06-26 23:59:59
+    start_time: 2025-06-20 00:00:00
+    end_time: 2025-07-17 23:59:59
     attendance_type: "2"
     item_ids: 1-10,2-10,3-20
   }
@@ -105,8 +105,8 @@
   }
   {
     day: "5"
-    start_time: 2026-05-30 00:00:00
-    end_time: 2026-06-26 23:59:59
+    start_time: 2025-06-20 00:00:00
+    end_time: 2025-07-17 23:59:59
     attendance_type: "2"
     gem: "150"
   }
@@ -126,10 +126,10 @@
   }
   {
     day: "6"
-    start_time: 2026-05-30 00:00:00
-    end_time: 2026-06-26 23:59:59
+    start_time: 2025-06-20 00:00:00
+    end_time: 2025-07-17 23:59:59
     attendance_type: "2"
-    prize_id: "2875"
+    item_ids: 605-5
   }
   {
     day: "7"
@@ -147,8 +147,8 @@
   }
   {
     day: "7"
-    start_time: 2026-05-30 00:00:00
-    end_time: 2026-06-26 23:59:59
+    start_time: 2025-06-20 00:00:00
+    end_time: 2025-07-17 23:59:59
     attendance_type: "2"
     mp: "5000"
     ammo: "5000"
@@ -174,8 +174,8 @@
   }
   {
     day: "8"
-    start_time: 2026-05-30 00:00:00
-    end_time: 2026-06-26 23:59:59
+    start_time: 2025-06-20 00:00:00
+    end_time: 2025-07-17 23:59:59
     attendance_type: "2"
     item_ids: 45-1000
   }
@@ -195,8 +195,8 @@
   }
   {
     day: "9"
-    start_time: 2026-05-30 00:00:00
-    end_time: 2026-06-26 23:59:59
+    start_time: 2025-06-20 00:00:00
+    end_time: 2025-07-17 23:59:59
     attendance_type: "2"
     item_ids: 1-10,2-10,3-20
   }
@@ -216,8 +216,8 @@
   }
   {
     day: "10"
-    start_time: 2026-05-30 00:00:00
-    end_time: 2026-06-26 23:59:59
+    start_time: 2025-06-20 00:00:00
+    end_time: 2025-07-17 23:59:59
     attendance_type: "2"
     item_ids: 100272-1
   }
@@ -239,8 +239,8 @@
   }
   {
     day: "11"
-    start_time: 2026-05-30 00:00:00
-    end_time: 2026-06-26 23:59:59
+    start_time: 2025-06-20 00:00:00
+    end_time: 2025-07-17 23:59:59
     attendance_type: "2"
     gem: "150"
   }
@@ -260,8 +260,8 @@
   }
   {
     day: "12"
-    start_time: 2026-05-30 00:00:00
-    end_time: 2026-06-26 23:59:59
+    start_time: 2025-06-20 00:00:00
+    end_time: 2025-07-17 23:59:59
     attendance_type: "2"
     prize_id: "2876"
   }
