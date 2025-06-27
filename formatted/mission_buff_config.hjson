@@ -5609,6 +5609,8 @@
     priority: 1
     effect_birth: 1000072
     effect_death: 1000072
+    unk_41: hideaway,0
+    unk_42: "0,hideaway,0"
   }
   {
     id: 750001

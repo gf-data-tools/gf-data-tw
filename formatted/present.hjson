@@ -2434,6 +2434,33 @@
     present_info: 開通區域之間空投服務的序標，使用之後能從空投清單中隨機獲得一種配給道具
   }
   {
+    item_id: 1500246
+    type: 2
+    poster: PackageImage_SummerdayCoupons1
+    drop_package_id: 2596
+    due_time: 2025/09/04  23:59:59
+    due_prize_id: 7395
+    present_info: present-11500246
+  }
+  {
+    item_id: 1500247
+    type: 2
+    poster: PackageImage_SummerdayCoupons2
+    drop_package_id: 2597
+    due_time: 2025/09/04  23:59:59
+    due_prize_id: 7396
+    present_info: present-11500247
+  }
+  {
+    item_id: 1500248
+    type: 1
+    poster: PackageImage_SummerdayCoupons3
+    prize_id: 13005
+    due_time: 2025/09/04  23:59:59
+    due_prize_id: 2885
+    present_info: present-11500248
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089

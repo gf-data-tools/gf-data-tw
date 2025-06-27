@@ -10,7 +10,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 500,
+        "unk_13": 0
     },
     {
         "id": 2,
@@ -23,7 +26,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 499,
+        "unk_13": 0
     },
     {
         "id": 3,
@@ -36,7 +42,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 2,
+        "unk_12": 498,
+        "unk_13": 0
     },
     {
         "id": 4,
@@ -49,7 +58,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 2,
+        "unk_12": 497,
+        "unk_13": 0
     },
     {
         "id": 5,
@@ -62,7 +74,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 2,
+        "unk_12": 496,
+        "unk_13": 0
     },
     {
         "id": 6,
@@ -75,7 +90,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 2,
+        "unk_12": 495,
+        "unk_13": 0
     },
     {
         "id": 7,
@@ -88,7 +106,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 2,
+        "unk_12": 494,
+        "unk_13": 0
     },
     {
         "id": 8,
@@ -101,7 +122,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 2,
+        "unk_12": 493,
+        "unk_13": 0
     },
     {
         "id": 9,
@@ -114,7 +138,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": "2,2,2024-10-10 10:04:00"
+        "increase": "2,2,2024-10-10 10:04:00",
+        "unk_11": 2,
+        "unk_12": 492,
+        "unk_13": 0
     },
     {
         "id": 10,
@@ -127,7 +154,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 491,
+        "unk_13": 0
     },
     {
         "id": 11,
@@ -140,7 +170,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 490,
+        "unk_13": 0
     },
     {
         "id": 12,
@@ -153,7 +186,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 489,
+        "unk_13": 0
     },
     {
         "id": 13,
@@ -166,7 +202,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 488,
+        "unk_13": 0
     },
     {
         "id": 14,
@@ -179,7 +218,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 487,
+        "unk_13": 0
     },
     {
         "id": 15,
@@ -192,7 +234,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 486,
+        "unk_13": 0
     },
     {
         "id": 16,
@@ -205,7 +250,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 485,
+        "unk_13": 0
     },
     {
         "id": 17,
@@ -218,7 +266,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 484,
+        "unk_13": 0
     },
     {
         "id": 18,
@@ -231,7 +282,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 483,
+        "unk_13": 0
     },
     {
         "id": 19,
@@ -244,7 +298,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 482,
+        "unk_13": 0
     },
     {
         "id": 20,
@@ -257,7 +314,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 481,
+        "unk_13": 0
     },
     {
         "id": 21,
@@ -270,7 +330,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 480,
+        "unk_13": 0
     },
     {
         "id": 22,
@@ -283,7 +346,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 479,
+        "unk_13": 0
     },
     {
         "id": 23,
@@ -296,7 +362,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 478,
+        "unk_13": 0
     },
     {
         "id": 24,
@@ -309,7 +378,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 477,
+        "unk_13": 0
     },
     {
         "id": 25,
@@ -322,7 +394,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 476,
+        "unk_13": 0
     },
     {
         "id": 26,
@@ -335,7 +410,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 475,
+        "unk_13": 0
     },
     {
         "id": 27,
@@ -348,7 +426,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 474,
+        "unk_13": 0
     },
     {
         "id": 28,
@@ -361,7 +442,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 473,
+        "unk_13": 0
     },
     {
         "id": 29,
@@ -374,7 +458,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 472,
+        "unk_13": 0
     },
     {
         "id": 30,
@@ -387,7 +474,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 471,
+        "unk_13": 0
     },
     {
         "id": 31,
@@ -400,7 +490,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 470,
+        "unk_13": 0
     },
     {
         "id": 32,
@@ -413,7 +506,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 469,
+        "unk_13": 0
     },
     {
         "id": 33,
@@ -426,7 +522,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 468,
+        "unk_13": 0
     },
     {
         "id": 34,
@@ -439,7 +538,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 467,
+        "unk_13": 0
     },
     {
         "id": 35,
@@ -452,7 +554,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 466,
+        "unk_13": 0
     },
     {
         "id": 36,
@@ -465,7 +570,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 465,
+        "unk_13": 0
     },
     {
         "id": 37,
@@ -478,7 +586,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 464,
+        "unk_13": 0
     },
     {
         "id": 38,
@@ -491,7 +602,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 463,
+        "unk_13": 0
     },
     {
         "id": 39,
@@ -504,7 +618,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 462,
+        "unk_13": 0
     },
     {
         "id": 40,
@@ -517,7 +634,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 461,
+        "unk_13": 0
     },
     {
         "id": 41,
@@ -530,7 +650,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 460,
+        "unk_13": 0
     },
     {
         "id": 42,
@@ -543,7 +666,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 459,
+        "unk_13": 0
     },
     {
         "id": 43,
@@ -556,7 +682,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 458,
+        "unk_13": 0
     },
     {
         "id": 44,
@@ -569,7 +698,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 457,
+        "unk_13": 0
     },
     {
         "id": 45,
@@ -582,7 +714,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 456,
+        "unk_13": 0
     },
     {
         "id": 46,
@@ -595,7 +730,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 455,
+        "unk_13": 0
     },
     {
         "id": 47,
@@ -608,7 +746,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 454,
+        "unk_13": 0
     },
     {
         "id": 48,
@@ -621,7 +762,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 453,
+        "unk_13": 0
     },
     {
         "id": 49,
@@ -634,7 +778,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 452,
+        "unk_13": 0
     },
     {
         "id": 50,
@@ -647,7 +794,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 451,
+        "unk_13": 0
     },
     {
         "id": 51,
@@ -660,7 +810,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 450,
+        "unk_13": 0
     },
     {
         "id": 52,
@@ -673,7 +826,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 449,
+        "unk_13": 0
     },
     {
         "id": 53,
@@ -686,7 +842,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 448,
+        "unk_13": 0
     },
     {
         "id": 54,
@@ -699,7 +858,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 447,
+        "unk_13": 0
     },
     {
         "id": 55,
@@ -712,7 +874,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 446,
+        "unk_13": 0
     },
     {
         "id": 56,
@@ -725,7 +890,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 445,
+        "unk_13": 0
     },
     {
         "id": 57,
@@ -738,7 +906,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 444,
+        "unk_13": 0
     },
     {
         "id": 58,
@@ -751,7 +922,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 443,
+        "unk_13": 0
     },
     {
         "id": 59,
@@ -764,7 +938,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 442,
+        "unk_13": 0
     },
     {
         "id": 60,
@@ -777,7 +954,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 441,
+        "unk_13": 0
     },
     {
         "id": 61,
@@ -790,7 +970,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 440,
+        "unk_13": 0
     },
     {
         "id": 62,
@@ -803,7 +986,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 439,
+        "unk_13": 0
     },
     {
         "id": 63,
@@ -816,7 +1002,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 438,
+        "unk_13": 0
     },
     {
         "id": 64,
@@ -829,7 +1018,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 437,
+        "unk_13": 0
     },
     {
         "id": 65,
@@ -842,7 +1034,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 436,
+        "unk_13": 0
     },
     {
         "id": 66,
@@ -855,7 +1050,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 435,
+        "unk_13": 0
     },
     {
         "id": 67,
@@ -868,7 +1066,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 434,
+        "unk_13": 0
     },
     {
         "id": 68,
@@ -881,7 +1082,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 433,
+        "unk_13": 0
     },
     {
         "id": 69,
@@ -894,7 +1098,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 432,
+        "unk_13": 0
     },
     {
         "id": 70,
@@ -907,7 +1114,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 431,
+        "unk_13": 0
     },
     {
         "id": 71,
@@ -920,7 +1130,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 430,
+        "unk_13": 0
     },
     {
         "id": 72,
@@ -933,7 +1146,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 429,
+        "unk_13": 0
     },
     {
         "id": 73,
@@ -946,7 +1162,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 428,
+        "unk_13": 0
     },
     {
         "id": 74,
@@ -959,7 +1178,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 427,
+        "unk_13": 0
     },
     {
         "id": 75,
@@ -972,7 +1194,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 426,
+        "unk_13": 0
     },
     {
         "id": 76,
@@ -985,7 +1210,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 425,
+        "unk_13": 0
     },
     {
         "id": 77,
@@ -998,7 +1226,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 424,
+        "unk_13": 0
     },
     {
         "id": 78,
@@ -1011,7 +1242,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 423,
+        "unk_13": 0
     },
     {
         "id": 79,
@@ -1024,7 +1258,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 422,
+        "unk_13": 0
     },
     {
         "id": 80,
@@ -1037,7 +1274,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 421,
+        "unk_13": 0
     },
     {
         "id": 81,
@@ -1050,7 +1290,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 420,
+        "unk_13": 0
     },
     {
         "id": 82,
@@ -1063,7 +1306,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 419,
+        "unk_13": 0
     },
     {
         "id": 83,
@@ -1076,7 +1322,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 418,
+        "unk_13": 0
     },
     {
         "id": 84,
@@ -1089,7 +1338,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 417,
+        "unk_13": 0
     },
     {
         "id": 85,
@@ -1102,7 +1354,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 416,
+        "unk_13": 0
     },
     {
         "id": 86,
@@ -1115,7 +1370,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 415,
+        "unk_13": 0
     },
     {
         "id": 87,
@@ -1128,7 +1386,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 414,
+        "unk_13": 0
     },
     {
         "id": 88,
@@ -1141,7 +1402,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 413,
+        "unk_13": 0
     },
     {
         "id": 89,
@@ -1154,7 +1418,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 412,
+        "unk_13": 0
     },
     {
         "id": 90,
@@ -1167,7 +1434,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 411,
+        "unk_13": 0
     },
     {
         "id": 91,
@@ -1180,7 +1450,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 410,
+        "unk_13": 0
     },
     {
         "id": 92,
@@ -1193,7 +1466,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 409,
+        "unk_13": 0
     },
     {
         "id": 93,
@@ -1206,7 +1482,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 408,
+        "unk_13": 0
     },
     {
         "id": 94,
@@ -1219,7 +1498,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 407,
+        "unk_13": 0
     },
     {
         "id": 95,
@@ -1232,7 +1514,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 406,
+        "unk_13": 0
     },
     {
         "id": 96,
@@ -1245,7 +1530,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 405,
+        "unk_13": 0
     },
     {
         "id": 97,
@@ -1258,7 +1546,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 404,
+        "unk_13": 0
     },
     {
         "id": 98,
@@ -1271,7 +1562,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 403,
+        "unk_13": 0
     },
     {
         "id": 99,
@@ -1284,7 +1578,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 402,
+        "unk_13": 0
     },
     {
         "id": 100,
@@ -1297,7 +1594,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 401,
+        "unk_13": 0
     },
     {
         "id": 101,
@@ -1310,7 +1610,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 400,
+        "unk_13": 0
     },
     {
         "id": 102,
@@ -1323,7 +1626,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 399,
+        "unk_13": 0
     },
     {
         "id": 103,
@@ -1336,7 +1642,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 398,
+        "unk_13": 0
     },
     {
         "id": 104,
@@ -1349,7 +1658,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 397,
+        "unk_13": 0
     },
     {
         "id": 105,
@@ -1362,7 +1674,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 396,
+        "unk_13": 0
     },
     {
         "id": 106,
@@ -1375,7 +1690,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 395,
+        "unk_13": 0
     },
     {
         "id": 107,
@@ -1388,7 +1706,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 394,
+        "unk_13": 0
     },
     {
         "id": 108,
@@ -1401,7 +1722,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 393,
+        "unk_13": 0
     },
     {
         "id": 109,
@@ -1414,7 +1738,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 392,
+        "unk_13": 0
     },
     {
         "id": 110,
@@ -1427,7 +1754,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 391,
+        "unk_13": 0
     },
     {
         "id": 111,
@@ -1440,7 +1770,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 390,
+        "unk_13": 0
     },
     {
         "id": 112,
@@ -1453,7 +1786,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 389,
+        "unk_13": 0
     },
     {
         "id": 113,
@@ -1466,7 +1802,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 388,
+        "unk_13": 0
     },
     {
         "id": 114,
@@ -1479,7 +1818,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 387,
+        "unk_13": 0
     },
     {
         "id": 115,
@@ -1492,7 +1834,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 386,
+        "unk_13": 0
     },
     {
         "id": 116,
@@ -1505,7 +1850,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 385,
+        "unk_13": 0
     },
     {
         "id": 117,
@@ -1518,7 +1866,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 384,
+        "unk_13": 0
     },
     {
         "id": 118,
@@ -1531,7 +1882,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 383,
+        "unk_13": 0
     },
     {
         "id": 119,
@@ -1544,7 +1898,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 382,
+        "unk_13": 0
     },
     {
         "id": 120,
@@ -1557,7 +1914,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 381,
+        "unk_13": 0
     },
     {
         "id": 121,
@@ -1570,7 +1930,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 380,
+        "unk_13": 0
     },
     {
         "id": 122,
@@ -1583,7 +1946,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 379,
+        "unk_13": 0
     },
     {
         "id": 123,
@@ -1596,7 +1962,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 378,
+        "unk_13": 0
     },
     {
         "id": 124,
@@ -1609,7 +1978,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 377,
+        "unk_13": 0
     },
     {
         "id": 125,
@@ -1622,7 +1994,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 376,
+        "unk_13": 0
     },
     {
         "id": 126,
@@ -1635,7 +2010,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 375,
+        "unk_13": 0
     },
     {
         "id": 127,
@@ -1648,7 +2026,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 374,
+        "unk_13": 0
     },
     {
         "id": 128,
@@ -1661,7 +2042,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 373,
+        "unk_13": 0
     },
     {
         "id": 129,
@@ -1674,7 +2058,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 372,
+        "unk_13": 0
     },
     {
         "id": 130,
@@ -1687,7 +2074,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 371,
+        "unk_13": 0
     },
     {
         "id": 131,
@@ -1700,7 +2090,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 370,
+        "unk_13": 0
     },
     {
         "id": 132,
@@ -1713,7 +2106,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 369,
+        "unk_13": 0
     },
     {
         "id": 133,
@@ -1726,7 +2122,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 368,
+        "unk_13": 0
     },
     {
         "id": 134,
@@ -1739,7 +2138,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 367,
+        "unk_13": 0
     },
     {
         "id": 135,
@@ -1752,7 +2154,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 366,
+        "unk_13": 0
     },
     {
         "id": 136,
@@ -1765,7 +2170,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 365,
+        "unk_13": 0
     },
     {
         "id": 137,
@@ -1778,7 +2186,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 364,
+        "unk_13": 0
     },
     {
         "id": 138,
@@ -1791,7 +2202,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 363,
+        "unk_13": 0
     },
     {
         "id": 139,
@@ -1804,7 +2218,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 362,
+        "unk_13": 2
     },
     {
         "id": 140,
@@ -1817,7 +2234,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 361,
+        "unk_13": 2
     },
     {
         "id": 141,
@@ -1830,7 +2250,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 360,
+        "unk_13": 0
     },
     {
         "id": 142,
@@ -1843,7 +2266,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 359,
+        "unk_13": 0
     },
     {
         "id": 143,
@@ -1856,7 +2282,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 358,
+        "unk_13": 0
     },
     {
         "id": 144,
@@ -1869,7 +2298,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 357,
+        "unk_13": 0
     },
     {
         "id": 145,
@@ -1882,7 +2314,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 356,
+        "unk_13": 0
     },
     {
         "id": 146,
@@ -1895,7 +2330,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 355,
+        "unk_13": 0
     },
     {
         "id": 147,
@@ -1908,7 +2346,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 354,
+        "unk_13": 0
     },
     {
         "id": 148,
@@ -1921,7 +2362,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 353,
+        "unk_13": 0
     },
     {
         "id": 149,
@@ -1934,7 +2378,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 352,
+        "unk_13": 2
     },
     {
         "id": 150,
@@ -1947,7 +2394,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 351,
+        "unk_13": 2
     },
     {
         "id": 151,
@@ -1960,7 +2410,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 350,
+        "unk_13": 2
     },
     {
         "id": 153,
@@ -1973,7 +2426,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 349,
+        "unk_13": 0
     },
     {
         "id": 154,
@@ -1986,7 +2442,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 348,
+        "unk_13": 2
     },
     {
         "id": 155,
@@ -1999,7 +2458,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 347,
+        "unk_13": 0
     },
     {
         "id": 156,
@@ -2012,7 +2474,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 346,
+        "unk_13": 0
     },
     {
         "id": 157,
@@ -2025,7 +2490,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 345,
+        "unk_13": 0
     },
     {
         "id": 158,
@@ -2038,7 +2506,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 344,
+        "unk_13": 0
     },
     {
         "id": 159,
@@ -2051,7 +2522,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 343,
+        "unk_13": 0
     },
     {
         "id": 160,
@@ -2064,7 +2538,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 342,
+        "unk_13": 0
     },
     {
         "id": 161,
@@ -2077,7 +2554,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 341,
+        "unk_13": 0
     },
     {
         "id": 162,
@@ -2090,7 +2570,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 340,
+        "unk_13": 0
     },
     {
         "id": 163,
@@ -2103,7 +2586,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 339,
+        "unk_13": 2
     },
     {
         "id": 164,
@@ -2116,7 +2602,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 338,
+        "unk_13": 0
     },
     {
         "id": 165,
@@ -2129,7 +2618,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 337,
+        "unk_13": 0
     },
     {
         "id": 166,
@@ -2142,7 +2634,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 336,
+        "unk_13": 0
     },
     {
         "id": 167,
@@ -2155,7 +2650,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 335,
+        "unk_13": 0
     },
     {
         "id": 168,
@@ -2168,7 +2666,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 334,
+        "unk_13": 0
     },
     {
         "id": 169,
@@ -2181,7 +2682,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 333,
+        "unk_13": 0
     },
     {
         "id": 170,
@@ -2194,7 +2698,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 332,
+        "unk_13": 0
     },
     {
         "id": 171,
@@ -2207,7 +2714,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 331,
+        "unk_13": 0
     },
     {
         "id": 172,
@@ -2220,7 +2730,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 330,
+        "unk_13": 0
     },
     {
         "id": 173,
@@ -2233,7 +2746,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 329,
+        "unk_13": 0
     },
     {
         "id": 174,
@@ -2246,7 +2762,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 328,
+        "unk_13": 0
     },
     {
         "id": 175,
@@ -2259,7 +2778,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 327,
+        "unk_13": 0
     },
     {
         "id": 176,
@@ -2272,7 +2794,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 326,
+        "unk_13": 0
     },
     {
         "id": 177,
@@ -2285,7 +2810,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 325,
+        "unk_13": 0
     },
     {
         "id": 178,
@@ -2298,7 +2826,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 324,
+        "unk_13": 0
     },
     {
         "id": 179,
@@ -2311,7 +2842,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 323,
+        "unk_13": 0
     },
     {
         "id": 180,
@@ -2324,7 +2858,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 322,
+        "unk_13": 0
     },
     {
         "id": 181,
@@ -2337,7 +2874,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 321,
+        "unk_13": 0
     },
     {
         "id": 182,
@@ -2350,7 +2890,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 320,
+        "unk_13": 0
     },
     {
         "id": 183,
@@ -2363,7 +2906,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 319,
+        "unk_13": 0
     },
     {
         "id": 184,
@@ -2376,7 +2922,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 318,
+        "unk_13": 0
     },
     {
         "id": 185,
@@ -2389,7 +2938,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 317,
+        "unk_13": 0
     },
     {
         "id": 186,
@@ -2402,7 +2954,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 316,
+        "unk_13": 0
     },
     {
         "id": 187,
@@ -2415,7 +2970,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 315,
+        "unk_13": 0
     },
     {
         "id": 188,
@@ -2428,7 +2986,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 314,
+        "unk_13": 0
     },
     {
         "id": 189,
@@ -2441,7 +3002,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 313,
+        "unk_13": 0
     },
     {
         "id": 190,
@@ -2454,7 +3018,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 312,
+        "unk_13": 0
     },
     {
         "id": 191,
@@ -2467,7 +3034,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 311,
+        "unk_13": 0
     },
     {
         "id": 192,
@@ -2480,7 +3050,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 310,
+        "unk_13": 0
     },
     {
         "id": 193,
@@ -2493,7 +3066,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 309,
+        "unk_13": 0
     },
     {
         "id": 194,
@@ -2506,7 +3082,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 308,
+        "unk_13": 0
     },
     {
         "id": 195,
@@ -2519,7 +3098,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 307,
+        "unk_13": 0
     },
     {
         "id": 196,
@@ -2532,7 +3114,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 306,
+        "unk_13": 0
     },
     {
         "id": 197,
@@ -2545,7 +3130,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 305,
+        "unk_13": 0
     },
     {
         "id": 198,
@@ -2558,7 +3146,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 304,
+        "unk_13": 0
     },
     {
         "id": 199,
@@ -2571,7 +3162,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 303,
+        "unk_13": 0
     },
     {
         "id": 200,
@@ -2584,7 +3178,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 302,
+        "unk_13": 0
     },
     {
         "id": 201,
@@ -2597,7 +3194,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 301,
+        "unk_13": 0
     },
     {
         "id": 202,
@@ -2610,7 +3210,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 300,
+        "unk_13": 0
     },
     {
         "id": 203,
@@ -2623,7 +3226,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 299,
+        "unk_13": 0
     },
     {
         "id": 204,
@@ -2636,7 +3242,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 298,
+        "unk_13": 0
     },
     {
         "id": 205,
@@ -2649,7 +3258,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 297,
+        "unk_13": 0
     },
     {
         "id": 206,
@@ -2662,7 +3274,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 296,
+        "unk_13": 0
     },
     {
         "id": 207,
@@ -2675,7 +3290,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 295,
+        "unk_13": 0
     },
     {
         "id": 208,
@@ -2688,7 +3306,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 294,
+        "unk_13": 0
     },
     {
         "id": 209,
@@ -2701,7 +3322,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 293,
+        "unk_13": 0
     },
     {
         "id": 210,
@@ -2714,7 +3338,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 292,
+        "unk_13": 0
     },
     {
         "id": 211,
@@ -2727,7 +3354,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 291,
+        "unk_13": 0
     },
     {
         "id": 212,
@@ -2740,7 +3370,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 290,
+        "unk_13": 0
     },
     {
         "id": 213,
@@ -2753,7 +3386,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 289,
+        "unk_13": 0
     },
     {
         "id": 214,
@@ -2766,7 +3402,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 288,
+        "unk_13": 0
     },
     {
         "id": 215,
@@ -2779,7 +3418,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 287,
+        "unk_13": 0
     },
     {
         "id": 216,
@@ -2792,7 +3434,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 286,
+        "unk_13": 0
     },
     {
         "id": 217,
@@ -2805,7 +3450,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 285,
+        "unk_13": 0
     },
     {
         "id": 218,
@@ -2818,7 +3466,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 284,
+        "unk_13": 0
     },
     {
         "id": 219,
@@ -2831,7 +3482,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 283,
+        "unk_13": 0
     },
     {
         "id": 220,
@@ -2844,7 +3498,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 282,
+        "unk_13": 0
     },
     {
         "id": 221,
@@ -2857,7 +3514,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 281,
+        "unk_13": 0
     },
     {
         "id": 222,
@@ -2870,7 +3530,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 280,
+        "unk_13": 0
     },
     {
         "id": 223,
@@ -2883,7 +3546,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 279,
+        "unk_13": 0
     },
     {
         "id": 224,
@@ -2896,7 +3562,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 278,
+        "unk_13": 0
     },
     {
         "id": 225,
@@ -2909,7 +3578,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 277,
+        "unk_13": 0
     },
     {
         "id": 226,
@@ -2922,7 +3594,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 276,
+        "unk_13": 0
     },
     {
         "id": 227,
@@ -2935,7 +3610,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 275,
+        "unk_13": 0
     },
     {
         "id": 228,
@@ -2948,7 +3626,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 274,
+        "unk_13": 0
     },
     {
         "id": 229,
@@ -2961,7 +3642,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 273,
+        "unk_13": 0
     },
     {
         "id": 230,
@@ -2974,7 +3658,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 272,
+        "unk_13": 0
     },
     {
         "id": 231,
@@ -2987,7 +3674,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 271,
+        "unk_13": 0
     },
     {
         "id": 232,
@@ -3000,7 +3690,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 270,
+        "unk_13": 0
     },
     {
         "id": 233,
@@ -3013,7 +3706,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 269,
+        "unk_13": 0
     },
     {
         "id": 234,
@@ -3026,7 +3722,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 268,
+        "unk_13": 0
     },
     {
         "id": 235,
@@ -3039,7 +3738,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 267,
+        "unk_13": 0
     },
     {
         "id": 236,
@@ -3052,7 +3754,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 266,
+        "unk_13": 0
     },
     {
         "id": 237,
@@ -3065,7 +3770,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 265,
+        "unk_13": 0
     },
     {
         "id": 238,
@@ -3078,7 +3786,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 264,
+        "unk_13": 2
     },
     {
         "id": 239,
@@ -3091,7 +3802,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 263,
+        "unk_13": 0
     },
     {
         "id": 240,
@@ -3104,7 +3818,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 262,
+        "unk_13": 0
     },
     {
         "id": 241,
@@ -3117,7 +3834,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 261,
+        "unk_13": 0
     },
     {
         "id": 242,
@@ -3130,7 +3850,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 260,
+        "unk_13": 0
     },
     {
         "id": 243,
@@ -3143,7 +3866,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 259,
+        "unk_13": 0
     },
     {
         "id": 244,
@@ -3156,7 +3882,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 258,
+        "unk_13": 0
     },
     {
         "id": 245,
@@ -3169,7 +3898,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 257,
+        "unk_13": 0
     },
     {
         "id": 246,
@@ -3182,7 +3914,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 256,
+        "unk_13": 0
     },
     {
         "id": 247,
@@ -3195,7 +3930,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 255,
+        "unk_13": 0
     },
     {
         "id": 248,
@@ -3208,7 +3946,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 254,
+        "unk_13": 0
     },
     {
         "id": 249,
@@ -3221,7 +3962,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 253,
+        "unk_13": 0
     },
     {
         "id": 250,
@@ -3234,7 +3978,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 252,
+        "unk_13": 0
     },
     {
         "id": 251,
@@ -3247,7 +3994,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 251,
+        "unk_13": 0
     },
     {
         "id": 252,
@@ -3260,7 +4010,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 250,
+        "unk_13": 0
     },
     {
         "id": 253,
@@ -3273,7 +4026,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 249,
+        "unk_13": 0
     },
     {
         "id": 254,
@@ -3286,7 +4042,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 248,
+        "unk_13": 0
     },
     {
         "id": 255,
@@ -3299,7 +4058,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 247,
+        "unk_13": 0
     },
     {
         "id": 256,
@@ -3312,7 +4074,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 246,
+        "unk_13": 0
     },
     {
         "id": 257,
@@ -3325,7 +4090,10 @@
         "start_time": " ",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 3,
+        "unk_12": 245,
+        "unk_13": 0
     },
     {
         "id": 258,
@@ -3338,7 +4106,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 244,
+        "unk_13": 0
     },
     {
         "id": 259,
@@ -3351,7 +4122,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 243,
+        "unk_13": 0
     },
     {
         "id": 260,
@@ -3364,7 +4138,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 4,
+        "unk_12": 242,
+        "unk_13": 0
     },
     {
         "id": 261,
@@ -3377,7 +4154,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 241,
+        "unk_13": 2
     },
     {
         "id": 262,
@@ -3390,7 +4170,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 240,
+        "unk_13": 0
     },
     {
         "id": 263,
@@ -3403,7 +4186,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 239,
+        "unk_13": 0
     },
     {
         "id": 264,
@@ -3416,7 +4202,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 238,
+        "unk_13": 0
     },
     {
         "id": 265,
@@ -3429,7 +4218,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 237,
+        "unk_13": 0
     },
     {
         "id": 266,
@@ -3442,7 +4234,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 236,
+        "unk_13": 0
     },
     {
         "id": 267,
@@ -3455,7 +4250,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 235,
+        "unk_13": 0
     },
     {
         "id": 268,
@@ -3468,7 +4266,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 234,
+        "unk_13": 0
     },
     {
         "id": 269,
@@ -3481,7 +4282,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 233,
+        "unk_13": 0
     },
     {
         "id": 270,
@@ -3494,7 +4298,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 232,
+        "unk_13": 2
     },
     {
         "id": 271,
@@ -3507,7 +4314,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 231,
+        "unk_13": 0
     },
     {
         "id": 272,
@@ -3520,7 +4330,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 230,
+        "unk_13": 0
     },
     {
         "id": 273,
@@ -3533,7 +4346,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 229,
+        "unk_13": 0
     },
     {
         "id": 274,
@@ -3546,7 +4362,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 228,
+        "unk_13": 0
     },
     {
         "id": 275,
@@ -3559,7 +4378,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 227,
+        "unk_13": 0
     },
     {
         "id": 276,
@@ -3572,7 +4394,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 226,
+        "unk_13": 0
     },
     {
         "id": 277,
@@ -3585,7 +4410,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 225,
+        "unk_13": 0
     },
     {
         "id": 278,
@@ -3598,7 +4426,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 224,
+        "unk_13": 0
     },
     {
         "id": 279,
@@ -3611,7 +4442,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 223,
+        "unk_13": 0
     },
     {
         "id": 280,
@@ -3624,7 +4458,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 222,
+        "unk_13": 0
     },
     {
         "id": 281,
@@ -3637,7 +4474,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 221,
+        "unk_13": 0
     },
     {
         "id": 282,
@@ -3650,7 +4490,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 220,
+        "unk_13": 0
     },
     {
         "id": 283,
@@ -3663,7 +4506,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 219,
+        "unk_13": 0
     },
     {
         "id": 284,
@@ -3676,7 +4522,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 218,
+        "unk_13": 0
     },
     {
         "id": 285,
@@ -3689,7 +4538,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 217,
+        "unk_13": 0
     },
     {
         "id": 286,
@@ -3702,7 +4554,10 @@
         "start_time": "",
         "end_time": "",
         "is_new": 0,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 216,
+        "unk_13": 0
     },
     {
         "id": 287,
@@ -3714,8 +4569,11 @@
         "function_control_id": 0,
         "start_time": "",
         "end_time": "",
-        "is_new": 1,
-        "increase": ""
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 215,
+        "unk_13": 0
     },
     {
         "id": 288,
@@ -3727,8 +4585,11 @@
         "function_control_id": 0,
         "start_time": "",
         "end_time": "",
-        "is_new": 1,
-        "increase": ""
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 214,
+        "unk_13": 0
     },
     {
         "id": 289,
@@ -3740,8 +4601,11 @@
         "function_control_id": 0,
         "start_time": "",
         "end_time": "",
-        "is_new": 1,
-        "increase": ""
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 213,
+        "unk_13": 0
     },
     {
         "id": 290,
@@ -3753,8 +4617,11 @@
         "function_control_id": 0,
         "start_time": "",
         "end_time": "",
-        "is_new": 1,
-        "increase": ""
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 212,
+        "unk_13": 0
     },
     {
         "id": 291,
@@ -3766,8 +4633,11 @@
         "function_control_id": 0,
         "start_time": "",
         "end_time": "",
-        "is_new": 1,
-        "increase": ""
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 211,
+        "unk_13": 0
     },
     {
         "id": 292,
@@ -3779,8 +4649,11 @@
         "function_control_id": 0,
         "start_time": "",
         "end_time": "",
-        "is_new": 1,
-        "increase": ""
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 210,
+        "unk_13": 0
     },
     {
         "id": 293,
@@ -3792,8 +4665,11 @@
         "function_control_id": 0,
         "start_time": "",
         "end_time": "",
-        "is_new": 1,
-        "increase": ""
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 209,
+        "unk_13": 0
     },
     {
         "id": 294,
@@ -3805,8 +4681,11 @@
         "function_control_id": 0,
         "start_time": "",
         "end_time": "",
-        "is_new": 1,
-        "increase": ""
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 208,
+        "unk_13": 0
     },
     {
         "id": 295,
@@ -3818,8 +4697,555 @@
         "function_control_id": 0,
         "start_time": "",
         "end_time": "",
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 207,
+        "unk_13": 0
+    },
+    {
+        "id": 296,
+        "type": 52,
+        "prize_id": 12616,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
         "is_new": 1,
-        "increase": ""
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 206,
+        "unk_13": 2
+    },
+    {
+        "id": 297,
+        "type": 52,
+        "prize_id": 12617,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 205,
+        "unk_13": 2
+    },
+    {
+        "id": 298,
+        "type": 52,
+        "prize_id": 12618,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 204,
+        "unk_13": 2
+    },
+    {
+        "id": 299,
+        "type": 52,
+        "prize_id": 12619,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 203,
+        "unk_13": 2
+    },
+    {
+        "id": 300,
+        "type": 52,
+        "prize_id": 12620,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 202,
+        "unk_13": 2
+    },
+    {
+        "id": 301,
+        "type": 52,
+        "prize_id": 12621,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 201,
+        "unk_13": 2
+    },
+    {
+        "id": 302,
+        "type": 52,
+        "prize_id": 12622,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 200,
+        "unk_13": 2
+    },
+    {
+        "id": 303,
+        "type": 52,
+        "prize_id": 12623,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 199,
+        "unk_13": 2
+    },
+    {
+        "id": 304,
+        "type": 52,
+        "prize_id": 12624,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 198,
+        "unk_13": 2
+    },
+    {
+        "id": 305,
+        "type": 52,
+        "prize_id": 12625,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 197,
+        "unk_13": 2
+    },
+    {
+        "id": 306,
+        "type": 52,
+        "prize_id": 12626,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 196,
+        "unk_13": 2
+    },
+    {
+        "id": 307,
+        "type": 52,
+        "prize_id": 12627,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 195,
+        "unk_13": 2
+    },
+    {
+        "id": 308,
+        "type": 52,
+        "prize_id": 12628,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 194,
+        "unk_13": 2
+    },
+    {
+        "id": 309,
+        "type": 52,
+        "prize_id": 12629,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 193,
+        "unk_13": 2
+    },
+    {
+        "id": 310,
+        "type": 2,
+        "prize_id": 12632,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 192,
+        "unk_13": 2
+    },
+    {
+        "id": 311,
+        "type": 52,
+        "prize_id": 12630,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 191,
+        "unk_13": 2
+    },
+    {
+        "id": 312,
+        "type": 52,
+        "prize_id": 12631,
+        "cost": "4001-4500",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 190,
+        "unk_13": 2
+    },
+    {
+        "id": 313,
+        "type": 2,
+        "prize_id": 12633,
+        "cost": "4001-1200",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 189,
+        "unk_13": 2
+    },
+    {
+        "id": 314,
+        "type": 2,
+        "prize_id": 12634,
+        "cost": "4001-1200",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 188,
+        "unk_13": 2
+    },
+    {
+        "id": 315,
+        "type": 2,
+        "prize_id": 12635,
+        "cost": "4001-1200",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 187,
+        "unk_13": 2
+    },
+    {
+        "id": 316,
+        "type": 2,
+        "prize_id": 12636,
+        "cost": "4001-1200",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 186,
+        "unk_13": 2
+    },
+    {
+        "id": 317,
+        "type": 2,
+        "prize_id": 12637,
+        "cost": "4001-1200",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 185,
+        "unk_13": 2
+    },
+    {
+        "id": 318,
+        "type": 2,
+        "prize_id": 12638,
+        "cost": "4001-1200",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 184,
+        "unk_13": 2
+    },
+    {
+        "id": 319,
+        "type": 2,
+        "prize_id": 12639,
+        "cost": "4001-1200",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 183,
+        "unk_13": 2
+    },
+    {
+        "id": 320,
+        "type": 2,
+        "prize_id": 12640,
+        "cost": "4001-1200",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 182,
+        "unk_13": 2
+    },
+    {
+        "id": 321,
+        "type": 2,
+        "prize_id": 12641,
+        "cost": "4001-1200",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 181,
+        "unk_13": 2
+    },
+    {
+        "id": 322,
+        "type": 2,
+        "prize_id": 12642,
+        "cost": "4001-1200",
+        "quota": 1,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 1,
+        "increase": "",
+        "unk_11": 5,
+        "unk_12": 180,
+        "unk_13": 2
+    },
+    {
+        "id": 323,
+        "type": 1,
+        "prize_id": 121052,
+        "cost": "4001-8000",
+        "quota": 0,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 179,
+        "unk_13": 0
+    },
+    {
+        "id": 324,
+        "type": 1,
+        "prize_id": 121053,
+        "cost": "4001-8000",
+        "quota": 0,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 178,
+        "unk_13": 0
+    },
+    {
+        "id": 325,
+        "type": 1,
+        "prize_id": 121054,
+        "cost": "4001-8000",
+        "quota": 0,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 177,
+        "unk_13": 0
+    },
+    {
+        "id": 326,
+        "type": 1,
+        "prize_id": 121055,
+        "cost": "4001-8000",
+        "quota": 0,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 176,
+        "unk_13": 0
+    },
+    {
+        "id": 327,
+        "type": 1,
+        "prize_id": 121056,
+        "cost": "4001-8000",
+        "quota": 0,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 175,
+        "unk_13": 0
+    },
+    {
+        "id": 328,
+        "type": 1,
+        "prize_id": 121057,
+        "cost": "4001-8000",
+        "quota": 0,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 174,
+        "unk_13": 0
+    },
+    {
+        "id": 329,
+        "type": 1,
+        "prize_id": 121058,
+        "cost": "4001-8000",
+        "quota": 0,
+        "clear_cycle": 0,
+        "function_control_id": 0,
+        "start_time": "",
+        "end_time": "",
+        "is_new": 0,
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 173,
+        "unk_13": 0
     },
     {
         "id": 330,
@@ -3832,6 +5258,9 @@
         "start_time": "",
         "end_time": "",
         "is_new": 1,
-        "increase": ""
+        "increase": "",
+        "unk_11": 1,
+        "unk_12": 172,
+        "unk_13": 0
     }
 ]
