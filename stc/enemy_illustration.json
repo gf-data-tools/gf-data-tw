@@ -26,7 +26,7 @@
         "spine_scale": "90,90,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 2001,
@@ -55,7 +55,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 3001,
@@ -84,7 +84,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 4001,
@@ -113,7 +113,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 5001,
@@ -142,7 +142,7 @@
         "spine_scale": "70,70,1",
         "org_id": 10604,
         "related_story_id": 200005,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 5002,
@@ -171,7 +171,7 @@
         "spine_scale": "70,70,1",
         "org_id": 10604,
         "related_story_id": 200005,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 6001,
@@ -200,7 +200,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 7001,
@@ -229,7 +229,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 8001,
@@ -258,7 +258,7 @@
         "spine_scale": "80,80,1",
         "org_id": 10602,
         "related_story_id": 200008,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 9001,
@@ -287,7 +287,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 10001,
@@ -316,7 +316,7 @@
         "spine_scale": "90,90,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 11001,
@@ -345,7 +345,7 @@
         "spine_scale": "75,75,1",
         "org_id": 10602,
         "related_story_id": 200011,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 12001,
@@ -374,7 +374,7 @@
         "spine_scale": "75,75,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 13001,
@@ -403,7 +403,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 14001,
@@ -432,7 +432,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 15001,
@@ -461,7 +461,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 16001,
@@ -490,7 +490,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 17001,
@@ -519,7 +519,7 @@
         "spine_scale": "85,85,1",
         "org_id": 10602,
         "related_story_id": 200017,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 17002,
@@ -548,7 +548,7 @@
         "spine_scale": "85,85,1",
         "org_id": 10602,
         "related_story_id": 200017,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 18001,
@@ -577,7 +577,7 @@
         "spine_scale": "85,85,1",
         "org_id": 10603,
         "related_story_id": 200018,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 19001,
@@ -606,7 +606,7 @@
         "spine_scale": "75,75,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 20001,
@@ -635,7 +635,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 21001,
@@ -664,7 +664,7 @@
         "spine_scale": "80,80,1",
         "org_id": 10603,
         "related_story_id": 200021,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 21002,
@@ -693,7 +693,7 @@
         "spine_scale": "80,80,1",
         "org_id": 10603,
         "related_story_id": 200021,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 22001,
@@ -722,7 +722,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 23001,
@@ -751,7 +751,7 @@
         "spine_scale": "85,85,1",
         "org_id": 10602,
         "related_story_id": 200023,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 24001,
@@ -780,7 +780,7 @@
         "spine_scale": "75,75,1",
         "org_id": 10604,
         "related_story_id": 200024,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 24002,
@@ -809,7 +809,7 @@
         "spine_scale": "75,75,1",
         "org_id": 10604,
         "related_story_id": 200024,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 25001,
@@ -838,7 +838,7 @@
         "spine_scale": "55,55,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 26001,
@@ -867,7 +867,7 @@
         "spine_scale": "85,85,1",
         "org_id": 10602,
         "related_story_id": 200026,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 26002,
@@ -896,7 +896,7 @@
         "spine_scale": "85,85,1",
         "org_id": 10602,
         "related_story_id": 200026,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 27001,
@@ -925,7 +925,7 @@
         "spine_scale": "85,85,1",
         "org_id": 10603,
         "related_story_id": 200027,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 27002,
@@ -954,7 +954,7 @@
         "spine_scale": "85,85,1",
         "org_id": 10603,
         "related_story_id": 200027,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 28001,
@@ -983,7 +983,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 29001,
@@ -1012,7 +1012,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 30001,
@@ -1041,7 +1041,7 @@
         "spine_scale": "150,150,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 31001,
@@ -1070,7 +1070,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 32001,
@@ -1099,7 +1099,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 33001,
@@ -1128,7 +1128,7 @@
         "spine_scale": "70,70,1",
         "org_id": 10603,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 34001,
@@ -1157,7 +1157,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 34002,
@@ -1186,7 +1186,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 34003,
@@ -1215,7 +1215,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 35001,
@@ -1244,7 +1244,7 @@
         "spine_scale": "70,70,1",
         "org_id": 10604,
         "related_story_id": 200035,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 35002,
@@ -1273,7 +1273,7 @@
         "spine_scale": "70,70,1",
         "org_id": 10604,
         "related_story_id": 200035,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 35003,
@@ -1302,7 +1302,7 @@
         "spine_scale": "70,70,1",
         "org_id": 10604,
         "related_story_id": 200035,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 36001,
@@ -1331,7 +1331,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 37001,
@@ -1360,7 +1360,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 38001,
@@ -1389,7 +1389,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 39001,
@@ -1418,7 +1418,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 40001,
@@ -1447,7 +1447,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 41001,
@@ -1476,7 +1476,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 42001,
@@ -1505,7 +1505,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 43001,
@@ -1534,7 +1534,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 44001,
@@ -1563,7 +1563,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 44002,
@@ -1592,7 +1592,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 44003,
@@ -1621,7 +1621,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 44004,
@@ -1650,7 +1650,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 44005,
@@ -1679,7 +1679,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 45001,
@@ -1708,7 +1708,7 @@
         "spine_scale": "80,80,1",
         "org_id": 10604,
         "related_story_id": 200045,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 45002,
@@ -1737,7 +1737,7 @@
         "spine_scale": "80,80,1",
         "org_id": 10604,
         "related_story_id": 200045,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 46001,
@@ -1766,7 +1766,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 47001,
@@ -1795,7 +1795,7 @@
         "spine_scale": "90,90,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 48001,
@@ -1824,7 +1824,7 @@
         "spine_scale": "60,60,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 49001,
@@ -1853,7 +1853,7 @@
         "spine_scale": "50,50,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 50001,
@@ -1882,7 +1882,7 @@
         "spine_scale": "70,70,1",
         "org_id": 10603,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 51001,
@@ -1911,7 +1911,7 @@
         "spine_scale": "70,70,1",
         "org_id": 10603,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 52001,
@@ -1940,7 +1940,7 @@
         "spine_scale": "90,90,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 53001,
@@ -1969,7 +1969,7 @@
         "spine_scale": "90,90,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 54001,
@@ -1998,7 +1998,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 54002,
@@ -2027,7 +2027,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 55001,
@@ -2056,7 +2056,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 56001,
@@ -2085,7 +2085,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 57001,
@@ -2114,7 +2114,7 @@
         "spine_scale": "90,90,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 58001,
@@ -2143,7 +2143,7 @@
         "spine_scale": "75,75,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 59001,
@@ -2172,7 +2172,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 60001,
@@ -2201,7 +2201,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 61001,
@@ -2230,7 +2230,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 61002,
@@ -2259,7 +2259,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 62001,
@@ -2288,7 +2288,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 62002,
@@ -2317,7 +2317,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 63001,
@@ -2346,7 +2346,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 64001,
@@ -2375,7 +2375,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 65001,
@@ -2404,7 +2404,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 66001,
@@ -2433,7 +2433,7 @@
         "spine_scale": "75,75,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 67001,
@@ -2462,7 +2462,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 68001,
@@ -2491,7 +2491,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 69001,
@@ -2520,7 +2520,7 @@
         "spine_scale": "40,40,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 70001,
@@ -2549,7 +2549,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 71001,
@@ -2578,7 +2578,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 72001,
@@ -2607,7 +2607,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 73001,
@@ -2636,7 +2636,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 74001,
@@ -2665,7 +2665,7 @@
         "spine_scale": "-15,15,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 75001,
@@ -2694,7 +2694,7 @@
         "spine_scale": "-15,15,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 76001,
@@ -2723,7 +2723,7 @@
         "spine_scale": "-15,15,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 77001,
@@ -2752,7 +2752,7 @@
         "spine_scale": "50,50,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 78001,
@@ -2781,7 +2781,7 @@
         "spine_scale": "60,60,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 79001,
@@ -2810,7 +2810,7 @@
         "spine_scale": "40,40,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 80001,
@@ -2839,7 +2839,7 @@
         "spine_scale": "40,40,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 80002,
@@ -2868,7 +2868,7 @@
         "spine_scale": "40,40,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 81001,
@@ -2897,7 +2897,7 @@
         "spine_scale": "60,60,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 81002,
@@ -2926,7 +2926,7 @@
         "spine_scale": "60,60,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 82001,
@@ -2955,7 +2955,7 @@
         "spine_scale": "60,60,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 83001,
@@ -2984,7 +2984,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 84001,
@@ -3013,7 +3013,7 @@
         "spine_scale": "40,40,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 85001,
@@ -3042,7 +3042,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 86001,
@@ -3071,7 +3071,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 87001,
@@ -3100,7 +3100,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 88001,
@@ -3129,7 +3129,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 89001,
@@ -3158,7 +3158,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 90001,
@@ -3187,7 +3187,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 91001,
@@ -3216,7 +3216,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 92001,
@@ -3245,7 +3245,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 93001,
@@ -3274,7 +3274,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 94001,
@@ -3303,7 +3303,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 95001,
@@ -3332,7 +3332,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 96001,
@@ -3361,7 +3361,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 97001,
@@ -3390,7 +3390,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 98001,
@@ -3419,7 +3419,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 99001,
@@ -3448,7 +3448,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 101001,
@@ -3477,7 +3477,7 @@
         "spine_scale": "90,90,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 102001,
@@ -3506,7 +3506,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 103001,
@@ -3535,7 +3535,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 104001,
@@ -3564,7 +3564,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 105001,
@@ -3593,7 +3593,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 106001,
@@ -3622,7 +3622,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 107001,
@@ -3651,7 +3651,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 108001,
@@ -3680,7 +3680,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 109001,
@@ -3709,7 +3709,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 110001,
@@ -3738,7 +3738,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 111001,
@@ -3767,7 +3767,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 112001,
@@ -3796,7 +3796,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 113001,
@@ -3825,7 +3825,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 114001,
@@ -3854,7 +3854,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 115001,
@@ -3883,7 +3883,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 116001,
@@ -3912,7 +3912,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 117001,
@@ -3941,7 +3941,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 118001,
@@ -3970,7 +3970,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 119001,
@@ -3999,7 +3999,7 @@
         "spine_scale": "50,50,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 120001,
@@ -4028,7 +4028,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 121001,
@@ -4057,7 +4057,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 122001,
@@ -4086,7 +4086,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 123001,
@@ -4115,7 +4115,7 @@
         "spine_scale": "40,40,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 124001,
@@ -4144,7 +4144,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 125001,
@@ -4173,7 +4173,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 126001,
@@ -4202,7 +4202,7 @@
         "spine_scale": "85,85,1",
         "org_id": 10603,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 127001,
@@ -4231,7 +4231,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 128001,
@@ -4260,7 +4260,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 129001,
@@ -4289,7 +4289,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 130001,
@@ -4318,7 +4318,7 @@
         "spine_scale": "50,50,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 131001,
@@ -4347,7 +4347,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 132001,
@@ -4376,7 +4376,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 133001,
@@ -4405,7 +4405,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 134001,
@@ -4434,7 +4434,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 135001,
@@ -4463,7 +4463,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 136001,
@@ -4492,7 +4492,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 137001,
@@ -4521,7 +4521,7 @@
         "spine_scale": "50,50,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 138001,
@@ -4550,7 +4550,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 139001,
@@ -4579,7 +4579,7 @@
         "spine_scale": "60,60,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 140001,
@@ -4608,7 +4608,7 @@
         "spine_scale": "75,75,1",
         "org_id": 10602,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 141001,
@@ -4637,7 +4637,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 142001,
@@ -4666,7 +4666,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 143001,
@@ -4695,7 +4695,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 144001,
@@ -4724,7 +4724,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 145001,
@@ -4753,7 +4753,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 146001,
@@ -4782,7 +4782,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 147001,
@@ -4811,7 +4811,7 @@
         "spine_scale": "85,85,1",
         "org_id": 10603,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 148001,
@@ -4840,7 +4840,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 149001,
@@ -4869,7 +4869,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 150001,
@@ -4898,7 +4898,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 151001,
@@ -4927,7 +4927,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 152001,
@@ -4956,7 +4956,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 153001,
@@ -4985,7 +4985,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 154001,
@@ -5014,7 +5014,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 155001,
@@ -5043,7 +5043,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 155002,
@@ -5072,7 +5072,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 156001,
@@ -5101,7 +5101,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 157001,
@@ -5130,7 +5130,7 @@
         "spine_scale": "85,85,1",
         "org_id": 10602,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 158001,
@@ -5159,7 +5159,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 159001,
@@ -5188,7 +5188,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 160001,
@@ -5217,7 +5217,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 161001,
@@ -5246,7 +5246,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 162001,
@@ -5275,7 +5275,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 163001,
@@ -5304,7 +5304,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 164001,
@@ -5333,7 +5333,7 @@
         "spine_scale": "90,90,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 165001,
@@ -5362,7 +5362,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 166001,
@@ -5391,7 +5391,7 @@
         "spine_scale": "70,70,1",
         "org_id": 10603,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 167001,
@@ -5420,7 +5420,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 168001,
@@ -5449,7 +5449,7 @@
         "spine_scale": "60,60,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 169001,
@@ -5478,7 +5478,7 @@
         "spine_scale": "50,50,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 170001,
@@ -5507,7 +5507,7 @@
         "spine_scale": "90,90,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 171001,
@@ -5536,7 +5536,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 172001,
@@ -5565,7 +5565,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 173001,
@@ -5594,7 +5594,7 @@
         "spine_scale": "50,50,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 174001,
@@ -5623,7 +5623,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 175001,
@@ -5652,7 +5652,7 @@
         "spine_scale": "",
         "org_id": 10604,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 176001,
@@ -5681,7 +5681,7 @@
         "spine_scale": "50,50,1",
         "org_id": 10603,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 177001,
@@ -5710,7 +5710,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 178001,
@@ -5739,7 +5739,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 179001,
@@ -5768,7 +5768,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 180001,
@@ -5797,7 +5797,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 181001,
@@ -5826,7 +5826,7 @@
         "spine_scale": "70,70,1",
         "org_id": 10604,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 182001,
@@ -5855,7 +5855,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 183001,
@@ -5884,7 +5884,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 184001,
@@ -5913,7 +5913,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 185001,
@@ -5942,7 +5942,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 186001,
@@ -5971,7 +5971,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 187001,
@@ -6000,7 +6000,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 188001,
@@ -6029,7 +6029,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 189001,
@@ -6058,7 +6058,7 @@
         "spine_scale": "75,75,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 190001,
@@ -6087,7 +6087,7 @@
         "spine_scale": "75,75,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 191001,
@@ -6116,7 +6116,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 192001,
@@ -6145,7 +6145,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 193001,
@@ -6174,7 +6174,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 194001,
@@ -6203,7 +6203,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 200001,
@@ -6232,7 +6232,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 201001,
@@ -6261,7 +6261,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 202001,
@@ -6290,7 +6290,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 203001,
@@ -6319,7 +6319,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 204001,
@@ -6348,7 +6348,7 @@
         "spine_scale": "50,50,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 205001,
@@ -6377,7 +6377,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 206001,
@@ -6406,7 +6406,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 206002,
@@ -6435,7 +6435,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 207001,
@@ -6464,7 +6464,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 208001,
@@ -6493,7 +6493,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 209001,
@@ -6522,7 +6522,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 210001,
@@ -6551,7 +6551,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 211001,
@@ -6580,7 +6580,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 212001,
@@ -6609,7 +6609,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 213001,
@@ -6638,7 +6638,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 216001,
@@ -6667,7 +6667,7 @@
         "spine_scale": "",
         "org_id": 10604,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 217001,
@@ -6696,7 +6696,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 218001,
@@ -6725,7 +6725,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 219001,
@@ -6754,7 +6754,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 220001,
@@ -6783,7 +6783,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 221001,
@@ -6812,7 +6812,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 222001,
@@ -6841,7 +6841,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 223001,
@@ -6870,7 +6870,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 224001,
@@ -6899,7 +6899,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 225001,
@@ -6928,7 +6928,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 226001,
@@ -6957,7 +6957,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 227001,
@@ -6986,7 +6986,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 228001,
@@ -7015,7 +7015,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 229001,
@@ -7044,7 +7044,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 230001,
@@ -7073,7 +7073,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 231001,
@@ -7102,7 +7102,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 232001,
@@ -7131,7 +7131,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 233001,
@@ -7160,7 +7160,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 234001,
@@ -7189,7 +7189,7 @@
         "spine_scale": "60,60,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 235001,
@@ -7218,7 +7218,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 236001,
@@ -7247,7 +7247,7 @@
         "spine_scale": "85,85,1",
         "org_id": 10602,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 237001,
@@ -7276,7 +7276,7 @@
         "spine_scale": "100,100,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 238001,
@@ -7305,7 +7305,7 @@
         "spine_scale": "80,80,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 239001,
@@ -7334,7 +7334,7 @@
         "spine_scale": "40,40,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 240001,
@@ -7363,7 +7363,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 241001,
@@ -7392,7 +7392,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 242001,
@@ -7421,7 +7421,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 243001,
@@ -7450,7 +7450,7 @@
         "spine_scale": "85,85,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 244001,
@@ -7479,7 +7479,7 @@
         "spine_scale": "60,60,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 245001,
@@ -7508,7 +7508,7 @@
         "spine_scale": "50,50,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 246001,
@@ -7537,7 +7537,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 247001,
@@ -7566,7 +7566,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 248001,
@@ -7595,7 +7595,7 @@
         "spine_scale": "50,50,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 249001,
@@ -7624,7 +7624,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 250001,
@@ -7653,7 +7653,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 251001,
@@ -7682,7 +7682,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 252001,
@@ -7711,7 +7711,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 253001,
@@ -7740,7 +7740,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 254001,
@@ -7769,7 +7769,7 @@
         "spine_scale": "70,70,1",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 100001001,
@@ -7798,7 +7798,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 100009001,
@@ -7827,7 +7827,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100011001,
@@ -7856,7 +7856,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100012001,
@@ -7885,7 +7885,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100013001,
@@ -7914,7 +7914,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100014001,
@@ -7943,7 +7943,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100015001,
@@ -7972,7 +7972,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100016001,
@@ -8001,7 +8001,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100017001,
@@ -8030,7 +8030,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100018001,
@@ -8059,7 +8059,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100019001,
@@ -8088,7 +8088,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100020001,
@@ -8117,7 +8117,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100021001,
@@ -8146,7 +8146,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100022001,
@@ -8175,7 +8175,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100023001,
@@ -8204,7 +8204,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100024001,
@@ -8233,7 +8233,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100025001,
@@ -8262,7 +8262,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100026001,
@@ -8291,7 +8291,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100027001,
@@ -8320,7 +8320,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100028001,
@@ -8349,7 +8349,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100029001,
@@ -8378,7 +8378,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100030001,
@@ -8407,7 +8407,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100030002,
@@ -8436,7 +8436,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100031001,
@@ -8465,7 +8465,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100031002,
@@ -8494,7 +8494,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100032001,
@@ -8523,7 +8523,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100033001,
@@ -8552,7 +8552,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100034001,
@@ -8581,7 +8581,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100035001,
@@ -8610,7 +8610,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100036001,
@@ -8639,7 +8639,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100037001,
@@ -8668,7 +8668,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100038001,
@@ -8697,7 +8697,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100039001,
@@ -8726,7 +8726,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100040001,
@@ -8755,7 +8755,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100041001,
@@ -8784,7 +8784,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100042001,
@@ -8813,7 +8813,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100043001,
@@ -8842,7 +8842,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100044001,
@@ -8871,7 +8871,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100045001,
@@ -8900,7 +8900,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100046001,
@@ -8929,7 +8929,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100047001,
@@ -8958,7 +8958,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100048001,
@@ -8987,7 +8987,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100049001,
@@ -9016,7 +9016,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100050001,
@@ -9045,7 +9045,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100051001,
@@ -9074,7 +9074,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100052001,
@@ -9103,7 +9103,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100053001,
@@ -9132,7 +9132,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100054001,
@@ -9161,7 +9161,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100055001,
@@ -9190,7 +9190,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100056001,
@@ -9219,7 +9219,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100057001,
@@ -9248,7 +9248,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100058001,
@@ -9277,7 +9277,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100059001,
@@ -9306,7 +9306,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100060001,
@@ -9335,7 +9335,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100061001,
@@ -9364,7 +9364,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100062001,
@@ -9393,7 +9393,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100063001,
@@ -9422,7 +9422,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100064001,
@@ -9451,7 +9451,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100065001,
@@ -9480,7 +9480,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100066001,
@@ -9509,7 +9509,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100067001,
@@ -9538,7 +9538,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100068001,
@@ -9567,7 +9567,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100069001,
@@ -9596,7 +9596,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100070001,
@@ -9625,7 +9625,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100071001,
@@ -9654,7 +9654,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100072001,
@@ -9683,7 +9683,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100073001,
@@ -9712,7 +9712,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100074001,
@@ -9741,7 +9741,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100075001,
@@ -9770,7 +9770,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100076001,
@@ -9799,7 +9799,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 1
+        "is_additional": 1
     },
     {
         "sub_id": 100082001,
@@ -9828,7 +9828,7 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     },
     {
         "sub_id": 100083001,
@@ -9857,6 +9857,6 @@
         "spine_scale": "",
         "org_id": 0,
         "related_story_id": 0,
-        "unk_26": 0
+        "is_additional": 0
     }
 ]

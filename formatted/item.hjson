@@ -16580,30 +16580,27 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season20_1
-    item_name: item-10002691
-    introduction: item-20002691
+    item_name: 蛹態塌縮 · 代號拾捌：相變
+    introduction: 蛹態塌縮 · 代號拾捌：相變
     rank: 1
-    detail_introduction: item-30002691
   }
   {
     id: 2692
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season20_2
-    item_name: item-10002692
-    introduction: item-20002692
+    item_name: 蛻變波動 · 代號拾捌：相變
+    introduction: 蛻變波動 · 代號拾捌：相變
     rank: 1
-    detail_introduction: item-30002692
   }
   {
     id: 2693
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season20_3
-    item_name: item-10002693
-    introduction: item-20002693
+    item_name: 蝶流湧現 · 代號拾捌：相變
+    introduction: 蝶流湧現 · 代號拾捌：相變
     rank: 1
-    detail_introduction: item-30002693
   }
   {
     id: 3501
@@ -26878,11 +26875,10 @@
     type: 15
     arg: "1500246"
     code: Bumdle_SummerdayCoupons1
-    item_name: item-11500246
-    introduction: item-21500246
+    item_name: 珍藏裝扮券·夏日
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
-    detail_introduction: item-31500246
     type_sort: 1
   }
   {
@@ -26890,11 +26886,10 @@
     type: 15
     arg: "1500247"
     code: Bumdle_SummerdayCoupons1
-    item_name: item-11500247
-    introduction: item-21500247
+    item_name: 尊享裝扮券·夏日
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
     sort: -1
-    detail_introduction: item-31500247
     type_sort: 1
   }
   {
@@ -26902,11 +26897,10 @@
     type: 15
     arg: "1500248"
     code: Bumdle_SummerdayCoupons1
-    item_name: item-11500248
-    introduction: item-21500248
+    item_name: 致臻裝扮券·夏日
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內選擇獲得一件裝扮。
     rank: 1
     sort: -1
-    detail_introduction: item-31500248
     type_sort: 1
   }
   {

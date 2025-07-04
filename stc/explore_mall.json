@@ -11,9 +11,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 500,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 500,
+        "obtain": 0
     },
     {
         "id": 2,
@@ -27,9 +27,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 499,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 499,
+        "obtain": 0
     },
     {
         "id": 3,
@@ -43,9 +43,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 2,
-        "unk_12": 498,
-        "unk_13": 0
+        "type_id": 2,
+        "sort": 498,
+        "obtain": 0
     },
     {
         "id": 4,
@@ -59,9 +59,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 2,
-        "unk_12": 497,
-        "unk_13": 0
+        "type_id": 2,
+        "sort": 497,
+        "obtain": 0
     },
     {
         "id": 5,
@@ -75,9 +75,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 2,
-        "unk_12": 496,
-        "unk_13": 0
+        "type_id": 2,
+        "sort": 496,
+        "obtain": 0
     },
     {
         "id": 6,
@@ -91,9 +91,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 2,
-        "unk_12": 495,
-        "unk_13": 0
+        "type_id": 2,
+        "sort": 495,
+        "obtain": 0
     },
     {
         "id": 7,
@@ -107,9 +107,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 2,
-        "unk_12": 494,
-        "unk_13": 0
+        "type_id": 2,
+        "sort": 494,
+        "obtain": 0
     },
     {
         "id": 8,
@@ -123,9 +123,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 2,
-        "unk_12": 493,
-        "unk_13": 0
+        "type_id": 2,
+        "sort": 493,
+        "obtain": 0
     },
     {
         "id": 9,
@@ -139,9 +139,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "2,2,2024-10-10 10:04:00",
-        "unk_11": 2,
-        "unk_12": 492,
-        "unk_13": 0
+        "type_id": 2,
+        "sort": 492,
+        "obtain": 0
     },
     {
         "id": 10,
@@ -155,9 +155,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 491,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 491,
+        "obtain": 0
     },
     {
         "id": 11,
@@ -171,9 +171,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 490,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 490,
+        "obtain": 0
     },
     {
         "id": 12,
@@ -187,9 +187,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 489,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 489,
+        "obtain": 0
     },
     {
         "id": 13,
@@ -203,9 +203,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 488,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 488,
+        "obtain": 0
     },
     {
         "id": 14,
@@ -219,9 +219,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 487,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 487,
+        "obtain": 0
     },
     {
         "id": 15,
@@ -235,9 +235,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 486,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 486,
+        "obtain": 0
     },
     {
         "id": 16,
@@ -251,9 +251,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 485,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 485,
+        "obtain": 0
     },
     {
         "id": 17,
@@ -267,9 +267,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 484,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 484,
+        "obtain": 0
     },
     {
         "id": 18,
@@ -283,9 +283,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 483,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 483,
+        "obtain": 0
     },
     {
         "id": 19,
@@ -299,9 +299,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 482,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 482,
+        "obtain": 0
     },
     {
         "id": 20,
@@ -315,9 +315,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 481,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 481,
+        "obtain": 0
     },
     {
         "id": 21,
@@ -331,9 +331,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 480,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 480,
+        "obtain": 0
     },
     {
         "id": 22,
@@ -347,9 +347,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 479,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 479,
+        "obtain": 0
     },
     {
         "id": 23,
@@ -363,9 +363,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 478,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 478,
+        "obtain": 0
     },
     {
         "id": 24,
@@ -379,9 +379,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 477,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 477,
+        "obtain": 0
     },
     {
         "id": 25,
@@ -395,9 +395,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 476,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 476,
+        "obtain": 0
     },
     {
         "id": 26,
@@ -411,9 +411,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 475,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 475,
+        "obtain": 0
     },
     {
         "id": 27,
@@ -427,9 +427,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 474,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 474,
+        "obtain": 0
     },
     {
         "id": 28,
@@ -443,9 +443,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 473,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 473,
+        "obtain": 0
     },
     {
         "id": 29,
@@ -459,9 +459,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 472,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 472,
+        "obtain": 0
     },
     {
         "id": 30,
@@ -475,9 +475,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 471,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 471,
+        "obtain": 0
     },
     {
         "id": 31,
@@ -491,9 +491,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 470,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 470,
+        "obtain": 0
     },
     {
         "id": 32,
@@ -507,9 +507,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 469,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 469,
+        "obtain": 0
     },
     {
         "id": 33,
@@ -523,9 +523,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 468,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 468,
+        "obtain": 0
     },
     {
         "id": 34,
@@ -539,9 +539,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 467,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 467,
+        "obtain": 0
     },
     {
         "id": 35,
@@ -555,9 +555,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 466,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 466,
+        "obtain": 0
     },
     {
         "id": 36,
@@ -571,9 +571,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 465,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 465,
+        "obtain": 0
     },
     {
         "id": 37,
@@ -587,9 +587,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 464,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 464,
+        "obtain": 0
     },
     {
         "id": 38,
@@ -603,9 +603,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 463,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 463,
+        "obtain": 0
     },
     {
         "id": 39,
@@ -619,9 +619,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 462,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 462,
+        "obtain": 0
     },
     {
         "id": 40,
@@ -635,9 +635,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 461,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 461,
+        "obtain": 0
     },
     {
         "id": 41,
@@ -651,9 +651,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 460,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 460,
+        "obtain": 0
     },
     {
         "id": 42,
@@ -667,9 +667,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 459,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 459,
+        "obtain": 0
     },
     {
         "id": 43,
@@ -683,9 +683,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 458,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 458,
+        "obtain": 0
     },
     {
         "id": 44,
@@ -699,9 +699,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 457,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 457,
+        "obtain": 0
     },
     {
         "id": 45,
@@ -715,9 +715,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 456,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 456,
+        "obtain": 0
     },
     {
         "id": 46,
@@ -731,9 +731,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 455,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 455,
+        "obtain": 0
     },
     {
         "id": 47,
@@ -747,9 +747,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 454,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 454,
+        "obtain": 0
     },
     {
         "id": 48,
@@ -763,9 +763,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 453,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 453,
+        "obtain": 0
     },
     {
         "id": 49,
@@ -779,9 +779,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 452,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 452,
+        "obtain": 0
     },
     {
         "id": 50,
@@ -795,9 +795,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 451,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 451,
+        "obtain": 0
     },
     {
         "id": 51,
@@ -811,9 +811,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 450,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 450,
+        "obtain": 0
     },
     {
         "id": 52,
@@ -827,9 +827,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 449,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 449,
+        "obtain": 0
     },
     {
         "id": 53,
@@ -843,9 +843,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 448,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 448,
+        "obtain": 0
     },
     {
         "id": 54,
@@ -859,9 +859,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 447,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 447,
+        "obtain": 0
     },
     {
         "id": 55,
@@ -875,9 +875,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 446,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 446,
+        "obtain": 0
     },
     {
         "id": 56,
@@ -891,9 +891,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 445,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 445,
+        "obtain": 0
     },
     {
         "id": 57,
@@ -907,9 +907,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 444,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 444,
+        "obtain": 0
     },
     {
         "id": 58,
@@ -923,9 +923,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 443,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 443,
+        "obtain": 0
     },
     {
         "id": 59,
@@ -939,9 +939,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 442,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 442,
+        "obtain": 0
     },
     {
         "id": 60,
@@ -955,9 +955,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 441,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 441,
+        "obtain": 0
     },
     {
         "id": 61,
@@ -971,9 +971,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 440,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 440,
+        "obtain": 0
     },
     {
         "id": 62,
@@ -987,9 +987,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 439,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 439,
+        "obtain": 0
     },
     {
         "id": 63,
@@ -1003,9 +1003,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 438,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 438,
+        "obtain": 0
     },
     {
         "id": 64,
@@ -1019,9 +1019,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 437,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 437,
+        "obtain": 0
     },
     {
         "id": 65,
@@ -1035,9 +1035,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 436,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 436,
+        "obtain": 0
     },
     {
         "id": 66,
@@ -1051,9 +1051,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 435,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 435,
+        "obtain": 0
     },
     {
         "id": 67,
@@ -1067,9 +1067,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 434,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 434,
+        "obtain": 0
     },
     {
         "id": 68,
@@ -1083,9 +1083,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 433,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 433,
+        "obtain": 0
     },
     {
         "id": 69,
@@ -1099,9 +1099,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 432,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 432,
+        "obtain": 0
     },
     {
         "id": 70,
@@ -1115,9 +1115,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 431,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 431,
+        "obtain": 0
     },
     {
         "id": 71,
@@ -1131,9 +1131,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 430,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 430,
+        "obtain": 0
     },
     {
         "id": 72,
@@ -1147,9 +1147,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 429,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 429,
+        "obtain": 0
     },
     {
         "id": 73,
@@ -1163,9 +1163,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 428,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 428,
+        "obtain": 0
     },
     {
         "id": 74,
@@ -1179,9 +1179,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 427,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 427,
+        "obtain": 0
     },
     {
         "id": 75,
@@ -1195,9 +1195,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 426,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 426,
+        "obtain": 0
     },
     {
         "id": 76,
@@ -1211,9 +1211,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 425,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 425,
+        "obtain": 0
     },
     {
         "id": 77,
@@ -1227,9 +1227,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 424,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 424,
+        "obtain": 0
     },
     {
         "id": 78,
@@ -1243,9 +1243,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 423,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 423,
+        "obtain": 0
     },
     {
         "id": 79,
@@ -1259,9 +1259,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 422,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 422,
+        "obtain": 0
     },
     {
         "id": 80,
@@ -1275,9 +1275,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 421,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 421,
+        "obtain": 0
     },
     {
         "id": 81,
@@ -1291,9 +1291,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 420,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 420,
+        "obtain": 0
     },
     {
         "id": 82,
@@ -1307,9 +1307,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 419,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 419,
+        "obtain": 0
     },
     {
         "id": 83,
@@ -1323,9 +1323,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 418,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 418,
+        "obtain": 0
     },
     {
         "id": 84,
@@ -1339,9 +1339,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 417,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 417,
+        "obtain": 0
     },
     {
         "id": 85,
@@ -1355,9 +1355,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 416,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 416,
+        "obtain": 0
     },
     {
         "id": 86,
@@ -1371,9 +1371,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 415,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 415,
+        "obtain": 0
     },
     {
         "id": 87,
@@ -1387,9 +1387,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 414,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 414,
+        "obtain": 0
     },
     {
         "id": 88,
@@ -1403,9 +1403,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 413,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 413,
+        "obtain": 0
     },
     {
         "id": 89,
@@ -1419,9 +1419,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 412,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 412,
+        "obtain": 0
     },
     {
         "id": 90,
@@ -1435,9 +1435,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 411,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 411,
+        "obtain": 0
     },
     {
         "id": 91,
@@ -1451,9 +1451,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 410,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 410,
+        "obtain": 0
     },
     {
         "id": 92,
@@ -1467,9 +1467,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 409,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 409,
+        "obtain": 0
     },
     {
         "id": 93,
@@ -1483,9 +1483,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 408,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 408,
+        "obtain": 0
     },
     {
         "id": 94,
@@ -1499,9 +1499,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 407,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 407,
+        "obtain": 0
     },
     {
         "id": 95,
@@ -1515,9 +1515,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 406,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 406,
+        "obtain": 0
     },
     {
         "id": 96,
@@ -1531,9 +1531,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 405,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 405,
+        "obtain": 0
     },
     {
         "id": 97,
@@ -1547,9 +1547,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 404,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 404,
+        "obtain": 0
     },
     {
         "id": 98,
@@ -1563,9 +1563,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 403,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 403,
+        "obtain": 0
     },
     {
         "id": 99,
@@ -1579,9 +1579,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 402,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 402,
+        "obtain": 0
     },
     {
         "id": 100,
@@ -1595,9 +1595,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 401,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 401,
+        "obtain": 0
     },
     {
         "id": 101,
@@ -1611,9 +1611,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 400,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 400,
+        "obtain": 0
     },
     {
         "id": 102,
@@ -1627,9 +1627,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 399,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 399,
+        "obtain": 0
     },
     {
         "id": 103,
@@ -1643,9 +1643,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 398,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 398,
+        "obtain": 0
     },
     {
         "id": 104,
@@ -1659,9 +1659,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 397,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 397,
+        "obtain": 0
     },
     {
         "id": 105,
@@ -1675,9 +1675,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 396,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 396,
+        "obtain": 0
     },
     {
         "id": 106,
@@ -1691,9 +1691,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 395,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 395,
+        "obtain": 0
     },
     {
         "id": 107,
@@ -1707,9 +1707,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 394,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 394,
+        "obtain": 0
     },
     {
         "id": 108,
@@ -1723,9 +1723,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 393,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 393,
+        "obtain": 0
     },
     {
         "id": 109,
@@ -1739,9 +1739,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 392,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 392,
+        "obtain": 0
     },
     {
         "id": 110,
@@ -1755,9 +1755,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 391,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 391,
+        "obtain": 0
     },
     {
         "id": 111,
@@ -1771,9 +1771,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 390,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 390,
+        "obtain": 0
     },
     {
         "id": 112,
@@ -1787,9 +1787,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 389,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 389,
+        "obtain": 0
     },
     {
         "id": 113,
@@ -1803,9 +1803,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 388,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 388,
+        "obtain": 0
     },
     {
         "id": 114,
@@ -1819,9 +1819,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 387,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 387,
+        "obtain": 0
     },
     {
         "id": 115,
@@ -1835,9 +1835,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 386,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 386,
+        "obtain": 0
     },
     {
         "id": 116,
@@ -1851,9 +1851,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 385,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 385,
+        "obtain": 0
     },
     {
         "id": 117,
@@ -1867,9 +1867,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 384,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 384,
+        "obtain": 0
     },
     {
         "id": 118,
@@ -1883,9 +1883,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 383,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 383,
+        "obtain": 0
     },
     {
         "id": 119,
@@ -1899,9 +1899,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 382,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 382,
+        "obtain": 0
     },
     {
         "id": 120,
@@ -1915,9 +1915,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 381,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 381,
+        "obtain": 0
     },
     {
         "id": 121,
@@ -1931,9 +1931,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 380,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 380,
+        "obtain": 0
     },
     {
         "id": 122,
@@ -1947,9 +1947,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 379,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 379,
+        "obtain": 0
     },
     {
         "id": 123,
@@ -1963,9 +1963,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 378,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 378,
+        "obtain": 0
     },
     {
         "id": 124,
@@ -1979,9 +1979,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 377,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 377,
+        "obtain": 0
     },
     {
         "id": 125,
@@ -1995,9 +1995,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 376,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 376,
+        "obtain": 0
     },
     {
         "id": 126,
@@ -2011,9 +2011,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 375,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 375,
+        "obtain": 0
     },
     {
         "id": 127,
@@ -2027,9 +2027,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 374,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 374,
+        "obtain": 0
     },
     {
         "id": 128,
@@ -2043,9 +2043,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 373,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 373,
+        "obtain": 0
     },
     {
         "id": 129,
@@ -2059,9 +2059,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 372,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 372,
+        "obtain": 0
     },
     {
         "id": 130,
@@ -2075,9 +2075,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 371,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 371,
+        "obtain": 0
     },
     {
         "id": 131,
@@ -2091,9 +2091,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 370,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 370,
+        "obtain": 0
     },
     {
         "id": 132,
@@ -2107,9 +2107,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 369,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 369,
+        "obtain": 0
     },
     {
         "id": 133,
@@ -2123,9 +2123,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 368,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 368,
+        "obtain": 0
     },
     {
         "id": 134,
@@ -2139,9 +2139,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 367,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 367,
+        "obtain": 0
     },
     {
         "id": 135,
@@ -2155,9 +2155,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 366,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 366,
+        "obtain": 0
     },
     {
         "id": 136,
@@ -2171,9 +2171,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 365,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 365,
+        "obtain": 0
     },
     {
         "id": 137,
@@ -2187,9 +2187,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 364,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 364,
+        "obtain": 0
     },
     {
         "id": 138,
@@ -2203,9 +2203,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 363,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 363,
+        "obtain": 0
     },
     {
         "id": 139,
@@ -2219,9 +2219,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 362,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 362,
+        "obtain": 2
     },
     {
         "id": 140,
@@ -2235,9 +2235,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 361,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 361,
+        "obtain": 2
     },
     {
         "id": 141,
@@ -2251,9 +2251,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 360,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 360,
+        "obtain": 0
     },
     {
         "id": 142,
@@ -2267,9 +2267,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 359,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 359,
+        "obtain": 0
     },
     {
         "id": 143,
@@ -2283,9 +2283,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 358,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 358,
+        "obtain": 0
     },
     {
         "id": 144,
@@ -2299,9 +2299,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 357,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 357,
+        "obtain": 0
     },
     {
         "id": 145,
@@ -2315,9 +2315,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 356,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 356,
+        "obtain": 0
     },
     {
         "id": 146,
@@ -2331,9 +2331,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 355,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 355,
+        "obtain": 0
     },
     {
         "id": 147,
@@ -2347,9 +2347,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 354,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 354,
+        "obtain": 0
     },
     {
         "id": 148,
@@ -2363,9 +2363,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 353,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 353,
+        "obtain": 0
     },
     {
         "id": 149,
@@ -2379,9 +2379,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 352,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 352,
+        "obtain": 2
     },
     {
         "id": 150,
@@ -2395,9 +2395,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 351,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 351,
+        "obtain": 2
     },
     {
         "id": 151,
@@ -2411,9 +2411,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 350,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 350,
+        "obtain": 2
     },
     {
         "id": 153,
@@ -2427,9 +2427,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 349,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 349,
+        "obtain": 0
     },
     {
         "id": 154,
@@ -2443,9 +2443,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 348,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 348,
+        "obtain": 2
     },
     {
         "id": 155,
@@ -2459,9 +2459,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 347,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 347,
+        "obtain": 0
     },
     {
         "id": 156,
@@ -2475,9 +2475,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 346,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 346,
+        "obtain": 0
     },
     {
         "id": 157,
@@ -2491,9 +2491,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 345,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 345,
+        "obtain": 0
     },
     {
         "id": 158,
@@ -2507,9 +2507,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 344,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 344,
+        "obtain": 0
     },
     {
         "id": 159,
@@ -2523,9 +2523,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 343,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 343,
+        "obtain": 0
     },
     {
         "id": 160,
@@ -2539,9 +2539,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 342,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 342,
+        "obtain": 0
     },
     {
         "id": 161,
@@ -2555,9 +2555,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 341,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 341,
+        "obtain": 0
     },
     {
         "id": 162,
@@ -2571,9 +2571,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 340,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 340,
+        "obtain": 0
     },
     {
         "id": 163,
@@ -2587,9 +2587,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 339,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 339,
+        "obtain": 2
     },
     {
         "id": 164,
@@ -2603,9 +2603,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 338,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 338,
+        "obtain": 0
     },
     {
         "id": 165,
@@ -2619,9 +2619,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 337,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 337,
+        "obtain": 0
     },
     {
         "id": 166,
@@ -2635,9 +2635,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 336,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 336,
+        "obtain": 0
     },
     {
         "id": 167,
@@ -2651,9 +2651,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 335,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 335,
+        "obtain": 0
     },
     {
         "id": 168,
@@ -2667,9 +2667,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 334,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 334,
+        "obtain": 0
     },
     {
         "id": 169,
@@ -2683,9 +2683,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 333,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 333,
+        "obtain": 0
     },
     {
         "id": 170,
@@ -2699,9 +2699,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 332,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 332,
+        "obtain": 0
     },
     {
         "id": 171,
@@ -2715,9 +2715,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 331,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 331,
+        "obtain": 0
     },
     {
         "id": 172,
@@ -2731,9 +2731,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 330,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 330,
+        "obtain": 0
     },
     {
         "id": 173,
@@ -2747,9 +2747,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 329,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 329,
+        "obtain": 0
     },
     {
         "id": 174,
@@ -2763,9 +2763,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 328,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 328,
+        "obtain": 0
     },
     {
         "id": 175,
@@ -2779,9 +2779,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 327,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 327,
+        "obtain": 0
     },
     {
         "id": 176,
@@ -2795,9 +2795,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 326,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 326,
+        "obtain": 0
     },
     {
         "id": 177,
@@ -2811,9 +2811,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 325,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 325,
+        "obtain": 0
     },
     {
         "id": 178,
@@ -2827,9 +2827,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 324,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 324,
+        "obtain": 0
     },
     {
         "id": 179,
@@ -2843,9 +2843,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 323,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 323,
+        "obtain": 0
     },
     {
         "id": 180,
@@ -2859,9 +2859,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 322,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 322,
+        "obtain": 0
     },
     {
         "id": 181,
@@ -2875,9 +2875,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 321,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 321,
+        "obtain": 0
     },
     {
         "id": 182,
@@ -2891,9 +2891,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 320,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 320,
+        "obtain": 0
     },
     {
         "id": 183,
@@ -2907,9 +2907,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 319,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 319,
+        "obtain": 0
     },
     {
         "id": 184,
@@ -2923,9 +2923,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 318,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 318,
+        "obtain": 0
     },
     {
         "id": 185,
@@ -2939,9 +2939,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 317,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 317,
+        "obtain": 0
     },
     {
         "id": 186,
@@ -2955,9 +2955,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 316,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 316,
+        "obtain": 0
     },
     {
         "id": 187,
@@ -2971,9 +2971,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 315,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 315,
+        "obtain": 0
     },
     {
         "id": 188,
@@ -2987,9 +2987,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 314,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 314,
+        "obtain": 0
     },
     {
         "id": 189,
@@ -3003,9 +3003,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 313,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 313,
+        "obtain": 0
     },
     {
         "id": 190,
@@ -3019,9 +3019,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 312,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 312,
+        "obtain": 0
     },
     {
         "id": 191,
@@ -3035,9 +3035,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 311,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 311,
+        "obtain": 0
     },
     {
         "id": 192,
@@ -3051,9 +3051,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 310,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 310,
+        "obtain": 0
     },
     {
         "id": 193,
@@ -3067,9 +3067,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 309,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 309,
+        "obtain": 0
     },
     {
         "id": 194,
@@ -3083,9 +3083,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 308,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 308,
+        "obtain": 0
     },
     {
         "id": 195,
@@ -3099,9 +3099,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 307,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 307,
+        "obtain": 0
     },
     {
         "id": 196,
@@ -3115,9 +3115,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 306,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 306,
+        "obtain": 0
     },
     {
         "id": 197,
@@ -3131,9 +3131,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 305,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 305,
+        "obtain": 0
     },
     {
         "id": 198,
@@ -3147,9 +3147,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 304,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 304,
+        "obtain": 0
     },
     {
         "id": 199,
@@ -3163,9 +3163,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 303,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 303,
+        "obtain": 0
     },
     {
         "id": 200,
@@ -3179,9 +3179,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 302,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 302,
+        "obtain": 0
     },
     {
         "id": 201,
@@ -3195,9 +3195,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 301,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 301,
+        "obtain": 0
     },
     {
         "id": 202,
@@ -3211,9 +3211,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 300,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 300,
+        "obtain": 0
     },
     {
         "id": 203,
@@ -3227,9 +3227,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 299,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 299,
+        "obtain": 0
     },
     {
         "id": 204,
@@ -3243,9 +3243,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 298,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 298,
+        "obtain": 0
     },
     {
         "id": 205,
@@ -3259,9 +3259,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 297,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 297,
+        "obtain": 0
     },
     {
         "id": 206,
@@ -3275,9 +3275,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 296,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 296,
+        "obtain": 0
     },
     {
         "id": 207,
@@ -3291,9 +3291,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 295,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 295,
+        "obtain": 0
     },
     {
         "id": 208,
@@ -3307,9 +3307,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 294,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 294,
+        "obtain": 0
     },
     {
         "id": 209,
@@ -3323,9 +3323,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 293,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 293,
+        "obtain": 0
     },
     {
         "id": 210,
@@ -3339,9 +3339,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 292,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 292,
+        "obtain": 0
     },
     {
         "id": 211,
@@ -3355,9 +3355,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 291,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 291,
+        "obtain": 0
     },
     {
         "id": 212,
@@ -3371,9 +3371,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 290,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 290,
+        "obtain": 0
     },
     {
         "id": 213,
@@ -3387,9 +3387,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 289,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 289,
+        "obtain": 0
     },
     {
         "id": 214,
@@ -3403,9 +3403,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 288,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 288,
+        "obtain": 0
     },
     {
         "id": 215,
@@ -3419,9 +3419,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 287,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 287,
+        "obtain": 0
     },
     {
         "id": 216,
@@ -3435,9 +3435,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 286,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 286,
+        "obtain": 0
     },
     {
         "id": 217,
@@ -3451,9 +3451,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 285,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 285,
+        "obtain": 0
     },
     {
         "id": 218,
@@ -3467,9 +3467,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 284,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 284,
+        "obtain": 0
     },
     {
         "id": 219,
@@ -3483,9 +3483,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 283,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 283,
+        "obtain": 0
     },
     {
         "id": 220,
@@ -3499,9 +3499,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 282,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 282,
+        "obtain": 0
     },
     {
         "id": 221,
@@ -3515,9 +3515,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 281,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 281,
+        "obtain": 0
     },
     {
         "id": 222,
@@ -3531,9 +3531,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 280,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 280,
+        "obtain": 0
     },
     {
         "id": 223,
@@ -3547,9 +3547,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 279,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 279,
+        "obtain": 0
     },
     {
         "id": 224,
@@ -3563,9 +3563,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 278,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 278,
+        "obtain": 0
     },
     {
         "id": 225,
@@ -3579,9 +3579,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 277,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 277,
+        "obtain": 0
     },
     {
         "id": 226,
@@ -3595,9 +3595,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 276,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 276,
+        "obtain": 0
     },
     {
         "id": 227,
@@ -3611,9 +3611,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 275,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 275,
+        "obtain": 0
     },
     {
         "id": 228,
@@ -3627,9 +3627,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 274,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 274,
+        "obtain": 0
     },
     {
         "id": 229,
@@ -3643,9 +3643,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 273,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 273,
+        "obtain": 0
     },
     {
         "id": 230,
@@ -3659,9 +3659,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 272,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 272,
+        "obtain": 0
     },
     {
         "id": 231,
@@ -3675,9 +3675,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 271,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 271,
+        "obtain": 0
     },
     {
         "id": 232,
@@ -3691,9 +3691,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 270,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 270,
+        "obtain": 0
     },
     {
         "id": 233,
@@ -3707,9 +3707,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 269,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 269,
+        "obtain": 0
     },
     {
         "id": 234,
@@ -3723,9 +3723,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 268,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 268,
+        "obtain": 0
     },
     {
         "id": 235,
@@ -3739,9 +3739,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 267,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 267,
+        "obtain": 0
     },
     {
         "id": 236,
@@ -3755,9 +3755,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 266,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 266,
+        "obtain": 0
     },
     {
         "id": 237,
@@ -3771,9 +3771,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 265,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 265,
+        "obtain": 0
     },
     {
         "id": 238,
@@ -3787,9 +3787,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 264,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 264,
+        "obtain": 2
     },
     {
         "id": 239,
@@ -3803,9 +3803,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 263,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 263,
+        "obtain": 0
     },
     {
         "id": 240,
@@ -3819,9 +3819,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 262,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 262,
+        "obtain": 0
     },
     {
         "id": 241,
@@ -3835,9 +3835,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 261,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 261,
+        "obtain": 0
     },
     {
         "id": 242,
@@ -3851,9 +3851,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 260,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 260,
+        "obtain": 0
     },
     {
         "id": 243,
@@ -3867,9 +3867,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 259,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 259,
+        "obtain": 0
     },
     {
         "id": 244,
@@ -3883,9 +3883,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 258,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 258,
+        "obtain": 0
     },
     {
         "id": 245,
@@ -3899,9 +3899,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 257,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 257,
+        "obtain": 0
     },
     {
         "id": 246,
@@ -3915,9 +3915,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 256,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 256,
+        "obtain": 0
     },
     {
         "id": 247,
@@ -3931,9 +3931,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 255,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 255,
+        "obtain": 0
     },
     {
         "id": 248,
@@ -3947,9 +3947,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 254,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 254,
+        "obtain": 0
     },
     {
         "id": 249,
@@ -3963,9 +3963,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 253,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 253,
+        "obtain": 0
     },
     {
         "id": 250,
@@ -3979,9 +3979,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 252,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 252,
+        "obtain": 0
     },
     {
         "id": 251,
@@ -3995,9 +3995,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 251,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 251,
+        "obtain": 0
     },
     {
         "id": 252,
@@ -4011,9 +4011,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 250,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 250,
+        "obtain": 0
     },
     {
         "id": 253,
@@ -4027,9 +4027,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 249,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 249,
+        "obtain": 0
     },
     {
         "id": 254,
@@ -4043,9 +4043,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 248,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 248,
+        "obtain": 0
     },
     {
         "id": 255,
@@ -4059,9 +4059,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 247,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 247,
+        "obtain": 0
     },
     {
         "id": 256,
@@ -4075,9 +4075,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 246,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 246,
+        "obtain": 0
     },
     {
         "id": 257,
@@ -4091,9 +4091,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 3,
-        "unk_12": 245,
-        "unk_13": 0
+        "type_id": 3,
+        "sort": 245,
+        "obtain": 0
     },
     {
         "id": 258,
@@ -4107,9 +4107,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 244,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 244,
+        "obtain": 0
     },
     {
         "id": 259,
@@ -4123,9 +4123,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 243,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 243,
+        "obtain": 0
     },
     {
         "id": 260,
@@ -4139,9 +4139,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 4,
-        "unk_12": 242,
-        "unk_13": 0
+        "type_id": 4,
+        "sort": 242,
+        "obtain": 0
     },
     {
         "id": 261,
@@ -4155,9 +4155,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 241,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 241,
+        "obtain": 2
     },
     {
         "id": 262,
@@ -4171,9 +4171,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 240,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 240,
+        "obtain": 0
     },
     {
         "id": 263,
@@ -4187,9 +4187,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 239,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 239,
+        "obtain": 0
     },
     {
         "id": 264,
@@ -4203,9 +4203,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 238,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 238,
+        "obtain": 0
     },
     {
         "id": 265,
@@ -4219,9 +4219,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 237,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 237,
+        "obtain": 0
     },
     {
         "id": 266,
@@ -4235,9 +4235,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 236,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 236,
+        "obtain": 0
     },
     {
         "id": 267,
@@ -4251,9 +4251,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 235,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 235,
+        "obtain": 0
     },
     {
         "id": 268,
@@ -4267,9 +4267,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 234,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 234,
+        "obtain": 0
     },
     {
         "id": 269,
@@ -4283,9 +4283,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 233,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 233,
+        "obtain": 0
     },
     {
         "id": 270,
@@ -4299,9 +4299,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 232,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 232,
+        "obtain": 2
     },
     {
         "id": 271,
@@ -4315,9 +4315,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 231,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 231,
+        "obtain": 0
     },
     {
         "id": 272,
@@ -4331,9 +4331,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 230,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 230,
+        "obtain": 0
     },
     {
         "id": 273,
@@ -4347,9 +4347,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 229,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 229,
+        "obtain": 0
     },
     {
         "id": 274,
@@ -4363,9 +4363,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 228,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 228,
+        "obtain": 0
     },
     {
         "id": 275,
@@ -4379,9 +4379,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 227,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 227,
+        "obtain": 0
     },
     {
         "id": 276,
@@ -4395,9 +4395,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 226,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 226,
+        "obtain": 0
     },
     {
         "id": 277,
@@ -4411,9 +4411,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 225,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 225,
+        "obtain": 0
     },
     {
         "id": 278,
@@ -4427,9 +4427,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 224,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 224,
+        "obtain": 0
     },
     {
         "id": 279,
@@ -4443,9 +4443,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 223,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 223,
+        "obtain": 0
     },
     {
         "id": 280,
@@ -4459,9 +4459,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 222,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 222,
+        "obtain": 0
     },
     {
         "id": 281,
@@ -4475,9 +4475,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 221,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 221,
+        "obtain": 0
     },
     {
         "id": 282,
@@ -4491,9 +4491,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 220,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 220,
+        "obtain": 0
     },
     {
         "id": 283,
@@ -4507,9 +4507,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 219,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 219,
+        "obtain": 0
     },
     {
         "id": 284,
@@ -4523,9 +4523,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 218,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 218,
+        "obtain": 0
     },
     {
         "id": 285,
@@ -4539,9 +4539,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 217,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 217,
+        "obtain": 0
     },
     {
         "id": 286,
@@ -4555,9 +4555,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 216,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 216,
+        "obtain": 0
     },
     {
         "id": 287,
@@ -4571,9 +4571,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 215,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 215,
+        "obtain": 0
     },
     {
         "id": 288,
@@ -4587,9 +4587,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 214,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 214,
+        "obtain": 0
     },
     {
         "id": 289,
@@ -4603,9 +4603,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 213,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 213,
+        "obtain": 0
     },
     {
         "id": 290,
@@ -4619,9 +4619,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 212,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 212,
+        "obtain": 0
     },
     {
         "id": 291,
@@ -4635,9 +4635,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 211,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 211,
+        "obtain": 0
     },
     {
         "id": 292,
@@ -4651,9 +4651,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 210,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 210,
+        "obtain": 0
     },
     {
         "id": 293,
@@ -4667,9 +4667,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 209,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 209,
+        "obtain": 0
     },
     {
         "id": 294,
@@ -4683,9 +4683,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 208,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 208,
+        "obtain": 0
     },
     {
         "id": 295,
@@ -4699,9 +4699,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 207,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 207,
+        "obtain": 0
     },
     {
         "id": 296,
@@ -4715,9 +4715,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 206,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 206,
+        "obtain": 2
     },
     {
         "id": 297,
@@ -4731,9 +4731,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 205,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 205,
+        "obtain": 2
     },
     {
         "id": 298,
@@ -4747,9 +4747,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 204,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 204,
+        "obtain": 2
     },
     {
         "id": 299,
@@ -4763,9 +4763,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 203,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 203,
+        "obtain": 2
     },
     {
         "id": 300,
@@ -4779,9 +4779,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 202,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 202,
+        "obtain": 2
     },
     {
         "id": 301,
@@ -4795,9 +4795,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 201,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 201,
+        "obtain": 2
     },
     {
         "id": 302,
@@ -4811,9 +4811,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 200,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 200,
+        "obtain": 2
     },
     {
         "id": 303,
@@ -4827,9 +4827,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 199,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 199,
+        "obtain": 2
     },
     {
         "id": 304,
@@ -4843,9 +4843,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 198,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 198,
+        "obtain": 2
     },
     {
         "id": 305,
@@ -4859,9 +4859,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 197,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 197,
+        "obtain": 2
     },
     {
         "id": 306,
@@ -4875,9 +4875,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 196,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 196,
+        "obtain": 2
     },
     {
         "id": 307,
@@ -4891,9 +4891,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 195,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 195,
+        "obtain": 2
     },
     {
         "id": 308,
@@ -4907,9 +4907,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 194,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 194,
+        "obtain": 2
     },
     {
         "id": 309,
@@ -4923,9 +4923,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 193,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 193,
+        "obtain": 2
     },
     {
         "id": 310,
@@ -4939,9 +4939,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 192,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 192,
+        "obtain": 2
     },
     {
         "id": 311,
@@ -4955,9 +4955,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 191,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 191,
+        "obtain": 2
     },
     {
         "id": 312,
@@ -4971,9 +4971,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 190,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 190,
+        "obtain": 2
     },
     {
         "id": 313,
@@ -4987,9 +4987,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 189,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 189,
+        "obtain": 2
     },
     {
         "id": 314,
@@ -5003,9 +5003,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 188,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 188,
+        "obtain": 2
     },
     {
         "id": 315,
@@ -5019,9 +5019,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 187,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 187,
+        "obtain": 2
     },
     {
         "id": 316,
@@ -5035,9 +5035,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 186,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 186,
+        "obtain": 2
     },
     {
         "id": 317,
@@ -5051,9 +5051,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 185,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 185,
+        "obtain": 2
     },
     {
         "id": 318,
@@ -5067,9 +5067,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 184,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 184,
+        "obtain": 2
     },
     {
         "id": 319,
@@ -5083,9 +5083,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 183,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 183,
+        "obtain": 2
     },
     {
         "id": 320,
@@ -5099,9 +5099,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 182,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 182,
+        "obtain": 2
     },
     {
         "id": 321,
@@ -5115,9 +5115,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 181,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 181,
+        "obtain": 2
     },
     {
         "id": 322,
@@ -5131,9 +5131,9 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 5,
-        "unk_12": 180,
-        "unk_13": 2
+        "type_id": 5,
+        "sort": 180,
+        "obtain": 2
     },
     {
         "id": 323,
@@ -5147,9 +5147,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 179,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 179,
+        "obtain": 0
     },
     {
         "id": 324,
@@ -5163,9 +5163,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 178,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 178,
+        "obtain": 0
     },
     {
         "id": 325,
@@ -5179,9 +5179,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 177,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 177,
+        "obtain": 0
     },
     {
         "id": 326,
@@ -5195,9 +5195,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 176,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 176,
+        "obtain": 0
     },
     {
         "id": 327,
@@ -5211,9 +5211,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 175,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 175,
+        "obtain": 0
     },
     {
         "id": 328,
@@ -5227,9 +5227,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 174,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 174,
+        "obtain": 0
     },
     {
         "id": 329,
@@ -5243,9 +5243,9 @@
         "end_time": "",
         "is_new": 0,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 173,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 173,
+        "obtain": 0
     },
     {
         "id": 330,
@@ -5259,8 +5259,8 @@
         "end_time": "",
         "is_new": 1,
         "increase": "",
-        "unk_11": 1,
-        "unk_12": 172,
-        "unk_13": 0
+        "type_id": 1,
+        "sort": 172,
+        "obtain": 0
     }
 ]

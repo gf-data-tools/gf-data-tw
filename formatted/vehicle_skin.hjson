@@ -1453,122 +1453,122 @@
   }
   {
     id: 11401
-    name: vehicle_skin-10011401
+    name: 通用型-沙漠黃
     type: 2
     group_id: 144
     class_id: 1
     code: ShotgunVehicle_1001
     item_id: 133136
     obtain: "3003"
-    introduction: vehicle_skin-20011401
+    introduction: 應對近距離集群的霰彈武器，塗裝了和圖紙配套的沙漠黃風格。
     is_show: 1
   }
   {
     id: 11402
-    name: vehicle_skin-10011402
+    name: 通用型-沙漠黃
     type: 2
     group_id: 145
     class_id: 1
     code: MortarVehicle_1001
     item_id: 133137
     obtain: "3003"
-    introduction: vehicle_skin-20011402
+    introduction: 可進行小範圍區域轟炸的迫擊炮，塗裝了和圖紙配套的沙漠黃風格。
     is_show: 1
   }
   {
     id: 11403
-    name: vehicle_skin-10011403
+    name: 通用型-沙漠黃
     type: 2
     group_id: 146
     class_id: 1
     code: LaserRangefinder_1001
     item_id: 133138
     obtain: "3003"
-    introduction: vehicle_skin-20011403
+    introduction: 提升遠程攻擊精度的支援設備，塗裝了和圖紙配套的沙漠黃風格。
     is_show: 1
   }
   {
     id: 11404
-    name: vehicle_skin-10011404
+    name: 通用型-沙漠黃
     type: 2
     group_id: 147
     class_id: 1
     code: CamouflageNet_1001
     item_id: 133139
     obtain: "3003"
-    introduction: vehicle_skin-20011404
+    introduction: 有效在戰場上隱藏行蹤的偽裝組件，塗裝了和圖紙配套的沙漠黃風格。
     is_show: 1
   }
   {
     id: 11405
-    name: vehicle_skin-10011405
+    name: 通用型-沙漠黃
     type: 2
     group_id: 148
     class_id: 1
     code: GrilleArmor_1001
     item_id: 133140
     obtain: "3003"
-    introduction: vehicle_skin-20011405
+    introduction: 應對戰場新形勢的多功能防護裝甲，塗裝了和圖紙配套的沙漠黃風格。
     is_show: 1
   }
   {
     id: 11406
-    name: vehicle_skin-10011406
+    name: 通用型-城市迷彩
     type: 2
     group_id: 144
     class_id: 2
     code: ShotgunVehicle_1002
     item_id: 133141
     obtain: "3003"
-    introduction: vehicle_skin-20011406
+    introduction: 應對近距離集群的霰彈武器，塗裝了和圖紙配套的城市迷彩。
     is_show: 1
   }
   {
     id: 11407
-    name: vehicle_skin-10011407
+    name: 通用型-城市迷彩
     type: 2
     group_id: 145
     class_id: 2
     code: MortarVehicle_1002
     item_id: 133142
     obtain: "3003"
-    introduction: vehicle_skin-20011407
+    introduction: 可進行小範圍區域轟炸的迫擊炮，塗裝了和圖紙配套的城市迷彩。
     is_show: 1
   }
   {
     id: 11408
-    name: vehicle_skin-10011408
+    name: 通用型-城市迷彩
     type: 2
     group_id: 146
     class_id: 2
     code: LaserRangefinder_1002
     item_id: 133143
     obtain: "3003"
-    introduction: vehicle_skin-20011408
+    introduction: 提升遠程攻擊精度的支援設備，塗裝了和圖紙配套的城市迷彩。
     is_show: 1
   }
   {
     id: 11409
-    name: vehicle_skin-10011409
+    name: 通用型-城市迷彩
     type: 2
     group_id: 147
     class_id: 2
     code: CamouflageNet_1002
     item_id: 133144
     obtain: "3003"
-    introduction: vehicle_skin-20011409
+    introduction: 有效在戰場上隱藏行蹤的偽裝組件，塗裝了和圖紙配套的城市迷彩。
     is_show: 1
   }
   {
     id: 11410
-    name: vehicle_skin-10011410
+    name: 通用型-城市迷彩
     type: 2
     group_id: 148
     class_id: 2
     code: GrilleArmor_1002
     item_id: 133145
     obtain: "3003"
-    introduction: vehicle_skin-20011410
+    introduction: 應對戰場新形勢的多功能防護裝甲，塗裝了和圖紙配套的城市迷彩。
     is_show: 1
   }
 ]

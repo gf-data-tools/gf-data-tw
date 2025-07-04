@@ -57892,7 +57892,7 @@
     sub: 1
     if_emergency: -1
     special_type: 9
-    name: mission-10011883
+    name: 托卡列夫的回憶Ⅰ
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -57907,12 +57907,8 @@
     fog_color: "#000000FF"
     drop_mission_key: "0,0,1188300:1"
     mission_group_id: 40
-    mission_describe: mission-20011883
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011883
-    mission_tip: mission-40011883
-    guide_cdn: mission-50011883
   }
   {
     id: 11884
@@ -57920,7 +57916,7 @@
     campaign: -75
     sub: 2
     if_emergency: -1
-    name: mission-10011884
+    name: 逃出生天
     difficulty: 3500
     recommend_gun_level: 35
     exp_parameter: 28
@@ -57938,14 +57934,10 @@
     drop_mission_key: "0,0,1188400:1"
     mission_group_id: 40
     open_mission_keys: 1190100:1
-    mission_describe: mission-20011884
     round_config: 1:1,2:36,3:3
     win_type: "1188401"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011884
-    mission_tip: mission-40011884
     lose_type: "1188402"
-    guide_cdn: mission-50011884
   }
   {
     id: 11885
@@ -57953,7 +57945,7 @@
     campaign: -75
     sub: 3
     if_emergency: -1
-    name: mission-10011885
+    name: 全網公敵
     difficulty: 3500
     recommend_gun_level: 35
     exp_parameter: 28
@@ -57974,14 +57966,10 @@
     drop_mission_key: "0,0,1188500:1"
     mission_group_id: 40
     open_mission_keys: 1190300:1
-    mission_describe: mission-20011885
     round_config: 1:1,2:29,3:3
     mapped_mission_id: 75001
     medal_type_silver: "1188502"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011885
-    mission_tip: mission-40011885
-    guide_cdn: mission-50011885
   }
   {
     id: 11886
@@ -57989,7 +57977,7 @@
     campaign: -75
     sub: 4
     if_emergency: -1
-    name: mission-10011886
+    name: 秘密潛入
     difficulty: 5500
     recommend_gun_level: 55
     exp_parameter: 33
@@ -58007,14 +57995,10 @@
     drop_mission_key: "0,0,1188600:1"
     mission_group_id: 40
     open_mission_keys: 1190600:1
-    mission_describe: mission-20011886
     round_config: 1:1,2:36,3:3
     win_type: "1188601"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011886
-    mission_tip: mission-40011886
     lose_type: "1188402"
-    guide_cdn: mission-50011886
   }
   {
     id: 11887
@@ -58022,7 +58006,7 @@
     campaign: -75
     sub: 5
     if_emergency: -1
-    name: mission-10011887
+    name: 零零五
     difficulty: 5500
     recommend_gun_level: 55
     exp_parameter: 33
@@ -58043,15 +58027,11 @@
     drop_mission_key: "0,0,1188700:1"
     mission_group_id: 40
     open_mission_keys: 1190900:1
-    mission_describe: mission-20011887
     round_config: 1:1,2:36,3:3
     mapped_mission_id: 75002
     win_type: "1188701"
     medal_type_silver: "1188702"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011887
-    mission_tip: mission-40011887
-    guide_cdn: mission-50011887
   }
   {
     id: 11888
@@ -58059,7 +58039,7 @@
     campaign: -75
     sub: 6
     if_emergency: -1
-    name: mission-10011888
+    name: 看門狗
     difficulty: 7000
     recommend_gun_level: 65
     exp_parameter: 36
@@ -58077,14 +58057,10 @@
     drop_mission_key: "0,0,1188800:1"
     mission_group_id: 40
     open_mission_keys: 1191200:1
-    mission_describe: mission-20011888
     round_config: 1:1,2:36,3:3
     win_type: "1188801"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011888
-    mission_tip: mission-40011888
     lose_type: "1188402"
-    guide_cdn: mission-50011888
   }
   {
     id: 11889
@@ -58092,7 +58068,7 @@
     campaign: -75
     sub: 7
     if_emergency: -1
-    name: mission-10011889
+    name: 殺出重圍
     difficulty: 7000
     recommend_gun_level: 65
     exp_parameter: 36
@@ -58112,14 +58088,10 @@
     drop_mission_key: "0,0,1188900:1"
     mission_group_id: 40
     open_mission_keys: 1191300:1
-    mission_describe: mission-20011889
     round_config: 1:1,2:29,3:3
     mapped_mission_id: 75003
     win_type: "1188601"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011889
-    mission_tip: mission-40011889
-    guide_cdn: mission-50011889
   }
   {
     id: 11890
@@ -58127,7 +58099,7 @@
     campaign: -75
     sub: 8
     if_emergency: -1
-    name: mission-10011890
+    name: 羞辱
     difficulty: 10000
     recommend_gun_level: 75
     exp_parameter: 40
@@ -58147,14 +58119,10 @@
     drop_mission_key: "0,0,1189000:1"
     mission_group_id: 40
     open_mission_keys: 1191400:1
-    mission_describe: mission-20011890
     round_config: 1:1,2:29,3:3
     mapped_mission_id: 75004
     win_type: "1188601"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011890
-    mission_tip: mission-40011890
-    guide_cdn: mission-50011890
   }
   {
     id: 11891
@@ -58162,7 +58130,7 @@
     campaign: -75
     sub: 9
     if_emergency: -1
-    name: mission-10011891
+    name: 全網公敵-EX
     difficulty: 14000
     recommend_gun_level: 87
     exp_parameter: 44
@@ -58183,14 +58151,10 @@
     drop_mission_key: "0,0,1188500:1"
     mission_group_id: 40
     open_mission_keys: 1190300:1
-    mission_describe: mission-20011891
     round_config: 1:1,2:29,3:3
     mapped_mission_id: 75001
     medal_type_silver: "1188502"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011891
-    mission_tip: mission-40011891
-    guide_cdn: mission-50011891
   }
   {
     id: 11892
@@ -58198,7 +58162,7 @@
     campaign: -75
     sub: 10
     if_emergency: -1
-    name: mission-10011892
+    name: 零零五-EX
     difficulty: 20000
     recommend_gun_level: 100
     exp_parameter: 48
@@ -58219,15 +58183,11 @@
     drop_mission_key: "0,0,1188700:1"
     mission_group_id: 40
     open_mission_keys: 1190900:1
-    mission_describe: mission-20011892
     round_config: 1:1,2:36,3:3
     mapped_mission_id: 75002
     win_type: "1188701"
     medal_type_silver: "1188702"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011892
-    mission_tip: mission-40011892
-    guide_cdn: mission-50011892
   }
   {
     id: 11893
@@ -58235,7 +58195,7 @@
     campaign: -75
     sub: 11
     if_emergency: -1
-    name: mission-10011893
+    name: 殺出重圍-EX
     difficulty: 22000
     recommend_gun_level: 105
     exp_parameter: 49
@@ -58255,14 +58215,10 @@
     drop_mission_key: "0,0,1188900:1"
     mission_group_id: 40
     open_mission_keys: 1191300:1
-    mission_describe: mission-20011893
     round_config: 1:1,2:29,3:3
     mapped_mission_id: 75003
     win_type: "1188601"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011893
-    mission_tip: mission-40011893
-    guide_cdn: mission-50011893
   }
   {
     id: 11894
@@ -58270,7 +58226,7 @@
     campaign: -75
     sub: 12
     if_emergency: -1
-    name: mission-10011894
+    name: 羞辱-EX
     difficulty: 26000
     recommend_gun_level: 110
     exp_parameter: 51
@@ -58290,14 +58246,10 @@
     drop_mission_key: "0,0,1189000:1"
     mission_group_id: 40
     open_mission_keys: 1191400:1
-    mission_describe: mission-20011894
     round_config: 1:1,2:29,3:3
     mapped_mission_id: 75004
     win_type: "1188601"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011894
-    mission_tip: mission-40011894
-    guide_cdn: mission-50011894
   }
   {
     id: 11895
@@ -58305,7 +58257,7 @@
     campaign: -75
     sub: 13
     if_emergency: -1
-    name: mission-10011895
+    name: 全網公敵-UX
     difficulty: 28000
     recommend_gun_level: 115
     exp_parameter: 52
@@ -58325,14 +58277,10 @@
     drop_mission_key: "0,0,1188500:1"
     mission_group_id: 40
     open_mission_keys: 1190300:1
-    mission_describe: mission-20011895
     round_config: 1:1,2:29,3:3
     mapped_mission_id: 75001
     medal_type_silver: "1189502"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011895
-    mission_tip: mission-40011895
-    guide_cdn: mission-50011895
   }
   {
     id: 11896
@@ -58340,7 +58288,7 @@
     campaign: -75
     sub: 14
     if_emergency: -1
-    name: mission-10011896
+    name: 零零五-UX
     difficulty: 30000
     recommend_gun_level: 120
     exp_parameter: 53
@@ -58361,15 +58309,11 @@
     drop_mission_key: "0,0,1188700:1"
     mission_group_id: 40
     open_mission_keys: 1190900:1
-    mission_describe: mission-20011896
     round_config: 1:1,2:36,3:3
     mapped_mission_id: 75002
     win_type: "1188701"
     medal_type_silver: "1189602"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011896
-    mission_tip: mission-40011896
-    guide_cdn: mission-50011896
   }
   {
     id: 11897
@@ -58377,7 +58321,7 @@
     campaign: -75
     sub: 15
     if_emergency: -1
-    name: mission-10011897
+    name: 殺出重圍-UX
     difficulty: 32000
     recommend_gun_level: 120
     exp_parameter: 54
@@ -58397,14 +58341,10 @@
     drop_mission_key: "0,0,1188900:1"
     mission_group_id: 40
     open_mission_keys: 1191300:1
-    mission_describe: mission-20011897
     round_config: 1:1,2:29,3:3
     mapped_mission_id: 75003
     win_type: "1188601"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011897
-    mission_tip: mission-40011897
-    guide_cdn: mission-50011897
   }
   {
     id: 11898
@@ -58412,7 +58352,7 @@
     campaign: -75
     sub: 16
     if_emergency: -1
-    name: mission-10011898
+    name: 羞辱-UX
     difficulty: 34000
     recommend_gun_level: 120
     exp_parameter: 55
@@ -58432,14 +58372,10 @@
     drop_mission_key: "0,0,1189000:1"
     mission_group_id: 40
     open_mission_keys: 1191400:1
-    mission_describe: mission-20011898
     round_config: 1:1,2:29,3:3
     mapped_mission_id: 75004
     win_type: "1188601"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011898
-    mission_tip: mission-40011898
-    guide_cdn: mission-50011898
   }
   {
     id: 11899
@@ -58447,7 +58383,7 @@
     campaign: -75
     sub: 17
     if_emergency: -1
-    name: mission-10011899
+    name: 行星環∞
     difficulty: 7000
     recommend_gun_level: 65
     exp_parameter: 36
@@ -58467,14 +58403,10 @@
     drop_mission_key: "0,0,1189900:1"
     mission_group_id: 40
     open_mission_keys: 1188400:1
-    mission_describe: mission-20011899
     round_config: 1:1,2:36,3:3
     mapped_mission_id: 75005
     win_type: "1189901"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011899
-    mission_tip: mission-40011899
-    guide_cdn: mission-50011899
   }
   {
     id: 11900
@@ -58482,7 +58414,7 @@
     campaign: -75
     sub: 18
     if_emergency: -1
-    name: mission-10011900
+    name: 行星環∞-EX
     difficulty: 28000
     recommend_gun_level: 115
     exp_parameter: 52
@@ -58502,14 +58434,10 @@
     drop_mission_key: "0,0,1189900:1"
     mission_group_id: 40
     open_mission_keys: 1188400:1
-    mission_describe: mission-20011900
     round_config: 1:1,2:36,3:3
     mapped_mission_id: 75005
     win_type: "1189901"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011900
-    mission_tip: mission-40011900
-    guide_cdn: mission-50011900
   }
   {
     id: 11901
@@ -58518,7 +58446,7 @@
     sub: 19
     if_emergency: -1
     special_type: 9
-    name: mission-10011901
+    name: IOP-分部
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58534,12 +58462,8 @@
     drop_mission_key: "0,0,1190100:1"
     mission_group_id: 40
     open_mission_keys: 1188300:1
-    mission_describe: mission-20011901
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011901
-    mission_tip: mission-40011901
-    guide_cdn: mission-50011901
   }
   {
     id: 11902
@@ -58548,7 +58472,7 @@
     sub: 20
     if_emergency: -1
     special_type: 9
-    name: mission-10011902
+    name: 法蘭克福
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58564,12 +58488,8 @@
     drop_mission_key: "0,0,1190200:1"
     mission_group_id: 40
     open_mission_keys: 1188400:1
-    mission_describe: mission-20011902
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011902
-    mission_tip: mission-40011902
-    guide_cdn: mission-50011902
   }
   {
     id: 11903
@@ -58578,7 +58498,7 @@
     sub: 21
     if_emergency: -1
     special_type: 9
-    name: mission-10011903
+    name: 托卡列夫的回憶Ⅱ
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58594,12 +58514,8 @@
     drop_mission_key: "0,0,1190300:1"
     mission_group_id: 40
     open_mission_keys: 1190200:1
-    mission_describe: mission-20011903
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011903
-    mission_tip: mission-40011903
-    guide_cdn: mission-50011903
   }
   {
     id: 11904
@@ -58608,7 +58524,7 @@
     sub: 22
     if_emergency: -1
     special_type: 9
-    name: mission-10011904
+    name: 艾莫號
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58624,12 +58540,8 @@
     drop_mission_key: "0,0,1190400:1"
     mission_group_id: 40
     open_mission_keys: 1188500:1
-    mission_describe: mission-20011904
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011904
-    mission_tip: mission-40011904
-    guide_cdn: mission-50011904
   }
   {
     id: 11905
@@ -58638,7 +58550,7 @@
     sub: 23
     if_emergency: -1
     special_type: 9
-    name: mission-10011905
+    name: 白區入口
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58654,12 +58566,8 @@
     drop_mission_key: "0,0,1190500:1"
     mission_group_id: 40
     open_mission_keys: 1190400:1
-    mission_describe: mission-20011905
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011905
-    mission_tip: mission-40011905
-    guide_cdn: mission-50011905
   }
   {
     id: 11906
@@ -58668,7 +58576,7 @@
     sub: 24
     if_emergency: -1
     special_type: 9
-    name: mission-10011906
+    name: 白區
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58684,12 +58592,8 @@
     drop_mission_key: "0,0,1190600:1"
     mission_group_id: 40
     open_mission_keys: 1190500:1
-    mission_describe: mission-20011906
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011906
-    mission_tip: mission-40011906
-    guide_cdn: mission-50011906
   }
   {
     id: 11907
@@ -58698,7 +58602,7 @@
     sub: 25
     if_emergency: -1
     special_type: 9
-    name: mission-10011907
+    name: 白區 爆炸現場
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58714,12 +58618,8 @@
     drop_mission_key: "0,0,1190700:1"
     mission_group_id: 40
     open_mission_keys: 1188600:1
-    mission_describe: mission-20011907
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011907
-    mission_tip: mission-40011907
-    guide_cdn: mission-50011907
   }
   {
     id: 11908
@@ -58728,7 +58628,7 @@
     sub: 26
     if_emergency: -1
     special_type: 9
-    name: mission-10011908
+    name: 托卡列夫的回憶Ⅲ
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58744,12 +58644,8 @@
     drop_mission_key: "0,0,1190800:1"
     mission_group_id: 40
     open_mission_keys: 1190700:1
-    mission_describe: mission-20011908
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011908
-    mission_tip: mission-40011908
-    guide_cdn: mission-50011908
   }
   {
     id: 11909
@@ -58758,7 +58654,7 @@
     sub: 27
     if_emergency: -1
     special_type: 9
-    name: mission-10011909
+    name: 白區 醫院
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58774,12 +58670,8 @@
     drop_mission_key: "0,0,1190900:1"
     mission_group_id: 40
     open_mission_keys: 1190800:1
-    mission_describe: mission-20011909
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011909
-    mission_tip: mission-40011909
-    guide_cdn: mission-50011909
   }
   {
     id: 11910
@@ -58788,7 +58680,7 @@
     sub: 28
     if_emergency: -1
     special_type: 9
-    name: mission-10011910
+    name: 白區 中央醫院
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58804,12 +58696,8 @@
     drop_mission_key: "0,0,1191000:1"
     mission_group_id: 40
     open_mission_keys: 1188700:1
-    mission_describe: mission-20011910
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011910
-    mission_tip: mission-40011910
-    guide_cdn: mission-50011910
   }
   {
     id: 11911
@@ -58818,7 +58706,7 @@
     sub: 29
     if_emergency: -1
     special_type: 9
-    name: mission-10011911
+    name: 托卡列夫的回憶Ⅳ
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58834,12 +58722,8 @@
     drop_mission_key: "0,0,1191100:1"
     mission_group_id: 40
     open_mission_keys: 1191000:1
-    mission_describe: mission-20011911
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011911
-    mission_tip: mission-40011911
-    guide_cdn: mission-50011911
   }
   {
     id: 11912
@@ -58848,7 +58732,7 @@
     sub: 30
     if_emergency: -1
     special_type: 9
-    name: mission-10011912
+    name: 白區 法蘭克福
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58864,12 +58748,8 @@
     drop_mission_key: "0,0,1191200:1"
     mission_group_id: 40
     open_mission_keys: 1191100:1
-    mission_describe: mission-20011912
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011912
-    mission_tip: mission-40011912
-    guide_cdn: mission-50011912
   }
   {
     id: 11913
@@ -58878,7 +58758,7 @@
     sub: 31
     if_emergency: -1
     special_type: 9
-    name: mission-10011913
+    name: 白區 廢棄運輸站
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58894,12 +58774,8 @@
     drop_mission_key: "0,0,1191300:1"
     mission_group_id: 40
     open_mission_keys: 1188800:1
-    mission_describe: mission-20011913
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011913
-    mission_tip: mission-40011913
-    guide_cdn: mission-50011913
   }
   {
     id: 11914
@@ -58908,7 +58784,7 @@
     sub: 32
     if_emergency: -1
     special_type: 9
-    name: mission-10011914
+    name: 白區 廢棄地鐵站網路
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58924,12 +58800,8 @@
     drop_mission_key: "0,0,1191400:1"
     mission_group_id: 40
     open_mission_keys: 1188900:1
-    mission_describe: mission-20011914
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011914
-    mission_tip: mission-40011914
-    guide_cdn: mission-50011914
   }
   {
     id: 11915
@@ -58938,7 +58810,7 @@
     sub: 33
     if_emergency: -1
     special_type: 9
-    name: mission-10011915
+    name: 白區 廢棄地鐵站網路 終段
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58954,12 +58826,8 @@
     drop_mission_key: "0,0,1191500:1"
     mission_group_id: 40
     open_mission_keys: 1189000:1
-    mission_describe: mission-20011915
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011915
-    mission_tip: mission-40011915
-    guide_cdn: mission-50011915
   }
   {
     id: 11916
@@ -58968,7 +58836,7 @@
     sub: 34
     if_emergency: -1
     special_type: 9
-    name: mission-10011916
+    name: 奇點
     difficulty: 1000
     recommend_gun_level: 15
     exp_parameter: 21
@@ -58984,12 +58852,8 @@
     drop_mission_key: "0,0,1191600:1"
     mission_group_id: 40
     open_mission_keys: 1191500:1
-    mission_describe: mission-20011916
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
-    difficulty_recommend_addendum: mission-30011916
-    mission_tip: mission-40011916
-    guide_cdn: mission-50011916
   }
   {
     id: 90001
