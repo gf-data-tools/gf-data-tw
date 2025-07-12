@@ -505,4 +505,22 @@
     group_skill: 2:1006803
     fit_gun: "20159"
   }
+  {
+    id: 57
+    name: 縹緲無形
+    des: 為P90量身訂製的套裝，行動能力得到大幅提升，更適合她的跟風行動。
+    code: EgroupP90
+    equip_unit: "458,0,277"
+    group_skill: 2:1007003
+    fit_gun: "245"
+  }
+  {
+    id: 58
+    name: 命運占卜
+    des: 為K5量身訂製的套裝，命運雖然無常但也許可以憑藉高性能的設備窺測一二。
+    code: EgroupK5
+    equip_unit: "459,0,334"
+    group_skill: 2:1007103
+    fit_gun: "20212"
+  }
 ]
