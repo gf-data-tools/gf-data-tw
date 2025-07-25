@@ -16603,6 +16603,24 @@
     rank: 1
   }
   {
+    id: 2694
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_STG44
+    item_name: StG44-澗野尋蹤
+    introduction: StG44-澗野尋蹤
+    rank: 1
+  }
+  {
+    id: 2695
+    type: 5
+    arg: "1"
+    code: card_BattlePass_STG44
+    item_name: 名片：嵐山奇遇
+    introduction: 名片：嵐山奇遇
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -18362,6 +18380,15 @@
     code: gift_bundle_BattlePass_FO12
     item_name: FO-12-百匯貝甜
     introduction: 我承認傑克工作時偷吃了一個甜甜圈……別、別這麼嚴肅嘛，畢竟這也是質量檢查的一部分！你說對吧，指揮官？
+    rank: 1
+  }
+  {
+    id: 30031
+    type: 1
+    arg: "30031"
+    code: gift_bundle_BattlePass_STG44
+    item_name: StG44-澗野尋蹤
+    introduction: 指揮官，我們出發吧？山路可能會有些髒亂，不過請放心……我會為您規劃出最乾淨的路線的。
     rank: 1
   }
   {
@@ -20902,6 +20929,34 @@
     code: Coin_202410IsolationForest
     item_name: 倒懸樹影
     introduction: 在夢境中倒立著肆意生長的樹，根系糾纏在一起，組成一座座漂浮群島。
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
+    id: 100277
+    type: 4
+    arg: "100277"
+    code: Nova_medal
+    item_name: 新星勳章·卷積核
+    introduction: 新星勳章·卷積核
+    rank: 1
+  }
+  {
+    id: 100278
+    type: 4
+    arg: "100278"
+    code: Platinum_medal
+    item_name: 白金勳章·卷積核
+    introduction: 白金勳章·卷積核
+    rank: 1
+  }
+  {
+    id: 100279
+    type: 9
+    arg: "100279"
+    code: Coin_202412ConvolutionalKernel
+    item_name: 暮春孤芳
+    introduction: 一枝散髮著馥郁香氣的百合花被遺忘在了那個春天的末尾，等待著那個不歸人將它拾起。
     rank: 1
     daily_limit: 60;180
   }
@@ -23568,6 +23623,22 @@
     rank: 1
   }
   {
+    id: 140061
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第31期前線協議
+    rank: 1
+  }
+  {
+    id: 140062
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第31期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -24073,6 +24144,15 @@
     code: profileFrame_BattlePass_FO12
     item_name: 頭像框·糖霜蜜次方
     introduction: 頭像框·糖霜蜜次方
+    rank: 1
+  }
+  {
+    id: 200056
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_STG44
+    item_name: 頭像框·浣影踏秋
+    introduction: 頭像框·浣影踏秋
     rank: 1
   }
   {
@@ -26841,7 +26921,7 @@
     arg: "1500242"
     code: package_choose
     item_name: 基礎裝備自選序標
-    introduction: 來自於前線協議-遇見甜甜圈，可從該指定投遞配給序標內選擇獲取一件裝備
+    introduction: 來自於前線協議-出發！浣熊探險隊，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
     type_sort: 1
@@ -26851,8 +26931,8 @@
     type: 15
     arg: "1500243"
     code: package_choose
-    item_name: 人形類裝備自選包
-    introduction: 來自於前線協議-遇見甜甜圈，可從該指定投遞配給序標內選擇獲取一件人形類裝備
+    item_name: 配件類裝備自選包
+    introduction: 來自於前線協議-出發！浣熊探險隊，可從該指定投遞配給序標內選擇獲取一件配件類裝備
     rank: 1
     sort: -1
     type_sort: 1
@@ -26863,7 +26943,7 @@
     arg: "1500244"
     code: package_random
     item_name: 必得未解鎖人形序標
-    introduction: 來自於前線協議-遇見甜甜圈，可必定獲得該序標內圖鑒未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    introduction: 來自於前線協議-出發！浣熊探險隊，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
     type_sort: 1
@@ -26874,7 +26954,7 @@
     arg: "1500245"
     code: package_random
     item_name: 前線協議-額外獎勵
-    introduction: 來自於前線協議-遇見甜甜圈，可從該區間空投序標內隨機獲取一項道具
+    introduction: 來自於前線協議-出發！浣熊探險隊，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
     type_sort: 1
@@ -26894,7 +26974,7 @@
     id: 1500247
     type: 15
     arg: "1500247"
-    code: Bumdle_SummerdayCoupons1
+    code: Bumdle_SummerdayCoupons2
     item_name: 尊享裝扮券·夏日
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
     rank: 1
@@ -26905,8 +26985,85 @@
     id: 1500248
     type: 15
     arg: "1500248"
-    code: Bumdle_SummerdayCoupons1
+    code: Bumdle_SummerdayCoupons3
     item_name: 致臻裝扮券·夏日
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內選擇獲得一件裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500249
+    type: 15
+    arg: "1500249"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-遇見甜甜圈，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500250
+    type: 15
+    arg: "1500250"
+    code: package_choose
+    item_name: 人形類裝備自選包
+    introduction: 來自於前線協議-遇見甜甜圈，可從該指定投遞配給序標內選擇獲取一件人形類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500251
+    type: 15
+    arg: "1500251"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-遇見甜甜圈，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500252
+    type: 15
+    arg: "1500252"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-遇見甜甜圈，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500253
+    type: 15
+    arg: "1500253"
+    code: Bumdle_FantasyCoupons1
+    item_name: 珍藏裝扮券·奇境幻想
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500254
+    type: 15
+    arg: "1500254"
+    code: Bumdle_FantasyCoupons2
+    item_name: 尊享裝扮券·奇境幻想
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500255
+    type: 15
+    arg: "1500255"
+    code: Bumdle_FantasyCoupons3
+    item_name: 致臻裝扮券·奇境幻想
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內選擇獲得一件裝扮。
     rank: 1
     sort: -1

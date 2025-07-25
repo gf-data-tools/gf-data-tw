@@ -23694,7 +23694,7 @@
     effect_guntype: "6"
     effect_grid_pos: "23,24"
     effect_grid_effect: "1,15;8,15"
-    type_equip1: 2;5,17
+    type_equip1: 2;5,17,19
     type_equip2: 1;1,2,3,16
     type_equip3: 3;14,21
     ai: 199
@@ -24298,7 +24298,7 @@
     effect_grid_effect: "1,12;3,30"
     type_equip1: 1;4,13,16
     type_equip2: 2;6
-    type_equip3: 3;10
+    type_equip3: 3;10,20
     ai: 96
     launch_time: 2019-12-26 00:00:00
     obtain_ids: "1"
@@ -39860,6 +39860,120 @@
     rank_display: 5
     atk_speed_max: 120
     ratio_rec: 100
+  }
+  {
+    id: 9121
+    name: M16A1
+    en_name: M16A1
+    code: Beak_M16_ally
+    type: 4
+    rank: 6
+    develop_duration: 12900
+    baseammo: 20
+    basemre: 20
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 10
+    retiremp: 2
+    retireammo: 5
+    retiremre: 5
+    ratio_life: 1100
+    ratio_pow: 220
+    ratio_rate: 200
+    ratio_speed: 100
+    ratio_hit: 120
+    ratio_dodge: 115
+    armor_piercing: 15
+    crit: 100
+    eat_ratio: 110
+    ratio_range: 100
+    skill1: 100107
+    normal_attack: 450201
+    passive_skill: "450202"
+    effect_grid_center: 13
+    type_equip1: 1;1,2,3,4,13,16,18,22
+    type_equip2: 2;5,6,7,8,17,19
+    type_equip3: 3;9,10,11,12,14,15,20,21,23
+    ai: 54
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 6
+    atk_speed_max: 120
+    ratio_rec: 1100
+  }
+  {
+    id: 9122
+    name: M16A1
+    en_name: M16A1
+    code: M16A1_NPC
+    type: 4
+    rank: 4
+    develop_duration: 12900
+    baseammo: 20
+    basemre: 20
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 10
+    retiremp: 2
+    retireammo: 5
+    retiremre: 5
+    ratio_life: 1100
+    ratio_pow: 440
+    ratio_rate: 115
+    ratio_speed: 100
+    ratio_hit: 120
+    ratio_dodge: 115
+    armor_piercing: 15
+    crit: 50
+    eat_ratio: 110
+    ratio_range: 100
+    skill1: 403414
+    normal_attack: 300103
+    effect_grid_center: 13
+    type_equip1: 1;1,2,3,4,13,16,18,22
+    type_equip2: 2;5,6,7,8,17,19
+    type_equip3: 3;9,10,11,12,14,15,20,21,23
+    ai: 54
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1100
+  }
+  {
+    id: 9123
+    name: 喙
+    en_name: Beak
+    code: Beak_M16X
+    type: 6
+    rank: 5
+    develop_duration: 12900
+    baseammo: 20
+    basemre: 20
+    ammo_add_withnumber: 10
+    mre_add_withnumber: 10
+    retiremp: 2
+    retireammo: 5
+    retiremre: 5
+    ratio_life: 1100
+    ratio_pow: 440
+    ratio_rate: 230
+    ratio_speed: 100
+    ratio_hit: 120
+    ratio_dodge: 115
+    armor_piercing: 15
+    crit: 50
+    special: 6
+    eat_ratio: 110
+    ratio_range: 100
+    skill1: 106004
+    normal_attack: 900107
+    passive_skill: "450251,450252"
+    effect_grid_center: 13
+    type_equip1: 1;1,2,3,4,13,16,18,22
+    type_equip2: 2;5,6,7,8,17,19
+    type_equip3: 3;9,10,11,12,14,15,20,21,23
+    ai: 54
+    launch_time: 2030-12-31 23:59:59
+    rank_display: 5
+    atk_speed_max: 120
+    ratio_rec: 1100
   }
   {
     id: 20001
