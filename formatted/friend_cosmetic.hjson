@@ -12995,6 +12995,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_21christmas
+    event_id: 4089
   }
   {
     id: 992
@@ -13443,6 +13444,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_22winter
+    event_id: 4090
   }
   {
     id: 1029
@@ -13457,6 +13459,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_22winter
+    event_id: 4091
   }
   {
     id: 1030
@@ -15547,6 +15550,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 4086
   }
   {
     id: 1203
@@ -16643,6 +16647,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 4087
   }
   {
     id: 1296
@@ -16655,6 +16660,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 4088
   }
   {
     id: 1297
@@ -20347,6 +20353,9 @@
     id: 1609
     item_id: 2609
     sub_type: 2
+    gem: 150
+    item_ids: 508-3750
+    onsale: 1
     code: card_BattlePass_PK
     order: 1
     rarity: 5
@@ -20813,6 +20822,9 @@
     id: 1650
     item_id: 2650
     sub_type: 2
+    gem: 150
+    item_ids: 508-3750
+    onsale: 1
     code: card_BattlePass_06TypeSMG
     order: 1
     rarity: 5
@@ -20842,6 +20854,9 @@
     id: 1653
     item_id: 2653
     sub_type: 2
+    gem: 150
+    item_ids: 508-3750
+    onsale: 1
     code: card_BattlePass_M14
     order: 1
     rarity: 5
@@ -20974,6 +20989,9 @@
     id: 1664
     item_id: 2664
     sub_type: 2
+    gem: 150
+    item_ids: 508-3750
+    onsale: 1
     code: card_BattlePass_Beowulf
     order: 1
     rarity: 5
@@ -21070,6 +21088,9 @@
     id: 1674
     item_id: 2674
     sub_type: 2
+    gem: 150
+    item_ids: 508-3750
+    onsale: 1
     code: card_BattlePass_LTLX7000
     order: 1
     rarity: 5
@@ -21809,6 +21830,9 @@
     id: 100050
     item_id: 200050
     sub_type: 4
+    gem: 150
+    item_ids: 508-3750
+    onsale: 1
     code: profileFrame_BattlePass_PK
     order: 1
     rarity: 5
@@ -21818,6 +21842,9 @@
     id: 100051
     item_id: 200051
     sub_type: 4
+    gem: 150
+    item_ids: 508-3750
+    onsale: 1
     code: profileFrame_BattlePass_06TypeSMG
     order: 1
     rarity: 5
@@ -21827,6 +21854,9 @@
     id: 100052
     item_id: 200052
     sub_type: 4
+    gem: 150
+    item_ids: 508-3750
+    onsale: 1
     code: profileFrame_BattlePass_M14
     order: 1
     rarity: 5
@@ -21836,6 +21866,9 @@
     id: 100053
     item_id: 200053
     sub_type: 4
+    gem: 150
+    item_ids: 508-3750
+    onsale: 1
     code: profileFrame_BattlePass_Beowulf
     order: 1
     rarity: 5
@@ -21845,6 +21878,9 @@
     id: 100054
     item_id: 200054
     sub_type: 4
+    gem: 150
+    item_ids: 508-3750
+    onsale: 1
     code: profileFrame_BattlePass_LTLX7000
     order: 1
     rarity: 5
