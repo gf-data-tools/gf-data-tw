@@ -12338,54 +12338,52 @@
   {
     id: 1235
     mission_id: "11436"
-    description: story_util-10001235
+    description: 「要怎麼做，才能真正給予AI擁有意志的思考？」
     scripts: -61-1-1
     campaign: -61
-    title: story_util-20001235
+    title: 禁止餵食
     start: -61-1-1
   }
   {
     id: 1236
     mission_id: "11437"
-    description: story_util-10001236
+    description: 「我想要的是，真正具備有意識的思考的人形。」
     scripts: -61-2-1
     campaign: -61
-    title: story_util-20001236
+    title: 雙重保險
     start: -61-2-1
   }
   {
     id: 1237
     mission_id: "11445,11458"
-    description: story_util-10001237
     campaign: -61
-    title: story_util-20001237
     start: -61-EXT-1
   }
   {
     id: 1238
     mission_id: "11448"
-    description: story_util-10001238
+    description: 「在學會做人類之前，你得先學會做個人形。」
     scripts: -61-3-1
     campaign: -61
-    title: story_util-20001238
+    title: 殘局拼圖
     start: -61-3-1
   }
   {
     id: 1239
     mission_id: "11449"
-    description: story_util-10001239
+    description: 「比起沉浸於一時的勝利，我們更需要真正地學會思考。」
     scripts: -61-3-2
     campaign: -61
-    title: story_util-20001239
+    title: 意識維度
     start: -61-3-2
   }
   {
     id: 1240
     mission_id: "11450"
-    description: story_util-10001240
+    description: 「我在你們的身上看到了『未來』。」
     scripts: -61-3-3
     campaign: -61
-    title: story_util-20001240
+    title: 完美升變
     start: -61-3-3
   }
   {
@@ -13603,7 +13601,6 @@
   {
     id: 1388
     mission_id: "11881"
-    scripts: -52-e-4
     campaign: -52
     title: 純真筆尖
     start: -52-e-4
@@ -13611,7 +13608,6 @@
   {
     id: 1389
     mission_id: "11882"
-    scripts: -52-e-5
     campaign: -52
     title: 美夢捕網
     start: -52-e-5
@@ -13862,137 +13858,245 @@
   {
     id: 1417
     mission_id: "11883"
-    description: story_util-10001417
+    description: 那是……暖意湧起的一天……是破除麻木，播撒信任的起點。
+    scripts: -75-A-2
     campaign: -75
-    title: story_util-20001417
+    title: 托卡列夫的回憶Ⅰ
     start: -75-A-2
   }
   {
     id: 1418
     mission_id: "11901"
-    description: story_util-10001418
+    description: 請你……幫幫我……
+    scripts: -75-A-4
     campaign: -75
-    title: story_util-20001418
+    title: IOP-分部
     start: -75-A-4
   }
   {
     id: 1419
     mission_id: "11902"
-    description: story_util-10001419
+    description: 這個世界誰都可以死去，唯獨不準你不告而別。
+    scripts: -75-A-6
     campaign: -75
-    title: story_util-20001419
+    title: 法蘭克福
     start: -75-A-6
   }
   {
     id: 1420
     mission_id: "11903"
-    description: story_util-10001420
+    description: 如果我也可以有一個家。
+    scripts: -75-A-8
     campaign: -75
-    title: story_util-20001420
+    title: 托卡列夫的回憶Ⅱ
     start: -75-A-8
   }
   {
     id: 1421
     mission_id: "11904"
-    description: story_util-10001421
+    description: 這一切另有隱情。
+    scripts: -75-A-10
     campaign: -75
-    title: story_util-20001421
+    title: 艾莫號
     start: -75-A-10
   }
   {
     id: 1422
     mission_id: "11905"
-    description: story_util-10001422
+    description: 陰霾飄搖，舉棋不定。來者究竟何意？
+    scripts: -75-A-12
     campaign: -75
-    title: story_util-20001422
+    title: 白區入口
     start: -75-A-12
   }
   {
     id: 1423
     mission_id: "11906"
-    description: story_util-10001423
+    description: 我不會放棄你的。
+    scripts: -75-A-14
     campaign: -75
-    title: story_util-20001423
+    title: 白區
     start: -75-A-14
   }
   {
     id: 1424
     mission_id: "11907"
-    description: story_util-10001424
+    description: 血跡、制服……最後的防線就此決堤。
+    scripts: -75-A-16
     campaign: -75
-    title: story_util-20001424
+    title: 白區 爆炸現場
     start: -75-A-16
   }
   {
     id: 1425
     mission_id: "11908"
-    description: story_util-10001425
+    description: 為他人而戰。
+    scripts: -75-A-18
     campaign: -75
-    title: story_util-20001425
+    title: 托卡列夫的回憶Ⅲ
     start: -75-A-18
   }
   {
     id: 1426
     mission_id: "11909"
-    description: story_util-10001426
+    description: 任何能利用的蛛絲馬跡……都要用上才行。
+    scripts: -75-A-20
     campaign: -75
-    title: story_util-20001426
+    title: 白區 醫院
     start: -75-A-20
   }
   {
     id: 1427
     mission_id: "11910"
-    description: story_util-10001427
+    description: 格琳小姐的笑容……指揮官的眼神……風平浪靜的……那個遙遠的從前。
+    scripts: -75-A-22
     campaign: -75
-    title: story_util-20001427
+    title: 白區 中央醫院
     start: -75-A-22
   }
   {
     id: 1428
     mission_id: "11911"
-    description: story_util-10001428
+    description: 我將為您戰鬥一生，無怨無悔。
+    scripts: -75-A-24
     campaign: -75
-    title: story_util-20001428
+    title: 托卡列夫的回憶Ⅳ
     start: -75-A-24
   }
   {
     id: 1429
     mission_id: "11912"
-    description: story_util-10001429
+    description: 虛假的長明火焰，不會燒卻我來見你的步伐。
+    scripts: -75-A-26
     campaign: -75
-    title: story_util-20001429
+    title: 白區 法蘭克福
     start: -75-A-26
   }
   {
     id: 1430
     mission_id: "11913"
-    description: story_util-10001430
+    description: 水下的博弈，日漸洶湧。
+    scripts: -75-A-28
     campaign: -75
-    title: story_util-20001430
+    title: 白區 廢棄運輸站
     start: -75-A-28
   }
   {
     id: 1431
     mission_id: "11914"
-    description: story_util-10001431
+    description: 最後的希望，用血液鋪路……
+    scripts: -75-A-30
     campaign: -75
-    title: story_util-20001431
+    title: 白區 廢棄地鐵站網路
     start: -75-A-30
   }
   {
     id: 1432
     mission_id: "11915"
-    description: story_util-10001432
+    description: 一個用心險惡的謊言……
+    scripts: -75-A-32
     campaign: -75
-    title: story_util-20001432
+    title: 白區 廢棄地鐵站網路 終段
     start: -75-A-32
   }
   {
     id: 1433
     mission_id: "11916"
-    description: story_util-10001433
+    description: 一切尚未結束，我們仍有任務。
+    scripts: -75-A-34
     campaign: -75
-    title: story_util-20001433
+    title: 奇點
     start: -75-A-34
+  }
+  {
+    id: 1434
+    mission_id: "11917"
+    description: 你是我一生的終極。
+    scripts: -76-A-2
+    campaign: -76
+    title: 灰燼天堂
+    start: -76-A-2
+  }
+  {
+    id: 1435
+    mission_id: "11938"
+    description: 苦雨不歇、淅淅瀝瀝，一切如夢似幻、如露似電。
+    scripts: -76-A-4
+    campaign: -76
+    title: 魔鬼的初誕
+    start: -76-A-4
+  }
+  {
+    id: 1436
+    mission_id: "11939"
+    description: ……愛引導我們同生……愛引導我們同死。
+    scripts: -76-A-6
+    campaign: -76
+    title: 真相
+    start: -76-A-6
+  }
+  {
+    id: 1437
+    mission_id: "11940"
+    description: 「如果我的心沒入火焰……」「那我的血液會伴你前行……」
+    scripts: -76-A-8
+    campaign: -76
+    title: 女神的回聲
+    start: -76-A-8
+  }
+  {
+    id: 1438
+    mission_id: "11941"
+    description: 「威廉，我給你帶了心愛的禮物……」
+    scripts: -76-A-10
+    campaign: -76
+    title: 榮勳
+    start: -76-A-10
+  }
+  {
+    id: 1439
+    mission_id: "11922"
+    description: 「忤逆」，注視著你。
+    scripts: -76-A-12
+    campaign: -76
+    title: 血汙維納斯
+    first: -76-A-12
+    end: -76-A-12
+  }
+  {
+    id: 1440
+    mission_id: "11942"
+    description: 黑洞注將蒸發。
+    scripts: -76-A-14
+    campaign: -76
+    title: 王對王
+    start: -76-A-14
+  }
+  {
+    id: 1441
+    mission_id: "11943"
+    description: 「你一定是個稱職的好狗狗……」
+    scripts: -76-A-16
+    campaign: -76
+    title: 萊辛巴赫交響曲Ⅰ
+    start: -76-A-16
+  }
+  {
+    id: 1442
+    mission_id: "11944"
+    description: 「無論你身在何方，我都將為你帶來死亡。」
+    scripts: -76-A-18
+    campaign: -76
+    title: 萊辛巴赫交響曲Ⅱ
+    start: -76-A-18
+  }
+  {
+    id: 1443
+    mission_id: "11945"
+    description: 骰子已經擲下。
+    scripts: -76-A-20
+    campaign: -76
+    title: 棋手
+    start: -76-A-20
   }
 ]

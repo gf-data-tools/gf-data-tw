@@ -1472,6 +1472,745 @@
     level: 30
   }
   {
+    id: 21101
+    type: 101
+    motion_name: motions/daiji_idle_01.mtn
+    probability: 1
+    name: 待機
+  }
+  {
+    id: 21102
+    type: 200
+    motion_name: motions/broken_1.mtn
+    touch_area: head
+    probability: 1
+    voice: GUN|NPC_Kalina|DIALOGUE2
+    text: GUN|NPC_Kalina|DIALOGUE2
+    name: 互動1
+    voice_code: DIALOGUE2
+  }
+  {
+    id: 21103
+    type: 200
+    motion_name: motions/broken_2.mtn
+    touch_area: leg
+    probability: 1
+    voice: GUN|NPC_Kalina|PHRASE
+    text: GUN|NPC_Kalina|PHRASE
+    name: 互動2
+    voice_code: PHRASE
+  }
+  {
+    id: 21104
+    type: 200
+    motion_name: motions/broken_3.mtn
+    touch_area: body
+    probability: 1
+    voice: GUN|NPC_Kalina|DIALOGUE6
+    text: GUN|NPC_Kalina|DIALOGUE6
+    name: 互動3
+    delay: 1000
+    voice_code: DIALOGUE6
+  }
+  {
+    id: 21105
+    type: 300
+    motion_name: motions/shake.mtn
+    probability: 1
+    name: 晃動響應
+    camera: 1
+  }
+  {
+    id: 21106
+    type: 1000
+    motion_name: motions/login.mtn
+    probability: 1
+    voice: GUN|NPC_Kalina|HELLO
+    text: GUN|NPC_Kalina|HELLO
+    name: 上線響應
+    camera: 1
+    voice_code: HELLO
+  }
+  {
+    id: 21107
+    type: 600
+    motion_name: motions/enter.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_001
+    text: NPC|mall|kanban_musume_001
+    camera: 1
+  }
+  {
+    id: 21108
+    type: 600
+    motion_name: motions/enter.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_002
+    text: NPC|mall|kanban_musume_002
+    camera: 1
+  }
+  {
+    id: 21109
+    type: 600
+    motion_name: motions/enter.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_033
+    text: NPC|mall|kanban_musume_033
+    camera: 1
+  }
+  {
+    id: 21110
+    type: 600
+    motion_name: motions/enter.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_004
+    text: NPC|mall|kanban_musume_004
+    camera: 1
+  }
+  {
+    id: 21111
+    type: 600
+    motion_name: motions/enter.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_005
+    text: NPC|mall|kanban_musume_005
+    camera: 1
+  }
+  {
+    id: 21112
+    type: 700
+    motion_name: motions/buy.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_038
+    text: NPC|buy|kanban_musume_038
+    camera: 1
+  }
+  {
+    id: 21113
+    type: 700
+    motion_name: motions/buy.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_039
+    text: NPC|buy|kanban_musume_039
+    camera: 1
+  }
+  {
+    id: 21114
+    type: 700
+    motion_name: motions/buy.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_040
+    text: NPC|buy|kanban_musume_040
+    camera: 1
+  }
+  {
+    id: 21115
+    type: 700
+    motion_name: motions/buy.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_041
+    text: NPC|buy|kanban_musume_041
+    camera: 1
+  }
+  {
+    id: 21116
+    type: 700
+    motion_name: motions/buy.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_042
+    text: NPC|buy|kanban_musume_042
+    camera: 1
+  }
+  {
+    id: 21117
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_003
+    text: NPC|level|kanban_musume_003
+  }
+  {
+    id: 21118
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_032
+    text: NPC|level|kanban_musume_032
+  }
+  {
+    id: 21119
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_049
+    text: NPC|level|kanban_musume_049
+  }
+  {
+    id: 21120
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_008
+    text: NPC|level|kanban_musume_008
+    camera: 1
+    level: 1
+  }
+  {
+    id: 21121
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_024
+    text: NPC|level|kanban_musume_024
+    level: 2
+  }
+  {
+    id: 21122
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_050
+    text: NPC|level|kanban_musume_050
+    level: 3
+  }
+  {
+    id: 21123
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_011
+    text: NPC|level|kanban_musume_011
+    level: 4
+  }
+  {
+    id: 21124
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_007
+    text: NPC|level|kanban_musume_007
+    level: 5
+  }
+  {
+    id: 21125
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_018
+    text: NPC|level|kanban_musume_018
+    level: 6
+  }
+  {
+    id: 21126
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_055
+    text: NPC|level|kanban_musume_055
+    level: 7
+  }
+  {
+    id: 21127
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_012
+    text: NPC|level|kanban_musume_012
+    level: 8
+  }
+  {
+    id: 21128
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_009
+    text: NPC|level|kanban_musume_009
+    level: 9
+  }
+  {
+    id: 21129
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_052
+    text: NPC|level|kanban_musume_052
+    level: 10
+  }
+  {
+    id: 21130
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_029
+    text: NPC|level|kanban_musume_029
+    level: 11
+  }
+  {
+    id: 21131
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_006
+    text: NPC|level|kanban_musume_006
+    level: 12
+  }
+  {
+    id: 21132
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_054
+    text: NPC|level|kanban_musume_054
+    level: 13
+  }
+  {
+    id: 21133
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_020
+    text: NPC|level|kanban_musume_020
+    level: 14
+  }
+  {
+    id: 21134
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_036
+    text: NPC|level|kanban_musume_036
+    level: 15
+  }
+  {
+    id: 21135
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_023
+    text: NPC|level|kanban_musume_023
+    level: 16
+  }
+  {
+    id: 21136
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_056
+    text: NPC|level|kanban_musume_056
+    level: 17
+  }
+  {
+    id: 21137
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_025
+    text: NPC|level|kanban_musume_025
+    level: 18
+  }
+  {
+    id: 21138
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_034
+    text: NPC|level|kanban_musume_034
+    level: 19
+  }
+  {
+    id: 21139
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_010
+    text: NPC|level|kanban_musume_010
+    level: 20
+  }
+  {
+    id: 21140
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_022
+    text: NPC|level|kanban_musume_022
+    level: 21
+  }
+  {
+    id: 21141
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_053
+    text: NPC|level|kanban_musume_053
+    level: 22
+  }
+  {
+    id: 21142
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_037
+    text: NPC|level|kanban_musume_037
+    level: 23
+  }
+  {
+    id: 21143
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_014
+    text: NPC|level|kanban_musume_014
+    level: 24
+  }
+  {
+    id: 21144
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_028
+    text: NPC|level|kanban_musume_028
+    level: 25
+  }
+  {
+    id: 21145
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_051
+    text: NPC|level|kanban_musume_051
+    level: 26
+  }
+  {
+    id: 21146
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_021
+    text: NPC|level|kanban_musume_021
+    level: 27
+  }
+  {
+    id: 21147
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_013
+    text: NPC|level|kanban_musume_013
+    level: 28
+  }
+  {
+    id: 21148
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_030
+    text: NPC|level|kanban_musume_030
+    level: 29
+  }
+  {
+    id: 21149
+    type: 800
+    motion_name: motions/LVup.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_031
+    text: NPC|level|kanban_musume_031
+    level: 30
+  }
+  {
+    id: 21150
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_003
+    text: NPC|level|kanban_musume_003
+  }
+  {
+    id: 21151
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_032
+    text: NPC|level|kanban_musume_032
+  }
+  {
+    id: 21152
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_049
+    text: NPC|level|kanban_musume_049
+  }
+  {
+    id: 21153
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_008
+    text: NPC|level|kanban_musume_008
+    level: 1
+  }
+  {
+    id: 21154
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_024
+    text: NPC|level|kanban_musume_024
+    level: 2
+  }
+  {
+    id: 21155
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_050
+    text: NPC|level|kanban_musume_050
+    level: 3
+  }
+  {
+    id: 21156
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_011
+    text: NPC|level|kanban_musume_011
+    level: 4
+  }
+  {
+    id: 21157
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_007
+    text: NPC|level|kanban_musume_007
+    level: 5
+  }
+  {
+    id: 21158
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_018
+    text: NPC|level|kanban_musume_018
+    level: 6
+  }
+  {
+    id: 21159
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_055
+    text: NPC|level|kanban_musume_055
+    level: 7
+  }
+  {
+    id: 21160
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_012
+    text: NPC|level|kanban_musume_012
+    level: 8
+  }
+  {
+    id: 21161
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_009
+    text: NPC|level|kanban_musume_009
+    level: 9
+  }
+  {
+    id: 21162
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_052
+    text: NPC|level|kanban_musume_052
+    level: 10
+  }
+  {
+    id: 21163
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_029
+    text: NPC|level|kanban_musume_029
+    level: 11
+  }
+  {
+    id: 21164
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_006
+    text: NPC|level|kanban_musume_006
+    level: 12
+  }
+  {
+    id: 21165
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_054
+    text: NPC|level|kanban_musume_054
+    level: 13
+  }
+  {
+    id: 21166
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_020
+    text: NPC|level|kanban_musume_020
+    level: 14
+  }
+  {
+    id: 21167
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_036
+    text: NPC|level|kanban_musume_036
+    level: 15
+  }
+  {
+    id: 21168
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_023
+    text: NPC|level|kanban_musume_023
+    level: 16
+  }
+  {
+    id: 21169
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_056
+    text: NPC|level|kanban_musume_056
+    level: 17
+  }
+  {
+    id: 21170
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_025
+    text: NPC|level|kanban_musume_025
+    level: 18
+  }
+  {
+    id: 21171
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_034
+    text: NPC|level|kanban_musume_034
+    level: 19
+  }
+  {
+    id: 21172
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_010
+    text: NPC|level|kanban_musume_010
+    level: 20
+  }
+  {
+    id: 21173
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_022
+    text: NPC|level|kanban_musume_022
+    level: 21
+  }
+  {
+    id: 21174
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_053
+    text: NPC|level|kanban_musume_053
+    level: 22
+  }
+  {
+    id: 21175
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_037
+    text: NPC|level|kanban_musume_037
+    level: 23
+  }
+  {
+    id: 21176
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_014
+    text: NPC|level|kanban_musume_014
+    level: 24
+  }
+  {
+    id: 21177
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_028
+    text: NPC|level|kanban_musume_028
+    level: 25
+  }
+  {
+    id: 21178
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_051
+    text: NPC|level|kanban_musume_051
+    level: 26
+  }
+  {
+    id: 21179
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_021
+    text: NPC|level|kanban_musume_021
+    level: 27
+  }
+  {
+    id: 21180
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_013
+    text: NPC|level|kanban_musume_013
+    level: 28
+  }
+  {
+    id: 21181
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_030
+    text: NPC|level|kanban_musume_030
+    level: 29
+  }
+  {
+    id: 21182
+    type: 900
+    motion_name: motions/click.mtn
+    probability: 1
+    voice: NPC|NPC_Kalina|kanban_musume_031
+    text: NPC|level|kanban_musume_031
+    level: 30
+  }
+  {
     id: 21201
     type: 101
     motion_name: motions/daiji_idle_01.mtn
@@ -1538,7 +2277,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_001
     text: NPC|mall|kanban_musume_001
-    name: live2d_motions-10021207
     camera: 1
   }
   {
@@ -1548,7 +2286,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_002
     text: NPC|mall|kanban_musume_002
-    name: live2d_motions-10021208
     camera: 1
   }
   {
@@ -1558,7 +2295,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_033
     text: NPC|mall|kanban_musume_033
-    name: live2d_motions-10021209
     camera: 1
   }
   {
@@ -1568,7 +2304,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_004
     text: NPC|mall|kanban_musume_004
-    name: live2d_motions-10021210
     camera: 1
   }
   {
@@ -1578,7 +2313,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_005
     text: NPC|mall|kanban_musume_005
-    name: live2d_motions-10021211
     camera: 1
   }
   {
@@ -1588,7 +2322,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_038
     text: NPC|buy|kanban_musume_038
-    name: live2d_motions-10021212
     camera: 1
   }
   {
@@ -1598,7 +2331,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_039
     text: NPC|buy|kanban_musume_039
-    name: live2d_motions-10021213
     camera: 1
   }
   {
@@ -1608,7 +2340,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_040
     text: NPC|buy|kanban_musume_040
-    name: live2d_motions-10021214
     camera: 1
   }
   {
@@ -1618,7 +2349,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_041
     text: NPC|buy|kanban_musume_041
-    name: live2d_motions-10021215
     camera: 1
   }
   {
@@ -1628,7 +2358,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_042
     text: NPC|buy|kanban_musume_042
-    name: live2d_motions-10021216
     camera: 1
   }
   {
@@ -1638,7 +2367,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_003
     text: NPC|level|kanban_musume_003
-    name: live2d_motions-10021217
   }
   {
     id: 21218
@@ -1647,7 +2375,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_032
     text: NPC|level|kanban_musume_032
-    name: live2d_motions-10021218
   }
   {
     id: 21219
@@ -1656,7 +2383,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_049
     text: NPC|level|kanban_musume_049
-    name: live2d_motions-10021219
   }
   {
     id: 21220
@@ -1665,7 +2391,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_008
     text: NPC|level|kanban_musume_008
-    name: live2d_motions-10021220
     camera: 1
     level: 1
   }
@@ -1676,7 +2401,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_024
     text: NPC|level|kanban_musume_024
-    name: live2d_motions-10021221
     level: 2
   }
   {
@@ -1686,7 +2410,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_050
     text: NPC|level|kanban_musume_050
-    name: live2d_motions-10021222
     level: 3
   }
   {
@@ -1696,7 +2419,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_011
     text: NPC|level|kanban_musume_011
-    name: live2d_motions-10021223
     level: 4
   }
   {
@@ -1706,7 +2428,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_007
     text: NPC|level|kanban_musume_007
-    name: live2d_motions-10021224
     level: 5
   }
   {
@@ -1716,7 +2437,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_018
     text: NPC|level|kanban_musume_018
-    name: live2d_motions-10021225
     level: 6
   }
   {
@@ -1726,7 +2446,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_055
     text: NPC|level|kanban_musume_055
-    name: live2d_motions-10021226
     level: 7
   }
   {
@@ -1736,7 +2455,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_012
     text: NPC|level|kanban_musume_012
-    name: live2d_motions-10021227
     level: 8
   }
   {
@@ -1746,7 +2464,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_009
     text: NPC|level|kanban_musume_009
-    name: live2d_motions-10021228
     level: 9
   }
   {
@@ -1756,7 +2473,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_052
     text: NPC|level|kanban_musume_052
-    name: live2d_motions-10021229
     level: 10
   }
   {
@@ -1766,7 +2482,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_029
     text: NPC|level|kanban_musume_029
-    name: live2d_motions-10021230
     level: 11
   }
   {
@@ -1776,7 +2491,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_006
     text: NPC|level|kanban_musume_006
-    name: live2d_motions-10021231
     level: 12
   }
   {
@@ -1786,7 +2500,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_054
     text: NPC|level|kanban_musume_054
-    name: live2d_motions-10021232
     level: 13
   }
   {
@@ -1796,7 +2509,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_020
     text: NPC|level|kanban_musume_020
-    name: live2d_motions-10021233
     level: 14
   }
   {
@@ -1806,7 +2518,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_036
     text: NPC|level|kanban_musume_036
-    name: live2d_motions-10021234
     level: 15
   }
   {
@@ -1816,7 +2527,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_023
     text: NPC|level|kanban_musume_023
-    name: live2d_motions-10021235
     level: 16
   }
   {
@@ -1826,7 +2536,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_056
     text: NPC|level|kanban_musume_056
-    name: live2d_motions-10021236
     level: 17
   }
   {
@@ -1836,7 +2545,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_025
     text: NPC|level|kanban_musume_025
-    name: live2d_motions-10021237
     level: 18
   }
   {
@@ -1846,7 +2554,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_034
     text: NPC|level|kanban_musume_034
-    name: live2d_motions-10021238
     level: 19
   }
   {
@@ -1856,7 +2563,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_010
     text: NPC|level|kanban_musume_010
-    name: live2d_motions-10021239
     level: 20
   }
   {
@@ -1866,7 +2572,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_022
     text: NPC|level|kanban_musume_022
-    name: live2d_motions-10021240
     level: 21
   }
   {
@@ -1876,7 +2581,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_053
     text: NPC|level|kanban_musume_053
-    name: live2d_motions-10021241
     level: 22
   }
   {
@@ -1886,7 +2590,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_037
     text: NPC|level|kanban_musume_037
-    name: live2d_motions-10021242
     level: 23
   }
   {
@@ -1896,7 +2599,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_014
     text: NPC|level|kanban_musume_014
-    name: live2d_motions-10021243
     level: 24
   }
   {
@@ -1906,7 +2608,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_028
     text: NPC|level|kanban_musume_028
-    name: live2d_motions-10021244
     level: 25
   }
   {
@@ -1916,7 +2617,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_051
     text: NPC|level|kanban_musume_051
-    name: live2d_motions-10021245
     level: 26
   }
   {
@@ -1926,7 +2626,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_021
     text: NPC|level|kanban_musume_021
-    name: live2d_motions-10021246
     level: 27
   }
   {
@@ -1936,7 +2635,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_013
     text: NPC|level|kanban_musume_013
-    name: live2d_motions-10021247
     level: 28
   }
   {
@@ -1946,7 +2644,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_030
     text: NPC|level|kanban_musume_030
-    name: live2d_motions-10021248
     level: 29
   }
   {
@@ -1956,7 +2653,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_031
     text: NPC|level|kanban_musume_031
-    name: live2d_motions-10021249
     level: 30
   }
   {
@@ -1966,7 +2662,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_003
     text: NPC|level|kanban_musume_003
-    name: live2d_motions-10021250
   }
   {
     id: 21251
@@ -1975,7 +2670,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_032
     text: NPC|level|kanban_musume_032
-    name: live2d_motions-10021251
   }
   {
     id: 21252
@@ -1984,7 +2678,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_049
     text: NPC|level|kanban_musume_049
-    name: live2d_motions-10021252
   }
   {
     id: 21253
@@ -1993,7 +2686,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_008
     text: NPC|level|kanban_musume_008
-    name: live2d_motions-10021253
     level: 1
   }
   {
@@ -2003,7 +2695,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_024
     text: NPC|level|kanban_musume_024
-    name: live2d_motions-10021254
     level: 2
   }
   {
@@ -2013,7 +2704,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_050
     text: NPC|level|kanban_musume_050
-    name: live2d_motions-10021255
     level: 3
   }
   {
@@ -2023,7 +2713,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_011
     text: NPC|level|kanban_musume_011
-    name: live2d_motions-10021256
     level: 4
   }
   {
@@ -2033,7 +2722,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_007
     text: NPC|level|kanban_musume_007
-    name: live2d_motions-10021257
     level: 5
   }
   {
@@ -2043,7 +2731,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_018
     text: NPC|level|kanban_musume_018
-    name: live2d_motions-10021258
     level: 6
   }
   {
@@ -2053,7 +2740,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_055
     text: NPC|level|kanban_musume_055
-    name: live2d_motions-10021259
     level: 7
   }
   {
@@ -2063,7 +2749,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_012
     text: NPC|level|kanban_musume_012
-    name: live2d_motions-10021260
     level: 8
   }
   {
@@ -2073,7 +2758,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_009
     text: NPC|level|kanban_musume_009
-    name: live2d_motions-10021261
     level: 9
   }
   {
@@ -2083,7 +2767,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_052
     text: NPC|level|kanban_musume_052
-    name: live2d_motions-10021262
     level: 10
   }
   {
@@ -2093,7 +2776,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_029
     text: NPC|level|kanban_musume_029
-    name: live2d_motions-10021263
     level: 11
   }
   {
@@ -2103,7 +2785,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_006
     text: NPC|level|kanban_musume_006
-    name: live2d_motions-10021264
     level: 12
   }
   {
@@ -2113,7 +2794,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_054
     text: NPC|level|kanban_musume_054
-    name: live2d_motions-10021265
     level: 13
   }
   {
@@ -2123,7 +2803,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_020
     text: NPC|level|kanban_musume_020
-    name: live2d_motions-10021266
     level: 14
   }
   {
@@ -2133,7 +2812,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_036
     text: NPC|level|kanban_musume_036
-    name: live2d_motions-10021267
     level: 15
   }
   {
@@ -2143,7 +2821,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_023
     text: NPC|level|kanban_musume_023
-    name: live2d_motions-10021268
     level: 16
   }
   {
@@ -2153,7 +2830,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_056
     text: NPC|level|kanban_musume_056
-    name: live2d_motions-10021269
     level: 17
   }
   {
@@ -2163,7 +2839,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_025
     text: NPC|level|kanban_musume_025
-    name: live2d_motions-10021270
     level: 18
   }
   {
@@ -2173,7 +2848,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_034
     text: NPC|level|kanban_musume_034
-    name: live2d_motions-10021271
     level: 19
   }
   {
@@ -2183,7 +2857,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_010
     text: NPC|level|kanban_musume_010
-    name: live2d_motions-10021272
     level: 20
   }
   {
@@ -2193,7 +2866,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_022
     text: NPC|level|kanban_musume_022
-    name: live2d_motions-10021273
     level: 21
   }
   {
@@ -2203,7 +2875,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_053
     text: NPC|level|kanban_musume_053
-    name: live2d_motions-10021274
     level: 22
   }
   {
@@ -2213,7 +2884,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_037
     text: NPC|level|kanban_musume_037
-    name: live2d_motions-10021275
     level: 23
   }
   {
@@ -2223,7 +2893,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_014
     text: NPC|level|kanban_musume_014
-    name: live2d_motions-10021276
     level: 24
   }
   {
@@ -2233,7 +2902,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_028
     text: NPC|level|kanban_musume_028
-    name: live2d_motions-10021277
     level: 25
   }
   {
@@ -2243,7 +2911,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_051
     text: NPC|level|kanban_musume_051
-    name: live2d_motions-10021278
     level: 26
   }
   {
@@ -2253,7 +2920,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_021
     text: NPC|level|kanban_musume_021
-    name: live2d_motions-10021279
     level: 27
   }
   {
@@ -2263,7 +2929,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_013
     text: NPC|level|kanban_musume_013
-    name: live2d_motions-10021280
     level: 28
   }
   {
@@ -2273,7 +2938,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_030
     text: NPC|level|kanban_musume_030
-    name: live2d_motions-10021281
     level: 29
   }
   {
@@ -2283,7 +2947,6 @@
     probability: 1
     voice: NPC|NPC_Kalina|kanban_musume_031
     text: NPC|level|kanban_musume_031
-    name: live2d_motions-10021282
     level: 30
   }
   {
@@ -22399,6 +23062,272 @@
     voice_code: HELLO
   }
   {
+    id: 505701
+    type: 101
+    motion_name: daiji_idle_01.mtn
+    probability: 1
+    name: 待機
+  }
+  {
+    id: 505702
+    type: 200
+    touch_area: body
+    probability: 1
+    voice: GUN|AK15|DIALOGUE1
+    text: GUN|AK15|DIALOGUE1
+    name: 待機
+    voice_code: DIALOGUE1
+  }
+  {
+    id: 505703
+    type: 200
+    touch_area: body
+    probability: 1
+    voice: GUN|AK15|DIALOGUE2
+    text: GUN|AK15|DIALOGUE2
+    name: 待機
+    voice_code: DIALOGUE2
+  }
+  {
+    id: 505704
+    type: 200
+    touch_area: body
+    probability: 1
+    voice: GUN|AK15|DIALOGUE3
+    text: GUN|AK15|DIALOGUE3
+    name: 待機
+    voice_code: DIALOGUE3
+  }
+  {
+    id: 505705
+    type: 200
+    touch_area: body
+    probability: 1
+    voice: GUN|AK15|DIALOGUEWEDDING
+    text: GUN|AK15|DIALOGUEWEDDING
+    name: 待機
+    voice_code: DIALOGUEWEDDING
+  }
+  {
+    id: 505706
+    type: 401
+    motion_name: daiji_idle_01.mtn
+    probability: 1
+    name: 待機
+    is_hurt: 1
+  }
+  {
+    id: 505707
+    type: 402
+    touch_area: body
+    probability: 1
+    voice: GUN|AK15|DIALOGUE1
+    text: GUN|AK15|DIALOGUE1
+    name: 待機
+    voice_code: DIALOGUE1
+  }
+  {
+    id: 505708
+    type: 402
+    touch_area: body
+    probability: 1
+    voice: GUN|AK15|DIALOGUE2
+    text: GUN|AK15|DIALOGUE2
+    name: 待機
+    voice_code: DIALOGUE2
+  }
+  {
+    id: 505709
+    type: 402
+    touch_area: body
+    probability: 1
+    voice: GUN|AK15|DIALOGUE3
+    text: GUN|AK15|DIALOGUE3
+    name: 待機
+    voice_code: DIALOGUE3
+  }
+  {
+    id: 505710
+    type: 402
+    touch_area: body
+    probability: 1
+    voice: GUN|AK15|DIALOGUEWEDDING
+    text: GUN|AK15|DIALOGUEWEDDING
+    name: 待機
+    voice_code: DIALOGUEWEDDING
+  }
+  {
+    id: 505711
+    type: 1000
+    probability: 1
+    voice: GUN|AK15|HELLO
+    text: GUN|AK15|HELLO
+    name: 待機
+    voice_code: HELLO
+  }
+  {
+    id: 505712
+    type: 1001
+    probability: 1
+    voice: GUN|AK15|HELLO
+    text: GUN|AK15|HELLO
+    name: 待機
+    voice_code: HELLO
+  }
+  {
+    id: 505713
+    type: 200
+    touch_area: body
+    probability: 1
+    voice: GUN|AK15|VALENTINE
+    text: GUN|AK15|VALENTINE
+    name: 待機
+    voice_code: VALENTINE
+  }
+  {
+    id: 505714
+    type: 402
+    touch_area: body
+    probability: 1
+    voice: GUN|AK15|VALENTINE
+    text: GUN|AK15|VALENTINE
+    name: 待機
+    voice_code: VALENTINE
+  }
+  {
+    id: 507601
+    type: 101
+    motion_name: daiji_idle_01.mtn
+    probability: 1
+    name: 待機
+  }
+  {
+    id: 507602
+    type: 200
+    touch_area: body
+    probability: 1
+    voice: GUN|AK12|DIALOGUE1
+    text: GUN|AK12|DIALOGUE1
+    name: 待機
+    voice_code: DIALOGUE1
+  }
+  {
+    id: 507603
+    type: 200
+    touch_area: body
+    probability: 1
+    voice: GUN|AK12|DIALOGUE2
+    text: GUN|AK12|DIALOGUE2
+    name: 待機
+    voice_code: DIALOGUE2
+  }
+  {
+    id: 507604
+    type: 200
+    touch_area: body
+    probability: 1
+    voice: GUN|AK12|DIALOGUE3
+    text: GUN|AK12|DIALOGUE3
+    name: 待機
+    voice_code: DIALOGUE3
+  }
+  {
+    id: 507605
+    type: 200
+    touch_area: body
+    probability: 1
+    voice: GUN|AK12|DIALOGUEWEDDING
+    text: GUN|AK12|DIALOGUEWEDDING
+    name: 待機
+    voice_code: DIALOGUEWEDDING
+  }
+  {
+    id: 507606
+    type: 401
+    motion_name: daiji_idle_01.mtn
+    probability: 1
+    name: 待機
+    is_hurt: 1
+  }
+  {
+    id: 507607
+    type: 402
+    touch_area: body
+    probability: 1
+    voice: GUN|AK12|DIALOGUE1
+    text: GUN|AK12|DIALOGUE1
+    name: 待機
+    voice_code: DIALOGUE1
+  }
+  {
+    id: 507608
+    type: 402
+    touch_area: body
+    probability: 1
+    voice: GUN|AK12|DIALOGUE2
+    text: GUN|AK12|DIALOGUE2
+    name: 待機
+    voice_code: DIALOGUE2
+  }
+  {
+    id: 507609
+    type: 402
+    touch_area: body
+    probability: 1
+    voice: GUN|AK12|DIALOGUE3
+    text: GUN|AK12|DIALOGUE3
+    name: 待機
+    voice_code: DIALOGUE3
+  }
+  {
+    id: 507610
+    type: 402
+    touch_area: body
+    probability: 1
+    voice: GUN|AK12|DIALOGUEWEDDING
+    text: GUN|AK12|DIALOGUEWEDDING
+    name: 待機
+    voice_code: DIALOGUEWEDDING
+  }
+  {
+    id: 507611
+    type: 1000
+    probability: 1
+    voice: GUN|AK12|HELLO
+    text: GUN|AK12|HELLO
+    name: 待機
+    voice_code: HELLO
+  }
+  {
+    id: 507612
+    type: 1001
+    probability: 1
+    voice: GUN|AK12|HELLO
+    text: GUN|AK12|HELLO
+    name: 待機
+    voice_code: HELLO
+  }
+  {
+    id: 507613
+    type: 200
+    touch_area: body
+    probability: 1
+    voice: GUN|AK12|VALENTINE
+    text: GUN|AK12|VALENTINE
+    name: 待機
+    voice_code: VALENTINE
+  }
+  {
+    id: 507614
+    type: 402
+    touch_area: body
+    probability: 1
+    voice: GUN|AK12|VALENTINE
+    text: GUN|AK12|VALENTINE
+    name: 待機
+    voice_code: VALENTINE
+  }
+  {
     id: 510101
     type: 101
     motion_name: motions/daiji_idle_01.mtn
@@ -31128,9 +32057,12 @@
     motion_name: motions/touch_2A.mtn
     touch_area: bodyA
     probability: 1
+    voice: GUN|DP12|OPERATIONBEGIN
+    text: GUN|DP12|OPERATIONBEGIN
     name: 交互1
     camera: 1
     is_hurt: 1
+    voice_code: OPERATIONBEGIN
   }
   {
     id: 810115
@@ -31138,9 +32070,12 @@
     motion_name: motions/touch_2B.mtn
     touch_area: bodyB
     probability: 1
+    voice: GUN|DP12|OPERATIONBEGIN
+    text: GUN|DP12|OPERATIONBEGIN
     name: 交互2
     camera: 1
     is_hurt: 1
+    voice_code: OPERATIONBEGIN
   }
   {
     id: 810116
@@ -31183,9 +32118,12 @@
     motion_name: motions/touch_5.mtn
     touch_area: foot
     probability: 1
+    voice: GUN|DP12|RETREAT
+    text: GUN|DP12|RETREAT
     name: 交互6
     camera: 1
     is_hurt: 1
+    voice_code: RETREAT
   }
   {
     id: 810120

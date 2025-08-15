@@ -1525,6 +1525,20 @@
     years: 2025
   }
   {
+    id: 116
+    name: 「大」的來了！
+    rank: 5
+    bonus_picture: "3112"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 13
+    description: 以艾莫號活動層為主題的傢俱組合。這是你再熟悉不過的基地車，可你注視著它，卻恍生出一種闊別已久的錯覺……真的只是錯覺嗎？
+    bonus_description: 集齊後宿舍內會出現意想不到的現象。
+    code: 2025Wedding_deco_08_icon
+    is_showed: 1
+    placement: 1
+    years: 2025
+  }
+  {
     id: 299
     name: 寵物
     rank: 5

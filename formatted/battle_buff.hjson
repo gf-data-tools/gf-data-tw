@@ -12450,6 +12450,166 @@
     boss_available: 1
   }
   {
+    id: 2622
+    name: 威廉召唤lv1-死亡
+    conflict_type: 2622
+    max_tier: 12
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 2623
+    name: 威廉待机lv2
+    conflict_type: 2623
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 2624
+    name: 威廉近身检测
+    conflict_type: 2624
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "30"
+    boss_available: 1
+    forced_skill: "450111"
+  }
+  {
+    id: 2625
+    name: 威廉近身反馈
+    conflict_type: 2625
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 2626
+    name: M16A1伤害加强
+    conflict_type: 2626
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "150"
+    boss_available: 1
+    trigger_creation_id: "7208"
+    is_form_play: 1
+    fix_damage: 1000009897
+    buff_sp_attributes: "1"
+  }
+  {
+    id: 2627
+    name: M16A1射程增加
+    conflict_type: 2627
+    max_tier: 1
+    type: 830
+    duration_type: 1
+    duration: "150"
+    boss_available: 1
+    range_number: "5"
+    buff_sp_attributes: "1"
+  }
+  {
+    id: 2628
+    name: 威廉逃跑lv3
+    conflict_type: 2628
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 2629
+    name: M16A1大招预备
+    conflict_type: 2629
+    max_tier: 3
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 2630
+    name: M16A1增益预备
+    conflict_type: 2630
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    trigger_creation_id: "7214"
+  }
+  {
+    id: 2631
+    name: 威廉召唤lv3-死亡
+    conflict_type: 2631
+    max_tier: 11
+    type: 400
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 2632
+    name: 威廉近身检测2
+    conflict_type: 2632
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "30"
+    boss_available: 1
+    forced_skill: "450117"
+  }
+  {
+    id: 2633
+    name: 威廉近身反馈2
+    conflict_type: 2633
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 2634
+    name: 威廉逃跑lv4
+    conflict_type: 2634
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 2635
+    name: M16A1追杀
+    conflict_type: 2635
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+  }
+  {
+    id: 2636
+    name: M16A1结束追杀
+    conflict_type: 2636
+    max_tier: 1
+    type: 221
+    duration_type: 1
+    duration: "99999"
+    boss_available: 1
+    buff_sp_attributes: "1"
+  }
+  {
     id: 3000
     name: Beer
     description: Beer
@@ -34733,6 +34893,18 @@
     duration_type: 1
     duration: *101
     trigger_creation_id: "9134"
+    is_form_play: 1
+  }
+  {
+    id: 6348
+    name: 海盗船眩晕
+    conflict_type: 6348
+    max_tier: 1
+    type: 221
+    duration_type: 1
+    duration: *101
+    boss_available: 1
+    trigger_creation_id: "209"
     is_form_play: 1
   }
   {
@@ -62105,7 +62277,9 @@
     duration_type: 1
     duration: "600"
     boss_available: 1
-    fix_damage: 1000009897
+    trigger_creation_id: "3831"
+    is_form_play: 1
+    fix_damage: 1000009913
   }
   {
     id: 9871
@@ -62303,7 +62477,7 @@
     duration: *101
     boss_available: 1
     dodge_number: *201
-    trigger_creation_id: "206"
+    trigger_creation_id: "3835"
     is_form_play: 1
   }
   {
@@ -62316,7 +62490,7 @@
     duration: *102
     boss_available: 1
     pow_number: *202
-    trigger_creation_id: "205"
+    trigger_creation_id: "3835"
     is_form_play: 1
   }
   {
@@ -62329,7 +62503,7 @@
     duration: *102
     boss_available: 1
     rate_number: *203
-    trigger_creation_id: "208"
+    trigger_creation_id: "3835"
     is_form_play: 1
   }
   {
@@ -62387,6 +62561,168 @@
     duration: "120"
     boss_available: 1
     critical_damage_number: "110"
+  }
+  {
+    id: 9895
+    name: AUG套装装备1
+    conflict_type: 9895
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9896
+    name: AUG套装装备2
+    conflict_type: 9896
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9897
+    name: AUG套装
+    conflict_type: 9897
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9898
+    name: 春田套装装备1
+    conflict_type: 9898
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9899
+    name: 春田套装装备2
+    conflict_type: 9899
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9900
+    name: 春田套装
+    conflict_type: 9900
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9901
+    name: AUG友方死亡监视
+    conflict_type: 9901
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "10"
+    boss_available: 1
+    watch_id: 1078
+  }
+  {
+    id: 9902
+    name: AUG敌方死亡监视
+    conflict_type: 9902
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: "10"
+    boss_available: 1
+    watch_id: 1079
+  }
+  {
+    id: 9903
+    name: AUG死亡标记
+    conflict_type: 9903
+    max_tier: 20
+    type: 415
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9904
+    name: AUG套装-穿甲增加
+    conflict_type: 9904
+    max_tier: 1
+    type: 811
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+    arp_number: "100"
+    buff_sp_attributes: "1"
+  }
+  {
+    id: 9905
+    name: AUG套装-暴击伤害增加
+    conflict_type: 9905
+    max_tier: 1
+    type: 812
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+    critical_damage_number: "30"
+    buff_sp_attributes: "1"
+  }
+  {
+    id: 9906
+    name: AUG套装-伤害增加
+    conflict_type: 9906
+    max_tier: 1
+    type: 801
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+    pow_number: "200"
+    buff_sp_attributes: "1"
+  }
+  {
+    id: 9907
+    name: 春田无套装技能触发
+    conflict_type: 9907
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9908
+    name: 春田套装技能触发
+    conflict_type: 9908
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9909
+    name: 春田套装护盾
+    conflict_type: 9909
+    max_tier: 1
+    type: 109
+    duration_type: 1
+    duration: "150"
+    boss_available: 1
+    shield_number: *201
+    trigger_creation_id: "220"
+    buff_animation: BlueFlash
+    buff_description: ShieldText
   }
   {
     id: 10000

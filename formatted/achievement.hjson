@@ -18092,4 +18092,38 @@
     icon_code: 不使用控制台
     condition: 11887:1188702,11892:1188702,11896:1189602
   }
+  {
+    identity: 1266
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 蛛網翦除
+    content: 虛粒子對-真空管：發現並拆除威廉的監視器後完成關卡。
+    type_sort: 100
+    sort: 337
+    icon_code: 蛛网剪除
+    condition: 11920:1192002,11927:1192002,11932:1192002
+  }
+  {
+    identity: 1267
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 無形之手
+    content: 虛粒子對-臨終的偵探：在指揮官不參與戰鬥的情況下完成關卡。
+    type_sort: 100
+    sort: 338
+    icon_code: 无形之手
+    condition: 11924:1192402
+  }
 ]

@@ -4760,7 +4760,7 @@
   {
     id: 760
     description: Maxim 9自伤
-    extra_damage: "50"
+    extra_damage: "400"
     buff_id_self: 9885:1
     buff_rate: "100"
   }
@@ -4768,6 +4768,25 @@
     id: 761
     description: Maxim 9影响格自伤
     extra_damage: "50"
+  }
+  {
+    id: 762
+    description: 海盗船伤害
+    extra_damage: *201
+    critical_hit_rate: "100"
+    float_wide: 15
+    is_form_hurt: 1
+    hit_type: 1
+  }
+  {
+    id: 763
+    description: 春田套装溅射
+    damage_ratio: "200"
+    is_critical_hit: 1
+    critical_hit_rate: "100"
+    float_wide: 15
+    is_form_hurt: 1
+    hit_type: 1
   }
   {
     id: 900
@@ -11437,7 +11456,6 @@
     extra_defbreak: "100"
     hit_type: 1
     is_ricochet: 100
-    fix_damage: "1000020001"
   }
   {
     id: 3102
@@ -11447,6 +11465,41 @@
     is_form_hurt: 1
     hit_type: 1
     fix_damage: "1000020002"
+  }
+  {
+    id: 3103
+    description: M16A1手榴弹
+    critical_hit_rate: "100"
+    float_wide: 15
+    is_form_hurt: 1
+    buff_rate: "100"
+    extra_defbreak: "100"
+    hit_type: 1
+    is_ricochet: 100
+    fix_damage: "1000020004"
+    range_buff_self: 2626:1
+  }
+  {
+    id: 3104
+    description: M16A1大招
+    critical_hit_rate: "100"
+    float_wide: 15
+    is_form_hurt: 1
+    extra_defbreak: "100"
+    hit_type: 1
+    is_ricochet: 100
+    fix_damage: "1000020005"
+  }
+  {
+    id: 3105
+    description: M16A1追杀伤害
+    critical_hit_rate: "100"
+    float_wide: 15
+    is_form_hurt: 1
+    buff_rate: "100"
+    hit_type: 1
+    fix_damage: "1000020006"
+    range_buff_target: 2635:1
   }
   {
     id: 4001

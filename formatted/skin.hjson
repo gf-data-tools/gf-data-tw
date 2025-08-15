@@ -293,6 +293,17 @@
     skin_source: 1
   }
   {
+    id: 211
+    name: 格琳娜-前線風雲
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    dialog: 雖然平時工作在後勤，但到了關鍵時刻，即便是我也能夠衝鋒陷陣……好了，指揮官，我們出發吧。
+    gift_position: "-130,-4.5"
+    class_id: 52
+    skin_source: 1
+  }
+  {
     id: 212
     name: 格琳娜-正裝時刻
     fit_gun: -1
