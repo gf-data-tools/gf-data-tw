@@ -1,17 +1,6 @@
 [
   {
     day: "1"
-    start_time: 2025-06-20 00:00:00
-    end_time: 2025-07-17 23:59:59
-    attendance_type: "2"
-    mp: "5000"
-    ammo: "5000"
-    mre: "5000"
-    part: "5000"
-    core: "30"
-  }
-  {
-    day: "1"
     start_time: 2025-07-01 00:00:00
     end_time: 2025-07-31 23:59:59
     attendance_type: "1"
@@ -23,13 +12,6 @@
     end_time: 2025-08-31 23:59:59
     attendance_type: "1"
     mp: "200"
-  }
-  {
-    day: "2"
-    start_time: 2025-06-20 00:00:00
-    end_time: 2025-07-17 23:59:59
-    attendance_type: "2"
-    item_ids: 45-1000
   }
   {
     day: "2"
@@ -47,13 +29,6 @@
   }
   {
     day: "3"
-    start_time: 2025-06-20 00:00:00
-    end_time: 2025-07-17 23:59:59
-    attendance_type: "2"
-    prize_id: "2702"
-  }
-  {
-    day: "3"
     start_time: 2025-07-01 00:00:00
     end_time: 2025-07-31 23:59:59
     attendance_type: "1"
@@ -65,13 +40,6 @@
     end_time: 2025-08-31 23:59:59
     attendance_type: "1"
     mre: "200"
-  }
-  {
-    day: "4"
-    start_time: 2025-06-20 00:00:00
-    end_time: 2025-07-17 23:59:59
-    attendance_type: "2"
-    item_ids: 1-10,2-10,3-20
   }
   {
     day: "4"
@@ -91,13 +59,6 @@
   }
   {
     day: "5"
-    start_time: 2025-06-20 00:00:00
-    end_time: 2025-07-17 23:59:59
-    attendance_type: "2"
-    gem: "150"
-  }
-  {
-    day: "5"
     start_time: 2025-07-01 00:00:00
     end_time: 2025-07-31 23:59:59
     attendance_type: "1"
@@ -109,13 +70,6 @@
     end_time: 2025-08-31 23:59:59
     attendance_type: "1"
     item_ids: 4-3
-  }
-  {
-    day: "6"
-    start_time: 2025-06-20 00:00:00
-    end_time: 2025-07-17 23:59:59
-    attendance_type: "2"
-    item_ids: 605-5
   }
   {
     day: "6"
@@ -133,17 +87,6 @@
   }
   {
     day: "7"
-    start_time: 2025-06-20 00:00:00
-    end_time: 2025-07-17 23:59:59
-    attendance_type: "2"
-    mp: "5000"
-    ammo: "5000"
-    mre: "5000"
-    part: "5000"
-    core: "30"
-  }
-  {
-    day: "7"
     start_time: 2025-07-01 00:00:00
     end_time: 2025-07-31 23:59:59
     attendance_type: "1"
@@ -155,13 +98,6 @@
     end_time: 2025-08-31 23:59:59
     attendance_type: "1"
     gem: "30"
-  }
-  {
-    day: "8"
-    start_time: 2025-06-20 00:00:00
-    end_time: 2025-07-17 23:59:59
-    attendance_type: "2"
-    item_ids: 45-1000
   }
   {
     day: "8"
@@ -181,13 +117,6 @@
   }
   {
     day: "9"
-    start_time: 2025-06-20 00:00:00
-    end_time: 2025-07-17 23:59:59
-    attendance_type: "2"
-    item_ids: 1-10,2-10,3-20
-  }
-  {
-    day: "9"
     start_time: 2025-07-01 00:00:00
     end_time: 2025-07-31 23:59:59
     attendance_type: "1"
@@ -199,13 +128,6 @@
     end_time: 2025-08-31 23:59:59
     attendance_type: "1"
     ammo: "400"
-  }
-  {
-    day: "10"
-    start_time: 2025-06-20 00:00:00
-    end_time: 2025-07-17 23:59:59
-    attendance_type: "2"
-    item_ids: 100272-1
   }
   {
     day: "10"
@@ -223,13 +145,6 @@
   }
   {
     day: "11"
-    start_time: 2025-06-20 00:00:00
-    end_time: 2025-07-17 23:59:59
-    attendance_type: "2"
-    gem: "150"
-  }
-  {
-    day: "11"
     start_time: 2025-07-01 00:00:00
     end_time: 2025-07-31 23:59:59
     attendance_type: "1"
@@ -243,13 +158,6 @@
     attendance_type: "1"
     part: "120"
     core: "2"
-  }
-  {
-    day: "12"
-    start_time: 2025-06-20 00:00:00
-    end_time: 2025-07-17 23:59:59
-    attendance_type: "2"
-    prize_id: "2876"
   }
   {
     day: "12"
