@@ -62725,6 +62725,28 @@
     buff_description: ShieldText
   }
   {
+    id: 9910
+    name: SAF装备
+    conflict_type: 9910
+    max_tier: 1
+    type: 500
+    duration_type: 1
+    duration: "-1"
+    boss_available: 1
+  }
+  {
+    id: 9911
+    name: SAF专属眩晕
+    conflict_type: 9911
+    max_tier: 1
+    type: 221
+    duration_type: 1
+    duration: "90"
+    boss_available: 1
+    trigger_creation_id: "209"
+    is_form_play: 1
+  }
+  {
     id: 10000
     name: 主动技能用
     conflict_type: 101

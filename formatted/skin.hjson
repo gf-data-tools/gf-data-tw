@@ -9615,6 +9615,7 @@
     fit_gun: 97
     voice: 15
     dialog: 這身衣服配上竹林布景……會很奇怪嗎？雷電說，還挺適合我的來著……啊，你也這麼覺得？謝、謝謝誇獎……
+    gift_position: "-286280"
     illustrator_cv: 八號地球,古賀葵,
     order: 148
     class_id: 110
@@ -9626,6 +9627,7 @@
     fit_gun: 311
     voice: 15
     dialog: 呀呼，教練新年好！我正在給隊員們派發紅包……當然是用跑的了，體能訓練對於足球比賽也是很重要的喔！
+    gift_position: "-54,23"
     order: 148
     class_id: 110
     skin_source: 1
@@ -10009,6 +10011,7 @@
     fit_gun: 400
     voice: 4
     dialog: 指揮官，哼哼，一起來打一場酣暢淋漓的羽毛球比賽吧！……別、別犯睏呀，我還沒發球呢！
+    gift_position: "-179,169"
     order: 136
   }
   {
@@ -10098,7 +10101,16 @@
     voice: 4
     dialog: 指揮官，我們出發吧？山路可能會有些髒亂，不過請放心……我會為您規劃出最乾淨的路線的。
     illustrator_cv: Alize,白砂沙帆,
-    order: 155
+    order: 156
+  }
+  {
+    id: 30032
+    name: Six-12-藏藍色天際
+    fit_gun: 278
+    voice: 4
+    dialog: 從高處俯瞰這座城市的時候，讓我更加堅定了守護它的決心……未來的海洋，一定也會是這般美麗吧？
+    illustrator_cv: --,大森日雅,
+    order: 157
   }
   {
     id: 50001

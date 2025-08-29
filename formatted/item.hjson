@@ -16693,6 +16693,24 @@
     rank: 1
   }
   {
+    id: 2703
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_Six12
+    item_name: Six-12-藏藍色天際
+    introduction: Six-12-藏藍色天際
+    rank: 1
+  }
+  {
+    id: 2704
+    type: 5
+    arg: "1"
+    code: card_BattlePass_Six12
+    item_name: 名片：獨戰迷城
+    introduction: 名片：獨戰迷城
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -18470,6 +18488,15 @@
     code: gift_bundle_BattlePass_STG44
     item_name: StG44-澗野尋蹤
     introduction: 指揮官，我們出發吧？山路可能會有些髒亂，不過請放心……我會為您規劃出最乾淨的路線的。
+    rank: 1
+  }
+  {
+    id: 30032
+    type: 1
+    arg: "30032"
+    code: gift_bundle_BattlePass_Six12
+    item_name: Six-12-藏藍色天際
+    introduction: 從高處俯瞰這座城市的時候，讓我更加堅定了守護它的決心……未來的海洋，一定也會是這般美麗吧？
     rank: 1
   }
   {
@@ -21077,6 +21104,34 @@
     item_name: 蝕心面具·虛粒子對
     introduction: 散發著詭譎氣息的面具，只有通過極為艱險的考驗才能獲得。留在手中似乎沒有什麼用，但能夠在商店換取到一個期望已久的相遇。
     rank: 1
+  }
+  {
+    id: 100284
+    type: 4
+    arg: "100284"
+    code: Nova_medal
+    item_name: 新星勳章·蝴蝶星雲
+    introduction: 新星勳章·蝴蝶星雲
+    rank: 1
+  }
+  {
+    id: 100285
+    type: 4
+    arg: "100285"
+    code: Platinum_medal
+    item_name: 白金勳章·蝴蝶星雲
+    introduction: 白金勳章·蝴蝶星雲
+    rank: 1
+  }
+  {
+    id: 100286
+    type: 9
+    arg: "100286"
+    code: Coin_202411LorenzButterfly
+    item_name: 柯恩幣
+    introduction: 暗區的流通貨幣，無論在官方還是黑市，都被認可。
+    rank: 1
+    daily_limit: 60;180
   }
   {
     id: 110001
@@ -23757,6 +23812,22 @@
     rank: 1
   }
   {
+    id: 140063
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第32期前線協議
+    rank: 1
+  }
+  {
+    id: 140064
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第32期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -24271,6 +24342,15 @@
     code: profileFrame_BattlePass_STG44
     item_name: 頭像框·浣影踏秋
     introduction: 頭像框·浣影踏秋
+    rank: 1
+  }
+  {
+    id: 200057
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_Six12
+    item_name: 頭像框·摩天奇境
+    introduction: 頭像框·摩天奇境
     rank: 1
   }
   {
@@ -27038,8 +27118,8 @@
     type: 15
     arg: "1500242"
     code: package_choose
-    item_name: 基礎裝備自選序標
-    introduction: 來自於前線協議-出發！浣熊探險隊，可從該指定投遞配給序標內選擇獲取一件裝備
+    item_name: item-11500242
+    introduction: 來自於前線協議-遇見甜甜圈，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
     type_sort: 1
@@ -27049,8 +27129,8 @@
     type: 15
     arg: "1500243"
     code: package_choose
-    item_name: 配件類裝備自選包
-    introduction: 來自於前線協議-出發！浣熊探險隊，可從該指定投遞配給序標內選擇獲取一件配件類裝備
+    item_name: 人形類裝備自選包
+    introduction: 來自於前線協議-遇見甜甜圈，可從該指定投遞配給序標內選擇獲取一件人形類裝備
     rank: 1
     sort: -1
     type_sort: 1
@@ -27061,7 +27141,7 @@
     arg: "1500244"
     code: package_random
     item_name: 必得未解鎖人形序標
-    introduction: 來自於前線協議-出發！浣熊探險隊，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    introduction: 來自於前線協議-遇見甜甜圈，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
     type_sort: 1
@@ -27072,7 +27152,7 @@
     arg: "1500245"
     code: package_random
     item_name: 前線協議-額外獎勵
-    introduction: 來自於前線協議-出發！浣熊探險隊，可從該區間空投序標內隨機獲取一項道具
+    introduction: 來自於前線協議-遇見甜甜圈，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
     type_sort: 1
@@ -27116,7 +27196,7 @@
     arg: "1500249"
     code: package_choose
     item_name: 基礎裝備自選序標
-    introduction: 來自於前線協議-遇見甜甜圈，可從該指定投遞配給序標內選擇獲取一件裝備
+    introduction: 來自於前線協議-出發！浣熊探險隊，可從該指定投遞配給序標內選擇獲取一件裝備
     rank: 1
     sort: -1
     type_sort: 1
@@ -27126,8 +27206,8 @@
     type: 15
     arg: "1500250"
     code: package_choose
-    item_name: 人形類裝備自選包
-    introduction: 來自於前線協議-遇見甜甜圈，可從該指定投遞配給序標內選擇獲取一件人形類裝備
+    item_name: 配件類裝備自選包
+    introduction: 來自於前線協議-出發！浣熊探險隊，可從該指定投遞配給序標內選擇獲取一件配件類裝備
     rank: 1
     sort: -1
     type_sort: 1
@@ -27138,7 +27218,7 @@
     arg: "1500251"
     code: package_random
     item_name: 必得未解鎖人形序標
-    introduction: 來自於前線協議-遇見甜甜圈，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    introduction: 來自於前線協議-出發！浣熊探險隊，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
     rank: 1
     sort: -1
     type_sort: 1
@@ -27149,7 +27229,7 @@
     arg: "1500252"
     code: package_random
     item_name: 前線協議-額外獎勵
-    introduction: 來自於前線協議-遇見甜甜圈，可從該區間空投序標內隨機獲取一項道具
+    introduction: 來自於前線協議-出發！浣熊探險隊，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
     type_sort: 1
@@ -27263,6 +27343,83 @@
     arg: "1500262"
     code: Bumdle_UrbanBeautyCoupons3
     item_name: 致臻裝扮券·都市風尚
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內選擇獲得一件裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500263
+    type: 15
+    arg: "1500263"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-失夢都市，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500264
+    type: 15
+    arg: "1500264"
+    code: package_choose
+    item_name: 彈匣類裝備自選包
+    introduction: 來自於前線協議-失夢都市，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500265
+    type: 15
+    arg: "1500265"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-失夢都市，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500266
+    type: 15
+    arg: "1500266"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-失夢都市，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500267
+    type: 15
+    arg: "1500267"
+    code: Bumdle_SpringFestivalCoupons1
+    item_name: 珍藏裝扮券·春節
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500268
+    type: 15
+    arg: "1500268"
+    code: Bumdle_SpringFestivalCoupons2
+    item_name: 尊享裝扮券·春節
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500269
+    type: 15
+    arg: "1500269"
+    code: Bumdle_SpringFestivalCoupons3
+    item_name: 致臻裝扮券·春節
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內選擇獲得一件裝扮。
     rank: 1
     sort: -1
