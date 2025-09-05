@@ -16711,6 +16711,33 @@
     rank: 1
   }
   {
+    id: 2705
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season21_1
+    item_name: 能譜標軸 · 代號拾玖：譜矩
+    introduction: 能譜標軸 · 代號拾玖：譜矩
+    rank: 1
+  }
+  {
+    id: 2706
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season22_2
+    item_name: 無垠標記 · 代號拾玖：譜矩
+    introduction: 無垠標記 · 代號拾玖：譜矩
+    rank: 1
+  }
+  {
+    id: 2707
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season23_3
+    item_name: 裂光象限 · 代號拾玖：譜矩
+    introduction: 裂光象限 · 代號拾玖：譜矩
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -18404,6 +18431,15 @@
     id: 10731
     type: 18
     arg: "10731"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10732
+    type: 18
+    arg: "10732"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
@@ -27426,6 +27462,21 @@
     type_sort: 1
   }
   {
+    id: 1500270
+    type: 15
+    arg: "1500270"
+    code: Bumdle_sangvischoose
+    item_name: 蝴蝶星雲特別收歸委託書
+    introduction:
+      '''
+      在倉庫中使用該委託書，即可從指定範圍內選擇獲得一位初始三星融合勢力單位。
+      *若指揮官未解鎖「融合勢力」系統，在獲得所選的初始三星融合勢力單位後將暫時無法使用，待後續指揮官解鎖了「融合勢力」系統後可正常使用。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -28237,6 +28288,39 @@
     id: 1700072
     type: 15
     arg: "1700072"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700073
+    type: 15
+    arg: "1700073"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700074
+    type: 15
+    arg: "1700074"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700075
+    type: 15
+    arg: "1700075"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

@@ -13474,6 +13474,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_22winter
+    event_id: 4139
   }
   {
     id: 1031
@@ -13488,6 +13489,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_22winter
+    event_id: 4140
   }
   {
     id: 1032
@@ -13502,6 +13504,7 @@
     filter_type: "1"
     frame_id: 200005
     logo_code: logo_22winter
+    event_id: 4141
   }
   {
     id: 1033
@@ -16673,6 +16676,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 4136
   }
   {
     id: 1298
@@ -16685,6 +16689,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 4137
   }
   {
     id: 1299
@@ -16755,6 +16760,7 @@
     order: 1
     rarity: 5
     filter_type: "1"
+    event_id: 4138
   }
   {
     id: 1305
@@ -21409,6 +21415,39 @@
     code: card_BattlePass_Six12
     order: 1
     rarity: 5
+  }
+  {
+    id: 1705
+    item_id: 2705
+    sub_type: 1
+    code: profilePic_ChessFlight_season21_1
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200008
+    logo_code: logo_flightchess_major
+  }
+  {
+    id: 1706
+    item_id: 2706
+    sub_type: 1
+    code: profilePic_ChessFlight_season21_2
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200007
+    logo_code: logo_flightchess_general
+  }
+  {
+    id: 1707
+    item_id: 2707
+    sub_type: 1
+    code: profilePic_ChessFlight_season21_3
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200006
+    logo_code: logo_flightchess_chief
   }
   {
     id: 2501
