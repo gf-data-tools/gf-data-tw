@@ -623,7 +623,7 @@
     path: CLASS62
     des_year: "2025"
     source: 2
-    source_description: 韓台春節活動
+    source_description: 2025秋季簽到
   }
   {
     id: 63
@@ -648,6 +648,17 @@
     des_year: "2025"
     source: 2
     source_description: 2025周年活動獎勵
+  }
+  {
+    id: 65
+    name: 靜日繁花
+    description: 將這份永不凋謝的芬芳戴在頭上吧。無論前線的戰況如何，背後總會有這樣一個人，為你打點好一切。
+    group_id: "103"
+    code: commander_6520_icon
+    path: CLASS65
+    des_year: "2025"
+    source: 2
+    source_description: 零態潮汐活動排名獎勵
   }
   {
     id: 99

@@ -3907,6 +3907,20 @@
     color_icon_id: "961"
   }
   {
+    id: 6520
+    name: 靜日繁花
+    description: 將這份永不凋謝的芬芳戴在頭上吧。無論前線的戰況如何，背後總會有這樣一個人，為你打點好一切。
+    code: HeadAcco
+    icon: commander_6520_icon
+    type: 2
+    uniform_class: "65"
+    color_normal: Commander_6520_N
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "-0.045,0.272"
+    color_icon_id: "962"
+  }
+  {
     id: 9920
     name: 活力偽裝
     description: 永遠展現最好的我。

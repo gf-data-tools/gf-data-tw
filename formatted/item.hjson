@@ -904,6 +904,15 @@
     rank: 1
   }
   {
+    id: 151
+    type: 3
+    arg: "52"
+    code: Medal_202509Activity_rank
+    item_name: 逆潮者勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在「靜默沙盤」活動中的卓越戰績，「混沌的潮汐在您的計算中靜止，文明的秩序在您的沙盤上奠基。」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -16738,6 +16747,24 @@
     rank: 1
   }
   {
+    id: 2708
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_HK416
+    item_name: HK416-緋染薄櫻
+    introduction: HK416-緋染薄櫻
+    rank: 1
+  }
+  {
+    id: 2709
+    type: 5
+    arg: "1"
+    code: card_BattlePass_HK416
+    item_name: 名片：薄櫻歲時記
+    introduction: 名片：薄櫻歲時記
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -17952,6 +17979,36 @@
     rank: 1
   }
   {
+    id: 9050
+    type: 1
+    arg: "9050"
+    code: Griffin
+    item_name: 指令點數
+    introduction: 指令點數
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9051
+    type: 1
+    arg: "9051"
+    code: Griffin
+    item_name: 指令點數
+    introduction: 指令點數
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9052
+    type: 1
+    arg: "9052"
+    code: Griffin
+    item_name: 指令點數
+    introduction: 指令點數
+    rank: 1
+    is_hide_info: 1
+  }
+  {
     id: 9301
     type: 1
     arg: "9301"
@@ -18446,6 +18503,16 @@
     rank: 1
   }
   {
+    id: 10733
+    type: 18
+    arg: "10733"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+    detail_introduction: item-30010733
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"
@@ -18533,6 +18600,15 @@
     code: gift_bundle_BattlePass_Six12
     item_name: Six-12-藏藍色天際
     introduction: 從高處俯瞰這座城市的時候，讓我更加堅定了守護它的決心……未來的海洋，一定也會是這般美麗吧？
+    rank: 1
+  }
+  {
+    id: 30033
+    type: 1
+    arg: "30033"
+    code: gift_bundle_BattlePass_HK416
+    item_name: HK416-緋染薄櫻
+    introduction: 櫻花飄落只需要幾秒鐘……那就趁這轉瞬即逝的片刻，把我的樣子——還有這片景色，都刻在你的記憶裡吧。
     rank: 1
   }
   {
@@ -21170,6 +21246,24 @@
     daily_limit: 60;180
   }
   {
+    id: 100287
+    type: 4
+    arg: "100287"
+    code: Platinum_medal_black
+    item_name: 白金勳章
+    introduction: 白金勳章
+    rank: 1
+  }
+  {
+    id: 100288
+    type: 4
+    arg: "100288"
+    code: Bumdle_October4
+    item_name: 楓野巡遊箱
+    introduction: 楓野巡遊箱
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -21858,6 +21952,15 @@
     type: 4
     arg: "110077"
     code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
+    id: 110078
+    type: 4
+    arg: "110078"
+    code: EventPT7
     item_name: 活動點數
     introduction: 活動點數
     rank: 1
@@ -23864,6 +23967,22 @@
     rank: 1
   }
   {
+    id: 140065
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第33期前線協議
+    rank: 1
+  }
+  {
+    id: 140066
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第33期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -24387,6 +24506,15 @@
     code: profileFrame_BattlePass_Six12
     item_name: 頭像框·摩天奇境
     introduction: 頭像框·摩天奇境
+    rank: 1
+  }
+  {
+    id: 200058
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_HK416
+    item_name: 頭像框·花信風間
+    introduction: 頭像框·花信風間
     rank: 1
   }
   {
@@ -27477,6 +27605,94 @@
     type_sort: 1
   }
   {
+    id: 1500271
+    type: 15
+    arg: "1500271"
+    code: Bumdle_equipment
+    item_name: 五星裝備自選憑證
+    introduction: 在倉庫中使用該自選憑證，即可從指定範圍內選擇獲得一個非專屬五星裝備。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500272
+    type: 15
+    arg: "1500272"
+    code: Bumdle_HalloweenCoupons1
+    item_name: 珍藏裝扮券·萬聖
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500273
+    type: 15
+    arg: "1500273"
+    code: Bumdle_HalloweenCoupons2
+    item_name: 尊享裝扮券·萬聖
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500274
+    type: 15
+    arg: "1500274"
+    code: Bumdle_HalloweenCoupons3
+    item_name: 致臻裝扮券·萬聖
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內選擇獲得一件裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500275
+    type: 15
+    arg: "1500275"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-相約櫻落時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500276
+    type: 15
+    arg: "1500276"
+    code: package_choose
+    item_name: 人形類裝備自選包
+    introduction: 來自於前線協議-相約櫻落時，可從該指定投遞配給序標內選擇獲取一件人形類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500277
+    type: 15
+    arg: "1500277"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-相約櫻落時，可必定獲得該序標內圖鑒未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500278
+    type: 15
+    arg: "1500278"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-相約櫻落時，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -28321,6 +28537,39 @@
     id: 1700075
     type: 15
     arg: "1700075"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700076
+    type: 15
+    arg: "1700076"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700077
+    type: 15
+    arg: "1700077"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700078
+    type: 15
+    arg: "1700078"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

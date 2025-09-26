@@ -14099,4 +14099,11 @@
     title: 棋手
     start: -76-A-20
   }
+  {
+    id: 1444
+    mission_id: "11946"
+    campaign: -77
+    title: 靜默沙盤
+    start: -77-1-1
+  }
 ]

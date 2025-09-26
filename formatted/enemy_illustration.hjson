@@ -1460,6 +1460,29 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 47002
+    id: 47
+    name: 劍盾士
+    sub_name: 劍盾士
+    type: 3
+    code: Rodelero
+    introduce: 靈活的重火力人形，裝備有噴射背包，可以使其從戰場後方快速飛躍到前排，並使用蓄能完畢的雷射炮貫穿戰場。同時它還配備了力場盾生成器，可以彈開敵人的實彈攻擊。
+    forces: 3
+    pow_rank: 3
+    life_rank: 4
+    hit_rank: 3
+    dodge_rank: 3
+    rate_rank: 1
+    armor_rank: 2
+    speed_rank: 3
+    range_rank: 4
+    counter: 加強了火力和護甲的進階型劍盾士，請注意使用合理的策略應對。
+    character: "309,312,320"
+    enemy_skill: "27"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "90,90,1"
+  }
+  {
     sub_id: 48001
     id: 48
     name: 巨劍士
@@ -1479,6 +1502,28 @@
     character: "1003,302,309,312,319"
     enemy_skill: "28,29"
     launch_time: 2016-5-20 00:00:00
+    spine_scale: "60,60,1"
+  }
+  {
+    sub_id: 48002
+    id: 48
+    name: 巨劍士
+    sub_name: 巨劍士
+    type: 3
+    code: Doppelsoldner
+    introduce: 強大的重火力機甲，本身裝甲厚重的同時，也配備了力場盾產生器。攻擊手段除了雙手的高速機關炮，還可使用多聯裝榴彈發射器，造成大範圍傷害。
+    forces: 3
+    pow_rank: 2
+    life_rank: 4
+    hit_rank: 3
+    rate_rank: 3
+    armor_rank: 4
+    speed_rank: 1
+    range_rank: 3
+    counter: 加強了射程但降低了火力的遠程型巨劍士，請注意使用合理的策略應對。
+    character: "1003,302,309,312,319"
+    enemy_skill: "28,29"
+    launch_time: 2035-12-31 00:00:00
     spine_scale: "60,60,1"
   }
   {
@@ -3074,6 +3119,29 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 119002
+    id: 119
+    name: 偵察士
+    sub_name: 偵察士
+    type: 4
+    code: Thunder_New
+    introduce: 利用搭載於身體下方的炮台攻擊，遭受攻擊時會利用跳躍閃避。與神秘勢力有所關聯。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 4
+    armor_rank: 4
+    speed_rank: 2
+    range_rank: 4
+    counter: 加強了火力的進階型偵察士，請注意使用合理的策略應對。
+    character: "1001,302,309,310,315"
+    enemy_skill: "36"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "50,50,1"
+  }
+  {
     sub_id: 120001
     id: 120
     name: 重炮士
@@ -3093,6 +3161,27 @@
     character: "1003,312,316"
     enemy_skill: "39"
     launch_time: 2016-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 120002
+    id: 120
+    name: 重炮士
+    sub_name: 重炮士
+    type: 3
+    code: Soldier_New
+    introduce: 與射擊士極為類似，搭載更加強大的火力，並且使用特殊的彈藥降低我方人形的迴避率。與神秘勢力有所關聯。
+    forces: 3
+    pow_rank: 4
+    life_rank: 3
+    hit_rank: 3
+    dodge_rank: 5
+    rate_rank: 3
+    speed_rank: 1
+    range_rank: 4
+    counter: 加強了火力和護甲的進階型重炮士，請注意使用合理的策略應對。
+    character: "1003,312,316"
+    launch_time: 2035-12-31 00:00:00
     spine_scale: "100,100,1"
   }
   {
@@ -3478,6 +3567,28 @@
     character: "1001,216,440"
     enemy_skill: "131,132,133,134"
     launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 138002
+    id: 138
+    name: 緹
+    sub_name: 緹
+    type: 1
+    code: Teal
+    introduce: 帕拉蒂斯的精銳單位，冷靜而審慎，擁有強大的判斷力和對情緒的控制力。經常和格雷協同作戰，非常信賴她。擅長使用長劍潛伏暗殺，在抓住敵人露出破綻的一瞬，以無法用肉眼捕捉的速度一招致命。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 該單位擁有可怕的斬殺續航的能力，我方的強力輸出單位需要注意不被鎖定。
+    character: "1001,216,440"
+    enemy_skill: "256,257,258,259,260,261,262,263"
+    launch_time: 2035-5-20 00:00:00
     spine_scale: "70,70,1"
   }
   {
@@ -5895,6 +6006,29 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 255002
+    id: 255
+    name: 威廉
+    sub_name: 威廉
+    type: 1
+    code: BossWilliam
+    introduce: 新世界的大門已經近在眼前，這是威廉所期望的最後一刻，他不允許任何人阻止。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 情報不明,謹慎應對!
+    character: "1001,1004"
+    enemy_skill: "264,265,266,267,268"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
     sub_id: 256001
     id: 256
     name: '''"贗品"'''
@@ -5935,6 +6069,30 @@
     counter: 未實裝
     character: "1001,309"
     launch_time: 2035-12-31 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 100001002
+    id: 100001
+    name: 鶚視虎
+    sub_name: 鶚視虎
+    type: 1
+    code: Gebbennu
+    introduce: 神秘的巨型複式戰鬥單位，火力極強，除此以外的地方都是謎團。
+    forces: 3
+    pow_rank: 6
+    life_rank: 7
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 4
+    armor_rank: 4
+    speed_rank: 4
+    range_rank: 5
+    counter: 情報不明,謹慎應對!
+    character: "1001"
+    enemy_skill: "251,252,253,254,255"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "100,100,1"
   }
   {
     sub_id: 100009001

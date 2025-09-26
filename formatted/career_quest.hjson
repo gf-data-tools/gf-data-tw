@@ -3538,8 +3538,8 @@
     type: participate_theater
     count: 1
     prize_id: 11256
-    title: 戰區：戰區挑戰
-    content: 參與1次戰區
+    title: 常駐活動：積分模式
+    content: 參與1次常駐活動-積分模式挑戰
     new_type: 1
     grade_id: 45
     sort: 353
