@@ -22965,62 +22965,62 @@
   {
     id: 8554
     name: 塔妹支援开局1
-    creation_order: "9036,9067"
-    creation_delay: "1,0"
+    creation_order: "9036,9067,5790"
+    creation_delay: "1,0,0"
   }
   {
     id: 8555
     name: 塔妹支援开局2
-    creation_order: "9037,9067"
-    creation_delay: "1,0"
+    creation_order: "9037,9067,5790"
+    creation_delay: "1,0,0"
   }
   {
     id: 8556
     name: 塔妹支援开局3
-    creation_order: "9038,9067"
-    creation_delay: "1,0"
+    creation_order: "9038,9067,5790"
+    creation_delay: "1,0,0"
   }
   {
     id: 8557
     name: 塔妹支援开局4
-    creation_order: "9039,9067"
-    creation_delay: "1,0"
+    creation_order: "9039,9067,5790"
+    creation_delay: "1,0,0"
   }
   {
     id: 8558
     name: 塔妹支援开局5
-    creation_order: "9040,9067"
-    creation_delay: "1,0"
+    creation_order: "9040,9067,5790"
+    creation_delay: "1,0,0"
   }
   {
     id: 8559
     name: 塔妹支援开局6
-    creation_order: "9041,9067"
-    creation_delay: "1,0"
+    creation_order: "9041,9067,5790"
+    creation_delay: "1,0,0"
   }
   {
     id: 8560
     name: 塔妹支援开局7
-    creation_order: "9042,9067"
-    creation_delay: "1,0"
+    creation_order: "9042,9067,5790"
+    creation_delay: "1,0,0"
   }
   {
     id: 8561
     name: 塔妹支援开局8
-    creation_order: "9067,9067"
-    creation_delay: "1,0"
+    creation_order: "9067,9067,5790"
+    creation_delay: "1,0,0"
   }
   {
     id: 8562
     name: 塔妹支援开局9
-    creation_order: "9044,9067"
-    creation_delay: "1,0"
+    creation_order: "9044,9067,5790"
+    creation_delay: "1,0,0"
   }
   {
     id: 8563
     name: 塔妹支援开局10
-    creation_order: "9045,9067"
-    creation_delay: "1,0"
+    creation_order: "9045,9067,5790"
+    creation_delay: "1,0,0"
   }
   {
     id: 8564

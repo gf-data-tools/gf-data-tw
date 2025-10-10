@@ -559,4 +559,22 @@
     group_skill: 2:1008303
     fit_gun: "85"
   }
+  {
+    id: 63
+    name: 凜冬將至
+    des: 為CZ75量身訂製的套裝，專門對付那些上門討打的敵人。
+    code: EgroupCZ75
+    equip_unit: "270,469,0"
+    group_skill: 2:1009203
+    fit_gun: "166"
+  }
+  {
+    id: 64
+    name: 叢林詩人
+    des: 為F1量身訂製的套裝，非常適合外出和冒險。
+    code: EgroupF1
+    equip_unit: "214,0,470"
+    group_skill: 2:1009303
+    fit_gun: "20178"
+  }
 ]

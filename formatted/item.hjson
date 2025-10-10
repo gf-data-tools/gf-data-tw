@@ -909,7 +909,16 @@
     arg: "52"
     code: Medal_202509Activity_rank
     item_name: 逆潮者勳章
-    introduction: 表彰該指揮官及其麾下的戰術人形在「靜默沙盤」活動中的卓越戰績，「混沌的潮汐在您的計算中靜止，文明的秩序在您的沙盤上奠基。」
+    rank: 1
+    detail_introduction: item-30000151
+  }
+  {
+    id: 152
+    type: 3
+    arg: "53"
+    code: Medal_22winter_re_rank
+    item_name: 輪迴行者勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在靜風點積分模式「貝蒂數RE」中的耀眼表現，「建材，這次我一定能拿下更多建材！」
     rank: 1
   }
   {

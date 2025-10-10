@@ -92,8 +92,8 @@
     name: 活動積分排行
     type: "6"
     sub_type: "11946"
-    refresh: end:2025-11-07 10:00:00
-    title: <靜默沙盤>積分榜（10月31日發放獎勵）
+    refresh: end:2025-11-14 10:00:00
+    title: <靜默沙盤>積分榜（11月7日發放獎勵）
     top_rewards: 1:40821,2:40822,3:40823,4:40824,5:40825,6:40826,7:40827,8:40828,9:40829,10:40830,100:40831
     visable_rank: "100"
     visable_count: "100"
@@ -102,9 +102,9 @@
     every_table_num: "30000"
     rank_list_num: "1"
     begin_refresh_time: 2025-10-10
-    end_refresh_time: 2025-11-07
+    end_refresh_time: 2025-11-14
     begin_show_time: 2025-10-10 10:00:00
-    end_show_time: 2025-11-07 10:00:00
+    end_show_time: 2025-11-14 10:00:00
     sub_mission_group: "11946"
     event_rank_id: "14"
     prize_preview: https://gf.txwy.tw/rank
