@@ -3228,13 +3228,13 @@
   }
   {
     id: 9002
-    name: sangvis-10009002
+    name: 稻草人
     en_name: Scarecrow
     code: Scarecrow
-    introduce: sangvis-40009002
+    introduce: 擅長收集和分析情報，並不擅長正面作戰，在鐵血人形中地位較低。理性派，無口毒舌，忠於職守，鄙夷感性，面對感情豐富卻只懂得服從的格里芬人形充滿優越感。
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
-    en_introduce: sangvis-30009002
+    en_introduce: 待定
     forces: 1
     type: 2
     character: "2,4,6"
@@ -3275,13 +3275,13 @@
   }
   {
     id: 9003
-    name: sangvis-10009003
+    name: 劊子手
     en_name: Excutioner
     code: Excutioner
-    introduce: sangvis-40009003
+    introduce: 相當於精英斥候，比稻草人地位稍高，兩人經常搭檔。莽撞衝動，大大咧咧的女漢子，熱衷於堂堂正正的戰鬥，並不喜歡欺負弱者。
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
-    en_introduce: sangvis-30009003
+    en_introduce: 待定
     forces: 1
     type: 2
     character: "2,4,5"
@@ -3322,13 +3322,13 @@
   }
   {
     id: 9004
-    name: sangvis-10009004
+    name: 獵手
     en_name: Hunter
     code: Hunter
-    introduce: sangvis-40009004
+    introduce: 機動和智慧都比較高，擅長騷擾和追擊作戰，需要稻草人與劊子手的配合才能發揮最強的實力。沉著冷靜，喜歡用各種手段將敵人逼到走投無路再活捉，面對格里芬十分高傲，但不屑於使用過於卑劣的手段。
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
-    en_introduce: sangvis-30009004
+    en_introduce: 待定
     forces: 1
     type: 2
     character: "2,4,6"
@@ -3369,13 +3369,13 @@
   }
   {
     id: 9005
-    name: sangvis-10009005
+    name: 破壞者
     en_name: Destroyer
     code: Destroyer
-    introduce: sangvis-40009005
+    introduce: 擅長爆破任務，解除炸彈也是專家級的，作戰能力也不錯，和煉金術士有時會搭檔。平時高傲，毒舌，實際上是個傲嬌，有點小孩子脾氣，逼急了會哭鼻子，十分在意自己的身高。
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
-    en_introduce: sangvis-30009005
+    en_introduce: 待定
     forces: 1
     type: 2
     character: "2,4,6"
@@ -3416,13 +3416,13 @@
   }
   {
     id: 9006
-    name: sangvis-10009006
+    name: 建築師
     en_name: Architect
     code: BossArchitect
-    introduce: sangvis-40009006
+    introduce: 擅長遠程破壞和火力支援，作戰能力很強，通常獨來獨往。活潑開朗的沒頭腦元氣少女，什麼時候都興高采烈，對格里芬也沒有敵對意識，對於鐵血只能最低限度地服從命令，但是對轟炸和破壞十分熱心，所以作為敵人仍然十分危險。
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
-    en_introduce: sangvis-30009006
+    en_introduce: 待定
     forces: 1
     type: 2
     character: "2,4,6"
@@ -3463,13 +3463,13 @@
   }
   {
     id: 9007
-    name: sangvis-10009007
+    name: 夢想家
     en_name: Dreamer
     code: Dreamer
-    introduce: sangvis-40009007
+    introduce: 偏向作戰能力，擁有超遠距離定點打擊的能力，由伊萊莎直接下令指揮，是蝴蝶事件之後才製造的人形，因為自身能力不需要正面出擊，所以平時只待在鐵血總部，以捉弄法官為樂。優雅的笑容中透著傲慢和難以捉摸，精神狀態極不穩定，總是以自我為中心作戰中會露出瘋狂而不受控制的一面，加上可怕的破壞力，連同伴的安全都不會考慮所幸的是通常不會出現在正面戰場上。
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
-    en_introduce: sangvis-30009007
+    en_introduce: 待定
     forces: 1
     type: 2
     character: "2,4,6"
@@ -3510,13 +3510,13 @@
   }
   {
     id: 9008
-    name: sangvis-10009008
+    name: 計量官
     en_name: Gager
     code: BossGager
-    introduce: sangvis-40009008
+    introduce: 主要擔當指揮行動和人員調度，可以直接指揮作戰人形，也具備不小的作戰能力，地位較高，直接對代理人負責。認真嚴謹，一絲不苟，言行中透露出一股凜俐落的氣質，即使對於敵人也很講求原則和禮節。
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
-    en_introduce: sangvis-30009008
+    en_introduce: 待定
     forces: 1
     type: 2
     character: "2,4,6"
@@ -3557,13 +3557,13 @@
   }
   {
     id: 9009
-    name: sangvis-10009009
+    name: 法官
     en_name: Justice
     code: Justice
-    introduce: sangvis-40009009
+    introduce: 偏向指揮能力，負責鐵血總部的防禦和安全系統，相當於伊萊莎的侍衛，只會聽從伊萊莎個人的命令，是蝴蝶事件之後才製造的人形，整天面對夢想家很頭疼。嚴肅古板，充滿軍人的威嚴和風範，對伊萊莎絕對忠誠，但個子比較矮小，讓人覺得缺乏氣勢，提出這一點的人無論敵我都會倒大霉。
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
-    en_introduce: sangvis-30009009
+    en_introduce: 待定
     forces: 1
     type: 2
     character: "1,4,6"
