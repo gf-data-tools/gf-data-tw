@@ -329,14 +329,10 @@
   }
   {
     id: 52
-    type: 1
+    type: 2
     mission_campaign: "-69"
     event_name: 22重困境
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2025-03-07 10:00:00
-    end_time: 2025-03-28 10:00:00
     init_mission_id: "11670"
-    token_item_id: "100261"
   }
   {
     id: 53
@@ -347,14 +343,10 @@
   }
   {
     id: 54
-    type: 1
+    type: 2
     mission_campaign: "-70"
     event_name: 零電荷
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2025-04-11 10:00:00
-    end_time: 2025-05-02 10:00:00
     init_mission_id: "11712"
-    token_item_id: "100264"
   }
   {
     id: 55

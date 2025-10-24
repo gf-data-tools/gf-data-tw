@@ -5260,6 +5260,12 @@ SEPCIALOPS,60862,是否消耗資源跳過關卡,,0
 SEPCIALOPS,60863,消耗所需資源,,0
 SEPCIALOPS,60864,資源不足無法開始作戰,,0
 SEPCIALOPS,60865,是否消耗<Color=#FFB400FF>四項資源*{0}</Color>跳過關卡,,0
+SEPCIALOPS,60866,第一幕(todo),,0
+SEPCIALOPS,60867,第二幕(todo),,0
+SEPCIALOPS,60868,第三幕(todo),,0
+SEPCIALOPS,60869,回憶錄(todo),,0
+SEPCIALOPS,60870,冒險史(todo),,0
+SEPCIALOPS,60871,歸來記(todo),,0
 GASHAPON,70000,當前傢俱倉庫容量不足,,0
 GASHAPON,70001,）//c請整頓後再進行採購!,,0
 GASHAPON,70002,採購幣不足//c無法完成採購,,0
@@ -6512,7 +6518,7 @@ BEGINNERGUIDE,150024,點擊選擇您的小隊。,,0
 BEGINNERGUIDE,150025,再次點擊小隊，可以查看其詳情。,,0
 BEGINNERGUIDE,150026,這時可以透過<color=#ffb400>【撤離】</color>來撤出地圖。如果小隊位於補給點或指揮部，這時也可以補給。不過現在，先點擊【取消】繼續作戰吧。,,0
 BEGINNERGUIDE,150027,這個「箱子」路徑點被標注了異常狀況，具體會發生什麼，只有到達之後才能弄清呢。請點擊前方路徑點。,,0
-BEGINNERGUIDE,150028,移動至標注了異常狀況的路徑點時，會觸發隨機事件，有些甚至能對戰局產生巨大影響。現在讓我們繼續前進吧。,0
+BEGINNERGUIDE,150028,移動至標注了異常狀況的路徑點時，會觸發隨機事件，有些甚至能對戰局產生巨大影響。現在讓我們繼續前進吧。,,0
 BEGINNERGUIDE,150029,您看到左側“常規人形訂單”這一欄嗎？請點擊<color=#ffb400>【開始】</color>來簽寫訂單吧。,,0
 BEGINNERGUIDE,150030,您可以參考同僚的製造日誌，或者直接套用他們的方案。,,0
 BEGINNERGUIDE,150031,不過既然是第一次，還是親手迎來這位人形吧。,,0

@@ -18214,6 +18214,14 @@
     content: 心智升級贈送
   }
   {
+    id: 3006
+    name: 托卡列夫
+    item_ids: 3505-1
+    equip_ids: "472"
+    skin: 5081
+    content: 心智升級贈送
+  }
+  {
     id: 3007
     name: 斯捷奇金
     item_ids: 1550-1

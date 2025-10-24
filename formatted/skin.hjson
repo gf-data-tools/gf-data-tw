@@ -5624,6 +5624,15 @@
     note: 原型裝扮
   }
   {
+    id: 5081
+    name: 托卡列夫-原型
+    fit_gun: 20006
+    voice: 4
+    is_hidden: 2
+    dialog: 原型裝扮
+    note: 原型裝扮
+  }
+  {
     id: 5101
     name: 劉氏步槍-垂枝夢狐影
     fit_gun: 316

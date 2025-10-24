@@ -3,8 +3,8 @@
     identity: 1
     type: battery_collect
     count: 3
-    title: 每週要務：電力採集
-    content: 收取3次宿舍電池。
+    title: 每週要務：普通單位
+    content: 累計消滅50個普通單位
     prize_id: 8309
     exchange_prize_id: 8316
   }
@@ -12,8 +12,8 @@
     identity: 2
     type: procurement
     count: 1
-    title: 每週要務：時裝採購
-    content: 進行1次採購。
+    title: 每週要務：首領單位
+    content: 累計消滅1個首領單位
     prize_id: 8309
     exchange_prize_id: 8316
   }
@@ -21,8 +21,8 @@
     identity: 3
     type: sangvis_daily_retrieval
     count: 8
-    title: 每週要務：協議同歸
-    content: 進行8次收歸行動（包括常規回收和協力回收）。
+    title: 每週要務：戰鬥勝利
+    content: 累計以S評價贏得8場戰鬥
     function_control_id: 21
     prize_id: 8309
     exchange_prize_id: 8316
@@ -31,8 +31,8 @@
     identity: 4
     type: upgrade_skill
     count: 3
-    title: 每週要務：集中特訓
-    content: 進行3次技能訓練。
+    title: 每週要務：灰域探查
+    content: 累計佔領15個灰域探查點位
     function_control_id: 4
     prize_id: 8309
     exchange_prize_id: 8316
@@ -42,7 +42,7 @@
     type: sp_develop
     count: 4
     title: 每週要務：軍備擴建
-    content: 進行4次重型製造（包括人形、妖精）。
+    content: 累計進行8次任意製造（人形、裝備、妖精）
     function_control_id: 3
     prize_id: 8309
     exchange_prize_id: 8316
@@ -51,8 +51,8 @@
     identity: 6
     type: map_capture
     count: 15
-    title: 每週要務：灰域探查
-    content: 累計占領15個灰域探查點位。
+    title: 每週要務：後勤支援
+    content: 累計完成10次後勤支援
     function_control_id: 29
     prize_id: 8309
     exchange_prize_id: 8316
@@ -61,8 +61,8 @@
     identity: 7
     type: daily_complete
     count: 15
-    title: 每週要務：事務處理
-    content: 累計完成15個日常事務。
+    title: 每週要務：模擬作戰
+    content: 累計完成12次模擬作戰或融合演習
     prize_id: 8309
     exchange_prize_id: 8316
   }
@@ -70,8 +70,8 @@
     identity: 8
     type: win_boss
     count: 1
-    title: 每週要務：王牌剋星
-    content: 戰鬥勝利情況下消滅1個首領單位。
+    title: 每週要務：前進營地
+    content: 累計進行5次前進營地探索
     prize_id: 8309
     exchange_prize_id: 8316
   }

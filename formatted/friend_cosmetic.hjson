@@ -19108,6 +19108,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_mask_8years
     order: 1
     rarity: 5
@@ -19143,6 +19144,7 @@
     sub_type: 1
     gem: 200
     item_ids: 508-5000
+    onsale: 1
     code: profilePic_8years_A
     order: 1
     rarity: 5
@@ -19155,6 +19157,7 @@
     sub_type: 2
     gem: 400
     item_ids: 508-10000
+    onsale: 1
     code: card_8years_A
     order: 1
     rarity: 5
@@ -19265,6 +19268,9 @@
     id: 1510
     item_id: 2510
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_202406Activity_01
     order: 1
     rarity: 5
@@ -19275,6 +19281,9 @@
     id: 1511
     item_id: 2511
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_202406Activity_02
     order: 1
     rarity: 5
@@ -19285,6 +19294,9 @@
     id: 1512
     item_id: 2512
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_202406Activity_03
     order: 1
     rarity: 5
@@ -19295,6 +19307,9 @@
     id: 1513
     item_id: 2513
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_202406Activity_01
     order: 1
     rarity: 5
@@ -19304,6 +19319,9 @@
     id: 1514
     item_id: 2514
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_202406Activity_02
     order: 1
     rarity: 5
@@ -19313,6 +19331,9 @@
     id: 1515
     item_id: 2515
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_202406Activity_03
     order: 1
     rarity: 5
@@ -19412,6 +19433,9 @@
     id: 1525
     item_id: 2525
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_202407Activity_01
     order: 1
     rarity: 5
@@ -19422,6 +19446,9 @@
     id: 1526
     item_id: 2526
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_202407Activity_02
     order: 1
     rarity: 5
@@ -19442,6 +19469,9 @@
     id: 1528
     item_id: 2528
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_202407Activity_01
     order: 1
     rarity: 5
@@ -19470,6 +19500,9 @@
     id: 1531
     item_id: 2531
     sub_type: 3
+    gem: 600
+    item_ids: 508-15000
+    onsale: 1
     code: cg_202407Activity_01
     order: 1
     rarity: 5
@@ -21511,6 +21544,16 @@
     item_id: 3504
     sub_type: 1
     code: profilePic_rank4_MP41Mod
+    order: 1
+    rarity: 5
+    filter_type: "5"
+    frame_id: 200001
+  }
+  {
+    id: 2505
+    item_id: 3505
+    sub_type: 1
+    code: profilePic_rank4_TT33Mod
     order: 1
     rarity: 5
     filter_type: "5"

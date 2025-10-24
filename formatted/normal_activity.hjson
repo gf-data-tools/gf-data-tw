@@ -576,6 +576,30 @@
     scene_name: active_202404logo
   }
   {
+    id: 51
+    campaign_id: -69
+    tag: EP.|15.2
+    order: 17
+    name: 22重困境
+    chapter_name: 22重困境
+    bg_code: active_202406
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: 活動時間:2024.06.21-07.12
+    scene_name: active_202406logo
+  }
+  {
+    id: 52
+    campaign_id: -70
+    tag: EP.|15.3
+    order: 18
+    name: 零電荷
+    chapter_name: 零電荷
+    bg_code: active_202407
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: 活動時間:2024.07.26-08.16
+    scene_name: active_202407logo
+  }
+  {
     id: 55
     campaign_id: -49
     tag: C.E.|2021

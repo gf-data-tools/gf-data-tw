@@ -647,12 +647,12 @@
     path: CLASS64
     des_year: "2025"
     source: 2
-    source_description: 2025周年活動獎勵
+    source_description: commander_class-40000064
   }
   {
     id: 65
-    name: 靜日繁花
-    description: 將這份永不凋謝的芬芳戴在頭上吧。無論前線的戰況如何，背後總會有這樣一個人，為你打點好一切。
+    name: 歸途花信
+    description: 這並非為了盛大的慶典，而是為你準備的專屬慰勞。讓來自後方的溫暖與安寧，治癒你每一寸疲憊的神經吧。
     group_id: "103"
     code: commander_6520_icon
     path: CLASS65
