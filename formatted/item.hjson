@@ -922,6 +922,15 @@
     rank: 1
   }
   {
+    id: 153
+    type: 3
+    arg: "54"
+    code: Medal_202509Activity
+    item_name: 汐岸拾光勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在「零態潮汐」活動中的卓越戰績，「您並非前來尋找失落的遺物，而是將心中的光，播撒在了這片樂土之上。從此，愛與希望有了形狀。」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -16774,6 +16783,240 @@
     rank: 1
   }
   {
+    id: 2710
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_SCARH
+    item_name: SCAR-H-停駐之時
+    introduction: SCAR-H-停駐之時
+    rank: 1
+  }
+  {
+    id: 2711
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_NTW20
+    item_name: NTW-20-追獵於蜃景
+    introduction: NTW-20-追獵於蜃景
+    rank: 1
+  }
+  {
+    id: 2712
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_GeneralLiu
+    item_name: 劉氏步槍-瓶中的天空
+    introduction: 劉氏步槍-瓶中的天空
+    rank: 1
+  }
+  {
+    id: 2713
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_64type
+    item_name: 64式-風旅同歌
+    introduction: 64式-風旅同歌
+    rank: 1
+  }
+  {
+    id: 2714
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_LWMMG
+    item_name: LWMMG-遙望地平線
+    introduction: LWMMG-遙望地平線
+    rank: 1
+  }
+  {
+    id: 2715
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_G28
+    item_name: G28-躍動信號
+    introduction: G28-躍動信號
+    rank: 1
+  }
+  {
+    id: 2716
+    type: 5
+    arg: "1"
+    code: profilePic_2025Afterword_M2HB
+    item_name: M2HB-破曉行徵
+    introduction: M2HB-破曉行徵
+    rank: 1
+  }
+  {
+    id: 2717
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_01
+    item_name: 頭像：擬造幻物
+    introduction: 頭像：擬造幻物
+    rank: 1
+  }
+  {
+    id: 2718
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_02
+    item_name: 頭像：共生之形
+    introduction: 頭像：共生之形
+    rank: 1
+  }
+  {
+    id: 2719
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_03
+    item_name: 頭像：血與淵
+    introduction: 頭像：血與淵
+    rank: 1
+  }
+  {
+    id: 2720
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_04
+    item_name: 頭像：女神的祈願
+    introduction: 頭像：女神的祈願
+    rank: 1
+  }
+  {
+    id: 2721
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_05
+    item_name: 頭像：磐熊
+    introduction: 頭像：磐熊
+    rank: 1
+  }
+  {
+    id: 2722
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_06
+    item_name: 頭像：獅鷲
+    introduction: 頭像：獅鷲
+    rank: 1
+  }
+  {
+    id: 2723
+    type: 5
+    arg: "1"
+    code: profilePic_202509Activity_07
+    item_name: 頭像：在你身邊
+    introduction: 頭像：在你身邊
+    rank: 1
+  }
+  {
+    id: 2724
+    type: 5
+    arg: "1"
+    code: card_202509Activity_01
+    item_name: 名片：消散的餘溫
+    introduction: 名片：消散的餘溫
+    rank: 1
+  }
+  {
+    id: 2725
+    type: 5
+    arg: "1"
+    code: card_202509Activity_02
+    item_name: 名片：聖裁與原罪
+    introduction: 名片：聖裁與原罪
+    rank: 1
+  }
+  {
+    id: 2726
+    type: 5
+    arg: "1"
+    code: card_202509Activity_03
+    item_name: 名片：再會，亦非永別
+    introduction: 名片：再會，亦非永別
+    rank: 1
+  }
+  {
+    id: 2727
+    type: 5
+    arg: "1"
+    code: cg_202509Activity_01
+    item_name: 背景：罪惡溫床
+    introduction: 背景：罪惡溫床
+    rank: 1
+  }
+  {
+    id: 2728
+    type: 5
+    arg: "1"
+    code: cg_202509Activity_02
+    item_name: 背景：妄念搖籃
+    introduction: 背景：妄念搖籃
+    rank: 1
+  }
+  {
+    id: 2729
+    type: 5
+    arg: "1"
+    code: cg_202509Activity_03
+    item_name: 背景：艾莫號
+    introduction: 背景：艾莫號
+    rank: 1
+  }
+  {
+    id: 2730
+    type: 5
+    arg: "1"
+    code: cg_AA02M
+    item_name: 背景：復甦之地
+    introduction: 背景：復甦之地
+    rank: 1
+  }
+  {
+    id: 2731
+    type: 5
+    arg: "1"
+    code: cg_Tank
+    item_name: 背景：浮空堡壘
+    introduction: 背景：浮空堡壘
+    rank: 1
+  }
+  {
+    id: 2732
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Teal
+    item_name: 緹頭像
+    introduction: 緹頭像
+    rank: 1
+  }
+  {
+    id: 2733
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_SPAS12
+    item_name: SPAS-12-動感里程
+    introduction: SPAS-12-動感里程
+    rank: 1
+  }
+  {
+    id: 2734
+    type: 5
+    arg: "1"
+    code: card_BattlePass_SPAS12
+    item_name: 名片：芝士就是力量
+    introduction: 名片：芝士就是力量
+    rank: 1
+  }
+  {
+    id: 2735
+    type: 5
+    arg: "1"
+    code: profilePic_ArtBook_M4A1
+    item_name: M4A1-零向信標
+    introduction: M4A1-零向信標
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -16808,6 +17051,15 @@
     code: profilePic_rank4_MP41Mod
     item_name: MP41心智升級頭像
     introduction: MP41心智升級頭像
+    rank: 1
+  }
+  {
+    id: 3505
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_TT33Mod
+    item_name: 托卡列夫心智升級頭像
+    introduction: 托卡列夫心智升級頭像
     rank: 1
   }
   {
@@ -18522,6 +18774,15 @@
     detail_introduction: item-30010733
   }
   {
+    id: 10734
+    type: 18
+    arg: "10734"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"
@@ -18618,6 +18879,15 @@
     code: gift_bundle_BattlePass_HK416
     item_name: HK416-緋染薄櫻
     introduction: 櫻花飄落只需要幾秒鐘……那就趁這轉瞬即逝的片刻，把我的樣子——還有這片景色，都刻在你的記憶裡吧。
+    rank: 1
+  }
+  {
+    id: 30034
+    type: 1
+    arg: "30034"
+    code: gift_bundle_BattlePass_SPAS12
+    item_name: SPAS-12-動感里程
+    introduction: 嘿咻、嘿咻……只要再跑一公里，就能解鎖那個芝士牛肉堡作為獎勵了！
     rank: 1
   }
   {
@@ -21273,6 +21543,97 @@
     rank: 1
   }
   {
+    id: 100289
+    type: 4
+    arg: "100289"
+    code: Nova_medal_black
+    item_name: 新星勳章·零態潮汐
+    introduction: 新星勳章·零態潮汐
+    rank: 1
+  }
+  {
+    id: 100290
+    type: 4
+    arg: "100290"
+    code: Platinum_medal_black
+    item_name: 白金勳章·零態潮汐
+    introduction: 白金勳章·零態潮汐
+    rank: 1
+  }
+  {
+    id: 100291
+    type: 9
+    arg: "100291"
+    code: Coin_202509QuantumFluctuation
+    item_name: 零態殘晶
+    introduction: 世界回歸原初之時，交纏的線路回覆了原本的波動，這是贈予終結者的證明之物。
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
+    id: 100292
+    type: 4
+    arg: "100292"
+    code: coremask2_202509QuantumFluctuation
+    item_name: 蝕心面具·零態潮汐
+    introduction: 散髮著詭譎氣息的面具，只有通過極為艱險的考驗才能獲得。留在手中似乎沒有什麼用，但能夠在商店換取到一個期望已久的相遇。
+    rank: 1
+  }
+  {
+    id: 100293
+    type: 4
+    arg: "100293"
+    code: core_mask
+    item_name: 真核面具
+    introduction: 真核面具
+    rank: 1
+  }
+  {
+    id: 100294
+    type: 4
+    arg: "100294"
+    code: core_mask
+    item_name: 真核面具
+    introduction: 真核面具
+    rank: 1
+  }
+  {
+    id: 100295
+    type: 4
+    arg: "100295"
+    code: core_mask
+    item_name: 真核面具
+    introduction: 真核面具
+    rank: 1
+  }
+  {
+    id: 100296
+    type: 4
+    arg: "100296"
+    code: core_mask
+    item_name: 真核面具
+    introduction: 真核面具
+    rank: 1
+  }
+  {
+    id: 100297
+    type: 4
+    arg: "100297"
+    code: core_mask
+    item_name: 真核面具
+    introduction: 真核面具
+    rank: 1
+  }
+  {
+    id: 100298
+    type: 4
+    arg: "100298"
+    code: core_mask
+    item_name: 真核面具
+    introduction: 真核面具
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -21970,6 +22331,15 @@
     type: 4
     arg: "110078"
     code: EventPT7
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
+    id: 110079
+    type: 4
+    arg: "110079"
+    code: PT
     item_name: 活動點數
     introduction: 活動點數
     rank: 1
@@ -23992,6 +24362,22 @@
     rank: 1
   }
   {
+    id: 140067
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第34期前線協議
+    rank: 1
+  }
+  {
+    id: 140068
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第34期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -24524,6 +24910,15 @@
     code: profileFrame_BattlePass_HK416
     item_name: 頭像框·花信風間
     introduction: 頭像框·花信風間
+    rank: 1
+  }
+  {
+    id: 200059
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_SPAS12
+    item_name: 頭像框·食刻挑戰
+    introduction: 頭像框·食刻挑戰
     rank: 1
   }
   {
@@ -27702,6 +28097,164 @@
     type_sort: 1
   }
   {
+    id: 1500279
+    type: 15
+    arg: "1500279"
+    code: Bumdle_invocation_3
+    item_name: 四星人形調用函
+    introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位四星戰術人形。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500280
+    type: 15
+    arg: "1500280"
+    code: Bumdle_invocation_2
+    item_name: 五星人形調用函
+    introduction: 在倉庫中使用該調用函，即可從指定範圍內選擇獲得一位五星戰術人形。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500281
+    type: 15
+    arg: "1500281"
+    code: Bumdle_sangvischoose
+    item_name: 融合勢力定向收歸委託書
+    introduction:
+      '''
+      在倉庫中使用該委託書，即可從指定範圍內選擇獲得一位初始三星融合勢力單位。
+      *若指揮官未解鎖「融合勢力」系統，在獲得所選的初始三星融合勢力單位後將暫時無法使用，待後續指揮官解鎖了「融合勢力」系統後可正常使用。
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500282
+    type: 15
+    arg: "1500282"
+    code: Bumdle_equipment
+    item_name: 五星裝備自選憑證
+    introduction: 在倉庫中使用該自選憑證，即可從指定範圍內選擇獲得一個非專屬五星裝備。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500283
+    type: 15
+    arg: "1500283"
+    code: Bumdle_JPnewyear1
+    item_name: 珍藏裝扮券·正月
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500284
+    type: 15
+    arg: "1500284"
+    code: Bumdle_JPnewyear2
+    item_name: 尊享裝扮券·正月
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500285
+    type: 15
+    arg: "1500285"
+    code: Bumdle_JPnewyear3
+    item_name: 致臻裝扮券·正月
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內選擇獲得一件裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500286
+    type: 15
+    arg: "1500286"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-燃燒卡路里！，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500287
+    type: 15
+    arg: "1500287"
+    code: package_choose
+    item_name: 配件類裝備自選包
+    introduction: 來自於前線協議-燃燒卡路里！，可從該指定投遞配給序標內選擇獲取一件配件類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500288
+    type: 15
+    arg: "1500288"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-燃燒卡路里！，可必定獲得該序標內圖鑒未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500289
+    type: 15
+    arg: "1500289"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-燃燒卡路里！，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500290
+    type: 15
+    arg: "1500290"
+    code: Bumdle_ChristmasCoupons1
+    item_name: 珍藏裝扮券·聖誕
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500291
+    type: 15
+    arg: "1500291"
+    code: Bumdle_ChristmasCoupons2
+    item_name: 尊享裝扮券·聖誕
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內隨機獲得一件目前暫未擁有的裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500292
+    type: 15
+    arg: "1500292"
+    code: Bumdle_ChristmasCoupons3
+    item_name: 致臻裝扮券·聖誕
+    introduction: 在倉庫中使用該裝扮券，即可從指定範圍內選擇獲得一件裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -28579,6 +29132,39 @@
     id: 1700078
     type: 15
     arg: "1700078"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700079
+    type: 15
+    arg: "1700079"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700080
+    type: 15
+    arg: "1700080"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700081
+    type: 15
+    arg: "1700081"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

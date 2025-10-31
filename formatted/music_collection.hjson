@@ -1,0 +1,816 @@
+[
+  {
+    id: 1
+    type: 閉環
+    code: 我們雖在迷霧中前進，但結局是否早已註定？
+    name: dfcg_1608summer
+    detail: 1
+  }
+  {
+    id: 2
+    type: 縫隙
+    code: 被設計的宿命？只不過是另一種藉口罷了。
+    name: dfcg_17summer
+    detail: 2
+  }
+  {
+    id: 3
+    type: 稀音
+    code: 在深淵的絕對寂靜中，呼喊被盡數湮滅。
+    name: dfcg_17011winter
+    detail: 3
+  }
+  {
+    id: 4
+    type: 我們
+    code: 請不要驚訝，之後還會更……
+    name: dfcg_18mind
+    detail: 4
+  }
+  {
+    id: 5
+    type: 颶風
+    code: 暴雨如刃，撕裂了長夜。
+    name: dfcg_1808summer
+    detail: 5
+  }
+  {
+    id: 6
+    type: 陷阱
+    code: 或許，你我都將淪為真相的祭品。
+    name: dfcg_18winter
+    detail: 6
+  }
+  {
+    id: 7
+    type: 終局
+    code: 毀滅和新生，大概從來都是一個意思？
+    name: dfcg_1908summer1
+    detail: 7
+  }
+  {
+    id: 8
+    type: 啟示
+    code: 誰都可以擁有未來，對嗎。
+    name: dfcg_1908summer2
+    detail: 8
+  }
+  {
+    id: 9
+    type: 啟程
+    code: 敵人方位已標明，準備戰鬥！
+    name: dfcg_motobg
+    detail: 9
+  }
+  {
+    id: 10
+    type: 再啟程
+    code: 一切都會和往常一樣的，指揮官，我將繼續在您的身旁。
+    name: 2022summer_kar&lee
+    detail: 10
+  }
+  {
+    id: 11
+    type: 鎩羽
+    code: 「我把你的死亡送到了。」
+    name: 掐脖子
+    detail: 11
+  }
+  {
+    id: 12
+    type: 最終挑戰
+    code: 在當地的格里芬小隊協助下，我們倉皇逃離戰場並失散，直到今天才得以團聚……
+    name: 打海猫
+    detail: 12
+  }
+  {
+    id: 13
+    type: 除草行動
+    code: 在格里芬多方梯隊的夾擊下，【稻草人】成功被捕獲。
+    name: CG.1-6 有人
+    detail: 13
+  }
+  {
+    id: 14
+    type: 初識
+    code: 「我在這裡，只有一個請求……救救我們。」
+    name: CG.2-6
+    detail: 14
+  }
+  {
+    id: 15
+    type: 突破陣線
+    code: 【干擾者】主動發來了挑釁，但我們先行一步攻入了對方的轄區。
+    name: CG.4-2
+    detail: 15
+  }
+  {
+    id: 16
+    type: 抵擋突襲
+    code: 「那麼現在，你還能戰鬥嗎？」
+    name: CG.5
+    detail: 16
+  }
+  {
+    id: 17
+    type: 追擊密令
+    code: AR-15徹底逃脫，鐵血被擊退……我們是勝利還是失敗了呢？相比之下，這根本算不上謎團……
+    name: CG.5-6
+    detail: 17
+  }
+  {
+    id: 18
+    type: 404出擊
+    code: HK416和G11逃脫了【銜尾蛇】佈置的陷阱，與UMP45和UMP9會合後，開始尋找知曉干擾器下落的人員。
+    name: "404"
+    detail: 18
+    background_code: "10002,10019"
+  }
+  {
+    id: 19
+    type: 次面崩潰
+    code: 歷經與【劊子手】的死鬥和【銜尾蛇】的圍剿，404小隊擊潰了鐵血S06區的主力，成功結束了行動。
+    name: sp2.2.2
+    detail: 19
+    background_code: "10004,10021"
+  }
+  {
+    id: 20
+    type: 監禁者
+    code: 「M4A1……你到底是誰？」
+    name: 6CG-AR15b
+    detail: 20
+    background_code: "58"
+  }
+  {
+    id: 21
+    type: 遲來的告別
+    code: 那是一場喧囂的葬禮……和一個沉默的告別。
+    name: 6CG-M4
+    detail: 21
+    background_code: "60"
+  }
+  {
+    id: 22
+    type: 重逢
+    code: 我們無法知曉看守所內部的情況，只能為最後的決戰作準備，希望帕斯卡派來的協助者能發揮作用……
+    name: CG7-3
+    detail: 22
+    background_code: "70"
+  }
+  {
+    id: 23
+    type: 燈火管制Ⅳ
+    code: 另一名鐵血頭目建築師發現了404小隊的下落，但這正中45的計劃，突破&營救行動正式開啟。
+    name: CG-2017Winter1
+    detail: 23
+    background_code: "10012"
+  }
+  {
+    id: 24
+    type: 歸鄉行動
+    code: 「請對我好一點，我知道很多東西哦。」
+    name: CG-2017Winter2
+    detail: 24
+    background_code: "10016"
+  }
+  {
+    id: 25
+    type: 定向算法
+    code: M4A1報告:建築師為什麼會出現在這裡……不能多想了，我必須要獲得勝利…………
+    name: Ouroboros
+    detail: 25
+    background_code: "10024"
+  }
+  {
+    id: 26
+    type: 使命
+    code: M16A1沒有回答，只是做了一個手勢，一個無比尋常的手勢。
+    name: CG8-1
+    detail: 26
+    background_code: "80"
+  }
+  {
+    id: 27
+    type: 誕生
+    code: 「真好啊……大家都在我的身邊……」
+    name: 202406_ARTeam_c
+    detail: 27
+    background_code: "11681"
+  }
+  {
+    id: 28
+    type: 環形命運
+    code: 「無數次的輪迴，無數次的遺忘，留給她的只剩下最後的執念。」
+    name: 2022winter_16vs16_b
+    detail: 28
+    background_code: "11687"
+  }
+  {
+    id: 29
+    type: 人類
+    code: 「我還存在於此世的理由之一，就是殺死你。」
+    name: 202407_Embla
+    detail: 29
+    background_code: "11720"
+  }
+  {
+    id: 30
+    type: 時間的眼睛
+    code: 驕傲的頭狼絕不允許別人察覺自己的軟弱。在血色與雪地裡，她倔強地仰視著遠方。
+    name: 202407_TaskForceDEFY_a
+    detail: 30
+    background_code: "11722"
+  }
+  {
+    id: 31
+    type: 蜷縮的肖像
+    code: 「指揮官，交給你了，我們會贏的。」
+    name: 202408_HK-416_c
+    detail: 31
+    background_code: "11753"
+  }
+  {
+    id: 32
+    type: 迷路的血跡
+    code: 在黑暗的地下隧道，默莉朵和曾經的仇人重逢。
+    name: 202410_SCAR-H
+    detail: 32
+    background_code: "11776"
+  }
+  {
+    id: 33
+    type: 落幕
+    code: 她撫摸著冰冷的培養艙，這誕生她的子宮，也終將成為她的墓穴。
+    name: 202412_Nemhran
+    detail: 33
+    background_code: "11843"
+  }
+  {
+    id: 34
+    type: 孤獨靈魂的禱告
+    code: 代號「安潔莉婭」的特工，在任何世界，任何選擇下，和你從始至終都是戰友。
+    name: 202410_Nele_a
+    detail: 34
+    background_code: "11865"
+  }
+  {
+    id: 35
+    code: 「就算只剩下我自己……我也……一定要活下來……」
+    name: 2018SummerCG2-1
+    detail: 35
+    background_code: "10108"
+  }
+  {
+    id: 36
+    type: 對峙
+    code: 安潔莉婭以引爆髒彈威脅葉戈爾，兩人陷入了對峙。
+    name: 2018SummerCG6-1
+    detail: 36
+    background_code: "10141"
+  }
+  {
+    id: 37
+    type: 彼此平安
+    code: 沒有告別，就是不必掛念。不必掛念，就是彼此平安。
+    name: 2018SummerCG4
+    detail: 37
+    background_code: "10148"
+  }
+  {
+    id: 38
+    type: 此刻的和平
+    code: 「如果我們都是笨蛋的話……才能算一家人吧。」
+    name: 2018SummerCG3
+    detail: 38
+    background_code: "10149"
+  }
+  {
+    id: 39
+    type: 營救
+    code: HK416執行指揮官的特別任務，前往汙染區營救安潔莉婭。
+    name: 2018SummerCG5
+    detail: 39
+    background_code: "10150"
+  }
+  {
+    id: 40
+    type: 審問
+    code: 格里芬的指揮官，你又要開始編故事了嗎？
+    name: 2018SummerCG1-1
+    detail: 40
+    background_code: "10156"
+  }
+  {
+    id: 41
+    type: 流放者
+    code: 直到面對真相的那一刻，我需要選擇占有它，還是摧毀它……
+    name: 2018SummerCG8
+    detail: 41
+    background_code: "10157"
+  }
+  {
+    id: 42
+    type: 紀念
+    code: 在烈士紀念碑前，安潔莉婭和M4A1探討了犧牲的意義。
+    name: 19WinterCG1
+    detail: 42
+    background_code: "10194"
+  }
+  {
+    id: 43
+    type: 狼與梟
+    code: M16A1帶領眾多鐵血頭目突然出現，瞬間消滅了劇場內的白色勢力。
+    name: 19WinterCG2
+    detail: 43
+    background_code: "10225,10264"
+  }
+  {
+    id: 44
+    type: 反目
+    code: AR-15和AN-94在鐵血部隊的瞄準下扔掉了武器，舉起了雙手。
+    name: 19WinterCG3
+    detail: 44
+    background_code: "10226"
+  }
+  {
+    id: 45
+    type: 鮫與海
+    code: 妮莫金被打掉了頭箍，陷入了瘋狂之中。
+    name: 19WinterCG4
+    detail: 45
+    background_code: "10242"
+  }
+  {
+    id: 46
+    type: 追擊
+    code: 喙載著M16A1疾速行駛，試圖擺脫忤逆小隊的追擊。
+    name: 19WinterCG6
+    detail: 46
+    background_code: "10247,10275"
+  }
+  {
+    id: 47
+    type: 曇花殘憶
+    code: 在白色單位的底層裡找到了M4A1微弱的記憶裡曾出現過的畫面。
+    name: CG10-4-1
+    detail: 47
+    background_code: "119"
+  }
+  {
+    id: 48
+    type: 對映體過量II
+    code: 「在塞滿休眠敵人的能源控制室中，UMP45拉下了總閘……」
+    name: 19winter_ump45vs
+    detail: 48
+    background_code: "10447"
+  }
+  {
+    id: 49
+    type: 晶體重鑄
+    code: UMP45再一次經歷了蝴蝶行動的模擬記憶。
+    name: 19winter_4516
+    detail: 49
+    background_code: "10454"
+  }
+  {
+    id: 50
+    type: 追尋真相
+    code: M4A1決定讓AR小隊其他隊員前往支援指揮官，自己獨自去阻攔M16A1。
+    name: 19winter_m4_1
+    detail: 50
+    background_code: "10468"
+  }
+  {
+    id: 51
+    type: 頭狼
+    code: 忤逆小隊與負罪者機甲進行了激烈的死鬥，最終成功擊敗了葉戈爾。
+    name: 19winter_ange_2
+    detail: 51
+    background_code: "10469"
+  }
+  {
+    id: 52
+    type: 雙曲函數
+    code: UMP45並沒有懼怕鐵血決定一意孤行，而鐵血破壞者的全新形態，也終於在眾人面前露出了身姿……與破壞者，啊不，末日魔犬的決戰進入決戰階段！
+    name: 17xhCG2-2
+    detail: 52
+    background_code: "10037"
+  }
+  {
+    id: 53
+    type: 欺騙
+    code: 「只要我們其中一人從世上消失，安全程式就會停止。」
+    name: 17xhCG4-0
+    detail: 53
+    background_code: "10042"
+  }
+  {
+    id: 54
+    type: 鷹與犬Ⅱ
+    code: RO報告:指揮官說自己正在參加的晚宴預示著一個大事件，不過眼下的重點還是發生我們身上的小事件……
+    name: CG9-1.3
+    detail: 54
+    background_code: "92"
+  }
+  {
+    id: 55
+    type: 鷹與犬Ⅳ
+    code: RO報告:我們再次捕捉到法官的身影了！這個時候，如果有更多同伴來幫助的話……
+    name: CG9-2.2
+    detail: 55
+    background_code: "94"
+  }
+  {
+    id: 56
+    type: 背叛
+    code: 葉戈爾炸開安全屋的大門，擊殺了毫無防備的RO635。
+    name: CG10-6-2
+    detail: 56
+    background_code: "103"
+  }
+  {
+    id: 57
+    type: 煉獄
+    code: M4A1久久呆坐在原地，沒有任何行動，似乎在哭泣。
+    name: CG10-5-3
+    detail: 57
+    background_code: "104"
+  }
+  {
+    id: 58
+    type: 分歧點
+    code: AR-15背著M4A1全力逃脫鐵血部隊的追擊。
+    name: 2018Winter1-1
+    detail: 58
+    background_code: "10052"
+  }
+  {
+    id: 59
+    type: 衝程止點 Ⅱ
+    code: 「格里芬正在向S11區轉移？我看到了，現在這裡已經亂成一鍋粥了。」
+    name: 17xhCG1-1
+    detail: 59
+    background_code: "10054"
+  }
+  {
+    id: 60
+    type: 逮捕
+    code: 卡特網羅罪名派遣軍方部隊前往格里芬承包商總部逮捕了克魯格。
+    name: 2018Winter2-3
+    detail: 60
+    background_code: "10064"
+  }
+  {
+    id: 61
+    type: 死局
+    code: 「人類終有一死，而我總是樂意為此效勞。」
+    name: 2018Winter3-2
+    detail: 61
+    background_code: "10081"
+  }
+  {
+    id: 62
+    type: 最終手段
+    code: 撲滅一場大火的最好辦法，就是在旁邊製造一場更大的爆炸。
+    name: 2018Winter7-1
+    detail: 62
+    background_code: "10084"
+  }
+  {
+    id: 63
+    type: 會面
+    code: M4A1與伊萊莎在約定的地點會面，認識到歐伽斯的欺騙後，雙方展開了激戰。
+    name: 2018Winter6-1
+    detail: 63
+    background_code: "10085"
+  }
+  {
+    id: 64
+    type: 最終手段 Ⅴ
+    code: 「404小隊！還能堅持住嗎！？」
+    name: 2018Winter8-1
+    detail: 64
+    background_code: "10086"
+  }
+  {
+    id: 65
+    type: 終局
+    code: 「人即像樹，枝葉越嚮往光明的天空，根須越深入陰暗的地底。」
+    name: 2018Winter5-1
+    detail: 65
+    background_code: "10087"
+  }
+  {
+    id: 66
+    type: 絕地逃生
+    code: 我絕對不會想到，幾個月後會這樣的地方，面臨這樣的處境，而我們最後的希望……全都維繫在……
+    name: CG11-1
+    detail: 66
+    background_code: "114"
+  }
+  {
+    id: 67
+    type: 抉擇
+    code: 「在以後你還會遇到無數個考驗，而正確的選擇，往往是最令你痛苦的那個......」
+    name: 17xhCG3-1
+    detail: 67
+    background_code: "10296"
+  }
+  {
+    id: 68
+    type: 死城
+    code: 在殘破的廢墟堆裡涌現出了一個又一個人影。
+    name: 2019summer_2
+    detail: 68
+    background_code: "10300"
+  }
+  {
+    id: 69
+    type: 嘆息
+    code: UMP45在搜查干擾源時，耳邊傳來了悠遠的聲音。
+    name: 2019summer_4_1
+    detail: 69
+    background_code: "10310"
+  }
+  {
+    id: 70
+    type: 無盡的鏈接
+    code: 「往她的心智深處前進吧。」
+    name: 2019summer_9
+    detail: 70
+    background_code: "10319"
+  }
+  {
+    id: 71
+    type: 終焉花海
+    code: 在盛開著曇花的峽谷裡，M4A1與奪去了尼莫金身體的歐伽斯展開了激戰。
+    name: 2019summer_10
+    detail: 71
+    background_code: "10335"
+  }
+  {
+    id: 72
+    type: 背叛II
+    code: M4A1的情況到底怎麼樣了？我和指揮官都很擔心，RO有辦法讓她恢復嗎……
+    name: CG10-2-3
+    detail: 72
+    background_code: "102"
+  }
+  {
+    id: 73
+    type: 故友
+    code: 抓住M16片刻的破綻，丹德萊鏈接上了M16心智中的OGAS，而M4也從中找回了那些曾被刪除的記憶碎片……
+    name: 13CG3v2
+    detail: 73
+    background_code: "128"
+  }
+  {
+    id: 74
+    type: 反轉
+    code: 在舊鐵血基地的火海之中，【建築師】拒絕了【計量官】帶她重回鐵血的提議。
+    name: 2020summerBattle2
+    detail: 74
+    background_code: "10535"
+  }
+  {
+    id: 75
+    type: 沉思
+    code: 安潔莉婭站在天台上看向遠方動亂的街道陷入了沉思。
+    name: 2020summerAnge
+    detail: 75
+    background_code: "10546"
+  }
+  {
+    id: 76
+    type: 永恆之橋
+    code: 安潔莉婭識破了默莉朵的偽裝，默莉朵打開艙門跳下了飛機。
+    name: 2020summerA&M2
+    detail: 76
+    background_code: "10579"
+  }
+  {
+    id: 77
+    type: 魔盒
+    code: 「我想成為人類，安潔。」
+    name: 2021white_R&A
+    detail: 77
+    background_code: "10729"
+  }
+  {
+    id: 78
+    type: 潘多拉
+    code: AK-15在和RPK-16纏鬥許久後，終於壓製住了她。
+    name: 2021white_RPK16&AK15
+    detail: 78
+    background_code: "10732"
+  }
+  {
+    id: 79
+    type: 悔恨
+    code: 「……謝謝你，羅賓。」
+    name: 2021white_Machlian01
+    detail: 79
+    background_code: "10740"
+  }
+  {
+    id: 80
+    type: 回歸
+    code: 「沒有任何人的犧牲會是毫無價值......我回來了。」
+    name: 2021white_Dandelion
+    detail: 80
+    background_code: "10741"
+  }
+  {
+    id: 81
+    type: ⅤA
+    code: 「我想起來了……你是AR小隊的最後一個人形……」
+    name: 2021summer_M16_ATTACK_1
+    detail: 81
+    background_code: "10880"
+  }
+  {
+    id: 82
+    type: 逆轉
+    code: M16A1擊暈了企圖逃跑的默莉朵，並且奪回了失去意識的丹德萊。
+    name: 2021summer_M16_COMEBACK
+    detail: 82
+    background_code: "10880"
+  }
+  {
+    id: 83
+    type: beta
+    code: 「老師，您的胸腔裡曾跳躍著一顆慈悲之心。」
+    name: 2021summer_Murderous
+    detail: 83
+    background_code: "10883"
+  }
+  {
+    id: 84
+    type: 晨光
+    code: 指揮官在倉庫裡陷入了絕境，而此時格里芬的鐵血部隊及時趕到增援。
+    name: 2021summer_SANGVISFERRI
+    detail: 84
+    background_code: "10820,10839"
+  }
+  {
+    id: 85
+    type: 「死海」
+    code: 「那裡是連飛鳥都無法穿越的死亡之地，我們稱它為‘阿佛那斯’」
+    name: 2022winter_Family_3
+    detail: 85
+    background_code: "11061"
+  }
+  {
+    id: 86
+    type: 戰前會議
+    code: RO635分配給了每個小隊明確的任務，在進入「死海」前做了最後的戰鬥動員。
+    name: 2022winter_squad
+    detail: 86
+    background_code: "11074"
+  }
+  {
+    id: 87
+    type: 背叛者
+    code: M16A1將RPK-16逼到了牆角，頃刻間便死死地卡住了RPK-16的脖頸。
+    name: 2022winter_16vs16_a
+    detail: 87
+    background_code: "11080"
+  }
+  {
+    id: 88
+    type: 危機
+    code: 面對帕拉蒂斯的入侵，艾爾瑪閃身擋在了柳德米拉的前面。
+    name: 2022summer_Target_a
+    detail: 88
+    background_code: "11172"
+  }
+  {
+    id: 89
+    type: 掠空
+    code: 此刻，她沐浴在火光之中。此刻，她昂首於鋼鐵之上。
+    name: 2022summer_LightUpNight_b
+    detail: 89
+    background_code: "11175"
+  }
+  {
+    id: 90
+    type: 5-β7 鄉村騎士間奏曲
+    code: 「如果你的戰鬥力只有5，那她就是530000。」
+    name: 2022summer_robbery_a
+    detail: 90
+    background_code: "11181"
+  }
+  {
+    id: 91
+    type: 流浪者之歌
+    code: 在逐漸崩塌潰滅的柯爾特快車上，艾爾瑪緊緊抱住了瑪姬。
+    name: 2022summer_Farewell_a
+    detail: 91
+    background_code: "11194"
+  }
+  {
+    id: 92
+    type: 永別
+    code: 「你自由了，艾爾瑪。」
+    name: 2022summer_1stDeath_a
+    detail: 92
+    background_code: "11195"
+  }
+  {
+    id: 93
+    type: 15 觀景窗口
+    code: 「擁有弱點，真是一件可怕的事情。」
+    name: 2022summer_DeadEnd
+    detail: 93
+    background_code: "11203"
+  }
+  {
+    id: 94
+    type: 19 桌上的淡雅花束
+    code: 「你應該去往人類的世界，你屬於那邊。」
+    name: 2022summer_Doctor_a
+    detail: 94
+    background_code: "11204"
+  }
+  {
+    id: 95
+    type: 35-R4 F小調鋼琴協奏曲
+    code: 「原來我一開始，只是喜歡拯救生命的感覺啊」
+    name: 2022summer_Doctor_b
+    detail: 95
+    background_code: "11229"
+  }
+  {
+    id: 96
+    type: 復圓
+    code: ……夜晚，又安靜了。
+    name: 2022saros_FatedReunion
+    detail: 96
+    background_code: "11258"
+  }
+  {
+    id: 97
+    type: WTR 日落時的蓬廷沼澤
+    code: 「那是因為此時此刻的你，世界太小了。」
+    name: 2023slow_Teacher-Student_a
+    detail: 97
+    background_code: "11406"
+  }
+  {
+    id: 98
+    type: SPR 灰色的樹
+    code: 「從那一天起，我已經無路可退了。」
+    name: 2023slow_DestroyPortrait_b
+    detail: 98
+    background_code: "11342"
+  }
+  {
+    id: 99
+    type: SPR 藍胸佛法僧的翅膀
+    code: 「原來我們不一樣。」
+    name: 2023slow_Laplace
+    detail: 99
+    background_code: "11345"
+  }
+  {
+    id: 100
+    type: 鏡前的少女
+    code: 「請讓我，像一位人類那樣尊嚴死去……」
+    name: 2023slow_BecomeHuman_d
+    detail: 100
+    background_code: "11412"
+  }
+  {
+    id: 101
+    type: F17 黑色十字
+    code: 「一小會，一小會自由也行。」
+    name: 2023slow_Photo
+    detail: 101
+    background_code: "11416"
+  }
+  {
+    id: 102
+    type: 日落
+    code: 在魯斯蘭二世的轟鳴聲中，阿佛納斯永遠地沉落下去了。
+    name: 2023slow_TowerFall_b
+    detail: 102
+    background_code: "11418"
+  }
+  {
+    id: 103
+    type: 崩潰
+    code: 血跡、制服……最後的防線就此決堤。
+    name: 202505_Kalina_b
+    detail: 103
+    background_code: "11907"
+  }
+  {
+    id: 104
+    type: 謊言
+    code: 一個用心險惡的謊言……
+    name: 202505_Kalina_a
+    detail: 104
+    background_code: "11915"
+  }
+]

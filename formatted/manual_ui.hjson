@@ -3991,6 +3991,272 @@
     code_b: Console_Icon
   }
   {
+    id: 780001
+    code_a: WorkBench
+    description_a: 我方梯隊
+    description_b: 基礎戰鬥技巧
+    description_c: 學習
+    code_b: Console_Icon
+  }
+  {
+    id: 780002
+    code_a: Boomer
+    description_a: 我方梯隊
+    description_b: 歌利亞使用手冊
+    description_c: 學習
+    code_b: Console_Icon
+  }
+  {
+    id: 780003
+    code_a: Console
+    description_a: 我方梯隊
+    description_b: 基礎駭客技巧
+    description_c: 學習
+    code_b: Console_Icon
+  }
+  {
+    id: 780004
+    code_a: 202404book
+    description_a: 我方梯隊
+    description_b: 戰鬥續行的心得
+    description_c: 學習
+    code_b: Console_Icon
+  }
+  {
+    id: 780005
+    code_a: 202404book
+    description_a: 我方梯隊
+    description_b: 機動戰鬥的心得
+    description_c: 學習
+    code_b: Console_Icon
+  }
+  {
+    id: 780006
+    code_a: 202404book
+    description_a: 我方梯隊
+    description_b: 極致防禦的心得
+    description_c: 學習
+    code_b: Console_Icon
+  }
+  {
+    id: 780007
+    code_a: 202404book
+    description_a: 我方梯隊
+    description_b: 極致機動的心得
+    description_c: 學習
+    code_b: Console_Icon
+  }
+  {
+    id: 780008
+    code_a: 202404book
+    description_a: 我方梯隊
+    description_b: 極致進攻的心得
+    description_c: 學習
+    code_b: Console_Icon
+  }
+  {
+    id: 780009
+    code_a: 202404book
+    description_a: 我方梯隊
+    description_b: 極致穿透的心得
+    description_c: 學習
+    code_b: Console_Icon
+  }
+  {
+    id: 780011
+    code_a: Griffin
+    description_a: 指揮官
+    description_b: 修理
+    description_c: 指令生效
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780012
+    code_a: Griffin
+    description_a: 指揮官
+    description_b: 補給
+    description_c: 指令生效
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780013
+    code_a: Griffin
+    description_a: 指揮官
+    description_b: 感應
+    description_c: 指令生效
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780014
+    code_a: Griffin
+    description_a: 指揮官
+    description_b: 預知
+    description_c: 指令生效
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780015
+    code_a: Griffin
+    description_a: 指揮官
+    description_b: 熱血
+    description_c: 指令生效
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780016
+    code_a: Griffin
+    description_a: 指揮官
+    description_b: 鐵壁
+    description_c: 指令生效
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780017
+    code_a: Griffin
+    description_a: 指揮官
+    description_b: 不屈
+    description_c: 指令生效
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780018
+    code_a: Griffin
+    description_a: 指揮官
+    description_b: 魂
+    description_c: 指令生效
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780019
+    code_a: Griffin
+    description_a: 指揮官
+    description_b: 直擊
+    description_c: 指令生效
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780020
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 根性
+    description_c: 指令生效
+    code_b: Console_Icon
+  }
+  {
+    id: 780021
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 投擲歌利亞
+    description_c: 指令生效
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780022
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 主動防禦
+    description_c: 指令生效
+    code_b: Console_Icon
+  }
+  {
+    id: 780023
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 必中
+    description_c: 指令生效
+    code_b: Console_Icon
+  }
+  {
+    id: 780024
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 必閃
+    description_c: 指令生效
+    code_b: Console_Icon
+  }
+  {
+    id: 780025
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 熱血
+    description_c: 指令生效
+    code_b: Console_Icon
+  }
+  {
+    id: 780026
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 鐵壁
+    description_c: 指令生效
+    code_b: Console_Icon
+  }
+  {
+    id: 780027
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 不屈
+    description_c: 指令生效
+    code_b: Console_Icon
+  }
+  {
+    id: 780028
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 魂
+    description_c: 指令生效
+    code_b: Console_Icon
+  }
+  {
+    id: 780029
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 直擊
+    description_c: 指令生效
+    code_b: Console_Icon
+  }
+  {
+    id: 780091
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 撤離點
+    description_c: 撤退
+    code_b: Console_Icon
+  }
+  {
+    id: 780401
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 變電站
+    description_c: 關閉
+    code_b: Console_Icon
+  }
+  {
+    id: 780501
+    code_a: Griffin
+    description_a: 我方梯隊
+    description_b: 駭客行動
+    description_c: 指令生效
+    code_b: Console_Icon
+  }
+  {
+    id: 780601
+    code_a: Griffin
+    description_a: 丹德萊
+    description_b: 二級平層
+    description_c: 潛入
+    code_b: Console_Icon
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 我方梯隊

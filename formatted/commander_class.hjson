@@ -661,6 +661,17 @@
     source_description: 零態潮汐活動排名獎勵
   }
   {
+    id: 66
+    name: 遠行協議
+    description: 「準備好了嗎？是時候打包好所有的回憶了，指揮官。向著那道未知的地平線再次出發吧。」
+    group_id: "104"
+    code: commander_6620_icon
+    path: CLASS66
+    des_year: "2025"
+    source: 2
+    source_description: 零態潮汐活動獎勵
+  }
+  {
     id: 99
     name: 謊言面具
     description: 埋藏我所思，塑化我所願

@@ -1277,6 +1277,30 @@
     skill_group: "450702"
   }
   {
+    id: 1195501
+    name: Anti Destiny
+    desc: 我方梯隊命中提高
+    if_display: 1
+    code: NorZhenC
+    skill_group: "450806"
+  }
+  {
+    id: 1195502
+    name: 叛逆的起點
+    desc: 我方梯隊迴避提高
+    if_display: 1
+    code: ExtraAp
+    skill_group: "450807"
+  }
+  {
+    id: 1195503
+    name: Fate Not Found
+    desc: 我方梯隊傷害提高
+    if_display: 1
+    code: baozhu
+    skill_group: "450808"
+  }
+  {
     id: 12020101
     name: 火力強化
     desc: 提升全隊傷害15%。

@@ -18126,4 +18126,71 @@
     icon_code: 无形之手
     condition: 11924:1192402
   }
+  {
+    identity: 1268
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 與光同行
+    content: 零態潮汐-「回歸憂國之路」:在不關閉變電站的情況下完成關卡。
+    type_sort: 100
+    sort: 339
+    icon_code: 与光同行
+    condition: 11950:1195002
+  }
+  {
+    identity: 1269
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 清道夫
+    content: 零態潮汐-「邁向未來的代價」：完成關卡時擊殺至少12個敵人。
+    type_sort: 100
+    sort: 340
+    icon_code: 清道夫
+    condition: 11953:1195302,11958:1195302,11963:1195302
+  }
+  {
+    identity: 1270
+    type: c_no_skip_activity
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 感恩有你
+    content: 完整瀏覽零態潮汐製作人員名單。
+    type_sort: 100
+    sort: 341
+    icon_code: 感恩有你
+    condition: "11985"
+  }
+  {
+    identity: 1271
+    type: speical_mission_final
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 更新世界的鋒芒
+    content: 通關少女前線所有主線戰役和主線活動。
+    type_sort: 100
+    sort: 342
+    icon_code: 更新世界锋芒
+  }
 ]

@@ -10831,7 +10831,7 @@
     code: 弹匣_特殊_托卡列夫
     develop_duration: 3600
     company: IOP
-    fit_guns: "6"
+    fit_guns: "6,20006"
     equip_introduction: 在舊世界戰場中使用的一種子彈，是托卡列夫非常喜歡使用的規格。
     powerup_mp: 0.48
     powerup_ammo: 0.48
@@ -14984,7 +14984,7 @@
     retire_part: 2
     code: Accessories_SP_AUGPARA
     develop_duration: 3600
-    company: SF
+    company: IOP
     fit_guns: "315"
     equip_introduction: 據說可以吸引松鼠的裝飾品，而且人類應該都會喜歡有個這樣的掛飾吧。
     powerup_mp: 0.45
@@ -15069,5 +15069,107 @@
     group_id: "64"
     is_show: 1
     obtain_ids: "3096"
+  }
+  {
+    id: 471
+    name: M91式望遠瞄準鏡
+    description:
+      '''
+      暴擊機率+<critical_percent><%>
+      射速+<rate>$卡爾卡諾M91/38專用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    rate: "1,2"
+    critical_percent: "17,24"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: Accessories_SP_Carcano1938
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "198"
+    equip_introduction: 全新升級後的一款瞄準鏡，可以幫助使用者看清和識別遠處的目標，非常適用於遠距離精確狙擊任務。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: rate:1000,critical_percent:1000
+    passive_skill: "1009401"
+    max_level: 10
+    auto_select_id: 18129
+    is_show: 1
+    obtain_ids: "522"
+    description_skill: 1009401
+  }
+  {
+    id: 472
+    name: 防爆護臂
+    description:
+      '''
+      傷害<pow> 迴避+<dodge>
+       護甲+<armor>$托卡列夫專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "-10,-10"
+    dodge: "6,10"
+    armor: "3,5"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_TT33
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "6,20006"
+    equip_introduction: 全新升級後的托卡列夫特別申請訂製的護臂，佩戴上後彷彿全身都充滿了力量。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000,armor:1000
+    max_level: 10
+    auto_select_id: 20036
+    is_show: 1
+    obtain_ids: "3016"
+  }
+  {
+    id: 473
+    name: PMII瞄準鏡
+    description:
+      '''
+      射速+<rate>
+      暴擊機率+<critical_percent><%>技能增強$G28專用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    rate: "3,5"
+    critical_percent: "20,25"
+    retire_mp: 3
+    retire_ammo: 2
+    retire_mre: 4
+    retire_part: 1
+    code: Accessories_SP_G28
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "146"
+    equip_introduction: G28專用的一款瞄準鏡，配備了單獨的側向視差調節旋鈕，可以大幅提升視差，光學性能也是極其優秀。
+    powerup_mp: 0.4
+    powerup_ammo: 0.2
+    powerup_mre: 0.6
+    powerup_part: 0.18
+    exclusive_rate: 3
+    bonus_type: rate:1000,critical_percent:800
+    passive_skill: "1009501"
+    max_level: 10
+    auto_select_id: 18130
+    is_show: 1
+    obtain_ids: "3131"
+    description_skill: 1009501
   }
 ]

@@ -670,7 +670,6 @@
     prize_id: 778
     title: 好友：晝戰助戰設置
     content: 完成1次晝戰支援梯隊設置（PS：好友->個人名片->支援梯隊中設置）
-    unlock_course: "100"
     new_type: 1
     grade_id: 54
     sort: 395
@@ -682,7 +681,6 @@
     prize_id: 779
     title: 好友：夜戰助戰設置
     content: 完成1次夜戰支援梯隊設置（PS：好友->個人名片->支援梯隊中設置）
-    unlock_course: "100"
     new_type: 1
     grade_id: 54
     sort: 396
@@ -842,7 +840,6 @@
     prize_id: 799
     title: 衣櫃：完成染色
     content: 首次使用染色劑完成服裝染色
-    unlock_course: "130"
     new_type: 1
     grade_id: 56
     sort: 410
@@ -854,7 +851,6 @@
     prize_id: 800
     title: 衣櫃：開啟指揮官服裝技能
     content: 首次開啟指揮官服裝技能
-    unlock_course: "130"
     new_type: 1
     grade_id: 54
     sort: 392

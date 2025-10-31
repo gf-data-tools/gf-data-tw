@@ -5,6 +5,7 @@
     type: 1
     tag: EP.
     order: 1
+    campaign_sub_name: 普通
   }
   {
     id: 2
@@ -14,6 +15,7 @@
     type: 1
     tag: EP.
     order: 2
+    campaign_sub_name: 普通;緊急;夜戰
   }
   {
     id: 3
@@ -23,6 +25,7 @@
     type: 1
     tag: EP.
     order: 3
+    campaign_sub_name: 普通;緊急;夜戰
   }
   {
     id: 4
@@ -32,6 +35,7 @@
     type: 1
     tag: EP.
     order: 4
+    campaign_sub_name: 普通;緊急;夜戰
   }
   {
     id: 5
@@ -41,6 +45,7 @@
     type: 1
     tag: EP.
     order: 5
+    campaign_sub_name: 普通;緊急;夜戰
   }
   {
     id: 6
@@ -50,6 +55,7 @@
     type: 1
     tag: EP.
     order: 6
+    campaign_sub_name: 普通;緊急;夜戰
   }
   {
     id: 7
@@ -59,6 +65,7 @@
     type: 2
     tag: EP.
     order: 7
+    campaign_sub_name: CH.01 魔方行動
   }
   {
     id: 8
@@ -68,6 +75,7 @@
     type: 1
     tag: EP.
     order: 8
+    campaign_sub_name: 普通;緊急;夜戰
   }
   {
     id: 9
@@ -77,15 +85,17 @@
     type: 1
     tag: EP.
     order: 9
+    campaign_sub_name: 普通;緊急;夜戰
   }
   {
     id: 10
-    story_campaign_id: "-2,-3,-4,-5,-23"
+    story_campaign_id: "-2,-3,-4,-5"
     name: 失溫症
     chapter: "7.5"
     type: 2
     tag: EP.
     order: 10
+    campaign_sub_name: CH.01 狼獾成災;CH.02 燈火管制;CH.03 歸鄉行動;CH.00 墜入兔洞
   }
   {
     id: 11
@@ -95,6 +105,7 @@
     type: 2
     tag: EP.
     order: 11
+    campaign_sub_name: CH.02 盲拆法則
   }
   {
     id: 12
@@ -104,6 +115,7 @@
     type: 1
     tag: EP.
     order: 12
+    campaign_sub_name: 普通;緊急;夜戰
   }
   {
     id: 13
@@ -113,6 +125,7 @@
     type: 2
     tag: EP.
     order: 13
+    campaign_sub_name: CH.01 認知迷雲;CH.02 雙曲函數;CH.03 相對行為
   }
   {
     id: 14
@@ -122,6 +135,7 @@
     type: 1
     tag: EP.
     order: 14
+    campaign_sub_name: 普通;緊急;夜戰
   }
   {
     id: 15
@@ -131,6 +145,7 @@
     type: 1
     tag: EP.
     order: 15
+    campaign_sub_name: 普通;緊急;夜戰
   }
   {
     id: 16
@@ -140,15 +155,17 @@
     type: 2
     tag: EP.
     order: 16
+    campaign_sub_name: CH.01 大撤退;CH.02 第二輪月亮;CH.03 終局
   }
   {
     id: 17
-    story_campaign_id: "-24,-25,-26,-28"
+    story_campaign_id: "-24,-25,-26,-27,-28"
     name: 有序紊流
     chapter: "10.75"
     type: 2
     tag: EP.
     order: 17
+    campaign_sub_name: CH.01 彼岸破曉;CH.02 殊途同歸;CH.03 跨越末日;CH.04 流放者;CH.00 颶風營救
   }
   {
     id: 18
@@ -158,6 +175,7 @@
     type: 1
     tag: EP.
     order: 18
+    campaign_sub_name: 普通;緊急
   }
   {
     id: 19
@@ -167,6 +185,7 @@
     type: 2
     tag: EP.
     order: 19
+    campaign_sub_name: CH.01
   }
   {
     id: 20
@@ -176,6 +195,7 @@
     type: 2
     tag: EP.
     order: 20
+    campaign_sub_name: CH.01 塔林;CH.02 死城;CH.03 獻祭;CH.04 鏈接;CH.05 曇花;CH.00 終焉花海
   }
   {
     id: 21
@@ -185,6 +205,7 @@
     type: 1
     tag: EP.
     order: 21
+    campaign_sub_name: 普通;緊急
   }
   {
     id: 22
@@ -194,6 +215,7 @@
     type: 2
     tag: EP.
     order: 22
+    campaign_sub_name: CH.01 非偏光源;CH.02 二象稜鏡;CH.03 極化終點;CH.04 晶體重鑄;CH.05 視線邊界;CH.00 謎境守衛
   }
   {
     id: 23
@@ -203,6 +225,7 @@
     type: 1
     tag: EP.
     order: 23
+    campaign_sub_name: 普通;緊急
   }
   {
     id: 24
@@ -212,6 +235,7 @@
     type: 2
     tag: EP.
     order: 24
+    campaign_sub_name: CH.01;CH.02;CH.03;CH.04;CH.05;CH.06
   }
   {
     id: 25
@@ -221,6 +245,7 @@
     type: 2
     tag: EP.
     order: 25
+    campaign_sub_name: CH.01 實相域;CH.02 想象域;CH.03 象徵域;CH.04 凝視
   }
   {
     id: 26
@@ -230,6 +255,7 @@
     type: 2
     tag: EP.
     order: 26
+    campaign_sub_name: CH.01 淨熵減低;CH.02 星輝重明;CH.03 熵增逆轉;CH.04 恆星隕落;CH.05 至暗衰竭;CH.06 混沌終局
   }
   {
     id: 27
@@ -239,6 +265,7 @@
     type: 2
     tag: EP.
     order: 27
+    campaign_sub_name: CH.01 奇點;CH.02 射影平面;CH.03 黎曼曲面;CH.04 泰希米勒空間;CH.∞ 推演
   }
   {
     id: 28
@@ -248,6 +275,7 @@
     type: 2
     tag: EP.
     order: 28
+    campaign_sub_name: 柳德米拉;瑪姬;艾爾瑪;塔亞柔斯;柳芭老媽;尼古拉;凱瑟琳;尤金魯戈薩醫生;鐵路人形保爾;物品
   }
   {
     id: 29
@@ -257,6 +285,7 @@
     type: 2
     tag: EP.
     order: 30
+    campaign_sub_name: CH.00;CH.01;CH.02;CH.03;CH.03+
   }
   {
     id: 30
@@ -266,6 +295,7 @@
     type: 3
     tag: C.E.
     order: 50
+    campaign_sub_name: CH.01
   }
   {
     id: 31
@@ -275,6 +305,7 @@
     type: 3
     tag: C.E.
     order: 51
+    campaign_sub_name: CH.01
   }
   {
     id: 32
@@ -284,6 +315,7 @@
     type: 3
     tag: C.E.
     order: 52
+    campaign_sub_name: CH.01
   }
   {
     id: 33
@@ -292,7 +324,8 @@
     chapter: "2021"
     type: 3
     tag: C.E.
-    order: 53
+    order: 56
+    campaign_sub_name: CH.01
   }
   {
     id: 34
@@ -302,6 +335,7 @@
     type: 2
     tag: EP.
     order: 29
+    campaign_sub_name: CH.01
   }
   {
     id: 35
@@ -310,7 +344,8 @@
     chapter: "2020"
     type: 3
     tag: C.E.
-    order: 54
+    order: 53
+    campaign_sub_name: CH.01
   }
   {
     id: 36
@@ -320,6 +355,7 @@
     type: 3
     tag: C.E.
     order: 55
+    campaign_sub_name: CH.01
   }
   {
     id: 37
@@ -329,6 +365,7 @@
     type: 2
     tag: EP.
     order: 31
+    campaign_sub_name: CH.01
   }
   {
     id: 38
@@ -338,6 +375,7 @@
     type: 2
     tag: EP.
     order: 32
+    campaign_sub_name: CH.01;CH.01+
   }
   {
     id: 39
@@ -347,6 +385,7 @@
     type: 2
     tag: EP.
     order: 33
+    campaign_sub_name: CH.01;CH.01+
   }
   {
     id: 40
@@ -356,6 +395,7 @@
     type: 2
     tag: EP.
     order: 34
+    campaign_sub_name: CH.01;CH.01+
   }
   {
     id: 41
@@ -365,6 +405,7 @@
     type: 2
     tag: EP.
     order: 35
+    campaign_sub_name: CH.01;CH.01+
   }
   {
     id: 42
@@ -374,6 +415,7 @@
     type: 2
     tag: EP.
     order: 36
+    campaign_sub_name: CH.01;CH.01+
   }
   {
     id: 43
@@ -382,7 +424,8 @@
     chapter: "2022"
     type: 3
     tag: C.E.
-    order: 56
+    order: 58
+    campaign_sub_name: CH.01
   }
   {
     id: 44
@@ -391,7 +434,8 @@
     chapter: "2023"
     type: 3
     tag: C.E.
-    order: 58
+    order: 60
+    campaign_sub_name: CH.01
   }
   {
     id: 45
@@ -400,7 +444,8 @@
     chapter: "2023"
     type: 3
     tag: C.E.
-    order: 59
+    order: 61
+    campaign_sub_name: CH.01
   }
   {
     id: 46
@@ -410,6 +455,7 @@
     type: 2
     tag: EP.
     order: 37
+    campaign_sub_name: Day1夜-耶穌之死;Day1深夜-門徒;Day2晨-神之血;Day2午-聖者之書;Day2夜-最後的晚餐;Day3晨-復活節;奇點
   }
   {
     id: 47
@@ -419,5 +465,46 @@
     type: 2
     tag: EP.
     order: 38
+    campaign_sub_name: CH.01
+  }
+  {
+    id: 48
+    story_campaign_id: "-78"
+    name: 零態潮汐
+    chapter: "15.9"
+    type: 2
+    tag: EP.
+    order: 39
+    campaign_sub_name: 第一幕 回憶錄;第二幕 冒險史;第三幕 歸來記
+  }
+  {
+    id: 49
+    story_campaign_id: "-42"
+    name: 繭中蝶影
+    chapter: "2020"
+    type: 3
+    tag: C.E.
+    order: 54
+    campaign_sub_name: CH.01
+  }
+  {
+    id: 50
+    story_campaign_id: "-50"
+    name: 焙炒愛意
+    chapter: "2022"
+    type: 3
+    tag: C.E.
+    order: 57
+    campaign_sub_name: CH.01
+  }
+  {
+    id: 51
+    story_campaign_id: "-59"
+    name: 迷籠猜想
+    chapter: "2023"
+    type: 3
+    tag: C.E.
+    order: 59
+    campaign_sub_name: CH.01
   }
 ]

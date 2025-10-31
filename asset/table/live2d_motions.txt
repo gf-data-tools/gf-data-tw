@@ -3742,3 +3742,15 @@ live2d_motions-10999912,
 live2d_motions-10999913,
 live2d_motions-10999914,
 live2d_motions-10999915,
+live2d_motions-10505501,待機
+live2d_motions-10505502,待機
+live2d_motions-10505503,待機
+live2d_motions-10505504,待機
+live2d_motions-10505505,待機
+live2d_motions-10505506,待機
+live2d_motions-10505507,待機
+live2d_motions-10505508,待機
+live2d_motions-10505509,待機
+live2d_motions-10505510,待機
+live2d_motions-10505511,待機
+live2d_motions-10505512,待機

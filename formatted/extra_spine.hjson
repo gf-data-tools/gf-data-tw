@@ -922,4 +922,11 @@
     scale: 50
     ai: 3080
   }
+  {
+    id: 3113
+    name: 高解析度投影蟻
+    spine_code: 2025Afterword_Dinergate
+    scale: 50
+    ai: 3081
+  }
 ]

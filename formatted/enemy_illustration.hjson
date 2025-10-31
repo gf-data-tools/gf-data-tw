@@ -3556,6 +3556,7 @@
     code: Teal
     introduce: 帕拉蒂斯的精銳單位，冷靜而審慎，擁有強大的判斷力和對情緒的控制力。經常和格雷協同作戰，非常信賴她。擅長使用長劍潛伏暗殺，在抓住敵人露出破綻的一瞬，以無法用肉眼捕捉的速度一招致命。
     forces: 3
+    if_capture: 1
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3578,6 +3579,7 @@
     code: Teal
     introduce: 帕拉蒂斯的精銳單位，冷靜而審慎，擁有強大的判斷力和對情緒的控制力。經常和格雷協同作戰，非常信賴她。擅長使用長劍潛伏暗殺，在抓住敵人露出破綻的一瞬，以無法用肉眼捕捉的速度一招致命。
     forces: 3
+    if_capture: 1
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6029,6 +6031,28 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 255003
+    id: 255
+    name: 威廉
+    sub_name: 威廉
+    type: 1
+    code: BossWilliam
+    introduce: 通往新世界的階梯已然染血，但他也早已不在乎代價。此刻驅動著這具殘破身軀的，並非對未來的渴望，而是對阻礙者的……純粹的憎恨。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 情報不明,謹慎應對!
+    character: "1004"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
     sub_id: 256001
     id: 256
     name: '''"贗品"'''
@@ -6048,6 +6072,29 @@
     character: "1001,1004"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 257001
+    id: 257
+    name: 露尼西亞(?)
+    sub_name: 露尼西亞(?)
+    type: 1
+    code: BossLunasia
+    introduce: 被掏空後、用以填滿他人扭曲思念的容器，擁有與原型別無二致的外表。為了證明自己無愧於這份期待，她將以毫無動搖的決心，扮演好她被賦予的角色。
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 陪伴指揮官一路前行的戰友們會給予你衝破最後阻礙的力量！
+    character: "1004"
+    enemy_skill: "269,270,271,272,273,274,275"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
   }
   {
     sub_id: 100001001

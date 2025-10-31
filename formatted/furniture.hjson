@@ -28928,6 +28928,250 @@
     rotate: "2"
   }
   {
+    id: 11701
+    name: 艾莫已久-無痕旅途
+    classes: 117
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 它被設計得極其耐磨，以至於日復一日的行走都無法留下痕跡。我們的旅途非常漫長，但對於這塊地板而言，我們彷彿從未啟程過。
+    code: 2025Afterword_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11702
+    name: 艾莫已久-不變的風景
+    classes: 117
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 窗外的風景一直在變，唯有這面牆的紋理始終如一。無論漂泊到多遠的地方，只要被這層內壁包裹，就意味著「家」還在這裡。
+    code: 2025Afterword_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11703
+    name: 艾莫已久-靜默綠洲
+    classes: 117
+    type: 201
+    position: "2,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 在無盡的旅途中，一抹綠色和純淨的水源同樣珍貴。「它不產出資源，不參與戰鬥，只會消耗珍貴的淨水。」「是的，但它活著，這就夠了。」
+    code: 2025Afterword_deco_01
+    texture_type: "1"
+    offset: "-0.125,-0.031,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11704
+    name: 艾莫已久-非必要指令台
+    classes: 117
+    type: 201
+    position: "2,12"
+    space: "7,2,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 不再只用於處理戰報和指令。現在的你可以在這裡查閱舊世界的資料，或是下載幾部老電影——畢竟，精神食糧也是一種必需品。
+    code: 2025Afterword_deco_02
+    texture_type: "1"
+    offset: "0.282,-0.042,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11705
+    name: 艾莫已久-非正式工作台
+    classes: 117
+    type: 201
+    position: "6,3"
+    space: "5,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 現場發掘出大量的書籍和成分不明的瓶裝液體。我們有理由相信，這裡曾發生過一場激烈的頭腦風暴，但最終思想家本人被沙發俘獲了。
+    code: 2025Afterword_deco_03
+    texture_type: "1"
+    offset: "-0.042,-0.010,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11706
+    name: 艾莫已久-時光展板
+    classes: 117
+    type: 201
+    position: "5,0"
+    space: "6,1,1,1,0,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 每個人的心情都像一塊拼圖，被隨意地貼在這裡。歡快的、憂傷的、無聊的……共同構成了一幅名為「我們」的圖景。
+    code: 2025Afterword_deco_04
+    texture_type: "1"
+    offset: "0.125,-0.073,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11707
+    name: 艾莫已久-靈感轉椅
+    classes: 117
+    type: 202
+    position: "6,5"
+    space: "3,3,1,1,1,0"
+    deco_rate: 850
+    decompose_gift: 100003
+    description: 據說只要以特定的角度後仰，就能捕捉到稍縱即逝的靈感。但很可惜的是，迄今為止，能被捕捉到的往往只有睡意。
+    code: 2025Afterword_deco_05
+    texture_type: "1"
+    offset: "0.021,-0.167,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11708
+    name: 艾莫已久-柔軟的角落
+    classes: 117
+    type: 201
+    position: "14,0"
+    space: "7,4,1,1,0,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 陷進這個沙發裡，你可以思考明天的計劃怎麼做，也可以抉擇今晚的宵夜是什麼。無論哪種，都是幸福的煩惱，不是嗎？
+    code: 2025Afterword_deco_06
+    texture_type: "1"
+    offset: "0.000,-0.031,0.000"
+    rotate: "2"
+    interact_point: "3"
+    interact_point_offset: *-0.496,2.020,-0.285
+  }
+  {
+    id: 11709
+    name: 艾莫已久-安歇區域
+    classes: 117
+    type: 201
+    position: "14,6"
+    space: "8,6,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 一旦進入地毯範圍，所有的爭執都必須暫停。你可以把腿搭在茶几上，但不可以把壞情緒帶到這裡來。
+    code: 2025Afterword_deco_07
+    texture_type: "1"
+    offset: "0.052,-0.031,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11710
+    name: 艾莫已久-天氣清單
+    classes: 117
+    type: 201
+    position: "21,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 700
+    decompose_gift: 100003
+    description: 「氣象報告：今日，晴，適合冒險。」「標籤報告：今日，多雲，適合睡覺。」我們選擇相信後者。
+    code: 2025Afterword_deco_08
+    texture_type: "1"
+    offset: "-0.103,2.555,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11711
+    name: 艾莫已久-夢境交點
+    classes: 117
+    type: 201
+    position: "24,1"
+    space: "6,1,1,1,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 睡前，你把一天的行李存放在這裡；醒來，再從這裡取出面對新一天的勇氣。
+    code: 2025Afterword_deco_09
+    texture_type: "1"
+    offset: "0.010,-0.031,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11712
+    name: 艾莫已久-願望清單
+    classes: 117
+    type: 201
+    position: "29,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 850
+    decompose_gift: 100003
+    description: 「想吃到很多棒棒糖」、「想看一次海」、「想和指揮官去度假」……少女們把願望貼在床邊，彷彿這樣，就能在明天睡醒時實現。
+    code: 2025Afterword_deco_10
+    texture_type: "1"
+    offset: "-0.103,1.512,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11713
+    name: 艾莫已久-披薩拖鞋
+    classes: 117
+    type: 201
+    position: "25,11"
+    space: "3,3,1,1,1,0"
+    deco_rate: 850
+    decompose_gift: 100003
+    description: 脫下冰冷的作戰靴，換上這雙柔軟的拖鞋，才算是真正卸下了疲憊。「別怕，披薩先生是不會咬人的。」
+    code: 2025Afterword_deco_11
+    texture_type: "1"
+    offset: "0.021,-0.073,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11714
+    name: 艾莫已久-希望的容器
+    classes: 117
+    type: 201
+    position: "30,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 櫃面空間很大，但只放置了一個花瓶。為了未來將要加入的擺飾，我們留出了足夠的空白。
+    code: 2025Afterword_deco_12
+    texture_type: "1"
+    offset: "0.115,-0.052,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11715
+    name: 艾莫已久-晚安世界
+    classes: 117
+    type: 203
+    position: "24,3"
+    space: "10,7,0,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 躺上去、閉上眼，柔軟的枕頭會帶你渡到沒有硝煙的夢境彼岸……回程的船票？放心吧，明天早餐的香氣會把你叫醒的。
+    code: 2025Afterword_deco_13
+    texture_type: "1"
+    offset: "0.188,-0.334,0.000"
+    rotate: "2"
+    interact_point: "6"
+    interact_point_offset: *-2.508,2.703,-0.148
+  }
+  {
+    id: 11716
+    name: 艾莫已久-夢境接口
+    classes: 117
+    type: 201
+    position: "30,10"
+    space: "3,3,1,1,1,0"
+    deco_rate: 850
+    decompose_gift: 100003
+    description: 伸手就能觸碰到的地方，總是放著最重要的東西。把東西一件件放好，就等於對今天的自己說「辛苦了」，也對今天的世界說一聲「晚安」。
+    code: 2025Afterword_deco_14
+    texture_type: "1"
+    offset: "0.000,-0.070,0.000"
+    rotate: "2"
+  }
+  {
     id: 20000
     name: 名湯·拉王
     classes: 81
@@ -31622,6 +31866,20 @@
     offset: "-0.008,0.083,0.000"
     rotate: "2"
     touch_area: "3,3,3"
+  }
+  {
+    id: 20177
+    name: 汐岸拾光勳章
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 表彰該指揮官及其麾下的戰術人形在「零態潮汐」活動中的卓越戰績，「您並非前來尋找失落的遺物，而是將心中的光，播撒在了這片樂土之上。從此，愛與希望有了形狀。」
+    code: 202509Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
   }
   {
     id: 30001
@@ -48173,6 +48431,111 @@
     rotate: "3"
   }
   {
+    id: 311601
+    name: SCAR-H-停駐之時
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SCAR-H的海報
+    code: poster_2025Afterword_SCARH
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311602
+    name: NTW-20-追獵於蜃景
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: NTW-20的海報
+    code: poster_2025Afterword_NTW20
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311603
+    name: 劉氏步槍-瓶中的天空
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 劉氏步槍的海報
+    code: poster_2025Afterword_GeneralLiu
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311604
+    name: 64式-風旅同歌
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 64式的海報
+    code: poster_2025Afterword_64type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311605
+    name: LWMMG-遙望地平線
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LWMMG的海報
+    code: poster_2025Afterword_LWMMG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311606
+    name: G28-躍動信號
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G28的海報
+    code: poster_2025Afterword_G28
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311608
+    name: M2HB-破曉行徵
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M2HB的海報
+    code: poster_2025Afterword_M2HB
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 330001
     name: ST AR-15-午夏憩風
     classes: 300
@@ -48653,6 +49016,21 @@
     rotate: "3"
   }
   {
+    id: 330034
+    name: SPAS-12-動感里程
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SPAS-12的海報
+    code: poster_BattlePass_SPAS12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 350001
     name: 漢陽造88式-致群星
     classes: 300
@@ -48722,6 +49100,21 @@
     decompose_gift: 100003
     description: MDR的海報。
     code: poster_ArenaBreakout_MDR
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 350006
+    name: M4A1-零向信標
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M4A1的海報。
+    code: poster_ArtBook_M4A1
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

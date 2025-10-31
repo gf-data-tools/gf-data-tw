@@ -1768,7 +1768,7 @@
     dialogue: 待定，单独提出语言包最好
     extra: ",,"
     en_introduce: 待定
-    forces: 1
+    forces: 3
     type: 1
     character: "2,4,5"
     formation: 1

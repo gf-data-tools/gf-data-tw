@@ -301,7 +301,6 @@
     dialog: 雖然平時工作在後勤，但到了關鍵時刻，即便是我也能夠衝鋒陷陣……好了，指揮官，我們出發吧。
     gift_position: "-130,-4.5"
     class_id: 52
-    skin_source: 1
   }
   {
     id: 212
@@ -311,6 +310,16 @@
     voice: 4
     dialog: 欸，指揮官是在誇我這一身很幹練嗎？嘿嘿~那麼接下來的會議，就讓我們一起大展身手吧！
     gift_position: "-150,0"
+    class_id: 52
+  }
+  {
+    id: 213
+    name: 格琳娜-提裙候命
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    dialog: 指揮官~工作之餘是想喝杯咖啡，還是想來份熱茶呢？不管您選哪個，我都已經準備好了哦~
+    gift_position: "-130,-13"
     class_id: 52
   }
   {
@@ -9624,7 +9633,7 @@
     fit_gun: 97
     voice: 15
     dialog: 這身衣服配上竹林布景……會很奇怪嗎？雷電說，還挺適合我的來著……啊，你也這麼覺得？謝、謝謝誇獎……
-    gift_position: "-286280"
+    gift_position: "-286,280"
     illustrator_cv: 八號地球,古賀葵,
     order: 148
     class_id: 110
@@ -9840,6 +9849,80 @@
     order: 154
     class_id: 112
     skin_source: 2
+  }
+  {
+    id: 11601
+    name: SCAR-H-停駐之時
+    fit_gun: 377
+    voice: 4
+    dialog: 既然要開啟一段新生活，就應該把過去拋在腦後。可我越是向上爬，就越是能看清我們離開的那個地方……也好，這樣能讓我確認，自己還沒有走錯方向。
+    order: 159
+    class_id: 113
+    skin_source: 2
+  }
+  {
+    id: 11602
+    name: NTW-20-追獵於蜃景
+    fit_gun: 53
+    voice: 4
+    dialog: 這片沙漠好像沒有什麼像樣的獵物啊？不過沒關係，因為我這次狩獵的目標只有一個——指揮官，你應該已經準備好了吧？
+    gift_position: "-115,91.5"
+    illustrator_cv: RIRE,松嵜麗,
+    order: 159
+    class_id: 113
+    skin_source: 1
+  }
+  {
+    id: 11603
+    name: 劉氏步槍-瓶中的天空
+    fit_gun: 316
+    voice: 4
+    dialog: 長官……您說過希望我能追尋自己的天空，所以這瓶酒是慶祝用的。嗯，大概是慶祝我……終於勇敢地邁出了第一步吧？
+    order: 159
+    class_id: 113
+    skin_source: 2
+  }
+  {
+    id: 11604
+    name: 64式-風旅同歌
+    fit_gun: 94
+    voice: 4
+    dialog: 等到一切都塵埃落定，我會再為長官泡一壺上好的龍井……嗯，就像我們曾經約好的那樣。
+    order: 159
+    class_id: 113
+    skin_source: 2
+  }
+  {
+    id: 11605
+    name: LWMMG-遙望地平線
+    fit_gun: 81
+    voice: 4
+    dialog: 指揮官，您看到了嗎？在這片廢土之上，我沒有浪費任何一顆子彈，就能夠開闢出屬於自己的道路……
+    order: 159
+    class_id: 113
+    skin_source: 2
+  }
+  {
+    id: 11606
+    name: G28-躍動信號
+    fit_gun: 146
+    voice: 4
+    dialog: 我的目標是成為像姐姐那樣的精英人形……為了能讓您在有朝一日看到我的進步，我一定會加倍努力的！
+    order: 159
+    class_id: 113
+    skin_source: 2
+  }
+  {
+    id: 11608
+    name: M2HB-破曉行徵
+    fit_gun: 77
+    voice: 4
+    dialog: 這身行頭可真麻煩啊……喂，指揮官，我是為了你才這麼努力的，你可不要倒在我前面啊！
+    gift_position: "-253,-9.1"
+    illustrator_cv: 染羽,岩松泉,
+    order: 159
+    class_id: 113
+    skin_source: 1
   }
   {
     id: 30001
@@ -10132,6 +10215,14 @@
     order: 158
   }
   {
+    id: 30034
+    name: SPAS-12-動感里程
+    fit_gun: 162
+    voice: 4
+    dialog: 嘿咻、嘿咻……只要再跑一公里，就能解鎖那個芝士牛肉堡作為獎勵了！
+    order: 160
+  }
+  {
     id: 50001
     name: 漢陽造88式-致群星
     fit_gun: 95
@@ -10187,5 +10278,14 @@
     order: 142
     class_id: 53
     skin_source: 1
+  }
+  {
+    id: 50006
+    name: M4A1-零向信標
+    fit_gun: 55
+    voice: 4
+    dialog: 走在這條路上，有時會感到迷茫……但只要追尋著您的身影，我就永遠不會丟失方向。
+    order: 161
+    class_id: 99
   }
 ]

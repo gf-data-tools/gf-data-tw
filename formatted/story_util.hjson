@@ -10,6 +10,8 @@
     start: 0-1-1
     first: 0-1-2
     end: 0-1-2
+    story_playback_sub_id: 1
+    background_code: 雪地
   }
   {
     id: 2
@@ -22,6 +24,8 @@
     start: 0-2-1
     first: 0-2-2
     end: 0-2-2
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 3
@@ -34,6 +38,8 @@
     start: 0-3-1
     first: 0-3-2
     end: 0-3-2
+    story_playback_sub_id: 1
+    background_code: 室内战斗
   }
   {
     id: 4
@@ -46,6 +52,8 @@
     start: 0-4-1
     first: 0-4-2
     end: 0-4-2
+    story_playback_sub_id: 1
+    background_code: M16开枪
   }
   {
     id: 5
@@ -59,6 +67,8 @@
     start: 1-1-1
     first: 1-1-2
     end: 1-1-2
+    story_playback_sub_id: 1
+    background_code: ANTIRAIN
   }
   {
     id: 6
@@ -72,6 +82,8 @@
     start: 1-2-1
     first: 1-2-2
     end: 1-2-2
+    story_playback_sub_id: 1
+    background_code: SFs
   }
   {
     id: 7
@@ -85,6 +97,8 @@
     start: 1-3-1
     first: 1-3-2
     end: 1-3-2
+    story_playback_sub_id: 1
+    background_code: 工厂背景avg
   }
   {
     id: 8
@@ -98,6 +112,8 @@
     start: 1-4-1
     first: 1-4-2
     end: 1-4-2
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 9
@@ -111,6 +127,8 @@
     start: 1-5-1
     first: 1-5-2
     end: 1-5-2
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 10
@@ -124,6 +142,8 @@
     start: 1-6-1
     first: 1-6-2
     end: 1-6-2
+    story_playback_sub_id: 1
+    background_code: CG.1-6 有人
   }
   {
     id: 11
@@ -137,6 +157,8 @@
     start: 1-1-1E
     first: 1-1-2E
     end: 1-1-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 12
@@ -150,6 +172,8 @@
     start: 1-2-1E
     first: 1-2-2E
     end: 1-2-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 13
@@ -163,6 +187,8 @@
     start: 1-3-1E
     first: 1-3-2E
     end: 1-3-2E
+    story_playback_sub_id: 2
+    background_code: SFs
   }
   {
     id: 14
@@ -176,6 +202,8 @@
     start: 1-4-1E
     first: 1-4-2E
     end: 1-4-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 15
@@ -189,6 +217,8 @@
     start: 1-1-1N
     first: 1-1-2N
     end: 1-1-2N
+    story_playback_sub_id: 3
+    background_code: 树林
   }
   {
     id: 16
@@ -202,6 +232,8 @@
     start: 1-2-1N
     first: 1-2-2N
     end: 1-2-2N
+    story_playback_sub_id: 3
+    background_code: 树林
   }
   {
     id: 17
@@ -215,6 +247,8 @@
     start: 1-3-1N
     first: 1-3-2N
     end: 1-3-2N
+    story_playback_sub_id: 3
+    background_code: 树林
   }
   {
     id: 18
@@ -228,6 +262,8 @@
     start: 1-4-1N
     first: 1-4-2N
     end: 1-4-2N
+    story_playback_sub_id: 3
+    background_code: 作战室avg
   }
   {
     id: 19
@@ -241,6 +277,8 @@
     start: 2-1-1
     first: 2-1-2
     end: 2-1-2
+    story_playback_sub_id: 1
+    background_code: 工厂背景avg
   }
   {
     id: 20
@@ -254,6 +292,8 @@
     start: 2-2-1
     first: 2-2-2
     end: 2-2-2
+    story_playback_sub_id: 1
+    background_code: 工厂背景avg
   }
   {
     id: 21
@@ -267,6 +307,8 @@
     start: 2-3-1
     first: 2-3-2
     end: 2-3-2
+    story_playback_sub_id: 1
+    background_code: 机场
   }
   {
     id: 22
@@ -280,6 +322,8 @@
     start: 2-4-1
     first: 2-4-2
     end: 2-4-2
+    story_playback_sub_id: 1
+    background_code: 工厂背景avg
   }
   {
     id: 23
@@ -293,6 +337,8 @@
     start: 2-5-1
     first: 2-5-2
     end: 2-5-2
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 24
@@ -306,6 +352,8 @@
     start: 2-6-1
     first: 2-6-2
     end: 2-6-2
+    story_playback_sub_id: 1
+    background_code: CG.2-6
   }
   {
     id: 25
@@ -319,6 +367,8 @@
     start: 2-1-1E
     first: 2-1-2E
     end: 2-1-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 26
@@ -332,6 +382,8 @@
     start: 2-2-1E
     first: 2-2-2E
     end: 2-2-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 27
@@ -345,6 +397,8 @@
     start: 2-3-1E
     first: 2-3-2E
     end: 2-3-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 28
@@ -358,6 +412,8 @@
     start: 2-4-1E
     first: 2-4-2E
     end: 2-4-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 29
@@ -371,6 +427,8 @@
     start: 2-1-1N
     first: 2-1-2N
     end: 2-1-2N
+    story_playback_sub_id: 3
+    background_code: 街道
   }
   {
     id: 30
@@ -384,6 +442,8 @@
     start: 2-2-1N
     first: 2-2-2N
     end: 2-2-2N
+    story_playback_sub_id: 3
+    background_code: 街道
   }
   {
     id: 31
@@ -397,6 +457,8 @@
     start: 2-3-1N
     first: 2-3-2N
     end: 2-3-2N
+    story_playback_sub_id: 3
+    background_code: 街道
   }
   {
     id: 32
@@ -410,6 +472,8 @@
     start: 2-4-1N
     first: 2-4-2N
     end: 2-4-2N
+    story_playback_sub_id: 3
+    background_code: 主界面背景
   }
   {
     id: 33
@@ -423,6 +487,8 @@
     start: 3-1-1
     first: 3-1-2
     end: 3-1-2
+    story_playback_sub_id: 1
+    background_code: 主界面背景
   }
   {
     id: 34
@@ -436,6 +502,8 @@
     start: 3-2-1
     first: 3-2-2
     end: 3-2-2
+    story_playback_sub_id: 1
+    background_code: 街道
   }
   {
     id: 35
@@ -449,6 +517,8 @@
     start: 3-3-1
     first: 3-3-2
     end: 3-3-2
+    story_playback_sub_id: 1
+    background_code: 大桥
   }
   {
     id: 36
@@ -462,6 +532,8 @@
     start: 3-4-1
     first: 3-4-2
     end: 3-4-2
+    story_playback_sub_id: 1
+    background_code: 主界面背景
   }
   {
     id: 37
@@ -475,6 +547,8 @@
     start: 3-5-1
     first: 3-5-2
     end: 3-5-2
+    story_playback_sub_id: 1
+    background_code: 街道
   }
   {
     id: 38
@@ -488,6 +562,8 @@
     start: 3-6-1
     first: 3-6-2
     end: 3-6-2
+    story_playback_sub_id: 1
+    background_code: 大桥
   }
   {
     id: 39
@@ -501,6 +577,8 @@
     start: 3-1-1E
     first: 3-1-2E
     end: 3-1-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 40
@@ -514,6 +592,8 @@
     start: 3-2-1E
     first: 3-2-2E
     end: 3-2-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 41
@@ -527,6 +607,8 @@
     start: 3-3-1E
     first: 3-3-2E
     end: 3-3-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 42
@@ -540,6 +622,8 @@
     start: 3-4-1E
     first: 3-4-2E
     end: 3-4-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 43
@@ -553,6 +637,8 @@
     start: 3-1-1N
     first: 3-1-2N
     end: 3-1-2N
+    story_playback_sub_id: 3
+    background_code: 大桥
   }
   {
     id: 44
@@ -566,6 +652,8 @@
     start: 3-2-1N
     first: 3-2-2N
     end: 3-2-2N
+    story_playback_sub_id: 3
+    background_code: 作战室avg
   }
   {
     id: 45
@@ -579,6 +667,8 @@
     start: 3-3-1N
     first: 3-3-2N
     end: 3-3-2N
+    story_playback_sub_id: 3
+    background_code: 主界面背景
   }
   {
     id: 46
@@ -592,6 +682,8 @@
     start: 3-4-1N
     first: 3-4-2N
     end: 3-4-2N
+    story_playback_sub_id: 3
+    background_code: 单挑
   }
   {
     id: 47
@@ -605,6 +697,8 @@
     start: 4-1-1
     first: 4-1-2
     end: 4-1-2
+    story_playback_sub_id: 1
+    background_code: 室内战斗
   }
   {
     id: 48
@@ -618,6 +712,8 @@
     start: 4-2-1
     first: 4-2-2
     end: 4-2-2
+    story_playback_sub_id: 1
+    background_code: 主界面背景
   }
   {
     id: 49
@@ -631,6 +727,8 @@
     start: 4-3-1
     first: 4-3-2
     end: 4-3-2
+    story_playback_sub_id: 1
+    background_code: CG.4-2
   }
   {
     id: 50
@@ -644,6 +742,8 @@
     start: 4-4-1
     first: 4-4-2
     end: 4-4-2
+    story_playback_sub_id: 1
+    background_code: 单挑
   }
   {
     id: 51
@@ -657,6 +757,8 @@
     start: 4-5-1
     first: 4-5-2
     end: 4-5-2
+    story_playback_sub_id: 1
+    background_code: 单挑
   }
   {
     id: 52
@@ -670,6 +772,8 @@
     start: 4-6-1
     first: 4-6-2
     end: 4-6-2
+    story_playback_sub_id: 1
+    background_code: eliza0
   }
   {
     id: 53
@@ -683,6 +787,8 @@
     start: 4-1-1E
     first: 4-1-2E
     end: 4-1-2E
+    story_playback_sub_id: 2
+    background_code: 主界面背景
   }
   {
     id: 54
@@ -696,6 +802,8 @@
     start: 4-2-1E
     first: 4-2-2E
     end: 4-2-2E
+    story_playback_sub_id: 2
+    background_code: 主界面背景
   }
   {
     id: 55
@@ -709,6 +817,8 @@
     start: 4-3-1E
     first: 4-3-2E
     end: 4-3-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 56
@@ -722,6 +832,8 @@
     start: 4-4-1E
     first: 4-4-2E
     end: 4-4-2E
+    story_playback_sub_id: 2
+    background_code: 打海猫2
   }
   {
     id: 57
@@ -735,6 +847,8 @@
     start: 5-1-1
     first: 5-1-2
     end: 5-1-2
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 58
@@ -748,6 +862,8 @@
     start: 5-2-1
     first: 5-2-2
     end: 5-2-2
+    story_playback_sub_id: 1
+    background_code: CG.5
   }
   {
     id: 59
@@ -761,6 +877,8 @@
     start: 5-3-1
     first: 5-3-2
     end: 5-3-2
+    story_playback_sub_id: 1
+    background_code: 室内战斗
   }
   {
     id: 60
@@ -774,6 +892,8 @@
     start: 5-4-1
     first: 5-4-2
     end: 5-4-2
+    story_playback_sub_id: 1
+    background_code: 单挑
   }
   {
     id: 61
@@ -787,6 +907,8 @@
     start: 5-5-1
     first: 5-5-2
     end: 5-5-2
+    story_playback_sub_id: 1
+    background_code: 冰湖
   }
   {
     id: 62
@@ -800,6 +922,8 @@
     start: 5-6-1
     first: 5-6-2
     end: 5-6-2
+    story_playback_sub_id: 1
+    background_code: CG.5-6
   }
   {
     id: 63
@@ -813,6 +937,8 @@
     start: 5-1-1E
     first: 5-1-2E
     end: 5-1-2E
+    story_playback_sub_id: 2
+    background_code: 冰湖
   }
   {
     id: 64
@@ -826,6 +952,8 @@
     start: 5-2-1E
     first: 5-2-2E
     end: 5-2-2E
+    story_playback_sub_id: 2
+    background_code: 工厂背景avg
   }
   {
     id: 65
@@ -839,6 +967,8 @@
     start: 5-3-1E
     first: 5-3-2E
     end: 5-3-2E
+    story_playback_sub_id: 2
+    background_code: 冰湖
   }
   {
     id: 66
@@ -852,6 +982,8 @@
     start: 5-4-1E
     first: 5-4-2E
     end: 5-4-2E
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 67
@@ -865,6 +997,8 @@
     start: 6-1-1
     first: 6-1-2
     end: 6-1-2
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 68
@@ -878,6 +1012,8 @@
     start: 6-2-1
     first: 6-2-2
     end: 6-2-2
+    story_playback_sub_id: 1
+    background_code: 机场
   }
   {
     id: 69
@@ -891,6 +1027,8 @@
     start: 6-3-1
     first: 6-3-2
     end: 6-3-2
+    story_playback_sub_id: 1
+    background_code: 主界面背景
   }
   {
     id: 70
@@ -904,6 +1042,8 @@
     start: 6-4-1
     first: 6-4-2
     end: 6-4-2
+    story_playback_sub_id: 1
+    background_code: 6CG-AR15b
   }
   {
     id: 71
@@ -917,6 +1057,8 @@
     start: 6-5-1
     first: 6-5-2
     end: 6-5-2
+    story_playback_sub_id: 1
+    background_code: eliza0
   }
   {
     id: 72
@@ -930,6 +1072,8 @@
     start: 6-6-1
     first: 6-6-2
     end: 6-6-2
+    story_playback_sub_id: 1
+    background_code: 6CG-M4
   }
   {
     id: 73
@@ -943,6 +1087,8 @@
     start: 6-1-1E
     first: 6-1-2E
     end: 6-1-2E
+    story_playback_sub_id: 2
+    background_code: 大桥
   }
   {
     id: 74
@@ -956,6 +1102,8 @@
     start: 6-2-1E
     first: 6-2-2E
     end: 6-2-2E
+    story_playback_sub_id: 2
+    background_code: 机场
   }
   {
     id: 75
@@ -969,6 +1117,8 @@
     start: 6-3-1E
     first: 6-3-2E
     end: 6-3-2E
+    story_playback_sub_id: 2
+    background_code: 街道
   }
   {
     id: 76
@@ -982,6 +1132,8 @@
     start: 6-4-1E
     first: 6-4-2E
     end: 6-4-2E
+    story_playback_sub_id: 2
+    background_code: SFs
   }
   {
     id: 77
@@ -995,6 +1147,8 @@
     start: 4-1-1N
     first: 4-1-2N
     end: 4-1-2N
+    story_playback_sub_id: 3
+    background_code: 作战室avg
   }
   {
     id: 78
@@ -1008,6 +1162,8 @@
     start: 4-2-1N
     first: 4-2-2N
     end: 4-2-2N
+    story_playback_sub_id: 3
+    background_code: 街道
   }
   {
     id: 79
@@ -1021,6 +1177,8 @@
     start: 4-3-1N
     first: 4-3-2N
     end: 4-3-2N
+    story_playback_sub_id: 3
+    background_code: ANTIRAIN
   }
   {
     id: 80
@@ -1034,6 +1192,8 @@
     start: 4-4-1N
     first: 4-4-2N
     end: 4-4-2N
+    story_playback_sub_id: 3
+    background_code: CG4N2
   }
   {
     id: 81
@@ -1047,6 +1207,8 @@
     start: 7-1-1
     first: 7-1-2
     end: 7-1-2
+    story_playback_sub_id: 1
+    background_code: ANTIRAIN
   }
   {
     id: 82
@@ -1060,6 +1222,8 @@
     start: 7-2-1
     first: 7-2-2
     end: 7-2-2
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 83
@@ -1073,6 +1237,8 @@
     start: 7-3-1
     first: 7-3-2
     end: 7-3-2
+    story_playback_sub_id: 1
+    background_code: BG7-4
   }
   {
     id: 84
@@ -1086,6 +1252,8 @@
     start: 7-4-1
     first: 7-4-2
     end: 7-4-2
+    story_playback_sub_id: 1
+    background_code: StoryCG5
   }
   {
     id: 85
@@ -1099,6 +1267,8 @@
     start: 7-5-1
     first: 7-5-2
     end: 7-5-2
+    story_playback_sub_id: 1
+    background_code: eliza0
   }
   {
     id: 86
@@ -1112,6 +1282,8 @@
     start: 7-6-1
     first: 7-6-2
     end: 7-6-2
+    story_playback_sub_id: 1
+    background_code: CG7-3
   }
   {
     id: 87
@@ -1125,6 +1297,8 @@
     start: 7-1-1E
     first: 7-1-2E
     end: 7-1-2E
+    story_playback_sub_id: 2
+    background_code: 6CG-M4
   }
   {
     id: 88
@@ -1138,6 +1312,8 @@
     start: 7-2-1E
     first: 7-2-2E
     end: 7-2-2E
+    story_playback_sub_id: 2
+    background_code: CG7-3
   }
   {
     id: 89
@@ -1151,6 +1327,8 @@
     start: 7-3-1E
     first: 7-3-2E
     end: 7-3-2E
+    story_playback_sub_id: 2
+    background_code: BG7-4
   }
   {
     id: 90
@@ -1164,6 +1342,8 @@
     start: 7-4-1E
     first: 7-4-2E
     end: 7-4-2E
+    story_playback_sub_id: 2
+    background_code: CG4N
   }
   {
     id: 91
@@ -1177,6 +1357,8 @@
     start: 5-1-1N
     first: 5-1-2N
     end: 5-1-2N
+    story_playback_sub_id: 3
+    background_code: CG-Cannon
   }
   {
     id: 92
@@ -1190,6 +1372,8 @@
     start: 5-2-1N
     first: 5-2-2N
     end: 5-2-2N
+    story_playback_sub_id: 3
+    background_code: 主界面背景
   }
   {
     id: 93
@@ -1203,6 +1387,8 @@
     start: 5-3-1N
     first: 5-3-2N
     end: 5-3-2N
+    story_playback_sub_id: 3
+    background_code: CG4N
   }
   {
     id: 94
@@ -1216,6 +1402,8 @@
     start: 5-4-1N
     first: 5-4-2N
     end: 5-4-2N
+    story_playback_sub_id: 3
+    background_code: CG4N
   }
   {
     id: 95
@@ -1229,6 +1417,8 @@
     start: -1-1-1
     first: -1-1-2
     end: -1-1-2
+    story_playback_sub_id: 1
+    background_code: CG.5-6
   }
   {
     id: 96
@@ -1242,6 +1432,8 @@
     start: -1-2-1
     first: -1-2-2First
     end: -1-2-2End
+    story_playback_sub_id: 1
+    background_code: "404"
   }
   {
     id: 97
@@ -1255,6 +1447,8 @@
     start: -1-3-1
     first: -1-3-2First
     end: -1-3-2End
+    story_playback_sub_id: 1
+    background_code: 街道
   }
   {
     id: 98
@@ -1268,6 +1462,8 @@
     start: -1-4-1
     first: -1-4-2First
     end: -1-4-2End
+    story_playback_sub_id: 1
+    background_code: sp2.2.2
   }
   {
     id: 99
@@ -1282,6 +1478,8 @@
     point: 2007:-2-1-4-Point2007,2179:-2-1-4-Point2179
     first: -2-1-2First
     end: -2-1-2First
+    story_playback_sub_id: 1
+    background_code: CG7-3
   }
   {
     id: 100
@@ -1296,6 +1494,8 @@
     point: 2204:-2-2-4-Point2204
     first: -2-2-2First
     end: -2-2-2First
+    story_playback_sub_id: 1
+    background_code: CG-Cannon
   }
   {
     id: 101
@@ -1310,6 +1510,8 @@
     point: 2215:-2-3-4-Point2215,2058:-2-3-4-Point2058
     first: -2-3-2First
     end: -2-3-2First
+    story_playback_sub_id: 1
+    background_code: sp2.2.4
   }
   {
     id: 102
@@ -1323,6 +1525,8 @@
     start: -2-4-1
     first: -2-4-2First
     end: -2-4-2End
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 103
@@ -1336,6 +1540,8 @@
     start: -3-1-1
     first: -3-1-2First
     end: -3-1-2First
+    story_playback_sub_id: 2
+    background_code: sp2.2.4
   }
   {
     id: 104
@@ -1349,6 +1555,8 @@
     start: -3-2-1
     first: -3-2-2First
     end: -3-2-2First
+    story_playback_sub_id: 2
+    background_code: sp2.2.4
   }
   {
     id: 105
@@ -1362,6 +1570,8 @@
     start: -3-3-1
     first: -3-3-2First
     end: -3-3-2First
+    story_playback_sub_id: 2
+    background_code: sp2.2.4
   }
   {
     id: 106
@@ -1376,6 +1586,8 @@
     point: 2499:-3-4-4-Point2499
     first: -3-4-2First
     end: -3-4-2End
+    story_playback_sub_id: 2
+    background_code: CG-2017Winter1
   }
   {
     id: 107
@@ -1389,6 +1601,8 @@
     start: -4-1-1
     first: -4-1-2First
     end: -4-1-2First
+    story_playback_sub_id: 3
+    background_code: 作战室avg
   }
   {
     id: 108
@@ -1402,6 +1616,8 @@
     start: -4-2-1
     first: -4-2-2First
     end: -4-2-2First
+    story_playback_sub_id: 3
+    background_code: sp2.2.4
   }
   {
     id: 109
@@ -1415,6 +1631,8 @@
     start: -4-3-1
     first: -4-3-2First
     end: -4-3-2First
+    story_playback_sub_id: 3
+    background_code: 雪地
   }
   {
     id: 110
@@ -1428,6 +1646,8 @@
     start: -4-4-1
     first: -4-4-2First
     end: -4-4-2End
+    story_playback_sub_id: 3
+    background_code: CG-2017Winter2
   }
   {
     id: 112
@@ -1442,6 +1662,8 @@
     round: 1:-7-1-3Round1
     first: -7-1-2First
     end: -7-1-2End
+    story_playback_sub_id: 1
+    background_code: CG7-3
   }
   {
     id: 113
@@ -1456,6 +1678,8 @@
     round: 1:-7-2-3Round1
     first: -7-2-2First
     end: -7-2-2End
+    story_playback_sub_id: 1
+    background_code: 室内战斗
   }
   {
     id: 114
@@ -1470,6 +1694,8 @@
     round: 1:-7-3-3Round1
     first: -7-3-2First
     end: -7-3-2End
+    story_playback_sub_id: 1
+    background_code: Ouroboros
   }
   {
     id: 115
@@ -1484,6 +1710,8 @@
     round: 1:-7-4-3Round1
     first: -7-4-2First
     end: -7-4-2End
+    story_playback_sub_id: 1
+    background_code: CG4N
   }
   {
     id: 116
@@ -1497,6 +1725,8 @@
     start: 8-1-1
     first: 8-1-2
     end: 8-1-2
+    story_playback_sub_id: 1
+    background_code: 单挑
   }
   {
     id: 117
@@ -1510,6 +1740,8 @@
     start: 8-2-1
     first: 8-2-2
     end: 8-2-2
+    story_playback_sub_id: 1
+    background_code: Metro
   }
   {
     id: 118
@@ -1523,6 +1755,8 @@
     start: 8-3-1
     first: 8-3-2
     end: 8-3-2
+    story_playback_sub_id: 1
+    background_code: sp2.2.4
   }
   {
     id: 119
@@ -1536,6 +1770,8 @@
     start: 8-4-1
     first: 8-4-2
     end: 8-4-2
+    story_playback_sub_id: 1
+    background_code: sp2.2.4
   }
   {
     id: 120
@@ -1549,6 +1785,8 @@
     start: 8-5-1
     first: 8-5-2
     end: 8-5-2
+    story_playback_sub_id: 1
+    background_code: sp2.2.4
   }
   {
     id: 121
@@ -1562,6 +1800,8 @@
     start: 8-6-1
     first: 8-6-2
     end: 8-6-2
+    story_playback_sub_id: 1
+    background_code: CG8-1
   }
   {
     id: 122
@@ -1575,6 +1815,8 @@
     start: 8-1-1E
     first: 8-1-2E
     end: 8-1-2E
+    story_playback_sub_id: 2
+    background_code: M16开枪
   }
   {
     id: 123
@@ -1588,6 +1830,8 @@
     start: 8-2-1E
     first: 8-2-2E
     end: 8-2-2E
+    story_playback_sub_id: 2
+    background_code: eliza0
   }
   {
     id: 124
@@ -1601,6 +1845,8 @@
     start: 8-3-1E
     first: 8-3-2E
     end: 8-3-2E
+    story_playback_sub_id: 2
+    background_code: SFBase
   }
   {
     id: 125
@@ -1614,6 +1860,8 @@
     start: 8-4-1E
     first: 8-4-2E
     end: 8-4-2E
+    story_playback_sub_id: 2
+    background_code: CG8-3.1
   }
   {
     id: 126
@@ -1627,6 +1875,8 @@
     start: 6-1-1N
     first: 6-1-2N
     end: 6-1-2N
+    story_playback_sub_id: 3
+    background_code: BG7-3
   }
   {
     id: 127
@@ -1640,6 +1890,8 @@
     start: 6-2-1N
     first: 6-2-2N
     end: 6-2-2N
+    story_playback_sub_id: 3
+    background_code: 作战室avg
   }
   {
     id: 128
@@ -1653,6 +1905,8 @@
     start: 6-3-1N
     first: 6-3-2N
     end: 6-3-2N
+    story_playback_sub_id: 3
+    background_code: 街道
   }
   {
     id: 129
@@ -1666,6 +1920,8 @@
     start: 6-4-1N
     first: 6-4-2N
     end: 6-4-2N
+    story_playback_sub_id: 3
+    background_code: 单挑
   }
   {
     id: 130
@@ -1679,6 +1935,8 @@
     start: 9-1-1
     first: 9-1-2
     end: 9-1-2
+    story_playback_sub_id: 1
+    background_code: BG7-3
   }
   {
     id: 131
@@ -1692,6 +1950,8 @@
     start: 9-2-1
     first: 9-2-2
     end: 9-2-2
+    story_playback_sub_id: 1
+    background_code: BG9-Dinner
   }
   {
     id: 132
@@ -1705,6 +1965,8 @@
     start: 9-3-1
     first: 9-3-2
     end: 9-3-2
+    story_playback_sub_id: 1
+    background_code: BG9-Dinner
   }
   {
     id: 133
@@ -1718,6 +1980,8 @@
     start: 9-4-1
     first: 9-4-2
     end: 9-4-2
+    story_playback_sub_id: 1
+    background_code: BG7-3
   }
   {
     id: 134
@@ -1731,6 +1995,8 @@
     start: 9-5-1
     first: 9-5-2
     end: 9-5-2
+    story_playback_sub_id: 1
+    background_code: BG9-Dinner
   }
   {
     id: 135
@@ -1744,6 +2010,8 @@
     start: 9-6-1
     first: 9-6-2
     end: 9-6-2
+    story_playback_sub_id: 1
+    background_code: 机场
   }
   {
     id: 136
@@ -1757,6 +2025,8 @@
     start: 9-1-1E
     first: 9-1-2E
     end: 9-1-2E
+    story_playback_sub_id: 2
+    background_code: 街道
   }
   {
     id: 137
@@ -1770,6 +2040,8 @@
     start: 9-2-1E
     first: 9-2-2E
     end: 9-2-2E
+    story_playback_sub_id: 2
+    background_code: BG9-Dinner
   }
   {
     id: 138
@@ -1783,6 +2055,8 @@
     start: 9-3-1E
     first: 9-3-2E
     end: 9-3-2E
+    story_playback_sub_id: 2
+    background_code: CG9-1.3
   }
   {
     id: 139
@@ -1796,6 +2070,8 @@
     start: 9-4-1E
     first: 9-4-2E
     end: 9-4-2E
+    story_playback_sub_id: 2
+    background_code: CG9-2.2
   }
   {
     id: 140
@@ -1809,6 +2085,8 @@
     start: 10-1-1
     first: 10-1-2
     end: 10-1-2
+    story_playback_sub_id: 1
+    background_code: CG8-1
   }
   {
     id: 141
@@ -1822,6 +2100,8 @@
     start: 10-2-1
     first: 10-2-2
     end: 10-2-2
+    story_playback_sub_id: 1
+    background_code: CG9-2.1
   }
   {
     id: 142
@@ -1835,6 +2115,8 @@
     start: 10-3-1
     first: 10-3-2
     end: 10-3-2
+    story_playback_sub_id: 1
+    background_code: eliza0
   }
   {
     id: 143
@@ -1849,6 +2131,8 @@
     point: 5302:10-4-4-Point5302
     first: 10-4-2
     end: 10-4-2
+    story_playback_sub_id: 1
+    background_code: BG-BurnCity
   }
   {
     id: 144
@@ -1862,6 +2146,8 @@
     start: 10-5-1
     first: 10-5-2
     end: 10-5-2
+    story_playback_sub_id: 1
+    background_code: BG-BurnCity
   }
   {
     id: 145
@@ -1875,6 +2161,8 @@
     start: 10-6-1
     first: 10-6-2
     end: 10-6-2
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 146
@@ -1888,6 +2176,8 @@
     start: 10-1-1E
     first: 10-1-2E
     end: 10-1-2E
+    story_playback_sub_id: 2
+    background_code: CG10-1-1
   }
   {
     id: 147
@@ -1902,6 +2192,8 @@
     point: 5417:10-2-4E-Point5417
     first: 10-2-2E
     end: 10-2-2E
+    story_playback_sub_id: 2
+    background_code: CG10-1-3
   }
   {
     id: 148
@@ -1915,6 +2207,8 @@
     start: 10-3-1E
     first: 10-3-2E
     end: 10-3-2E
+    story_playback_sub_id: 2
+    background_code: CG10-6-2
   }
   {
     id: 149
@@ -1928,6 +2222,8 @@
     start: 10-4-1E
     first: 10-4-2E
     end: 10-4-2E
+    story_playback_sub_id: 2
+    background_code: CG10-5-3
   }
   {
     id: 150
@@ -1941,6 +2237,8 @@
     start: -10-1-1
     first: -10-1-2First
     end: -10-1-2First
+    story_playback_sub_id: 1
+    background_code: 17xh-404Room
   }
   {
     id: 151
@@ -1954,6 +2252,8 @@
     start: -10-2-1
     first: -10-2-2First
     end: -10-2-2First
+    story_playback_sub_id: 1
+    background_code: 17xh-Networld
   }
   {
     id: 152
@@ -1968,6 +2268,8 @@
     point: 4229:-10-3-4-Point4229
     first: -10-3-2First
     end: -10-3-2First
+    story_playback_sub_id: 1
+    background_code: 17xh-404Room
   }
   {
     id: 153
@@ -1981,6 +2283,8 @@
     start: -10-4-1
     first: -10-4-2First
     end: -10-4-2End
+    story_playback_sub_id: 1
+    background_code: CG8-3.1
   }
   {
     id: 154
@@ -1995,6 +2299,8 @@
     point: 4270:-11-1-4-Point4270
     first: -11-1-2First
     end: -11-1-2First
+    story_playback_sub_id: 2
+    background_code: Metro
   }
   {
     id: 155
@@ -2009,6 +2315,8 @@
     point: 4292:-11-2-4-Point4292
     first: -11-2-2First
     end: -11-2-2First
+    story_playback_sub_id: 2
+    background_code: sp2.2.4
   }
   {
     id: 156
@@ -2023,6 +2331,8 @@
     point: 4411:-11-3-4-Point4411
     first: -11-3-2First
     end: -11-3-2First
+    story_playback_sub_id: 2
+    background_code: 17xhCG2-2
   }
   {
     id: 157
@@ -2037,6 +2347,8 @@
     point: 4431:-11-4-4-Point4431
     first: -11-4-2First
     end: -11-4-2End
+    story_playback_sub_id: 2
+    background_code: 17xhCG1-1
   }
   {
     id: 158
@@ -2051,6 +2363,8 @@
     point: 4528:-12-1-4-Point4528,4540:-12-1-4-Point4540,4538:-12-1-4-Point4538
     first: -12-1-2First
     end: -12-1-2First
+    story_playback_sub_id: 3
+    background_code: 17xh-Networld
   }
   {
     id: 159
@@ -2065,6 +2379,8 @@
     point: 4560:-12-2-4-Point4560,4601:-12-2-4-Point4601,4562:-12-2-4-Point4562
     first: -12-2-2First
     end: -12-2-2First
+    story_playback_sub_id: 3
+    background_code: sp2.2.4
   }
   {
     id: 160
@@ -2079,6 +2395,8 @@
     point: 4605:-12-3-4-Point4605,4615:-12-3-4-Point4615,4641:-12-3-4-Point4641
     first: -12-3-2First
     end: -12-3-2First
+    story_playback_sub_id: 3
+    background_code: 17xh-Networld
   }
   {
     id: 161
@@ -2093,6 +2411,8 @@
     point: 4723:-12-4-4-Point4723,4724:-12-4-4-Point4724,4671:-12-4-4-Point4671,4518:-12-4-4-Point4518
     first: -12-4-2First
     end: -12-4-2End
+    story_playback_sub_id: 3
+    background_code: 17xhCG3-1
   }
   {
     id: 162
@@ -2106,6 +2426,8 @@
     start: 7-1-1N
     first: 7-1-2N
     end: 7-1-2N
+    story_playback_sub_id: 3
+    background_code: BG7-3
   }
   {
     id: 163
@@ -2119,6 +2441,8 @@
     start: 7-2-1N
     first: 7-2-2N
     end: 7-2-2N
+    story_playback_sub_id: 3
+    background_code: 机场
   }
   {
     id: 164
@@ -2132,6 +2456,8 @@
     start: 7-3-1N
     first: 7-3-2N
     end: 7-3-2N
+    story_playback_sub_id: 3
+    background_code: Metro
   }
   {
     id: 165
@@ -2145,6 +2471,8 @@
     start: 7-4-1N
     first: 7-4-2N
     end: 7-4-2N
+    story_playback_sub_id: 3
+    background_code: 17xh-ButterflyFactory
   }
   {
     id: 166
@@ -2158,6 +2486,8 @@
     start: 8-1-1N
     first: 8-1-2N
     end: 8-1-2N
+    story_playback_sub_id: 3
+    background_code: SFBase
   }
   {
     id: 167
@@ -2172,6 +2502,8 @@
     point: 7123:8-2-4N-Point7123
     first: 8-2-2N
     end: 8-2-2N
+    story_playback_sub_id: 3
+    background_code: BG7-4
   }
   {
     id: 168
@@ -2185,6 +2517,8 @@
     start: 8-3-1N
     first: 8-3-2N
     end: 8-3-2N
+    story_playback_sub_id: 3
+    background_code: 树林
   }
   {
     id: 169
@@ -2198,6 +2532,8 @@
     start: 8-4-1N
     first: 8-4-2N
     end: 8-4-2N
+    story_playback_sub_id: 3
+    background_code: SFBase
   }
   {
     id: 170
@@ -2212,6 +2548,8 @@
     point: 9245:11-1-4-Point9245
     first: 11-1-2
     end: 11-1-2
+    story_playback_sub_id: 1
+    background_code: CG11-1
   }
   {
     id: 171
@@ -2225,6 +2563,8 @@
     start: 11-2-1
     first: 11-2-2
     end: 11-2-2
+    story_playback_sub_id: 1
+    background_code: BG-Cybercity
   }
   {
     id: 172
@@ -2238,6 +2578,8 @@
     start: 11-3-1
     first: 11-3-2
     end: 11-3-2
+    story_playback_sub_id: 1
+    background_code: BG_City
   }
   {
     id: 173
@@ -2251,6 +2593,8 @@
     start: 11-4-1
     first: 11-4-2
     end: 11-4-2
+    story_playback_sub_id: 1
+    background_code: BG-Slum
   }
   {
     id: 174
@@ -2265,6 +2609,8 @@
     point: 9015:11-5-4-Point9015
     first: 11-5-2
     end: 11-5-2
+    story_playback_sub_id: 1
+    background_code: BG-ContaminatedZone
   }
   {
     id: 175
@@ -2278,6 +2624,8 @@
     start: 11-6-1
     first: 11-6-2
     end: 11-6-2
+    story_playback_sub_id: 1
+    background_code: BG_Inner
   }
   {
     id: 176
@@ -2292,6 +2640,8 @@
     point: 9102:11-1-4E-Point9102
     first: 11-1-2E
     end: 11-1-2E
+    story_playback_sub_id: 2
+    background_code: 2018SummerCG1-1
   }
   {
     id: 177
@@ -2305,6 +2655,8 @@
     start: 11-2-1E
     first: 11-2-2E
     end: 11-2-2E
+    story_playback_sub_id: 2
+    background_code: BG-Sewer
   }
   {
     id: 178
@@ -2318,6 +2670,8 @@
     start: 11-3-1E
     first: 11-3-2E
     end: 11-3-2E
+    story_playback_sub_id: 2
+    background_code: BG-Sewer
   }
   {
     id: 179
@@ -2332,6 +2686,8 @@
     point: 9292:11-4-4E-Point9292
     first: 11-4-2E
     end: 11-4-2E
+    story_playback_sub_id: 2
+    background_code: CG11-1
   }
   {
     id: 192
@@ -2344,6 +2700,8 @@
     is_util: 1
     start: -5-1-1
     round: 5:-5-1-3Round10
+    story_playback_sub_id: 4
+    background_code: CG-Cannon
   }
   {
     id: 193
@@ -2487,6 +2845,8 @@
     title: 起點
     is_util: 1
     start: -16-2-1
+    story_playback_sub_id: 1
+    background_code: CG10-5-2
   }
   {
     id: 207
@@ -2498,6 +2858,8 @@
     title: 分歧點
     is_util: 1
     start: -16-3-1
+    story_playback_sub_id: 1
+    background_code: 2018Winter1-1
   }
   {
     id: 208
@@ -2512,6 +2874,8 @@
     point: 5546:-16-4-4-Point5546
     first: -16-4-2First
     end: -16-4-2First
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 209
@@ -2524,6 +2888,8 @@
     is_util: 1
     first: -16-5-2First
     end: -16-5-2First
+    story_playback_sub_id: 1
+    background_code: 17xhCG1-1
   }
   {
     id: 210
@@ -2536,6 +2902,8 @@
     is_util: 1
     first: -16-6-2First
     end: -16-6-2First
+    story_playback_sub_id: 1
+    background_code: sp2.2.4
   }
   {
     id: 211
@@ -2548,6 +2916,8 @@
     is_util: 1
     first: -16-7-2First
     end: -16-7-2First
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 212
@@ -2561,6 +2931,8 @@
     point: 5627:-16-8-4-Point5627
     first: -16-8-2First
     end: -16-8-2First
+    story_playback_sub_id: 1
+    background_code: 2018Winter1-2
   }
   {
     id: 213
@@ -2573,6 +2945,8 @@
     is_util: 1
     first: -16-9-2First
     end: -16-9-2First
+    story_playback_sub_id: 1
+    background_code: BG-WarehouseOFF
   }
   {
     id: 214
@@ -2584,6 +2958,8 @@
     title: 壓縮啓動 Ⅲ
     is_util: 1
     start: -16-10-1
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 215
@@ -2596,6 +2972,8 @@
     is_util: 1
     first: -16-11-2First
     end: -16-11-2First
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 216
@@ -2608,6 +2986,8 @@
     is_util: 1
     first: -16-12-2First
     end: -16-12-2First
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 217
@@ -2620,6 +3000,8 @@
     is_util: 1
     first: -16-13-2First
     end: -16-13-2First
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 218
@@ -2632,6 +3014,8 @@
     is_util: 1
     first: -16-14-2First
     end: -16-14-2First
+    story_playback_sub_id: 1
+    background_code: 2018Winter2-1
   }
   {
     id: 219
@@ -2644,6 +3028,8 @@
     is_util: 1
     first: -16-15-2First
     end: -16-15-2First
+    story_playback_sub_id: 1
+    background_code: 2018Winter2-3
   }
   {
     id: 220
@@ -2657,6 +3043,8 @@
     start: -17-1-1
     first: -17-1-2First
     end: -17-1-2First
+    story_playback_sub_id: 2
+    background_code: BG_Inner
   }
   {
     id: 221
@@ -2670,6 +3058,8 @@
     start: -17-2-1
     first: -17-2-2First
     end: -17-2-2First
+    story_playback_sub_id: 2
+    background_code: 工厂背景avg
   }
   {
     id: 222
@@ -2683,6 +3073,8 @@
     start: -17-3-1
     first: -17-3-2First
     end: -17-3-2First
+    story_playback_sub_id: 2
+    background_code: 工厂背景avg
   }
   {
     id: 223
@@ -2696,6 +3088,8 @@
     start: -17-4-1
     first: -17-4-2First
     end: -17-4-2First
+    story_playback_sub_id: 2
+    background_code: 工厂背景avg
   }
   {
     id: 224
@@ -2708,6 +3102,8 @@
     is_util: 1
     first: -17-5-2First
     end: -17-5-2First
+    story_playback_sub_id: 2
+    background_code: 工厂背景avg
   }
   {
     id: 225
@@ -2720,6 +3116,8 @@
     is_util: 1
     first: -17-6-2First
     end: -17-6-2First
+    story_playback_sub_id: 2
+    background_code: 6CG-M4
   }
   {
     id: 226
@@ -2732,6 +3130,8 @@
     is_util: 1
     first: -17-7-2First
     end: -17-7-2First
+    story_playback_sub_id: 2
+    background_code: 雪地
   }
   {
     id: 227
@@ -2744,6 +3144,8 @@
     is_util: 1
     first: -17-8-2First
     end: -17-8-2First
+    story_playback_sub_id: 2
+    background_code: 雪地
   }
   {
     id: 228
@@ -2756,6 +3158,8 @@
     is_util: 1
     first: -17-9-2First
     end: -17-9-2First
+    story_playback_sub_id: 2
+    background_code: 雪地
   }
   {
     id: 229
@@ -2767,6 +3171,8 @@
     title: 底線升變 Ⅰ
     is_util: 1
     start: -17-10-1
+    story_playback_sub_id: 2
+    background_code: 雪地
   }
   {
     id: 230
@@ -2780,6 +3186,8 @@
     start: -17-11-1
     first: -17-11-2First
     end: -17-11-2First
+    story_playback_sub_id: 2
+    background_code: sp2.2.4
   }
   {
     id: 231
@@ -2792,6 +3200,8 @@
     is_util: 1
     first: -17-12-2First
     end: -17-12-2First
+    story_playback_sub_id: 2
+    background_code: sp2.2.4
   }
   {
     id: 232
@@ -2805,6 +3215,8 @@
     start: -17-13-1
     first: -17-13-2First
     end: -17-13-2First
+    story_playback_sub_id: 2
+    background_code: sp2.2.4
   }
   {
     id: 233
@@ -2818,6 +3230,8 @@
     start: -17-14-1
     first: -17-14-2First
     end: -17-14-2First
+    story_playback_sub_id: 2
+    background_code: BG-WildBattle
   }
   {
     id: 234
@@ -2831,6 +3245,8 @@
     start: -17-15-1
     first: -17-15-2First
     end: -17-15-2First
+    story_playback_sub_id: 2
+    background_code: BG_Inner
   }
   {
     id: 235
@@ -2844,6 +3260,8 @@
     start: -17-16-1
     first: -17-16-2First
     end: -17-16-2First
+    story_playback_sub_id: 2
+    background_code: BG-BurnCity
   }
   {
     id: 236
@@ -2857,6 +3275,8 @@
     start: -17-17-1
     first: -17-17-2First
     end: -17-17-2First
+    story_playback_sub_id: 2
+    background_code: 2018Winter3-2
   }
   {
     id: 237
@@ -2870,6 +3290,8 @@
     start: -18-1-1
     first: -18-1-2First
     end: -18-1-2First
+    story_playback_sub_id: 3
+    background_code: BG-WildBattle
   }
   {
     id: 238
@@ -2884,6 +3306,8 @@
     point: 6188:-18-2-4-Point6188
     first: -18-2-2First
     end: -18-2-2First
+    story_playback_sub_id: 3
+    background_code: BG-WildBattle
   }
   {
     id: 239
@@ -2897,6 +3321,8 @@
     start: -18-3-1
     first: -18-3-2First
     end: -18-3-2First
+    story_playback_sub_id: 3
+    background_code: 2018Winter7-1
   }
   {
     id: 240
@@ -2910,6 +3336,8 @@
     start: -18-4-1
     first: -18-4-2First
     end: -18-4-2First
+    story_playback_sub_id: 3
+    background_code: 2018Winter6-1
   }
   {
     id: 241
@@ -2924,6 +3352,8 @@
     point: 6303:-18-5-4-Point6303
     first: -18-5-2First
     end: -18-5-2First
+    story_playback_sub_id: 3
+    background_code: 2018Winter8-1
   }
   {
     id: 242
@@ -2937,6 +3367,8 @@
     start: -18-6-1
     first: -18-6-2First
     end: -18-6-2First
+    story_playback_sub_id: 3
+    background_code: 2018Winter5-1
   }
   {
     id: 243
@@ -2948,6 +3380,8 @@
     title: 信使
     is_util: 1
     start: -16-16-1
+    story_playback_sub_id: 1
+    background_code: 主界面背景
   }
   {
     id: 244
@@ -2959,6 +3393,8 @@
     title: 幸存者
     is_util: 1
     start: -17-18-1
+    story_playback_sub_id: 2
+    background_code: 主界面背景
   }
   {
     id: 245
@@ -2970,6 +3406,8 @@
     title: 再見了龍宮
     is_util: 1
     start: -18-7-1
+    story_playback_sub_id: 3
+    background_code: BG-WildBattle
   }
   {
     id: 246
@@ -2981,6 +3419,8 @@
     title: 馬蜂窩
     is_util: 1
     start: -18-8-1
+    story_playback_sub_id: 3
+    background_code: BG-WildBattle
   }
   {
     id: 247
@@ -2991,6 +3431,8 @@
     bgm: BGM_Frontline
     title: 終局
     is_util: 1
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 248
@@ -3109,6 +3551,8 @@
     title: 廢棄物
     is_util: 1
     start: -24-2-1
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 262
@@ -3121,6 +3565,8 @@
     is_util: 1
     first: -24-3-2First
     end: -24-3-2First
+    story_playback_sub_id: 1
+    background_code: BG-InterrogationRoom
   }
   {
     id: 263
@@ -3134,6 +3580,8 @@
     start: -24-4-1
     first: -24-4-2First
     end: -24-4-2First
+    story_playback_sub_id: 1
+    background_code: 2018SummerCG2-1
   }
   {
     id: 264
@@ -3147,6 +3595,8 @@
     start: -24-5-1
     first: -24-5-2First
     end: -24-5-2First
+    story_playback_sub_id: 1
+    background_code: BG-WarehouseOFF
   }
   {
     id: 265
@@ -3158,6 +3608,8 @@
     title: 儲備據點
     is_util: 1
     start: -24-6-1
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 266
@@ -3171,6 +3623,8 @@
     start: -24-7-1
     first: -24-7-2First
     end: -24-7-2First
+    story_playback_sub_id: 1
+    background_code: BG7-4
   }
   {
     id: 267
@@ -3184,6 +3638,8 @@
     start: -24-8-1
     first: -24-8-2First
     end: -24-8-2First
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 268
@@ -3196,6 +3652,8 @@
     is_util: 1
     first: -24-9-2First
     end: -24-9-2First
+    story_playback_sub_id: 1
+    background_code: BG-InterrogationRoom
   }
   {
     id: 269
@@ -3209,6 +3667,8 @@
     start: -24-10-1
     first: -24-10-2First
     end: -24-10-2First
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 270
@@ -3222,6 +3682,8 @@
     start: -24-11-1
     first: -24-11-2First
     end: -24-11-2First
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 271
@@ -3235,6 +3697,8 @@
     start: -24-12-1
     first: -24-12-2First
     end: -24-12-2First
+    story_playback_sub_id: 1
+    background_code: BG-RuinedCity
   }
   {
     id: 272
@@ -3248,6 +3712,8 @@
     start: -24-13-1
     first: -24-13-2First
     end: -24-13-2First
+    story_playback_sub_id: 1
+    background_code: CG9-1.2
   }
   {
     id: 273
@@ -3261,6 +3727,8 @@
     start: -24-14-1
     first: -24-14-2First
     end: -24-14-2First
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 274
@@ -3274,6 +3742,8 @@
     start: -25-1-1
     first: -25-1-2First
     end: -25-1-2First
+    story_playback_sub_id: 2
+    background_code: BG-TemporaryBase
   }
   {
     id: 275
@@ -3285,6 +3755,8 @@
     title: 「支援」
     is_util: 1
     start: -25-2-1
+    story_playback_sub_id: 2
+    background_code: 17xh-404Room
   }
   {
     id: 276
@@ -3298,6 +3770,8 @@
     start: -25-3-1
     first: -25-3-2First
     end: -25-3-2First
+    story_playback_sub_id: 2
+    background_code: BG-RuinedCity
   }
   {
     id: 277
@@ -3309,6 +3783,8 @@
     title: 2號防禦據點
     is_util: 1
     start: -25-4-1
+    story_playback_sub_id: 2
+    background_code: BG_Inner
   }
   {
     id: 278
@@ -3320,6 +3796,8 @@
     title: 3號防禦據點
     is_util: 1
     start: -25-5-1
+    story_playback_sub_id: 2
+    background_code: BG-TemporaryBase
   }
   {
     id: 279
@@ -3331,6 +3809,8 @@
     title: 玩笑而已
     is_util: 1
     start: -25-6-1
+    story_playback_sub_id: 2
+    background_code: BG-RuinedCity
   }
   {
     id: 280
@@ -3342,6 +3822,8 @@
     title: 4號防禦據點
     is_util: 1
     start: -25-7-1
+    story_playback_sub_id: 2
+    background_code: BG_Inner
   }
   {
     id: 281
@@ -3355,6 +3837,8 @@
     start: -25-8-1
     first: -25-8-2First
     end: -25-8-2First
+    story_playback_sub_id: 2
+    background_code: BG-WarehouseOFF
   }
   {
     id: 282
@@ -3368,6 +3852,8 @@
     start: -25-9-1
     first: -25-9-2First
     end: -25-9-2First
+    story_playback_sub_id: 2
+    background_code: BG-RuinedCity
   }
   {
     id: 283
@@ -3381,6 +3867,8 @@
     start: -25-10-1
     first: -25-10-2First
     end: -25-10-2First
+    story_playback_sub_id: 2
+    background_code: BG-RuinedCity
   }
   {
     id: 284
@@ -3392,6 +3880,8 @@
     title: 黑色人偶
     is_util: 1
     start: -25-11-1
+    story_playback_sub_id: 2
+    background_code: BG-RuinedCity
   }
   {
     id: 285
@@ -3405,6 +3895,8 @@
     start: -26-1-1
     first: -26-1-2First
     end: -26-1-2First
+    story_playback_sub_id: 3
+    background_code: BG-ContaminatedZone
   }
   {
     id: 286
@@ -3416,6 +3908,8 @@
     title: 信號彈
     is_util: 1
     start: -26-2-1
+    story_playback_sub_id: 3
+    background_code: BG-ContaminatedZone
   }
   {
     id: 287
@@ -3427,6 +3921,8 @@
     title: 紅區
     is_util: 1
     start: -26-3-1
+    story_playback_sub_id: 3
+    background_code: BG-ContaminatedZone
   }
   {
     id: 288
@@ -3438,6 +3934,8 @@
     title: 黃區
     is_util: 1
     start: -26-4-1
+    story_playback_sub_id: 3
+    background_code: BG-ContaminatedZone
   }
   {
     id: 289
@@ -3451,6 +3949,8 @@
     start: -26-5-1
     first: -26-5-2First
     end: -26-5-2First
+    story_playback_sub_id: 3
+    background_code: BG-ContaminatedZone
   }
   {
     id: 290
@@ -3464,6 +3964,8 @@
     start: -26-6-1
     first: -26-6-2First
     end: -26-6-2First
+    story_playback_sub_id: 3
+    background_code: BG-ContaminatedZone
   }
   {
     id: 291
@@ -3475,6 +3977,8 @@
     title: 希望出現
     is_util: 1
     start: -26-7-1
+    story_playback_sub_id: 3
+    background_code: Metro
   }
   {
     id: 292
@@ -3487,6 +3991,8 @@
     is_util: 1
     first: -26-8-2First
     end: -26-8-2First
+    story_playback_sub_id: 3
+    background_code: BG-InterrogationRoom
   }
   {
     id: 293
@@ -3498,6 +4004,8 @@
     title: 可恥的老鼠
     is_util: 1
     start: -26-9-1
+    story_playback_sub_id: 3
+    background_code: BG-ContaminatedZone
   }
   {
     id: 294
@@ -3510,6 +4018,8 @@
     is_util: 1
     first: -26-10-2First
     end: -26-10-2First
+    story_playback_sub_id: 3
+    background_code: BG-InterrogationRoom
   }
   {
     id: 295
@@ -3523,6 +4033,8 @@
     start: -26-11-1
     first: -26-11-2First
     end: -26-11-2First
+    story_playback_sub_id: 3
+    background_code: BG-Sanatorium
   }
   {
     id: 296
@@ -3534,6 +4046,8 @@
     title: IED
     is_util: 1
     start: -26-12-1
+    story_playback_sub_id: 3
+    background_code: BG7-3
   }
   {
     id: 297
@@ -3547,6 +4061,8 @@
     start: -26-13-1
     first: -26-13-2First
     end: -26-13-2First
+    story_playback_sub_id: 3
+    background_code: 2018SummerCG7
   }
   {
     id: 298
@@ -3560,6 +4076,8 @@
     start: -26-14-1
     first: -26-14-2First
     end: -26-14-2End
+    story_playback_sub_id: 3
+    background_code: BG-InterrogationRoom
   }
   {
     id: 299
@@ -3572,6 +4090,8 @@
     is_util: 1
     first: -25-12-2First
     end: -25-12-2First
+    story_playback_sub_id: 2
+    background_code: BG-TemporaryBase
   }
   {
     id: 300
@@ -3584,6 +4104,8 @@
     is_util: 1
     first: -25-13-2First
     end: -25-13-2First
+    story_playback_sub_id: 2
+    background_code: BG-TemporaryBase
   }
   {
     id: 301
@@ -3596,6 +4118,8 @@
     is_util: 1
     first: -25-14-2First
     end: -25-14-2First
+    story_playback_sub_id: 2
+    background_code: 2018SummerCG4
   }
   {
     id: 302
@@ -3608,6 +4132,8 @@
     is_util: 1
     first: -25-15-2First
     end: -25-15-2First
+    story_playback_sub_id: 2
+    background_code: 2018SummerCG3
   }
   {
     id: 303
@@ -3620,6 +4146,8 @@
     is_util: 1
     first: -25-16-2First
     end: -25-16-2First
+    story_playback_sub_id: 2
+    background_code: 2018SummerCG5
   }
   {
     id: 304
@@ -3632,6 +4160,8 @@
     is_util: 1
     start: -27-1-1
     round: 6:-27-1-3Round6
+    story_playback_sub_id: 5
+    background_code: BG-Corridor
   }
   {
     id: 305
@@ -3643,6 +4173,8 @@
     title: 後目的地
     is_util: 1
     start: -24-15-1
+    story_playback_sub_id: 1
+    background_code: BG-RuinedCity
   }
   {
     id: 306
@@ -3655,6 +4187,8 @@
     is_util: 1
     first: -26-15-2First
     end: -26-15-2First
+    story_playback_sub_id: 3
+    background_code: BG-InterrogationRoom
   }
   {
     id: 307
@@ -3667,6 +4201,8 @@
     is_util: 1
     first: -26-18-2First
     end: -26-18-2First
+    story_playback_sub_id: 3
+    background_code: BG7-3
   }
   {
     id: 308
@@ -3680,6 +4216,8 @@
     start: -24-1-1
     first: -24-1-2First
     end: -24-1-2First
+    story_playback_sub_id: 1
+    background_code: 2018SummerCG1-1
   }
   {
     id: 309
@@ -3691,6 +4229,8 @@
     title: 流放者
     is_util: 1
     start: -28-1-1
+    story_playback_sub_id: 4
+    background_code: 2018SummerCG8
   }
   {
     id: 310
@@ -3709,6 +4249,8 @@
     title: 紀念
     is_util: 1
     start: -31-0-1
+    story_playback_sub_id: 1
+    background_code: 19WinterCG1
   }
   {
     id: 312
@@ -3720,6 +4262,8 @@
     title: 幻影的和平Ⅰ
     is_util: 1
     start: -31-1A1-1
+    story_playback_sub_id: 1
+    background_code: BG-Cybercity
   }
   {
     id: 313
@@ -3731,6 +4275,8 @@
     title: 幻影的和平Ⅱ
     is_util: 1
     start: -31-1A2-1
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 314
@@ -3746,6 +4292,8 @@
       '''
     is_util: 1
     start: -31-1A21-1
+    story_playback_sub_id: 1
+    background_code: BG-Dorm
   }
   {
     id: 315
@@ -3757,6 +4305,8 @@
     title: 幻影的和平Ⅲ
     is_util: 1
     start: -31-1A3-1
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 316
@@ -3772,6 +4322,8 @@
       '''
     is_util: 1
     start: -31-1A11-1
+    story_playback_sub_id: 1
+    background_code: BG_Inner
   }
   {
     id: 317
@@ -3783,6 +4335,8 @@
     title: 幻影的和平Ⅳ
     is_util: 1
     start: -31-1A4-1
+    story_playback_sub_id: 1
+    background_code: BG-Guildhall
   }
   {
     id: 318
@@ -3794,6 +4348,8 @@
     title: 幻影的和平V
     is_util: 1
     start: -31-1A5-1
+    story_playback_sub_id: 1
+    background_code: BG-Corridor
   }
   {
     id: 319
@@ -3805,6 +4361,8 @@
     title: 貓與鼠Ⅰ
     is_util: 1
     start: -31-1B1-1
+    story_playback_sub_id: 1
+    background_code: BG-Slum
   }
   {
     id: 320
@@ -3816,6 +4374,8 @@
     title: 貓與鼠Ⅱ
     is_util: 1
     start: -31-1B2-1
+    story_playback_sub_id: 1
+    background_code: BG-Sewer
   }
   {
     id: 321
@@ -3827,6 +4387,8 @@
     title: 貓與鼠Ⅲ
     is_util: 1
     start: -31-1B3-1
+    story_playback_sub_id: 1
+    background_code: BG-Fortress
   }
   {
     id: 322
@@ -3842,6 +4404,8 @@
       '''
     is_util: 1
     start: -31-1B31-1
+    story_playback_sub_id: 1
+    background_code: BG-Sewer
   }
   {
     id: 323
@@ -3853,6 +4417,8 @@
     title: 貓與鼠Ⅳ
     is_util: 1
     start: -31-1B4-1
+    story_playback_sub_id: 1
+    background_code: sp2.2.4
   }
   {
     id: 324
@@ -3864,6 +4430,8 @@
     title: 邊境之外Ⅰ
     is_util: 1
     start: -31-1C1-1
+    story_playback_sub_id: 1
+    background_code: BG-Wall
   }
   {
     id: 325
@@ -3875,6 +4443,8 @@
     title: 邊境之外Ⅱ
     is_util: 1
     start: -31-1C2-1
+    story_playback_sub_id: 1
+    background_code: BG-Monument
   }
   {
     id: 326
@@ -3886,6 +4456,8 @@
     title: 邊境之外Ⅲ
     is_util: 1
     start: -31-1C3-1
+    story_playback_sub_id: 1
+    background_code: BG-Wall
   }
   {
     id: 327
@@ -3897,6 +4469,8 @@
     title: 邊境之外Ⅳ
     is_util: 1
     start: -31-1C4-1
+    story_playback_sub_id: 1
+    background_code: BG_Inner
   }
   {
     id: 328
@@ -3908,6 +4482,8 @@
     title: 鮮血的信念Ⅰ
     is_util: 1
     start: -31-2A1-1
+    story_playback_sub_id: 1
+    background_code: BG_Street
   }
   {
     id: 329
@@ -3923,6 +4499,8 @@
       '''
     is_util: 1
     start: -31-2A11-1
+    story_playback_sub_id: 1
+    background_code: BG-RuinedCity
   }
   {
     id: 330
@@ -3938,6 +4516,8 @@
       '''
     is_util: 1
     start: -31-2A12-1
+    story_playback_sub_id: 1
+    background_code: BG-Monument
   }
   {
     id: 331
@@ -3949,6 +4529,8 @@
     title: 鮮血的信念Ⅱ
     is_util: 1
     start: -31-2A2-1
+    story_playback_sub_id: 1
+    background_code: BG-Wedding
   }
   {
     id: 332
@@ -3964,6 +4546,8 @@
       '''
     is_util: 1
     start: -31-2A21-1
+    story_playback_sub_id: 1
+    background_code: BG-Wall
   }
   {
     id: 333
@@ -3975,6 +4559,8 @@
     title: 鮮血的信念Ⅲ
     is_util: 1
     start: -31-2A3-1
+    story_playback_sub_id: 1
+    background_code: BG-Wedding
   }
   {
     id: 334
@@ -3986,6 +4572,8 @@
     title: 狼與梟Ⅰ
     is_util: 1
     start: -31-2B1-1
+    story_playback_sub_id: 1
+    background_code: CG4N
   }
   {
     id: 335
@@ -4001,6 +4589,8 @@
       '''
     is_util: 1
     start: -31-2B11-1
+    story_playback_sub_id: 1
+    background_code: CG4N
   }
   {
     id: 336
@@ -4012,6 +4602,8 @@
     title: 狼與梟Ⅱ
     is_util: 1
     start: -31-2B2-1
+    story_playback_sub_id: 1
+    background_code: BG-Theatre
   }
   {
     id: 337
@@ -4023,6 +4615,8 @@
     title: 狼與梟Ⅲ
     is_util: 1
     start: -31-2B3-1
+    story_playback_sub_id: 1
+    background_code: 19WinterCG2
   }
   {
     id: 338
@@ -4034,6 +4628,8 @@
     title: 狼與梟Ⅳ
     is_util: 1
     start: -31-2B4-1
+    story_playback_sub_id: 1
+    background_code: 19WinterCG3
   }
   {
     id: 339
@@ -4045,6 +4641,8 @@
     title: 巨牆之下Ⅰ
     is_util: 1
     start: -31-2C1-1
+    story_playback_sub_id: 1
+    background_code: BG-Wall
   }
   {
     id: 340
@@ -4056,6 +4654,8 @@
     title: 巨牆之下Ⅱ
     is_util: 1
     start: -31-2C2-1
+    story_playback_sub_id: 1
+    background_code: 19WinterCG7-1
   }
   {
     id: 341
@@ -4067,6 +4667,8 @@
     title: 失落的籌碼Ⅰ
     is_util: 1
     start: -31-3A1-1
+    story_playback_sub_id: 1
+    background_code: BG_Street
   }
   {
     id: 342
@@ -4078,6 +4680,8 @@
     title: 失落的籌碼Ⅱ
     is_util: 1
     start: -31-3A2-1
+    story_playback_sub_id: 1
+    background_code: BG_Street
   }
   {
     id: 343
@@ -4089,6 +4693,8 @@
     title: 失落的籌碼Ⅲ
     is_util: 1
     start: -31-3A3-1
+    story_playback_sub_id: 1
+    background_code: BG-Cybercity
   }
   {
     id: 344
@@ -4100,6 +4706,8 @@
     title: 鮫與海Ⅰ
     is_util: 1
     start: -31-3B1-1
+    story_playback_sub_id: 1
+    background_code: BG-Slum
   }
   {
     id: 345
@@ -4111,6 +4719,8 @@
     title: 鮫與海Ⅱ
     is_util: 1
     start: -31-3B2-1
+    story_playback_sub_id: 1
+    background_code: BG-Sewer
   }
   {
     id: 346
@@ -4122,6 +4732,8 @@
     title: 鮫與海Ⅲ
     is_util: 1
     start: -31-3B3-1
+    story_playback_sub_id: 1
+    background_code: BG-Theatre
   }
   {
     id: 347
@@ -4133,6 +4745,8 @@
     title: 鮫與海Ⅳ
     is_util: 1
     start: -31-3B4-1
+    story_playback_sub_id: 1
+    background_code: BG-Sewer
   }
   {
     id: 348
@@ -4144,6 +4758,8 @@
     title: 鮫與海V
     is_util: 1
     start: -31-3B5-1
+    story_playback_sub_id: 1
+    background_code: 19WinterCG7
   }
   {
     id: 349
@@ -4155,6 +4771,8 @@
     title: 鮫與海Ⅵ
     is_util: 1
     start: -31-3B6-1
+    story_playback_sub_id: 1
+    background_code: 19WinterCG4
   }
   {
     id: 350
@@ -4166,6 +4784,8 @@
     title: 鮫與海Ⅶ
     is_util: 1
     start: -31-3B7-1
+    story_playback_sub_id: 1
+    background_code: 19WinterCG5-1
   }
   {
     id: 351
@@ -4177,6 +4797,8 @@
     title: 塵囂之上Ⅰ
     is_util: 1
     start: -31-3C1-1
+    story_playback_sub_id: 1
+    background_code: BG-Sewer
   }
   {
     id: 352
@@ -4188,6 +4810,8 @@
     title: 塵囂之上Ⅱ
     is_util: 1
     start: -31-3C2-1
+    story_playback_sub_id: 1
+    background_code: 街道
   }
   {
     id: 353
@@ -4203,6 +4827,8 @@
       '''
     is_util: 1
     start: -31-3C21-1
+    story_playback_sub_id: 1
+    background_code: BG_Inner
   }
   {
     id: 354
@@ -4214,6 +4840,8 @@
     title: 塵囂之上Ⅲ
     is_util: 1
     start: -31-3C3-1
+    story_playback_sub_id: 1
+    background_code: 19WinterCG6
   }
   {
     id: 355
@@ -4225,6 +4853,8 @@
     title: 塵囂之上Ⅳ
     is_util: 1
     start: -31-3C4-1
+    story_playback_sub_id: 1
+    background_code: 19WinterCG6
   }
   {
     id: 356
@@ -4236,6 +4866,8 @@
     title: 塵囂之上V
     is_util: 1
     start: -31-3C5-1
+    story_playback_sub_id: 1
+    background_code: BG-RuinedCity
   }
   {
     id: 357
@@ -4247,6 +4879,8 @@
     title: 塵囂之上Ⅵ
     is_util: 1
     start: -31-3C6-1
+    story_playback_sub_id: 1
+    background_code: BG-RuinedCity
   }
   {
     id: 358
@@ -4262,6 +4896,8 @@
       '''
     is_util: 1
     start: -31-3C61-1
+    story_playback_sub_id: 1
+    background_code: BG-Slum
   }
   {
     id: 359
@@ -4277,6 +4913,8 @@
       '''
     is_util: 1
     start: -31-3C62-1
+    story_playback_sub_id: 1
+    background_code: 机场
   }
   {
     id: 360
@@ -4288,6 +4926,8 @@
     title: 混沌落幕
     is_util: 1
     start: -31-4-1
+    story_playback_sub_id: 1
+    background_code: BG-RuinedCity
   }
   {
     id: 361
@@ -4301,6 +4941,8 @@
     start: 9-1-1N
     first: 9-1-2N
     end: 9-1-2N
+    story_playback_sub_id: 3
+    background_code: BG_Inner
   }
   {
     id: 362
@@ -4315,6 +4957,8 @@
     point: 12571:9-2-4N-Point12571
     first: 9-2-2N
     end: 9-2-2N
+    story_playback_sub_id: 3
+    background_code: 17xh-404Room
   }
   {
     id: 363
@@ -4328,6 +4972,8 @@
     start: 9-3-1N
     first: 9-3-2N
     end: 9-3-2N
+    story_playback_sub_id: 3
+    background_code: BG-WildBattle
   }
   {
     id: 364
@@ -4341,6 +4987,8 @@
     start: 9-4-1N
     first: 9-4-2N
     end: 9-4-2N
+    story_playback_sub_id: 3
+    background_code: BG-Sanatorium
   }
   {
     id: 365
@@ -4552,6 +5200,8 @@
     title: 靜寂氣息
     is_util: 1
     start: -33-1-1First
+    story_playback_sub_id: 1
+    background_code: 19WinterCG7
   }
   {
     id: 382
@@ -4572,6 +5222,8 @@
     title: 兩份工作
     is_util: 1
     start: -33-3-1First
+    story_playback_sub_id: 1
+    background_code: 17xhCG3-1
   }
   {
     id: 384
@@ -4583,6 +5235,8 @@
     title: 追蹤本源
     is_util: 1
     start: -33-4-1First
+    story_playback_sub_id: 1
+    background_code: 2019summer_7
   }
   {
     id: 385
@@ -4594,6 +5248,8 @@
     title: 故友重逢
     is_util: 1
     start: -33-5-1First
+    story_playback_sub_id: 1
+    background_code: 2019summer_3
   }
   {
     id: 386
@@ -4615,6 +5271,8 @@
     title: 被束縛的幽靈Ⅰ
     is_util: 1
     start: -33-7-1First
+    story_playback_sub_id: 1
+    background_code: 2019summer_2
   }
   {
     id: 388
@@ -4636,6 +5294,8 @@
     title: 機密情報I
     is_util: 1
     start: -33-73-1First
+    story_playback_sub_id: 1
+    background_code: 2019summer_7
   }
   {
     id: 390
@@ -4647,6 +5307,8 @@
     title: 機密情報II
     is_util: 1
     start: -33-74-1First
+    story_playback_sub_id: 1
+    background_code: 2019summer_7
   }
   {
     id: 391
@@ -4658,6 +5320,8 @@
     title: 機密情報III
     is_util: 1
     start: -33-75-1First
+    story_playback_sub_id: 1
+    background_code: 2019summer_3
   }
   {
     id: 392
@@ -4669,6 +5333,8 @@
     title: 被束縛的幽靈Ⅱ
     is_util: 1
     start: -33-9-1First
+    story_playback_sub_id: 2
+    background_code: BG-RuinedCity
   }
   {
     id: 393
@@ -4689,6 +5355,8 @@
     title: 無法觸摸的嘆息Ⅰ
     is_util: 1
     start: -33-11-1First
+    story_playback_sub_id: 2
+    background_code: BG-RuinedCity
   }
   {
     id: 395
@@ -4709,6 +5377,8 @@
     title: 無名的流亡者Ⅰ
     is_util: 1
     start: -33-13-1First
+    story_playback_sub_id: 2
+    background_code: 2019summer_3
   }
   {
     id: 397
@@ -4729,6 +5399,8 @@
     title: 無名的流亡者Ⅱ
     is_util: 1
     start: -33-15-1First
+    story_playback_sub_id: 2
+    background_code: 2019summer_3
   }
   {
     id: 399
@@ -4749,6 +5421,8 @@
     title: 無法觸摸的嘆息Ⅱ
     is_util: 1
     start: -33-17-1First
+    story_playback_sub_id: 2
+    background_code: 2019summer_4_1
   }
   {
     id: 401
@@ -4760,6 +5434,8 @@
     title: 機密情報IV
     is_util: 1
     start: -33-76-1First
+    story_playback_sub_id: 2
+    background_code: 2019summer_7
   }
   {
     id: 402
@@ -4771,6 +5447,8 @@
     title: 機密情報V
     is_util: 1
     start: -33-77-1First
+    story_playback_sub_id: 2
+    background_code: 2019summer_7
   }
   {
     id: 403
@@ -4782,6 +5460,8 @@
     title: 機密情報VI
     is_util: 1
     start: -33-78-1First
+    story_playback_sub_id: 2
+    background_code: 2019summer_7
   }
   {
     id: 404
@@ -4793,6 +5473,8 @@
     title: 認知裂變Ⅱ
     is_util: 1
     start: -33-43-1First
+    story_playback_sub_id: 3
+    background_code: 2019summer_4_2
   }
   {
     id: 405
@@ -4813,6 +5495,8 @@
     title: 底層歸鄉Ⅰ
     is_util: 1
     start: -33-20-1First
+    story_playback_sub_id: 3
+    background_code: 2019summer_1
   }
   {
     id: 407
@@ -4833,6 +5517,8 @@
     title: 不受歡迎的人
     is_util: 1
     start: -33-22-1First
+    story_playback_sub_id: 3
+    background_code: 2019summer_6
   }
   {
     id: 409
@@ -4844,6 +5530,8 @@
     title: 認知裂變Ⅲ
     is_util: 1
     start: -33-23-1First
+    story_playback_sub_id: 3
+    background_code: 17xh-Networld
   }
   {
     id: 410
@@ -4865,6 +5553,8 @@
     title: 認知裂變Ⅳ
     is_util: 1
     start: -33-25-1First
+    story_playback_sub_id: 3
+    background_code: BG7-3
   }
   {
     id: 412
@@ -4876,6 +5566,8 @@
     title: 機密情報VII
     is_util: 1
     start: -33-79-1First
+    story_playback_sub_id: 3
+    background_code: 2019summer_7
   }
   {
     id: 413
@@ -4887,6 +5579,8 @@
     title: 機密情報VIII
     is_util: 1
     start: -33-80-1First
+    story_playback_sub_id: 3
+    background_code: 2019summer_7
   }
   {
     id: 414
@@ -4898,6 +5592,8 @@
     title: 機密情報IX
     is_util: 1
     start: -33-81-1First
+    story_playback_sub_id: 3
+    background_code: 2019summer_7
   }
   {
     id: 415
@@ -4909,6 +5605,8 @@
     title: 無盡的鏈接
     is_util: 1
     start: -33-26-1First
+    story_playback_sub_id: 4
+    background_code: 2019summer_9
   }
   {
     id: 416
@@ -4920,6 +5618,8 @@
     title: 底層歸鄉Ⅱ
     is_util: 1
     start: -33-27-1First
+    story_playback_sub_id: 4
+    background_code: 2019summer_8
   }
   {
     id: 417
@@ -4940,6 +5640,8 @@
     title: 異構體Ⅰ
     is_util: 1
     start: -33-29-1First
+    story_playback_sub_id: 4
+    background_code: BG7-3
   }
   {
     id: 419
@@ -4960,6 +5662,8 @@
     title: 底層歸鄉Ⅲ
     is_util: 1
     start: -33-31-1First
+    story_playback_sub_id: 4
+    background_code: 2019summer_5
   }
   {
     id: 421
@@ -4981,6 +5685,8 @@
     title: 異構體Ⅱ
     is_util: 1
     start: -33-33-1First
+    story_playback_sub_id: 4
+    background_code: 2019summer_6
   }
   {
     id: 423
@@ -5001,6 +5707,8 @@
     title: 機密情報X
     is_util: 1
     start: -33-82-1First
+    story_playback_sub_id: 4
+    background_code: 2019summer_7
   }
   {
     id: 425
@@ -5012,6 +5720,8 @@
     title: 機密情報XI
     is_util: 1
     start: -33-83-1First
+    story_playback_sub_id: 4
+    background_code: 2019summer_7
   }
   {
     id: 426
@@ -5023,6 +5733,8 @@
     title: 機密情報XII
     is_util: 1
     start: -33-84-1First
+    story_playback_sub_id: 4
+    background_code: 2019summer_7
   }
   {
     id: 427
@@ -5034,6 +5746,8 @@
     title: 進退兩難
     is_util: 1
     start: -33-35-1First
+    story_playback_sub_id: 5
+    background_code: 2019summer_13
   }
   {
     id: 428
@@ -5055,6 +5769,8 @@
     title: 斬牙行動Ⅰ
     is_util: 1
     start: -33-37-1First
+    story_playback_sub_id: 5
+    background_code: 2019summer_13
   }
   {
     id: 430
@@ -5086,6 +5802,8 @@
     title: 斬牙行動Ⅱ
     is_util: 1
     start: -33-40-1First
+    story_playback_sub_id: 5
+    background_code: 2019summer_15
   }
   {
     id: 433
@@ -5106,6 +5824,8 @@
     title: 吞噬一切的花海
     is_util: 1
     start: -33-42-1First
+    story_playback_sub_id: 5
+    background_code: 2019summer_10
   }
   {
     id: 435
@@ -5117,6 +5837,8 @@
     title: 認知裂變Ⅰ
     is_util: 1
     start: -33-18-1First
+    story_playback_sub_id: 5
+    background_code: BG-RuinedCity
   }
   {
     id: 436
@@ -5137,6 +5859,8 @@
     title: 再見了，塔林Ⅰ
     is_util: 1
     start: -33-45-1First
+    story_playback_sub_id: 5
+    background_code: 2019summer_5
   }
   {
     id: 438
@@ -5148,6 +5872,8 @@
     title: 再見了，塔林Ⅰ-戰鬥Ⅰ
     is_util: 1
     start: -33-46-1First
+    story_playback_sub_id: 5
+    background_code: 2019summer_13
   }
   {
     id: 439
@@ -5168,6 +5894,8 @@
     title: 再見了，塔林Ⅱ
     is_util: 1
     start: -33-48-1First
+    story_playback_sub_id: 5
+    background_code: 2019summer_13
   }
   {
     id: 441
@@ -5179,6 +5907,8 @@
     title: 機密情報XIII
     is_util: 1
     start: -33-85-1First
+    story_playback_sub_id: 5
+    background_code: 2019summer_7
   }
   {
     id: 442
@@ -5190,6 +5920,8 @@
     title: 機密情報XIV
     is_util: 1
     start: -33-86-1First
+    story_playback_sub_id: 5
+    background_code: 2019summer_7
   }
   {
     id: 443
@@ -5201,6 +5933,8 @@
     title: 機密情報XV
     is_util: 1
     start: -33-87-1First
+    story_playback_sub_id: 5
+    background_code: 2019summer_7
   }
   {
     id: 444
@@ -5213,6 +5947,8 @@
     is_util: 1
     start: -33-49-1First
     point: 13325:-33-72-4-Point13325,83325:-33-72-4-Point83325
+    story_playback_sub_id: 6
+    background_code: BG-RuinedCity
   }
   {
     id: 445
@@ -5231,6 +5967,8 @@
     bgm: BGM_Frontline
     title: 變質的斷音
     start: -34-1-1First
+    story_playback_sub_id: 1
+    background_code: BG_Base
   }
   {
     id: 447
@@ -5241,6 +5979,8 @@
     bgm: BGM_Frontline
     title: 開袋驚喜
     start: -34-2-1First
+    story_playback_sub_id: 1
+    background_code: BG_Street
   }
   {
     id: 448
@@ -5251,6 +5991,8 @@
     bgm: BGM_Frontline
     title: 賞味期限
     start: -34-3-1First
+    story_playback_sub_id: 1
+    background_code: Metro
   }
   {
     id: 449
@@ -5263,6 +6005,8 @@
     start: -34-4-1First
     first: -34-4-2End
     end: -34-4-2End
+    story_playback_sub_id: 1
+    background_code: 2019halloween_2
   }
   {
     id: 450
@@ -5276,6 +6020,8 @@
     start: 10-1-1N
     first: 10-1-2N
     end: 10-1-2N
+    story_playback_sub_id: 3
+    background_code: BG_Base
   }
   {
     id: 451
@@ -5290,6 +6036,8 @@
     point: 80527:10-2-4N-Point80527
     first: 10-2-2N
     end: 10-2-2N
+    story_playback_sub_id: 3
+    background_code: BG7-3
   }
   {
     id: 452
@@ -5303,6 +6051,8 @@
     start: 10-3-1N
     first: 10-3-2N
     end: 10-3-2N
+    story_playback_sub_id: 3
+    background_code: 雪地
   }
   {
     id: 453
@@ -5317,6 +6067,8 @@
     point: 80626:10-4-4N-Point80626
     first: 10-4-2N
     end: 10-4-2N
+    story_playback_sub_id: 3
+    background_code: 机场
   }
   {
     id: 454
@@ -5329,6 +6081,8 @@
     start: -35-1-1First
     first: -35-1-2End
     end: -35-1-2End
+    story_playback_sub_id: 1
+    background_code: BG-BarXmas
   }
   {
     id: 455
@@ -5341,6 +6095,8 @@
     start: -35-2-1First
     first: -35-2-2End
     end: -35-2-2End
+    story_playback_sub_id: 1
+    background_code: 雪地
   }
   {
     id: 456
@@ -5353,6 +6109,8 @@
     start: -35-3-1First
     first: -35-3-2End
     end: -35-3-2End
+    story_playback_sub_id: 1
+    background_code: BG-Dorm
   }
   {
     id: 457
@@ -5365,6 +6123,8 @@
     start: -35-4-1First
     first: -35-4-2End
     end: -35-4-2End
+    story_playback_sub_id: 1
+    background_code: 19christmas_1
   }
   {
     id: 458
@@ -5379,6 +6139,8 @@
     point: 90005:12-1-4-Point90005,90009:12-1-4-Point90009
     first: 12-1-2
     end: 12-1-2
+    story_playback_sub_id: 1
+    background_code: CG10-5-2
   }
   {
     id: 459
@@ -5393,6 +6155,8 @@
     point: 90087:12-2-4-Point90087
     first: 12-2-2
     end: 12-2-2
+    story_playback_sub_id: 1
+    background_code: 2018Winter5-1
   }
   {
     id: 460
@@ -5406,6 +6170,8 @@
     start: 12-3-1
     first: 12-3-2
     end: 12-3-2
+    story_playback_sub_id: 1
+    background_code: 17xh-Networld
   }
   {
     id: 461
@@ -5419,6 +6185,8 @@
     start: 12-4-1
     first: 12-4-2
     end: 12-4-2
+    story_playback_sub_id: 1
+    background_code: BG-TemporaryBase
   }
   {
     id: 462
@@ -5432,6 +6200,8 @@
     start: 12-5-1
     first: 12-5-2
     end: 12-5-2
+    story_playback_sub_id: 1
+    background_code: CG10-4-1
   }
   {
     id: 463
@@ -5445,6 +6215,8 @@
     start: 12-6-1
     first: 12-6-2
     end: 12-6-2
+    story_playback_sub_id: 1
+    background_code: 2019summer_12
   }
   {
     id: 464
@@ -5459,6 +6231,8 @@
     point: 90271:12-1-1E-Point90271,90278:12-1-1E-Point90278
     first: 12-1-2E
     end: 12-1-2E
+    story_playback_sub_id: 2
+    background_code: 2019summer_12
   }
   {
     id: 465
@@ -5472,6 +6246,8 @@
     start: 12-2-1E
     first: 12-2-2E
     end: 12-2-2E
+    story_playback_sub_id: 2
+    background_code: 2019summer_12
   }
   {
     id: 466
@@ -5485,6 +6261,8 @@
     start: 12-3-1E
     first: 12-3-2E
     end: 12-3-2E
+    story_playback_sub_id: 2
+    background_code: 2018SummerCG8
   }
   {
     id: 467
@@ -5498,6 +6276,8 @@
     start: 12-4-1E
     first: 12-4-2E
     end: 12-4-2E
+    story_playback_sub_id: 2
+    background_code: 17xh-Networld
   }
   {
     id: 468
@@ -5549,6 +6329,8 @@
     title: 啟輝器
     is_util: 1
     start: -36-1-1
+    story_playback_sub_id: 1
+    background_code: 2019summer_7
   }
   {
     id: 474
@@ -5560,6 +6342,8 @@
     title: 直進性I
     is_util: 1
     start: -36-1-2
+    story_playback_sub_id: 1
+    background_code: 2019summer_7
   }
   {
     id: 475
@@ -5571,6 +6355,8 @@
     title: 折射點
     is_util: 1
     start: -36-1-3
+    story_playback_sub_id: 1
+    background_code: 2019summer_7
   }
   {
     id: 476
@@ -5582,6 +6368,8 @@
     title: 臨界角I
     is_util: 1
     start: -36-1-4
+    story_playback_sub_id: 1
+    background_code: 2019summer_7
   }
   {
     id: 477
@@ -5593,6 +6381,8 @@
     title: 反射面I
     is_util: 1
     start: -36-1-5
+    story_playback_sub_id: 1
+    background_code: 冰湖
   }
   {
     id: 478
@@ -5604,6 +6394,8 @@
     title: 臨界角III
     is_util: 1
     start: -36-1-6
+    story_playback_sub_id: 1
+    background_code: 19winter_door_close
   }
   {
     id: 479
@@ -5615,6 +6407,8 @@
     title: 全內反射I
     is_util: 1
     start: -36-1-7
+    story_playback_sub_id: 1
+    background_code: 19winter_aurora
   }
   {
     id: 480
@@ -5626,6 +6420,8 @@
     title: 正弦曲線
     is_util: 1
     start: -36-1-8
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 481
@@ -5637,6 +6433,8 @@
     title: 可逆性I
     is_util: 1
     start: -36-1-9
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 482
@@ -5648,6 +6446,8 @@
     title: 餘弦信號
     is_util: 1
     start: -36-1-10
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 483
@@ -5659,6 +6459,8 @@
     title: 起偏器I
     is_util: 1
     start: -36-2-1
+    story_playback_sub_id: 2
+    background_code: 19winter_inbg_2
   }
   {
     id: 484
@@ -5670,6 +6472,8 @@
     title: 光柵
     is_util: 1
     start: -36-2-2
+    story_playback_sub_id: 2
+    background_code: 19winter_inbg_2
   }
   {
     id: 485
@@ -5681,6 +6485,8 @@
     title: 波導管I
     is_util: 1
     start: -36-2-3
+    story_playback_sub_id: 2
+    background_code: 19winter_door_open
   }
   {
     id: 486
@@ -5692,6 +6498,8 @@
     title: 分束器
     is_util: 1
     start: -36-2-4
+    story_playback_sub_id: 2
+    background_code: 19winter_doorandtank
   }
   {
     id: 487
@@ -5703,6 +6511,8 @@
     title: 干涉儀I
     is_util: 1
     start: -36-2-5
+    story_playback_sub_id: 2
+    background_code: 19winter_doorandtank
   }
   {
     id: 488
@@ -5714,6 +6524,8 @@
     title: 狹縫
     is_util: 1
     start: -36-2-6
+    story_playback_sub_id: 2
+    background_code: BG-WarehouseOFF
   }
   {
     id: 489
@@ -5725,6 +6537,8 @@
     title: 真空管
     is_util: 1
     start: -36-2-7
+    story_playback_sub_id: 2
+    background_code: 17xhCG1-1
   }
   {
     id: 490
@@ -5736,6 +6550,8 @@
     title: 加速器
     is_util: 1
     start: -36-2-8
+    story_playback_sub_id: 2
+    background_code: 17xhCG4-0
   }
   {
     id: 491
@@ -5747,6 +6563,8 @@
     title: 光譜儀I
     is_util: 1
     start: -36-2-9
+    story_playback_sub_id: 2
+    background_code: BG-WildBattle
   }
   {
     id: 492
@@ -5758,6 +6576,8 @@
     title: 檢偏器
     is_util: 1
     start: -36-2-10
+    story_playback_sub_id: 2
+    background_code: BG-WildBattle
   }
   {
     id: 493
@@ -5769,6 +6589,8 @@
     title: 對映體過量I
     is_util: 1
     start: -36-3-1
+    story_playback_sub_id: 3
+    background_code: 17xhCG3-1
   }
   {
     id: 494
@@ -5780,6 +6602,8 @@
     title: 對映體過量II
     is_util: 1
     start: -36-3-2
+    story_playback_sub_id: 3
+    background_code: 19winter_ump45vs
   }
   {
     id: 495
@@ -5791,6 +6615,8 @@
     title: 重結晶拆分I
     is_util: 1
     start: -36-3-3
+    story_playback_sub_id: 3
+    background_code: 19winter_lab
   }
   {
     id: 496
@@ -5802,6 +6628,8 @@
     title: 破碎偏振面I
     is_util: 1
     start: -36-3-4
+    story_playback_sub_id: 3
+    background_code: CG4N
   }
   {
     id: 497
@@ -5813,6 +6641,8 @@
     title: 重結晶拆分II
     is_util: 1
     start: -36-3-5
+    story_playback_sub_id: 3
+    background_code: 19winter_biggun
   }
   {
     id: 498
@@ -5824,6 +6654,8 @@
     title: 破碎偏振面II
     is_util: 1
     start: -36-3-6
+    story_playback_sub_id: 3
+    background_code: BG-WildBattle
   }
   {
     id: 499
@@ -5835,6 +6667,8 @@
     title: 不對稱誘導I
     is_util: 1
     start: -36-3-7
+    story_playback_sub_id: 3
+    background_code: 19winter_door_close
   }
   {
     id: 500
@@ -5846,6 +6680,8 @@
     title: 光學異構體
     is_util: 1
     start: -36-3-8
+    story_playback_sub_id: 3
+    background_code: 19winter_lab
   }
   {
     id: 501
@@ -5857,6 +6693,8 @@
     title: 粉碎I
     is_util: 1
     start: -36-4-1
+    story_playback_sub_id: 4
+    background_code: 19winter_4516
   }
   {
     id: 502
@@ -5868,6 +6706,8 @@
     title: 混合
     is_util: 1
     start: -36-4-2
+    story_playback_sub_id: 4
+    background_code: 19winter_inbg_2
   }
   {
     id: 503
@@ -5879,6 +6719,8 @@
     title: 預熱I
     is_util: 1
     start: -36-4-3
+    story_playback_sub_id: 4
+    background_code: 19winter_lab
   }
   {
     id: 504
@@ -5890,6 +6732,8 @@
     title: 燒結
     is_util: 1
     start: -36-4-4
+    story_playback_sub_id: 4
+    background_code: 19winter_lab
   }
   {
     id: 505
@@ -5901,6 +6745,8 @@
     title: 發泡
     is_util: 1
     start: -36-4-5
+    story_playback_sub_id: 4
+    background_code: 17xh-Networld
   }
   {
     id: 506
@@ -5912,6 +6758,8 @@
     title: 穩泡I
     is_util: 1
     start: -36-4-6
+    story_playback_sub_id: 4
+    background_code: 17xh-ButterflyFactory
   }
   {
     id: 507
@@ -5923,6 +6771,8 @@
     title: 成型
     is_util: 1
     start: -36-4-7
+    story_playback_sub_id: 4
+    background_code: 2019summer_11
   }
   {
     id: 508
@@ -5934,6 +6784,8 @@
     title: 退火II
     is_util: 1
     start: -36-4-8
+    story_playback_sub_id: 4
+    background_code: 19winter_door_open
   }
   {
     id: 509
@@ -5945,6 +6797,8 @@
     title: 回火I
     is_util: 1
     start: -36-4-9
+    story_playback_sub_id: 4
+    background_code: 19winter_inbg_1
   }
   {
     id: 510
@@ -5956,6 +6810,8 @@
     title: 切割I
     is_util: 1
     start: -36-4-10
+    story_playback_sub_id: 4
+    background_code: 19winter_ hole_2
   }
   {
     id: 511
@@ -5967,6 +6823,8 @@
     title: 打磨
     is_util: 1
     start: -36-4-11
+    story_playback_sub_id: 4
+    background_code: BG-WildBattle
   }
   {
     id: 512
@@ -5978,6 +6836,8 @@
     title: 鍍銀I
     is_util: 1
     start: -36-4-12
+    story_playback_sub_id: 4
+    background_code: BG_Inner
   }
   {
     id: 513
@@ -5989,6 +6849,8 @@
     title: 虛像重鑄
     is_util: 1
     start: -36-4-13
+    story_playback_sub_id: 4
+    background_code: 19winter_ hole_1
   }
   {
     id: 514
@@ -6008,6 +6870,8 @@
     title: 可觀測極限I
     is_util: 1
     start: -36-5-2
+    story_playback_sub_id: 5
+    background_code: 19winter_m4_1
   }
   {
     id: 516
@@ -6019,6 +6883,8 @@
     title: 光錐參考系I
     is_util: 1
     start: -36-5-3
+    story_playback_sub_id: 5
+    background_code: 19winter_ange_2
   }
   {
     id: 517
@@ -6030,6 +6896,8 @@
     title: 因果隔離面
     is_util: 1
     start: -36-5-4
+    story_playback_sub_id: 5
+    background_code: 19winter_aurora
   }
   {
     id: 518
@@ -6049,6 +6917,8 @@
     title: 黑體熱輻射I
     is_util: 1
     start: -36-5-5
+    story_playback_sub_id: 5
+    background_code: 19winter_ finalvs
   }
   {
     id: 520
@@ -6057,6 +6927,8 @@
     bgm: BGM_Frontline
     title: 光錐參考系II
     point: 70301:-36-Ext-Point70301
+    story_playback_sub_id: 5
+    background_code: 无
   }
   {
     id: 521
@@ -6065,6 +6937,8 @@
     bgm: BGM_Frontline
     title: 逃逸加速度EX-I
     point: 90935:-36-Ext-Point90935,90927:-36-Ext-Point90927
+    story_playback_sub_id: 5
+    background_code: 无
   }
   {
     id: 522
@@ -6076,6 +6950,8 @@
     title: 不可知奇點
     is_util: 1
     start: -36-5-1
+    story_playback_sub_id: 5
+    background_code: BG-WildBattle
   }
   {
     id: 523
@@ -6087,6 +6963,8 @@
     title: 逃逸加速度I
     is_util: 1
     start: -36-5-6First
+    story_playback_sub_id: 5
+    background_code: 19winter_ finalvs
   }
   {
     id: 524
@@ -6098,6 +6976,8 @@
     title: 穿越視界線
     is_util: 1
     start: -36-5-6End
+    story_playback_sub_id: 5
+    background_code: 2019summer_2
   }
   {
     id: 525
@@ -6107,6 +6987,8 @@
     title: 逃逸加速度EX-II
     is_util: 1
     start: -36-5-EX
+    story_playback_sub_id: 5
+    background_code: 无
   }
   {
     id: 526
@@ -6117,6 +6999,8 @@
     bgm: BGM_Frontline
     title: 空屋
     start: -37-1-1
+    story_playback_sub_id: 1
+    background_code: PK
   }
   {
     id: 527
@@ -6127,6 +7011,8 @@
     bgm: BGM_Frontline
     title: 格里芬的建築師
     start: -37-2-1
+    story_playback_sub_id: 1
+    background_code: 2020white-1
   }
   {
     id: 528
@@ -6140,6 +7026,8 @@
     point: 70626:-37-3-4-Point70626,70633:-37-3-4-Point70633
     first: -37-3-2End
     end: -37-3-2End
+    story_playback_sub_id: 1
+    background_code: 2020white-2
   }
   {
     id: 529
@@ -6151,6 +7039,8 @@
     title: 駝背人
     start: -37-4-1
     point: 70712:-37-4-4-Point70712
+    story_playback_sub_id: 1
+    background_code: 2020white-2
   }
   {
     id: 530
@@ -6163,6 +7053,8 @@
     start: -37-5-1First
     first: -37-5-2End
     end: -37-5-2End
+    story_playback_sub_id: 1
+    background_code: 2020white-2
   }
   {
     id: 531
@@ -6174,6 +7066,8 @@
     title: 第二塊雲圖
     start: -37-6-1
     point: 70901:-37-6-4-Point70901,70905:-37-6-4-Point70905,70906:-37-6-4-Point70906,70912:-37-6-4-Point70912,70918:-37-6-4-Point70918,70919:-37-6-4-Point70919,70923:-37-6-4-Point70923
+    story_playback_sub_id: 1
+    background_code: 2020white-2
   }
   {
     id: 532
@@ -6187,6 +7081,8 @@
     point: 71024:-37-7-4-Point71024
     first: -37-7-2End
     end: -37-7-2End
+    story_playback_sub_id: 1
+    background_code: PK
   }
   {
     id: 533
@@ -6197,6 +7093,8 @@
     bgm: BGM_Frontline
     title: 李·恩菲爾德的致意Ⅰ
     start: -37-8-1
+    story_playback_sub_id: 1
+    background_code: 2020white-2
   }
   {
     id: 534
@@ -6207,6 +7105,8 @@
     bgm: BGM_Frontline
     title: 李·恩菲爾德的致意Ⅱ
     start: -37-9-1
+    story_playback_sub_id: 1
+    background_code: 2020white-2
   }
   {
     id: 535
@@ -6221,6 +7121,8 @@
     point: 91126:13-Ext13-1-Point91126
     first: 13-1-2End
     end: 13-1-2End
+    story_playback_sub_id: 1
+    background_code: 13CG1
   }
   {
     id: 536
@@ -6235,6 +7137,8 @@
     point: 91432:13-Ext13-3E-Point91432
     first: 13-2-2End
     end: 13-2-2End
+    story_playback_sub_id: 1
+    background_code: CG.5
   }
   {
     id: 537
@@ -6249,6 +7153,8 @@
     point: 91432:13-Ext13-3E-Point91432
     first: 13-3-2End
     end: 13-3-2End
+    story_playback_sub_id: 1
+    background_code: 19winter_ hole_1
   }
   {
     id: 538
@@ -6263,6 +7169,8 @@
     point: 91264:13-Ext13-3-Point91264
     first: 13-4-2End
     end: 13-4-2End
+    story_playback_sub_id: 1
+    background_code: 13CG3v2
   }
   {
     id: 539
@@ -6277,6 +7185,8 @@
     point: 91320:13-Ext13-5-Point91320
     first: 13-5-2End
     end: 13-5-2End
+    story_playback_sub_id: 1
+    background_code: 19winter_lab
   }
   {
     id: 540
@@ -6291,6 +7201,8 @@
     point: 91347:13-Ext13-6-Point91347
     first: 13-6-2End
     end: 13-6-2End
+    story_playback_sub_id: 1
+    background_code: 19winter_ange_1
   }
   {
     id: 541
@@ -6305,6 +7217,8 @@
     point: 91358:13-Ext13-1E-Point91358
     first: 13-1-2E
     end: 13-1-2E
+    story_playback_sub_id: 2
+    background_code: ABYSS_~1
   }
   {
     id: 542
@@ -6319,6 +7233,8 @@
     point: 91432:13-Ext13-3E-Point91432
     first: 13-2-2E
     end: 13-2-2E
+    story_playback_sub_id: 2
+    background_code: REDNET
   }
   {
     id: 543
@@ -6333,6 +7249,8 @@
     point: 91432:13-Ext13-3E-Point91432
     first: 13-3-2E
     end: 13-3-2E
+    story_playback_sub_id: 2
+    background_code: 13CG2
   }
   {
     id: 544
@@ -6347,6 +7265,8 @@
     point: 91432:13-Ext13-3E-Point91432
     first: 13-4-2E
     end: 13-4-2E
+    story_playback_sub_id: 2
+    background_code: BG_Base
   }
   {
     id: 545
@@ -6367,6 +7287,8 @@
     start: -40-1-1First
     first: -40-1-2End
     end: -40-1-2End
+    story_playback_sub_id: 1
+    background_code: BG-Beach
   }
   {
     id: 547
@@ -6379,6 +7301,8 @@
     start: -40-2-1First
     first: -40-2-2End
     end: -40-2-2End
+    story_playback_sub_id: 1
+    background_code: BG-Beach
   }
   {
     id: 548
@@ -6391,6 +7315,8 @@
     start: -40-3-1First
     first: -40-3-2End
     end: -40-3-2End
+    story_playback_sub_id: 1
+    background_code: 17xh-ButterflyFactory
   }
   {
     id: 549
@@ -6403,6 +7329,8 @@
     start: -40-4-1First
     first: -40-4-2End
     end: -40-4-2End
+    story_playback_sub_id: 1
+    background_code: SEAPARTYCG2
   }
   {
     id: 550
@@ -6622,6 +7550,8 @@
     bgm: BGM_Frontline
     title: 離席之時Ⅰ
     start: -41-1-1First
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 572
@@ -6632,6 +7562,8 @@
     bgm: BGM_Frontline
     title: 離席之時Ⅱ
     start: -41-1-1End
+    story_playback_sub_id: 1
+    background_code: BG-DinnerNoMan
   }
   {
     id: 573
@@ -6642,6 +7574,8 @@
     bgm: BGM_Frontline
     title: 離席之時Ⅲ
     start: -41-1-3First
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 574
@@ -6652,6 +7586,8 @@
     bgm: BGM_Frontline
     title: 離席之時Ⅳ
     start: -41-1-3End
+    story_playback_sub_id: 1
+    background_code: BG-Dorm
   }
   {
     id: 575
@@ -6662,6 +7598,8 @@
     bgm: BGM_Frontline
     title: 帷幕將升Ⅰ
     start: -41-1-2
+    story_playback_sub_id: 1
+    background_code: 2019summer_12
   }
   {
     id: 576
@@ -6672,6 +7610,8 @@
     bgm: BGM_Frontline
     title: 帷幕將升Ⅱ
     start: -41-1-4
+    story_playback_sub_id: 1
+    background_code: BG_City
   }
   {
     id: 577
@@ -6682,6 +7622,8 @@
     bgm: BGM_Frontline
     title: 枯草熱Ⅰ
     start: -41-2-1First
+    story_playback_sub_id: 2
+    background_code: 作战室avg
   }
   {
     id: 578
@@ -6692,6 +7634,8 @@
     bgm: BGM_Frontline
     title: 枯草熱Ⅱ
     start: -41-2-2First
+    story_playback_sub_id: 2
+    background_code: 树林
   }
   {
     id: 579
@@ -6702,6 +7646,8 @@
     bgm: BGM_Frontline
     title: 枯草熱Ⅲ
     start: -41-2-3First
+    story_playback_sub_id: 2
+    background_code: 树林
   }
   {
     id: 580
@@ -6712,6 +7658,8 @@
     bgm: BGM_Frontline
     title: 枯草熱Ⅳ
     start: -41-2-4First
+    story_playback_sub_id: 2
+    background_code: 17xh-ButterflyFactory
   }
   {
     id: 581
@@ -6722,6 +7670,8 @@
     bgm: BGM_Frontline
     title: 枯草熱Ⅴ
     start: -41-2-5First
+    story_playback_sub_id: 2
+    background_code: 17xh-ButterflyFactory
   }
   {
     id: 582
@@ -6732,6 +7682,8 @@
     bgm: BGM_Frontline
     title: 枯草熱Ⅵ
     start: -41-2-6
+    story_playback_sub_id: 2
+    background_code: 2020summerBattle2
   }
   {
     id: 583
@@ -6742,6 +7694,8 @@
     bgm: BGM_Frontline
     title: 幽靈姐妹Ⅰ
     start: -41-3-1First
+    story_playback_sub_id: 3
+    background_code: 2020summerTransport
   }
   {
     id: 584
@@ -6752,6 +7706,8 @@
     bgm: BGM_Frontline
     title: 幽靈姐妹Ⅱ
     start: -41-3-2First
+    story_playback_sub_id: 3
+    background_code: BG-WarehouseOFF
   }
   {
     id: 585
@@ -6762,6 +7718,8 @@
     bgm: BGM_Frontline
     title: 幽靈姐妹Ⅲ
     start: -41-3-3First
+    story_playback_sub_id: 3
+    background_code: BG-WarehouseON
   }
   {
     id: 586
@@ -6772,6 +7730,8 @@
     bgm: BGM_Frontline
     title: 幽靈姐妹Ⅳ
     start: -41-3-4First
+    story_playback_sub_id: 3
+    background_code: BG-WarehouseOFF
   }
   {
     id: 587
@@ -6782,6 +7742,8 @@
     bgm: BGM_Frontline
     title: 幽靈姐妹Ⅴ
     start: -41-3-5
+    story_playback_sub_id: 3
+    background_code: 单挑
   }
   {
     id: 588
@@ -6792,6 +7754,8 @@
     bgm: BGM_Frontline
     title: 幽靈姐妹Ⅵ
     start: -41-3-6
+    story_playback_sub_id: 3
+    background_code: 单挑
   }
   {
     id: 589
@@ -6802,6 +7766,8 @@
     bgm: BGM_Frontline
     title: 花粉症·始
     start: -41-2-7
+    story_playback_sub_id: 2
+    background_code: BG_Inner
   }
   {
     id: 590
@@ -6812,6 +7778,8 @@
     bgm: BGM_Frontline
     title: 道化師
     start: -41-2-8
+    story_playback_sub_id: 2
+    background_code: 20summerLAB
   }
   {
     id: 591
@@ -6822,6 +7790,8 @@
     bgm: BGM_Frontline
     title: 花映冢
     start: -41-2-9
+    story_playback_sub_id: 2
+    background_code: 2020summerFlowerfield
   }
   {
     id: 592
@@ -6832,6 +7802,8 @@
     bgm: BGM_Frontline
     title: 霜狼會
     start: -41-2-10
+    story_playback_sub_id: 2
+    background_code: 20summerLAB
   }
   {
     id: 593
@@ -6842,6 +7814,8 @@
     bgm: BGM_Frontline
     title: 燈華潛
     start: -41-2-11
+    story_playback_sub_id: 2
+    background_code: BG-Corridor
   }
   {
     id: 594
@@ -6852,6 +7826,8 @@
     bgm: BGM_Frontline
     title: 花粉症·終
     start: -41-2-12
+    story_playback_sub_id: 2
+    background_code: 20summerLAB
   }
   {
     id: 595
@@ -6862,6 +7838,8 @@
     bgm: BGM_Frontline
     title: 美夢箱·始
     start: -41-3-7
+    story_playback_sub_id: 3
+    background_code: 2020summerOffice
   }
   {
     id: 596
@@ -6872,6 +7850,8 @@
     bgm: BGM_Frontline
     title: 吹笛人
     start: -41-3-8
+    story_playback_sub_id: 3
+    background_code: 2020summerOrphanage
   }
   {
     id: 597
@@ -6882,6 +7862,8 @@
     bgm: BGM_Frontline
     title: 布穀鐘
     start: -41-3-9
+    story_playback_sub_id: 3
+    background_code: 2020white-1
   }
   {
     id: 598
@@ -6892,6 +7874,8 @@
     bgm: BGM_Frontline
     title: 防空井
     start: -41-3-10
+    story_playback_sub_id: 3
+    background_code: 2020white-1
   }
   {
     id: 599
@@ -6902,6 +7886,8 @@
     bgm: BGM_Frontline
     title: 布玩偶
     start: -41-3-11
+    story_playback_sub_id: 3
+    background_code: 2020summerOrphanage
   }
   {
     id: 600
@@ -6912,6 +7898,8 @@
     bgm: BGM_Frontline
     title: 美夢箱·終
     start: -41-3-12
+    story_playback_sub_id: 3
+    background_code: 2020summerOrphanage
   }
   {
     id: 601
@@ -6919,6 +7907,7 @@
     campaign: -41
     bgm: BGM_Frontline
     point: 71201:-41-3-4-Point71201,71305:-41-3-4-Point71305,72006:-41-3-4-Point72006
+    background_code: 无
   }
   {
     id: 602
@@ -6926,6 +7915,7 @@
     campaign: -41
     bgm: BGM_Frontline
     point: 91924:-41-2-4-EX1Point91924,92278:-41-2-4-EX2Point92278,92127:-41-2-4-EX3Point92127,92614:-41-2-4-EX5Point92614,92372:-41-2-4-EX6Point92372,91926:-41-2-4-EX1Point91926
+    background_code: 无
   }
   {
     id: 603
@@ -6933,6 +7923,7 @@
     campaign: -41
     bgm: BGM_Frontline
     point: 91991:-41-3-4-EX1Point91991,91990:-41-3-4-EX2Point91990,92264:-41-3-4-EX3Point92264,92396:-41-3-4-EX4Point92396,92335:-41-3-4-EX6Point92335,92254:-41-3-4-EX5Point92254
+    background_code: 无
   }
   {
     id: 604
@@ -6940,6 +7931,7 @@
     campaign: -41
     bgm: BGM_Frontline
     point: 92405:-41-3-4-EX99Point92405,92509:-41-3-4-EX99Point92509,92589:-41-3-4-EX99Point92589,92610:-41-3-4-EX99Point92610,92611:-41-3-4-EX99Point92611,92612:-41-3-4-EX99Point92612,92613:-41-3-4-EX99Point92613,92444:-41-3-4-EX99Point92444,92495:-41-3-4-EX99Point92495
+    background_code: 无
   }
   {
     id: 605
@@ -6950,6 +7942,8 @@
     bgm: BGM_Frontline
     title: 食蛇行動Ⅰ
     start: -41-4-1First
+    story_playback_sub_id: 4
+    background_code: CG4N
   }
   {
     id: 606
@@ -6960,6 +7954,8 @@
     bgm: BGM_Frontline
     title: 食蛇行動Ⅱ
     start: -41-4-2First
+    story_playback_sub_id: 4
+    background_code: 17xh-ButterflyFactory
   }
   {
     id: 607
@@ -6970,6 +7966,8 @@
     bgm: BGM_Frontline
     title: 食蛇行動Ⅲ
     start: -41-4-3First
+    story_playback_sub_id: 4
+    background_code: 17xh-Networld
   }
   {
     id: 608
@@ -6980,6 +7978,8 @@
     bgm: BGM_Frontline
     title: 食蛇行動Ⅳ
     start: -41-4-4First
+    story_playback_sub_id: 4
+    background_code: 17xh-Networld
   }
   {
     id: 609
@@ -6990,6 +7990,8 @@
     bgm: BGM_Frontline
     title: 食蛇行動Ⅴ
     start: -41-4-5
+    story_playback_sub_id: 4
+    background_code: 作战室avg
   }
   {
     id: 610
@@ -7000,6 +8002,8 @@
     bgm: BGM_Frontline
     title: 三角攻勢·始
     start: -41-4-6
+    story_playback_sub_id: 4
+    background_code: BG-Wall
   }
   {
     id: 611
@@ -7010,6 +8014,8 @@
     bgm: BGM_Frontline
     title: 蜘蛛巢
     start: -41-4-7
+    story_playback_sub_id: 4
+    background_code: BG-Slum
   }
   {
     id: 612
@@ -7020,6 +8026,8 @@
     bgm: BGM_Frontline
     title: 紙牌塔
     start: -41-4-8
+    story_playback_sub_id: 4
+    background_code: BG-Slum
   }
   {
     id: 613
@@ -7030,6 +8038,8 @@
     bgm: BGM_Frontline
     title: 鬥獸棋
     start: -41-4-9
+    story_playback_sub_id: 4
+    background_code: BG_Inner
   }
   {
     id: 614
@@ -7040,6 +8050,8 @@
     bgm: BGM_Frontline
     title: 煽動者
     start: -41-4-10
+    story_playback_sub_id: 4
+    background_code: 2020summerOffice
   }
   {
     id: 615
@@ -7050,6 +8062,8 @@
     bgm: BGM_Frontline
     title: 三角攻勢·終
     start: -41-4-11
+    story_playback_sub_id: 4
+    background_code: 2020summerOrphanage
   }
   {
     id: 616
@@ -7060,6 +8074,8 @@
     bgm: BGM_Frontline
     title: 斷惑無間Ⅰ
     start: -41-5-1First
+    story_playback_sub_id: 5
+    background_code: 2020summerAnge
   }
   {
     id: 617
@@ -7070,6 +8086,8 @@
     bgm: BGM_Frontline
     title: 斷惑無間Ⅱ
     start: -41-5-2First
+    story_playback_sub_id: 5
+    background_code: BG-Slum
   }
   {
     id: 618
@@ -7080,6 +8098,8 @@
     bgm: BGM_Frontline
     title: 斷惑無間Ⅲ
     start: -41-5-3First
+    story_playback_sub_id: 5
+    background_code: BG-Slum
   }
   {
     id: 619
@@ -7090,6 +8110,8 @@
     bgm: BGM_Frontline
     title: 斷惑無間Ⅳ
     start: -41-5-4First
+    story_playback_sub_id: 5
+    background_code: BG7-4
   }
   {
     id: 620
@@ -7100,6 +8122,8 @@
     bgm: BGM_Frontline
     title: 斷惑無間Ⅴ
     start: -41-5-5
+    story_playback_sub_id: 5
+    background_code: 2020summerTransport
   }
   {
     id: 621
@@ -7110,6 +8134,8 @@
     bgm: BGM_Frontline
     title: 前行預兆
     start: -41-6-1
+    story_playback_sub_id: 6
+    background_code: BG-Bar
   }
   {
     id: 622
@@ -7120,6 +8146,8 @@
     bgm: BGM_Frontline
     title: 永恆之橋
     start: -41-6-2
+    story_playback_sub_id: 6
+    background_code: 2020summer94&K
   }
   {
     id: 623
@@ -7196,82 +8224,98 @@
   {
     id: 632
     mission_id: "10588"
-    description: 序章MDR
+    description: 傳說的回音，將她們引向空無一人的舞台。
     scripts: -42-1-1First
     campaign: -42
     bgm: BGM_Frontline
     title: 涼夜廻
     start: -42-1-1First
+    story_playback_sub_id: 1
+    background_code: BG-Theatre
   }
   {
     id: 633
     mission_id: "10589"
-    description: 第一幕MDR
+    description: 夢魘的追逐，在雨夜的療養院中化為不速之客的低語。
     scripts: -42-2-1First
     campaign: -42
     bgm: BGM_Frontline
     title: 倒影
     start: -42-2-1First
+    story_playback_sub_id: 1
+    background_code: 2020HWtheater
   }
   {
     id: 634
     mission_id: "10590"
-    description: 第二幕MDR
+    description: 琴鍵落下，廢墟重現昔日幻影，歌聲在空盪的劇院中質問永恆。
     scripts: -42-3-1First
     campaign: -42
     bgm: BGM_Frontline
     title: 無名之人
     start: -42-3-1First
+    story_playback_sub_id: 1
+    background_code: 17xh-404Room
   }
   {
     id: 635
     mission_id: "10591"
-    description: 尾聲MDR
+    description: 「我已經為我的罪過付出了代價，也失去了一切，現在只想平靜地度過此生。」
     scripts: -42-4-1First
     campaign: -42
     bgm: BGM_Frontline
     title: 蝶影消散
     start: -42-4-1First
+    story_playback_sub_id: 1
+    background_code: 2020HWtheater
   }
   {
     id: 636
     mission_id: "10592"
-    description: 序章TAC
+    description: 「於是，她決定死在這座對他們意義非凡的劇院中。」
     scripts: -42-1-2
     campaign: -42
     bgm: BGM_Frontline
     title: 雨夜談
     start: -42-1-2
+    story_playback_sub_id: 1
+    background_code: BG-Slum
   }
   {
     id: 637
     mission_id: "10593"
-    description: 第一幕TAC
+    description: 雨夜的對峙中，一個關於替身與背叛的故事，正從另一個視角被緩緩揭開。
     scripts: -42-2-2
     campaign: -42
     bgm: BGM_Frontline
     title: 追憶
     start: -42-2-2
+    story_playback_sub_id: 1
+    background_code: BG-Dorm
   }
   {
     id: 638
     mission_id: "10594"
-    description: 第二幕TAC
+    description: 真相的殘骸，被披上了最後的華美。
     scripts: -42-3-8
     campaign: -42
     bgm: BGM_Frontline
     title: 無痕之淚
     start: -42-3-8
+    story_playback_sub_id: 1
+    background_code: BG-Cybercity
   }
   {
     id: 639
     mission_id: "10595"
-    description: 尾聲TAC
+    description: 以真相為薪，復仇的火焰燃盡了虛假的舞台與最後的幻夢。
     scripts: -42-4-2
     campaign: -42
     bgm: BGM_Frontline
     title: 破繭時分
     start: -42-4-2
+    story_playback_sub_id: 1
+    background_code: 2020HWah400
   }
   {
     id: 640
@@ -7561,6 +8605,8 @@
     bgm: BGM_Frontline
     title: 不在場
     start: -44-A0-1
+    story_playback_sub_id: 1
+    background_code: 大桥
   }
   {
     id: 666
@@ -7571,6 +8617,8 @@
     bgm: BGM_Frontline
     title: 飛矢不動Ⅰ
     start: -44-A1-1-1
+    story_playback_sub_id: 1
+    background_code: BG-Kitchen
   }
   {
     id: 667
@@ -7581,6 +8629,8 @@
     bgm: BGM_Frontline
     title: 飛矢不動Ⅱ
     start: -44-A1-1First
+    story_playback_sub_id: 1
+    background_code: 2021white_Berlin
   }
   {
     id: 668
@@ -7591,6 +8641,8 @@
     bgm: BGM_Frontline
     title: 托里拆利小號Ⅰ
     start: -44-A1-2-1
+    story_playback_sub_id: 1
+    background_code: 2021white_Newstitle
   }
   {
     id: 669
@@ -7601,6 +8653,8 @@
     bgm: BGM_Frontline
     title: 托里拆利小號Ⅱ
     start: -44-A1-2First
+    story_playback_sub_id: 1
+    background_code: 2021white_Berlin
   }
   {
     id: 670
@@ -7611,6 +8665,8 @@
     bgm: BGM_Frontline
     title: 托里拆利小號Ⅲ
     start: -44-A1-2-2
+    story_playback_sub_id: 1
+    background_code: 2021white_Bar_Griffin
   }
   {
     id: 671
@@ -7621,6 +8677,8 @@
     bgm: BGM_Frontline
     title: 密涅瓦的貓頭鷹
     start: -44-A1-3
+    story_playback_sub_id: 1
+    background_code: 2019summer_7
   }
   {
     id: 672
@@ -7631,6 +8689,8 @@
     bgm: BGM_Frontline
     title: 塞勒涅的夢
     start: -44-B0-1
+    story_playback_sub_id: 1
+    background_code: BG-Sanatorium
   }
   {
     id: 673
@@ -7641,6 +8701,8 @@
     bgm: BGM_Frontline
     title: 來者的路
     start: -44-B1-1a
+    story_playback_sub_id: 1
+    background_code: 2019summer_3
   }
   {
     id: 674
@@ -7651,6 +8713,8 @@
     bgm: BGM_Frontline
     title: 生存指南
     start: -44-B1-1b
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 675
@@ -7662,6 +8726,8 @@
     title: 與蛇纏鬥Ⅰ
     start: -44-B1-1First
     point: 73005:-44-L-C-1-1,73027:-44-L-C-1-1
+    story_playback_sub_id: 1
+    background_code: BG-TemporaryBase
   }
   {
     id: 676
@@ -7672,6 +8738,8 @@
     bgm: BGM_Frontline
     title: 與蛇纏鬥Ⅱ
     start: -44-B1-1-2
+    story_playback_sub_id: 1
+    background_code: BG-TemporaryBase
   }
   {
     id: 677
@@ -7682,6 +8750,8 @@
     bgm: BGM_Frontline
     title: 阿帕忒的誕生Ⅰ
     start: -44-B1-2-1
+    story_playback_sub_id: 1
+    background_code: 2021white_Virgin
   }
   {
     id: 678
@@ -7693,6 +8763,8 @@
     title: 阿帕忒的誕生Ⅱ
     first: -44-B1-2End
     end: -44-B1-2End
+    story_playback_sub_id: 1
+    background_code: 2020summerFlowerfield
   }
   {
     id: 679
@@ -7703,6 +8775,8 @@
     bgm: BGM_Frontline
     title: 匿伏
     start: -44-B1-2a
+    story_playback_sub_id: 1
+    background_code: 2021white_Bernvillage
   }
   {
     id: 680
@@ -7713,6 +8787,8 @@
     bgm: BGM_Frontline
     title: 赫墨拉指向光明Ⅰ
     start: -44-B1-3-1
+    story_playback_sub_id: 1
+    background_code: 2020summerFlowerfield
   }
   {
     id: 681
@@ -7723,6 +8799,8 @@
     bgm: BGM_Frontline
     title: 赫墨拉指向光明Ⅱ
     start: -44-B1-3First
+    story_playback_sub_id: 1
+    background_code: 树林
   }
   {
     id: 682
@@ -7733,6 +8811,8 @@
     bgm: BGM_Frontline
     title: 赫墨拉指向光明Ⅲ
     start: -44-B1-3-2
+    story_playback_sub_id: 1
+    background_code: 树林
   }
   {
     id: 683
@@ -7743,6 +8823,8 @@
     bgm: BGM_Frontline
     title: 獅鷲之肩Ⅰ
     start: -44-B1-4-1
+    story_playback_sub_id: 1
+    background_code: BG-Guildhall
   }
   {
     id: 684
@@ -7761,6 +8843,8 @@
     bgm: BGM_Frontline
     title: 獅鷲之肩Ⅲ
     start: -44-B1-4-2
+    story_playback_sub_id: 1
+    background_code: 2021white_GriffinSPAWAR
   }
   {
     id: 686
@@ -7771,6 +8855,8 @@
     bgm: BGM_Frontline
     title: 忒休斯之船Ⅰ
     start: -44-B2-1-1
+    story_playback_sub_id: 2
+    background_code: 2021white_GriffinSPAWAR
   }
   {
     id: 687
@@ -7781,6 +8867,8 @@
     bgm: BGM_Frontline
     title: 忒休斯之船Ⅱ
     point: 73225:-44-L-C-2-1,73263:-44-L-C-2-1
+    story_playback_sub_id: 2
+    background_code: 2021white_Bernvillage
   }
   {
     id: 688
@@ -7791,6 +8879,8 @@
     bgm: BGM_Frontline
     title: 忒休斯之船Ⅲ
     start: -44-B2-1-2
+    story_playback_sub_id: 2
+    background_code: BG-Slum
   }
   {
     id: 689
@@ -7801,6 +8891,8 @@
     bgm: BGM_Frontline
     title: 球與花瓶
     start: -44-A2-1
+    story_playback_sub_id: 2
+    background_code: 2021white_Bar
   }
   {
     id: 690
@@ -7811,6 +8903,8 @@
     bgm: BGM_Frontline
     title: 克利特謊言
     start: -44-A2-2
+    story_playback_sub_id: 2
+    background_code: 2021white_Institute
   }
   {
     id: 691
@@ -7821,6 +8915,8 @@
     bgm: BGM_Frontline
     title: 倒影
     start: -44-A2-2a
+    story_playback_sub_id: 2
+    background_code: BG-Corridor
   }
   {
     id: 692
@@ -7831,6 +8927,8 @@
     bgm: BGM_Frontline
     title: 裂痕
     start: -44-A2-3a
+    story_playback_sub_id: 2
+    background_code: BG-Dorm
   }
   {
     id: 693
@@ -7841,6 +8939,8 @@
     bgm: BGM_Frontline
     title: 引路人的線團Ⅰ
     start: -44-B2-2-1
+    story_playback_sub_id: 2
+    background_code: BG-Dorm
   }
   {
     id: 694
@@ -7859,6 +8959,8 @@
     bgm: BGM_Frontline
     title: 引路人的線團Ⅲ
     start: -44-B2-2-2
+    story_playback_sub_id: 2
+    background_code: 2021white_FactoryOld
   }
   {
     id: 696
@@ -7869,6 +8971,8 @@
     bgm: BGM_Frontline
     title: 赫拉克利特河Ⅰ
     start: -44-A2-3-1
+    story_playback_sub_id: 2
+    background_code: BG-InterrogationRoom
   }
   {
     id: 697
@@ -7880,6 +8984,8 @@
     title: 赫拉克利特河Ⅱ
     start: -44-A2-3First
     point: 93555:-44-A2-3-Point93393,93393:-44-A2-3-Point93555
+    story_playback_sub_id: 2
+    background_code: BG-Cybercity
   }
   {
     id: 698
@@ -7890,6 +8996,8 @@
     bgm: BGM_Frontline
     title: 赫拉克利特河Ⅲ
     start: -44-A2-3-2
+    story_playback_sub_id: 2
+    background_code: 2020summerOffice
   }
   {
     id: 699
@@ -7900,6 +9008,8 @@
     bgm: BGM_Frontline
     title: 谷粒聲響Ⅰ
     start: -44-A2-4-1
+    story_playback_sub_id: 2
+    background_code: 树林
   }
   {
     id: 700
@@ -7910,6 +9020,8 @@
     bgm: BGM_Frontline
     title: 谷粒聲響Ⅱ
     start: -44-A2-4First
+    story_playback_sub_id: 2
+    background_code: 19winter_inbg_2
   }
   {
     id: 701
@@ -7920,6 +9032,8 @@
     bgm: BGM_Frontline
     title: 谷粒聲響Ⅲ
     start: -44-A2-4-2
+    story_playback_sub_id: 2
+    background_code: 19winter_inbg_2
   }
   {
     id: 702
@@ -7930,6 +9044,8 @@
     bgm: BGM_Frontline
     title: 夜祭
     start: -44-A2-4a
+    story_playback_sub_id: 2
+    background_code: BG-RuinedCity
   }
   {
     id: 703
@@ -7940,6 +9056,8 @@
     bgm: BGM_Frontline
     title: 克里特迷宮Ⅰ
     start: -44-B2-3-1
+    story_playback_sub_id: 2
+    background_code: 2021white_GriffinSPAWAR
   }
   {
     id: 704
@@ -7949,6 +9067,8 @@
     campaign: -44
     bgm: BGM_Frontline
     title: 克里特迷宮Ⅱ
+    story_playback_sub_id: 2
+    background_code: 2021white_BerlinStreet_Dream
   }
   {
     id: 705
@@ -7959,6 +9079,8 @@
     bgm: BGM_Frontline
     title: 克里特迷宮Ⅲ
     start: -44-B2-3-2
+    story_playback_sub_id: 2
+    background_code: 2021white_GriffinSPAWAR
   }
   {
     id: 706
@@ -7969,6 +9091,8 @@
     bgm: BGM_Frontline
     title: 隱秘的心
     start: -44-B2-3a
+    story_playback_sub_id: 2
+    background_code: BG-Kitchen
   }
   {
     id: 707
@@ -7979,6 +9103,8 @@
     bgm: BGM_Frontline
     title: 囚徒困境Ⅰ
     start: -44-A2-5-1
+    story_playback_sub_id: 2
+    background_code: BG7-3
   }
   {
     id: 708
@@ -7997,6 +9123,8 @@
     bgm: BGM_Frontline
     title: 囚徒困境Ⅲ
     start: -44-A2-5-2
+    story_playback_sub_id: 2
+    background_code: 2021white_Berlin
   }
   {
     id: 710
@@ -8007,6 +9135,8 @@
     bgm: BGM_Frontline
     title: 瞬光
     start: -44-A2-5a
+    story_playback_sub_id: 2
+    background_code: BG_Street
   }
   {
     id: 711
@@ -8017,6 +9147,8 @@
     bgm: BGM_Frontline
     title: 迪亞島夢境Ⅰ
     start: -44-B2-4-1
+    story_playback_sub_id: 2
+    background_code: BG-Dorm
   }
   {
     id: 712
@@ -8028,6 +9160,8 @@
     title: 迪亞島夢境Ⅱ
     first: -44-B2-4-2-2end
     end: -44-B2-4-2-2end
+    story_playback_sub_id: 2
+    background_code: 2021white_REDNET3D
   }
   {
     id: 713
@@ -8038,6 +9172,8 @@
     bgm: BGM_Frontline
     title: 迪亞島夢境Ⅲ
     start: -44-B2-4-3
+    story_playback_sub_id: 2
+    background_code: BG-Dorm
   }
   {
     id: 714
@@ -8048,6 +9184,8 @@
     bgm: BGM_Frontline
     title: 迪亞島夢境Ⅳ
     start: -44-B2-4-4
+    story_playback_sub_id: 2
+    background_code: 2021white_GriffinSPAWAR
   }
   {
     id: 715
@@ -8058,6 +9196,8 @@
     bgm: BGM_Frontline
     title: 克拉底魯河Ⅰ
     start: -44-A3-1-1
+    story_playback_sub_id: 3
+    background_code: 2021white_Institute_G&A
   }
   {
     id: 716
@@ -8076,6 +9216,8 @@
     bgm: BGM_Frontline
     title: 克拉底魯河Ⅲ
     start: -44-A3-1-2
+    story_playback_sub_id: 3
+    background_code: BG-Sanatorium
   }
   {
     id: 718
@@ -8086,6 +9228,8 @@
     bgm: BGM_Frontline
     title: 反逆莫伊萊Ⅰ
     start: -44-B3-1-1
+    story_playback_sub_id: 3
+    background_code: BG-Dorm
   }
   {
     id: 719
@@ -8104,6 +9248,8 @@
     bgm: BGM_Frontline
     title: 反逆莫伊萊Ⅲ
     start: -44-B3-1-2
+    story_playback_sub_id: 3
+    background_code: BG-Sewer
   }
   {
     id: 721
@@ -8114,6 +9260,8 @@
     bgm: BGM_Frontline
     title: 克洛托之線Ⅰ
     start: -44-B3-2-1
+    story_playback_sub_id: 3
+    background_code: BG-Wall
   }
   {
     id: 722
@@ -8124,6 +9272,8 @@
     bgm: BGM_Frontline
     title: 克洛托之線Ⅱ
     start: -44-B3-2First
+    story_playback_sub_id: 3
+    background_code: BG-Wall
   }
   {
     id: 723
@@ -8134,6 +9284,8 @@
     bgm: BGM_Frontline
     title: 克洛托之線Ⅲ
     start: -44-B3-2-2
+    story_playback_sub_id: 3
+    background_code: BG-Wall
   }
   {
     id: 724
@@ -8144,6 +9296,8 @@
     bgm: BGM_Frontline
     title: 阿基里與龜Ⅰ
     start: -44-A3-2-1
+    story_playback_sub_id: 3
+    background_code: BG-Sanatorium
   }
   {
     id: 725
@@ -8162,6 +9316,8 @@
     bgm: BGM_Frontline
     title: 阿基里與龜Ⅲ
     start: -44-A3-2-2
+    story_playback_sub_id: 3
+    background_code: 2021white_Leone
   }
   {
     id: 727
@@ -8172,6 +9328,8 @@
     bgm: BGM_Frontline
     title: 拉克西絲之尺Ⅰ
     start: -44-B3-3-1
+    story_playback_sub_id: 3
+    background_code: 2021white_Bernvillage
   }
   {
     id: 728
@@ -8183,6 +9341,8 @@
     title: 拉克西絲之尺Ⅱ
     start: -44-B3-3First
     point: 62628:-44-L-C-3-3_B,62612:-44-L-C-3-3_B
+    story_playback_sub_id: 3
+    background_code: gunCGlake
   }
   {
     id: 729
@@ -8193,6 +9353,8 @@
     bgm: BGM_Frontline
     title: 拉克西絲之尺Ⅲ
     start: -44-B3-3-2
+    story_playback_sub_id: 3
+    background_code: gunCGlake
   }
   {
     id: 730
@@ -8203,6 +9365,8 @@
     bgm: BGM_Frontline
     title: 阿特洛波斯之剪Ⅰ
     start: -44-B3-4-1
+    story_playback_sub_id: 3
+    background_code: 2019summer_7
   }
   {
     id: 731
@@ -8221,6 +9385,8 @@
     bgm: BGM_Frontline
     title: 阿特洛波斯之剪Ⅲ
     start: -44-B3-4-2
+    story_playback_sub_id: 3
+    background_code: 2021white_Jail_People
   }
   {
     id: 733
@@ -8231,6 +9397,8 @@
     bgm: BGM_Frontline
     title: 芝諾圓圈
     start: -44-A3-3
+    story_playback_sub_id: 3
+    background_code: 2020summerOffice
   }
   {
     id: 734
@@ -8241,6 +9409,8 @@
     bgm: BGM_Frontline
     title: 薛定諤的貓
     start: -44-A4-1
+    story_playback_sub_id: 4
+    background_code: 2021white_Safehouse
   }
   {
     id: 735
@@ -8251,6 +9421,8 @@
     bgm: BGM_Frontline
     title: 緬想
     start: -44-A4-1a
+    story_playback_sub_id: 4
+    background_code: 2021white_Safehouse
   }
   {
     id: 736
@@ -8261,6 +9433,8 @@
     bgm: BGM_Frontline
     title: 魔盒Ⅰ
     start: -44-A4-2-1
+    story_playback_sub_id: 4
+    background_code: 2020white-2
   }
   {
     id: 737
@@ -8279,6 +9453,8 @@
     bgm: BGM_Frontline
     title: 魔盒Ⅲ
     start: -44-A4-2-2
+    story_playback_sub_id: 4
+    background_code: 2021white_R&A
   }
   {
     id: 739
@@ -8289,6 +9465,8 @@
     bgm: BGM_Frontline
     title: 缸中之腦Ⅰ
     start: -44-A4-3-1
+    story_playback_sub_id: 4
+    background_code: 2019summer_6
   }
   {
     id: 740
@@ -8307,6 +9485,8 @@
     bgm: BGM_Frontline
     title: 缸中之腦Ⅲ
     start: -44-A4-3-2
+    story_playback_sub_id: 4
+    background_code: 2020white-2
   }
   {
     id: 742
@@ -8317,6 +9497,8 @@
     bgm: BGM_Frontline
     title: 莫比烏斯環
     start: -44-A4-4
+    story_playback_sub_id: 4
+    background_code: 2021white_RPK16&AK15
   }
   {
     id: 743
@@ -8327,6 +9509,8 @@
     bgm: BGM_Frontline
     title: 倪克斯之夜Ⅰ
     start: -44-B4-1-1
+    story_playback_sub_id: 4
+    background_code: 17xh-404Room
   }
   {
     id: 744
@@ -8337,6 +9521,8 @@
     bgm: BGM_Frontline
     title: 倪克斯之夜Ⅱ
     start: -44-B4-1-2
+    story_playback_sub_id: 4
+    background_code: 2021white_Galatea_Old
   }
   {
     id: 745
@@ -8356,6 +9542,8 @@
     bgm: BGM_Frontline
     title: 倪克斯之夜Ⅳ
     start: -44-B4-1-3
+    story_playback_sub_id: 4
+    background_code: 19winter_lab
   }
   {
     id: 747
@@ -8366,6 +9554,8 @@
     bgm: BGM_Frontline
     title: 修普諾斯的眼Ⅰ
     start: -44-B4-2-1
+    story_playback_sub_id: 4
+    background_code: "2021white_Factory_Old "
   }
   {
     id: 748
@@ -8384,6 +9574,8 @@
     bgm: BGM_Frontline
     title: 修普諾斯的眼Ⅲ
     start: -44-B4-2-2
+    story_playback_sub_id: 4
+    background_code: 2021white_Factory
   }
   {
     id: 750
@@ -8394,6 +9586,8 @@
     bgm: BGM_Frontline
     title: 塔納托斯的吻Ⅰ
     start: -44-B4-3-1
+    story_playback_sub_id: 4
+    background_code: 19winter_lab
   }
   {
     id: 751
@@ -8412,6 +9606,8 @@
     bgm: BGM_Frontline
     title: 塔納托斯的吻Ⅲ
     start: -44-B4-3-2
+    story_playback_sub_id: 4
+    background_code: 19winter_lab
   }
   {
     id: 753
@@ -8422,6 +9618,8 @@
     bgm: BGM_Frontline
     title: 卡俄斯淵回Ⅰ
     start: -44-B4-4-1
+    story_playback_sub_id: 4
+    background_code: 2021white_Machlian05
   }
   {
     id: 754
@@ -8432,6 +9630,8 @@
     bgm: BGM_Frontline
     title: 卡俄斯淵回Ⅱ
     start: -44-B4-4First
+    story_playback_sub_id: 4
+    background_code: 2021white_Galatea_Old
   }
   {
     id: 755
@@ -8442,6 +9642,8 @@
     bgm: BGM_Frontline
     title: 卡俄斯淵回Ⅲ
     start: -44-B4-4-2
+    story_playback_sub_id: 4
+    background_code: 2021white_Dandelion
   }
   {
     id: 759
@@ -8711,6 +9913,8 @@
     start: -47-1-1
     first: -47-1-2
     end: -47-1-2
+    story_playback_sub_id: 1
+    background_code: yongchi2021
   }
   {
     id: 799
@@ -8723,6 +9927,8 @@
     round: 1:-47-2-WS-1
     first: -47-2-2
     end: -47-2-2
+    story_playback_sub_id: 1
+    background_code: yongchi2021
   }
   {
     id: 800
@@ -8734,6 +9940,8 @@
     start: -47-3-1
     first: -47-3-2
     end: -47-3-2
+    story_playback_sub_id: 1
+    background_code: BG-DinnerNoMan
   }
   {
     id: 801
@@ -8745,6 +9953,8 @@
     start: -47-4-1
     first: -47-4-2
     end: -47-4-2
+    story_playback_sub_id: 1
+    background_code: 19winter_inbg_2
   }
   {
     id: 802
@@ -9005,6 +10215,8 @@
     bgm: BGM_Frontline
     title: ①
     start: -48-1-0
+    story_playback_sub_id: 1
+    background_code: 2021summer_MRL1
   }
   {
     id: 830
@@ -9015,6 +10227,8 @@
     bgm: BGM_Frontline
     title: ②
     start: -48-1-1
+    story_playback_sub_id: 1
+    background_code: 2020white-1
   }
   {
     id: 831
@@ -9026,6 +10240,8 @@
     title: ③
     start: -48-1-2-First
     point: 64307:-48-1-2-point3,64302:-48-1-2-point4
+    story_playback_sub_id: 1
+    background_code: 2021white_slum
   }
   {
     id: 832
@@ -9036,6 +10252,8 @@
     bgm: BGM_Frontline
     title: ④
     start: -48-1-3
+    story_playback_sub_id: 1
+    background_code: 2021white_Galatea
   }
   {
     id: 833
@@ -9046,6 +10264,8 @@
     bgm: BGM_Frontline
     title: ⑤
     start: -48-1-4
+    story_playback_sub_id: 1
+    background_code: 2018SummerCG1-1
   }
   {
     id: 834
@@ -9056,6 +10276,8 @@
     bgm: BGM_Frontline
     title: ⑦
     start: -48-1-6
+    story_playback_sub_id: 1
+    background_code: 2019summer_7
   }
   {
     id: 835
@@ -9066,6 +10288,8 @@
     bgm: BGM_Frontline
     title: ⑧
     start: -48-1-7
+    story_playback_sub_id: 1
+    background_code: 2021summer_SecurityBureau
   }
   {
     id: 836
@@ -9076,6 +10300,8 @@
     bgm: BGM_Frontline
     title: ⑩
     start: -48-1-9
+    story_playback_sub_id: 1
+    background_code: 2021summer_Research
   }
   {
     id: 837
@@ -9086,6 +10312,8 @@
     bgm: BGM_Frontline
     title: ⑪
     start: -48-1-10
+    story_playback_sub_id: 1
+    background_code: 2021white_Berlin
   }
   {
     id: 838
@@ -9096,6 +10324,8 @@
     bgm: BGM_Frontline
     title: ⑫
     start: -48-1-12
+    story_playback_sub_id: 1
+    background_code: BG-DinnerNoMan
   }
   {
     id: 839
@@ -9106,6 +10336,8 @@
     bgm: BGM_Frontline
     title: ⑭
     start: -48-1-13
+    story_playback_sub_id: 1
+    background_code: BG-Theatre
   }
   {
     id: 840
@@ -9116,6 +10348,8 @@
     bgm: BGM_Frontline
     title: ⑮
     start: -48-1-14
+    story_playback_sub_id: 1
+    background_code: 冰湖
   }
   {
     id: 841
@@ -9126,6 +10360,8 @@
     bgm: BGM_Frontline
     title: Ⅰ
     start: -48-2-1
+    story_playback_sub_id: 2
+    background_code: 2021summer_SecurityBureau
   }
   {
     id: 842
@@ -9136,6 +10372,8 @@
     bgm: BGM_Frontline
     title: Ⅱ
     start: -48-2-2
+    story_playback_sub_id: 2
+    background_code: 2021summer_Room
   }
   {
     id: 843
@@ -9146,6 +10384,8 @@
     bgm: BGM_Frontline
     title: Ⅳ
     start: -48-2-4
+    story_playback_sub_id: 2
+    background_code: 2021summer_Room
   }
   {
     id: 844
@@ -9156,6 +10396,8 @@
     bgm: BGM_Frontline
     title: Ⅴ
     start: -48-2-5
+    story_playback_sub_id: 2
+    background_code: BG-InterrogationRoom
   }
   {
     id: 845
@@ -9166,6 +10408,8 @@
     bgm: BGM_Frontline
     title: Ⅵ
     start: -48-2-6
+    story_playback_sub_id: 2
+    background_code: 2021white_Bar
   }
   {
     id: 846
@@ -9176,6 +10420,8 @@
     bgm: BGM_Frontline
     title: Ⅷ
     start: -48-2-8
+    story_playback_sub_id: 2
+    background_code: 2021white_Galatea_Old
   }
   {
     id: 847
@@ -9186,6 +10432,8 @@
     bgm: BGM_Frontline
     title: Ⅸ
     start: -48-2-9
+    story_playback_sub_id: 2
+    background_code: BG-Kitchen
   }
   {
     id: 848
@@ -9196,6 +10444,8 @@
     bgm: BGM_Frontline
     title: Ⅺ
     start: -48-2-11
+    story_playback_sub_id: 2
+    background_code: 2020summerOffice
   }
   {
     id: 849
@@ -9206,6 +10456,8 @@
     bgm: BGM_Frontline
     title: XII
     start: -48-2-12
+    story_playback_sub_id: 2
+    background_code: BG-Dorm
   }
   {
     id: 850
@@ -9216,6 +10468,8 @@
     bgm: BGM_Frontline
     title: XIV
     start: -48-2-14
+    story_playback_sub_id: 2
+    background_code: 19winter_lab
   }
   {
     id: 851
@@ -9226,6 +10480,8 @@
     bgm: BGM_Frontline
     title: XV
     start: -48-2-15
+    story_playback_sub_id: 2
+    background_code: 2021white_Safehouse
   }
   {
     id: 852
@@ -9236,6 +10492,8 @@
     bgm: BGM_Frontline
     title: IA
     start: -48-3-1
+    story_playback_sub_id: 3
+    background_code: BG-Dorm
   }
   {
     id: 853
@@ -9246,6 +10504,8 @@
     bgm: BGM_Frontline
     title: ⅡA
     start: -48-3-2
+    story_playback_sub_id: 3
+    background_code: 2021white_Safehouse
   }
   {
     id: 854
@@ -9256,6 +10516,8 @@
     bgm: BGM_Frontline
     title: ⅣB
     start: -48-3-4
+    story_playback_sub_id: 3
+    background_code: 2021summer_SecurityBureau
   }
   {
     id: 855
@@ -9266,6 +10528,8 @@
     bgm: BGM_Frontline
     title: ⅤB
     start: -48-3-5
+    story_playback_sub_id: 3
+    background_code: BG-Kitchen
   }
   {
     id: 856
@@ -9276,6 +10540,8 @@
     bgm: BGM_Frontline
     title: ⅥB
     start: -48-3-6
+    story_playback_sub_id: 3
+    background_code: BG-Cybercity
   }
   {
     id: 857
@@ -9286,6 +10552,8 @@
     bgm: BGM_Frontline
     title: ⅠB
     start: -48-3-8
+    story_playback_sub_id: 3
+    background_code: 2021summer_JK_Apartment2
   }
   {
     id: 858
@@ -9296,6 +10564,8 @@
     bgm: BGM_Frontline
     title: ⅡB
     start: -48-3-9
+    story_playback_sub_id: 3
+    background_code: 2018Winter2-1
   }
   {
     id: 859
@@ -9306,6 +10576,8 @@
     bgm: BGM_Frontline
     title: ⅢA
     start: -48-3-10
+    story_playback_sub_id: 3
+    background_code: 2021summer_MilitaryAirport
   }
   {
     id: 860
@@ -9316,6 +10588,8 @@
     bgm: BGM_Frontline
     title: ⅤA
     start: -48-3-12
+    story_playback_sub_id: 3
+    background_code: 2021summer_M16_ATTACK_1
   }
   {
     id: 861
@@ -9326,6 +10600,8 @@
     bgm: BGM_Frontline
     title: ⅦA
     start: -48-3-14
+    story_playback_sub_id: 3
+    background_code: 2021summer_Office
   }
   {
     id: 862
@@ -9336,6 +10612,8 @@
     bgm: BGM_Frontline
     title: alpha
     start: -48-4-1
+    story_playback_sub_id: 4
+    background_code: 2021white_Safehouse
   }
   {
     id: 863
@@ -9346,6 +10624,8 @@
     bgm: BGM_Frontline
     title: beta
     start: -48-4-2
+    story_playback_sub_id: 4
+    background_code: 2021summer_Murderous
   }
   {
     id: 864
@@ -9356,6 +10636,8 @@
     bgm: BGM_Frontline
     title: gamma
     start: -48-4-3
+    story_playback_sub_id: 4
+    background_code: 2019summer_12
   }
   {
     id: 865
@@ -9365,6 +10647,8 @@
     campaign: -48
     bgm: BGM_Frontline
     title: delta
+    story_playback_sub_id: 4
+    background_code: 2019summer_12
   }
   {
     id: 866
@@ -9375,6 +10659,8 @@
     bgm: BGM_Frontline
     title: epsilon
     start: -48-4-5
+    story_playback_sub_id: 4
+    background_code: 2021summer_Factory
   }
   {
     id: 867
@@ -9385,6 +10671,8 @@
     bgm: BGM_Frontline
     title: eta
     start: -48-4-7
+    story_playback_sub_id: 4
+    background_code: 2021summer_Factory
   }
   {
     id: 868
@@ -9394,6 +10682,8 @@
     bgm: BGM_Frontline
     title: theta
     point: 74104:-48-EXT-4-3-2
+    story_playback_sub_id: 4
+    background_code: 2021summer_Factory
   }
   {
     id: 869
@@ -9404,6 +10694,8 @@
     bgm: BGM_Frontline
     title: iota
     start: -48-4-9
+    story_playback_sub_id: 4
+    background_code: 2021summer_Street
   }
   {
     id: 870
@@ -9414,6 +10706,8 @@
     bgm: BGM_Frontline
     title: lambda
     start: -48-4-11
+    story_playback_sub_id: 4
+    background_code: 2021summer_J&nele4
   }
   {
     id: 871
@@ -9424,6 +10718,8 @@
     bgm: BGM_Frontline
     title: mu
     start: -48-4-12
+    story_playback_sub_id: 4
+    background_code: 2021white_GriffinSPAWAR
   }
   {
     id: 872
@@ -9434,6 +10730,8 @@
     bgm: BGM_Frontline
     title: nu
     start: -48-4-13
+    story_playback_sub_id: 4
+    background_code: 2021summer_MRL2
   }
   {
     id: 873
@@ -9444,6 +10742,8 @@
     bgm: BGM_Frontline
     title: "1"
     start: -48-5-1
+    story_playback_sub_id: 5
+    background_code: 2021summer_HQ_Broken
   }
   {
     id: 874
@@ -9454,6 +10754,8 @@
     bgm: BGM_Frontline
     title: "11"
     start: -48-5-3
+    story_playback_sub_id: 5
+    background_code: 2021summer_jiankong1
   }
   {
     id: 875
@@ -9463,6 +10765,8 @@
     bgm: BGM_Frontline
     title: "100"
     point: 74365:-48-EXT-5-2-2,74431:-48-EXT-5-2-2
+    story_playback_sub_id: 5
+    background_code: 2021summer_jiankong2
   }
   {
     id: 876
@@ -9473,6 +10777,8 @@
     bgm: BGM_Frontline
     title: "101"
     start: -48-5-5
+    story_playback_sub_id: 5
+    background_code: 2021summer_HQ_Broken
   }
   {
     id: 877
@@ -9483,6 +10789,8 @@
     bgm: BGM_Frontline
     title: "110"
     start: -48-5-6
+    story_playback_sub_id: 5
+    background_code: 19winter_inbg_2
   }
   {
     id: 878
@@ -9493,6 +10801,8 @@
     bgm: BGM_Frontline
     title: "111"
     round: 4:-48-5-7-point
+    story_playback_sub_id: 5
+    background_code: 2021summer_SANGVISFERRI
   }
   {
     id: 879
@@ -9503,6 +10813,8 @@
     bgm: BGM_Frontline
     title: "1000"
     start: -48-5-8
+    story_playback_sub_id: 5
+    background_code: 2021summer_Ruins_RepairRoom
   }
   {
     id: 880
@@ -9513,6 +10825,8 @@
     bgm: BGM_Frontline
     title: "1001"
     start: -48-5-9-point
+    story_playback_sub_id: 5
+    background_code: 2021summer_Dorm_Broken
   }
   {
     id: 881
@@ -9523,6 +10837,8 @@
     bgm: BGM_Frontline
     title: "1010"
     start: -48-5-10
+    story_playback_sub_id: 5
+    background_code: 2021summer_jiankong5
   }
   {
     id: 882
@@ -9533,6 +10849,8 @@
     bgm: BGM_Frontline
     title: pico
     start: -48-6-1
+    story_playback_sub_id: 6
+    background_code: 2021summer_Ruins_RepairRoom
   }
   {
     id: 883
@@ -9543,6 +10861,8 @@
     bgm: BGM_Frontline
     title: nano
     start: -48-6-2
+    story_playback_sub_id: 6
+    background_code: 2021summer_Corridor_Broken
   }
   {
     id: 884
@@ -9553,6 +10873,8 @@
     bgm: BGM_Frontline
     title: milli
     start: -48-6-4
+    story_playback_sub_id: 6
+    background_code: 2021summer_Targetrange_Broken
   }
   {
     id: 885
@@ -9563,6 +10885,8 @@
     bgm: BGM_Frontline
     title: deci
     start: -48-6-6
+    story_playback_sub_id: 6
+    background_code: BG-RuinedCity
   }
   {
     id: 886
@@ -9573,6 +10897,8 @@
     bgm: BGM_Frontline
     title: deca
     start: -48-6-7
+    story_playback_sub_id: 6
+    background_code: 2021white_Jail
   }
   {
     id: 887
@@ -9582,6 +10908,8 @@
     bgm: BGM_Frontline
     title: hecta
     point: 74687:-48-EXT-6-1,74782:-48-EXT-6-1
+    story_playback_sub_id: 6
+    background_code: 2021white_Jail
   }
   {
     id: 888
@@ -9592,6 +10920,8 @@
     bgm: BGM_Frontline
     title: kilo
     start: -48-6-9
+    story_playback_sub_id: 6
+    background_code: 19winter_lab
   }
   {
     id: 889
@@ -9602,6 +10932,8 @@
     bgm: BGM_Frontline
     title: Mega
     start: -48-6-10-point
+    story_playback_sub_id: 6
+    background_code: 19winter_lab
   }
   {
     id: 890
@@ -9612,6 +10944,8 @@
     bgm: BGM_Frontline
     title: Giga
     start: -48-6-11
+    story_playback_sub_id: 6
+    background_code: 2021white_Bar
   }
   {
     id: 891
@@ -9622,6 +10956,8 @@
     bgm: BGM_Frontline
     title: Tera
     start: -48-6-12
+    story_playback_sub_id: 6
+    background_code: 2021summer_Funeral1
   }
   {
     id: 910
@@ -9729,6 +11065,8 @@
     bgm: BGM_Frontline
     title: 「心願何時成真」
     start: -49-0-0
+    story_playback_sub_id: 1
+    background_code: 2021_Christmas
   }
   {
     id: 919
@@ -9739,6 +11077,8 @@
     bgm: BGM_Frontline
     title: 一個人的抗爭Ⅰ
     start: -49-1-1
+    story_playback_sub_id: 1
+    background_code: BG-BarXmas
   }
   {
     id: 920
@@ -9750,6 +11090,8 @@
     title: 一個人的抗爭Ⅱ
     first: -49-1-2
     end: -49-1-2
+    story_playback_sub_id: 1
+    background_code: 雪地
   }
   {
     id: 921
@@ -9760,6 +11102,8 @@
     bgm: BGM_Frontline
     title: 重金屬與溫柔枝椏Ⅰ
     start: -49-2-1
+    story_playback_sub_id: 1
+    background_code: BG-BarXmas
   }
   {
     id: 922
@@ -9771,6 +11115,8 @@
     title: 重金屬與溫柔枝椏Ⅱ
     first: -49-2-2
     end: -49-2-2
+    story_playback_sub_id: 1
+    background_code: 单挑
   }
   {
     id: 923
@@ -9781,6 +11127,8 @@
     bgm: BGM_Frontline
     title: 被埋葬的騙局Ⅰ
     start: -49-3-1
+    story_playback_sub_id: 1
+    background_code: BG-BarXmas
   }
   {
     id: 924
@@ -9792,6 +11140,8 @@
     title: 被埋葬的騙局Ⅱ
     first: -49-3-2
     end: -49-3-2
+    story_playback_sub_id: 1
+    background_code: BG-WarehouseON
   }
   {
     id: 925
@@ -9802,6 +11152,8 @@
     bgm: BGM_Frontline
     title: 雪似櫻花飄落Ⅰ
     start: -49-4-1
+    story_playback_sub_id: 1
+    background_code: BG-WarehouseON
   }
   {
     id: 926
@@ -9813,6 +11165,8 @@
     title: 雪似櫻花飄落Ⅱ
     first: -49-4-2
     end: -49-4-2
+    story_playback_sub_id: 1
+    background_code: 雪地
   }
   {
     id: 927
@@ -9823,6 +11177,8 @@
     bgm: BGM_Frontline
     title: 「煙火綻放的時刻」
     start: -49-5-1
+    story_playback_sub_id: 1
+    background_code: 2021_Christmas
   }
   {
     id: 928
@@ -9832,6 +11188,8 @@
     campaign: -51
     title: 螫針
     start: -51-1-1
+    story_playback_sub_id: 1
+    background_code: 2022winter_Beeneedle_2
   }
   {
     id: 929
@@ -9918,6 +11276,8 @@
     campaign: -51
     title: 黑箱
     start: -51-1-2
+    story_playback_sub_id: 1
+    background_code: 2022winter_Office
   }
   {
     id: 946
@@ -9927,6 +11287,8 @@
     campaign: -51
     title: 暗哨
     start: -51-1-3
+    story_playback_sub_id: 1
+    background_code: 2021summer_Office
   }
   {
     id: 947
@@ -9936,6 +11298,8 @@
     campaign: -51
     title: 追獵I
     start: -51-1-4
+    story_playback_sub_id: 1
+    background_code: 2022winter_Beeneedle_4
   }
   {
     id: 948
@@ -9945,6 +11309,8 @@
     campaign: -51
     title: 尼刻I
     start: -51-1-6
+    story_playback_sub_id: 1
+    background_code: 2021white_Safehouse
   }
   {
     id: 949
@@ -9954,6 +11320,8 @@
     campaign: -51
     title: 「死海」
     start: -51-1-8
+    story_playback_sub_id: 1
+    background_code: 2022winter_Family_3
   }
   {
     id: 950
@@ -9963,6 +11331,8 @@
     campaign: -51
     title: 搖旌
     start: -51-2-1
+    story_playback_sub_id: 2
+    background_code: 2021summer_Office
   }
   {
     id: 951
@@ -9972,6 +11342,8 @@
     campaign: -51
     title: 轅轍
     start: -51-2-3
+    story_playback_sub_id: 2
+    background_code: 2021white_Berlin
   }
   {
     id: 952
@@ -9981,6 +11353,8 @@
     campaign: -51
     title: 匿伏II
     start: -51-2-5
+    story_playback_sub_id: 2
+    background_code: 2021summer_MilitaryAirport
   }
   {
     id: 953
@@ -9990,6 +11364,8 @@
     campaign: -51
     title: 渦旋
     start: -51-2-7
+    story_playback_sub_id: 2
+    background_code: 2022winter_Q
   }
   {
     id: 954
@@ -9999,6 +11375,8 @@
     campaign: -51
     title: 園丁
     start: -51-2-8
+    story_playback_sub_id: 2
+    background_code: 2020summerTransport
   }
   {
     id: 955
@@ -10008,6 +11386,8 @@
     campaign: -51
     title: 開首
     start: -51-3-1
+    story_playback_sub_id: 3
+    background_code: 2022winter_RedArea
   }
   {
     id: 956
@@ -10017,6 +11397,8 @@
     campaign: -51
     title: 逆光I
     start: -51-3-3
+    story_playback_sub_id: 3
+    background_code: 2022winter_tower_nyto
   }
   {
     id: 957
@@ -10026,6 +11408,8 @@
     campaign: -51
     title: 交錯點I
     start: -51-3-5
+    story_playback_sub_id: 3
+    background_code: 2022winter_Town
   }
   {
     id: 958
@@ -10035,6 +11419,8 @@
     campaign: -51
     title: 鐵腕
     start: -51-3-7
+    story_playback_sub_id: 3
+    background_code: 2022winter_BlackArea_1
   }
   {
     id: 959
@@ -10044,6 +11430,8 @@
     campaign: -51
     title: 裂隙
     start: -51-3-8
+    story_playback_sub_id: 3
+    background_code: 2022winter_City
   }
   {
     id: 960
@@ -10053,6 +11441,8 @@
     campaign: -51
     title: 血月II
     start: -51-3-10
+    story_playback_sub_id: 3
+    background_code: 2022winter_BlackArea_2
   }
   {
     id: 961
@@ -10062,6 +11452,8 @@
     campaign: -51
     title: 倒影
     start: -51-3-12
+    story_playback_sub_id: 3
+    background_code: 2022winter_onway
   }
   {
     id: 962
@@ -10071,6 +11463,8 @@
     campaign: -51
     title: 開道
     start: -51-4-1
+    story_playback_sub_id: 4
+    background_code: 2022winter_squad
   }
   {
     id: 963
@@ -10080,6 +11474,8 @@
     campaign: -51
     title: 升變
     start: -51-4-2
+    story_playback_sub_id: 4
+    background_code: 2022winter_BedRoom
   }
   {
     id: 964
@@ -10089,6 +11485,8 @@
     campaign: -51
     title: 登塔
     start: -51-4-3
+    story_playback_sub_id: 4
+    background_code: 2022winter_Sickbed
   }
   {
     id: 965
@@ -10098,6 +11496,8 @@
     campaign: -51
     title: 侵襲
     start: -51-4-5
+    story_playback_sub_id: 4
+    background_code: 2022winter_RedAreab
   }
   {
     id: 966
@@ -10107,6 +11507,8 @@
     campaign: -51
     title: 舊雨II
     start: -51-4-7
+    story_playback_sub_id: 4
+    background_code: 2022winter_bridge
   }
   {
     id: 967
@@ -10116,6 +11518,8 @@
     campaign: -51
     title: 孤島II
     start: -51-4-9
+    story_playback_sub_id: 4
+    background_code: 2022winter_tower_inside_E
   }
   {
     id: 968
@@ -10125,6 +11529,8 @@
     campaign: -51
     title: 背叛者II
     start: -51-4-11
+    story_playback_sub_id: 4
+    background_code: 2022winter_16vs16_a
   }
   {
     id: 969
@@ -10134,6 +11540,8 @@
     campaign: -51
     title: 謎底
     start: -51-4-13
+    story_playback_sub_id: 4
+    background_code: 2021white_GriffinSPAWAR
   }
   {
     id: 970
@@ -10143,6 +11551,8 @@
     campaign: -51
     title: 終點
     start: -51-4-14
+    story_playback_sub_id: 4
+    background_code: 2022winter_kyruger
   }
   {
     id: 971
@@ -10152,6 +11562,8 @@
     campaign: -51
     title: 推演I
     start: -51-slg-mission-1
+    story_playback_sub_id: 5
+    background_code: 2022winter_NPS
   }
   {
     id: 972
@@ -10161,6 +11573,8 @@
     campaign: -51
     title: 推演II
     start: -51-slg-mission-2
+    story_playback_sub_id: 5
+    background_code: 2022winter_base_2
   }
   {
     id: 973
@@ -10170,6 +11584,8 @@
     campaign: -51
     title: 推演III
     start: -51-slg-mission-3
+    story_playback_sub_id: 5
+    background_code: 2022winter_base_3
   }
   {
     id: 974
@@ -10179,104 +11595,162 @@
     campaign: -51
     title: 推演Ⅳ
     start: -51-slg-mission-4
+    story_playback_sub_id: 5
+    background_code: 2022winter_squad
   }
   {
     id: 975
     mission_id: "11083"
+    description: 節日的圓滿，懸於一夜的彌補。
+    scripts: -50-1-1
     campaign: -50
     title: 糟糕的客人
     start: -50-1-1
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 976
     mission_id: "11084"
+    description: 為解燃眉之急，智激天才之傲。
+    scripts: -50-1-2
     campaign: -50
     title: 秘密工人
     start: -50-1-2
+    story_playback_sub_id: 1
+    background_code: 工厂背景avg
   }
   {
     id: 977
     mission_id: "11085"
+    description: 心意不可複製，危機亦然。
+    scripts: -50-1-3
     campaign: -50
-    title: 巧克力車間
+    title: 巧克力工廠
     start: -50-1-3
+    story_playback_sub_id: 1
+    background_code: 工厂背景avg
   }
   {
     id: 978
     mission_id: "11086"
+    description: 大家心滿意足。
+    scripts: -50-1-4
     campaign: -50
     title: 白色慶典
     start: -50-1-4
+    story_playback_sub_id: 1
+    background_code: 工厂背景avg
   }
   {
     id: 979
     mission_id: "11088"
+    description: 沉重的回禮，是無法拒絕的心意。
+    scripts: -50-2-1
     campaign: -50
     title: 別出心裁的樣品
     start: -50-2-1
+    story_playback_sub_id: 1
+    background_code: BG-Corridor
   }
   {
     id: 980
     mission_id: "11089"
+    description: 琴音雖逝，但回憶永存。
+    scripts: -50-2-2
     campaign: -50
     title: 故鄉的歌
     start: -50-2-2
+    story_playback_sub_id: 1
+    background_code: BG-Theatre
   }
   {
     id: 981
     mission_id: "11090"
+    description: 一種風味，被誠摯地放大到了極致。
+    scripts: -50-2-3
     campaign: -50
     title: 極速快遞員
     start: -50-2-3
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 982
     mission_id: "11091"
+    description: 滿溢的好意，以一種難以消化的方式抵達。
+    scripts: -50-2-4
     campaign: -50
     title: 金色楓葉
     start: -50-2-4
+    story_playback_sub_id: 1
+    background_code: BG-Dorm
   }
   {
     id: 983
     mission_id: "11092"
+    description: 一盞手榴彈化作微光，映照出獵人與獵物角色的脆弱易位。
+    scripts: -50-2-5
     campaign: -50
     title: 沉重的關心
     start: -50-2-5
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 984
     mission_id: "11093"
+    description: 一塊巨型巧克力蛋糕，無聲瓦解了禮物的循環，他們在沉默中共享最後的甜蜜。
+    scripts: -50-2-6
     campaign: -50
     title: 默契
     start: -50-2-6
+    story_playback_sub_id: 1
+    background_code: 工厂背景avg
   }
   {
     id: 985
     mission_id: "11094"
+    description: 她預言了一場災難，並親自送來了唯一的解藥。
+    scripts: -50-2-7
     campaign: -50
     title: 珍妮迪克遜
     start: -50-2-7
+    story_playback_sub_id: 1
+    background_code: BG-Corridor
   }
   {
     id: 986
     mission_id: "11095"
+    description: 溫柔的慰藉之後，是更盛大的、令人無措的溫柔。
+    scripts: -50-2-8
     campaign: -50
     title: 白情經典
     start: -50-2-8
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 987
     mission_id: "11096"
+    description: 一體兩心的矛盾，在包容中化為持槍的童話。
+    scripts: -50-2-9
     campaign: -50
     title: 雙倍贈禮
     start: -50-2-9
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 988
     mission_id: "11097"
+    description: 為了抵達默契，她將自己編成了一本厚重的說明書。
+    scripts: -50-2-10
     campaign: -50
     title: 更懂我的心
     start: -50-2-10
+    story_playback_sub_id: 1
+    background_code: BG-Dorm
   }
   {
     id: 989
@@ -10286,6 +11760,8 @@
     campaign: -52
     title: 萊肯·狩獸序章
     start: -52-0-1
+    story_playback_sub_id: 1
+    background_code: BG-Beach
   }
   {
     id: 990
@@ -10295,6 +11771,8 @@
     campaign: -52
     title: 混沌中繼
     start: -52-8-1
+    story_playback_sub_id: 1
+    background_code: 2022_Drawcard
   }
   {
     id: 991
@@ -10304,6 +11782,8 @@
     campaign: -52
     title: 獵人巡地
     start: -52-1-1
+    story_playback_sub_id: 1
+    background_code: BG-BeachNight
   }
   {
     id: 992
@@ -10313,6 +11793,8 @@
     campaign: -52
     title: 靶向陷阱
     start: -52-2-1
+    story_playback_sub_id: 1
+    background_code: 2022_Stall
   }
   {
     id: 993
@@ -10322,6 +11804,8 @@
     campaign: -52
     title: 薄暮迷宮
     start: -52-3-1
+    story_playback_sub_id: 1
+    background_code: 2022_Stall
   }
   {
     id: 994
@@ -10331,6 +11815,8 @@
     campaign: -52
     title: 巫女營帳
     start: -52-4-1
+    story_playback_sub_id: 1
+    background_code: 2022_Stall
   }
   {
     id: 995
@@ -10340,6 +11826,8 @@
     campaign: -52
     title: 心魔池沼
     start: -52-5-1
+    story_playback_sub_id: 1
+    background_code: 2022_Stall
   }
   {
     id: 996
@@ -10349,6 +11837,8 @@
     campaign: -52
     title: 烽火連台
     start: -52-6-1
+    story_playback_sub_id: 1
+    background_code: BG-Beach
   }
   {
     id: 997
@@ -10358,6 +11848,8 @@
     campaign: -54
     title: 1 列車時刻表
     start: -54-O-1
+    story_playback_sub_id: 10
+    background_code: 2022summer_Map
   }
   {
     id: 998
@@ -10383,6 +11875,8 @@
     campaign: -54
     title: 3-α1 A小調圓舞曲
     start: -54-A-1
+    story_playback_sub_id: 1
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1001
@@ -10392,6 +11886,8 @@
     campaign: -54
     title: 3-α3 雨滴
     start: -54-A-3
+    story_playback_sub_id: 1
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1002
@@ -10401,6 +11897,8 @@
     campaign: -54
     title: 3-α4 G小調小前奏曲
     start: -54-A-4
+    story_playback_sub_id: 1
+    background_code: 2022summer_TrainStation
   }
   {
     id: 1003
@@ -10410,6 +11908,8 @@
     campaign: -54
     title: 5-α5 月光奏鳴
     start: -54-A-5
+    story_playback_sub_id: 1
+    background_code: Desert
   }
   {
     id: 1004
@@ -10419,6 +11919,8 @@
     campaign: -54
     title: 5-α6 恰空舞曲
     start: -54-A-6Point1
+    story_playback_sub_id: 1
+    background_code: 主界面背景
   }
   {
     id: 1005
@@ -10428,6 +11930,8 @@
     campaign: -54
     title: 5-α7 冬
     start: -54-A-7
+    story_playback_sub_id: 1
+    background_code: 2022summer_DiningCar
   }
   {
     id: 1006
@@ -10445,6 +11949,8 @@
     campaign: -54
     title: 16 A大調大協奏曲
     start: -54-A-9
+    story_playback_sub_id: 1
+    background_code: 2022summer_Target_a
   }
   {
     id: 1008
@@ -10454,6 +11960,8 @@
     campaign: -54
     title: 17 勃拉姆斯間奏曲
     start: -54-A-10
+    story_playback_sub_id: 1
+    background_code: 2021white_Safehouse
   }
   {
     id: 1009
@@ -10463,6 +11971,8 @@
     campaign: -54
     title: 18 天鵝
     start: -54-A-11
+    story_playback_sub_id: 1
+    background_code: 2022summer_ColtTrain
   }
   {
     id: 1010
@@ -10472,6 +11982,8 @@
     campaign: -54
     title: 25 魯斯蘭與柳德米拉
     start: -54-A-12
+    story_playback_sub_id: 1
+    background_code: 2022summer_LightUpNight_b
   }
   {
     id: 1011
@@ -10489,6 +12001,8 @@
     campaign: -54
     title: 27 女武神的騎行
     start: -54-A-14
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 1013
@@ -10498,6 +12012,8 @@
     campaign: -54
     title: 3-β1 吉恩喝了一杯
     start: -54-B-1
+    story_playback_sub_id: 2
+    background_code: 2021white_Bar
   }
   {
     id: 1014
@@ -10515,6 +12031,8 @@
     campaign: -54
     title: 3-β3 第三交響曲
     start: -54-B-3
+    story_playback_sub_id: 2
+    background_code: 17xh-404Room
   }
   {
     id: 1016
@@ -10524,6 +12042,8 @@
     campaign: -54
     title: 5-β4 引子與迴旋隨想曲
     start: -54-B-4
+    story_playback_sub_id: 2
+    background_code: 2021white_Safehouse
   }
   {
     id: 1017
@@ -10533,6 +12053,8 @@
     campaign: -54
     title: 5-β5 骷髏之舞
     start: -54-B-5
+    story_playback_sub_id: 2
+    background_code: 2022summer_ColtTrain
   }
   {
     id: 1018
@@ -10542,6 +12064,8 @@
     campaign: -54
     title: 5-β7 鄉村騎士間奏曲
     start: -54-B-7
+    story_playback_sub_id: 2
+    background_code: 2022summer_robbery_a
   }
   {
     id: 1019
@@ -10551,6 +12075,8 @@
     campaign: -54
     title: 12 玄秘曲一號
     start: -54-B-9
+    story_playback_sub_id: 2
+    background_code: 2022summer_Joint
   }
   {
     id: 1020
@@ -10560,6 +12086,8 @@
     campaign: -54
     title: 14 G小調敘事曲
     start: -54-B-11
+    story_playback_sub_id: 2
+    background_code: 2019summer_3
   }
   {
     id: 1021
@@ -10569,6 +12097,8 @@
     campaign: -54
     title: 21 鐘
     start: -54-B-12
+    story_playback_sub_id: 2
+    background_code: 2020HWfiretheater
   }
   {
     id: 1022
@@ -10578,6 +12108,8 @@
     campaign: -54
     title: 23 表達
     start: -54-B-14
+    story_playback_sub_id: 2
+    background_code: 2021white_REDNET3D
   }
   {
     id: 1023
@@ -10587,6 +12119,8 @@
     campaign: -54
     title: 3-γ1 泰綺絲冥想曲
     start: -54-C-1
+    story_playback_sub_id: 3
+    background_code: 2022winter_UnicornTeam
   }
   {
     id: 1024
@@ -10596,6 +12130,8 @@
     campaign: -54
     title: 3-γ3 弗拉基米爾的藍調
     start: -54-C-3
+    story_playback_sub_id: 3
+    background_code: 2022summer_Garden
   }
   {
     id: 1025
@@ -10605,6 +12141,8 @@
     campaign: -54
     title: 3-γ4 十二平均律前奏曲
     start: -54-C-4
+    story_playback_sub_id: 3
+    background_code: 2021white_Safehouse
   }
   {
     id: 1026
@@ -10614,6 +12152,8 @@
     campaign: -54
     title: 5-γ5 金絲雀
     start: -54-C-5
+    story_playback_sub_id: 3
+    background_code: BG-Slum
   }
   {
     id: 1027
@@ -10623,6 +12163,8 @@
     campaign: -54
     title: 5-γ7 合唱幻想曲
     start: -54-C-7
+    story_playback_sub_id: 3
+    background_code: 2021summer_Toilet
   }
   {
     id: 1028
@@ -10632,6 +12174,8 @@
     campaign: -54
     title: 5-γ8 重歸蘇蓮托
     start: -54-C-8Point1
+    story_playback_sub_id: 3
+    background_code: 2022winter_UnicornTeam
   }
   {
     id: 1029
@@ -10641,6 +12185,8 @@
     campaign: -54
     title: 8 帕格尼尼主題狂想曲
     start: -54-C-9
+    story_playback_sub_id: 3
+    background_code: 2022summer_DiningCar
   }
   {
     id: 1030
@@ -10650,6 +12196,8 @@
     campaign: -54
     title: 9 幽靈
     start: -54-C-10Point1
+    story_playback_sub_id: 3
+    background_code: 2022summer_DiningCar
   }
   {
     id: 1031
@@ -10659,6 +12207,8 @@
     campaign: -54
     title: 10 和諧的靈感
     start: -54-C-11
+    story_playback_sub_id: 3
+    background_code: WHITENET
   }
   {
     id: 1032
@@ -10668,6 +12218,8 @@
     campaign: -54
     title: 29 夏協奏曲
     start: -54-C-12
+    story_playback_sub_id: 3
+    background_code: 2020HWfiretheater
   }
   {
     id: 1033
@@ -10685,6 +12237,8 @@
     campaign: -54
     title: 31 流浪者之歌
     start: -54-C-14
+    story_playback_sub_id: 3
+    background_code: 2022summer_Farewell_a
   }
   {
     id: 1035
@@ -10694,6 +12248,8 @@
     campaign: -54
     title: 32 1812序曲
     round: 3:-54-C-15Point1
+    story_playback_sub_id: 3
+    background_code: 2022summer_Map
   }
   {
     id: 1036
@@ -10703,6 +12259,8 @@
     campaign: -54
     title: 33 G弦上的詠嘆調
     start: -54-C-16
+    story_playback_sub_id: 3
+    background_code: 2022summer_1stDeath_a
   }
   {
     id: 1037
@@ -10712,6 +12270,8 @@
     campaign: -54
     title: 2 輻射濃度警報器
     start: -54-O-2
+    story_playback_sub_id: 10
+    background_code: 2022summer_SecondClass
   }
   {
     id: 1038
@@ -10721,6 +12281,8 @@
     campaign: -54
     title: 3 酒吧吧檯
     start: -54-O-3
+    story_playback_sub_id: 10
+    background_code: 2022summer_FirstClass
   }
   {
     id: 1039
@@ -10730,6 +12292,8 @@
     campaign: -54
     title: 4 復古留聲機
     start: -54-O-4
+    story_playback_sub_id: 10
+    background_code: 2022summer_DiningCar
   }
   {
     id: 1040
@@ -10739,6 +12303,8 @@
     campaign: -54
     title: 5 洗手間
     start: -54-O-5
+    story_playback_sub_id: 10
+    background_code: 2022summer_robbery_b
   }
   {
     id: 1041
@@ -10748,6 +12314,8 @@
     campaign: -54
     title: 6 世界時區鐘
     start: -54-O-6
+    story_playback_sub_id: 10
+    background_code: 2022summer_FirstClass
   }
   {
     id: 1042
@@ -10757,6 +12325,8 @@
     campaign: -54
     title: 7 通向特等車廂的門
     start: -54-O-7
+    story_playback_sub_id: 10
+    background_code: 2022summer_FirstClass
   }
   {
     id: 1043
@@ -10766,6 +12336,8 @@
     campaign: -54
     title: 11 大型行李架
     start: -54-O-8
+    story_playback_sub_id: 10
+    background_code: 2022summer_SecondClass
   }
   {
     id: 1044
@@ -10775,6 +12347,8 @@
     campaign: -54
     title: 15 觀景窗口
     start: -54-O-9
+    story_playback_sub_id: 10
+    background_code: 2022summer_DeadEnd
   }
   {
     id: 1045
@@ -10784,6 +12358,8 @@
     campaign: -54
     title: 19 桌上的淡雅花束
     start: -54-O-10
+    story_playback_sub_id: 10
+    background_code: 2022summer_Doctor_a
   }
   {
     id: 1046
@@ -10793,6 +12369,8 @@
     campaign: -54
     title: 20 售賣物品的小推車
     start: -54-O-11
+    story_playback_sub_id: 10
+    background_code: 2022summer_DiningCar
   }
   {
     id: 1047
@@ -10802,6 +12380,8 @@
     campaign: -54
     title: 24 車廂內的惡搞塗鴉
     start: -54-O-12
+    story_playback_sub_id: 10
+    background_code: 2022summer_VIPSeat
   }
   {
     id: 1048
@@ -10811,6 +12391,8 @@
     campaign: -54
     title: 28 維修工作間
     start: -54-O-13
+    story_playback_sub_id: 10
+    background_code: 2022summer_VIPSeat
   }
   {
     id: 1049
@@ -10820,6 +12402,8 @@
     campaign: -54
     title: 34 通向車頂的出口
     start: -54-O-14
+    story_playback_sub_id: 10
+    background_code: 2022summer_Garden
   }
   {
     id: 1050
@@ -10829,6 +12413,8 @@
     campaign: -54
     title: 35 懸掛屏幕
     start: -54-O-15
+    story_playback_sub_id: 10
+    background_code: BG-Sewer
   }
   {
     id: 1051
@@ -10838,6 +12424,8 @@
     campaign: -54
     title: 35-T1 練習曲第二號
     start: -54-T-1
+    story_playback_sub_id: 4
+    background_code: 2022summer_TrainStation
   }
   {
     id: 1052
@@ -10847,6 +12435,8 @@
     campaign: -54
     title: 35-T2 第五前奏曲
     start: -54-T-2
+    story_playback_sub_id: 4
+    background_code: 2022summer_FirstClass
   }
   {
     id: 1053
@@ -10856,6 +12446,8 @@
     campaign: -54
     title: 35-T3 浪漫曲
     start: -54-T-3
+    story_playback_sub_id: 4
+    background_code: 2022summer_Target_b
   }
   {
     id: 1054
@@ -10865,6 +12457,8 @@
     campaign: -54
     title: 35-T4 音樂瞬間
     start: -54-T-4
+    story_playback_sub_id: 4
+    background_code: 2019summer_3
   }
   {
     id: 1055
@@ -10874,6 +12468,8 @@
     campaign: -54
     title: 35-W1索爾維格之歌
     start: -54-W-1
+    story_playback_sub_id: 5
+    background_code: 2022winter_BlackCity
   }
   {
     id: 1056
@@ -10883,6 +12479,8 @@
     campaign: -54
     title: 35-W2 A大調單簧管協奏曲
     start: -54-W-2
+    story_playback_sub_id: 5
+    background_code: BG-Slum
   }
   {
     id: 1057
@@ -10892,6 +12490,8 @@
     campaign: -54
     title: 35-W3 曼圖亞之旅
     start: -54-W-3
+    story_playback_sub_id: 5
+    background_code: 2020summerOffice
   }
   {
     id: 1058
@@ -10901,6 +12501,8 @@
     campaign: -54
     title: 35-W4 離別曲
     start: -54-W-4
+    story_playback_sub_id: 5
+    background_code: 2022winter_Sickbed
   }
   {
     id: 1059
@@ -10910,6 +12512,8 @@
     campaign: -54
     title: 35-N1 幻想即興曲
     start: -54-N-1
+    story_playback_sub_id: 6
+    background_code: 2021white_Bar
   }
   {
     id: 1060
@@ -10919,6 +12523,8 @@
     campaign: -54
     title: 35-N2 春天奏鳴曲
     start: -54-N-2
+    story_playback_sub_id: 6
+    background_code: BG-DinnerNoMan
   }
   {
     id: 1061
@@ -10928,6 +12534,8 @@
     campaign: -54
     title: 35-N3 小步舞曲
     start: -54-N-3
+    story_playback_sub_id: 6
+    background_code: 2021white_Bar
   }
   {
     id: 1062
@@ -10937,6 +12545,8 @@
     campaign: -54
     title: 35-C1 裸者之舞
     start: -54-K-1
+    story_playback_sub_id: 7
+    background_code: 2022winter_RedAreab
   }
   {
     id: 1063
@@ -10946,6 +12556,8 @@
     campaign: -54
     title: 35-C2 月亮河
     start: -54-K-2
+    story_playback_sub_id: 7
+    background_code: 2020white-2
   }
   {
     id: 1064
@@ -10955,6 +12567,8 @@
     campaign: -54
     title: 35-C3 星降之夜
     start: -54-K-3
+    story_playback_sub_id: 7
+    background_code: 2022winter_BlackCity
   }
   {
     id: 1065
@@ -10964,6 +12578,8 @@
     campaign: -54
     title: 35-C4 我的太陽
     start: -54-K-4
+    story_playback_sub_id: 7
+    background_code: 2021white_Safehouse
   }
   {
     id: 1066
@@ -10973,6 +12589,8 @@
     campaign: -54
     title: 35-R1 茨岡狂想曲
     start: -54-D-1
+    story_playback_sub_id: 8
+    background_code: BG-Theatre
   }
   {
     id: 1067
@@ -10982,6 +12600,8 @@
     campaign: -54
     title: 35-R2 夏日黃昏
     start: -54-D-2
+    story_playback_sub_id: 8
+    background_code: 2021summer_Office
   }
   {
     id: 1068
@@ -10991,6 +12611,8 @@
     campaign: -54
     title: 35-R3 B小調鋼琴五重奏
     start: -54-D-3
+    story_playback_sub_id: 8
+    background_code: 2020summerOrphanage
   }
   {
     id: 1069
@@ -11000,6 +12622,8 @@
     campaign: -54
     title: 35-R4 F小調鋼琴協奏曲
     start: -54-D-4
+    story_playback_sub_id: 8
+    background_code: 2022summer_Doctor_b
   }
   {
     id: 1070
@@ -11009,6 +12633,8 @@
     campaign: -54
     title: 35-P1小星星變奏曲
     start: -54-P-1
+    story_playback_sub_id: 9
+    background_code: 2022winter_Ruins
   }
   {
     id: 1071
@@ -11018,6 +12644,8 @@
     campaign: -54
     title: 35-P2 死神與少女
     start: -54-P-2
+    story_playback_sub_id: 9
+    background_code: 2022winter_WilliamRoom
   }
   {
     id: 1072
@@ -11027,6 +12655,8 @@
     campaign: -54
     title: 35-P3 愛的贊禮
     start: -54-P-3
+    story_playback_sub_id: 9
+    background_code: BG-Slum
   }
   {
     id: 1073
@@ -11036,6 +12666,8 @@
     campaign: -54
     title: 36 光之聲
     start: -54-A-15
+    story_playback_sub_id: 1
+    background_code: 2021white_GriffinSPAWAR
   }
   {
     id: 1074
@@ -11081,6 +12713,8 @@
     campaign: -56
     title: 長週期攝動
     start: -56-1-A
+    story_playback_sub_id: 1
+    background_code: 2022saros_Workshop
   }
   {
     id: 1080
@@ -11090,6 +12724,8 @@
     campaign: -56
     title: 短週期攝動
     start: -56-1-B
+    story_playback_sub_id: 1
+    background_code: 2022saros_MessyKitchen
   }
   {
     id: 1081
@@ -11099,6 +12735,8 @@
     campaign: -56
     title: 黃白交角
     start: -56-2-0
+    story_playback_sub_id: 1
+    background_code: 2021summer_Corridor_Broken
   }
   {
     id: 1082
@@ -11108,6 +12746,8 @@
     campaign: -56
     title: 災變
     start: -56-4-0
+    story_playback_sub_id: 1
+    background_code: 2022saros_BeforeFatedReunion_a
   }
   {
     id: 1083
@@ -11117,6 +12757,8 @@
     campaign: -56
     title: 入凌
     start: -56-5-A
+    story_playback_sub_id: 1
+    background_code: 2021white_GriffinSPAWAR
   }
   {
     id: 1084
@@ -11126,6 +12768,8 @@
     campaign: -56
     title: 出凌
     start: -56-5-B
+    story_playback_sub_id: 1
+    background_code: 2022saros_CyberCityStreet
   }
   {
     id: 1085
@@ -11135,6 +12779,8 @@
     campaign: -56
     title: 同源
     start: -56-6-0
+    story_playback_sub_id: 1
+    background_code: 2021summer_SecurityBureau
   }
   {
     id: 1086
@@ -11144,6 +12790,8 @@
     campaign: -56
     title: 俘獲
     start: -56-8-0
+    story_playback_sub_id: 1
+    background_code: 2022saros_MansionLobby
   }
   {
     id: 1087
@@ -11153,6 +12801,8 @@
     campaign: -56
     title: 偽本影
     start: -56-9-A
+    story_playback_sub_id: 1
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1088
@@ -11162,6 +12812,8 @@
     campaign: -56
     title: 本影
     start: -56-9-B
+    story_playback_sub_id: 1
+    background_code: 2022saros_MessyKitchen
   }
   {
     id: 1089
@@ -11171,6 +12823,8 @@
     campaign: -56
     title: 金邊
     start: -56-10-0
+    story_playback_sub_id: 1
+    background_code: BG_Base
   }
   {
     id: 1090
@@ -11180,6 +12834,8 @@
     campaign: -56
     title: 星環
     start: -56-12-0
+    story_playback_sub_id: 1
+    background_code: 2022saros_DawnPhotoV2
   }
   {
     id: 1091
@@ -11189,6 +12845,8 @@
     campaign: -56
     title: 危海
     start: -56-13-A
+    story_playback_sub_id: 1
+    background_code: BG_Street
   }
   {
     id: 1092
@@ -11198,6 +12856,8 @@
     campaign: -56
     title: 靜海
     start: -56-13-B
+    story_playback_sub_id: 1
+    background_code: 2022saros_Spotlight
   }
   {
     id: 1093
@@ -11207,6 +12867,8 @@
     campaign: -56
     title: 交點月
     start: -56-14-0
+    story_playback_sub_id: 1
+    background_code: 2022saros_FlightDeck
   }
   {
     id: 1094
@@ -11216,6 +12878,8 @@
     campaign: -56
     title: 復圓
     start: -56-16-0
+    story_playback_sub_id: 1
+    background_code: 2022saros_FatedReunion
   }
   {
     id: 1095
@@ -11225,6 +12889,8 @@
     campaign: -56
     title: 外拉格朗日點
     start: -56-17-A
+    story_playback_sub_id: 1
+    background_code: 2022saros_DataBase
   }
   {
     id: 1096
@@ -11234,100 +12900,142 @@
     campaign: -56
     title: 內拉格朗日點
     start: -56-17-B
+    story_playback_sub_id: 1
+    background_code: 2022saros_DawnPhotoV1
   }
   {
     id: 1097
     mission_id: "11321"
+    description: 一次窺探未盡，便施以更重的砝碼。
+    scripts: -59-a-1-start,-59-a-1-end
     campaign: -59
     title: 初等推想
     start: -59-a-1-start
     round: 1:-59-EXT-AR1
     first: -59-a-1-end
     end: -59-a-1-end
+    story_playback_sub_id: 1
+    background_code: 2023NewYear_Office
   }
   {
     id: 1098
     mission_id: "11322"
+    description: 提問者得到的唯一答覆，是重演一遍自己的謎題。
+    scripts: -59-a-2-start,-59-a-2-end
     campaign: -59
     title: 解析推想
     start: -59-a-2-start
     first: -59-a-2-end
     end: -59-a-2-end
+    story_playback_sub_id: 1
+    background_code: 2023NewYear_Office
   }
   {
     id: 1099
     mission_id: "11323"
+    description: 當答案遲遲不現，求索者選擇將賭注推向極限。
+    scripts: -59-a-3-start,-59-a-3-end
     campaign: -59
     title: 超越推想
     start: -59-a-3-start
     first: -59-a-3-end
     end: -59-a-3-end
+    story_playback_sub_id: 1
+    background_code: 2023NewYear_Office
   }
   {
     id: 1100
     mission_id: "11324"
+    description: 當窮盡一切變量仍無果，便引入一個名為「人」的未知數。
+    scripts: -59-b-1-start,-59-b-1-end
     campaign: -59
     title: 插值分析
     start: -59-b-1-start
     round: 1:-59-b-1-point1
     first: -59-b-1-end
     end: -59-b-1-end
+    story_playback_sub_id: 1
+    background_code: 21Jashin_testroom
   }
   {
     id: 1101
     mission_id: "11325"
+    description: 默許即是認可，規則之外的勝利被賦予了繼續的資格。
+    scripts: -59-b-2-start,-59-b-2-end
     campaign: -59
     title: 誤差分析
     start: -59-b-2-start
     first: -59-b-2-end
     end: -59-b-2-end
+    story_playback_sub_id: 1
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1102
     mission_id: "11326"
+    description: 所有資料的喧囂，最終沉澱為一行結論。
+    scripts: -59-b-3-start,-59-b-3-end
     campaign: -59
     title: 趨近分析
     start: -59-b-3-start
     round: 1:-59-b-3-point1
     first: -59-b-3-end
     end: -59-b-3-end
+    story_playback_sub_id: 1
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1103
     mission_id: "11327"
+    description: 在規則的真空裡，任何行動與不行動都只是為了填滿資料的空白。
+    scripts: -59-c-1-start,-59-c-1-end
     campaign: -59
     title: 調和模擬
     start: -59-c-1-start
     first: -59-c-1-end
     end: -59-c-1-end
+    story_playback_sub_id: 1
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1104
     mission_id: "11328"
+    description: 「那就祝我們永遠不會倒下。」
+    scripts: -59-c-2-start,-59-c-2-end
     campaign: -59
     title: 實變模擬
     start: -59-c-2-start
     first: -59-c-2-end
     end: -59-c-2-end
+    story_playback_sub_id: 1
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1105
     mission_id: "11329"
+    description: 「說不定，會有奇跡發生。」
+    scripts: -59-c-3-start,-59-c-3-end
     campaign: -59
     title: 復流模擬
     start: -59-c-3-start
     first: -59-c-3-end
     end: -59-c-3-end
+    story_playback_sub_id: 1
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1106
     mission_id: "11330"
+    description: 當理性的探尋迷失於資料之海，最直接的物理干涉反而成為了最溫柔的航標。
+    scripts: -59-m-start,-59-m-end
     campaign: -59
     title: 貝葉斯決策
     start: -59-m-start
     round: 1:-59-m-point1
     first: -59-m-end
     end: -59-m-end
+    story_playback_sub_id: 1
+    background_code: 2023NewYear_Office
   }
   {
     id: 1107
@@ -11702,6 +13410,7 @@
     campaign: -58
     title: 黑色鳶尾花
     start: -58-start
+    background_code: 2023slow_Record
   }
   {
     id: 1161
@@ -11711,6 +13420,8 @@
     campaign: -58
     title: WTR 在荒野的北方
     start: -58-1-A1
+    story_playback_sub_id: 1
+    background_code: 2023slow_LectureTheatre
   }
   {
     id: 1162
@@ -11720,6 +13431,8 @@
     campaign: -58
     title: WTR 山毛櫸林Ⅰ
     start: -58-1-A2
+    story_playback_sub_id: 1
+    background_code: 2023slow_Beslan_city_Day
   }
   {
     id: 1163
@@ -11727,6 +13440,8 @@
     description: 「槍口的指向劃分了我們的陣營。」
     campaign: -58
     title: WTR 冬獵
+    story_playback_sub_id: 1
+    background_code: 无
   }
   {
     id: 1164
@@ -11736,6 +13451,8 @@
     campaign: -58
     title: WTR 鍬甲
     start: -58-1-A4
+    story_playback_sub_id: 1
+    background_code: BG-TemporaryBase
   }
   {
     id: 1165
@@ -11743,6 +13460,8 @@
     description: 「去你的立場，那是我哥！」
     campaign: -58
     title: WTR 構圖第Ⅱ號
+    story_playback_sub_id: 1
+    background_code: 无
   }
   {
     id: 1166
@@ -11752,6 +13471,8 @@
     campaign: -58
     title: WTR 雪地上的晨光
     start: -58-1-A6
+    story_playback_sub_id: 1
+    background_code: 2023slow_Teacher-Student_c
   }
   {
     id: 1167
@@ -11761,6 +13482,8 @@
     campaign: -58
     title: WTR 日落時的蓬廷沼澤
     start: -58-1-A7
+    story_playback_sub_id: 1
+    background_code: 2023slow_Teacher-Student_a
   }
   {
     id: 1168
@@ -11770,6 +13493,8 @@
     campaign: -58
     title: SPR 夜晚：紅樹
     start: -58-1-B1
+    story_playback_sub_id: 1
+    background_code: 2022winter_Town
   }
   {
     id: 1169
@@ -11777,6 +13502,8 @@
     description: 「作戰不難，我會一點點教你們。」
     campaign: -58
     title: SPR 構圖第6號
+    story_playback_sub_id: 1
+    background_code: 无
   }
   {
     id: 1170
@@ -11786,6 +13513,8 @@
     campaign: -58
     title: SPR 灰色的樹
     start: -58-1-B3
+    story_playback_sub_id: 1
+    background_code: 2023slow_DestroyPortrait_b
   }
   {
     id: 1171
@@ -11793,6 +13522,8 @@
     description: 「雪花落在戰火裡，一點痕跡都留不下。」
     campaign: -58
     title: SPR 帶紅色的構圖B
+    story_playback_sub_id: 1
+    background_code: 无
   }
   {
     id: 1172
@@ -11802,6 +13533,8 @@
     campaign: -58
     title: SPR 場景 no.1
     start: -58-1-B5
+    story_playback_sub_id: 1
+    background_code: 2022winter_NPS
   }
   {
     id: 1173
@@ -11811,6 +13544,8 @@
     campaign: -58
     title: SPR 藍胸佛法僧的翅膀
     start: -58-1-B6
+    story_playback_sub_id: 1
+    background_code: 2023slow_Laplace
   }
   {
     id: 1174
@@ -11820,6 +13555,8 @@
     campaign: -58
     title: SUM 天鵝，第九組第一號
     start: -58-1-C1
+    story_playback_sub_id: 1
+    background_code: 2023slow_TowerCorridor
   }
   {
     id: 1175
@@ -11829,6 +13566,8 @@
     campaign: -58
     title: SUM 藍色房間裡的陽光
     start: -58-1-C2
+    story_playback_sub_id: 1
+    background_code: BG_Base
   }
   {
     id: 1176
@@ -11838,6 +13577,8 @@
     campaign: -58
     title: SUM 晚禱
     start: -58-1-C3
+    story_playback_sub_id: 1
+    background_code: BG-InterrogationRoom
   }
   {
     id: 1177
@@ -11847,6 +13588,8 @@
     campaign: -58
     title: SUM 被風吹散
     start: -58-1-C4
+    story_playback_sub_id: 1
+    background_code: BG-Dorm
   }
   {
     id: 1178
@@ -11854,6 +13597,8 @@
     description: 「箭擊中了目標，離了弦。」
     campaign: -58
     title: SUM 森林中的小徑
+    story_playback_sub_id: 1
+    background_code: 无
   }
   {
     id: 1179
@@ -11863,6 +13608,8 @@
     campaign: -58
     title: SUM 金翅雀
     start: -58-1-C6
+    story_playback_sub_id: 1
+    background_code: 2023slow_LastWords_c
   }
   {
     id: 1180
@@ -11870,6 +13617,8 @@
     description: 「留一顆子彈給我，如果我們失敗了，或者……」
     campaign: -58
     title: SUM 生活是一場鬥爭
+    story_playback_sub_id: 1
+    background_code: 无
   }
   {
     id: 1181
@@ -11879,6 +13628,8 @@
     campaign: -58
     title: SUM 天鵝，第九組第六號
     start: -58-1-C8
+    story_playback_sub_id: 1
+    background_code: 2023slow_LastWords_a
   }
   {
     id: 1182
@@ -11888,6 +13639,8 @@
     campaign: -58
     title: AUT 藍色與銀色的和諧
     start: -58-1-D1
+    story_playback_sub_id: 1
+    background_code: 2023slow_RecordStore
   }
   {
     id: 1183
@@ -11897,6 +13650,8 @@
     campaign: -58
     title: AUT 屋頂上的提琴手
     start: -58-1-D2
+    story_playback_sub_id: 1
+    background_code: 2020white-2
   }
   {
     id: 1184
@@ -11905,6 +13660,8 @@
     scripts: -58-1-D3-point1
     campaign: -58
     title: AUT 死島
+    story_playback_sub_id: 1
+    background_code: BG-Wall
   }
   {
     id: 1185
@@ -11914,6 +13671,8 @@
     campaign: -58
     title: AUT 浪潮
     start: -58-1-D4
+    story_playback_sub_id: 1
+    background_code: 2022winter_BedRoom
   }
   {
     id: 1186
@@ -11923,6 +13682,8 @@
     campaign: -58
     title: AUT 藍翅膀的鐘
     start: -58-1-D5
+    story_playback_sub_id: 1
+    background_code: 2022winter_Q
   }
   {
     id: 1187
@@ -11931,6 +13692,8 @@
     scripts: -58-1-D6-point1,-58-1-D6-point2,-58-1-D6-point3,-58-1-D6-point4
     campaign: -58
     title: AUT 死亡與生命
+    story_playback_sub_id: 1
+    background_code: BG-Wall
   }
   {
     id: 1188
@@ -11940,6 +13703,8 @@
     campaign: -58
     title: AUT 頓河之夜
     start: -58-1-D7
+    story_playback_sub_id: 1
+    background_code: 2023slow_Operation_c
   }
   {
     id: 1189
@@ -11949,6 +13714,8 @@
     campaign: -58
     title: L1 生命之樹
     start: -58-2-R1
+    story_playback_sub_id: 2
+    background_code: 2022saros_SeaSurface_b
   }
   {
     id: 1190
@@ -11958,6 +13725,8 @@
     campaign: -58
     title: L2 中控室顯示器
     start: -58-2-T1
+    story_playback_sub_id: 2
+    background_code: 2021summer_SecurityBureau
   }
   {
     id: 1191
@@ -11967,6 +13736,8 @@
     campaign: -58
     title: L3 手術台
     start: -58-2-T2
+    story_playback_sub_id: 2
+    background_code: 2023slow_Operation_a
   }
   {
     id: 1192
@@ -11974,6 +13745,8 @@
     description: 「安潔，我會救你的。」
     campaign: -58
     title: L4 圓圈中的圓圈
+    story_playback_sub_id: 2
+    background_code: 无
   }
   {
     id: 1193
@@ -11983,6 +13756,8 @@
     campaign: -58
     title: L5 向右轉-向左轉
     start: -58-2-R3
+    story_playback_sub_id: 2
+    background_code: 2022winter_NitrogenTeam
   }
   {
     id: 1194
@@ -11992,6 +13767,8 @@
     campaign: -58
     title: L6 傳遞窗
     start: -58-2-T3
+    story_playback_sub_id: 2
+    background_code: 2022winter_ConfinementRoom
   }
   {
     id: 1195
@@ -12001,6 +13778,8 @@
     campaign: -58
     title: L7 淨化裝置
     start: -58-2-T4
+    story_playback_sub_id: 2
+    background_code: 2023slow_TowerCorridor
   }
   {
     id: 1196
@@ -12010,6 +13789,8 @@
     campaign: -58
     title: L8 鏡前的少女
     start: -58-2-R4
+    story_playback_sub_id: 2
+    background_code: 2023slow_BecomeHuman_d
   }
   {
     id: 1197
@@ -12019,6 +13800,8 @@
     campaign: -58
     title: F1 紅色騎士
     start: -58-3-F1
+    story_playback_sub_id: 3
+    background_code: 17xh-Networld
   }
   {
     id: 1198
@@ -12028,6 +13811,8 @@
     campaign: -58
     title: F2 霧海中的漫游者
     start: -58-3-F2
+    story_playback_sub_id: 3
+    background_code: 2022winter_base_1
   }
   {
     id: 1199
@@ -12044,6 +13829,8 @@
     campaign: -58
     title: F4 灰與黑的排列
     start: -58-3-F4
+    story_playback_sub_id: 3
+    background_code: 2022winter_base
   }
   {
     id: 1201
@@ -12053,6 +13840,8 @@
     campaign: -58
     title: F5 雕像的寓意
     start: -58-3-F5
+    story_playback_sub_id: 3
+    background_code: 2022winter_grey
   }
   {
     id: 1202
@@ -12069,6 +13858,8 @@
     campaign: -58
     title: F7 人類之子
     start: -58-3-F7
+    story_playback_sub_id: 3
+    background_code: 2022saros_DataBase
   }
   {
     id: 1204
@@ -12078,6 +13869,8 @@
     campaign: -58
     title: F8 記憶的永恆
     start: -58-3-F8
+    story_playback_sub_id: 3
+    background_code: 2022winter_tower_inside_E
   }
   {
     id: 1205
@@ -12094,6 +13887,8 @@
     campaign: -58
     title: F10 白色之上的白色
     start: -58-3-F10
+    story_playback_sub_id: 3
+    background_code: 2022winter_elevator
   }
   {
     id: 1207
@@ -12103,6 +13898,8 @@
     campaign: -58
     title: F11 穿越紅海
     start: -58-3-F11
+    story_playback_sub_id: 3
+    background_code: 2022winter_tower_inside_E
   }
   {
     id: 1208
@@ -12119,6 +13916,8 @@
     campaign: -58
     title: F13 大洪水
     start: -58-3-F13
+    story_playback_sub_id: 3
+    background_code: 2022winter_BlackArea_3
   }
   {
     id: 1210
@@ -12128,6 +13927,8 @@
     campaign: -58
     title: F14 騎士、死神與魔鬼
     start: -58-3-F14
+    story_playback_sub_id: 3
+    background_code: 2022saros_SeaSurface_b
   }
   {
     id: 1211
@@ -12144,6 +13945,8 @@
     campaign: -58
     title: F16 死與火
     start: -58-3-F16
+    story_playback_sub_id: 3
+    background_code: 2021summer_SecurityBureau
   }
   {
     id: 1213
@@ -12153,6 +13956,8 @@
     campaign: -58
     title: F17 黑色十字
     start: -58-3-F17
+    story_playback_sub_id: 3
+    background_code: 2023slow_Photo
   }
   {
     id: 1214
@@ -12169,6 +13974,8 @@
     campaign: -58
     title: F19 第十組第一號祭壇畫
     start: -58-3-F19
+    story_playback_sub_id: 3
+    background_code: 2022winter_bridge
   }
   {
     id: 1216
@@ -12178,6 +13985,8 @@
     campaign: -58
     title: F20 日落
     start: -58-3-F20
+    story_playback_sub_id: 3
+    background_code: 2023slow_TowerFall_b
   }
   {
     id: 1217
@@ -12187,6 +13996,8 @@
     campaign: -58
     title: SSE01 平台
     start: -58-S1-1
+    story_playback_sub_id: 4
+    background_code: 2022winter_base_3
   }
   {
     id: 1218
@@ -12196,6 +14007,8 @@
     campaign: -58
     title: SSE01-1 平台下方通道
     start: -58-S1-2
+    story_playback_sub_id: 4
+    background_code: BG-Sewer
   }
   {
     id: 1219
@@ -12205,6 +14018,8 @@
     campaign: -58
     title: SSE02 東塔大廳
     start: -58-S2-1
+    story_playback_sub_id: 4
+    background_code: 2022winter_tower
   }
   {
     id: 1220
@@ -12214,6 +14029,8 @@
     campaign: -58
     title: SSE02-1 東塔2層（東）
     start: -58-S2-2
+    story_playback_sub_id: 4
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1221
@@ -12223,6 +14040,8 @@
     campaign: -58
     title: SSE02-2 東塔3層（西）
     start: -58-S2-3
+    story_playback_sub_id: 4
+    background_code: 2022winter_Sickbed
   }
   {
     id: 1222
@@ -12232,6 +14051,8 @@
     campaign: -58
     title: SSE03 蜂針系統
     start: -58-S3-1
+    story_playback_sub_id: 4
+    background_code: 2022winter_tower_inside_E
   }
   {
     id: 1223
@@ -12241,6 +14062,8 @@
     campaign: -58
     title: SSE03-1 東塔32層
     start: -58-S3-2
+    story_playback_sub_id: 4
+    background_code: 2022saros_DataBase
   }
   {
     id: 1224
@@ -12250,6 +14073,8 @@
     campaign: -58
     title: SSE03-2 東塔37層
     start: -58-S3-3
+    story_playback_sub_id: 4
+    background_code: 2022winter_WilliamRoom
   }
   {
     id: 1225
@@ -12259,6 +14084,8 @@
     campaign: -58
     title: SSE03-3 東塔40層
     start: -58-S3-4
+    story_playback_sub_id: 4
+    background_code: 2022winter_Family_1
   }
   {
     id: 1226
@@ -12268,6 +14095,8 @@
     campaign: -58
     title: SSE04 遺跡試驗區
     start: -58-S4-1
+    story_playback_sub_id: 4
+    background_code: 2023slow_TowerCorridor
   }
   {
     id: 1227
@@ -12277,6 +14106,8 @@
     campaign: -58
     title: SSE04-1 控制中心
     start: -58-S4-2
+    story_playback_sub_id: 4
+    background_code: 2021summer_SecurityBureau
   }
   {
     id: 1228
@@ -12286,6 +14117,8 @@
     campaign: -58
     title: SSE04-2 模擬影像區
     start: -58-S4-3
+    story_playback_sub_id: 4
+    background_code: 2022saros_Petridish
   }
   {
     id: 1229
@@ -12295,6 +14128,8 @@
     campaign: -58
     title: SSE04-3 投射實驗區
     start: -58-S4-4
+    story_playback_sub_id: 4
+    background_code: 2020white-1
   }
   {
     id: 1230
@@ -12304,6 +14139,8 @@
     campaign: -58
     title: SSE05 手術層
     start: -58-S5
+    story_playback_sub_id: 4
+    background_code: 2023slow_Laboratory
   }
   {
     id: 1231
@@ -12313,6 +14150,8 @@
     campaign: -58
     title: SSE06 秘密走廊
     start: -58-S6
+    story_playback_sub_id: 4
+    background_code: 2022winter_bridge
   }
   {
     id: 1232
@@ -12320,6 +14159,7 @@
     campaign: -58
     title: 鹿角棕
     start: -58-EX-Final
+    background_code: 无
   }
   {
     id: 1233
@@ -12327,6 +14167,7 @@
     campaign: -58
     title: 牛骨黑
     start: -58-UX-Final
+    background_code: 无
   }
   {
     id: 1234
@@ -12343,6 +14184,8 @@
     campaign: -61
     title: 禁止餵食
     start: -61-1-1
+    story_playback_sub_id: 1
+    background_code: 2023NewYear_Office
   }
   {
     id: 1236
@@ -12352,6 +14195,8 @@
     campaign: -61
     title: 雙重保險
     start: -61-2-1
+    story_playback_sub_id: 1
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1237
@@ -12367,6 +14212,8 @@
     campaign: -61
     title: 殘局拼圖
     start: -61-3-1
+    story_playback_sub_id: 1
+    background_code: BG-Bar
   }
   {
     id: 1239
@@ -12376,6 +14223,8 @@
     campaign: -61
     title: 意識維度
     start: -61-3-2
+    story_playback_sub_id: 1
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1240
@@ -12385,6 +14234,8 @@
     campaign: -61
     title: 完美升變
     start: -61-3-3
+    story_playback_sub_id: 1
+    background_code: 2023NewYear_Office
   }
   {
     id: 1241
@@ -12394,6 +14245,8 @@
     campaign: -62
     title: 補測風雲
     start: -62-1
+    story_playback_sub_id: 1
+    background_code: BG-Corridor
   }
   {
     id: 1242
@@ -12403,6 +14256,8 @@
     campaign: -62
     title: 集結指令
     start: -62-2
+    story_playback_sub_id: 1
+    background_code: 雪地
   }
   {
     id: 1243
@@ -12412,6 +14267,8 @@
     campaign: -62
     title: 迷途生變
     start: -62-3
+    story_playback_sub_id: 1
+    background_code: 2019summer_12
   }
   {
     id: 1244
@@ -12421,6 +14278,8 @@
     campaign: -62
     title: 倖存邊際
     start: -62-4
+    story_playback_sub_id: 1
+    background_code: BG_City
   }
   {
     id: 1245
@@ -12430,6 +14289,8 @@
     campaign: -62
     title: 二次重啟
     start: -62-5
+    story_playback_sub_id: 1
+    background_code: REDNET
   }
   {
     id: 1246
@@ -12439,6 +14300,8 @@
     campaign: -62
     title: 局外洞見
     start: -62-6
+    story_playback_sub_id: 1
+    background_code: BG_Inner
   }
   {
     id: 1247
@@ -12448,6 +14311,8 @@
     campaign: -62
     title: 後進之勇
     start: -62-7
+    story_playback_sub_id: 1
+    background_code: 2019summer_12
   }
   {
     id: 1248
@@ -12457,6 +14322,8 @@
     campaign: -62
     title: 亡羊補牢
     start: -62-8
+    story_playback_sub_id: 1
+    background_code: 作战室avg
   }
   {
     id: 1249
@@ -12466,6 +14333,8 @@
     campaign: -62
     title: 黎明未至
     start: -62-9
+    story_playback_sub_id: 1
+    background_code: BG-WildBattle
   }
   {
     id: 1250
@@ -12475,6 +14344,8 @@
     campaign: -62
     title: 重修啟示錄
     start: -62-10
+    story_playback_sub_id: 1
+    background_code: 21Jashin_testroom
   }
   {
     id: 1251
@@ -12605,6 +14476,8 @@
     campaign: -68
     title: 反抗者
     start: -68-A-2
+    story_playback_sub_id: 1
+    background_code: 2023slow_TowerFall_a
   }
   {
     id: 1273
@@ -12614,6 +14487,8 @@
     campaign: -68
     title: 飛鳥
     start: -68-A-4
+    story_playback_sub_id: 1
+    background_code: 2022winter_BlackArea_1
   }
   {
     id: 1274
@@ -12623,6 +14498,8 @@
     campaign: -68
     title: 奢華、寧靜與愉悅
     start: -68-A-6
+    story_playback_sub_id: 1
+    background_code: 2020summerFlowerfield
   }
   {
     id: 1275
@@ -12632,6 +14509,8 @@
     campaign: -68
     title: 開著的窗戶
     start: -68-A-8
+    story_playback_sub_id: 1
+    background_code: 单挑
   }
   {
     id: 1276
@@ -12641,6 +14520,8 @@
     campaign: -68
     title: 紅色中的和諧
     start: -68-A-10
+    story_playback_sub_id: 1
+    background_code: 2022saros_Petridish
   }
   {
     id: 1277
@@ -12650,6 +14531,8 @@
     campaign: -68
     title: 裂縫的瓶
     start: -68-A-12
+    story_playback_sub_id: 1
+    background_code: BG-Corridor
   }
   {
     id: 1278
@@ -12659,6 +14542,8 @@
     campaign: -68
     title: 搖籃
     start: -68-A-14
+    story_playback_sub_id: 1
+    background_code: 202404_SummerGarden
   }
   {
     id: 1279
@@ -12668,6 +14553,8 @@
     campaign: -68
     title: 人造天堂
     start: -68-A-16
+    story_playback_sub_id: 1
+    background_code: 2022winter_WilliamRoom
   }
   {
     id: 1280
@@ -12677,6 +14564,8 @@
     campaign: -68
     title: 燈
     start: -68-A-18
+    story_playback_sub_id: 1
+    background_code: 2022winter_IronTeam
   }
   {
     id: 1281
@@ -12686,6 +14575,8 @@
     campaign: -68
     title: 刻字的石頭
     start: -68-A-20
+    story_playback_sub_id: 1
+    background_code: 2022summer_Garden
   }
   {
     id: 1282
@@ -12695,6 +14586,8 @@
     campaign: -68
     title: 我生，我死
     start: -68-A-22
+    story_playback_sub_id: 1
+    background_code: 2022summer_1stDeath_a
   }
   {
     id: 1283
@@ -12704,6 +14597,8 @@
     campaign: -68
     title: 一隻鳥的畫像
     start: -68-S-1
+    story_playback_sub_id: 1
+    background_code: 202404_Report
   }
   {
     id: 1284
@@ -12713,6 +14608,8 @@
     campaign: -68
     title: 國王與小鳥
     start: -68-S-2
+    story_playback_sub_id: 1
+    background_code: 202404_Report
   }
   {
     id: 1285
@@ -12722,6 +14619,8 @@
     campaign: -68
     title: 樹妖的舞蹈
     start: -68-S-3
+    story_playback_sub_id: 1
+    background_code: 202404_Report
   }
   {
     id: 1286
@@ -12731,6 +14630,8 @@
     campaign: -68
     title: 玩牌者
     start: -68-S-4
+    story_playback_sub_id: 1
+    background_code: 202404_Report
   }
   {
     id: 1287
@@ -12740,6 +14641,8 @@
     campaign: -68
     title: 廢墟之鳥
     start: -68-S-5
+    story_playback_sub_id: 1
+    background_code: 202404_Report
   }
   {
     id: 1288
@@ -12749,6 +14652,8 @@
     campaign: -68
     title: 大火之後
     start: -68-E-1
+    story_playback_sub_id: 1
+    background_code: 2022summer_Garden
   }
   {
     id: 1289
@@ -12766,6 +14671,8 @@
     campaign: -69
     title: 魔女的晚宴
     start: -69-A-2
+    story_playback_sub_id: 1
+    background_code: ABYSS_~1
   }
   {
     id: 1291
@@ -12775,6 +14682,8 @@
     campaign: -69
     title: 奇跡之地
     start: -69-A-4
+    story_playback_sub_id: 1
+    background_code: 202406_TarotWorld
   }
   {
     id: 1292
@@ -12784,6 +14693,8 @@
     campaign: -69
     title: 被刺穿的時間
     start: -69-A-6
+    story_playback_sub_id: 1
+    background_code: 202406_TarotWorld
   }
   {
     id: 1293
@@ -12793,6 +14704,8 @@
     campaign: -69
     title: 蔚藍的金色
     start: -69-A-8
+    story_playback_sub_id: 1
+    background_code: 6CG-AR15b
   }
   {
     id: 1294
@@ -12802,6 +14715,8 @@
     campaign: -69
     title: 尋找真理
     start: -69-A-10
+    story_playback_sub_id: 1
+    background_code: 202406_Maze
   }
   {
     id: 1295
@@ -12811,6 +14726,8 @@
     campaign: -69
     title: 迷失的騎師
     start: -69-A-12
+    story_playback_sub_id: 1
+    background_code: 202406_Maze
   }
   {
     id: 1296
@@ -12820,6 +14737,8 @@
     campaign: -69
     title: 謬誤之鏡
     start: -69-A-14
+    story_playback_sub_id: 1
+    background_code: 202406_Maze
   }
   {
     id: 1297
@@ -12829,6 +14748,8 @@
     campaign: -69
     title: 候鳥
     start: -69-A-16
+    story_playback_sub_id: 1
+    background_code: 202406_DarknessGarden
   }
   {
     id: 1298
@@ -12838,6 +14759,8 @@
     campaign: -69
     title: 丑角的狂歡
     start: -69-A-18
+    story_playback_sub_id: 1
+    background_code: 202406_DarknessGarden
   }
   {
     id: 1299
@@ -12847,6 +14770,8 @@
     campaign: -69
     title: 空白簽名
     start: -69-A-20
+    story_playback_sub_id: 1
+    background_code: 202406_DarknessGarden
   }
   {
     id: 1300
@@ -12856,6 +14781,8 @@
     campaign: -69
     title: 眠
     start: -69-A-22
+    story_playback_sub_id: 1
+    background_code: CG10-1-2
   }
   {
     id: 1301
@@ -12865,6 +14792,8 @@
     campaign: -69
     title: 世界的誕生
     start: -69-A-24
+    story_playback_sub_id: 1
+    background_code: 202406_ARTeam_c
   }
   {
     id: 1302
@@ -12874,6 +14803,8 @@
     campaign: -69
     title: 叨忒碎片Ⅰ
     start: -69-S-1
+    story_playback_sub_id: 2
+    background_code: 2022saros_Spotlight
   }
   {
     id: 1303
@@ -12883,6 +14814,8 @@
     campaign: -69
     title: 叨忒碎片Ⅱ
     start: -69-S-2
+    story_playback_sub_id: 2
+    background_code: 2022saros_Spotlight
   }
   {
     id: 1304
@@ -12892,6 +14825,8 @@
     campaign: -69
     title: 叨忒碎片Ⅲ
     start: -69-S-3
+    story_playback_sub_id: 2
+    background_code: 2022saros_Spotlight
   }
   {
     id: 1305
@@ -12901,6 +14836,8 @@
     campaign: -69
     title: 叨忒碎片Ⅳ
     start: -69-S-4
+    story_playback_sub_id: 2
+    background_code: 2022saros_Spotlight
   }
   {
     id: 1306
@@ -12910,6 +14847,8 @@
     campaign: -69
     title: 叨忒碎片Ⅴ
     start: -69-S-5
+    story_playback_sub_id: 2
+    background_code: 2022saros_Spotlight
   }
   {
     id: 1307
@@ -12919,6 +14858,8 @@
     campaign: -69
     title: 環形命運
     start: -69-E-1
+    story_playback_sub_id: 1
+    background_code: 2022winter_16vs16_b
   }
   {
     id: 1308
@@ -12928,6 +14869,8 @@
     campaign: -70
     title: 一個冬天的童話
     start: -70-A-2
+    story_playback_sub_id: 1
+    background_code: 202407_Car_c
   }
   {
     id: 1309
@@ -12937,6 +14880,8 @@
     campaign: -70
     title: 雙影人
     start: -70-A-4
+    story_playback_sub_id: 1
+    background_code: 202407_Opera_a
   }
   {
     id: 1310
@@ -12946,6 +14891,8 @@
     campaign: -70
     title: 暴虐的探戈
     start: -70-A-6
+    story_playback_sub_id: 1
+    background_code: 202407_Bridge_Near_b
   }
   {
     id: 1311
@@ -12955,6 +14902,8 @@
     campaign: -70
     title: 暗蝕
     start: -70-A-8
+    story_playback_sub_id: 1
+    background_code: 2022saros_DataBase
   }
   {
     id: 1312
@@ -12964,6 +14913,8 @@
     campaign: -70
     title: 漂泊的靈魂
     start: -70-A-10
+    story_playback_sub_id: 1
+    background_code: 202407_DRF_a
   }
   {
     id: 1313
@@ -12973,6 +14924,8 @@
     campaign: -70
     title: 狐狸那時已是獵人
     start: -70-A-12
+    story_playback_sub_id: 1
+    background_code: 202407_ComputerLab
   }
   {
     id: 1314
@@ -12982,6 +14935,8 @@
     campaign: -70
     title: 玻璃球遊戲
     start: -70-A-14
+    story_playback_sub_id: 1
+    background_code: BG-Wedding
   }
   {
     id: 1315
@@ -12991,6 +14946,8 @@
     campaign: -70
     title: 最後的恩賜
     start: -70-A-16
+    story_playback_sub_id: 1
+    background_code: BG-Theatre
   }
   {
     id: 1316
@@ -13000,6 +14957,8 @@
     campaign: -70
     title: 蒼白聲部
     start: -70-A-18
+    story_playback_sub_id: 1
+    background_code: 202407_Embla
   }
   {
     id: 1317
@@ -13009,6 +14968,8 @@
     campaign: -70
     title: 霧角
     start: -70-A-20
+    story_playback_sub_id: 1
+    background_code: 202407_Embla
   }
   {
     id: 1318
@@ -13018,6 +14979,8 @@
     campaign: -70
     title: 時間的眼睛
     start: -70-A-22
+    story_playback_sub_id: 1
+    background_code: 202407_TaskForceDEFY_a
   }
   {
     id: 1319
@@ -13027,6 +14990,8 @@
     campaign: -70
     title: 荒原狼
     start: -70-E-1
+    story_playback_sub_id: 1
+    background_code: 2022winter_Office
   }
   {
     id: 1320
@@ -13036,6 +15001,8 @@
     campaign: -70
     title: 飛行員之死Ⅰ
     start: -70-S-1
+    story_playback_sub_id: 2
+    background_code: 202407_Shaw
   }
   {
     id: 1321
@@ -13045,6 +15012,8 @@
     campaign: -70
     title: 飛行員之死Ⅱ
     start: -70-S-2
+    story_playback_sub_id: 2
+    background_code: BG-DinnerNoMan
   }
   {
     id: 1322
@@ -13054,6 +15023,8 @@
     campaign: -70
     title: 飛行員之死Ⅲ
     start: -70-S-3
+    story_playback_sub_id: 2
+    background_code: 202407_Shaw
   }
   {
     id: 1323
@@ -13063,6 +15034,8 @@
     campaign: -70
     title: 飛行員之死Ⅳ
     start: -70-S-4
+    story_playback_sub_id: 2
+    background_code: 202407_Shaw
   }
   {
     id: 1324
@@ -13072,6 +15045,8 @@
     campaign: -70
     title: 飛行員之死Ⅴ
     start: -70-S-5
+    story_playback_sub_id: 2
+    background_code: 202407_Shaw
   }
   {
     id: 1325
@@ -13081,6 +15056,8 @@
     campaign: -52
     title: 藥與毒之歌
     start: -52-e-1
+    story_playback_sub_id: 1
+    background_code: BG-Grass
   }
   {
     id: 1326
@@ -13090,6 +15067,8 @@
     campaign: -52
     title: 長夜靜候
     start: -52-e-2
+    story_playback_sub_id: 1
+    background_code: BG-Beach
   }
   {
     id: 1327
@@ -13099,6 +15078,8 @@
     campaign: -52
     title: 甜蜜晚宴
     start: -52-e-3
+    story_playback_sub_id: 1
+    background_code: BG-BeachNight
   }
   {
     id: 1328
@@ -13108,6 +15089,8 @@
     campaign: -71
     title: 潮土油
     start: -71-A-2
+    story_playback_sub_id: 1
+    background_code: 202408_Wiesbaden_Street_b
   }
   {
     id: 1329
@@ -13117,6 +15100,8 @@
     campaign: -71
     title: 映射時間
     start: -71-A-4
+    story_playback_sub_id: 1
+    background_code: 202408_Room
   }
   {
     id: 1330
@@ -13126,6 +15111,8 @@
     campaign: -71
     title: 黑暗河流
     start: -71-A-6
+    story_playback_sub_id: 1
+    background_code: BG-Sewer
   }
   {
     id: 1331
@@ -13135,6 +15122,8 @@
     campaign: -71
     title: 勾勒陰影的線條
     start: -71-A-8
+    story_playback_sub_id: 1
+    background_code: 树林
   }
   {
     id: 1332
@@ -13144,6 +15133,8 @@
     campaign: -71
     title: 輕如羽毛Ⅰ
     start: -71-S-1
+    story_playback_sub_id: 2
+    background_code: 2022saros_SeaSurface_b
   }
   {
     id: 1333
@@ -13153,6 +15144,8 @@
     campaign: -71
     title: 跋涉
     start: -71-A-10
+    story_playback_sub_id: 1
+    background_code: 202408_HighWay_c
   }
   {
     id: 1334
@@ -13162,6 +15155,8 @@
     campaign: -71
     title: 雙重曝光
     start: -71-A-12
+    story_playback_sub_id: 1
+    background_code: 202408_HighWay_a
   }
   {
     id: 1335
@@ -13171,6 +15166,8 @@
     campaign: -71
     title: 輕如羽毛Ⅱ
     start: -71-S-2
+    story_playback_sub_id: 2
+    background_code: 19winter_inbg_2
   }
   {
     id: 1336
@@ -13180,6 +15177,8 @@
     campaign: -71
     title: 迷失於渾沌
     start: -71-A-14
+    story_playback_sub_id: 1
+    background_code: 202408_Mainz_Street_a
   }
   {
     id: 1337
@@ -13189,6 +15188,8 @@
     campaign: -71
     title: 美麗的孤獨
     start: -71-A-16
+    story_playback_sub_id: 1
+    background_code: gunCGlake
   }
   {
     id: 1338
@@ -13198,6 +15199,8 @@
     campaign: -71
     title: 霧起
     start: -71-A-18
+    story_playback_sub_id: 1
+    background_code: 2021summer_SecurityBureau
   }
   {
     id: 1339
@@ -13207,6 +15210,8 @@
     campaign: -71
     title: 輕如羽毛Ⅲ
     start: -71-S-3
+    story_playback_sub_id: 2
+    background_code: 202408_Lab
   }
   {
     id: 1340
@@ -13216,6 +15221,8 @@
     campaign: -71
     title: 凝視光
     start: -71-A-20
+    story_playback_sub_id: 1
+    background_code: 202408_Whitezone_Street
   }
   {
     id: 1341
@@ -13225,6 +15232,8 @@
     campaign: -71
     title: 褪成黑色
     start: -71-A-22
+    story_playback_sub_id: 1
+    background_code: 2022saros_DataBase
   }
   {
     id: 1342
@@ -13234,6 +15243,8 @@
     campaign: -71
     title: 輕如羽毛Ⅳ
     start: -71-S-4
+    story_playback_sub_id: 2
+    background_code: 2021summer_Room
   }
   {
     id: 1343
@@ -13243,6 +15254,8 @@
     campaign: -71
     title: 我們的戰爭
     start: -71-A-24
+    story_playback_sub_id: 1
+    background_code: WHITENET
   }
   {
     id: 1344
@@ -13252,6 +15265,8 @@
     campaign: -71
     title: 無處可藏
     start: -71-A-26
+    story_playback_sub_id: 1
+    background_code: 202408_Whitezone_Street
   }
   {
     id: 1345
@@ -13261,6 +15276,8 @@
     campaign: -71
     title: 輕如羽毛Ⅴ
     start: -71-S-5
+    story_playback_sub_id: 2
+    background_code: 2022winter_Sickbed
   }
   {
     id: 1346
@@ -13270,6 +15287,8 @@
     campaign: -71
     title: 蜷縮的肖像
     start: -71-A-28
+    story_playback_sub_id: 1
+    background_code: 202408_HK-416_c
   }
   {
     id: 1347
@@ -13279,6 +15298,8 @@
     campaign: -71
     title: 破裂
     start: -71-A-30
+    story_playback_sub_id: 1
+    background_code: 2021white_Safehouse
   }
   {
     id: 1348
@@ -13288,6 +15309,8 @@
     campaign: -72
     title: 凋亡序曲
     start: -72-A-2
+    story_playback_sub_id: 1
+    background_code: 2023slow_LectureTheatre
   }
   {
     id: 1349
@@ -13297,6 +15320,8 @@
     campaign: -72
     title: 骷髏一般的秘密
     start: -72-A-4
+    story_playback_sub_id: 1
+    background_code: 2022winter_Office
   }
   {
     id: 1350
@@ -13306,6 +15331,8 @@
     campaign: -72
     title: 忿怒之果
     start: -72-A-6
+    story_playback_sub_id: 1
+    background_code: 202410_Styx
   }
   {
     id: 1351
@@ -13315,6 +15342,8 @@
     campaign: -72
     title: 碧綠色的寂靜
     start: -72-A-8
+    story_playback_sub_id: 1
+    background_code: 2022winter_BedRoom
   }
   {
     id: 1352
@@ -13324,6 +15353,8 @@
     campaign: -72
     title: 時間廢墟
     start: -72-A-10
+    story_playback_sub_id: 1
+    background_code: 2023slow_RecordStore
   }
   {
     id: 1353
@@ -13333,6 +15364,8 @@
     campaign: -72
     title: 黑房間
     start: -72-A-12
+    story_playback_sub_id: 1
+    background_code: 2021summer_Street
   }
   {
     id: 1354
@@ -13342,6 +15375,8 @@
     campaign: -72
     title: 夜的肉體擱淺在歧路
     start: -72-A-14
+    story_playback_sub_id: 1
+    background_code: 202407_Institute
   }
   {
     id: 1355
@@ -13351,6 +15386,8 @@
     campaign: -72
     title: 荒野在我身邊醒來
     start: -72-A-16
+    story_playback_sub_id: 1
+    background_code: 202404_ELMO_Frankfurt
   }
   {
     id: 1356
@@ -13360,6 +15397,8 @@
     campaign: -72
     title: 死亡王國的火
     start: -72-A-18
+    story_playback_sub_id: 1
+    background_code: 202408_Lab
   }
   {
     id: 1357
@@ -13369,6 +15408,8 @@
     campaign: -72
     title: 被蒼白撲打
     start: -72-A-20
+    story_playback_sub_id: 1
+    background_code: 19winter_lab
   }
   {
     id: 1358
@@ -13378,6 +15419,8 @@
     campaign: -72
     title: 迷路的血跡
     start: -72-A-22
+    story_playback_sub_id: 1
+    background_code: 202410_SCAR-H
   }
   {
     id: 1359
@@ -13387,6 +15430,8 @@
     campaign: -72
     title: 她在時間的盡頭
     start: -72-A-24
+    story_playback_sub_id: 1
+    background_code: BG-Fortress
   }
   {
     id: 1360
@@ -13396,6 +15441,8 @@
     campaign: -72
     title: 生者保守秘密
     start: -72-A-26
+    story_playback_sub_id: 1
+    background_code: 202410_IndustrialPark
   }
   {
     id: 1361
@@ -13405,6 +15452,8 @@
     campaign: -72
     title: 世界一片寂靜
     start: -72-A-28
+    story_playback_sub_id: 1
+    background_code: 202410_News
   }
   {
     id: 1362
@@ -13414,6 +15463,8 @@
     campaign: -72
     title: 未曾綻放的一生Ⅰ
     start: -72-S-1
+    story_playback_sub_id: 2
+    background_code: 202410_Sana_a
   }
   {
     id: 1363
@@ -13423,6 +15474,8 @@
     campaign: -72
     title: 未曾綻放的一生Ⅱ
     start: -72-S-2
+    story_playback_sub_id: 2
+    background_code: 2020summerOffice
   }
   {
     id: 1364
@@ -13432,6 +15485,8 @@
     campaign: -72
     title: 未曾綻放的一生Ⅲ
     start: -72-S-3
+    story_playback_sub_id: 2
+    background_code: 2022winter_Study
   }
   {
     id: 1365
@@ -13441,6 +15496,8 @@
     campaign: -72
     title: 未曾綻放的一生Ⅳ
     start: -72-S-4
+    story_playback_sub_id: 2
+    background_code: BG-Kitchen
   }
   {
     id: 1366
@@ -13450,6 +15507,8 @@
     campaign: -72
     title: 未曾綻放的一生Ⅴ
     start: -72-S-5
+    story_playback_sub_id: 2
+    background_code: 2023slow_Beslan_city_Day
   }
   {
     id: 1367
@@ -13601,16 +15660,24 @@
   {
     id: 1388
     mission_id: "11881"
+    description: 一場精心設計的博弈終局，因一個遠比遊戲虛構更沉重的個人秘密被揭開，而化為一場失序的狂歡。
+    scripts: -52-e-4
     campaign: -52
     title: 純真筆尖
     start: -52-e-4
+    story_playback_sub_id: 1
+    background_code: BG-BeachNight
   }
   {
     id: 1389
     mission_id: "11882"
+    description: 一個集體通過一場精心編排的幻影盛宴，將一位傲慢勝者的獨享榮耀，重塑為一場關于謙遜的集體規訓。
+    scripts: -52-e-5
     campaign: -52
     title: 美夢捕網
     start: -52-e-5
+    story_playback_sub_id: 1
+    background_code: BG-BeachNight
   }
   {
     id: 1390
@@ -13620,6 +15687,8 @@
     campaign: -74
     title: 燃燒的苦海
     start: -74-A-0
+    story_playback_sub_id: 1
+    background_code: BG_Base
   }
   {
     id: 1391
@@ -13629,6 +15698,8 @@
     campaign: -74
     title: 如焚風呼嘯
     start: -74-A-2
+    story_playback_sub_id: 1
+    background_code: 202412_Aerialview_b
   }
   {
     id: 1392
@@ -13638,6 +15709,8 @@
     campaign: -74
     title: 寂靜的褶皺
     start: -74-A-4
+    story_playback_sub_id: 1
+    background_code: 202412_Metro
   }
   {
     id: 1393
@@ -13647,6 +15720,8 @@
     campaign: -74
     title: 徒然之路
     start: -74-A-6
+    story_playback_sub_id: 1
+    background_code: 202408_Room_c
   }
   {
     id: 1394
@@ -13656,6 +15731,8 @@
     campaign: -74
     title: 潰敗的悲傷騎士
     start: -74-A-8
+    story_playback_sub_id: 1
+    background_code: 202412_Nemhran
   }
   {
     id: 1395
@@ -13665,6 +15742,8 @@
     campaign: -74
     title: 不會停歇的雨
     start: -74-A-10
+    story_playback_sub_id: 1
+    background_code: 2022saros_Corridor
   }
   {
     id: 1396
@@ -13674,6 +15753,8 @@
     campaign: -74
     title: 為你舉起火把
     start: -74-A-12
+    story_playback_sub_id: 1
+    background_code: 2022winter_Ruins
   }
   {
     id: 1397
@@ -13683,6 +15764,8 @@
     campaign: -74
     title: 被遺忘的誓言
     start: -74-A-14
+    story_playback_sub_id: 1
+    background_code: CG4N
   }
   {
     id: 1398
@@ -13692,6 +15775,8 @@
     campaign: -74
     title: 通向新世界
     start: -74-A-16
+    story_playback_sub_id: 1
+    background_code: 202412_City
   }
   {
     id: 1399
@@ -13701,6 +15786,8 @@
     campaign: -74
     title: 長夜攪動著荒蕪
     start: -74-A-18
+    story_playback_sub_id: 1
+    background_code: 202412_HighWay_a
   }
   {
     id: 1400
@@ -13710,6 +15797,8 @@
     campaign: -74
     title: 洞穿時光之牆
     start: -74-A-20
+    story_playback_sub_id: 1
+    background_code: 主界面背景
   }
   {
     id: 1401
@@ -13719,6 +15808,8 @@
     campaign: -74
     title: 岸邊的沙與海水
     start: -74-A-22
+    story_playback_sub_id: 1
+    background_code: BG-Wall
   }
   {
     id: 1402
@@ -13728,6 +15819,8 @@
     campaign: -74
     title: 一個勇敢的人
     start: -74-A-24
+    story_playback_sub_id: 1
+    background_code: 202412_Gutenberg
   }
   {
     id: 1403
@@ -13737,6 +15830,8 @@
     campaign: -74
     title: 啃噬樹根的惡龍
     start: -74-A-26
+    story_playback_sub_id: 1
+    background_code: 202412_Solidarity_f
   }
   {
     id: 1404
@@ -13746,6 +15841,8 @@
     campaign: -74
     title: 字句之外世界冰冷
     start: -74-A-28
+    story_playback_sub_id: 1
+    background_code: 202412_CityHall
   }
   {
     id: 1405
@@ -13755,6 +15852,8 @@
     campaign: -74
     title: 紅色的穿透
     start: -74-A-30
+    story_playback_sub_id: 1
+    background_code: 2022saros_MansionLobby
   }
   {
     id: 1406
@@ -13764,6 +15863,8 @@
     campaign: -74
     title: 孤獨靈魂的禱告
     start: -74-A-32
+    story_playback_sub_id: 1
+    background_code: 202410_Nele_a
   }
   {
     id: 1407
@@ -13773,6 +15874,8 @@
     campaign: -74
     title: 在荒涼世界燃燒的火
     start: -74-A-34
+    story_playback_sub_id: 1
+    background_code: 2021summer_J&nele1
   }
   {
     id: 1408
@@ -13782,6 +15885,8 @@
     campaign: -74
     title: 最後的落子
     start: -74-A-36
+    story_playback_sub_id: 1
+    background_code: 202412_Laboratory
   }
   {
     id: 1409
@@ -13791,6 +15896,8 @@
     campaign: -74
     title: 捍衛之歌
     start: -74-A-38
+    story_playback_sub_id: 1
+    background_code: 202412_Lunasia_b
   }
   {
     id: 1410
@@ -13800,6 +15907,8 @@
     campaign: -74
     title: 你一生的故事Ⅰ
     start: -74-S-1
+    story_playback_sub_id: 2
+    background_code: 202412_Moscow_a
   }
   {
     id: 1411
@@ -13809,6 +15918,8 @@
     campaign: -74
     title: 你一生的故事Ⅱ
     start: -74-S-2
+    story_playback_sub_id: 2
+    background_code: 202412_Moscow_a
   }
   {
     id: 1412
@@ -13818,6 +15929,8 @@
     campaign: -74
     title: 你一生的故事Ⅲ
     start: -74-S-3
+    story_playback_sub_id: 2
+    background_code: 202412_Moscow_a
   }
   {
     id: 1413
@@ -13827,6 +15940,8 @@
     campaign: -74
     title: 你一生的故事Ⅳ
     start: -74-S-4
+    story_playback_sub_id: 2
+    background_code: 202412_Moscow_a
   }
   {
     id: 1414
@@ -13836,6 +15951,8 @@
     campaign: -74
     title: 你一生的故事Ⅴ
     start: -74-S-5
+    story_playback_sub_id: 2
+    background_code: 202412_Moscow_a
   }
   {
     id: 1415
@@ -13845,6 +15962,8 @@
     campaign: -74
     title: 你一生的故事Ⅵ
     start: -74-S-6
+    story_playback_sub_id: 2
+    background_code: 202412_Moscow_a
   }
   {
     id: 1416
@@ -13854,6 +15973,8 @@
     campaign: -74
     title: 你一生的故事Ⅶ
     start: -74-S-7
+    story_playback_sub_id: 2
+    background_code: 202412_Moscow_a
   }
   {
     id: 1417
@@ -13863,6 +15984,8 @@
     campaign: -75
     title: 托卡列夫的回憶Ⅰ
     start: -75-A-2
+    story_playback_sub_id: 1
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1418
@@ -13872,6 +15995,8 @@
     campaign: -75
     title: IOP-分部
     start: -75-A-4
+    story_playback_sub_id: 1
+    background_code: 2022saros_DataBase
   }
   {
     id: 1419
@@ -13881,6 +16006,8 @@
     campaign: -75
     title: 法蘭克福
     start: -75-A-6
+    story_playback_sub_id: 1
+    background_code: 202407_Car_b
   }
   {
     id: 1420
@@ -13890,6 +16017,8 @@
     campaign: -75
     title: 托卡列夫的回憶Ⅱ
     start: -75-A-8
+    story_playback_sub_id: 2
+    background_code: BG-Theatre
   }
   {
     id: 1421
@@ -13899,6 +16028,8 @@
     campaign: -75
     title: 艾莫號
     start: -75-A-10
+    story_playback_sub_id: 2
+    background_code: 202404_ELMO_Frankfurt
   }
   {
     id: 1422
@@ -13908,6 +16039,8 @@
     campaign: -75
     title: 白區入口
     start: -75-A-12
+    story_playback_sub_id: 3
+    background_code: 202407_StasiBuilding
   }
   {
     id: 1423
@@ -13917,6 +16050,8 @@
     campaign: -75
     title: 白區
     start: -75-A-14
+    story_playback_sub_id: 3
+    background_code: 202412_CityHall
   }
   {
     id: 1424
@@ -13926,6 +16061,8 @@
     campaign: -75
     title: 白區 爆炸現場
     start: -75-A-16
+    story_playback_sub_id: 3
+    background_code: 202505_Kalina_b
   }
   {
     id: 1425
@@ -13935,6 +16072,8 @@
     campaign: -75
     title: 托卡列夫的回憶Ⅲ
     start: -75-A-18
+    story_playback_sub_id: 4
+    background_code: 17xh-ShootingRange
   }
   {
     id: 1426
@@ -13944,6 +16083,8 @@
     campaign: -75
     title: 白區 醫院
     start: -75-A-20
+    story_playback_sub_id: 4
+    background_code: 202407_Institute_b
   }
   {
     id: 1427
@@ -13953,6 +16094,8 @@
     campaign: -75
     title: 白區 中央醫院
     start: -75-A-22
+    story_playback_sub_id: 5
+    background_code: 202412_Hospital_b
   }
   {
     id: 1428
@@ -13962,6 +16105,8 @@
     campaign: -75
     title: 托卡列夫的回憶Ⅳ
     start: -75-A-24
+    story_playback_sub_id: 5
+    background_code: 2024AB_Room
   }
   {
     id: 1429
@@ -13971,6 +16116,8 @@
     campaign: -75
     title: 白區 法蘭克福
     start: -75-A-26
+    story_playback_sub_id: 6
+    background_code: 202412_Gutenberg
   }
   {
     id: 1430
@@ -13980,6 +16127,8 @@
     campaign: -75
     title: 白區 廢棄運輸站
     start: -75-A-28
+    story_playback_sub_id: 6
+    background_code: 202410_Warehouse
   }
   {
     id: 1431
@@ -13989,6 +16138,8 @@
     campaign: -75
     title: 白區 廢棄地鐵站網路
     start: -75-A-30
+    story_playback_sub_id: 6
+    background_code: 202407_Passageway_c
   }
   {
     id: 1432
@@ -13998,6 +16149,8 @@
     campaign: -75
     title: 白區 廢棄地鐵站網路 終段
     start: -75-A-32
+    story_playback_sub_id: 6
+    background_code: 202505_Kalina_a
   }
   {
     id: 1433
@@ -14007,6 +16160,8 @@
     campaign: -75
     title: 奇點
     start: -75-A-34
+    story_playback_sub_id: 7
+    background_code: 2022winter_Tunnel
   }
   {
     id: 1434
@@ -14016,6 +16171,8 @@
     campaign: -76
     title: 灰燼天堂
     start: -76-A-2
+    story_playback_sub_id: 1
+    background_code: 2024AB_Operating_Room
   }
   {
     id: 1435
@@ -14025,6 +16182,8 @@
     campaign: -76
     title: 魔鬼的初誕
     start: -76-A-4
+    story_playback_sub_id: 1
+    background_code: 202408_Lab
   }
   {
     id: 1436
@@ -14034,6 +16193,8 @@
     campaign: -76
     title: 真相
     start: -76-A-6
+    story_playback_sub_id: 1
+    background_code: 202412_Gutenberg
   }
   {
     id: 1437
@@ -14043,6 +16204,8 @@
     campaign: -76
     title: 女神的回聲
     start: -76-A-8
+    story_playback_sub_id: 1
+    background_code: 2021white_Virgin
   }
   {
     id: 1438
@@ -14052,6 +16215,8 @@
     campaign: -76
     title: 榮勳
     start: -76-A-10
+    story_playback_sub_id: 1
+    background_code: 202408_Lab
   }
   {
     id: 1439
@@ -14062,6 +16227,8 @@
     title: 血汙維納斯
     first: -76-A-12
     end: -76-A-12
+    story_playback_sub_id: 1
+    background_code: BG-Theatre
   }
   {
     id: 1440
@@ -14071,6 +16238,8 @@
     campaign: -76
     title: 王對王
     start: -76-A-14
+    story_playback_sub_id: 1
+    background_code: 2022winter_BedRoom
   }
   {
     id: 1441
@@ -14080,6 +16249,8 @@
     campaign: -76
     title: 萊辛巴赫交響曲Ⅰ
     start: -76-A-16
+    story_playback_sub_id: 1
+    background_code: 2020white-2
   }
   {
     id: 1442
@@ -14089,6 +16260,8 @@
     campaign: -76
     title: 萊辛巴赫交響曲Ⅱ
     start: -76-A-18
+    story_playback_sub_id: 1
+    background_code: 202408_Room_c
   }
   {
     id: 1443
@@ -14098,6 +16271,8 @@
     campaign: -76
     title: 棋手
     start: -76-A-20
+    story_playback_sub_id: 1
+    background_code: 2021white_Safehouse
   }
   {
     id: 1444
@@ -14105,5 +16280,229 @@
     campaign: -77
     title: 靜默沙盤
     start: -77-1-1
+    story_playback_sub_id: 1
+    background_code: 202408_Warehouse
+  }
+  {
+    id: 1445
+    mission_id: "11947"
+    description: 拯救世界之前，您需要見證——「露尼西亞的死亡」。
+    scripts: -77-A-2
+    campaign: -78
+    title: 「天上的光芒全都是星星」
+    start: -77-A-2
+    story_playback_sub_id: 1
+    background_code: 202412_Lunasia_b
+  }
+  {
+    id: 1446
+    mission_id: "11968"
+    description: 「你」會準備成千上萬個路口，而「我」永遠只會選擇那條最為幽深奇崛的道路。
+    scripts: -77-A-4
+    campaign: -78
+    title: 「新世界」
+    start: -77-A-4
+    story_playback_sub_id: 1
+    background_code: 202408_Room_c
+  }
+  {
+    id: 1447
+    mission_id: "11969"
+    description: 「一生太短，你只來得及做一位勇敢的人。」
+    scripts: -77-A-6
+    campaign: -78
+    title: 「無盡的黑暗彼方」
+    start: -77-A-6
+    story_playback_sub_id: 1
+    background_code: 202407_ComputerLab
+  }
+  {
+    id: 1448
+    mission_id: "11970"
+    description: 名為「帕拉蒂斯」的酸雨雲，總是會在汙水匯集的上空團積。
+    scripts: -77-A-8
+    campaign: -78
+    title: 「始與終的序章」
+    start: -77-A-8
+    story_playback_sub_id: 1
+    background_code: 202408_Warehouse
+  }
+  {
+    id: 1449
+    mission_id: "11971"
+    description: 如果是你的話……
+    scripts: -77-A-10
+    campaign: -78
+    title: 「THE REAL FOLKBLUES（前篇）」
+    start: -77-A-10
+    story_playback_sub_id: 1
+    background_code: 2021summer_MilitaryAirport
+  }
+  {
+    id: 1450
+    mission_id: "11972"
+    description: 戰術上勝利，無法輓回戰略上的不測。
+    scripts: -77-A-12
+    campaign: -78
+    title: 「THE REAL FOLKBLUES（後篇）」
+    start: -77-A-12
+    story_playback_sub_id: 1
+    background_code: 202509_KalinaMaid_a
+  }
+  {
+    id: 1451
+    mission_id: "11973"
+    description: 有些時候，謊言就是會被一些微小的勇氣戳開一角——希望你的勇氣，能一直閃耀下去。
+    scripts: -77-A-14
+    campaign: -78
+    title: 「青春的幻影」
+    start: -77-A-14
+    story_playback_sub_id: 2
+    background_code: 202410_News
+  }
+  {
+    id: 1452
+    mission_id: "11974"
+    description: 舊敵，末路重逢……
+    scripts: -77-A-16
+    campaign: -78
+    title: 「應許之日的到來」
+    start: -77-A-16
+    story_playback_sub_id: 2
+    background_code: 202509_Kalina
+  }
+  {
+    id: 1453
+    mission_id: "11975"
+    description: 「理想，正是這樣可怕的一把雙刃劍。」
+    scripts: -77-A-18
+    campaign: -78
+    title: 「我最好的朋友」
+    start: -77-A-18
+    story_playback_sub_id: 2
+    background_code: 202509_Nele
+  }
+  {
+    id: 1454
+    mission_id: "11976"
+    description: 我自殺算了。
+    scripts: -77-A-20
+    campaign: -78
+    title: 「挑戰者們」
+    start: -77-A-20
+    story_playback_sub_id: 3
+    background_code: 202408_Room_c
+  }
+  {
+    id: 1455
+    mission_id: "11977"
+    description: 那是你最討厭的敗局。
+    scripts: -77-A-22
+    campaign: -78
+    title: 「蝕」
+    start: -77-A-22
+    story_playback_sub_id: 3
+    background_code: 202407_ComputerLab
+  }
+  {
+    id: 1456
+    mission_id: "11978"
+    description: 「因為……你是威廉，我們的帳永遠算不完……永遠。」
+    scripts: -77-A-24
+    campaign: -78
+    title: 「Hellfire」
+    start: -77-A-24
+    story_playback_sub_id: 3
+    background_code: 202407_Passageway_b
+  }
+  {
+    id: 1457
+    mission_id: "11979"
+    description: 那一聲約定，飄在風中、落在心裡，可惜沒能長出履約的花朵。
+    scripts: -77-A-26
+    campaign: -78
+    title: 「覺醒」
+    start: -77-A-26
+    story_playback_sub_id: 3
+    background_code: 2021white_Safehouse
+  }
+  {
+    id: 1458
+    mission_id: "11980"
+    description: 久別重逢後的棋差一著，就像是甜美的毒酒——甘之如飴，卻只會帶來死亡。
+    scripts: -77-A-28
+    campaign: -78
+    title: 「初始化」
+    start: -77-A-28
+    story_playback_sub_id: 3
+    background_code: 202509_Factory
+  }
+  {
+    id: 1459
+    mission_id: "11981"
+    description: 「格雷……還好嗎？」
+    scripts: -77-A-30
+    campaign: -78
+    title: 「溫柔的再見」
+    start: -77-A-30
+    story_playback_sub_id: 3
+    background_code: 2022saros_SeaSurface_b
+  }
+  {
+    id: 1460
+    mission_id: "11982"
+    description: 「姐姐」會一次又一次地保護你，直到永遠……
+    scripts: -77-A-32
+    campaign: -78
+    title: 「來自新世界」
+    start: -77-A-32
+    story_playback_sub_id: 3
+    background_code: 202509_Inside_b
+  }
+  {
+    id: 1461
+    mission_id: "11983"
+    description: 即便是虛假的「你」，也是「我們」的一部分。
+    scripts: -77-A-34,77-4-36,77-4-38,77-4-40,77-4-42
+    campaign: -78
+    title: 「夢的盡頭」
+    start: -77-A-34
+    mid: -77-A-42
+    end: -77-A-42
+    story_playback_sub_id: 3
+    background_code: 202509_TheLast
+  }
+  {
+    id: 1462
+    mission_id: "11984"
+    description: 我等這一天很久了。
+    scripts: -77-A-44
+    campaign: -78
+    title: 「旅途的終點」
+    start: -77-A-44
+    story_playback_sub_id: 3
+    background_code: 202509_Lunasia2
+  }
+  {
+    id: 1463
+    mission_id: "11985"
+    description: 也許我們會過上全新的生活，也許我們會過得更加快樂，但絕對無可否認的是——每個人都在心裡，期待著與您重逢的那天……
+    scripts: -77-A-46
+    campaign: -78
+    title: 「完美的世界」
+    start: -77-A-46
+    story_playback_sub_id: 3
+    background_code: 202509_Girls
+  }
+  {
+    id: 1464
+    mission_id: "11986"
+    description: ……
+    scripts: -77-A-48
+    campaign: -78
+    title: 「Re;」
+    start: -77-A-48
+    story_playback_sub_id: 3
+    background_code: 202410_Nele_d
   }
 ]

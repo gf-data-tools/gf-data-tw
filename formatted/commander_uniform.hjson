@@ -3902,7 +3902,7 @@
     uniform_class: "64"
     color_normal: Commander_6440_N
     bone_name: BodyBinder1
-    scale: 0.2
+    scale: 0.16
     position: "0.020,0.070"
     color_icon_id: "961"
   }
@@ -3919,6 +3919,20 @@
     scale: 0.2
     position: "-0.045,0.272"
     color_icon_id: "962"
+  }
+  {
+    id: 6620
+    name: 開拓綠洲
+    description: 無論前路通往何處，終點是荒漠還是花田……窗外途徑的風景，就是這趟旅程帶給你的意義。
+    code: HeadAcco
+    icon: commander_6620_icon
+    type: 2
+    uniform_class: "66"
+    color_normal: Commander_6620_N
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "-0.1,0.52"
+    color_icon_id: "963"
   }
   {
     id: 9920

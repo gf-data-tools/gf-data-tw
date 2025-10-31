@@ -1703,6 +1703,10 @@ furniture-10311606,G28-躍動信號
 furniture-20311606,G28的海報
 furniture-10311608,M2HB-破曉行徵
 furniture-20311608,M2HB的海報
+furniture-10330034,SPAS-12-動感里程
+furniture-20330034,SPAS-12的海報
+furniture-10350006,M4A1-零向信標
+furniture-20350006,M4A1的海報。
 furniture-10330026,CF05-沸騰的歲月
 furniture-20330026,CF05的海報。
 furniture-10003103,睡貨精靈
