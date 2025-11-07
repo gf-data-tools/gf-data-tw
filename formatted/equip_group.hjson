@@ -577,4 +577,22 @@
     group_skill: 2:1009303
     fit_gun: "20178"
   }
+  {
+    id: 65
+    name: 凜然正義
+    des: 為VSK-94量身訂製的套裝，任何不法之徒都逃不出她的制裁。
+    code: EgroupVSK94
+    equip_unit: "474,0,354"
+    group_skill: 2:1009603
+    fit_gun: "312"
+  }
+  {
+    id: 66
+    name: 心向光明
+    des: 為利貝羅勒量身訂製的套裝，希望她可以走出昏暗的陰影，從而步入光明。
+    code: EgroupRibeyrolles
+    equip_unit: "261,0,475"
+    group_skill: 2:1009703
+    fit_gun: "20171"
+  }
 ]

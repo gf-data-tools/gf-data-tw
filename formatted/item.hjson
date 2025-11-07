@@ -17017,6 +17017,33 @@
     rank: 1
   }
   {
+    id: 2736
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season22_1
+    item_name: 桎梏殘芽 · 代號終：退相
+    introduction: 桎梏殘芽 · 代號終：退相
+    rank: 1
+  }
+  {
+    id: 2737
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season22_2
+    item_name: 玻色囚蕊 · 代號終：退相
+    introduction: 玻色囚蕊 · 代號終：退相
+    rank: 1
+  }
+  {
+    id: 2738
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season22_3
+    item_name: 永恆徒花 · 代號終：退相
+    introduction: 永恆徒花 · 代號終：退相
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -22339,6 +22366,15 @@
     id: 110079
     type: 4
     arg: "110079"
+    code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
+    id: 110080
+    type: 4
+    arg: "110080"
     code: PT
     item_name: 活動點數
     introduction: 活動點數
@@ -28250,6 +28286,17 @@
     code: Bumdle_ChristmasCoupons3
     item_name: 致臻裝扮券·聖誕
     introduction: 在倉庫中使用該裝扮券，即可從指定範圍內選擇獲得一件裝扮。
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500293
+    type: 15
+    arg: "1500293"
+    code: package_choose
+    item_name: 16Lab五星裝備自選包
+    introduction: 在倉庫中使用該自選包，即可從指定範圍內選擇獲得一件16Lab五星裝備。
     rank: 1
     sort: -1
     type_sort: 1

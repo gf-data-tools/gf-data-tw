@@ -7983,8 +7983,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: pow:700,hit:1000
+    passive_skill: "1009701"
     max_level: 10
     auto_select_id: 18078
+    group_id: "66"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -11111,9 +11113,10 @@
     powerup_part: 0.16
     exclusive_rate: 3
     bonus_type: critical_harm_rate:1000,hit:1000
-    passive_skill: "759232"
+    passive_skill: "759232,1009601"
     max_level: 10
     auto_select_id: 20064
+    group_id: "65"
     is_show: 1
     obtain_ids: "3088,3096"
     description_skill: 759232
@@ -13901,7 +13904,7 @@
     max_level: 10
     auto_select_id: 19088
     is_show: 1
-    obtain_ids: "3119"
+    obtain_ids: "3119,3096"
   }
   {
     id: 437
@@ -13968,7 +13971,7 @@
     max_level: 10
     auto_select_id: 18095
     is_show: 1
-    obtain_ids: "3125"
+    obtain_ids: "3125,3096"
     description_skill: 1004701
   }
   {
@@ -14857,7 +14860,7 @@
     bonus_type: dodge:450,pow:1000
     passive_skill: "1008101"
     max_level: 10
-    auto_select_id: 20034
+    auto_select_id: 20106
     is_show: 1
     obtain_ids: "3129"
     description_skill: 1008101
@@ -14892,7 +14895,7 @@
     bonus_type: armor:400
     passive_skill: "1008202"
     max_level: 10
-    auto_select_id: 20035
+    auto_select_id: 20107
     group_id: "61"
     is_show: 1
     obtain_ids: "3096"
@@ -15133,7 +15136,7 @@
     exclusive_rate: 3
     bonus_type: dodge:1000,armor:1000
     max_level: 10
-    auto_select_id: 20036
+    auto_select_id: 20108
     is_show: 1
     obtain_ids: "3016"
   }
@@ -15171,5 +15174,320 @@
     is_show: 1
     obtain_ids: "3131"
     description_skill: 1009501
+  }
+  {
+    id: 474
+    name: PAB亞音速彈
+    description:
+      '''
+      傷害+<pow>
+      穿甲+<armor_piercing>$VSK-94專用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "3,5"
+    armor_piercing: "115,120"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: Magazine_SP_VSK94
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "312"
+    equip_introduction: 對鋼芯做了全新的設計，硬度和準確性也都有了大幅的提高。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3
+    bonus_type: armor_piercing:1000,pow:1000
+    passive_skill: "1009602"
+    max_level: 10
+    auto_select_id: 19094
+    group_id: "65"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 475
+    name: 騎士腿甲
+    description:
+      '''
+      傷害+<pow> 命中+<hit>
+      迴避+<dodge>$利貝羅勒改型專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "10,15"
+    hit: "3,5"
+    dodge: "8,10"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_RibeyrollesMod
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "20171"
+    equip_introduction: 為了能夠站上戰場，利貝羅勒親自設計的外骨骼腿甲，裝備後似乎可以重拾失去的自信。
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:700,hit:1000,dodge:1000
+    passive_skill: "1009702"
+    max_level: 10
+    auto_select_id: 20109
+    group_id: "66"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 476
+    name: APFSDS
+    description:
+      '''
+      穿甲+<armor_piercing>
+      射速+<rate>技能增加$IWS 2000專用
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    rate: "1,3"
+    armor_piercing: "155,160"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: Magazine_SP_IWS2000
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "148"
+    equip_introduction: 專門為IWS 2000設計的尾翼穩定脫殼穿甲彈，能夠長距離穿透厚裝甲，威力十分驚人。
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3
+    bonus_type: armor_piercing:500,rate:700
+    passive_skill: "1009801"
+    max_level: 10
+    auto_select_id: 19095
+    is_show: 1
+    obtain_ids: "3132"
+    description_skill: 1009801
+  }
+  {
+    id: 477
+    name: VM護目鏡
+    description:
+      '''
+      射速<rate> 傷害+<pow>
+      暴擊機率+<critical_percent><%>技能增強$M82專用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "3,5"
+    rate: "-8,-5"
+    critical_percent: "18,25"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: Accessories_SP_M82
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "297"
+    equip_introduction: M82一直佩戴的護目鏡，如果突然和陌生人對視會立刻遮住自己的眼睛。
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: critical_percent:1000,pow:1000
+    passive_skill: "1009901"
+    max_level: 10
+    auto_select_id: 18131
+    is_show: 1
+    obtain_ids: "3137"
+    description_skill: 1009901
+  }
+  {
+    id: 478
+    name: FAL晶片
+    description:
+      '''
+      傷害+<pow> 射速+<rate>
+      暴擊傷害<critical_harm_rate><%>技能增強$FAL專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "10,12"
+    rate: "12,16"
+    critical_harm_rate: "-50,-50"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_FAL
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "106"
+    equip_introduction: 專門為FAL開發的一款高性能晶片，由FAL親自把關設計，應該不會看走眼。
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:500,rate:600
+    passive_skill: "1010001"
+    max_level: 10
+    auto_select_id: 20110
+    is_show: 1
+    obtain_ids: "3138"
+    description_skill: 1010001
+  }
+  {
+    id: 479
+    name: CM單兵裝具
+    description:
+      '''
+      彈量+<bullet_number_up> 迴避<dodge>
+      傷害+<pow>技能增強$紹沙專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "2,3"
+    dodge: "-3,-2"
+    bullet_number_up: "2,3"
+    retire_mp: 1
+    retire_ammo: 1
+    retire_mre: 1
+    retire_part: 5
+    code: Accessories_SP_ChauchatM1915
+    develop_duration: 3420
+    company: IOP
+    fit_guns: "264"
+    equip_introduction: 擴充了容量的一款單兵裝具，出任務時就算出現了冒失的情況也可以透過攜帶的大量備用道具來化解險境。
+    powerup_mp: 0.1
+    powerup_ammo: 0.1
+    powerup_mre: 0.1
+    powerup_part: 0.55
+    exclusive_rate: 3
+    bonus_type: bullet_number_up:700,pow:1000
+    passive_skill: "1010101"
+    max_level: 10
+    auto_select_id: 20111
+    is_show: 1
+    obtain_ids: "3139"
+    description_skill: 1010101
+  }
+  {
+    id: 480
+    name: NV兩腳架
+    description:
+      '''
+      換彈時間-2秒
+      暴擊傷害+<critical_harm_rate><%>技能增強$內蓋夫專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    critical_harm_rate: "6,10"
+    skill_effect: 150
+    retire_mp: 3
+    retire_ammo: 1
+    retire_mre: 1
+    retire_part: 3
+    code: TDoll_SP_NEGEV
+    develop_duration: 3540
+    company: IOP
+    fit_guns: "112"
+    equip_introduction: 專門適配內蓋夫的一款兩腳架，就算扣在槍管下方也不會降低太多射擊時的準確度，很適配內蓋夫激進的作戰風格。
+    powerup_mp: 0.1
+    powerup_ammo: 0.1
+    powerup_mre: 0.1
+    powerup_part: 0.55
+    exclusive_rate: 3
+    bonus_type: critical_harm_rate:1000
+    passive_skill: "759062,1010201"
+    max_level: 10
+    auto_select_id: 20112
+    is_show: 1
+    obtain_ids: "3140"
+    sp_description: 換彈時間-2秒
+    description_skill: 1010201
+  }
+  {
+    id: 481
+    name: MB防衛盾
+    description:
+      '''
+      命中+<hit>
+      護甲+<armor>技能增強$M590專用
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    hit: "3,5"
+    armor: "3,6"
+    retire_mp: 2
+    retire_ammo: 2
+    retire_mre: 3
+    retire_part: 3
+    code: TDoll_SP_M590
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "155"
+    equip_introduction: 為M590配備的作戰盾牌，大幅加強了防護抗彈能力。
+    powerup_mp: 0.23
+    powerup_ammo: 0.23
+    powerup_mre: 0.33
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: armor:1000,hit:1000
+    passive_skill: "1010301"
+    max_level: 10
+    auto_select_id: 20113
+    is_show: 1
+    obtain_ids: "3141"
+    description_skill: 1010301
+  }
+  {
+    id: 482
+    name: 專用增光眼鏡
+    description:
+      '''
+      彈量+<bullet_number_up>
+      命中+<hit>技能增加$KSG專用
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    hit: "3,8"
+    bullet_number_up: "2,3"
+    retire_mp: 1
+    retire_ammo: 4
+    retire_mre: 1
+    retire_part: 1
+    code: Accessories_SP_KSG
+    develop_duration: 3360
+    company: IOP
+    fit_guns: "157"
+    equip_introduction: 為KSG專門設計的增光眼鏡，可以提高光的對比度，在外出任務時能發揮很大的作用。
+    powerup_mp: 0.55
+    powerup_ammo: 0.23
+    powerup_mre: 0.23
+    powerup_part: 0.23
+    exclusive_rate: 3
+    bonus_type: bullet_number_up:700,hit:1000
+    passive_skill: "1010401"
+    max_level: 10
+    auto_select_id: 18132
+    is_show: 1
+    obtain_ids: "3142"
+    description_skill: 1010401
   }
 ]

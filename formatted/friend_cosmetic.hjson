@@ -15547,7 +15547,7 @@
   }
   {
     id: 1202
-    item_id: 2201
+    item_id: 2202
     sub_type: 2
     gem: 400
     item_ids: 508-10000
@@ -16644,7 +16644,7 @@
   }
   {
     id: 1295
-    item_id: 2294
+    item_id: 2295
     sub_type: 2
     gem: 400
     item_ids: 508-10000
@@ -16657,7 +16657,7 @@
   }
   {
     id: 1296
-    item_id: 2295
+    item_id: 2296
     sub_type: 2
     gem: 400
     item_ids: 508-10000
@@ -20864,7 +20864,7 @@
   }
   {
     id: 1650
-    item_id: 2649
+    item_id: 2650
     sub_type: 2
     gem: 150
     item_ids: 508-3750
@@ -20895,7 +20895,7 @@
   }
   {
     id: 1653
-    item_id: 2652
+    item_id: 2653
     sub_type: 2
     gem: 150
     item_ids: 508-3750
@@ -21029,7 +21029,7 @@
   }
   {
     id: 1664
-    item_id: 2663
+    item_id: 2664
     sub_type: 2
     gem: 150
     item_ids: 508-3750
@@ -21127,7 +21127,7 @@
   }
   {
     id: 1674
-    item_id: 2673
+    item_id: 2674
     sub_type: 2
     gem: 150
     item_ids: 508-3750
@@ -21293,7 +21293,7 @@
   }
   {
     id: 1689
-    item_id: 2688
+    item_id: 2689
     sub_type: 1
     gem: 200
     item_ids: 508-5000
@@ -21306,7 +21306,7 @@
   }
   {
     id: 1690
-    item_id: 2689
+    item_id: 2690
     sub_type: 2
     code: card_BattlePass_FO12
     order: 1
@@ -21436,7 +21436,7 @@
   }
   {
     id: 1703
-    item_id: 2702
+    item_id: 2703
     sub_type: 1
     gem: 80
     item_ids: 508-2000
@@ -21449,7 +21449,7 @@
   }
   {
     id: 1704
-    item_id: 2703
+    item_id: 2704
     sub_type: 2
     code: card_BattlePass_Six12
     order: 1
@@ -21457,7 +21457,7 @@
   }
   {
     id: 1705
-    item_id: 2704
+    item_id: 2705
     sub_type: 1
     code: profilePic_ChessFlight_season21_1
     order: 1
@@ -21468,7 +21468,7 @@
   }
   {
     id: 1706
-    item_id: 2705
+    item_id: 2706
     sub_type: 1
     code: profilePic_ChessFlight_season21_2
     order: 1
@@ -21479,7 +21479,7 @@
   }
   {
     id: 1707
-    item_id: 2706
+    item_id: 2707
     sub_type: 1
     code: profilePic_ChessFlight_season21_3
     order: 1
@@ -21490,7 +21490,7 @@
   }
   {
     id: 1708
-    item_id: 2707
+    item_id: 2708
     sub_type: 1
     gem: 200
     item_ids: 508-5000
@@ -21503,7 +21503,7 @@
   }
   {
     id: 1709
-    item_id: 2708
+    item_id: 2709
     sub_type: 2
     code: card_BattlePass_HK416
     order: 1
@@ -21790,6 +21790,39 @@
     rarity: 5
     skin: 50006
     filter_type: "4"
+  }
+  {
+    id: 1736
+    item_id: 2736
+    sub_type: 1
+    code: profilePic_ChessFlight_season22_1
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200008
+    logo_code: logo_flightchess_major
+  }
+  {
+    id: 1737
+    item_id: 2737
+    sub_type: 1
+    code: profilePic_ChessFlight_season22_2
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200007
+    logo_code: logo_flightchess_general
+  }
+  {
+    id: 1738
+    item_id: 2738
+    sub_type: 1
+    code: profilePic_ChessFlight_season22_3
+    order: 1
+    rarity: 5
+    filter_type: "1"
+    frame_id: 200006
+    logo_code: logo_flightchess_chief
   }
   {
     id: 2501
@@ -22388,6 +22421,15 @@
     item_id: 200058
     sub_type: 4
     code: profileFrame_BattlePass_HK416
+    order: 1
+    rarity: 5
+    filter_type: "5"
+  }
+  {
+    id: 100059
+    item_id: 200059
+    sub_type: 4
+    code: profileFrame_BattlePass_SPAS12
     order: 1
     rarity: 5
     filter_type: "5"

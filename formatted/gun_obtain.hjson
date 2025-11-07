@@ -581,6 +581,10 @@
     description: 常駐活動【縱向應變】中救援獲得
   }
   {
+    obtain_id: 431
+    description: 常駐活動【慢休克】中救援獲得
+  }
+  {
     obtain_id: 502
     description: 常駐活動【有序紊流】中限時積分模式【颶風營救】獎勵
   }
@@ -1456,5 +1460,29 @@
   {
     obtain_id: 3136
     description: 限時活動<秋意悠然行>簽到獎勵
+  }
+  {
+    obtain_id: 3137
+    description: 2026年1月簽到獎勵
+  }
+  {
+    obtain_id: 3138
+    description: 2026年2月簽到獎勵
+  }
+  {
+    obtain_id: 3139
+    description: 2026年3月簽到獎勵
+  }
+  {
+    obtain_id: 3140
+    description: 2026年4月簽到獎勵
+  }
+  {
+    obtain_id: 3141
+    description: 2026年5月簽到獎勵
+  }
+  {
+    obtain_id: 3142
+    description: 2026年6月簽到獎勵
   }
 ]

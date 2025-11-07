@@ -57502,6 +57502,281 @@
     classification_id: "1001"
   }
   {
+    id: "13400"
+    type: "8"
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 每月特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13401"
+    type: "8"
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 每月特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13402"
+    type: "8"
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 每月特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13403"
+    type: "8"
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 每月特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13404"
+    type: "8"
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 每月特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13405"
+    type: "8"
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 每月特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13406"
+    type: "8"
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 每月特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13407"
+    type: "8"
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 每月特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13408"
+    type: "8"
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 每月特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13409"
+    type: "8"
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 每月特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13410"
+    type: "8"
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: "580"
+    quota: "2002"
+    giftbag_name: 每月特惠禮包
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13411"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力定向補給
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13412"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力定向補給
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13413"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力定向補給
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13414"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力定向補給
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13415"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力定向補給
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13416"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力定向補給
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13417"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力定向補給
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13418"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力定向補給
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13419"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力定向補給
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13420"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力定向補給
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "13421"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 融合勢力定向補給
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
     id: "30001"
     type: "8"
     gift: 8611-1

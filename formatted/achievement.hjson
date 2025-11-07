@@ -18193,4 +18193,43 @@
     sort: 342
     icon_code: 更新世界锋芒
   }
+  {
+    identity: 1272
+    type: c_mission
+    count: 1
+    title: 沉默的告別
+    content: 通關常駐活動溯源回歸。
+    type_sort: 100
+    sort: 334
+    condition: "11916"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.7
+  }
+  {
+    identity: 1273
+    type: c_mission
+    count: 1
+    title: 通往新世界
+    content: 通關常駐活動虛粒子對。
+    type_sort: 100
+    sort: 334
+    condition: "11945"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.8
+  }
+  {
+    identity: 1274
+    type: c_mission
+    count: 1
+    title: 無需為何
+    content: 通關常駐活動零態潮汐。
+    type_sort: 100
+    sort: 334
+    condition: "11985"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.9
+  }
 ]

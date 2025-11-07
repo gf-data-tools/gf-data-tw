@@ -1650,14 +1650,14 @@
     start_time: 2025-11-01 00:00:00
     end_time: 2025-11-30 23:59:59
     attendance_type: "1"
-    prize_id: "13195"
+    prize_id: "13196"
   }
   {
     day: "21"
     start_time: 2025-12-01 00:00:00
     end_time: 2025-12-31 23:59:59
     attendance_type: "1"
-    prize_id: "13196"
+    prize_id: "13197"
   }
   {
     day: "21"
