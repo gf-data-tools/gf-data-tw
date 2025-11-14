@@ -600,6 +600,30 @@
     scene_name: active_202407logo
   }
   {
+    id: 53
+    campaign_id: -71
+    tag: EP.|15.4
+    order: 19
+    name: 銀染顯影
+    chapter_name: 銀染顯影
+    bg_code: active_202408
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: 活動時間:2024.08.23-09.13
+    scene_name: active_202408logo
+  }
+  {
+    id: 54
+    campaign_id: -72
+    tag: EP.|15.5
+    order: 19
+    name: 孤立叢林
+    chapter_name: 孤立叢林
+    bg_code: active_202410
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: 活動時間:2024.10.25-11.15
+    scene_name: active_202410logo
+  }
+  {
     id: 55
     campaign_id: -49
     tag: C.E.|2021

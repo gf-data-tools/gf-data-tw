@@ -350,25 +350,17 @@
   }
   {
     id: 55
-    type: 1
+    type: 2
     mission_campaign: "-71"
     event_name: 銀染顯影
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2025-05-09 10:00:00
-    end_time: 2025-05-30 10:00:00
     init_mission_id: "11730"
-    token_item_id: "100267"
   }
   {
     id: 56
-    type: 1
+    type: 2
     mission_campaign: "-72"
     event_name: 孤立叢林
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2025-06-06 10:00:00
-    end_time: 2025-06-27 10:00:00
     init_mission_id: "11762"
-    token_item_id: "100276"
   }
   {
     id: 57
