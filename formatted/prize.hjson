@@ -37651,6 +37651,892 @@
     equip_ids: "49,50,81,82,95,96,109,110,120,121"
   }
   {
+    id: 13266
+    name: 冬季採購特惠補給
+    gem: 300
+    item_ids: 41-200
+    gift: 100003-5
+    icon: Bumdle_double112017
+  }
+  {
+    id: 13267
+    name: 冬季採購超值禮包
+    gem: 80
+    item_ids: 41-80
+    gift: 100003-5
+    icon: Bumdle_double112025
+  }
+  {
+    id: 13268
+    name: 冬季誓約特惠補給
+    item_ids: 7-4
+    icon: Bumdle_double1120212
+  }
+  {
+    id: 13269
+    name: 冬季協力委託書特惠
+    item_ids: 605-20,514-500,506-1000
+    gift: 400001-500,100003-10
+    icon: Bumdle_double112021
+  }
+  {
+    id: 13270
+    name: 珍藏裝扮券·正月
+    item_ids: 1500294-1
+    icon: Bumdle_JPnewyear1
+  }
+  {
+    id: 13271
+    name: 尊享裝扮券·正月
+    item_ids: 1500295-1
+    icon: Bumdle_JPnewyear2
+  }
+  {
+    id: 13272
+    name: 致臻裝扮券·正月
+    item_ids: 1500296-1
+    icon: Bumdle_JPnewyear3
+  }
+  {
+    id: 13273
+    name: 致臻裝扮券·正月
+    gift: 2901-1,4101-1,5402-1,6701-1,7902-1,10004-1
+  }
+  {
+    id: 13274
+    name: APC556-藍月紫藤
+    gift: 10005-1
+  }
+  {
+    id: 13275
+    name: HK45-柑橘清香
+    gift: 10007-1
+  }
+  {
+    id: 13276
+    name: M1加蘭德-冬季鹿鳴
+    gift: 10008-1
+  }
+  {
+    id: 13277
+    name: C14-歲神狛使
+    gift: 10006-1
+  }
+  {
+    id: 13278
+    name: Kar98k-初午稻荷福
+    gift: 10001-1
+  }
+  {
+    id: 13279
+    name: M110-御魂四方紅
+    gift: 10002-1
+  }
+  {
+    id: 13280
+    name: PTRD-更闌燭影
+    gift: 10104-1
+  }
+  {
+    id: 13281
+    name: AS Val-蘭溪花雨
+    gift: 10106-1
+  }
+  {
+    id: 13282
+    name: PP-19-流風回雪
+    gift: 10105-1
+  }
+  {
+    id: 13283
+    name: Bren Ten-吉慶有餘
+    gift: 10107-1
+  }
+  {
+    id: 13284
+    name: SCR-阮吟霜楓
+    gift: 10102-1
+  }
+  {
+    id: 13285
+    name: SPAS-12-金福賀歲
+    gift: 10103-1
+  }
+  {
+    id: 13286
+    name: QBU-191-漫尋芳菲
+    gift: 10108-1
+  }
+  {
+    id: 13287
+    name: 珍藏裝扮券·春節
+    item_ids: 1500297-1
+    icon: Bumdle_SpringFestivalCoupons1
+  }
+  {
+    id: 13288
+    name: 尊享裝扮券·春節
+    item_ids: 1500298-1
+    icon: Bumdle_SpringFestivalCoupons2
+  }
+  {
+    id: 13289
+    name: 致臻裝扮券·春節
+    item_ids: 1500299-1
+    icon: Bumdle_SpringFestivalCoupons3
+  }
+  {
+    id: 13290
+    name: 致臻裝扮券·春節
+    gift: 405-1,1801-1,3001-1,4201-1,4202-1,5501-1,6801-1,8003-1,10101-1
+  }
+  {
+    id: 13291
+    name: G3-暗紅嫣柔
+    gift: 10209-1
+  }
+  {
+    id: 13292
+    name: G43-光影之舞
+    gift: 10210-1
+  }
+  {
+    id: 13293
+    name: HK433-夜色落入赫墨拉的窗
+    gift: 10202-1
+  }
+  {
+    id: 13294
+    name: K2-相守在花下
+    gift: 10207-1
+  }
+  {
+    id: 13295
+    name: X95-厄瑞涅的耳語
+    gift: 10205-1
+  }
+  {
+    id: 13296
+    name: Erma-月下天使淚
+    gift: 10201-1
+  }
+  {
+    id: 13297
+    name: 劉氏步槍-清音素心
+    gift: 10204-1
+  }
+  {
+    id: 13298
+    name: Saiga-12-水中茜影
+    gift: 10208-1
+  }
+  {
+    id: 13299
+    name: 珍藏裝扮券·白情
+    item_ids: 1500300-1
+    icon: Bumdle_WhiteValentineCoupons1
+  }
+  {
+    id: 13300
+    name: 尊享裝扮券·白情
+    item_ids: 1500301-1
+    icon: Bumdle_WhiteValentineCoupons2
+  }
+  {
+    id: 13301
+    name: 致臻裝扮券·白情
+    item_ids: 1500302-1
+    icon: Bumdle_WhiteValentineCoupons3
+  }
+  {
+    id: 13302
+    name: 致臻裝扮券·白情
+    gift: 604-1,1901-1,3101-1,4301-1,4302-1,5602-1,5603-1,6901-1,8101-1,10203-1
+  }
+  {
+    id: 13303
+    name: SSG3000-聖少女的祈禮
+    gift: 10505-1
+  }
+  {
+    id: 13304
+    name: ZiP .22-怦怦夜色
+    gift: 10506-1
+  }
+  {
+    id: 13305
+    name: 納甘左輪-盜術史學家
+    gift: 10507-1
+  }
+  {
+    id: 13306
+    name: MP5-直覺，名為紅色
+    gift: 10606-1
+  }
+  {
+    id: 13307
+    name: Mk23-法醫喵代克
+    gift: 10607-1
+  }
+  {
+    id: 13308
+    name: 9A-91-香檳後座馳援記
+    gift: 10605-1
+  }
+  {
+    id: 13309
+    name: APC556-躍行騎士
+    gift: 10704-1
+  }
+  {
+    id: 13310
+    name: MP41-粉碎尖兵
+    gift: 10706-1
+  }
+  {
+    id: 13311
+    name: IDW-貓咪重錘
+    gift: 10707-1
+  }
+  {
+    id: 13312
+    name: C14-幽冥曼姝
+    gift: 10907-1
+  }
+  {
+    id: 13313
+    name: Mk12-虛空駭靈
+    gift: 11006-1
+  }
+  {
+    id: 13314
+    name: 托卡列夫-濡鴉魅影
+    gift: 11007-1
+  }
+  {
+    id: 13315
+    name: 德利爾-月下魔術師
+    gift: 10504-1
+  }
+  {
+    id: 13316
+    name: P2000-甜心捕手
+    gift: 10502-1
+  }
+  {
+    id: 13317
+    name: SIG MCX-黑暗封印
+    gift: 10503-1
+  }
+  {
+    id: 13318
+    name: LAMG-珀裡克煙絲
+    gift: 10602-1
+  }
+  {
+    id: 13319
+    name: KH2002-夜訪貓頭鷹
+    gift: 10603-1
+  }
+  {
+    id: 13320
+    name: AUG SMG-淺丁香票根
+    gift: 10604-1
+  }
+  {
+    id: 13321
+    name: AUG-緋紅女王
+    gift: 10701-1
+  }
+  {
+    id: 13322
+    name: P7-神諭守護者
+    gift: 10705-1
+  }
+  {
+    id: 13323
+    name: Rhino-逆位戰車
+    gift: 10702-1
+  }
+  {
+    id: 13324
+    name: M1887-血色荊棘
+    gift: 10902-1
+  }
+  {
+    id: 13325
+    name: SPAS-15-潘神的低語
+    gift: 10903-1
+  }
+  {
+    id: 13326
+    name: HS.50-深海獄使
+    gift: 10901-1
+  }
+  {
+    id: 13327
+    name: SR-2-蝰鱗之吻
+    gift: 10904-1
+  }
+  {
+    id: 13328
+    name: 維爾德MkⅡ-垂絲傀儡謠
+    gift: 10905-1
+  }
+  {
+    id: 13329
+    name: ZB-26-魘夢萬花筒
+    gift: 11004-1
+  }
+  {
+    id: 13330
+    name: 柯爾特M1851N-豐穰安眠曲
+    gift: 11005-1
+  }
+  {
+    id: 13331
+    name: Kar98k-純白祭祀詩
+    gift: 11002-1
+  }
+  {
+    id: 13332
+    name: 博斯-獄門魔女
+    gift: 11001-1
+  }
+  {
+    id: 13333
+    name: 珍藏裝扮券·奇境幻想
+    item_ids: 1500303-1
+    icon: Bumdle_FantasyCoupons1
+  }
+  {
+    id: 13334
+    name: 尊享裝扮券·奇境幻想
+    item_ids: 1500304-1
+    icon: Bumdle_FantasyCoupons2
+  }
+  {
+    id: 13335
+    name: 致臻裝扮券·奇境幻想
+    item_ids: 1500305-1
+    icon: Bumdle_FantasyCoupons3
+  }
+  {
+    id: 13336
+    name: 致臻裝扮券·奇境幻想
+    gift: 1501-1,2301-1,3701-1,4802-1,4904-1,5702-1,6202-1,6503-1,7406-1,7407-1,7706-1,8203-1,8701-1,10501-1,10601-1,10703-1,10906-1,11003-1
+  }
+  {
+    id: 13337
+    name: 6P62-時光的樂章
+  }
+  {
+    id: 13338
+    name: M2HB-晚宴小憩時
+  }
+  {
+    id: 13339
+    name: HK21-心跳加速中
+  }
+  {
+    id: 13340
+    name: 97式-鴉雀之聲
+  }
+  {
+    id: 13341
+    name: TAC-50-楓糖香檳
+  }
+  {
+    id: 13342
+    name: Vector-片刻沉醉
+  }
+  {
+    id: 13343
+    name: ART556-狐森小夜曲
+  }
+  {
+    id: 13344
+    name: FO-12-甜蜜救援
+  }
+  {
+    id: 13345
+    name: 珍藏裝扮券·周年慶
+    item_ids: 1500306-1
+    icon: Bumdle_AnniversaryCoupons1
+  }
+  {
+    id: 13346
+    name: 尊享裝扮券·周年慶
+    item_ids: 1500307-1
+    icon: Bumdle_AnniversaryCoupons2
+  }
+  {
+    id: 13347
+    name: 致臻裝扮券·周年慶
+    item_ids: 1500308-1
+    icon: Bumdle_AnniversaryCoupons3
+  }
+  {
+    id: 13348
+    name: 致臻裝扮券·周年慶
+    gift: 805-1,2102-1,2101-1,3301-1,4501-1,4510-1,563-1,551-1,5805-1,5802-1,7101-1,7106-1,8301-1,10407-1
+  }
+  {
+    id: 13349
+    name: 珍藏裝扮券·兒童節
+    item_ids: 1500309-1
+    icon: Bumdle_ChildrenDayCoupons1
+  }
+  {
+    id: 13350
+    name: 尊享裝扮券·兒童節
+    item_ids: 1500310-1
+    icon: Bumdle_ChildrenDayCoupons2
+  }
+  {
+    id: 13351
+    name: 致臻裝扮券·兒童節
+    item_ids: 1500311-1
+    icon: Bumdle_ChildrenDayCoupons3
+  }
+  {
+    id: 13352
+    name: 珍藏裝扮券·夏日
+    item_ids: 1500312-1
+    icon: Bumdle_SummerdayCoupons1
+  }
+  {
+    id: 13353
+    name: 尊享裝扮券·夏日
+    item_ids: 1500313-1
+    icon: Bumdle_SummerdayCoupons2
+  }
+  {
+    id: 13354
+    name: 致臻裝扮券·夏日
+    item_ids: 1500314-1
+    icon: Bumdle_SummerdayCoupons3
+  }
+  {
+    id: 13355
+    name: 菲德洛夫-薄荷色的吐息
+    gift: 10305-1
+  }
+  {
+    id: 13356
+    name: PP-90-燈下安眠曲
+    gift: 10306-1
+  }
+  {
+    id: 13357
+    name: Mk48-戀愛腦締造者
+    gift: 10304-1
+  }
+  {
+    id: 13358
+    name: CZ52-驅鴉黑魔女
+    gift: 10307-1
+  }
+  {
+    id: 13359
+    name: RMB-93-莓果微醺之夜
+    gift: 10807-1
+  }
+  {
+    id: 13360
+    name: MP40-黑桃香檳
+    gift: 10808-1
+  }
+  {
+    id: 13361
+    name: 56-1式-粽香百利甜
+    gift: 10806-1
+  }
+  {
+    id: 13362
+    name: TPS-心不跳遊戲
+    gift: 10301-1
+  }
+  {
+    id: 13363
+    name: 97式霰-吐真劑濫用家
+    gift: 10303-1
+  }
+  {
+    id: 13364
+    name: JS 9-百匯馬丁尼
+    gift: 10802-1
+  }
+  {
+    id: 13365
+    name: FM24-敬金色的相遇
+    gift: 10801-1
+  }
+  {
+    id: 13366
+    name: SR-3MP-槍炮玫瑰之禮
+    gift: 10805-1
+  }
+  {
+    id: 13367
+    name: 珍藏裝扮券·都市風尚
+    item_ids: 1500315-1
+    icon: Bumdle_UrbanBeautyCoupons1
+  }
+  {
+    id: 13368
+    name: 尊享裝扮券·都市風尚
+    item_ids: 1500316-1
+    icon: Bumdle_UrbanBeautyCoupons2
+  }
+  {
+    id: 13369
+    name: 致臻裝扮券·都市風尚
+    item_ids: 1500317-1
+    icon: Bumdle_UrbanBeautyCoupons3
+  }
+  {
+    id: 13370
+    name: 致臻裝扮券·都市風尚
+    gift: 1202-1,3901-1,5201-1,6302-1,7501-1,8601-1,8610-1,10302-1,10803-1
+  }
+  {
+    id: 13371
+    name: 珍藏裝扮券·萬聖
+    item_ids: 1500318-1
+    icon: Bumdle_HalloweenCoupons1
+  }
+  {
+    id: 13372
+    name: 尊享裝扮券·萬聖
+    item_ids: 1500319-1
+    icon: Bumdle_HalloweenCoupons2
+  }
+  {
+    id: 13373
+    name: 致臻裝扮券·萬聖
+    item_ids: 1500320-1
+    icon: Bumdle_HalloweenCoupons3
+  }
+  {
+    id: 13374
+    name: EM-2-暖藏醇香
+    gift: 11105-1
+  }
+  {
+    id: 13375
+    name: 隼-霜鈴響叮噹
+    gift: 11106-1
+  }
+  {
+    id: 13376
+    name: M1911-甜心兔廚娘
+    gift: 11107-1
+  }
+  {
+    id: 13377
+    name: P50-星光，於絲緞搖曳
+    gift: 11104-1
+  }
+  {
+    id: 13378
+    name: M99-遙仰月華
+    gift: 11102-1
+  }
+  {
+    id: 13379
+    name: MP7-冬鹿特遣
+    gift: 11103-1
+  }
+  {
+    id: 13380
+    name: 珍藏裝扮券·聖誕
+    item_ids: 1500321-1
+    icon: Bumdle_ChristmasCoupons1
+  }
+  {
+    id: 13381
+    name: 尊享裝扮券·聖誕
+    item_ids: 1500322-1
+    icon: Bumdle_ChristmasCoupons2
+  }
+  {
+    id: 13382
+    name: 致臻裝扮券·聖誕
+    item_ids: 1500323-1
+    icon: Bumdle_ChristmasCoupons3
+  }
+  {
+    id: 13383
+    name: 致臻裝扮券·聖誕
+    gift: 310-1,1601-1,2801-1,4001-1,5302-1,6601-1,7801-1,9001-1,11101-1
+  }
+  {
+    id: 13384
+    name: ZiP .22-朧霧香藹
+    gift: 11205-1
+  }
+  {
+    id: 13385
+    name: M37-伏見曦狐
+    gift: 11204-1
+  }
+  {
+    id: 13386
+    name: 阿斯特拉左輪-紅梅憐我意
+    gift: 11206-1
+  }
+  {
+    id: 13387
+    name: Savage 99-春霞出遊記
+    gift: 11203-1
+  }
+  {
+    id: 13388
+    name: 蟒蛇-斬，鶴羽之舞
+    gift: 11202-1
+  }
+  {
+    id: 13389
+    name: 珍藏裝扮券·正月
+    item_ids: 1500324-1
+    icon: Bumdle_JPnewyear1
+  }
+  {
+    id: 13390
+    name: 尊享裝扮券·正月
+    item_ids: 1500325-1
+    icon: Bumdle_JPnewyear2
+  }
+  {
+    id: 13391
+    name: 致臻裝扮券·正月
+    item_ids: 1500326-1
+    icon: Bumdle_JPnewyear3
+  }
+  {
+    id: 13392
+    name: 致臻裝扮券·正月
+    gift: 2901-1,4101-1,5402-1,6701-1,7902-1,10004-1,11201-1
+  }
+  {
+    id: 13393
+    name: A-91-芳醁醺
+    gift: 11307-1
+  }
+  {
+    id: 13394
+    name: M500-福箱至
+    gift: 11308-1
+  }
+  {
+    id: 13395
+    name: Ak 5-丹墨抄
+    gift: 11306-1
+  }
+  {
+    id: 13396
+    name: 79式-離弦奏
+    gift: 11304-1
+  }
+  {
+    id: 13397
+    name: C-MS-孟章彩
+    gift: 11305-1
+  }
+  {
+    id: 13398
+    name: M950A-蒼竹吟
+    gift: 11302-1
+  }
+  {
+    id: 13399
+    name: Lusa-黛葫提
+    gift: 11303-1
+  }
+  {
+    id: 13400
+    name: 珍藏裝扮券·春節
+    item_ids: 1500327-1
+    icon: Bumdle_SpringFestivalCoupons1
+  }
+  {
+    id: 13401
+    name: 尊享裝扮券·春節
+    item_ids: 1500328-1
+    icon: Bumdle_SpringFestivalCoupons2
+  }
+  {
+    id: 13402
+    name: 致臻裝扮券·春節
+    item_ids: 1500329-1
+    icon: Bumdle_SpringFestivalCoupons3
+  }
+  {
+    id: 13403
+    name: 致臻裝扮券·春節
+    gift: 405-1,1801-1,3001-1,4201-1,4202-1,5501-1,6801-1,8003-1,10101-1,11301-1
+  }
+  {
+    id: 13404
+    name: 9A-91-注目傾心
+    gift: 11405-1
+  }
+  {
+    id: 13405
+    name: 納甘左輪-雋永之約
+    gift: 11407-1
+  }
+  {
+    id: 13406
+    name: DSR-50-秘密誓約
+    gift: 11401-1
+  }
+  {
+    id: 13407
+    name: G41-摯誠花語
+    gift: 11402-1
+  }
+  {
+    id: 13408
+    name: MG5-融霜綻蕊
+    gift: 11403-1
+  }
+  {
+    id: 13409
+    name: 珍藏裝扮券·白情
+    item_ids: 1500330-1
+    icon: Bumdle_WhiteValentineCoupons1
+  }
+  {
+    id: 13410
+    name: 尊享裝扮券·白情
+    item_ids: 1500331-1
+    icon: Bumdle_WhiteValentineCoupons2
+  }
+  {
+    id: 13411
+    name: 致臻裝扮券·白情
+    item_ids: 1500332-1
+    icon: Bumdle_WhiteValentineCoupons3
+  }
+  {
+    id: 13412
+    name: 致臻裝扮券·白情
+    gift: 604-1,1901-1,3101-1,4301-1,4302-1,5602-1,5603-1,6901-1,8101-1,10203-1,11406-1
+  }
+  {
+    id: 13413
+    name: TAR-21-蘭鳶花鈴
+    gift: 11505-1
+  }
+  {
+    id: 13414
+    name: Bren Ten-甜夢圓舞曲
+    gift: 11507-1
+  }
+  {
+    id: 13415
+    name: G43-時砂之鏡
+    gift: 11506-1
+  }
+  {
+    id: 13416
+    name: QBZ-191-玄衣卷月
+    gift: 11503-1
+  }
+  {
+    id: 13417
+    name: 89式自-特調時分
+    gift: 11508-1
+  }
+  {
+    id: 13418
+    name: 95式-流光韶羽
+    gift: 11502-1
+  }
+  {
+    id: 13419
+    name: SIG MCX-紅粉鐵拳
+    gift: 11504-1
+  }
+  {
+    id: 13420
+    name: 珍藏裝扮券·周年慶
+    item_ids: 1500333-1
+    icon: Bumdle_AnniversaryCoupons1
+  }
+  {
+    id: 13421
+    name: 尊享裝扮券·周年慶
+    item_ids: 1500334-1
+    icon: Bumdle_AnniversaryCoupons2
+  }
+  {
+    id: 13422
+    name: 致臻裝扮券·周年慶
+    item_ids: 1500335-1
+    icon: Bumdle_AnniversaryCoupons3
+  }
+  {
+    id: 13423
+    name: 致臻裝扮券·周年慶
+    gift: 805-1,2102-1,2101-1,3301-1,4501-1,4510-1,563-1,551-1,5805-1,5802-1,7101-1,7106-1,8301-1,10407-1,11501-1
+  }
+  {
+    id: 13424
+    name: LWMMG-遙望地平線
+    gift: 11605-1
+  }
+  {
+    id: 13425
+    name: 64式-風旅同歌
+    gift: 11604-1
+  }
+  {
+    id: 13426
+    name: M2HB-破曉行徵
+    gift: 11608-1
+  }
+  {
+    id: 13427
+    name: SCAR-H-停駐之時
+    gift: 11601-1
+  }
+  {
+    id: 13428
+    name: G28-躍動信號
+    gift: 11606-1
+  }
+  {
+    id: 13429
+    name: NTW-20-追獵於蜃景
+    gift: 11602-1
+  }
+  {
+    id: 13430
+    name: 珍藏裝扮券·都市風尚
+    item_ids: 1500336-1
+    icon: Bumdle_UrbanBeautyCoupons1
+  }
+  {
+    id: 13431
+    name: 尊享裝扮券·都市風尚
+    item_ids: 1500337-1
+    icon: Bumdle_UrbanBeautyCoupons2
+  }
+  {
+    id: 13432
+    name: 致臻裝扮券·都市風尚
+    item_ids: 1500338-1
+    icon: Bumdle_UrbanBeautyCoupons3
+  }
+  {
+    id: 13433
+    name: 致臻裝扮券·都市風尚
+    gift: 1202-1,3901-1,5201-1,6302-1,7501-1,8601-1,8610-1,10302-1,10803-1,11603-1
+  }
+  {
     id: 14101
     name: 中途獎勵-裝備藍1
     equip_ids: "2"
@@ -50260,6 +51146,38 @@
     part: 500
   }
   {
+    id: 37863
+    name: 23-樂土坍塌-任務獎勵
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37868
+    name: 27-捍衛之歌-任務獎勵
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37874
+    name: 23-樂土坍塌EX-任務獎勵
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37879
+    name: 23-樂土坍塌UX-任務獎勵
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
     id: 40001
     name: 戰術人形：湯姆森
     gun_id: "16"
@@ -57446,6 +58364,100 @@
     part: 3500
     gem: 200
     fairy_ids: 39-757264
+  }
+  {
+    id: 40837
+    name: 階段獎勵I
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gift: 200001-100
+    coins: 1-100,2-100
+    icon: Bumdle_black
+  }
+  {
+    id: 40838
+    name: 階段獎勵II
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gem: 50
+    gift: 200001-100
+    coins: 1-200,2-200
+    icon: Bumdle_blue
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 40839
+    name: 階段獎勵III
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gift: 200001-200
+    coins: 2-200,3-100
+    icon: Bumdle_brown
+  }
+  {
+    id: 40840
+    name: 階段獎勵IV
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gem: 50
+    gift: 200001-200,400001-200
+    equip_ids: "437"
+    coins: 3-200
+    icon: Bumdle_purple
+  }
+  {
+    id: 40841
+    name: 階段獎勵V
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    item_ids: 514-150,515-150
+    gift: 400001-200
+    icon: Bumdle_red
+  }
+  {
+    id: 40842
+    name: 階段獎勵VI
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    gem: 100
+    item_ids: 514-250,515-250,516-200
+    icon: Bumdle_ruby
+    commander_uniform: "6133"
+  }
+  {
+    id: 40843
+    name: 階段獎勵VII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    item_ids: 515-300,516-400
+    icon: Bumdle_white
+  }
+  {
+    id: 40844
+    name: 階段獎勵VIII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    gem: 100
+    item_ids: 45-500
+    gift: 200001-500
+    icon: Bumdle_yellow
+    fairy_ids: 36-0
   }
   {
     id: 44001
@@ -65366,6 +66378,21 @@
     id: 150169
     name: 日常玩法-第32期-5星人形專屬裝備自選池子
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399,321,406,332,409,339,414,347,419,350,422,354,427,357,433,364,439,370,442,386,445,403,448,413,452,411,455,417,458,421,462,425,465,432,469,436,474"
+  }
+  {
+    id: 150170
+    name: 日常玩法-第33期-五星裝備自選池子
+    equip_ids: "16,20,32,44,66,72,90"
+  }
+  {
+    id: 150171
+    name: 日常玩法-第33期-4星及以下人形專屬裝備自選池子
+    equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359,365,366,368,369,264,372,374,375,216,385,246,390,250,393,218,398,94,407,265,410,276,415,259,420,288,423,108,428,341,434,353,440,367,443,373,446,376,449,392,453,395,456,397,459,408,463,418,466,426,470,438,475,444,484"
+  }
+  {
+    id: 150172
+    name: 日常玩法-第33期-5星人形專屬裝備自選池子
+    equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399,321,406,332,409,339,414,347,419,350,422,354,427,357,433,364,439,370,442,386,445,403,448,413,452,411,455,417,458,421,462,425,465,432,469,436,474,441,483"
   }
   {
     id: 200001
