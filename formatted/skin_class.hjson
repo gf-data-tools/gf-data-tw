@@ -564,4 +564,9 @@
     theme_type: 9
     name: 寄往明日的信箋
   }
+  {
+    id: 114
+    theme_type: 9
+    name: A級特課班
+  }
 ]

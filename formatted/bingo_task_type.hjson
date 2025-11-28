@@ -57,7 +57,7 @@
     id: 10
     task_type: map_capture
     title: 日常探查
-    content: 在灰域探查中累計占領{0}個點位
+    content: 在灰域探查中累計佔領{0}個點位
   }
   {
     id: 11
@@ -194,20 +194,20 @@
   {
     id: 33
     task_type: win_armorrobot
-    title: 裝甲機械鐵血兵
-    content: 戰鬥勝利情況下消滅{0}個裝甲機械鐵血兵
+    title: 裝甲機械敵人
+    content: 戰鬥勝利情況下消滅{0}個裝甲機械敵人
   }
   {
     id: 34
     task_type: win_robot
-    title: 普通機械鐵血兵
-    content: 戰鬥勝利情況下消滅{0}個普通機械鐵血兵
+    title: 普通機械敵人
+    content: 戰鬥勝利情況下消滅{0}個普通機械敵人
   }
   {
     id: 35
     task_type: win_person
-    title: 普通人形鐵血兵
-    content: 戰鬥勝利情況下消滅{0}個普通人形鐵血兵
+    title: 普通人形敵人
+    content: 戰鬥勝利情況下消滅{0}個普通人形敵人
   }
   {
     id: 36
