@@ -123,7 +123,7 @@
     id: 22
     type: 2
     mission_campaign: "-53"
-    event_name: 異構體
+    event_name: 混沌落幕
     init_mission_id: "11116"
   }
   {
@@ -396,12 +396,9 @@
   }
   {
     id: 61
-    type: 1
+    type: 2
     mission_campaign: "-74"
     event_name: 卷積核
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2025-07-25 10:00:00
-    end_time: 2025-08-15 10:00:00
     init_mission_id: "11835"
     token_item_id: "100279"
   }
@@ -447,5 +444,12 @@
     end_time: 2025-11-21 10:00:00
     init_mission_id: "11947"
     token_item_id: "100291"
+  }
+  {
+    id: 66
+    type: 2
+    mission_campaign: "-40404"
+    event_name: 從潘洛斯階梯躍下
+    init_mission_id: "11603"
   }
 ]

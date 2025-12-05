@@ -11094,7 +11094,7 @@
     is_critical_hit: 1
     critical_hit_rate: "100"
     float_wide: 15
-    is_miss: 1
+    is_miss: 1000010033
     is_armor: 1
     hit_type: 1
     fix_damage: "1000003815"
@@ -12015,6 +12015,7 @@
     buff_id_target: 6506:1
     buff_rate: "100"
     hit_type: 1
+    fix_damage: "1000006515"
   }
   {
     id: 6502

@@ -27102,6 +27102,39 @@
     classification_id: 3005
   }
   {
+    id: 51394
+    type: 21
+    gem_pay: 440
+    gem: 440
+    double_gem_pay: 440
+    double_gem: 440
+    quota_num: 5
+    prize_id: 220902
+    classification_id: 6003
+  }
+  {
+    id: 51395
+    type: 21
+    gem_pay: 920
+    gem: 920
+    double_gem_pay: 920
+    double_gem: 920
+    quota_num: 5
+    prize_id: 220903
+    classification_id: 6003
+  }
+  {
+    id: 51396
+    type: 21
+    gem_pay: 2000
+    gem: 2000
+    double_gem_pay: 2000
+    double_gem: 2000
+    quota_num: 2
+    prize_id: 220904
+    classification_id: 6003
+  }
+  {
     id: 60001
     type: 4
     gem_pay: 60
