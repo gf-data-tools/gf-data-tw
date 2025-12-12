@@ -644,7 +644,7 @@
     chapter_name: 卷積核
     bg_code: active_202412
     bg_config: "#000000C7,#3D415166,#196689,#FFFFFFFF"
-    desc: 活動時間:2024.12.20-2025.1.10
+    desc: 活動時間:2024.12.20-2025.01.10
     scene_name: active_202412logo
   }
   {
@@ -657,5 +657,17 @@
     bg_code: missionselect_202412activityExt
     event_prize_level: 10014
     rank_id: "314"
+  }
+  {
+    id: 58
+    campaign_id: -75
+    tag: EP.|15.7
+    order: 21
+    name: 溯源回歸
+    chapter_name: 溯源回歸
+    bg_code: active_202505
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: 活動時間:2025.06.27-07.18
+    scene_name: active_202505logo
   }
 ]

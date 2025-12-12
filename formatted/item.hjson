@@ -17188,6 +17188,24 @@
     rank: 1
   }
   {
+    id: 2755
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_MK18
+    item_name: Mk.18-白浪逐鰭
+    introduction: Mk.18-白浪逐鰭
+    rank: 1
+  }
+  {
+    id: 2756
+    type: 5
+    arg: "1"
+    code: card_BattlePass_MK18
+    item_name: 名片：零下急行
+    introduction: 名片：零下急行
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -19068,6 +19086,15 @@
     code: gift_bundle_BattlePass_SPAS12
     item_name: SPAS-12-動感里程
     introduction: 嘿咻、嘿咻……只要再跑一公里，就能解鎖那個芝士牛肉堡作為獎勵了！
+    rank: 1
+  }
+  {
+    id: 30035
+    type: 1
+    arg: "30035"
+    code: gift_bundle_BattlePass_MK18
+    item_name: Mk.18-白浪逐鰭
+    introduction: 原來這就是所謂的「滑雪」，很像是乘著洋流的感覺……請跟緊我，鸚鵡螺，我們要加快速度了。
     rank: 1
   }
   {
@@ -24567,6 +24594,22 @@
     rank: 1
   }
   {
+    id: 140069
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第35期前線協議
+    rank: 1
+  }
+  {
+    id: 140070
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第35期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -25108,6 +25151,15 @@
     code: profileFrame_BattlePass_SPAS12
     item_name: 頭像框·食刻挑戰
     introduction: 頭像框·食刻挑戰
+    rank: 1
+  }
+  {
+    id: 200060
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_MK18
+    item_name: 頭像框：雪線尖兵
+    introduction: 頭像框：雪線尖兵
     rank: 1
   }
   {
@@ -29038,6 +29090,50 @@
       在倉庫中使用該序標，即可從指定範圍內選擇獲得一位初始三星融合勢力單位。
       *若指揮官未解鎖「融合勢力」系統，在獲得所選的融合勢力單位後將暫時無法使用，待後續指揮官解鎖了「融合勢力」系統後可正常使用。
       '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500346
+    type: 15
+    arg: "1500346"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-極地行者，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500347
+    type: 15
+    arg: "1500347"
+    code: package_choose
+    item_name: 彈匣類裝備自選包
+    introduction: 來自於前線協議-極地行者，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500348
+    type: 15
+    arg: "1500348"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-極地行者，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500349
+    type: 15
+    arg: "1500349"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-極地行者，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
     type_sort: 1
