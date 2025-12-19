@@ -17021,8 +17021,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season22_1
-    item_name: 桎梏殘芽 · 代號終：退相
-    introduction: 桎梏殘芽 · 代號終：退相
+    item_name: 桎梏殘芽 · 代號無限：共形
+    introduction: 桎梏殘芽 · 代號無限：共形
     rank: 1
   }
   {
@@ -17030,8 +17030,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season22_2
-    item_name: 玻色囚蕊 · 代號終：退相
-    introduction: 玻色囚蕊 · 代號終：退相
+    item_name: 玻色囚蕊 · 代號無限：共形
+    introduction: 玻色囚蕊 · 代號無限：共形
     rank: 1
   }
   {
@@ -17039,8 +17039,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season22_3
-    item_name: 永恆徒花 · 代號終：退相
-    introduction: 永恆徒花 · 代號終：退相
+    item_name: 永恆徒花 · 代號無限：共形
+    introduction: 永恆徒花 · 代號無限：共形
     rank: 1
   }
   {
@@ -18975,6 +18975,15 @@
     id: 10735
     type: 18
     arg: "10735"
+    code: daily_points
+    item_name: 灰域探查積分
+    introduction: 灰域探查積分
+    rank: 1
+  }
+  {
+    id: 10736
+    type: 18
+    arg: "10736"
     code: daily_points
     item_name: 灰域探查積分
     introduction: 灰域探查積分
@@ -30082,6 +30091,39 @@
     id: 1700084
     type: 15
     arg: "1700084"
+    code: package_choose
+    item_name: 高階專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700085
+    type: 15
+    arg: "1700085"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700086
+    type: 15
+    arg: "1700086"
+    code: package_choose
+    item_name: 基礎專屬裝備自選序標
+    introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件4星及以下人形的專屬裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700087
+    type: 15
+    arg: "1700087"
     code: package_choose
     item_name: 高階專屬裝備自選序標
     introduction: 來自於灰域探查，打開時，可從該指定投遞配給序標內選擇獲取一件5星人形專屬裝備

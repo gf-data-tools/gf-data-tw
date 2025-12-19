@@ -670,4 +670,16 @@
     desc: 活動時間:2025.06.27-07.18
     scene_name: active_202505logo
   }
+  {
+    id: 59
+    campaign_id: -76
+    tag: EP.|15.8
+    order: 22
+    name: 虛粒子對
+    chapter_name: 虛粒子對
+    bg_code: active_202507
+    bg_config: "#000000C7,#3D415166,#FF4800,#FFFFFFFF"
+    desc: 活動時間:2025.08.15-09.05
+    scene_name: active_202507logo
+  }
 ]

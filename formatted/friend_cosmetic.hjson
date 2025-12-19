@@ -21433,6 +21433,9 @@
     id: 1696
     item_id: 2696
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_202507Activity_01
     order: 1
     rarity: 5
@@ -21443,6 +21446,9 @@
     id: 1697
     item_id: 2697
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_202507Activity_02
     order: 1
     rarity: 5
@@ -21453,6 +21459,9 @@
     id: 1698
     item_id: 2698
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_202507Activity_03
     order: 1
     rarity: 5
@@ -21463,6 +21472,9 @@
     id: 1699
     item_id: 2699
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_202507Activity_04
     order: 1
     rarity: 5
@@ -21473,6 +21485,9 @@
     id: 1700
     item_id: 2700
     sub_type: 1
+    gem: 200
+    item_ids: 508-5000
+    onsale: 1
     code: profilePic_202507Activity_05
     order: 1
     rarity: 5
@@ -21483,6 +21498,9 @@
     id: 1701
     item_id: 2701
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_202507Activity_01
     order: 1
     rarity: 5
@@ -21492,6 +21510,9 @@
     id: 1702
     item_id: 2702
     sub_type: 2
+    gem: 400
+    item_ids: 508-10000
+    onsale: 1
     code: card_202507Activity_02
     order: 1
     rarity: 5
