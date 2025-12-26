@@ -60357,6 +60357,7 @@
     mapped_mission_id: 78001
     win_type: "1194901"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
+    limit_sangvis: -1
   }
   {
     id: 11950
@@ -60568,6 +60569,7 @@
     mapped_mission_id: 78001
     win_type: "1195601"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
+    limit_sangvis: -1
   }
   {
     id: 11957
@@ -60717,6 +60719,7 @@
     mapped_mission_id: 78001
     win_type: "1196101"
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
+    limit_sangvis: -1
   }
   {
     id: 11962

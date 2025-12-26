@@ -31882,6 +31882,39 @@
     rotate: "3"
   }
   {
+    id: 20178
+    name: 海報-2025零態潮汐
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2025限時活動-零態潮汐的特典海報。
+    code: pv_202509activity
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
+    id: 20179
+    name: 斯蒂芬
+    classes: 81
+    type: 201
+    space: "6,4,2,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 曾是櫥窗裡亮眼的聖誕禮物，也是等待主人歸家的忠實夥伴。戰爭改變了它的用途，但無法抹去它被設計之初所承載的溫暖。現在，斯蒂芬終於可以趴在您的腳邊，安心地做一個好夢了。
+    code: Stephen_Dinergate
+    texture_type: "2"
+    sorting: "15"
+    offset: "0.38,0.16,0"
+    rotate: "2"
+    interact_point: "82017901,82017902,82017903"
+    interact_point_offset: *-2.000,0.000,0.000|*-2.000,0.000,0.000|*-2.000,0.000,0.000
+    touch_area: "3,3,3"
+  }
+  {
     id: 30001
     name: 馬卡洛夫-南瓜熊熊
     classes: 300
