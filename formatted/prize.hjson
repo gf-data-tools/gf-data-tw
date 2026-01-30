@@ -36434,6 +36434,66 @@
     fairy_ids: 40-757276
   }
   {
+    id: 12646
+    name: 海盜妖精
+    fairy_ids: 38-757262
+  }
+  {
+    id: 12647
+    name: 時與星
+    furniture: "20023"
+  }
+  {
+    id: 12648
+    name: 狂野追風
+    furniture: "20110"
+  }
+  {
+    id: 12649
+    name: 啟幕樂池
+    furniture: "20102"
+  }
+  {
+    id: 12650
+    name: 八年如夢
+    furniture: "20132"
+  }
+  {
+    id: 12651
+    name: 絳珠綴蘭石像（左）
+    furniture: "20150"
+  }
+  {
+    id: 12652
+    name: 絳珠綴蘭石像（右）
+    furniture: "20151"
+  }
+  {
+    id: 12653
+    name: 熱烈歡迎
+    furniture: "20172"
+  }
+  {
+    id: 12654
+    name: 親和型兵蟻
+    furniture: "20176"
+  }
+  {
+    id: 12655
+    name: 蛇影權杖
+    commander_uniform: "6240"
+  }
+  {
+    id: 12656
+    name: 披薩先生
+    commander_uniform: "6440"
+  }
+  {
+    id: 12657
+    name: 6P62全能玩偶
+    furniture: "11602"
+  }
+  {
     id: 13001
     name: 2025七月簽到
     gem: 90
@@ -38756,6 +38816,26 @@
     id: 13442
     name: 少女前線 智慧兵蟻 特典傢俱
     furniture: "20179"
+  }
+  {
+    id: 13443
+    name: 格琳娜整理倉庫時發現了一些物資
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 41-10
+    gift: 200001-200
+  }
+  {
+    id: 13444
+    name: 戰術人形：93R
+    gun_id: "419"
+  }
+  {
+    id: 13445
+    name: 戰術人形：LR-300
+    gun_id: "423"
   }
   {
     id: 14101

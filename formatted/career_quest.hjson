@@ -539,7 +539,6 @@
     prize_id: 766
     title: 妖精：妖精強化
     content: 透過「研發-妖精強化」完成5次妖精強化
-    unlock_course: "86,87,88"
     new_type: 1
     grade_id: 26
     sort: 191
@@ -551,7 +550,6 @@
     prize_id: 767
     title: 妖精：技能訓練
     content: 透過「研發-技能訓練」完成5次妖精技能訓練
-    unlock_course: "86,87,88"
     new_type: 1
     grade_id: 24
     sort: 150
@@ -563,7 +561,6 @@
     prize_id: 768
     title: 妖精：妖精校準
     content: 透過「研發-妖精校準」完成5次妖精校準
-    unlock_course: "86,87,88"
     new_type: 1
     grade_id: 25
     sort: 181
@@ -2490,7 +2487,6 @@
     prize_id: 11149
     title: 妖精：妖精強化
     content: 透過「研發-妖精強化」完成1次妖精強化
-    unlock_course: "86,87,88"
     new_type: 1
     grade_id: 25
     sort: 185
@@ -2562,7 +2558,6 @@
     prize_id: 11155
     title: 妖精：妖精校準
     content: 透過「研發-妖精校準」完成1次妖精校準
-    unlock_course: "86,87,88"
     new_type: 1
     grade_id: 24
     sort: 179
@@ -2574,7 +2569,6 @@
     prize_id: 11156
     title: 妖精：妖精校準
     content: 透過「研發-妖精校準」完成10次妖精校準
-    unlock_course: "86,87,88"
     new_type: 1
     grade_id: 26
     sort: 197
