@@ -2379,8 +2379,6 @@
     type: 1
     poster: PackageImage_Sangvis
     prize_id: 2995
-    due_time: 2025/08/06  23:59:59
-    due_prize_id: 2996
     present_info:
       '''
       指揮官可從以下指定範圍內的初始三星融合勢力單位中選擇一位獲得，或可選擇獲得超星內核*800。	
