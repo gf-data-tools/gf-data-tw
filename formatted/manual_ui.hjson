@@ -4257,6 +4257,30 @@
     code_b: Console_Icon
   }
   {
+    id: 800002
+    code_a: Detonator
+    description_a: 我方梯隊
+    description_b: 起爆裝置
+    description_c: 啟動
+    code_b: Console_Icon
+  }
+  {
+    id: 800004
+    code_a: 2022_Bikini_Fireworks
+    description_a: 我方梯隊
+    description_b: 煙火???
+    description_c: 放置
+    code_b: Console_Icon
+  }
+  {
+    id: 800010
+    code_a: datapatch
+    description_a: 我方梯隊
+    description_b: 補給點+
+    description_c: 戰場整備
+    code_b: Console_Icon
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 我方梯隊

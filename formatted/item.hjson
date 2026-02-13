@@ -931,6 +931,15 @@
     rank: 1
   }
   {
+    id: 154
+    type: 3
+    arg: "55"
+    code: Medal_202602Activity_rank
+    item_name: 擎雨者勳章
+    introduction: 表彰該指揮官及其麾下的戰術人形在積分模式「鐵雨禮讚」中的耀眼表現，「那便化身為傘，直到為這片焦土撐起明日的晴空。」
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -17224,6 +17233,33 @@
     rank: 1
   }
   {
+    id: 2759
+    type: 5
+    arg: "1"
+    code: profilePic_2026SpringJP_coremask
+    item_name: 真核面具紀念頭像·春之贈物
+    introduction: 真核面具紀念頭像·春之贈物
+    rank: 1
+  }
+  {
+    id: 2760
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_6P62
+    item_name: 6P62-心動競技
+    introduction: 6P62-心動競技
+    rank: 1
+  }
+  {
+    id: 2761
+    type: 5
+    arg: "1"
+    code: card_BattlePass_6P62
+    item_name: 名片：6P62的通關指令
+    introduction: 名片：6P62的通關指令
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -18477,6 +18513,16 @@
     is_hide_info: 1
   }
   {
+    id: 9053
+    type: 1
+    arg: "9053"
+    code: Griffin
+    item_name: 煙火
+    introduction: 煙火
+    rank: 1
+    is_hide_info: 1
+  }
+  {
     id: 9301
     type: 1
     arg: "9301"
@@ -19131,6 +19177,15 @@
     code: gift_bundle_BattlePass_JS9mm
     item_name: JS 9-殘垣之上
     introduction: 今天的巡查地點就是這裡嗎？……好，我明白了。不論環境有多糟糕，我的行動都會一如既往地井井有條。
+    rank: 1
+  }
+  {
+    id: 30037
+    type: 1
+    arg: "30037"
+    code: gift_bundle_BattlePass_6P62
+    item_name: 6P62-心動競技
+    introduction: 這個電競房是我的秘密基地，只對特別的人開放——指揮官，您要一起來一局嗎？輸的人可是要接受懲罰的哦！
     rank: 1
   }
   {
@@ -22597,6 +22652,42 @@
     rank: 1
   }
   {
+    id: 110081
+    type: 4
+    arg: "110081"
+    code: EventPT5
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
+    id: 110082
+    type: 4
+    arg: "110082"
+    code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
+    id: 110083
+    type: 4
+    arg: "110083"
+    code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
+    id: 110084
+    type: 4
+    arg: "110084"
+    code: PT
+    item_name: 活動點數
+    introduction: 活動點數
+    rank: 1
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -24662,6 +24753,22 @@
     rank: 1
   }
   {
+    id: 140073
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第37期前線協議
+    rank: 1
+  }
+  {
+    id: 140074
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第37期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -25221,6 +25328,15 @@
     code: profileFrame_BattlePass_JS9mm
     item_name: 頭像框·墟末曙光
     introduction: 頭像框·墟末曙光
+    rank: 1
+  }
+  {
+    id: 200062
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_6P62
+    item_name: 頭像框·方塊幻想
+    introduction: 頭像框·方塊幻想
     rank: 1
   }
   {
@@ -29298,6 +29414,50 @@
     code: package_random
     item_name: 前線協議-額外獎勵
     introduction: 來自於前線協議-破曉的規章，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500359
+    type: 15
+    arg: "1500359"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-心動競技，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500360
+    type: 15
+    arg: "1500360"
+    code: package_choose
+    item_name: 配件類裝備自選包
+    introduction: 來自於前線協議-心動競技，可從該指定投遞配給序標內選擇獲取一件配件類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500361
+    type: 15
+    arg: "1500361"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-心動競技，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500362
+    type: 15
+    arg: "1500362"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-心動競技，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
     type_sort: 1

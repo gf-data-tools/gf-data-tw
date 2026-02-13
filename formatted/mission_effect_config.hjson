@@ -368,6 +368,16 @@
     offset: "0,0"
   }
   {
+    id: 800101
+    name: 煙火
+    code: GQ_yanhua2
+    description: 煙火
+    duration: 4
+    size: 1
+    sound: 2022_Bikini_Fireworks
+    offset: "0,0"
+  }
+  {
     id: 900001
     name: 機場出兵圖標
     code: effectPowerup

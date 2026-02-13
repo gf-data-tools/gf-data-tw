@@ -16503,4 +16503,13 @@
     story_playback_sub_id: 3
     background_code: 202410_Nele_d
   }
+  {
+    id: 1465
+    mission_id: "11987"
+    campaign: -79
+    title: 鐵雨禮讚-序
+    start: -79-1-1
+    story_playback_sub_id: 3
+    background_code: BG-BurnCity
+  }
 ]

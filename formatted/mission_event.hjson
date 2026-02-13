@@ -440,4 +440,14 @@
     event_name: 從潘洛斯階梯躍下
     init_mission_id: "11603"
   }
+  {
+    id: 67
+    type: 1
+    mission_campaign: "-79"
+    event_name: 鐵雨禮讚
+    draw_event_id: "400,401,402,403,404"
+    start_time: 2026-02-13 10:00:00
+    end_time: 2026-03-06 10:00:00
+    init_mission_id: "11987"
+  }
 ]

@@ -658,4 +658,9 @@
     name: EMP抗性
     character_des: 受到的EMP效果大幅減少
   }
+  {
+    id: 1007
+    name: 聯合作戰
+    character_des: 該單位在當前情境下並非Boss單位
+  }
 ]

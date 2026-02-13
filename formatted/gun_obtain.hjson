@@ -669,6 +669,10 @@
     description: 限時活動【零態潮汐】代幣兌換
   }
   {
+    obtain_id: 523
+    description: 限時積分模式活動【鐵雨禮讚】積分獎勵
+  }
+  {
     obtain_id: 1701
     description: 2017年1月簽到獎勵
   }
@@ -1484,5 +1488,13 @@
   {
     obtain_id: 3142
     description: 2026年6月簽到獎勵
+  }
+  {
+    obtain_id: 3143
+    description: 2026年新春真核簽到獎勵
+  }
+  {
+    obtain_id: 3144
+    description: 2026年黃金周簽到獎勵
   }
 ]
