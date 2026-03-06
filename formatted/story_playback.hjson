@@ -215,7 +215,7 @@
     type: 2
     tag: EP.
     order: 22
-    campaign_sub_name: CH.01 非偏光源;CH.02 二象稜鏡;CH.03 極化終點;CH.04 晶體重鑄;CH.05 視線邊界;CH.00 謎境守衛
+    campaign_sub_name: CH.01 非偏光源;CH.02 二象稜鏡;CH.03 極化終點;CH.04 晶體重鑄;CH.05 視線邊界
   }
   {
     id: 23
