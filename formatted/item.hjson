@@ -17260,6 +17260,24 @@
     rank: 1
   }
   {
+    id: 2762
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_AUGPARA
+    item_name: AUG Para-花與白日夢
+    introduction: AUG Para-花與白日夢
+    rank: 1
+  }
+  {
+    id: 2763
+    type: 5
+    arg: "1"
+    code: card_BattlePass_AUGPARA
+    item_name: 名片：半枕花香
+    introduction: 名片：半枕花香
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -19186,6 +19204,15 @@
     code: gift_bundle_BattlePass_6P62
     item_name: 6P62-心動競技
     introduction: 這個電競房是我的秘密基地，只對特別的人開放——指揮官，您要一起來一局嗎？輸的人可是要接受懲罰的哦！
+    rank: 1
+  }
+  {
+    id: 30038
+    type: 1
+    arg: "30038"
+    code: gift_bundle_BattlePass_AUGPARA
+    item_name: AUG Para-花與白日夢
+    introduction: 這是為SOP2小姐準備的向日葵，這是給AUG小姐的……嗯？前輩問我為什麼這麼了解大家？因為觀察可愛的同事也是工作的一部分哦~
     rank: 1
   }
   {
@@ -24769,6 +24796,22 @@
     rank: 1
   }
   {
+    id: 140075
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第38期前線協議
+    rank: 1
+  }
+  {
+    id: 140076
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第38期前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -25337,6 +25380,15 @@
     code: profileFrame_BattlePass_6P62
     item_name: 頭像框·方塊幻想
     introduction: 頭像框·方塊幻想
+    rank: 1
+  }
+  {
+    id: 200063
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_AUGPARA
+    item_name: 頭像框：搖曳春影
+    introduction: 頭像框：搖曳春影
     rank: 1
   }
   {
@@ -29458,6 +29510,50 @@
     code: package_random
     item_name: 前線協議-額外獎勵
     introduction: 來自於前線協議-心動競技，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500363
+    type: 15
+    arg: "1500363"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-獻給你的花束，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500364
+    type: 15
+    arg: "1500364"
+    code: package_choose
+    item_name: 彈匣類裝備自選包
+    introduction: 來自於前線協議-獻給你的花束，可從該指定投遞配給序標內選擇獲取一件彈匣類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500365
+    type: 15
+    arg: "1500365"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-獻給你的花束，可必定獲得該序標內圖鑒未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500366
+    type: 15
+    arg: "1500366"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-獻給你的花束，可從該區間空投序標內隨機獲取一項道具
     rank: 1
     sort: -1
     type_sort: 1

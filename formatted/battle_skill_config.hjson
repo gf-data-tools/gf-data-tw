@@ -551693,6 +551693,7 @@
     data_pool_2: *9957
     sp_data_pool_1: "450"
     sp_data_pool_2: *9967
+    sppool_trigger_id: "1008901"
     code: SSGM1Skill
     train_coin_type: 1
     target_lost: 2
@@ -551730,6 +551731,7 @@
     data_pool_2: *9958
     sp_data_pool_1: "438"
     sp_data_pool_2: *9968
+    sppool_trigger_id: "1008901"
     code: SSGM1Skill
     train_coin_type: 1
     train_coin_number: 100
@@ -551768,6 +551770,7 @@
     data_pool_2: *9959
     sp_data_pool_1: "423"
     sp_data_pool_2: *9969
+    sppool_trigger_id: "1008901"
     code: SSGM1Skill
     train_coin_type: 1
     train_coin_number: 200
@@ -551806,6 +551809,7 @@
     data_pool_2: *9960
     sp_data_pool_1: "411"
     sp_data_pool_2: *9970
+    sppool_trigger_id: "1008901"
     code: SSGM1Skill
     train_coin_type: 1
     train_coin_number: 300
@@ -551844,6 +551848,7 @@
     data_pool_2: *9961
     sp_data_pool_1: "396"
     sp_data_pool_2: *9971
+    sppool_trigger_id: "1008901"
     code: SSGM1Skill
     train_coin_type: 2
     train_coin_number: 120
@@ -551882,6 +551887,7 @@
     data_pool_2: *9962
     sp_data_pool_1: "384"
     sp_data_pool_2: *9972
+    sppool_trigger_id: "1008901"
     code: SSGM1Skill
     train_coin_type: 2
     train_coin_number: 200
@@ -551921,6 +551927,7 @@
     data_pool_2: *9963
     sp_data_pool_1: "369"
     sp_data_pool_2: *9973
+    sppool_trigger_id: "1008901"
     code: SSGM1Skill
     train_coin_type: 2
     train_coin_number: 300
@@ -551960,6 +551967,7 @@
     data_pool_2: *9964
     sp_data_pool_1: "357"
     sp_data_pool_2: *9974
+    sppool_trigger_id: "1008901"
     code: SSGM1Skill
     train_coin_type: 2
     train_coin_number: 400
@@ -551999,6 +552007,7 @@
     data_pool_2: *9965
     sp_data_pool_1: "342"
     sp_data_pool_2: *9975
+    sppool_trigger_id: "1008901"
     code: SSGM1Skill
     train_coin_type: 3
     train_coin_number: 200
@@ -552038,6 +552047,7 @@
     data_pool_2: *9966
     sp_data_pool_1: "330"
     sp_data_pool_2: *9976
+    sppool_trigger_id: "1008901"
     code: SSGM1Skill
     train_coin_type: 3
     train_coin_number: 300
