@@ -20416,9 +20416,9 @@
     special_buff_trigger: "2"
   }
   {
-    id: 10170301
+    id: 10170201
     name: 衝鋒專注
-    skill_group_id: 101703
+    skill_group_id: 101702
     level: 1
     type: 1
     skill_priority: 2
@@ -20445,9 +20445,9 @@
     special_buff_trigger: "2"
   }
   {
-    id: 10170302
+    id: 10170202
     name: 衝鋒專注
-    skill_group_id: 101703
+    skill_group_id: 101702
     level: 2
     type: 1
     skill_priority: 2
@@ -20475,9 +20475,9 @@
     special_buff_trigger: "2"
   }
   {
-    id: 10170303
+    id: 10170203
     name: 衝鋒專注
-    skill_group_id: 101703
+    skill_group_id: 101702
     level: 3
     type: 1
     skill_priority: 2
@@ -20505,9 +20505,9 @@
     special_buff_trigger: "2"
   }
   {
-    id: 10170304
+    id: 10170204
     name: 衝鋒專注
-    skill_group_id: 101703
+    skill_group_id: 101702
     level: 4
     type: 1
     skill_priority: 2
@@ -20535,9 +20535,9 @@
     special_buff_trigger: "2"
   }
   {
-    id: 10170305
+    id: 10170205
     name: 衝鋒專注
-    skill_group_id: 101703
+    skill_group_id: 101702
     level: 5
     type: 1
     skill_priority: 2
@@ -20565,9 +20565,9 @@
     special_buff_trigger: "2"
   }
   {
-    id: 10170306
+    id: 10170206
     name: 衝鋒專注
-    skill_group_id: 101703
+    skill_group_id: 101702
     level: 6
     type: 1
     skill_priority: 2
@@ -20584,7 +20584,305 @@
     description: 提升自身傷害62%和射速21%,持續4.1秒。(裝備「VM護目鏡」後,技能期間額外提升我方全體全屬性5%。)
     lvup_description: 冷卻時間:17.8秒,傷害提升:62%,射速提升:21%,持續時間:4.1秒
     data_pool_1: "123"
-    data_pool_2: "162,120"
+    data_pool_2: "162,121"
+    code: powBuffSelf
+    train_coin_type: 2
+    train_coin_number: 200
+    daynight_only: 1
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 10170207
+    name: 衝鋒專注
+    skill_group_id: 101702
+    level: 7
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 519
+    start_cd_time: 180
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    action_id: 400
+    is_form_action: 1
+    buff_id_target: 11021:1000010018,11022:1000010018,11023:1000010018,11024:1000010018,11025:1000010018,11026:1000010018,11027:1000010018,11028:1000010018
+    buff_id_self: 101:1,109:1,1000:1
+    description: 提升自身傷害65%和射速22%,持續4.3秒。(裝備「VM護目鏡」後,技能期間額外提升我方全體全屬性5%。)
+    lvup_description: 冷卻時間:17.3秒,傷害提升:65%,射速提升:22%,持續時間:4.3秒
+    data_pool_1: "129"
+    data_pool_2: "165,122"
+    code: powBuffSelf
+    train_coin_type: 2
+    train_coin_number: 300
+    daynight_only: 1
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 10170208
+    name: 衝鋒專注
+    skill_group_id: 101702
+    level: 8
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 507
+    start_cd_time: 180
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    action_id: 400
+    is_form_action: 1
+    buff_id_target: 11021:1000010018,11022:1000010018,11023:1000010018,11024:1000010018,11025:1000010018,11026:1000010018,11027:1000010018,11028:1000010018
+    buff_id_self: 101:1,109:1,1000:1
+    description: 提升自身傷害68%和射速23%,持續4.6秒。(裝備「VM護目鏡」後,技能期間額外提升我方全體全屬性5%。)
+    lvup_description: 冷卻時間:16.9秒,傷害提升:68%,射速提升:23%,持續時間:4.6秒
+    data_pool_1: "138"
+    data_pool_2: "168,123"
+    code: powBuffSelf
+    train_coin_type: 2
+    train_coin_number: 400
+    daynight_only: 1
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 10170209
+    name: 衝鋒專注
+    skill_group_id: 101702
+    level: 9
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 492
+    start_cd_time: 180
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    action_id: 400
+    is_form_action: 1
+    buff_id_target: 11021:1000010018,11022:1000010018,11023:1000010018,11024:1000010018,11025:1000010018,11026:1000010018,11027:1000010018,11028:1000010018
+    buff_id_self: 101:1,109:1,1000:1
+    description: 提升自身傷害72%和射速24%,持續4.8秒。(裝備「VM護目鏡」後,技能期間額外提升我方全體全屬性5%。)
+    lvup_description: 冷卻時間:16.4秒,傷害提升:72%,射速提升:24%,持續時間:4.8秒
+    data_pool_1: "144"
+    data_pool_2: "172,124"
+    code: powBuffSelf
+    train_coin_type: 3
+    train_coin_number: 200
+    daynight_only: 1
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 10170210
+    name: 衝鋒專注
+    skill_group_id: 101702
+    level: 10
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 480
+    start_cd_time: 180
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    action_id: 400
+    is_form_action: 1
+    buff_id_target: 11021:1000010018,11022:1000010018,11023:1000010018,11024:1000010018,11025:1000010018,11026:1000010018,11027:1000010018,11028:1000010018
+    buff_id_self: 101:1,109:1,1000:1
+    description: 提升自身傷害75%和射速25%,持續5秒。(裝備「VM護目鏡」後,技能期間額外提升我方全體全屬性5%。)
+    lvup_description: 冷卻時間:16秒,傷害提升:75%,射速提升:25%,持續時間:5秒
+    data_pool_1: "150"
+    data_pool_2: "175,125"
+    code: powBuffSelf
+    train_coin_type: 3
+    train_coin_number: 300
+    daynight_only: 1
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 10170301
+    name: 衝鋒專注
+    skill_group_id: 101703
+    level: 1
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 600
+    start_cd_time: 180
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    is_form_action: 1
+    buff_id_self: 101:1,109:1,1000:1
+    description: 提升自身傷害45%和射速15%,持續3秒。
+    lvup_description: 冷卻時間:20秒,傷害提升:45%,射速提升:15%,持續時間:3秒
+    data_pool_1: "90"
+    data_pool_2: "145,115"
+    code: powBuffSelf
+    train_coin_type: 1
+    daynight_only: 1
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 10170302
+    name: 衝鋒專注
+    skill_group_id: 101703
+    level: 2
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 588
+    start_cd_time: 180
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    is_form_action: 1
+    buff_id_self: 101:1,109:1,1000:1
+    description: 提升自身傷害48%和射速16%,持續3.2秒。
+    lvup_description: 冷卻時間:19.6秒,傷害提升:48%,射速提升:16%,持續時間:3.2秒
+    data_pool_1: "96"
+    data_pool_2: "148,116"
+    code: powBuffSelf
+    train_coin_type: 1
+    train_coin_number: 100
+    daynight_only: 1
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 10170303
+    name: 衝鋒專注
+    skill_group_id: 101703
+    level: 3
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 573
+    start_cd_time: 180
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    is_form_action: 1
+    buff_id_self: 101:1,109:1,1000:1
+    description: 提升自身傷害52%和射速17%,持續3.4秒。
+    lvup_description: 冷卻時間:19.1秒,傷害提升:52%,射速提升:17%,持續時間:3.4秒
+    data_pool_1: "102"
+    data_pool_2: "152,117"
+    code: powBuffSelf
+    train_coin_type: 1
+    train_coin_number: 200
+    daynight_only: 1
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 10170304
+    name: 衝鋒專注
+    skill_group_id: 101703
+    level: 4
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 561
+    start_cd_time: 180
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    is_form_action: 1
+    buff_id_self: 101:1,109:1,1000:1
+    description: 提升自身傷害55%和射速18%,持續3.7秒。
+    lvup_description: 冷卻時間:18.7秒,傷害提升:55%,射速提升:18%,持續時間:3.7秒
+    data_pool_1: "111"
+    data_pool_2: "155,118"
+    code: powBuffSelf
+    train_coin_type: 1
+    train_coin_number: 300
+    daynight_only: 1
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 10170305
+    name: 衝鋒專注
+    skill_group_id: 101703
+    level: 5
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 546
+    start_cd_time: 180
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    is_form_action: 1
+    buff_id_self: 101:1,109:1,1000:1
+    description: 提升自身傷害58%和射速19%,持續3.9秒。
+    lvup_description: 冷卻時間:18.2秒,傷害提升:58%,射速提升:19%,持續時間:3.9秒
+    data_pool_1: "117"
+    data_pool_2: "158,119"
+    code: powBuffSelf
+    train_coin_type: 2
+    train_coin_number: 120
+    daynight_only: 1
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 10170306
+    name: 衝鋒專注
+    skill_group_id: 101703
+    level: 6
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 534
+    start_cd_time: 180
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    is_form_action: 1
+    buff_id_self: 101:1,109:1,1000:1
+    description: 提升自身傷害62%和射速21%,持續4.1秒。
+    lvup_description: 冷卻時間:17.8秒,傷害提升:62%,射速提升:21%,持續時間:4.1秒
+    data_pool_1: "123"
+    data_pool_2: "162,121"
     code: powBuffSelf
     train_coin_type: 2
     train_coin_number: 200
@@ -20607,15 +20905,14 @@
     start_cd_time: 180
     trigger_type: 1
     trigger_target: 1
-    target_select_ai: 2
+    target_select_ai: 1
     action_id: 400
     is_form_action: 1
-    buff_id_target: 11021:1000010018,11022:1000010018,11023:1000010018,11024:1000010018,11025:1000010018,11026:1000010018,11027:1000010018,11028:1000010018
     buff_id_self: 101:1,109:1,1000:1
-    description: 提升自身傷害65%和射速22%,持續4.3秒。(裝備「VM護目鏡」後,技能期間額外提升我方全體全屬性5%。)
+    description: 提升自身傷害65%和射速22%,持續4.3秒。
     lvup_description: 冷卻時間:17.3秒,傷害提升:65%,射速提升:22%,持續時間:4.3秒
     data_pool_1: "129"
-    data_pool_2: "165,121"
+    data_pool_2: "165,122"
     code: powBuffSelf
     train_coin_type: 2
     train_coin_number: 300
@@ -20638,15 +20935,14 @@
     start_cd_time: 180
     trigger_type: 1
     trigger_target: 1
-    target_select_ai: 2
+    target_select_ai: 1
     action_id: 400
     is_form_action: 1
-    buff_id_target: 11021:1000010018,11022:1000010018,11023:1000010018,11024:1000010018,11025:1000010018,11026:1000010018,11027:1000010018,11028:1000010018
     buff_id_self: 101:1,109:1,1000:1
-    description: 提升自身傷害68%和射速23%,持續4.6秒。(裝備「VM護目鏡」後,技能期間額外提升我方全體全屬性5%。)
+    description: 提升自身傷害68%和射速23%,持續4.6秒。
     lvup_description: 冷卻時間:16.9秒,傷害提升:68%,射速提升:23%,持續時間:4.6秒
     data_pool_1: "138"
-    data_pool_2: "168,122"
+    data_pool_2: "168,123"
     code: powBuffSelf
     train_coin_type: 2
     train_coin_number: 400
@@ -20669,15 +20965,14 @@
     start_cd_time: 180
     trigger_type: 1
     trigger_target: 1
-    target_select_ai: 2
+    target_select_ai: 1
     action_id: 400
     is_form_action: 1
-    buff_id_target: 11021:1000010018,11022:1000010018,11023:1000010018,11024:1000010018,11025:1000010018,11026:1000010018,11027:1000010018,11028:1000010018
     buff_id_self: 101:1,109:1,1000:1
-    description: 提升自身傷害72%和射速24%,持續4.8秒。(裝備「VM護目鏡」後,技能期間額外提升我方全體全屬性5%。)
+    description: 提升自身傷害72%和射速24%,持續4.8秒。
     lvup_description: 冷卻時間:16.4秒,傷害提升:72%,射速提升:24%,持續時間:4.8秒
     data_pool_1: "144"
-    data_pool_2: "172,123"
+    data_pool_2: "172,124"
     code: powBuffSelf
     train_coin_type: 3
     train_coin_number: 200
@@ -20700,15 +20995,14 @@
     start_cd_time: 180
     trigger_type: 1
     trigger_target: 1
-    target_select_ai: 2
+    target_select_ai: 1
     action_id: 400
     is_form_action: 1
-    buff_id_target: 11021:1000010018,11022:1000010018,11023:1000010018,11024:1000010018,11025:1000010018,11026:1000010018,11027:1000010018,11028:1000010018
     buff_id_self: 101:1,109:1,1000:1
-    description: 提升自身傷害75%和射速25%,持續5秒。(裝備「VM護目鏡」後,技能期間額外提升我方全體全屬性5%。)
+    description: 提升自身傷害75%和射速25%,持續5秒。
     lvup_description: 冷卻時間:16秒,傷害提升:75%,射速提升:25%,持續時間:5秒
     data_pool_1: "150"
-    data_pool_2: "175,124"
+    data_pool_2: "175,125"
     code: powBuffSelf
     train_coin_type: 3
     train_coin_number: 300
