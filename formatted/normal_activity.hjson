@@ -705,4 +705,27 @@
     event_prize_level: 10015
     rank_id: "315"
   }
+  {
+    id: 62
+    campaign_id: -79
+    tag: CE.|2026
+    order: 105
+    name: 節日活動Ⅵ
+    chapter_name: 鐵雨禮讚
+    bg_code: active_202602
+    bg_config: "#000000C7,#3D415166,#FA3F9C,#FFFFFFFF"
+    desc: 活動時間:2026.02.13-03.06
+    scene_name: active_202602logo
+  }
+  {
+    id: 63
+    campaign_id: -40405
+    tag: CE.|2026
+    order: 105
+    name: 節日活動Ⅵ
+    chapter_name: 鐵雨禮讚
+    bg_code: missionselect_202602activity
+    event_prize_level: 10016
+    rank_id: "316"
+  }
 ]

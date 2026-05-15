@@ -450,4 +450,11 @@
     end_time: 2026-03-06 10:00:00
     init_mission_id: "11987"
   }
+  {
+    id: 68
+    type: 2
+    mission_campaign: "-40405"
+    event_name: 鐵雨禮讚
+    init_mission_id: "11988"
+  }
 ]
