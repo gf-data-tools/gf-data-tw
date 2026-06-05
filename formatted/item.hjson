@@ -17296,6 +17296,24 @@
     rank: 1
   }
   {
+    id: 2766
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M1919A4
+    item_name: M1919A4-鴨寶特攻
+    introduction: M1919A4-鴨寶特攻
+    rank: 1
+  }
+  {
+    id: 2767
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M1919A4
+    item_name: 名片：鴨倒性勝利
+    introduction: 名片：鴨倒性勝利
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -19240,6 +19258,15 @@
     code: gift_bundle_BattlePass_M1891
     item_name: 莫辛-納甘-霧冬旅人
     introduction: 紅茶的味道，總是能勾起我的很多回憶……不過最重要的部分，果然還是要從遇見您的那天開始呢。
+    rank: 1
+  }
+  {
+    id: 30040
+    type: 1
+    arg: "30040"
+    code: gift_bundle_BattlePass_M1919A4
+    item_name: M1919A4-鴨寶特攻
+    introduction: 快一點啦，指揮官！我們要把這排貨架上打折的零食，還有這些小黃鴨~通通都帶回家！
     rank: 1
   }
   {
@@ -24855,6 +24882,118 @@
     rank: 1
   }
   {
+    id: 140079
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第40期前線協議
+    rank: 1
+  }
+  {
+    id: 140080
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第40期前線協議進階
+    rank: 1
+  }
+  {
+    id: 140081
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第41期前線協議
+    rank: 1
+  }
+  {
+    id: 140082
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第41期前線協議進階
+    rank: 1
+  }
+  {
+    id: 140083
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第42期前線協議
+    rank: 1
+  }
+  {
+    id: 140084
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第42期前線協議進階
+    rank: 1
+  }
+  {
+    id: 140085
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第43期前線協議
+    rank: 1
+  }
+  {
+    id: 140086
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第43期前線協議進階
+    rank: 1
+  }
+  {
+    id: 140087
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第44期前線協議
+    rank: 1
+  }
+  {
+    id: 140088
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第44期前線協議進階
+    rank: 1
+  }
+  {
+    id: 140089
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第45期前線協議
+    rank: 1
+  }
+  {
+    id: 140090
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *第45期前線協議進階
+    rank: 1
+  }
+  {
+    id: 140091
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *常駐前線協議
+    rank: 1
+  }
+  {
+    id: 140092
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *常駐前線協議進階
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -25441,6 +25580,15 @@
     code: profileFrame_BattlePass_M1891
     item_name: 頭像框·浮光茶會
     introduction: 頭像框·浮光茶會
+    rank: 1
+  }
+  {
+    id: 200065
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M1919A4
+    item_name: 頭像框·全鴨出擊
+    introduction: 頭像框·全鴨出擊
     rank: 1
   }
   {
@@ -29650,6 +29798,292 @@
     code: package_random
     item_name: 前線協議-額外獎勵
     introduction: 來自於前線協議-白夜號列車，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500371
+    type: 15
+    arg: "1500371"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議-驚喜採購日！，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500372
+    type: 15
+    arg: "1500372"
+    code: package_choose
+    item_name: 配件類裝備自選包
+    introduction: 來自於前線協議-驚喜採購日！，可從該指定投遞配給序標內選擇獲取一件配件類裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500373
+    type: 15
+    arg: "1500373"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議-驚喜採購日！，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500374
+    type: 15
+    arg: "1500374"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議-驚喜採購日！，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500375
+    type: 15
+    arg: "1500375"
+    code: package_choose
+    item_name: 基礎裝備自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500376
+    type: 15
+    arg: "1500376"
+    code: package_choose
+    item_name: 進階裝備自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一件裝備
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500377
+    type: 15
+    arg: "1500377"
+    code: package_random
+    item_name: 必得未解鎖人形序標
+    introduction: 來自於前線協議，可必定獲得該序標內圖鑑未解鎖的人形，若所有人形都已解鎖，將隨機獲取其中之一
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500378
+    type: 15
+    arg: "1500378"
+    code: package_random
+    item_name: 前線協議-額外獎勵
+    introduction: 來自於前線協議，可從該區間空投序標內隨機獲取一項道具
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500379
+    type: 15
+    arg: "1500379"
+    code: package_choose
+    item_name: 前線協議裝扮自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一件裝扮
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500380
+    type: 15
+    arg: "1500380"
+    code: package_choose
+    item_name: 前線協議頭像框自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一個頭像框
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500381
+    type: 15
+    arg: "1500381"
+    code: package_choose
+    item_name: 前線協議名片自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一個名片
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500382
+    type: 15
+    arg: "1500382"
+    code: package_choose
+    item_name: 前線協議裝扮自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一件裝扮
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500383
+    type: 15
+    arg: "1500383"
+    code: package_choose
+    item_name: 前線協議頭像框自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一個頭像框
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500384
+    type: 15
+    arg: "1500384"
+    code: package_choose
+    item_name: 前線協議名片自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一個名片
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500385
+    type: 15
+    arg: "1500385"
+    code: package_choose
+    item_name: 前線協議裝扮自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一件裝扮
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500386
+    type: 15
+    arg: "1500386"
+    code: package_choose
+    item_name: 前線協議頭像框自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一個頭像框
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500387
+    type: 15
+    arg: "1500387"
+    code: package_choose
+    item_name: 前線協議名片自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一個名片
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500388
+    type: 15
+    arg: "1500388"
+    code: package_choose
+    item_name: 前線協議裝扮自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一件裝扮
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500389
+    type: 15
+    arg: "1500389"
+    code: package_choose
+    item_name: 前線協議頭像框自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一個頭像框
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500390
+    type: 15
+    arg: "1500390"
+    code: package_choose
+    item_name: 前線協議名片自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一個名片
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500391
+    type: 15
+    arg: "1500391"
+    code: package_choose
+    item_name: 前線協議裝扮自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一件裝扮
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500392
+    type: 15
+    arg: "1500392"
+    code: package_choose
+    item_name: 前線協議頭像框自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一個頭像框
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500393
+    type: 15
+    arg: "1500393"
+    code: package_choose
+    item_name: 前線協議名片自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一個名片
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500394
+    type: 15
+    arg: "1500394"
+    code: package_choose
+    item_name: 前線協議裝扮自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一件裝扮
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500395
+    type: 15
+    arg: "1500395"
+    code: package_choose
+    item_name: 前線協議頭像框自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一個頭像框
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500396
+    type: 15
+    arg: "1500396"
+    code: package_choose
+    item_name: 前線協議名片自選序標
+    introduction: 來自於前線協議，可從該指定投遞配給序標內選擇獲取一個名片
     rank: 1
     sort: -1
     type_sort: 1

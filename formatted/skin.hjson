@@ -10351,6 +10351,15 @@
     order: 168
   }
   {
+    id: 30040
+    name: M1919A4-鴨寶特攻
+    fit_gun: 80
+    voice: 4
+    dialog: 快一點啦，指揮官！我們要把這排貨架上打折的零食，還有這些小黃鴨~通通都帶回家！
+    illustrator_cv: 豆芽,吉田幸代,
+    order: 169
+  }
+  {
     id: 50001
     name: 漢陽造88式-致群星
     fit_gun: 95
