@@ -36378,6 +36378,12 @@
     icon: NPC_Kalina_213
   }
   {
+    id: 12514
+    name: 裝扮：格琳娜-鑽石與煙火
+    gift: 205-1
+    icon: NPC_Kalina_205
+  }
+  {
     id: 12601
     name: 會唱歌的艾瑪
     furniture: "2072"
